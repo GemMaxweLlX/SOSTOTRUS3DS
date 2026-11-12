@@ -1,0 +1,96 @@
+{
+ "file": "PartTimeJob_Hint",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_PASS_001",
+   "key": "9c778bb0",
+   "ru": "Письмо для доставки можно забрать в часы\nработы лавки."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_PASS_002",
+   "key": "234ab7e3",
+   "ru": "Посылку для доставки можно забрать в часы\nработы лавки."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_PASS_003",
+   "key": "03b9ed21",
+   "ru": "Письмо у тебя. Отнеси его адресату: <BLUE><MOJI0></BLUE>."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_PASS_004",
+   "key": "a2775307",
+   "ru": "Посылка у тебя. Отнеси её адресату: <BLUE><MOJI0></BLUE>."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_CLEAR",
+   "key": "7cb34aca",
+   "ru": "Доставка выполнена! Осталось дождаться\nоплаты."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_FAILURE_001",
+   "key": "86ca4859",
+   "ru": "Груз не забран вовремя. Стоит поговорить с\nзаказчиком."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_FAILURE_002",
+   "key": "0fb334f6",
+   "ru": "Доставка не успела вовремя. Стоит\nпоговорить с заказчиком."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_DELIVERY_001",
+   "key": "76dab594",
+   "ru": "Положи нужные предметы в ящик для\nотгрузки до сегодняшнего сбора, куда бы\n<BLUE>сегодня ни шла отгрузка</BLUE>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_DELIVERY_002",
+   "key": "d5bc6fbb",
+   "ru": "Отгрузка выполнена! Осталось дождаться\nоплаты."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_DELIVERY_003",
+   "key": "93bfdd1b",
+   "ru": "Время сбора отгрузки упущено. Стоит\nсходить к заказчику."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_CONTENT_MODE",
+   "key": "5a635fc2",
+   "ru": "Взятая работа <BLUE>начнётся сразу</BLUE>. Задание:\n<MOJI0>."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_COLLABORATION_MAKI",
+   "key": "d6d16ac9",
+   "ru": "Взятая работа <BLUE>начнётся сразу</BLUE>. Пора колоть\nдрова!\n<RED>Доступна особая награда!</RED>"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_HINT_COLLABORATION_ITEM",
+   "key": "052a0af1",
+   "ru": "Взятая работа <BLUE>начнётся сразу</BLUE>. Пора искать\nпотерянные вещи!\n<RED>Доступна особая награда!</RED>"
+  }
+ ]
+}

@@ -1,0 +1,2042 @@
+{
+ "file": "Panelinfo",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_DAMMY",
+   "key": "3f46e216",
+   "ru": "Данные панелей"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farmland",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_SoftFarmland",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_PaddyField",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_BeekeepingBox",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Fungus",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Pet_area1",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Pet_area2",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Pet_area3",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_1",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_2",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_3",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_4",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_5",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_6",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_7",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_8",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_9",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_10",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_11",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_12",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_13",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_14",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_15",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_16",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_17",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_18",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_19",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Farm_parts_20",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_parts_1",
+   "key": "ff8ddf64",
+   "ru": "Размер: 1x1\nЭффект: сладость/аромат урожая\nРадиус: 1 кл."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_parts_2",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_parts_3",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_parts_4",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_parts_5",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_parts_6",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_parts_7",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_parts_8",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_parts_9",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_parts_10",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_planter_1",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_planter_2",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_planter_3",
+   "key": "6fbbf86a",
+   "ru": "Размер: 1x1\nЭффект: цвет урожая\nРадиус: 1 кл."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_planter_4",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_planter_5",
+   "key": "3506e356",
+   "ru": "Размер: 1x1\nЭффект: больше мёда\nРадиус: 1 кл."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_planter_6",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_planter_7",
+   "key": "97985cc3",
+   "ru": "Размер: 1x1\nЭффект: качество мёда\nРадиус: 2 кл."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_planter_8",
+   "key": "03629ed1",
+   "ru": "Размер: 1x1\nЭффект: качество грибов\nРадиус: 2 кл."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_planter_9",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_planter_10",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_event_1",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_event_2",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_event_3",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_event_4",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_AnnSet_1",
+   "key": "689f1e3a",
+   "ru": "Размер: 1x1\nЭффект: жёлтый жемчуг\nРадиус: 1 кл."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_AnnSet_2",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_AnnSet_3",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_AnnSet_4",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_AnnSet_5",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_1",
+   "key": "1bb9a2da",
+   "ru": "Размер: 1x1\nЭффект: сладость/аромат урожая\nРадиус: 4 кл."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_2",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_3",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_4",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_5",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_6",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_7",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_8",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_9",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_10",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_11",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_12",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_13",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_14",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_15",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_16",
+   "key": "8bcf648f",
+   "ru": "Размер: 1x1\nЭффект: вода уходит медленнее\nРадиус: 1 кл."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_17",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_18",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_19",
+   "key": "b46888c0",
+   "ru": "Размер: 1x1\nЭффект: выпас короче\nРадиус: 1 кл."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_single_20",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_1",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_2",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_3",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_4",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_5",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_6",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_7",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_8",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_9",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_10",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_11",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_other_12",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_parts_1",
+   "key": "a6897a20",
+   "ru": "Размер: 1x1\nЭффект: больше урожая\nРадиус: 2 кл."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_parts_2",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_parts_3",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_parts_4",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_parts_5",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_parts_6",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_parts_7",
+   "key": "4874b658",
+   "ru": "Размер: 1x1\nЭффект: вода уходит медленнее\nРадиус: 3 кл."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_parts_8",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_parts_9",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_parts_10",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_planter_1",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_planter_2",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_planter_3",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_planter_4",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_planter_5",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_planter_6",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_planter_7",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_planter_8",
+   "key": "85e1c911",
+   "ru": "Размер: 1x1\nЭффект: привязанность скота\nРадиус: 1 кл."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_planter_9",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_planter_10",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_event_1",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_event_2",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_event_3",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_event_4",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_ageset_1",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_ageset_2",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_ageset_3",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_ageset_4",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_ageset_5",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_1",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_2",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_3",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_4",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_5",
+   "key": "358995fc",
+   "ru": "Размер: 1x1\nЭффект: размер урожая\nРадиус: 1 кл."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_6",
+   "key": "faedf67b",
+   "ru": "Размер: 1x1\nЭффект: меньше стресса скота\nРадиус: 1 кл."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_7",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_8",
+   "key": "3a504698",
+   "ru": "Размер: 1x1\nЭффект: качество рыбы\nРадиус: 1 кл."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_9",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_10",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_11",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_12",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_13",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_14",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_15",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_16",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_17",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_18",
+   "key": "8e7556c1",
+   "ru": "Размер: 1x1\nЭффект: красный жемчуг\nРадиус: 1 кл."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_19",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_single_20",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_1",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_2",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_3",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_4",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_5",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_6",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_7",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_8",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_9",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_10",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_11",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_12",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_other_13",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_parts_1",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_parts_2",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_parts_3",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_parts_4",
+   "key": "45d64e24",
+   "ru": "Размер: 1x1\nЭффект: полив считается дважды\nРадиус: 1 кл."
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_parts_5",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_parts_6",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_parts_7",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_parts_8",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_parts_9",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_parts_10",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_planter_1",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_planter_2",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_planter_3",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_planter_4",
+   "key": "d8827ac2",
+   "ru": "Размер: 1x1\nЭффект: синий жемчуг\nРадиус: 1 кл."
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_planter_5",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_planter_6",
+   "key": "5599aa34",
+   "ru": "Размер: 1x1\nЭффект: качество грибов\nРадиус: 1 кл."
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_planter_7",
+   "key": "cb603cbd",
+   "ru": "Размер: 1x1\nЭффект: качество мёда\nРадиус: 1 кл."
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_planter_8",
+   "key": "578dacd5",
+   "ru": "Размер: 1x1\nЭффект: зелёный жемчуг\nРадиус: 1 кл."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_planter_9",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_planter_10",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_sea_set_1",
+   "key": "09bed512",
+   "ru": "Размер: 1x1\nЭффект: полив считается дважды\nРадиус: 3 кл."
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_sea_set_2",
+   "key": "5134b78e",
+   "ru": "Размер: 1x1\nЭффект: сочность урожая\nРадиус: 4 кл."
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_sea_set_3",
+   "key": "dc6db8fe",
+   "ru": "Размер: 1x1\nЭффект: качество рыбы\nРадиус: 2 кл."
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_sea_set_4",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_sea_set_5",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_pirate_set_1",
+   "key": "ad3dca00",
+   "ru": "Размер: 1x1\nЭффект: сочность урожая\nРадиус: 1 кл."
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_pirate_set_2",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_pirate_set_3",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_pirate_set_4",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_pirate_set_5",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_fruit_set_1",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_fruit_set_2",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_fruit_set_3",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_fruit_set_4",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_fruit_set_5",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_1",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_2",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_3",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_4",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_5",
+   "key": "3f05183b",
+   "ru": "Размер: 1x1\nЭффект: больше продуктов\nРадиус: 1 кл."
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_6",
+   "key": "ef44e58f",
+   "ru": "Размер: 1x1\nЭффект: рост уровня продуктов\nРадиус: 1 кл."
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_7",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_8",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_9",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_10",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_11",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_12",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_13",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_14",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_15",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_16",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_17",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_18",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_19",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_single_20",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_1",
+   "key": "75aaa6ce",
+   "ru": "Размер: 1x1\nЭффект: золотой жемчуг\nРадиус: 1 кл."
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_2",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_3",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_4",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_5",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_6",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_7",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_8",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_9",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_10",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_11",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_12",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_other_13",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_1",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_2",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_3",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_4",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_5",
+   "key": "913c3c6c",
+   "ru": "Эффекта для круга фермы нет."
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_6",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_7",
+   "key": "fc91b9fa",
+   "ru": "Размер: 1x1\nЭффект: цвет урожая\nРадиус: 4 кл."
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_8",
+   "key": "f2d5a2cf",
+   "ru": "Размер: 1x1\nЭффект: меньше стресса скота\nРадиус: 3 кл."
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_9",
+   "key": "48103dd9",
+   "ru": "Размер: 1x1\nЭффект: рост уровня продуктов\nРадиус: 3 кл."
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_10",
+   "key": "5fcd26b6",
+   "ru": "Размер: 1x1\nЭффект: привязанность скота\nРадиус: 3 кл."
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_11",
+   "key": "e4a284ca",
+   "ru": "Размер: 1x1\nЭффект: привязанность питомцев\nРадиус: 1 кл."
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_12",
+   "key": "b31e3e6a",
+   "ru": "Размер: 1x1\nЭффект: питомцы растут быстрее\nРадиус: 1 кл."
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_13",
+   "key": "ae284db5",
+   "ru": "Размер: 1x1\nЭффект: выпас короче\nРадиус: 3 кл."
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_14",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_15",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_16",
+   "key": "d867ee96",
+   "ru": "Размер: 1x1\nЭффект: больше грибов\nРадиус: 1 кл."
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_17",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_18",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_19",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_20",
+   "key": "e5a7bde6",
+   "ru": "Размер: 1x1\nЭффект: размер урожая\nРадиус: 4 кл."
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_21",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_22",
+   "key": "cd3fbcfa",
+   "ru": "Размер: 1x1\nЭффект: жемчуг\nРадиус: 1 кл."
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_23",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_24",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_25",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_26",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_27",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_28",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_29",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_30",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_31",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_32",
+   "key": "1f7dee49",
+   "ru": "Размер: 1x1\nЭффект: мастерские быстрее\nРадиус: 3 кл."
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Neta_33",
+   "key": "5953f674",
+   "ru": "Размер: 1x1\nЭффект: качество мастерских\nРадиус: 3 кл."
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_FishPreserve_Plain",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_FertilizerWaterTank_Plain",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_DomesticHut",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_DomesticHut_America",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_DomesticHut_Japan",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_DomesticHut_South",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_DomesticHutBig",
+   "key": "47eb0539",
+   "ru": "Размер: 3x3"
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_DomesticHutBig_America",
+   "key": "47eb0539",
+   "ru": "Размер: 3x3"
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_DomesticHutBig_Japan",
+   "key": "47eb0539",
+   "ru": "Размер: 3x3"
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_DomesticHutBig_South",
+   "key": "47eb0539",
+   "ru": "Размер: 3x3"
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_ChickenHut",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_ChickenHut_America",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_ChickenHut_Japan",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_ChickenHut_South",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_ChickenHutBig",
+   "key": "47eb0539",
+   "ru": "Размер: 3x3"
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_ChickenHutBig_America",
+   "key": "47eb0539",
+   "ru": "Размер: 3x3"
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_ChickenHutBig_Japan",
+   "key": "47eb0539",
+   "ru": "Размер: 3x3"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_ChickenHutBig_South",
+   "key": "47eb0539",
+   "ru": "Размер: 3x3"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_PetHut",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_MillingMachine",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_ClothMaker",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_SeedMaker",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_SeasoningPotMaker",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_SeasoningTsuboMaker",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_MilkMaker",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_WineMaker",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_FertilizerMaker",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_FodderMaker",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_ToolBox",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_ToolBox",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_ToolBox",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_America_Box",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_Japan_Box",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MSG_PANEL_INFO_South_Box",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "PANEL_INFO_1x1",
+   "key": "aa61b07b",
+   "ru": "Размер: 1x1"
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "PANEL_INFO_1x2",
+   "key": "3368e1c1",
+   "ru": "Размер: 1x2"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "PANEL_INFO_2x2",
+   "key": "312e5f98",
+   "ru": "Размер: 2x2"
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "PANEL_INFO_3x3",
+   "key": "47eb0539",
+   "ru": "Размер: 3x3"
+  }
+ ]
+}

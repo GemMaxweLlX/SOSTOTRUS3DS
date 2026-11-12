@@ -2,6 +2,909 @@
  "file": "TownCommunication_Content",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_1",
+   "key": "4ee802d9",
+   "ru": "Отгрузите урожай!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_2",
+   "key": "9234ec55",
+   "ru": "Выполните подработки!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_3",
+   "key": "c11160b4",
+   "ru": "Отгрузите ещё урожая!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_4",
+   "key": "b3d6f467",
+   "ru": "Выполните ещё подработок!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_5",
+   "key": "4e94a908",
+   "ru": "Обновите мост!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_6",
+   "key": "be51509e",
+   "ru": "Отгрузите рыбу!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_7",
+   "key": "c9f8c4be",
+   "ru": "Отгрузите товары на сумму..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_8",
+   "key": "faa28239",
+   "ru": "Постройте колокольню!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_9",
+   "key": "a43c5d91",
+   "ru": "Новое блюдо в меню!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_10",
+   "key": "d53ecf17",
+   "ru": "Отгрузите продукты животных!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_11",
+   "key": "1be60bd7",
+   "ru": "Отгрузите молочное и вино!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_12",
+   "key": "50222460",
+   "ru": "Почистите символ города!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_13",
+   "key": "1553f072",
+   "ru": "Совместно с цветочной лавкой!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_14",
+   "key": "9940f11f",
+   "ru": "Подружитесь с Уэстауном!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_15",
+   "key": "1be6918c",
+   "ru": "Отгрузите товаров на 1 000 000G!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_16",
+   "key": "06a47ebd",
+   "ru": "Постройте статую!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_17",
+   "key": "667d4830",
+   "ru": "Ещё одно блюдо в меню!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_18",
+   "key": "ab379d4b",
+   "ru": "Отгрузите яйца!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_19",
+   "key": "9234ec55",
+   "ru": "Выполните подработки!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_20",
+   "key": "f5d6d601",
+   "ru": "Отгрузите молоко!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_21",
+   "key": "b3d6f467",
+   "ru": "Выполните ещё подработок!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_22",
+   "key": "7a3150db",
+   "ru": "Почините мост!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_23",
+   "key": "aca1fe0e",
+   "ru": "Отгрузите плоды деревьев!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_24",
+   "key": "c9f8c4be",
+   "ru": "Отгрузите товары на сумму..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_25",
+   "key": "dbc0e9eb",
+   "ru": "Возродите купальню!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_26",
+   "key": "a43c5d91",
+   "ru": "Новое блюдо в меню!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_27",
+   "key": "6ae10063",
+   "ru": "Вырастите овощи Цуюкусы!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_28",
+   "key": "bd82968b",
+   "ru": "Вырастите цветы Цуюкусы!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_29",
+   "key": "a07ab86d",
+   "ru": "Обновите парк!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_30",
+   "key": "78272007",
+   "ru": "Новое украшение!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_31",
+   "key": "0a9e9492",
+   "ru": "Подружитесь с Цуюкусой!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_32",
+   "key": "1be6918c",
+   "ru": "Отгрузите товаров на 1 000 000G!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_33",
+   "key": "4fd26dd8",
+   "ru": "Приберитесь в храме Инари!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_34",
+   "key": "df45aea3",
+   "ru": "Новые ванны!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_35",
+   "key": "f5d6d601",
+   "ru": "Отгрузите молоко!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_36",
+   "key": "9234ec55",
+   "ru": "Выполните подработки!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_37",
+   "key": "2bc9b18d",
+   "ru": "Отгрузите руду!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_38",
+   "key": "b3d6f467",
+   "ru": "Выполните ещё подработок!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_39",
+   "key": "a601d46c",
+   "ru": "Приберитесь на общей кухне!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_40",
+   "key": "d0c2842a",
+   "ru": "Отгрузите молочные продукты!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_41",
+   "key": "c9f8c4be",
+   "ru": "Отгрузите товары на сумму..."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_42",
+   "key": "d52331a6",
+   "ru": "Оживите костёр!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_43",
+   "key": "e25f9182",
+   "ru": "Новый товар в лавке!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_44",
+   "key": "1b6d037c",
+   "ru": "Вырастите цветы Лулукоко!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_45",
+   "key": "5dfdacd1",
+   "ru": "Вырастите плоды Лулукоко!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_46",
+   "key": "8ce3e78c",
+   "ru": "Приведите в порядок гостиницу!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_47",
+   "key": "5f91ded9",
+   "ru": "Новые наряды!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_48",
+   "key": "13021902",
+   "ru": "Подружитесь с Лулукоко!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_49",
+   "key": "1be6918c",
+   "ru": "Отгрузите товаров на 1 000 000G!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_50",
+   "key": "becbef6b",
+   "ru": "Постройте новый причал!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_51",
+   "key": "a43c5d91",
+   "ru": "Новое блюдо в меню!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_1",
+   "key": "be6e5a8d",
+   "ru": "Отгрузите в Уэстаун <BLUE>10 единиц урожая</BLUE> со своих\nполей. (Подойдёт любой.)"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_2",
+   "key": "237e870a",
+   "ru": "Выполните <BLUE>три подработки</BLUE> в Уэстауне."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_3",
+   "key": "e6c1e2f8",
+   "ru": "Отгрузите в Уэстаун <BLUE>30 единиц урожая</BLUE> со своих\nполей. (Подойдёт любой.)"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_4",
+   "key": "ff85a9ca",
+   "ru": "Выполните <BLUE>пять подработок</BLUE> в Уэстауне."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_5",
+   "key": "ad63af47",
+   "ru": "<BLUE>Соберите материалы</BLUE> для обновления моста на\nюге Уэстауна."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_6",
+   "key": "bb033aa3",
+   "ru": "Отгрузите в Уэстаун <BLUE>50 рыб</BLUE>."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_7",
+   "key": "d392cdbf",
+   "ru": "Отгрузите в Уэстаун товаров на сумму больше\n<BLUE>определённой</BLUE>."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_8",
+   "key": "0f32673f",
+   "ru": "Вместе с жителями Уэстауна достройте\nнедостроенную колокольню."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_9",
+   "key": "6a2750b9",
+   "ru": "Вместе с рестораном придумайте новое блюдо\nдля меню."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_10",
+   "key": "851a9532",
+   "ru": "Отгрузите не менее <BLUE>500 продуктов</BLUE> от своих\nживотных. (Подойдут любые.)"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_11",
+   "key": "712c6b11",
+   "ru": "Отгрузите не менее <BLUE>100 изделий</BLUE> из <BLUE>молочного\nцеха</BLUE> и <BLUE>винодельни</BLUE>."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_12",
+   "key": "25c14da1",
+   "ru": "Вместе с жителями Уэстауна почистите и\nотполируйте бронзовую статую в городе."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_13",
+   "key": "bf1eb1a8",
+   "ru": "Вместе с цветочной лавкой создайте новый\nаромат."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_14",
+   "key": "ccf9a7bd",
+   "ru": "Укрепите дружбу с жителями Уэстауна."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_15",
+   "key": "22b0d74e",
+   "ru": "Отгрузите в Уэстаун товаров не менее чем на <BLUE>1\n000 000G</BLUE>."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_16",
+   "key": "c78e200a",
+   "ru": "Вместе с жителями Уэстауна постройте статую в\nчесть Десси."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_17",
+   "key": "49d56310",
+   "ru": "Вместе с рестораном придумайте ещё одно новое\nблюдо."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_18",
+   "key": "03bf0eea",
+   "ru": "Отгрузите в Цуюкусу <BLUE>10 яиц</BLUE> от своих птиц.\n(Подойдут любые.)"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_19",
+   "key": "5bb4a2b5",
+   "ru": "Выполните <BLUE>три подработки</BLUE> в Цуюкусе.<BLUE>"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_20",
+   "key": "d13016cd",
+   "ru": "Отгрузите в Цуюкусу <BLUE>30 бутылок молока</BLUE> от\nсвоих животных. (Подойдёт любое.)"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_21",
+   "key": "08824067",
+   "ru": "Выполните <BLUE>пять подработок</BLUE> в Цуюкусе."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_22",
+   "key": "556f5f6c",
+   "ru": "Вместе с жителями Цуюкусы почините мост на\nполях к югу от города."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_23",
+   "key": "8782839d",
+   "ru": "Отгрузите в Цуюкусу <BLUE>20 плодов</BLUE> с деревьев.\n(Подойдут любые.)"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_24",
+   "key": "10154482",
+   "ru": "Отгрузите в Цуюкусу товаров на сумму больше\n<BLUE>определённой</BLUE>."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_25",
+   "key": "d68f7524",
+   "ru": "Помогите жителям Цуюкусы снова открыть\nкупальню."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_26",
+   "key": "fea4d47f",
+   "ru": "Вместе с чайной придумайте новое блюдо для\nменю."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_27",
+   "key": "6cb1c2a0",
+   "ru": "Соберите не менее <BLUE>60 овощей, родных для\nЦуюкусы</BLUE>."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_28",
+   "key": "48adc17f",
+   "ru": "Соберите не менее <BLUE>50 цветов, родных для\nЦуюкусы</BLUE>."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_29",
+   "key": "0d88e958",
+   "ru": "Вместе с жителями Цуюкусы обновите городской\nпарк."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_30",
+   "key": "80f4023e",
+   "ru": "Вместе с ювелиром создайте новое украшение\nдля волос."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_31",
+   "key": "a4d50802",
+   "ru": "Укрепите дружбу с жителями Цуюкусы."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_32",
+   "key": "e0d09c26",
+   "ru": "Отгрузите в Цуюкусу товаров не менее чем на <BLUE>1\n000 000G</BLUE>."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_33",
+   "key": "af833692",
+   "ru": "Вместе с жителями Цуюкусы приберитесь в\nхраме Инари."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_34",
+   "key": "948a8667",
+   "ru": "Вместе с купальней придумайте новые виды ванн."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_35",
+   "key": "ae849c60",
+   "ru": "Отгрузите в Лулукоко <BLUE>10 бутылок молока</BLUE> от\nсвоих животных. (Подойдёт любое.)"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_36",
+   "key": "6942c2c1",
+   "ru": "Выполните <BLUE>три подработки</BLUE> в Лулукоко."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_37",
+   "key": "7097c8f8",
+   "ru": "Отгрузите в Лулукоко <BLUE>30 кусков руды</BLUE>."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_38",
+   "key": "f2fafb5f",
+   "ru": "Выполните <BLUE>пять подработок</BLUE> в Лулукоко."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_39",
+   "key": "a6b740ee",
+   "ru": "Помогите жителям Лулукоко прибраться на\nобщей кухне на севере города."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_40",
+   "key": "e7baa9d0",
+   "ru": "Отгрузите в Лулукоко не менее <BLUE>10 изделий</BLUE> из\n<BLUE>молочного цеха</BLUE>."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_41",
+   "key": "d2b96988",
+   "ru": "Отгрузите в Лулукоко товаров на сумму больше\n<BLUE>определённой</BLUE>."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_42",
+   "key": "8a219d73",
+   "ru": "Вместе с жителями Лулукоко обустройте костёр\nна севере города."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_43",
+   "key": "ff3a102a",
+   "ru": "Вместе с продуктовой лавкой создайте новый\nтовар."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_44",
+   "key": "a06acf98",
+   "ru": "Соберите не менее <BLUE>50 цветов, родных для\nЛулукоко</BLUE>."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_45",
+   "key": "0d753612",
+   "ru": "Соберите не менее <BLUE>50 плодов деревьев, родных\nдля Лулукоко</BLUE>."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_46",
+   "key": "cdc75543",
+   "ru": "Помогите жителям Лулукоко прибраться и\nукрасить всё вокруг гостиницы."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_47",
+   "key": "e6ca85dc",
+   "ru": "Вместе с Лудусом создайте новые наряды."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_48",
+   "key": "b9933327",
+   "ru": "Укрепите дружбу с жителями Лулукоко."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_49",
+   "key": "18f28918",
+   "ru": "Отгрузите в Лулукоко товаров не менее чем на <BLUE>1\n000 000G</BLUE>."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_50",
+   "key": "9f7de981",
+   "ru": "Вместе с жителями Лулукоко постройте новый\nпричал у южного пляжа."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_CONTENT_51",
+   "key": "34daafc0",
+   "ru": "Вместе с кафе у моря придумайте новое блюдо\nдля меню."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_1",
+   "key": "a07d12a2",
+   "ru": "Поговорите с <BLUE>Меган</BLUE> в Уэстауне."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_2",
+   "key": "8309f413",
+   "ru": "Поговорите с <BLUE>Брэдом</BLUE> в Уэстауне."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_3",
+   "key": "69366f8b",
+   "ru": "Поговорите с <BLUE>Лизеттой</BLUE> в Уэстауне."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_4",
+   "key": "c3fc348b",
+   "ru": "Поговорите с <BLUE>Марко</BLUE> в Уэстауне."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_5",
+   "key": "73a32c49",
+   "ru": "Поговорите с <BLUE>Гиндзиро</BLUE> в Цуюкусе."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_6",
+   "key": "7663a173",
+   "ru": "Поговорите с <BLUE>Комари</BLUE> в Цуюкусе."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_7",
+   "key": "05ac1415",
+   "ru": "Поговорите с <BLUE>Юдзуки</BLUE> в Цуюкусе."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_8",
+   "key": "624c35a7",
+   "ru": "Поговорите с <BLUE>Касуми</BLUE> в Цуюкусе."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_9",
+   "key": "b1837497",
+   "ru": "Поговорите с <BLUE>Тототарой</BLUE> в Лулукоко."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_10",
+   "key": "f2e9c543",
+   "ru": "Поговорите с <BLUE>Каолилой</BLUE> в Лулукоко."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_11",
+   "key": "0baa797e",
+   "ru": "Поговорите с <BLUE>Лудусом</BLUE> в Лулукоко."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_12",
+   "key": "2ebbcce7",
+   "ru": "Поговорите с <BLUE>Илукой</BLUE> в Лулукоко."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_13",
+   "key": "7e53db4d",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Меган</BLUE>."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_14",
+   "key": "f5392005",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Брэдом</BLUE>."
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_15",
+   "key": "5ec07e35",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Лизеттой</BLUE>."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_16",
+   "key": "b17a4cc5",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Марко</BLUE>."
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_17",
+   "key": "fcd9f20b",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Гиндзиро</BLUE>."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_18",
+   "key": "26ea610b",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Комари</BLUE>."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_19",
+   "key": "927a402e",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Юдзуки</BLUE>."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_20",
+   "key": "f1af3e75",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Касуми</BLUE>."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_21",
+   "key": "247b46f2",
+   "ru": "Когда всё будет готово, поговорите с\n<BLUE>Тототарой</BLUE>."
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_22",
+   "key": "86f29ff2",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Каолилой</BLUE>."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_23",
+   "key": "45f50d81",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Лудусом</BLUE>."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_24",
+   "key": "1d42a958",
+   "ru": "Когда всё будет готово, поговорите с <BLUE>Илукой</BLUE>."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_SHIPMENT",
+   "key": "6f45a7aa",
+   "ru": "<BLUE>Отгрузите</BLUE> нужные предметы."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_PARTTIMEJOB",
+   "key": "4af49c65",
+   "ru": "Возьмите и выполните <BLUE>подработки</BLUE>."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_CLEAR",
+   "key": "bebf6bd2",
+   "ru": "Выполнено!"
+  },
+  {
    "n": 129,
    "f": 2,
    "id": "MES_TOWNCOMMUNICATION_CONTENT_TITLE_NONE",
@@ -21,6 +924,41 @@
    "id": "MES_TOWNCOMMUNICATION_CONTENT_CONDITION_NONE",
    "key": "3ece7cbe",
    "ru": "???"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_PEOPLE",
+   "key": "5d83e66f",
+   "ru": "Укрепите дружбу с местными жителями."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_SHIPMENT_A",
+   "key": "68628f17",
+   "ru": "Отгружайте товары в <BLUE>Уэстаун</BLUE>."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_SHIPMENT_J",
+   "key": "1cfca8a2",
+   "ru": "Отгружайте товары в <BLUE>Цуюкусу</BLUE>."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_SHIPMENT_S",
+   "key": "2f543b6e",
+   "ru": "Отгружайте товары в <BLUE>Лулукоко</BLUE>."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_CONTENT_HINT_HARVEST",
+   "key": "49201f89",
+   "ru": "Вырастите и <BLUE>соберите</BLUE> указанный урожай."
   }
  ]
 }

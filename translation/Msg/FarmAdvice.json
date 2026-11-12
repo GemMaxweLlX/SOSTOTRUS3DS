@@ -7,6 +7,13 @@
    "id": "MES_FARMADVICE_CONDITIONS_CROP",
    "key": "bdff68fe",
    "ru": "Урожай"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_FARMADVICE_CONDITIONS_MONEY",
+   "key": "761eb664",
+   "ru": "Сумма отгрузок"
   }
  ]
 }

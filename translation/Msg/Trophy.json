@@ -1,0 +1,4583 @@
+{
+ "file": "Trophy",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_TROPHY_GET",
+   "key": "834b0c31",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_UNKNOWN",
+   "key": "8c949511",
+   "ru": "?????"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_START",
+   "key": "731e1883",
+   "ru": "Сельская жизнь"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MARRIAGE",
+   "key": "e023e559",
+   "ru": "Свадебные колокола"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CHILD",
+   "key": "79f0e60e",
+   "ru": "Свидетельство о рождении"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_2YEARS",
+   "key": "1f71192f",
+   "ru": "Год на ферме"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_3YEARS",
+   "key": "a7dfe4e0",
+   "ru": "Два года на ферме"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_5YEARS",
+   "key": "6959c9d4",
+   "ru": "Ферма ― мой дом"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_AMERICA_POPULAR",
+   "key": "531d36b6",
+   "ru": "Друг Уэстауна"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JAPAN_POPULAR",
+   "key": "7ea0afa6",
+   "ru": "Друг Цуюкусы"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SOUTH_POPULAR",
+   "key": "4491215c",
+   "ru": "Друг Лулукоко"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_AMERICA_IDOL",
+   "key": "a50f39e3",
+   "ru": "Кумир Уэстауна"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JAPAN_IDOL",
+   "key": "f7825b7f",
+   "ru": "Кумир Цуюкусы"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SOUTH_IDOL",
+   "key": "d39b03d1",
+   "ru": "Кумир Лулукоко"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LOVE_MAX",
+   "key": "447bf5f5",
+   "ru": "Завидная партия"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FRIEND_MAX",
+   "key": "9b2983a8",
+   "ru": "Всеобщий любимец"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GREETING_BEGINNER",
+   "key": "28b316f5",
+   "ru": "Вежливость: новичок"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GREETING_EXPERT",
+   "key": "23db343a",
+   "ru": "Вежливость: ветеран"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GREETING_MASTER",
+   "key": "964a9ebd",
+   "ru": "Вежливость: мастер"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GREETING_LEGEND",
+   "key": "e52cda67",
+   "ru": "Вежливость: легенда"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GODDESS",
+   "key": "a29180be",
+   "ru": "Опора Десси"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_INARI",
+   "key": "0a4873be",
+   "ru": "Почитатель Инари"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WITCH",
+   "key": "6722d9da",
+   "ru": "Прислужник Ведьмочки"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_TROPHY_BEGINNER",
+   "key": "70fbf5c1",
+   "ru": "Собиратель наград"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_TROPHY_EXPERT",
+   "key": "f46b5a2d",
+   "ru": "Хранитель наград"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_TROPHY_MASTER",
+   "key": "3b2d74b0",
+   "ru": "Мастер наград"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_A_E",
+   "key": "e5236287",
+   "ru": "Уэстаун: лента ранга E"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_A_D",
+   "key": "29896219",
+   "ru": "Уэстаун: лента ранга D"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_A_C",
+   "key": "234c6b00",
+   "ru": "Уэстаун: лента ранга C"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_A_B",
+   "key": "efe66b9e",
+   "ru": "Уэстаун: лента ранга B"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_A_A",
+   "key": "61696c7d",
+   "ru": "Уэстаун: лента ранга A"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_A_S",
+   "key": "5ff75a2b",
+   "ru": "Уэстаун: лента ранга S"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_J_E",
+   "key": "a0056394",
+   "ru": "Цуюкуса: лента ранга E"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_J_D",
+   "key": "6caf630a",
+   "ru": "Цуюкуса: лента ранга D"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_J_C",
+   "key": "666a6a13",
+   "ru": "Цуюкуса: лента ранга C"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_J_B",
+   "key": "aac06a8d",
+   "ru": "Цуюкуса: лента ранга B"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_J_A",
+   "key": "244f6d6e",
+   "ru": "Цуюкуса: лента ранга A"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_J_S",
+   "key": "1ad15b38",
+   "ru": "Цуюкуса: лента ранга S"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_S_E",
+   "key": "15ec8ca7",
+   "ru": "Лулукоко: лента ранга E"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_S_D",
+   "key": "d9468c39",
+   "ru": "Лулукоко: лента ранга D"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_S_C",
+   "key": "d3838520",
+   "ru": "Лулукоко: лента ранга C"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_S_B",
+   "key": "1f2985be",
+   "ru": "Лулукоко: лента ранга B"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_S_A",
+   "key": "91a6825d",
+   "ru": "Лулукоко: лента ранга A"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RANK_S_S",
+   "key": "af38b40b",
+   "ru": "Лулукоко: лента ранга S"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CONTEST_BEGINNER",
+   "key": "ad5d8a06",
+   "ru": "Участник: новичок"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CONTEST_EXPERT",
+   "key": "d375f43a",
+   "ru": "Участник: ветеран"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CONTEST_MASTER",
+   "key": "e4ef0e3b",
+   "ru": "Участник: мастер"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CONTEST_LEGEND",
+   "key": "5435f0c2",
+   "ru": "Участник: легенда"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CONTEST_WIN_BEGINNER",
+   "key": "dc5d2a39",
+   "ru": "Первая синяя лента"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CONTEST_WIN_EXPERT",
+   "key": "908f22d3",
+   "ru": "Фаворит"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CONTEST_WIN_MASTER",
+   "key": "3ef4768a",
+   "ru": "Привычка побеждать"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CONTEST_WIN_LEGEND",
+   "key": "3e2abd71",
+   "ru": "Легендарный чемпион"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CROP_AMERICA",
+   "key": "42420f44",
+   "ru": "Мастер урожая Уэстауна"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CROP_JAPAN",
+   "key": "a6fb4dd8",
+   "ru": "Мастер урожая Цуюкусы"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CROP_SOUTH",
+   "key": "854a323b",
+   "ru": "Мастер урожая Лулукоко"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GLOW_GOLD",
+   "key": "c73bafab",
+   "ru": "Славный фермер"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GLOW_BIG",
+   "key": "f213d99d",
+   "ru": "Великий фермер"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_VEGETABLE_BEGINNER",
+   "key": "df06cbaa",
+   "ru": "Овощевод: новичок"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_VEGETABLE_EXPERT",
+   "key": "f2e0febb",
+   "ru": "Овощевод: ветеран"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_VEGETABLE_MASTER",
+   "key": "100be535",
+   "ru": "Овощевод: мастер"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_VEGETABLE_LEGEND",
+   "key": "fb68f545",
+   "ru": "Овощевод: легенда"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FRUIT_BEGINNER",
+   "key": "54d11294",
+   "ru": "Садовод: новичок"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FRUIT_EXPERT",
+   "key": "330a34c9",
+   "ru": "Садовод: ветеран"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FRUIT_MASTER",
+   "key": "9bdc3c0b",
+   "ru": "Садовод: мастер"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FRUIT_LEGEND",
+   "key": "70bf2c7b",
+   "ru": "Садовод: легенда"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FLOWER_BEGINNER",
+   "key": "9f505f67",
+   "ru": "Цветовод: новичок"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FLOWER_EXPERT",
+   "key": "17751622",
+   "ru": "Цветовод: ветеран"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FLOWER_MASTER",
+   "key": "505d71f8",
+   "ru": "Цветовод: мастер"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FLOWER_LEGEND",
+   "key": "bb3e6188",
+   "ru": "Цветовод: легенда"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FIBER_BEGINNER",
+   "key": "040461e2",
+   "ru": "Волокна: новичок"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FIBER_EXPERT",
+   "key": "8a3c35b3",
+   "ru": "Волокна: ветеран"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FIBER_MASTER",
+   "key": "cb094f7d",
+   "ru": "Волокна: мастер"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FIBER_LEGEND",
+   "key": "206a5f0d",
+   "ru": "Волокна: легенда"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GRAIN_BEGINNER",
+   "key": "2b784c8a",
+   "ru": "Зерновод: новичок"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GRAIN_EXPERT",
+   "key": "c97aa0f4",
+   "ru": "Зерновод: ветеран"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GRAIN_MASTER",
+   "key": "e4756215",
+   "ru": "Зерновод: мастер"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GRAIN_LEGEND",
+   "key": "0f167265",
+   "ru": "Зерновод: легенда"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PADDY_BEGINNER",
+   "key": "7774f881",
+   "ru": "Рисовод: новичок"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PADDY_EXPERT",
+   "key": "5ef475c8",
+   "ru": "Рисовод: ветеран"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PADDY_MASTER",
+   "key": "b879d61e",
+   "ru": "Рисовод: мастер"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PADDY_LEGEND",
+   "key": "531ac66e",
+   "ru": "Рисовод: легенда"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SPICE_BEGINNER",
+   "key": "8e4150ef",
+   "ru": "Пряности: новичок"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SPICE_EXPERT",
+   "key": "f4070c3f",
+   "ru": "Пряности: ветеран"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SPICE_MASTER",
+   "key": "414c7e70",
+   "ru": "Пряности: мастер"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SPICE_LEGEND",
+   "key": "aa2f6e00",
+   "ru": "Пряности: легенда"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_TEA_BEGINNER",
+   "key": "179d33ac",
+   "ru": "Чаевод: новичок"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_TEA_EXPERT",
+   "key": "1b4bc076",
+   "ru": "Чаевод: ветеран"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_TEA_MASTER",
+   "key": "d8901d33",
+   "ru": "Чаевод: мастер"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_TEA_LEGEND",
+   "key": "33f30d43",
+   "ru": "Чаевод: легенда"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WOOD_BEGINNER",
+   "key": "54dac1bd",
+   "ru": "Лесоруб: новичок"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WOOD_EXPERT",
+   "key": "71b8a776",
+   "ru": "Лесоруб: ветеран"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WOOD_MASTER",
+   "key": "9bd7ef22",
+   "ru": "Лесоруб: мастер"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WOOD_LEGEND",
+   "key": "70b4ff52",
+   "ru": "Лесоруб: легенда"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GOLD_BEGINNER",
+   "key": "ce3d5290",
+   "ru": "Золотой урожай: новичок"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GOLD_EXPERT",
+   "key": "34fd1c90",
+   "ru": "Золотой урожай: ветеран"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GOLD_MASTER",
+   "key": "01307c0f",
+   "ru": "Золотой урожай: мастер"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GOLD_LEGEND",
+   "key": "ea536c7f",
+   "ru": "Золотой урожай: легенда"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BIG_BEGINNER",
+   "key": "191a0613",
+   "ru": "Гигантский урожай: новичок"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BIG_EXPERT",
+   "key": "409be95e",
+   "ru": "Гигантский урожай: ветеран"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BIG_MASTER",
+   "key": "d617288c",
+   "ru": "Гигантский урожай: мастер"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BIG_LEGEND",
+   "key": "3d7438fc",
+   "ru": "Гигантский урожай: легенда"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COW",
+   "key": "7a96ed11",
+   "ru": "Друг коров"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SHEEP",
+   "key": "16c0455c",
+   "ru": "Друг овец"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_HEN",
+   "key": "6a874905",
+   "ru": "Друг птиц"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RABBIT",
+   "key": "6e461926",
+   "ru": "Друг кроликов"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ALPACA",
+   "key": "b6598465",
+   "ru": "Друг альпак"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ANIMAL",
+   "key": "299c97ca",
+   "ru": "Мастер-животновод"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_CHILD_ANIMAL",
+   "key": "41ceafbc",
+   "ru": "Мастер разведения"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MILK_BEGINNER",
+   "key": "aff35ace",
+   "ru": "Дойка: новичок"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MILK_EXPERT",
+   "key": "1c0eb401",
+   "ru": "Дойка: ветеран"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MILK_MASTER",
+   "key": "5d6b02bc",
+   "ru": "Дойка: мастер"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MILK_LEGEND",
+   "key": "e7395b3b",
+   "ru": "Дойка: легенда"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_EGG_BEGINNER",
+   "key": "77b13512",
+   "ru": "Сбор яиц: новичок"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_EGG_EXPERT",
+   "key": "b3ff6efe",
+   "ru": "Сбор яиц: ветеран"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_EGG_MASTER",
+   "key": "f78c7327",
+   "ru": "Сбор яиц: мастер"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_EGG_LEGEND",
+   "key": "68f74612",
+   "ru": "Сбор яиц: легенда"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WOOL_BEGINNER",
+   "key": "aafae5ca",
+   "ru": "Шерсть: новичок"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WOOL_EXPERT",
+   "key": "a4881518",
+   "ru": "Шерсть: ветеран"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WOOL_MASTER",
+   "key": "977443e4",
+   "ru": "Шерсть: мастер"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WOOL_LEGEND",
+   "key": "63f6da0a",
+   "ru": "Шерсть: легенда"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ALPACA_WOOL_BEGINNER",
+   "key": "7574568d",
+   "ru": "Шерсть альпак: новичок"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ALPACA_WOOL_EXPERT",
+   "key": "3f779964",
+   "ru": "Шерсть альпак: ветеран"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ALPACA_WOOL_MASTER",
+   "key": "2924c830",
+   "ru": "Шерсть альпак: мастер"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ALPACA_WOOL_LEGEND",
+   "key": "82f030f3",
+   "ru": "Шерсть альпак: легенда"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ANGOLA_BEGINNER",
+   "key": "fdc70b6f",
+   "ru": "Кроличий пух: новичок"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ANGOLA_EXPERT",
+   "key": "21ada30b",
+   "ru": "Кроличий пух: ветеран"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ANGOLA_MASTER",
+   "key": "1e33b2d4",
+   "ru": "Кроличий пух: мастер"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ANGOLA_LEGEND",
+   "key": "1bf628fb",
+   "ru": "Кроличий пух: легенда"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LLAMA_WOOL_BEGINNER",
+   "key": "c9c63973",
+   "ru": "Шерсть лам: новичок"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LLAMA_WOOL_EXPERT",
+   "key": "15ac9117",
+   "ru": "Шерсть лам: ветеран"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LLAMA_WOOL_MASTER",
+   "key": "2a3280c8",
+   "ru": "Шерсть лам: мастер"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LLAMA_WOOL_LEGEND",
+   "key": "2ff71ae7",
+   "ru": "Шерсть лам: легенда"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PRIME_ITEM_BEGINNER",
+   "key": "4f562184",
+   "ru": "Товары+: новичок"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PRIME_ITEM_EXPERT",
+   "key": "2785e08c",
+   "ru": "Товары+: ветеран"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PRIME_ITEM_MASTER",
+   "key": "93bda2ed",
+   "ru": "Товары+: мастер"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PRIME_ITEM_LEGEND",
+   "key": "d4fbef0b",
+   "ru": "Товары+: легенда"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PET_BEGINNER",
+   "key": "2124b399",
+   "ru": "Обожатель питомцев"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PET_EXPERT",
+   "key": "7aab2153",
+   "ru": "Любитель питомцев"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PET_MASTER",
+   "key": "e70abdb1",
+   "ru": "Дрессировщик"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PET_LEGEND",
+   "key": "dbc99b10",
+   "ru": "Легенда питомцев"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WILD_ANIMAL_OPEN",
+   "key": "585f680a",
+   "ru": "Целый зверинец"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WILD_ANIMAL_FRIEND",
+   "key": "eb3cee16",
+   "ru": "Дикарь"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_AMERICA_SHIPMENT_BEGINNER",
+   "key": "a8c6995c",
+   "ru": "Торговля: Уэстаун: новичок"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_AMERICA_SHIPMENT_EXPERT",
+   "key": "a6b4698e",
+   "ru": "Торговля: Уэстаун: ветеран"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_AMERICA_SHIPMENT_MASTER",
+   "key": "95483f72",
+   "ru": "Торговля: Уэстаун: мастер"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_AMERICA_SHIPMENT_LEGEND",
+   "key": "61caa69c",
+   "ru": "Торговля: Уэстаун: легенда"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JAPAN_SHIPMENT_BEGINNER",
+   "key": "0bd095e7",
+   "ru": "Торговля: Цуюкуса: новичок"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JAPAN_SHIPMENT_EXPERT",
+   "key": "0563ce14",
+   "ru": "Торговля: Цуюкуса: ветеран"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JAPAN_SHIPMENT_MASTER",
+   "key": "3f62a798",
+   "ru": "Торговля: Цуюкуса: мастер"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JAPAN_SHIPMENT_LEGEND",
+   "key": "764ca698",
+   "ru": "Торговля: Цуюкуса: легенда"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SOUTH_SHIPMENT_BEGINNER",
+   "key": "190dd8c4",
+   "ru": "Торговля: Лулукоко: новичок"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SOUTH_SHIPMENT_EXPERT",
+   "key": "71de19cc",
+   "ru": "Торговля: Лулукоко: ветеран"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SOUTH_SHIPMENT_MASTER",
+   "key": "c5e65bad",
+   "ru": "Торговля: Лулукоко: мастер"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SOUTH_SHIPMENT_LEGEND",
+   "key": "82a0164b",
+   "ru": "Торговля: Лулукоко: легенда"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PANEL_BEGINNER",
+   "key": "b697778a",
+   "ru": "Ландшафт: новичок"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PANEL_EXPERT",
+   "key": "c8bf09b6",
+   "ru": "Ландшафт: ветеран"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PANEL_MASTER",
+   "key": "ff25f3b7",
+   "ru": "Ландшафт: мастер"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LIANE_FIRST",
+   "key": "b6e1f41e",
+   "ru": "Лианы: новобранец"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LIANE_BEGINNER",
+   "key": "49ed33e8",
+   "ru": "Лианы: новичок"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LIANE_NORMAL",
+   "key": "3a98c3dc",
+   "ru": "Лианы: любитель"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LIANE_EXPERT",
+   "key": "66fc6711",
+   "ru": "Лианы: ветеран"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LIANE_GREAT",
+   "key": "11cccd7d",
+   "ru": "Лианы: мастер"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_LIANE_MASTER",
+   "key": "d51d5d3b",
+   "ru": "Лианы: легенда"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BAMBOO_FIRST",
+   "key": "90cb1b01",
+   "ru": "Бамбук: новобранец"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BAMBOO_BEGINNER",
+   "key": "c4ea40ef",
+   "ru": "Бамбук: новичок"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BAMBOO_NORMAL",
+   "key": "e52dc1aa",
+   "ru": "Бамбук: любитель"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BAMBOO_EXPERT",
+   "key": "00a41b03",
+   "ru": "Бамбук: ветеран"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BAMBOO_GREAT",
+   "key": "44d706da",
+   "ru": "Бамбук: мастер"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BAMBOO_MASTER",
+   "key": "dbac33ef",
+   "ru": "Бамбук: легенда"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAPLE_FIRST",
+   "key": "c6fcb795",
+   "ru": "Сироп: новобранец"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAPLE_BEGINNER",
+   "key": "92ddec7b",
+   "ru": "Сироп: новичок"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAPLE_NORMAL",
+   "key": "b31a6d3e",
+   "ru": "Сироп: любитель"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAPLE_EXPERT",
+   "key": "5693b797",
+   "ru": "Сироп: ветеран"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAPLE_GREAT",
+   "key": "12e0aa4e",
+   "ru": "Сироп: мастер"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAPLE_MASTER",
+   "key": "8d9b9f7b",
+   "ru": "Сироп: легенда"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_HONEY_FIRST",
+   "key": "39c4b6c4",
+   "ru": "Пчеловод: новобранец"
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_HONEY_BEGINNER",
+   "key": "22a06346",
+   "ru": "Пчеловод: новичок"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_HONEY_NORMAL",
+   "key": "78b9b7aa",
+   "ru": "Пчеловод: любитель"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_HONEY_EXPERT",
+   "key": "bba2e24b",
+   "ru": "Пчеловод: ветеран"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_HONEY_GREAT",
+   "key": "f96313a0",
+   "ru": "Пчеловод: мастер"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_HONEY_MASTER",
+   "key": "f305c8da",
+   "ru": "Пчеловод: легенда"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MUSHROOM_FIRST",
+   "key": "5f6ff407",
+   "ru": "Грибник: новобранец"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MUSHROOM_BEGINNER",
+   "key": "e9359d38",
+   "ru": "Грибник: новичок"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MUSHROOM_NORMAL",
+   "key": "b8fc2c2b",
+   "ru": "Грибник: любитель"
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MUSHROOM_EXPERT",
+   "key": "81e65c30",
+   "ru": "Грибник: ветеран"
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MUSHROOM_GREAT",
+   "key": "35de1e51",
+   "ru": "Грибник: мастер"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MUSHROOM_MASTER",
+   "key": "729853b7",
+   "ru": "Грибник: легенда"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_CULTURE_FIRST",
+   "key": "5f6e654a",
+   "ru": "Рыбовод: новобранец"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_CULTURE_BEGINNER",
+   "key": "0b4f3ea4",
+   "ru": "Рыбовод: новичок"
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_CULTURE_NORMAL",
+   "key": "2a88bfe1",
+   "ru": "Рыбовод: любитель"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_CULTURE_EXPERT",
+   "key": "cf016548",
+   "ru": "Рыбовод: ветеран"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_CULTURE_GREAT",
+   "key": "8b727891",
+   "ru": "Рыбовод: мастер"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_CULTURE_MASTER",
+   "key": "14094da4",
+   "ru": "Рыбовод: легенда"
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PERL_FIRST",
+   "key": "39558c04",
+   "ru": "Жемчуг: новобранец"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PERL_BEGINNER",
+   "key": "6d74d7ea",
+   "ru": "Жемчуг: новичок"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PERL_NORMAL",
+   "key": "4cb356af",
+   "ru": "Жемчуг: любитель"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PERL_EXPERT",
+   "key": "a93a8c06",
+   "ru": "Жемчуг: ветеран"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PERL_GREAT",
+   "key": "ed4991df",
+   "ru": "Жемчуг: мастер"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_PERL_MASTER",
+   "key": "7232a4ea",
+   "ru": "Жемчуг: легенда"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MILL_BEGINNER",
+   "key": "aabc4c4b",
+   "ru": "Мельник: новичок"
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MILL_EXPERT",
+   "key": "1941a284",
+   "ru": "Мельник: ветеран"
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MILL_MASTER",
+   "key": "58241439",
+   "ru": "Мельник: мастер"
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MILL_LEGEND",
+   "key": "e2764dbe",
+   "ru": "Мельник: легенда"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_CLOTH_BEGINNER",
+   "key": "2eda7ecc",
+   "ru": "Ткач: новичок"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_CLOTH_EXPERT",
+   "key": "9d279003",
+   "ru": "Ткач: ветеран"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_CLOTH_MASTER",
+   "key": "dc4226be",
+   "ru": "Ткач: мастер"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_CLOTH_LEGEND",
+   "key": "66107f39",
+   "ru": "Ткач: легенда"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_SEED_BEGINNER",
+   "key": "842c4718",
+   "ru": "Семена: новичок"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_SEED_EXPERT",
+   "key": "fa043924",
+   "ru": "Семена: ветеран"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_SEED_MASTER",
+   "key": "cd9ec325",
+   "ru": "Семена: мастер"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_SEED_LEGEND",
+   "key": "7d443ddc",
+   "ru": "Семена: легенда"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_POT_BEGINNER",
+   "key": "25e2c46f",
+   "ru": "Варенье: новичок"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_POT_EXPERT",
+   "key": "bce04562",
+   "ru": "Варенье: ветеран"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_POT_MASTER",
+   "key": "fe21b489",
+   "ru": "Варенье: мастер"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_POT_LEGEND",
+   "key": "f4476ff3",
+   "ru": "Варенье: легенда"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_JAR_BEGINNER",
+   "key": "b6a80676",
+   "ru": "Соленья: новичок"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_JAR_EXPERT",
+   "key": "72e65d9a",
+   "ru": "Соленья: ветеран"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_JAR_MASTER",
+   "key": "36954043",
+   "ru": "Соленья: мастер"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_JAR_LEGEND",
+   "key": "a9ee7576",
+   "ru": "Соленья: легенда"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_WINE_BEGINNER",
+   "key": "0ecf549a",
+   "ru": "Винодел: новичок"
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_WINE_EXPERT",
+   "key": "05a77655",
+   "ru": "Винодел: ветеран"
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_WINE_MASTER",
+   "key": "b036dcd2",
+   "ru": "Винодел: мастер"
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_WINE_LEGEND",
+   "key": "c3509808",
+   "ru": "Винодел: легенда"
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MILK_BEGINNER",
+   "key": "cb91ca1b",
+   "ru": "Молочник: новичок"
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MILK_EXPERT",
+   "key": "e4809ee2",
+   "ru": "Молочник: ветеран"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MILK_MASTER",
+   "key": "93b0348e",
+   "ru": "Молочник: мастер"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MILK_LEGEND",
+   "key": "5761a4c8",
+   "ru": "Молочник: легенда"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MANURE_BEGINNER",
+   "key": "17a8bc03",
+   "ru": "Удобрения: новичок"
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MANURE_EXPERT",
+   "key": "191be7f0",
+   "ru": "Удобрения: ветеран"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MANURE_MASTER",
+   "key": "231a8e7c",
+   "ru": "Удобрения: мастер"
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_MANURE_LEGEND",
+   "key": "6a348f7c",
+   "ru": "Удобрения: легенда"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_FEED_BEGINNER",
+   "key": "45ab0db4",
+   "ru": "Корма: новичок"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_FEED_EXPERT",
+   "key": "3b837388",
+   "ru": "Корма: ветеран"
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_FEED_MASTER",
+   "key": "0c198989",
+   "ru": "Корма: мастер"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MAKER_FEED_LEGEND",
+   "key": "bcc37770",
+   "ru": "Корма: легенда"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MONEY_BEGINNER",
+   "key": "86ade13e",
+   "ru": "На пути к богатству"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MONEY_EXPERT",
+   "key": "bd287449",
+   "ru": "Финансовая гроза"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MONEY_MASTER",
+   "key": "12d7b46e",
+   "ru": "Крупный игрок"
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MONEY_LEGEND",
+   "key": "d32c251b",
+   "ru": "G-фермер"
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COOKING_FIRST",
+   "key": "0a77ff01",
+   "ru": "Повар-любитель"
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COOKING_BEGINNER",
+   "key": "963a9f34",
+   "ru": "Начинающий повар"
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COOKING_NORMAL",
+   "key": "22e6fb9b",
+   "ru": "Повар быстрой еды"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COOKING_QUITE",
+   "key": "37fc3b59",
+   "ru": "Повар фуршета"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COOKING_FREAK",
+   "key": "394eba74",
+   "ru": "Опытный повар"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COOKING_EXPERT",
+   "key": "23f344a6",
+   "ru": "Повар-ветеран"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COOKING_CHARISMA",
+   "key": "821bdf5e",
+   "ru": "Повар-гурман"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COOKING_AMBASSADOR",
+   "key": "25044229",
+   "ru": "Су-шеф"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COOKING_PROFESSOR",
+   "key": "9a64a13e",
+   "ru": "Шеф-повар"
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_COOKING_MASTER",
+   "key": "84d13c78",
+   "ru": "Великий шеф"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RECIPE_BEGINNER",
+   "key": "4f7ff76a",
+   "ru": "Рецепты: новичок"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RECIPE_EXPERT",
+   "key": "41ccac99",
+   "ru": "Рецепты: ветеран"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RECIPE_MASTER",
+   "key": "7bcdc515",
+   "ru": "Рецепты: мастер"
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NET_FIRST",
+   "key": "2bebaa4f",
+   "ru": "Ловушки: новобранец"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NET_BEGINNER",
+   "key": "ebcb3917",
+   "ru": "Ловушки: новичок"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NET_NORMAL",
+   "key": "d170605e",
+   "ru": "Ловушки: любитель"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NET_QUITE",
+   "key": "9e401133",
+   "ru": "Ловушки: начинающий"
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NET_FREAK",
+   "key": "8c5da546",
+   "ru": "Ловушки: середнячок"
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NET_EXPERT",
+   "key": "5141f99e",
+   "ru": "Ловушки: опытный"
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NET_CHARISMA",
+   "key": "e0a31bd8",
+   "ru": "Ловушки: ветеран"
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NET_AMBASSADOR",
+   "key": "fb7729bb",
+   "ru": "Ловушки: эксперт"
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NET_PROFESSOR",
+   "key": "5532b15f",
+   "ru": "Ловушки: мастер"
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NET_MASTER",
+   "key": "2654f585",
+   "ru": "Ловушки: легенда"
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_FIRST",
+   "key": "b6575040",
+   "ru": "Рыбак-любитель"
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_BEGINNER",
+   "key": "2e83eb5f",
+   "ru": "Юный рыбак"
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_NORMAL",
+   "key": "62373853",
+   "ru": "Нахлыстовик"
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_QUITE",
+   "key": "1fa9085c",
+   "ru": "Рыбный профи"
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_FREAK",
+   "key": "78c89829",
+   "ru": "Горячая удочка"
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_EXPERT",
+   "key": "4799cd45",
+   "ru": "Король катушки"
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_CHARISMA",
+   "key": "d7feddd8",
+   "ru": "Мастер приманки"
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_AMBASSADOR",
+   "key": "95430745",
+   "ru": "Заклинатель рыб"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_PROFESSOR",
+   "key": "a5730023",
+   "ru": "Доктор Рыбкин"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISHING_MASTER",
+   "key": "cfb67429",
+   "ru": "Король рыбаков"
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_BEGINNER",
+   "key": "486934f2",
+   "ru": "Рыбы: новичок"
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_EXPERT",
+   "key": "461bc420",
+   "ru": "Рыбы: ветеран"
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_MASTER",
+   "key": "75e792dc",
+   "ru": "Рыбы: мастер"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_SIZE_BEGINNER",
+   "key": "c24818dc",
+   "ru": "Крупная рыба: новичок"
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_SIZE_EXPERT",
+   "key": "1e22b0b8",
+   "ru": "Крупная рыба: ветеран"
+  },
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_FISH_SIZE_MASTER",
+   "key": "21bca167",
+   "ru": "Крупная рыба: мастер"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ORE_BEGINNER",
+   "key": "e4a43ccb",
+   "ru": "Руда: новичок"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ORE_EXPERT",
+   "key": "4ddcdcc3",
+   "ru": "Руда: ветеран"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_ORE_MASTER",
+   "key": "b297c5ae",
+   "ru": "Руда: мастер"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MINING_BEGINNER",
+   "key": "e8ff8eda",
+   "ru": "Шахтёр: новичок"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MINING_EXPERT",
+   "key": "736b6f22",
+   "ru": "Шахтёр: ветеран"
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MINING_MASTER",
+   "key": "12a7b289",
+   "ru": "Шахтёр: мастер"
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_MINING_LEGEND",
+   "key": "90c8307d",
+   "ru": "Шахтёр: легенда"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_DRESS_BEGINNER",
+   "key": "f550115d",
+   "ru": "Одежда: новичок"
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_DRESS_EXPERT",
+   "key": "367825ec",
+   "ru": "Одежда: ветеран"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_DRESS_MASTER",
+   "key": "95201156",
+   "ru": "Одежда: мастер"
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_HAT_BEGINNER",
+   "key": "6cca75ff",
+   "ru": "Шляпы: новичок"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_HAT_EXPERT",
+   "key": "afe2414e",
+   "ru": "Шляпы: ветеран"
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_HAT_MASTER",
+   "key": "0cba75f4",
+   "ru": "Шляпы: мастер"
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GLASS_BEGINNER",
+   "key": "e8ccd5e5",
+   "ru": "Очки: новичок"
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GLASS_EXPERT",
+   "key": "cc76c518",
+   "ru": "Очки: ветеран"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_GLASS_MASTER",
+   "key": "28420b7a",
+   "ru": "Очки: мастер"
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WILD_FLOWER_BEGINNER",
+   "key": "724ecde8",
+   "ru": "Собиратель: новичок"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WILD_FLOWER_EXPERT",
+   "key": "7926ef27",
+   "ru": "Собиратель: ветеран"
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WILD_FLOWER_MASTER",
+   "key": "ccb745a0",
+   "ru": "Собиратель: мастер"
+  },
+  {
+   "n": 297,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_WILD_FLOWER_LEGEND",
+   "key": "bfd1017a",
+   "ru": "Собиратель: легенда"
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JOB_FIRST",
+   "key": "f04d34bd",
+   "ru": "Новый сотрудник"
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JOB_BEGINNER",
+   "key": "a7acd493",
+   "ru": "Стажёр"
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JOB_NORMAL",
+   "key": "e0780f0b",
+   "ru": "Практикант"
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JOB_QUITE",
+   "key": "c454f90c",
+   "ru": "Офисный планктон"
+  },
+  {
+   "n": 302,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JOB_FREAK",
+   "key": "07ecf3c2",
+   "ru": "Житель офиса"
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JOB_EXPERT",
+   "key": "209a1a15",
+   "ru": "Младший менеджер"
+  },
+  {
+   "n": 304,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JOB_CHARISMA",
+   "key": "7dbdda00",
+   "ru": "Средний менеджер"
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JOB_AMBASSADOR",
+   "key": "5a594891",
+   "ru": "Топ-менеджер"
+  },
+  {
+   "n": 306,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JOB_PROFESSOR",
+   "key": "1d761b82",
+   "ru": "Совет директоров"
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JOB_MASTER",
+   "key": "f68036a8",
+   "ru": "Президент компании"
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BATH_BEGINNER",
+   "key": "c69c268d",
+   "ru": "Купальня: новичок"
+  },
+  {
+   "n": 309,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BATH_EXPERT",
+   "key": "57f3d13d",
+   "ru": "Купальня: ветеран"
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BATH_MASTER",
+   "key": "09910812",
+   "ru": "Купальня: мастер"
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_BATH_LEGEND",
+   "key": "e2f21862",
+   "ru": "Купальня: легенда"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_INN_BEGINNER",
+   "key": "86488ea0",
+   "ru": "Гостиница: новый гость"
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_INN_EXPERT",
+   "key": "7cdb7f13",
+   "ru": "Гостиница: завсегдатай"
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_INN_MASTER",
+   "key": "175cd259",
+   "ru": "Гостиница: почётный гость"
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_INN_LEGEND",
+   "key": "fdfb921e",
+   "ru": "Гостиница: золотой клиент"
+  },
+  {
+   "n": 316,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RESTAURANT_BEGINNER",
+   "key": "a2cd315a",
+   "ru": "Ресторан: новый гость"
+  },
+  {
+   "n": 317,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RESTAURANT_EXPERT",
+   "key": "67b15d31",
+   "ru": "Ресторан: завсегдатай"
+  },
+  {
+   "n": 318,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RESTAURANT_MASTER",
+   "key": "6a9811e5",
+   "ru": "Ресторан: почётный гость"
+  },
+  {
+   "n": 319,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_RESTAURANT_LEGEND",
+   "key": "ac78bce3",
+   "ru": "Ресторан: золотой клиент"
+  },
+  {
+   "n": 320,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JAPAN_TEA_BEGINNER",
+   "key": "058f961b",
+   "ru": "Чайная: новый гость"
+  },
+  {
+   "n": 321,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JAPAN_TEA_EXPERT",
+   "key": "fba7236a",
+   "ru": "Чайная: завсегдатай"
+  },
+  {
+   "n": 322,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JAPAN_TEA_MASTER",
+   "key": "7e7264eb",
+   "ru": "Чайная: почётный гость"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_JAPAN_TEA_LEGEND",
+   "key": "8b0f9f26",
+   "ru": "Чайная: золотой клиент"
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SOUTH_TEA_BEGINNER",
+   "key": "857d1834",
+   "ru": "Кафе у моря: новый гость"
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SOUTH_TEA_EXPERT",
+   "key": "75f73398",
+   "ru": "Кафе у моря: завсегдатай"
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SOUTH_TEA_MASTER",
+   "key": "bc90ed30",
+   "ru": "Кафе у моря: почётный гость"
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "MES_TROPHY_TITLE_SOUTH_TEA_LEGEND",
+   "key": "48dbd90e",
+   "ru": "Кафе у моря: золотой клиент"
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "MES_TROPHY_START",
+   "key": "487b6839",
+   "ru": "Начало фермерской жизни! Получены дом и\nферма."
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "MES_TROPHY_MARRIAGE",
+   "key": "f7f3a2df",
+   "ru": "Свадьба."
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "MES_TROPHY_CHILD",
+   "key": "a8679950",
+   "ru": "Рождение ребёнка."
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "MES_TROPHY_2YEARS",
+   "key": "75e9a280",
+   "ru": "Игра дошла до 1 весны 2-го года."
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "MES_TROPHY_3YEARS",
+   "key": "6cf293c1",
+   "ru": "Игра дошла до 1 весны 3-го года."
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "MES_TROPHY_5YEARS",
+   "key": "3aa83447",
+   "ru": "Игра дошла до 1 весны 5-го года."
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "MES_TROPHY_AMERICA_POPULAR",
+   "key": "dac75fe3",
+   "ru": "Не менее 5 000 очков дружбы с городом\nУэстаун."
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "MES_TROPHY_JAPAN_POPULAR",
+   "key": "7c297ab4",
+   "ru": "Не менее 5 000 очков дружбы с городом\nЦуюкуса."
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "MES_TROPHY_SOUTH_POPULAR",
+   "key": "b06d21c5",
+   "ru": "Не менее 5 000 очков дружбы с городом\nЛулукоко."
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "MES_TROPHY_AMERICA_IDOL",
+   "key": "51c919cf",
+   "ru": "Максимум очков дружбы с городом Уэстаун."
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "MES_TROPHY_JAPAN_IDOL",
+   "key": "be94a9e2",
+   "ru": "Максимум очков дружбы с городом Цуюкуса."
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "MES_TROPHY_SOUTH_IDOL",
+   "key": "823e4360",
+   "ru": "Максимум очков дружбы с городом Лулукоко."
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "MES_TROPHY_LOVE_MAX",
+   "key": "8bb05752",
+   "ru": "Не менее 40 000 очков дружбы со всеми пятью\nкандидатами в супруги противоположного пола."
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "MES_TROPHY_FRIEND_MAX",
+   "key": "5dd38264",
+   "ru": "Не менее 40 000 очков дружбы со всеми пятью\nкандидатами в супруги своего пола."
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "MES_TROPHY_GREETING_BEGINNER",
+   "key": "b08b52b3",
+   "ru": "Не менее 100 приветствий."
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_TROPHY_GREETING_EXPERT",
+   "key": "b47e828e",
+   "ru": "Не менее 300 приветствий."
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_TROPHY_GREETING_MASTER",
+   "key": "b960f2c9",
+   "ru": "Не менее 500 приветствий."
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_TROPHY_GREETING_LEGEND",
+   "key": "8ad85c32",
+   "ru": "Не менее 1 000 приветствий."
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "MES_TROPHY_GODDESS",
+   "key": "01ffbc84",
+   "ru": "Подношения Десси: не менее 300 раз."
+  },
+  {
+   "n": 347,
+   "f": 2,
+   "id": "MES_TROPHY_INARI",
+   "key": "c42bd185",
+   "ru": "Подношения Инари: не менее 300 раз."
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "MES_TROPHY_WITCH",
+   "key": "97afd83d",
+   "ru": "Подношения Ведьмочке: не менее 300 раз."
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_TROPHY_TROPHY_BEGINNER",
+   "key": "1c456873",
+   "ru": "Собрано не менее 100 наград."
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "MES_TROPHY_TROPHY_EXPERT",
+   "key": "a18f04bd",
+   "ru": "Собрано не менее 200 наград."
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "MES_TROPHY_TROPHY_MASTER",
+   "key": "99e15c6e",
+   "ru": "Собраны все награды."
+  },
+  {
+   "n": 352,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_A_E",
+   "key": "6f188be7",
+   "ru": "Ранг связи с городом Уэстаун: E."
+  },
+  {
+   "n": 353,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_A_D",
+   "key": "d6e3500f",
+   "ru": "Ранг связи с городом Уэстаун: D."
+  },
+  {
+   "n": 354,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_A_C",
+   "key": "4de25f15",
+   "ru": "Ранг связи с городом Уэстаун: C."
+  },
+  {
+   "n": 355,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_A_B",
+   "key": "f41984fd",
+   "ru": "Ранг связи с городом Уэстаун: B."
+  },
+  {
+   "n": 356,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_A_A",
+   "key": "e564ee84",
+   "ru": "Ранг связи с городом Уэстаун: A."
+  },
+  {
+   "n": 357,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_A_S",
+   "key": "0980c05a",
+   "ru": "Ранг связи с городом Уэстаун: S."
+  },
+  {
+   "n": 358,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_J_E",
+   "key": "fdc8cbf1",
+   "ru": "Ранг связи с городом Цуюкуса: E."
+  },
+  {
+   "n": 359,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_J_D",
+   "key": "7a6e00b2",
+   "ru": "Ранг связи с городом Цуюкуса: D."
+  },
+  {
+   "n": 360,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_J_C",
+   "key": "5afc7cf9",
+   "ru": "Ранг связи с городом Цуюкуса: C."
+  },
+  {
+   "n": 361,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_J_B",
+   "key": "dd5ab7ba",
+   "ru": "Ранг связи с городом Цуюкуса: B."
+  },
+  {
+   "n": 362,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_J_A",
+   "key": "8ec0ec3e",
+   "ru": "Ранг связи с городом Цуюкуса: A."
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_J_S",
+   "key": "4dade584",
+   "ru": "Ранг связи с городом Цуюкуса: S."
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_S_E",
+   "key": "b7b53a08",
+   "ru": "Ранг связи с городом Лулукоко: E."
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_S_D",
+   "key": "19ddab99",
+   "ru": "Ранг связи с городом Лулукоко: D."
+  },
+  {
+   "n": 366,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_S_C",
+   "key": "e42453ec",
+   "ru": "Ранг связи с городом Лулукоко: C."
+  },
+  {
+   "n": 367,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_S_B",
+   "key": "4a4cc27d",
+   "ru": "Ранг связи с городом Лулукоко: B."
+  },
+  {
+   "n": 368,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_S_A",
+   "key": "6384768f",
+   "ru": "Ранг связи с городом Лулукоко: A."
+  },
+  {
+   "n": 369,
+   "f": 2,
+   "id": "MES_TROPHY_RANK_S_S",
+   "key": "02036d72",
+   "ru": "Ранг связи с городом Лулукоко: S."
+  },
+  {
+   "n": 370,
+   "f": 2,
+   "id": "MES_TROPHY_CONTEST_BEGINNER",
+   "key": "097fa346",
+   "ru": "Участие в конкурсах: не менее 10 раз."
+  },
+  {
+   "n": 371,
+   "f": 2,
+   "id": "MES_TROPHY_CONTEST_EXPERT",
+   "key": "27898bc0",
+   "ru": "Участие в конкурсах: не менее 30 раз."
+  },
+  {
+   "n": 372,
+   "f": 2,
+   "id": "MES_TROPHY_CONTEST_MASTER",
+   "key": "5493f24a",
+   "ru": "Участие в конкурсах: не менее 50 раз."
+  },
+  {
+   "n": 373,
+   "f": 2,
+   "id": "MES_TROPHY_CONTEST_LEGEND",
+   "key": "a281e67a",
+   "ru": "Участие в конкурсах: не менее 100 раз."
+  },
+  {
+   "n": 374,
+   "f": 2,
+   "id": "MES_TROPHY_CONTEST_WIN_BEGINNER",
+   "key": "b86278b2",
+   "ru": "Первая победа в конкурсе."
+  },
+  {
+   "n": 375,
+   "f": 2,
+   "id": "MES_TROPHY_CONTEST_WIN_EXPERT",
+   "key": "63d39a57",
+   "ru": "Победы в конкурсах: не менее 10."
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "MES_TROPHY_CONTEST_WIN_MASTER",
+   "key": "4d25b2d1",
+   "ru": "Победы в конкурсах: не менее 30."
+  },
+  {
+   "n": 377,
+   "f": 2,
+   "id": "MES_TROPHY_CONTEST_WIN_LEGEND",
+   "key": "3e3fcb5b",
+   "ru": "Победы в конкурсах: не менее 50."
+  },
+  {
+   "n": 378,
+   "f": 2,
+   "id": "MES_TROPHY_CROP_AMERICA",
+   "key": "08f26f4e",
+   "ru": "Выращен весь урожай Уэстауна."
+  },
+  {
+   "n": 379,
+   "f": 2,
+   "id": "MES_TROPHY_CROP_JAPAN",
+   "key": "8b86246a",
+   "ru": "Выращен весь урожай Цуюкусы."
+  },
+  {
+   "n": 380,
+   "f": 2,
+   "id": "MES_TROPHY_CROP_SOUTH",
+   "key": "75f45617",
+   "ru": "Выращен весь урожай Лулукоко."
+  },
+  {
+   "n": 381,
+   "f": 2,
+   "id": "MES_TROPHY_GLOW_GOLD",
+   "key": "da8ada21",
+   "ru": "Выращены все золотые плоды."
+  },
+  {
+   "n": 382,
+   "f": 2,
+   "id": "MES_TROPHY_GLOW_BIG",
+   "key": "96faa6ea",
+   "ru": "Выращены все гигантские плоды."
+  },
+  {
+   "n": 383,
+   "f": 2,
+   "id": "MES_TROPHY_VEGETABLE_BEGINNER",
+   "key": "2043a8ff",
+   "ru": "Собрано не менее 100 овощей."
+  },
+  {
+   "n": 384,
+   "f": 2,
+   "id": "MES_TROPHY_VEGETABLE_EXPERT",
+   "key": "f472e478",
+   "ru": "Собрано не менее 500 овощей."
+  },
+  {
+   "n": 385,
+   "f": 2,
+   "id": "MES_TROPHY_VEGETABLE_MASTER",
+   "key": "ef03da7b",
+   "ru": "Собрано не менее 1 000 овощей."
+  },
+  {
+   "n": 386,
+   "f": 2,
+   "id": "MES_TROPHY_VEGETABLE_LEGEND",
+   "key": "05850719",
+   "ru": "Собрано не менее 2 000 овощей."
+  },
+  {
+   "n": 387,
+   "f": 2,
+   "id": "MES_TROPHY_FRUIT_BEGINNER",
+   "key": "fa2aa25c",
+   "ru": "Собрано не менее 100 плодов с деревьев."
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_TROPHY_FRUIT_EXPERT",
+   "key": "7056c73f",
+   "ru": "Собрано не менее 500 плодов с деревьев."
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_TROPHY_FRUIT_MASTER",
+   "key": "00cdbf6a",
+   "ru": "Собрано не менее 1 000 плодов с деревьев."
+  },
+  {
+   "n": 390,
+   "f": 2,
+   "id": "MES_TROPHY_FRUIT_LEGEND",
+   "key": "5357e4ee",
+   "ru": "Собрано не менее 2 000 плодов с деревьев."
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "MES_TROPHY_FLOWER_BEGINNER",
+   "key": "a5f84bd0",
+   "ru": "Собрано не менее 100 цветов."
+  },
+  {
+   "n": 392,
+   "f": 2,
+   "id": "MES_TROPHY_FLOWER_EXPERT",
+   "key": "a6fe70af",
+   "ru": "Собрано не менее 500 цветов."
+  },
+  {
+   "n": 393,
+   "f": 2,
+   "id": "MES_TROPHY_FLOWER_MASTER",
+   "key": "f6f5b092",
+   "ru": "Собрано не менее 1 000 цветов."
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "MES_TROPHY_FLOWER_LEGEND",
+   "key": "8a949549",
+   "ru": "Собрано не менее 2 000 цветов."
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "MES_TROPHY_FIBER_BEGINNER",
+   "key": "d4e83d71",
+   "ru": "Собрано не менее 100 волокнистых культур."
+  },
+  {
+   "n": 396,
+   "f": 2,
+   "id": "MES_TROPHY_FIBER_EXPERT",
+   "key": "00d971f6",
+   "ru": "Собрано не менее 500 волокнистых культур."
+  },
+  {
+   "n": 397,
+   "f": 2,
+   "id": "MES_TROPHY_FIBER_MASTER",
+   "key": "1ba84ff5",
+   "ru": "Собрано не менее 1 000 волокнистых культур."
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "MES_TROPHY_FIBER_LEGEND",
+   "key": "f12e9297",
+   "ru": "Собрано не менее 2 000 волокнистых культур."
+  },
+  {
+   "n": 399,
+   "f": 2,
+   "id": "MES_TROPHY_GRAIN_BEGINNER",
+   "key": "e48d5ee2",
+   "ru": "Собрано не менее 100 зерновых."
+  },
+  {
+   "n": 400,
+   "f": 2,
+   "id": "MES_TROPHY_GRAIN_EXPERT",
+   "key": "30bc1265",
+   "ru": "Собрано не менее 500 зерновых."
+  },
+  {
+   "n": 401,
+   "f": 2,
+   "id": "MES_TROPHY_GRAIN_MASTER",
+   "key": "2bcd2c66",
+   "ru": "Собрано не менее 1 000 зерновых."
+  },
+  {
+   "n": 402,
+   "f": 2,
+   "id": "MES_TROPHY_GRAIN_LEGEND",
+   "key": "c14bf104",
+   "ru": "Собрано не менее 2 000 зерновых."
+  },
+  {
+   "n": 403,
+   "f": 2,
+   "id": "MES_TROPHY_PADDY_BEGINNER",
+   "key": "ca01ec7a",
+   "ru": "Собрано не менее 100 урожаев риса."
+  },
+  {
+   "n": 404,
+   "f": 2,
+   "id": "MES_TROPHY_PADDY_EXPERT",
+   "key": "1e30a0fd",
+   "ru": "Собрано не менее 500 урожаев риса."
+  },
+  {
+   "n": 405,
+   "f": 2,
+   "id": "MES_TROPHY_PADDY_MASTER",
+   "key": "05419efe",
+   "ru": "Собрано не менее 1 000 урожаев риса."
+  },
+  {
+   "n": 406,
+   "f": 2,
+   "id": "MES_TROPHY_PADDY_LEGEND",
+   "key": "efc7439c",
+   "ru": "Собрано не менее 2 000 урожаев риса."
+  },
+  {
+   "n": 407,
+   "f": 2,
+   "id": "MES_TROPHY_SPICE_BEGINNER",
+   "key": "686ce79c",
+   "ru": "Собрано не менее 100 пряностей."
+  },
+  {
+   "n": 408,
+   "f": 2,
+   "id": "MES_TROPHY_SPICE_EXPERT",
+   "key": "bc5dab1b",
+   "ru": "Собрано не менее 500 пряностей."
+  },
+  {
+   "n": 409,
+   "f": 2,
+   "id": "MES_TROPHY_SPICE_MASTER",
+   "key": "a72c9518",
+   "ru": "Собрано не менее 1 000 пряностей."
+  },
+  {
+   "n": 410,
+   "f": 2,
+   "id": "MES_TROPHY_SPICE_LEGEND",
+   "key": "4daa487a",
+   "ru": "Собрано не менее 2 000 пряностей."
+  },
+  {
+   "n": 411,
+   "f": 2,
+   "id": "MES_TROPHY_TEA_BEGINNER",
+   "key": "2f9fe7ff",
+   "ru": "Собрано не менее 100 урожаев чая."
+  },
+  {
+   "n": 412,
+   "f": 2,
+   "id": "MES_TROPHY_TEA_EXPERT",
+   "key": "363368e4",
+   "ru": "Собрано не менее 500 урожаев чая."
+  },
+  {
+   "n": 413,
+   "f": 2,
+   "id": "MES_TROPHY_TEA_MASTER",
+   "key": "c7bfb2e1",
+   "ru": "Собрано не менее 1 000 урожаев чая."
+  },
+  {
+   "n": 414,
+   "f": 2,
+   "id": "MES_TROPHY_TEA_LEGEND",
+   "key": "ee770613",
+   "ru": "Собрано не менее 2 000 урожаев чая."
+  },
+  {
+   "n": 415,
+   "f": 2,
+   "id": "MES_TROPHY_WOOD_BEGINNER",
+   "key": "4cd5df4a",
+   "ru": "Собрано не менее 100 брёвен."
+  },
+  {
+   "n": 416,
+   "f": 2,
+   "id": "MES_TROPHY_WOOD_EXPERT",
+   "key": "a5bdd2a8",
+   "ru": "Собрано не менее 500 брёвен."
+  },
+  {
+   "n": 417,
+   "f": 2,
+   "id": "MES_TROPHY_WOOD_MASTER",
+   "key": "94683958",
+   "ru": "Собрано не менее 1 000 брёвен."
+  },
+  {
+   "n": 418,
+   "f": 2,
+   "id": "MES_TROPHY_WOOD_LEGEND",
+   "key": "ef76bbbb",
+   "ru": "Собрано не менее 2 000 брёвен."
+  },
+  {
+   "n": 419,
+   "f": 2,
+   "id": "MES_TROPHY_GOLD_BEGINNER",
+   "key": "e7f9c44f",
+   "ru": "Собрано не менее 10 золотых плодов."
+  },
+  {
+   "n": 420,
+   "f": 2,
+   "id": "MES_TROPHY_GOLD_EXPERT",
+   "key": "fe554b54",
+   "ru": "Собрано не менее 50 золотых плодов."
+  },
+  {
+   "n": 421,
+   "f": 2,
+   "id": "MES_TROPHY_GOLD_MASTER",
+   "key": "7f67bc0b",
+   "ru": "Собрано не менее 100 золотых плодов."
+  },
+  {
+   "n": 422,
+   "f": 2,
+   "id": "MES_TROPHY_GOLD_LEGEND",
+   "key": "6e1ad672",
+   "ru": "Собрано не менее 200 золотых плодов."
+  },
+  {
+   "n": 423,
+   "f": 2,
+   "id": "MES_TROPHY_BIG_BEGINNER",
+   "key": "916946b6",
+   "ru": "Собрано не менее 10 гигантских плодов."
+  },
+  {
+   "n": 424,
+   "f": 2,
+   "id": "MES_TROPHY_BIG_EXPERT",
+   "key": "1b1523d5",
+   "ru": "Собрано не менее 50 гигантских плодов."
+  },
+  {
+   "n": 425,
+   "f": 2,
+   "id": "MES_TROPHY_BIG_MASTER",
+   "key": "e0405d47",
+   "ru": "Собрано не менее 100 гигантских плодов."
+  },
+  {
+   "n": 426,
+   "f": 2,
+   "id": "MES_TROPHY_BIG_LEGEND",
+   "key": "c988e9b5",
+   "ru": "Собрано не менее 200 гигантских плодов."
+  },
+  {
+   "n": 427,
+   "f": 2,
+   "id": "MES_TROPHY_COW",
+   "key": "d39496df",
+   "ru": "Не менее 20 коров в хозяйстве."
+  },
+  {
+   "n": 428,
+   "f": 2,
+   "id": "MES_TROPHY_SHEEP",
+   "key": "6f1e5716",
+   "ru": "Не менее 20 овец в хозяйстве."
+  },
+  {
+   "n": 429,
+   "f": 2,
+   "id": "MES_TROPHY_HEN",
+   "key": "7dd5f94a",
+   "ru": "Не менее 20 птиц в хозяйстве."
+  },
+  {
+   "n": 430,
+   "f": 2,
+   "id": "MES_TROPHY_RABBIT",
+   "key": "caa7310d",
+   "ru": "Не менее 20 кроликов в хозяйстве."
+  },
+  {
+   "n": 431,
+   "f": 2,
+   "id": "MES_TROPHY_ALPACA",
+   "key": "25aa3eba",
+   "ru": "Не менее 20 альпак в хозяйстве."
+  },
+  {
+   "n": 432,
+   "f": 2,
+   "id": "MES_TROPHY_ANIMAL",
+   "key": "7f00a47d",
+   "ru": "В хозяйстве есть животные всех видов."
+  },
+  {
+   "n": 433,
+   "f": 2,
+   "id": "MES_TROPHY_CHILD_ANIMAL",
+   "key": "d559022b",
+   "ru": "Получен приплод от каждого вида скота."
+  },
+  {
+   "n": 434,
+   "f": 2,
+   "id": "MES_TROPHY_MILK_BEGINNER",
+   "key": "8fcfbe61",
+   "ru": "Сбор (молоко): не менее 100 раз."
+  },
+  {
+   "n": 435,
+   "f": 2,
+   "id": "MES_TROPHY_MILK_EXPERT",
+   "key": "86241e1b",
+   "ru": "Сбор (молоко): не менее 500 раз."
+  },
+  {
+   "n": 436,
+   "f": 2,
+   "id": "MES_TROPHY_MILK_MASTER",
+   "key": "906a6ab8",
+   "ru": "Сбор (молоко): не менее 1 000 раз."
+  },
+  {
+   "n": 437,
+   "f": 2,
+   "id": "MES_TROPHY_MILK_LEGEND",
+   "key": "e7f4b848",
+   "ru": "Сбор (молоко): не менее 2 000 раз."
+  },
+  {
+   "n": 438,
+   "f": 2,
+   "id": "MES_TROPHY_EGG_BEGINNER",
+   "key": "5e9c2359",
+   "ru": "Сбор (яйца): не менее 100 раз."
+  },
+  {
+   "n": 439,
+   "f": 2,
+   "id": "MES_TROPHY_EGG_EXPERT",
+   "key": "57778323",
+   "ru": "Сбор (яйца): не менее 500 раз."
+  },
+  {
+   "n": 440,
+   "f": 2,
+   "id": "MES_TROPHY_EGG_MASTER",
+   "key": "094be8e9",
+   "ru": "Сбор (яйца): не менее 1 000 раз."
+  },
+  {
+   "n": 441,
+   "f": 2,
+   "id": "MES_TROPHY_EGG_LEGEND",
+   "key": "7ed53a19",
+   "ru": "Сбор (яйца): не менее 2 000 раз."
+  },
+  {
+   "n": 442,
+   "f": 2,
+   "id": "MES_TROPHY_WOOL_BEGINNER",
+   "key": "46c7688f",
+   "ru": "Сбор (шерсть): не менее 100 раз."
+  },
+  {
+   "n": 443,
+   "f": 2,
+   "id": "MES_TROPHY_WOOL_EXPERT",
+   "key": "4f2cc8f5",
+   "ru": "Сбор (шерсть): не менее 500 раз."
+  },
+  {
+   "n": 444,
+   "f": 2,
+   "id": "MES_TROPHY_WOOL_MASTER",
+   "key": "3f270a33",
+   "ru": "Сбор (шерсть): не менее 1 000 раз."
+  },
+  {
+   "n": 445,
+   "f": 2,
+   "id": "MES_TROPHY_WOOL_LEGEND",
+   "key": "48b9d8c3",
+   "ru": "Сбор (шерсть): не менее 2 000 раз."
+  },
+  {
+   "n": 446,
+   "f": 2,
+   "id": "MES_TROPHY_ALPACA_WOOL_BEGINNER",
+   "key": "985bf3ee",
+   "ru": "Сбор (шерсть альпак): не менее 100 раз."
+  },
+  {
+   "n": 447,
+   "f": 2,
+   "id": "MES_TROPHY_ALPACA_WOOL_EXPERT",
+   "key": "91b05394",
+   "ru": "Сбор (шерсть альпак): не менее 500 раз."
+  },
+  {
+   "n": 448,
+   "f": 2,
+   "id": "MES_TROPHY_ALPACA_WOOL_MASTER",
+   "key": "241cc485",
+   "ru": "Сбор (шерсть альпак): не менее 1 000 раз."
+  },
+  {
+   "n": 449,
+   "f": 2,
+   "id": "MES_TROPHY_ALPACA_WOOL_LEGEND",
+   "key": "53821675",
+   "ru": "Сбор (шерсть альпак): не менее 2 000 раз."
+  },
+  {
+   "n": 450,
+   "f": 2,
+   "id": "MES_TROPHY_ANGOLA_BEGINNER",
+   "key": "bca256b2",
+   "ru": "Сбор (кроличий пух): не менее 100 раз."
+  },
+  {
+   "n": 451,
+   "f": 2,
+   "id": "MES_TROPHY_ANGOLA_EXPERT",
+   "key": "b549f6c8",
+   "ru": "Сбор (кроличий пух): не менее 500 раз."
+  },
+  {
+   "n": 452,
+   "f": 2,
+   "id": "MES_TROPHY_ANGOLA_MASTER",
+   "key": "94aea543",
+   "ru": "Сбор (кроличий пух): не менее 1 000 раз."
+  },
+  {
+   "n": 453,
+   "f": 2,
+   "id": "MES_TROPHY_ANGOLA_LEGEND",
+   "key": "e33077b3",
+   "ru": "Сбор (кроличий пух): не менее 2 000 раз."
+  },
+  {
+   "n": 454,
+   "f": 2,
+   "id": "MES_TROPHY_LLAMA_WOOL_BEGINNER",
+   "key": "ed42acbd",
+   "ru": "Сбор (шерсть лам): не менее 100 раз."
+  },
+  {
+   "n": 455,
+   "f": 2,
+   "id": "MES_TROPHY_LLAMA_WOOL_EXPERT",
+   "key": "e4a90cc7",
+   "ru": "Сбор (шерсть лам): не менее 500 раз."
+  },
+  {
+   "n": 456,
+   "f": 2,
+   "id": "MES_TROPHY_LLAMA_WOOL_MASTER",
+   "key": "4e5ef36e",
+   "ru": "Сбор (шерсть лам): не менее 1 000 раз."
+  },
+  {
+   "n": 457,
+   "f": 2,
+   "id": "MES_TROPHY_LLAMA_WOOL_LEGEND",
+   "key": "39c0219e",
+   "ru": "Сбор (шерсть лам): не менее 2 000 раз."
+  },
+  {
+   "n": 458,
+   "f": 2,
+   "id": "MES_TROPHY_PRIME_ITEM_BEGINNER",
+   "key": "04425e21",
+   "ru": "Сбор (товары “+”): не менее 100 раз."
+  },
+  {
+   "n": 459,
+   "f": 2,
+   "id": "MES_TROPHY_PRIME_ITEM_EXPERT",
+   "key": "0da9fe5b",
+   "ru": "Сбор (товары “+”): не менее 500 раз."
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_TROPHY_PRIME_ITEM_MASTER",
+   "key": "c0194c48",
+   "ru": "Сбор (товары “+”): не менее 1 000 раз."
+  },
+  {
+   "n": 461,
+   "f": 2,
+   "id": "MES_TROPHY_PRIME_ITEM_LEGEND",
+   "key": "b7879eb8",
+   "ru": "Сбор (товары “+”): не менее 2 000 раз."
+  },
+  {
+   "n": 462,
+   "f": 2,
+   "id": "MES_TROPHY_PET_BEGINNER",
+   "key": "bbef36b7",
+   "ru": "12 питомцев одновременно."
+  },
+  {
+   "n": 463,
+   "f": 2,
+   "id": "MES_TROPHY_PET_EXPERT",
+   "key": "3d484975",
+   "ru": "Максимум дружбы с питомцем."
+  },
+  {
+   "n": 464,
+   "f": 2,
+   "id": "MES_TROPHY_PET_MASTER",
+   "key": "2832c430",
+   "ru": "Питомец достиг 10-го уровня."
+  },
+  {
+   "n": 465,
+   "f": 2,
+   "id": "MES_TROPHY_PET_LEGEND",
+   "key": "c9058fb9",
+   "ru": "Загадочное достижение с питомцем."
+  },
+  {
+   "n": 466,
+   "f": 2,
+   "id": "MES_TROPHY_WILD_ANIMAL_OPEN",
+   "key": "11aa5162",
+   "ru": "Открыт доступ ко всем диким животным."
+  },
+  {
+   "n": 467,
+   "f": 2,
+   "id": "MES_TROPHY_WILD_ANIMAL_FRIEND",
+   "key": "81b6b56f",
+   "ru": "Дружба со всеми дикими животными."
+  },
+  {
+   "n": 468,
+   "f": 2,
+   "id": "MES_TROPHY_AMERICA_SHIPMENT_BEGINNER",
+   "key": "d616b493",
+   "ru": "Отгружено товаров в Уэстаун на 100 000G."
+  },
+  {
+   "n": 469,
+   "f": 2,
+   "id": "MES_TROPHY_AMERICA_SHIPMENT_EXPERT",
+   "key": "5b788935",
+   "ru": "Отгружено товаров в Уэстаун на 1 000 000G."
+  },
+  {
+   "n": 470,
+   "f": 2,
+   "id": "MES_TROPHY_AMERICA_SHIPMENT_MASTER",
+   "key": "c068aa69",
+   "ru": "Отгружено товаров в Уэстаун на 10 000 000G."
+  },
+  {
+   "n": 471,
+   "f": 2,
+   "id": "MES_TROPHY_AMERICA_SHIPMENT_LEGEND",
+   "key": "a22ea795",
+   "ru": "Отгружено товаров в Уэстаун на 100 000 000G."
+  },
+  {
+   "n": 472,
+   "f": 2,
+   "id": "MES_TROPHY_JAPAN_SHIPMENT_BEGINNER",
+   "key": "00fde330",
+   "ru": "Отгружено товаров в Цуюкусу на 100 000G."
+  },
+  {
+   "n": 473,
+   "f": 2,
+   "id": "MES_TROPHY_JAPAN_SHIPMENT_EXPERT",
+   "key": "a0c83920",
+   "ru": "Отгружено товаров в Цуюкусу на 1 000 000G."
+  },
+  {
+   "n": 474,
+   "f": 2,
+   "id": "MES_TROPHY_JAPAN_SHIPMENT_MASTER",
+   "key": "14a1c11a",
+   "ru": "Отгружено товаров в Цуюкусу на 10 000 000G."
+  },
+  {
+   "n": 475,
+   "f": 2,
+   "id": "MES_TROPHY_JAPAN_SHIPMENT_LEGEND",
+   "key": "d2197150",
+   "ru": "Отгружено товаров в Цуюкусу на 100 000 000G."
+  },
+  {
+   "n": 476,
+   "f": 2,
+   "id": "MES_TROPHY_SOUTH_SHIPMENT_BEGINNER",
+   "key": "e0648112",
+   "ru": "Отгружено товаров в Лулукоко на 100 000G."
+  },
+  {
+   "n": 477,
+   "f": 2,
+   "id": "MES_TROPHY_SOUTH_SHIPMENT_EXPERT",
+   "key": "df5ce9f2",
+   "ru": "Отгружено товаров в Лулукоко на 1 000 000G."
+  },
+  {
+   "n": 478,
+   "f": 2,
+   "id": "MES_TROPHY_SOUTH_SHIPMENT_MASTER",
+   "key": "bd1ae40e",
+   "ru": "Отгружено товаров в Лулукоко на 10 000 000G."
+  },
+  {
+   "n": 479,
+   "f": 2,
+   "id": "MES_TROPHY_SOUTH_SHIPMENT_LEGEND",
+   "key": "09731c34",
+   "ru": "Отгружено товаров в Лулукоко на 100 000 000G."
+  },
+  {
+   "n": 480,
+   "f": 2,
+   "id": "MES_TROPHY_PANEL_BEGINNER",
+   "key": "659fc93c",
+   "ru": "Собрано не менее 100 украшений."
+  },
+  {
+   "n": 481,
+   "f": 2,
+   "id": "MES_TROPHY_PANEL_EXPERT",
+   "key": "4c577dce",
+   "ru": "Собрано не менее 200 украшений."
+  },
+  {
+   "n": 482,
+   "f": 2,
+   "id": "MES_TROPHY_PANEL_MASTER",
+   "key": "1bf06d9c",
+   "ru": "Собраны все украшения."
+  },
+  {
+   "n": 483,
+   "f": 2,
+   "id": "MES_TROPHY_LIANE_FIRST",
+   "key": "359596fb",
+   "ru": "Собран хотя бы 1 плод лиан."
+  },
+  {
+   "n": 484,
+   "f": 2,
+   "id": "MES_TROPHY_LIANE_BEGINNER",
+   "key": "ff5dff5f",
+   "ru": "Собрано не менее 100 плодов лиан."
+  },
+  {
+   "n": 485,
+   "f": 2,
+   "id": "MES_TROPHY_LIANE_NORMAL",
+   "key": "57db4ece",
+   "ru": "Собрано не менее 300 плодов лиан."
+  },
+  {
+   "n": 486,
+   "f": 2,
+   "id": "MES_TROPHY_LIANE_EXPERT",
+   "key": "75219a3c",
+   "ru": "Собрано не менее 500 плодов лиан."
+  },
+  {
+   "n": 487,
+   "f": 2,
+   "id": "MES_TROPHY_LIANE_GREAT",
+   "key": "892fe830",
+   "ru": "Собрано не менее 800 плодов лиан."
+  },
+  {
+   "n": 488,
+   "f": 2,
+   "id": "MES_TROPHY_LIANE_MASTER",
+   "key": "ad3c53f8",
+   "ru": "Собрано не менее 1 200 плодов лиан."
+  },
+  {
+   "n": 489,
+   "f": 2,
+   "id": "MES_TROPHY_BAMBOO_FIRST",
+   "key": "24a5b0b2",
+   "ru": "Собран хотя бы 1 бамбуковый побег."
+  },
+  {
+   "n": 490,
+   "f": 2,
+   "id": "MES_TROPHY_BAMBOO_BEGINNER",
+   "key": "1b636fb5",
+   "ru": "Собрано не менее 10 бамбуковых побегов."
+  },
+  {
+   "n": 491,
+   "f": 2,
+   "id": "MES_TROPHY_BAMBOO_NORMAL",
+   "key": "cf5fff72",
+   "ru": "Собрано не менее 30 бамбуковых побегов."
+  },
+  {
+   "n": 492,
+   "f": 2,
+   "id": "MES_TROPHY_BAMBOO_EXPERT",
+   "key": "686b487a",
+   "ru": "Собрано не менее 50 бамбуковых побегов."
+  },
+  {
+   "n": 493,
+   "f": 2,
+   "id": "MES_TROPHY_BAMBOO_GREAT",
+   "key": "7ad5eb68",
+   "ru": "Собрано не менее 80 бамбуковых побегов."
+  },
+  {
+   "n": 494,
+   "f": 2,
+   "id": "MES_TROPHY_BAMBOO_MASTER",
+   "key": "b5f7b5fb",
+   "ru": "Собрано не менее 150 бамбуковых побегов."
+  },
+  {
+   "n": 495,
+   "f": 2,
+   "id": "MES_TROPHY_MAPLE_FIRST",
+   "key": "24692d11",
+   "ru": "Сбор (кленовый сироп): хотя бы 1 раз."
+  },
+  {
+   "n": 496,
+   "f": 2,
+   "id": "MES_TROPHY_MAPLE_BEGINNER",
+   "key": "d7896fcd",
+   "ru": "Сбор (кленовый сироп): не менее 10 раз."
+  },
+  {
+   "n": 497,
+   "f": 2,
+   "id": "MES_TROPHY_MAPLE_NORMAL",
+   "key": "f97f474b",
+   "ru": "Сбор (кленовый сироп): не менее 30 раз."
+  },
+  {
+   "n": 498,
+   "f": 2,
+   "id": "MES_TROPHY_MAPLE_EXPERT",
+   "key": "8a653ec1",
+   "ru": "Сбор (кленовый сироп): не менее 50 раз."
+  },
+  {
+   "n": 499,
+   "f": 2,
+   "id": "MES_TROPHY_MAPLE_GREAT",
+   "key": "7b2ad996",
+   "ru": "Сбор (кленовый сироп): не менее 80 раз."
+  },
+  {
+   "n": 500,
+   "f": 2,
+   "id": "MES_TROPHY_MAPLE_MASTER",
+   "key": "92a20f51",
+   "ru": "Сбор (кленовый сироп): не менее 150 раз."
+  },
+  {
+   "n": 501,
+   "f": 2,
+   "id": "MES_TROPHY_HONEY_FIRST",
+   "key": "02c9e0c8",
+   "ru": "Сбор (мёд): хотя бы 1 раз."
+  },
+  {
+   "n": 502,
+   "f": 2,
+   "id": "MES_TROPHY_HONEY_BEGINNER",
+   "key": "2a468752",
+   "ru": "Сбор (мёд): не менее 15 раз."
+  },
+  {
+   "n": 503,
+   "f": 2,
+   "id": "MES_TROPHY_HONEY_NORMAL",
+   "key": "4c50a1b0",
+   "ru": "Сбор (мёд): не менее 30 раз."
+  },
+  {
+   "n": 504,
+   "f": 2,
+   "id": "MES_TROPHY_HONEY_EXPERT",
+   "key": "3f4ad83a",
+   "ru": "Сбор (мёд): не менее 50 раз."
+  },
+  {
+   "n": 505,
+   "f": 2,
+   "id": "MES_TROPHY_HONEY_GREAT",
+   "key": "ce053f6d",
+   "ru": "Сбор (мёд): не менее 80 раз."
+  },
+  {
+   "n": 506,
+   "f": 2,
+   "id": "MES_TROPHY_HONEY_MASTER",
+   "key": "b8780b23",
+   "ru": "Сбор (мёд): не менее 150 раз."
+  },
+  {
+   "n": 507,
+   "f": 2,
+   "id": "MES_TROPHY_MUSHROOM_FIRST",
+   "key": "7b831f1e",
+   "ru": "Собран хотя бы 1 гриб."
+  },
+  {
+   "n": 508,
+   "f": 2,
+   "id": "MES_TROPHY_MUSHROOM_BEGINNER",
+   "key": "8bb20e94",
+   "ru": "Собрано не менее 15 грибов."
+  },
+  {
+   "n": 509,
+   "f": 2,
+   "id": "MES_TROPHY_MUSHROOM_NORMAL",
+   "key": "734dcccf",
+   "ru": "Собрано не менее 30 грибов."
+  },
+  {
+   "n": 510,
+   "f": 2,
+   "id": "MES_TROPHY_MUSHROOM_EXPERT",
+   "key": "d3a81312",
+   "ru": "Собрано не менее 50 грибов."
+  },
+  {
+   "n": 511,
+   "f": 2,
+   "id": "MES_TROPHY_MUSHROOM_GREAT",
+   "key": "9484736c",
+   "ru": "Собрано не менее 80 грибов."
+  },
+  {
+   "n": 512,
+   "f": 2,
+   "id": "MES_TROPHY_MUSHROOM_MASTER",
+   "key": "41099cc3",
+   "ru": "Собрано не менее 150 грибов."
+  },
+  {
+   "n": 513,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_CULTURE_FIRST",
+   "key": "8e0a72ec",
+   "ru": "Выращена хотя бы 1 рыба."
+  },
+  {
+   "n": 514,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_CULTURE_BEGINNER",
+   "key": "50b8b099",
+   "ru": "Выращено не менее 30 рыб."
+  },
+  {
+   "n": 515,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_CULTURE_NORMAL",
+   "key": "d4f2be63",
+   "ru": "Выращено не менее 70 рыб."
+  },
+  {
+   "n": 516,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_CULTURE_EXPERT",
+   "key": "5effaf6e",
+   "ru": "Выращено не менее 120 рыб."
+  },
+  {
+   "n": 517,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_CULTURE_GREAT",
+   "key": "255794d6",
+   "ru": "Выращено не менее 200 рыб."
+  },
+  {
+   "n": 518,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_CULTURE_MASTER",
+   "key": "322c8095",
+   "ru": "Выращено не менее 300 рыб."
+  },
+  {
+   "n": 519,
+   "f": 2,
+   "id": "MES_TROPHY_PERL_FIRST",
+   "key": "9e77ded1",
+   "ru": "Выращена хотя бы 1 жемчужина."
+  },
+  {
+   "n": 520,
+   "f": 2,
+   "id": "MES_TROPHY_PERL_BEGINNER",
+   "key": "ad6705cb",
+   "ru": "Выращено не менее 5 жемчужин."
+  },
+  {
+   "n": 521,
+   "f": 2,
+   "id": "MES_TROPHY_PERL_NORMAL",
+   "key": "99cb3128",
+   "ru": "Выращено не менее 15 жемчужин."
+  },
+  {
+   "n": 522,
+   "f": 2,
+   "id": "MES_TROPHY_PERL_EXPERT",
+   "key": "d7a9a45a",
+   "ru": "Выращено не менее 30 жемчужин."
+  },
+  {
+   "n": 523,
+   "f": 2,
+   "id": "MES_TROPHY_PERL_GREAT",
+   "key": "dab7d41d",
+   "ru": "Выращено не менее 50 жемчужин."
+  },
+  {
+   "n": 524,
+   "f": 2,
+   "id": "MES_TROPHY_PERL_MASTER",
+   "key": "05a900af",
+   "ru": "Выращено не менее 100 жемчужин."
+  },
+  {
+   "n": 525,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MILL_BEGINNER",
+   "key": "e401caf3",
+   "ru": "Мельница: сделано не менее 50 предметов."
+  },
+  {
+   "n": 526,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MILL_EXPERT",
+   "key": "14c0adfc",
+   "ru": "Мельница: сделано не менее 100 предметов."
+  },
+  {
+   "n": 527,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MILL_MASTER",
+   "key": "ef7de707",
+   "ru": "Мельница: сделано не менее 500 предметов."
+  },
+  {
+   "n": 528,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MILL_LEGEND",
+   "key": "d40755c0",
+   "ru": "Мельница: сделано не менее 1 000 предметов."
+  },
+  {
+   "n": 529,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_CLOTH_BEGINNER",
+   "key": "01424b7d",
+   "ru": "Ткацкая мастерская: сделано не менее 50\nпредметов."
+  },
+  {
+   "n": 530,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_CLOTH_EXPERT",
+   "key": "a1320edc",
+   "ru": "Ткацкая мастерская: сделано не менее 100\nпредметов."
+  },
+  {
+   "n": 531,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_CLOTH_MASTER",
+   "key": "50b182fc",
+   "ru": "Ткацкая мастерская: сделано не менее 500\nпредметов."
+  },
+  {
+   "n": 532,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_CLOTH_LEGEND",
+   "key": "d92b3298",
+   "ru": "Ткацкая мастерская: сделано не менее 1 000\nпредметов."
+  },
+  {
+   "n": 533,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_SEED_BEGINNER",
+   "key": "fd8a5535",
+   "ru": "Семенной станок: сделано не менее 50\nпредметов."
+  },
+  {
+   "n": 534,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_SEED_EXPERT",
+   "key": "30091dbe",
+   "ru": "Семенной станок: сделано не менее 100\nпредметов."
+  },
+  {
+   "n": 535,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_SEED_MASTER",
+   "key": "36dee9ca",
+   "ru": "Семенной станок: сделано не менее 500\nпредметов."
+  },
+  {
+   "n": 536,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_SEED_LEGEND",
+   "key": "c41d3d2c",
+   "ru": "Семенной станок: сделано не менее 1 000\nпредметов."
+  },
+  {
+   "n": 537,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_POT_BEGINNER",
+   "key": "c2fd6a5f",
+   "ru": "Джемоварня: сделано не менее 50 предметов."
+  },
+  {
+   "n": 538,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_POT_EXPERT",
+   "key": "b85ab3bf",
+   "ru": "Джемоварня: сделано не менее 100 предметов."
+  },
+  {
+   "n": 539,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_POT_MASTER",
+   "key": "ef34d16e",
+   "ru": "Джемоварня: сделано не менее 500 предметов."
+  },
+  {
+   "n": 540,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_POT_LEGEND",
+   "key": "a6af55f7",
+   "ru": "Джемоварня: сделано не менее 1 000 предметов."
+  },
+  {
+   "n": 541,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_JAR_BEGINNER",
+   "key": "1654d5ba",
+   "ru": "Ферментёр: сделано не менее 50 предметов."
+  },
+  {
+   "n": 542,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_JAR_EXPERT",
+   "key": "421acd4f",
+   "ru": "Ферментёр: сделано не менее 100 предметов."
+  },
+  {
+   "n": 543,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_JAR_MASTER",
+   "key": "235ba60a",
+   "ru": "Ферментёр: сделано не менее 500 предметов."
+  },
+  {
+   "n": 544,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_JAR_LEGEND",
+   "key": "828f0e59",
+   "ru": "Ферментёр: сделано не менее 1 000 предметов."
+  },
+  {
+   "n": 545,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_WINE_BEGINNER",
+   "key": "f7802243",
+   "ru": "Винодельня: сделано не менее 50 предметов."
+  },
+  {
+   "n": 546,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_WINE_EXPERT",
+   "key": "397469d3",
+   "ru": "Винодельня: сделано не менее 100 предметов."
+  },
+  {
+   "n": 547,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_WINE_MASTER",
+   "key": "5072f78c",
+   "ru": "Винодельня: сделано не менее 500 предметов."
+  },
+  {
+   "n": 548,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_WINE_LEGEND",
+   "key": "44e0f8ac",
+   "ru": "Винодельня: сделано не менее 1 000 предметов."
+  },
+  {
+   "n": 549,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MILK_BEGINNER",
+   "key": "27ce2753",
+   "ru": "Молочный цех: сделано не менее 50 предметов."
+  },
+  {
+   "n": 550,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MILK_EXPERT",
+   "key": "86bfc468",
+   "ru": "Молочный цех: сделано не менее 100 предметов."
+  },
+  {
+   "n": 551,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MILK_MASTER",
+   "key": "bd20672c",
+   "ru": "Молочный цех: сделано не менее 500 предметов."
+  },
+  {
+   "n": 552,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MILK_LEGEND",
+   "key": "f77658dd",
+   "ru": "Молочный цех: сделано не менее 1 000\nпредметов."
+  },
+  {
+   "n": 553,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MANURE_BEGINNER",
+   "key": "9f3c4c35",
+   "ru": "Цех удобрений: сделано не менее 50 предметов."
+  },
+  {
+   "n": 554,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MANURE_EXPERT",
+   "key": "e553a760",
+   "ru": "Цех удобрений: сделано не менее 100\nпредметов."
+  },
+  {
+   "n": 555,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MANURE_MASTER",
+   "key": "775ae3b8",
+   "ru": "Цех удобрений: сделано не менее 500\nпредметов."
+  },
+  {
+   "n": 556,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_MANURE_LEGEND",
+   "key": "198a24e8",
+   "ru": "Цех удобрений: сделано не менее 1 000\nпредметов."
+  },
+  {
+   "n": 557,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_FEED_BEGINNER",
+   "key": "222b3dbc",
+   "ru": "Кормоцех: сделано не менее 50 предметов."
+  },
+  {
+   "n": 558,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_FEED_EXPERT",
+   "key": "efa87537",
+   "ru": "Кормоцех: сделано не менее 100 предметов."
+  },
+  {
+   "n": 559,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_FEED_MASTER",
+   "key": "e97f8143",
+   "ru": "Кормоцех: сделано не менее 500 предметов."
+  },
+  {
+   "n": 560,
+   "f": 2,
+   "id": "MES_TROPHY_MAKER_FEED_LEGEND",
+   "key": "1bbc55a5",
+   "ru": "Кормоцех: сделано не менее 1 000 предметов."
+  },
+  {
+   "n": 561,
+   "f": 2,
+   "id": "MES_TROPHY_MONEY_BEGINNER",
+   "key": "2848fe09",
+   "ru": "Не менее 50 000G на руках одновременно."
+  },
+  {
+   "n": 562,
+   "f": 2,
+   "id": "MES_TROPHY_MONEY_EXPERT",
+   "key": "4282d3f2",
+   "ru": "Не менее 100 000G на руках одновременно."
+  },
+  {
+   "n": 563,
+   "f": 2,
+   "id": "MES_TROPHY_MONEY_MASTER",
+   "key": "d801f5eb",
+   "ru": "Не менее 5 000 000G на руках одновременно."
+  },
+  {
+   "n": 564,
+   "f": 2,
+   "id": "MES_TROPHY_MONEY_LEGEND",
+   "key": "3a0b18f1",
+   "ru": "Не менее 10 000 000G на руках одновременно."
+  },
+  {
+   "n": 565,
+   "f": 2,
+   "id": "MES_TROPHY_COOKING_FIRST",
+   "key": "98861bb7",
+   "ru": "Первое приготовленное блюдо."
+  },
+  {
+   "n": 566,
+   "f": 2,
+   "id": "MES_TROPHY_COOKING_BEGINNER",
+   "key": "868607a1",
+   "ru": "Приготовлено не менее 10 блюд."
+  },
+  {
+   "n": 567,
+   "f": 2,
+   "id": "MES_TROPHY_COOKING_NORMAL",
+   "key": "9feabbf5",
+   "ru": "Приготовлено не менее 100 блюд."
+  },
+  {
+   "n": 568,
+   "f": 2,
+   "id": "MES_TROPHY_COOKING_QUITE",
+   "key": "c7860234",
+   "ru": "Приготовлено не менее 300 блюд."
+  },
+  {
+   "n": 569,
+   "f": 2,
+   "id": "MES_TROPHY_COOKING_FREAK",
+   "key": "2f33c877",
+   "ru": "Приготовлено не менее 500 блюд."
+  },
+  {
+   "n": 570,
+   "f": 2,
+   "id": "MES_TROPHY_COOKING_EXPERT",
+   "key": "775f71b6",
+   "ru": "Приготовлено не менее 700 блюд."
+  },
+  {
+   "n": 571,
+   "f": 2,
+   "id": "MES_TROPHY_COOKING_CHARISMA",
+   "key": "e6e79c42",
+   "ru": "Приготовлено не менее 1 000 блюд."
+  },
+  {
+   "n": 572,
+   "f": 2,
+   "id": "MES_TROPHY_COOKING_AMBASSADOR",
+   "key": "fbc82f51",
+   "ru": "Приготовлено не менее 4 000 блюд."
+  },
+  {
+   "n": 573,
+   "f": 2,
+   "id": "MES_TROPHY_COOKING_PROFESSOR",
+   "key": "4602439f",
+   "ru": "Приготовлено не менее 7 000 блюд."
+  },
+  {
+   "n": 574,
+   "f": 2,
+   "id": "MES_TROPHY_COOKING_MASTER",
+   "key": "8126d6f0",
+   "ru": "Приготовлено не менее 10 000 блюд."
+  },
+  {
+   "n": 575,
+   "f": 2,
+   "id": "MES_TROPHY_RECIPE_BEGINNER",
+   "key": "cdb2e19c",
+   "ru": "Собрано не менее 100 рецептов."
+  },
+  {
+   "n": 576,
+   "f": 2,
+   "id": "MES_TROPHY_RECIPE_EXPERT",
+   "key": "ba2c336c",
+   "ru": "Собрано не менее 200 рецептов."
+  },
+  {
+   "n": 577,
+   "f": 2,
+   "id": "MES_TROPHY_RECIPE_MASTER",
+   "key": "0cb624ce",
+   "ru": "Собраны все рецепты."
+  },
+  {
+   "n": 578,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NET_FIRST",
+   "key": "c73b4c1e",
+   "ru": "Первое использование рыболовной ловушки."
+  },
+  {
+   "n": 579,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NET_BEGINNER",
+   "key": "50ea8d1b",
+   "ru": "Рыболовная ловушка: не менее 10 раз."
+  },
+  {
+   "n": 580,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NET_NORMAL",
+   "key": "0d06dc17",
+   "ru": "Рыболовная ловушка: не менее 50 раз."
+  },
+  {
+   "n": 581,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NET_QUITE",
+   "key": "b7025e1d",
+   "ru": "Рыболовная ловушка: не менее 100 раз."
+  },
+  {
+   "n": 582,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NET_FREAK",
+   "key": "5c35e51e",
+   "ru": "Рыболовная ловушка: не менее 200 раз."
+  },
+  {
+   "n": 583,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NET_EXPERT",
+   "key": "512b9559",
+   "ru": "Рыболовная ловушка: не менее 400 раз."
+  },
+  {
+   "n": 584,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NET_CHARISMA",
+   "key": "4b1775d7",
+   "ru": "Рыболовная ловушка: не менее 800 раз."
+  },
+  {
+   "n": 585,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NET_AMBASSADOR",
+   "key": "58dd3df4",
+   "ru": "Рыболовная ловушка: не менее 1 300 раз."
+  },
+  {
+   "n": 586,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NET_PROFESSOR",
+   "key": "4fffad3d",
+   "ru": "Рыболовная ловушка: не менее 1 900 раз."
+  },
+  {
+   "n": 587,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NET_MASTER",
+   "key": "5fd11868",
+   "ru": "Рыболовная ловушка: не менее 3 000 раз."
+  },
+  {
+   "n": 588,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_FIRST",
+   "key": "831d624c",
+   "ru": "Первая пойманная рыба."
+  },
+  {
+   "n": 589,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_BEGINNER",
+   "key": "6ff1dc24",
+   "ru": "Поймано не менее 10 рыб."
+  },
+  {
+   "n": 590,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_NORMAL",
+   "key": "ebbbd2de",
+   "ru": "Поймано не менее 50 рыб."
+  },
+  {
+   "n": 591,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_QUITE",
+   "key": "87c306c8",
+   "ru": "Поймано не менее 100 рыб."
+  },
+  {
+   "n": 592,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_FREAK",
+   "key": "be4e3a0d",
+   "ru": "Поймано не менее 200 рыб."
+  },
+  {
+   "n": 593,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_EXPERT",
+   "key": "cd544387",
+   "ru": "Поймано не менее 400 рыб."
+  },
+  {
+   "n": 594,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_CHARISMA",
+   "key": "2b60b093",
+   "ru": "Поймано не менее 800 рыб."
+  },
+  {
+   "n": 595,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_AMBASSADOR",
+   "key": "be45a8fa",
+   "ru": "Поймано не менее 1 300 рыб."
+  },
+  {
+   "n": 596,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_PROFESSOR",
+   "key": "2b6b2264",
+   "ru": "Поймано не менее 1 900 рыб."
+  },
+  {
+   "n": 597,
+   "f": 2,
+   "id": "MES_TROPHY_FISHING_MASTER",
+   "key": "dfa42dfe",
+   "ru": "Поймано не менее 3 000 рыб."
+  },
+  {
+   "n": 598,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_BEGINNER",
+   "key": "07060898",
+   "ru": "Поймано не менее 20 видов рыб."
+  },
+  {
+   "n": 599,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_EXPERT",
+   "key": "f5600125",
+   "ru": "Поймано не менее 50 видов рыб."
+  },
+  {
+   "n": 600,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_MASTER",
+   "key": "a15bf36e",
+   "ru": "Пойманы все виды рыб."
+  },
+  {
+   "n": 601,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_SIZE_BEGINNER",
+   "key": "b7eb2b7a",
+   "ru": "Максимальный размер рыбы: не менее 20 видов."
+  },
+  {
+   "n": 602,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_SIZE_EXPERT",
+   "key": "fdd5a031",
+   "ru": "Максимальный размер рыбы: не менее 50 видов."
+  },
+  {
+   "n": 603,
+   "f": 2,
+   "id": "MES_TROPHY_FISH_SIZE_MASTER",
+   "key": "439f2928",
+   "ru": "Максимальный размер рыбы: все виды."
+  },
+  {
+   "n": 604,
+   "f": 2,
+   "id": "MES_TROPHY_ORE_BEGINNER",
+   "key": "95871483",
+   "ru": "Собрано не менее 10 видов руды."
+  },
+  {
+   "n": 605,
+   "f": 2,
+   "id": "MES_TROPHY_ORE_EXPERT",
+   "key": "bc4fa071",
+   "ru": "Собрано не менее 20 видов руды."
+  },
+  {
+   "n": 606,
+   "f": 2,
+   "id": "MES_TROPHY_ORE_MASTER",
+   "key": "7cc60131",
+   "ru": "Собраны все виды руды."
+  },
+  {
+   "n": 607,
+   "f": 2,
+   "id": "MES_TROPHY_MINING_BEGINNER",
+   "key": "934b4244",
+   "ru": "Добыча в шахте: не менее 100 раз."
+  },
+  {
+   "n": 608,
+   "f": 2,
+   "id": "MES_TROPHY_MINING_EXPERT",
+   "key": "9aa0e23e",
+   "ru": "Добыча в шахте: не менее 500 раз."
+  },
+  {
+   "n": 609,
+   "f": 2,
+   "id": "MES_TROPHY_MINING_MASTER",
+   "key": "cc9218ec",
+   "ru": "Добыча в шахте: не менее 1 000 раз."
+  },
+  {
+   "n": 610,
+   "f": 2,
+   "id": "MES_TROPHY_MINING_LEGEND",
+   "key": "bb0cca1c",
+   "ru": "Добыча в шахте: не менее 2 000 раз."
+  },
+  {
+   "n": 611,
+   "f": 2,
+   "id": "MES_TROPHY_DRESS_BEGINNER",
+   "key": "2685bb05",
+   "ru": "Собрано не менее 50 фасонов одежды."
+  },
+  {
+   "n": 612,
+   "f": 2,
+   "id": "MES_TROPHY_DRESS_EXPERT",
+   "key": "f99bcc88",
+   "ru": "Собрано не менее 100 фасонов одежды."
+  },
+  {
+   "n": 613,
+   "f": 2,
+   "id": "MES_TROPHY_DRESS_MASTER",
+   "key": "3f590b62",
+   "ru": "Собраны все фасоны одежды."
+  },
+  {
+   "n": 614,
+   "f": 2,
+   "id": "MES_TROPHY_HAT_BEGINNER",
+   "key": "89ce8df5",
+   "ru": "Собрано не менее 10 фасонов головных уборов."
+  },
+  {
+   "n": 615,
+   "f": 2,
+   "id": "MES_TROPHY_HAT_EXPERT",
+   "key": "6d0a8c88",
+   "ru": "Собрано не менее 30 фасонов головных уборов."
+  },
+  {
+   "n": 616,
+   "f": 2,
+   "id": "MES_TROPHY_HAT_MASTER",
+   "key": "7aeade7e",
+   "ru": "Собраны все фасоны головных уборов."
+  },
+  {
+   "n": 617,
+   "f": 2,
+   "id": "MES_TROPHY_GLASS_BEGINNER",
+   "key": "b8841d4a",
+   "ru": "Собрано 5 фасонов очков."
+  },
+  {
+   "n": 618,
+   "f": 2,
+   "id": "MES_TROPHY_GLASS_EXPERT",
+   "key": "85be7a9b",
+   "ru": "Собрано 10 фасонов очков."
+  },
+  {
+   "n": 619,
+   "f": 2,
+   "id": "MES_TROPHY_GLASS_MASTER",
+   "key": "3d34e767",
+   "ru": "Собраны все фасоны очков."
+  },
+  {
+   "n": 620,
+   "f": 2,
+   "id": "MES_TROPHY_WILD_FLOWER_BEGINNER",
+   "key": "0f93fe0c",
+   "ru": "Найдено не менее 50 диких растений."
+  },
+  {
+   "n": 621,
+   "f": 2,
+   "id": "MES_TROPHY_WILD_FLOWER_EXPERT",
+   "key": "3ba8ff1e",
+   "ru": "Найдено не менее 100 диких растений."
+  },
+  {
+   "n": 622,
+   "f": 2,
+   "id": "MES_TROPHY_WILD_FLOWER_MASTER",
+   "key": "ef99b399",
+   "ru": "Найдено не менее 500 диких растений."
+  },
+  {
+   "n": 623,
+   "f": 2,
+   "id": "MES_TROPHY_WILD_FLOWER_LEGEND",
+   "key": "e2a65b4d",
+   "ru": "Найдено не менее 1 000 диких растений."
+  },
+  {
+   "n": 624,
+   "f": 2,
+   "id": "MES_TROPHY_JOB_FIRST",
+   "key": "354ab597",
+   "ru": "Первая подработка."
+  },
+  {
+   "n": 625,
+   "f": 2,
+   "id": "MES_TROPHY_JOB_BEGINNER",
+   "key": "8f09c452",
+   "ru": "Подработка: 10 раз."
+  },
+  {
+   "n": 626,
+   "f": 2,
+   "id": "MES_TROPHY_JOB_NORMAL",
+   "key": "d2e5955e",
+   "ru": "Подработка: 50 раз."
+  },
+  {
+   "n": 627,
+   "f": 2,
+   "id": "MES_TROPHY_JOB_QUITE",
+   "key": "b8dd4460",
+   "ru": "Подработка: 100 раз."
+  },
+  {
+   "n": 628,
+   "f": 2,
+   "id": "MES_TROPHY_JOB_FREAK",
+   "key": "53eaff63",
+   "ru": "Подработка: 200 раз."
+  },
+  {
+   "n": 629,
+   "f": 2,
+   "id": "MES_TROPHY_JOB_EXPERT",
+   "key": "5ef48f24",
+   "ru": "Подработка: 400 раз."
+  },
+  {
+   "n": 630,
+   "f": 2,
+   "id": "MES_TROPHY_JOB_CHARISMA",
+   "key": "44c86faa",
+   "ru": "Подработка: 800 раз."
+  },
+  {
+   "n": 631,
+   "f": 2,
+   "id": "MES_TROPHY_JOB_AMBASSADOR",
+   "key": "3f2eccea",
+   "ru": "Подработка: 1 300 раз."
+  },
+  {
+   "n": 632,
+   "f": 2,
+   "id": "MES_TROPHY_JOB_PROFESSOR",
+   "key": "280c5c23",
+   "ru": "Подработка: 1 900 раз."
+  },
+  {
+   "n": 633,
+   "f": 2,
+   "id": "MES_TROPHY_JOB_MASTER",
+   "key": "3822e976",
+   "ru": "Подработка: 3 000 раз."
+  },
+  {
+   "n": 634,
+   "f": 2,
+   "id": "MES_TROPHY_BATH_BEGINNER",
+   "key": "4a02025e",
+   "ru": "Первое посещение купальни."
+  },
+  {
+   "n": 635,
+   "f": 2,
+   "id": "MES_TROPHY_BATH_EXPERT",
+   "key": "61a93804",
+   "ru": "Купальня: не менее 10 раз."
+  },
+  {
+   "n": 636,
+   "f": 2,
+   "id": "MES_TROPHY_BATH_MASTER",
+   "key": "3c456908",
+   "ru": "Купальня: не менее 50 раз."
+  },
+  {
+   "n": 637,
+   "f": 2,
+   "id": "MES_TROPHY_BATH_LEGEND",
+   "key": "3a3b105d",
+   "ru": "Купальня: не менее 100 раз."
+  },
+  {
+   "n": 638,
+   "f": 2,
+   "id": "MES_TROPHY_INN_BEGINNER",
+   "key": "a3a6f2b2",
+   "ru": "Первая ночь в гостинице."
+  },
+  {
+   "n": 639,
+   "f": 2,
+   "id": "MES_TROPHY_INN_EXPERT",
+   "key": "a6fce102",
+   "ru": "Ночи в гостинице: не менее 10 раз."
+  },
+  {
+   "n": 640,
+   "f": 2,
+   "id": "MES_TROPHY_INN_MASTER",
+   "key": "fb10b00e",
+   "ru": "Ночи в гостинице: не менее 50 раз."
+  },
+  {
+   "n": 641,
+   "f": 2,
+   "id": "MES_TROPHY_INN_LEGEND",
+   "key": "d39fe0b1",
+   "ru": "Ночи в гостинице: не менее 100 раз."
+  },
+  {
+   "n": 642,
+   "f": 2,
+   "id": "MES_TROPHY_RESTAURANT_BEGINNER",
+   "key": "d3cacab0",
+   "ru": "Первый обед в ресторане."
+  },
+  {
+   "n": 643,
+   "f": 2,
+   "id": "MES_TROPHY_RESTAURANT_EXPERT",
+   "key": "a0306c07",
+   "ru": "Обеды в ресторане: не менее 10 раз."
+  },
+  {
+   "n": 644,
+   "f": 2,
+   "id": "MES_TROPHY_RESTAURANT_MASTER",
+   "key": "fddc3d0b",
+   "ru": "Обеды в ресторане: не менее 50 раз."
+  },
+  {
+   "n": 645,
+   "f": 2,
+   "id": "MES_TROPHY_RESTAURANT_LEGEND",
+   "key": "a3f3d8b3",
+   "ru": "Обеды в ресторане: не менее 100 раз."
+  },
+  {
+   "n": 646,
+   "f": 2,
+   "id": "MES_TROPHY_JAPAN_TEA_BEGINNER",
+   "key": "115be2d9",
+   "ru": "Первый обед в чайной."
+  },
+  {
+   "n": 647,
+   "f": 2,
+   "id": "MES_TROPHY_JAPAN_TEA_EXPERT",
+   "key": "e6e7a2bb",
+   "ru": "Обеды в чайной: не менее 10 раз."
+  },
+  {
+   "n": 648,
+   "f": 2,
+   "id": "MES_TROPHY_JAPAN_TEA_MASTER",
+   "key": "bb0bf3b7",
+   "ru": "Обеды в чайной: не менее 50 раз."
+  },
+  {
+   "n": 649,
+   "f": 2,
+   "id": "MES_TROPHY_JAPAN_TEA_LEGEND",
+   "key": "6162f0da",
+   "ru": "Обеды в чайной: не менее 100 раз."
+  },
+  {
+   "n": 650,
+   "f": 2,
+   "id": "MES_TROPHY_SOUTH_TEA_BEGINNER",
+   "key": "42f00b23",
+   "ru": "Первый обед в кафе у моря."
+  },
+  {
+   "n": 651,
+   "f": 2,
+   "id": "MES_TROPHY_SOUTH_TEA_EXPERT",
+   "key": "fe9d6849",
+   "ru": "Обеды в кафе у моря: не менее 10 раз."
+  },
+  {
+   "n": 652,
+   "f": 2,
+   "id": "MES_TROPHY_SOUTH_TEA_MASTER",
+   "key": "a3713945",
+   "ru": "Обеды в кафе у моря: не менее 50 раз."
+  },
+  {
+   "n": 653,
+   "f": 2,
+   "id": "MES_TROPHY_SOUTH_TEA_LEGEND",
+   "key": "32c91920",
+   "ru": "Обеды в кафе у моря: не менее 100 раз."
+  }
+ ]
+}
