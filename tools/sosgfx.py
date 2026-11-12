@@ -15,8 +15,13 @@ Needs Pillow (pip install pillow).
 
 `pack` only touches images whose PNG differs from the original, and writes
 them in place: an edited PNG must keep the size of the original image, and
-the archive keeps its size and layout. Images stored in the compressed
-ETC1 formats are listed but can be neither extracted nor replaced.
+the archive keeps its size and layout.
+
+Many images use the compressed ETC1 / ETC1A4 formats. They are extracted
+like the others. When such an image is edited, only the 4x4 pixel blocks
+that actually changed are compressed again, so untouched parts keep their
+exact original bytes. ETC1 is lossy: redrawn areas come out slightly
+softer than the PNG, just like the game's own images.
 """
 
 import argparse
@@ -31,7 +36,10 @@ FORMATS = {
     0: ("L8", 1), 1: ("A8", 1), 2: ("LA4", 1), 3: ("LA8", 2), 5: ("RGB565", 2),
     6: ("RGB8", 3), 7: ("RGBA5551", 2), 8: ("RGBA4", 2), 9: ("RGBA8", 4),
 }
-OTHER_FORMATS = {4: "HILO8", 10: "ETC1", 11: "ETC1A4", 12: "L4", 13: "A4"}
+ETC_FORMATS = {10: "ETC1", 11: "ETC1A4"}
+OTHER_FORMATS = {4: "HILO8", 12: "L4", 13: "A4"}
+ETC_MODIFIERS = ((2, 8), (5, 17), (9, 29), (13, 42), (18, 60), (24, 80), (33, 106), (47, 183))
+ETC_BLOCKS = ((0, 0), (4, 0), (0, 4), (4, 4))      # order of 4x4 blocks in an 8x8 tile
 
 
 def _morton(k):
@@ -94,6 +102,7 @@ class Flim:
          self.swizzle) = struct.unpack_from("<HHHBB", blob, pos + header + 8)
         self.pixels_end = pos
         self.rotated = self.swizzle in (4, 8)
+        self.etc = self.fmt in ETC_FORMATS
         # size of the image as it is stored (rotated images are stored sideways)
         self.stored = (self.height, self.width) if self.rotated else (self.width, self.height)
 
@@ -101,11 +110,28 @@ class Flim:
     def format_name(self):
         if self.fmt in FORMATS:
             return FORMATS[self.fmt][0]
+        if self.etc:
+            return ETC_FORMATS[self.fmt]
         return OTHER_FORMATS.get(self.fmt, "format %d" % self.fmt)
 
     @property
     def editable(self):
-        return self.fmt in FORMATS and self.swizzle in (0, 4)
+        return (self.fmt in FORMATS or self.etc) and self.swizzle in (0, 4, 8)
+
+    def upright(self, img):
+        """Turn an image from its stored orientation to the way it is shown."""
+        if self.swizzle == 4:
+            return img.transpose(Image.TRANSPOSE).transpose(Image.FLIP_TOP_BOTTOM)
+        if self.swizzle == 8:
+            return img.transpose(Image.TRANSPOSE)
+        return img
+
+    def as_stored(self, img):
+        if self.swizzle == 4:
+            return img.transpose(Image.FLIP_TOP_BOTTOM).transpose(Image.TRANSPOSE)
+        if self.swizzle == 8:
+            return img.transpose(Image.TRANSPOSE)
+        return img
 
 
 def _unpack(fmt, b, i):
@@ -159,27 +185,189 @@ def _pack(fmt, c):
     return bytes((a,))                              # A8
 
 
+# ---- ETC1 ----------------------------------------------------------------
+
+def _clamp(v):
+    return 0 if v < 0 else 255 if v > 255 else v
+
+
+def _etc_block_colours(block):
+    """Decode one 64-bit ETC1 block to {(x, y): (r, g, b)}."""
+    hi, lo = block >> 32, block & 0xFFFFFFFF
+    flip = hi & 1
+    if hi & 2:                                    # differential mode, 5+3 bits
+        def signed(v):
+            return v - 8 if v & 4 else v
+        r, g, b = (hi >> 27) & 31, (hi >> 19) & 31, (hi >> 11) & 31
+        r2 = (r + signed((hi >> 24) & 7)) & 31
+        g2 = (g + signed((hi >> 16) & 7)) & 31
+        b2 = (b + signed((hi >> 8) & 7)) & 31
+        bases = (tuple((v << 3) | (v >> 2) for v in (r, g, b)),
+                 tuple((v << 3) | (v >> 2) for v in (r2, g2, b2)))
+    else:                                         # individual mode, 4+4 bits
+        bases = (tuple(((hi >> n) & 15) * 17 for n in (28, 20, 12)),
+                 tuple(((hi >> n) & 15) * 17 for n in (24, 16, 8)))
+    tables = (ETC_MODIFIERS[(hi >> 5) & 7], ETC_MODIFIERS[(hi >> 2) & 7])
+    out = {}
+    for x in range(4):
+        for y in range(4):
+            i = x * 4 + y
+            index = (((lo >> (i + 16)) & 1) << 1) | ((lo >> i) & 1)
+            sub = (y >= 2) if flip else (x >= 2)
+            mod = tables[sub][index & 1]
+            if index & 2:
+                mod = -mod
+            base = bases[sub]
+            out[(x, y)] = (_clamp(base[0] + mod), _clamp(base[1] + mod), _clamp(base[2] + mod))
+    return out
+
+
+def _etc_fit(pixels, base):
+    """Best table and pixel indices for one half block with a given base colour."""
+    best = None
+    for table, (small, large) in enumerate(ETC_MODIFIERS):
+        shades = [tuple(_clamp(c + m) for c in base) for m in (small, large, -small, -large)]
+        error = 0
+        indices = []
+        for colour, weight in pixels:
+            errs = [sum((a - b) * (a - b) for a, b in zip(colour, shade)) for shade in shades]
+            index = min(range(4), key=errs.__getitem__)
+            indices.append(index)
+            error += errs[index] * weight
+            if best is not None and error >= best[0]:
+                break
+        else:
+            if best is None or error < best[0]:
+                best = (error, table, indices)
+    return best
+
+
+def _etc_encode_block(colours, weights):
+    """Compress 16 pixels ({(x, y): (r, g, b)}) into a 64-bit ETC1 block."""
+    best = None
+    for flip in (0, 1):
+        halves = ([], [])
+        for x in range(4):
+            for y in range(4):
+                halves[(y >= 2) if flip else (x >= 2)].append((x, y))
+        data = [[(colours[p], weights[p]) for p in half] for half in halves]
+        means = []
+        for half in data:
+            total = sum(w for _c, w in half) or 1
+            use = half if any(w for _c, w in half) else [(c, 1) for c, _w in half]
+            total = sum(w for _c, w in use)
+            means.append(tuple(sum(c[k] * w for c, w in use) / total for k in range(3)))
+
+        # individual mode: two independent 4-bit base colours
+        fits = []
+        for half, mean in zip(data, means):
+            cands = []
+            for shift in (0, -1, 1):
+                q = tuple(min(15, max(0, int(round(m / 17)) + shift)) for m in mean)
+                fit = _etc_fit(half, tuple(v * 17 for v in q))
+                if fit:
+                    cands.append((fit[0], q, fit[1], fit[2]))
+            fits.append(min(cands))
+        error = fits[0][0] + fits[1][0]
+        if best is None or error < best[0]:
+            q1, q2 = fits[0][1], fits[1][1]
+            hi = ((q1[0] << 28) | (q2[0] << 24) | (q1[1] << 20) | (q2[1] << 16)
+                  | (q1[2] << 12) | (q2[2] << 8) | (fits[0][2] << 5) | (fits[1][2] << 2) | flip)
+            best = (error, hi, halves, fits[0][3], fits[1][3])
+
+        # differential mode: 5-bit base colour and a 3-bit step to the second one
+        q1 = tuple(min(31, max(0, int(round(m * 31 / 255)))) for m in means[0])
+        q2 = tuple(min(31, max(0, int(round(m * 31 / 255)))) for m in means[1])
+        q2 = tuple(min(a + 3, max(a - 4, b)) for a, b in zip(q1, q2))
+        fit1 = _etc_fit(data[0], tuple((v << 3) | (v >> 2) for v in q1))
+        fit2 = _etc_fit(data[1], tuple((v << 3) | (v >> 2) for v in q2))
+        error = fit1[0] + fit2[0]
+        if error < best[0]:
+            d = tuple((b - a) & 7 for a, b in zip(q1, q2))
+            hi = ((q1[0] << 27) | (d[0] << 24) | (q1[1] << 19) | (d[1] << 16)
+                  | (q1[2] << 11) | (d[2] << 8) | (fit1[1] << 5) | (fit2[1] << 2) | 2 | flip)
+            best = (error, hi, halves, fit1[2], fit2[2])
+
+    _error, hi, halves, idx1, idx2 = best
+    lo = 0
+    for half, indices in ((halves[0], idx1), (halves[1], idx2)):
+        for (x, y), index in zip(half, indices):
+            i = x * 4 + y
+            lo |= ((index >> 1) & 1) << (i + 16) | (index & 1) << i
+    return (hi << 32) | lo
+
+
+def _etc_decode(blob, info, size):
+    alpha = info.fmt == 11
+    img = Image.new("RGBA", size)
+    px = img.load()
+    i = 0
+    for ty in range(0, size[1], 8):
+        for tx in range(0, size[0], 8):
+            for bx, by in ETC_BLOCKS:
+                a = 0xFFFFFFFFFFFFFFFF
+                if alpha:
+                    a = int.from_bytes(blob[i:i + 8], "little")
+                    i += 8
+                block = _etc_block_colours(int.from_bytes(blob[i:i + 8], "little"))
+                i += 8
+                for (x, y), colour in block.items():
+                    px[tx + bx + x, ty + by + y] = colour + (((a >> (4 * (x * 4 + y))) & 15) * 17,)
+    return img
+
+
+def _etc_encode(blob, info, new, size):
+    """Recompress only the 4x4 blocks whose pixels differ from the original."""
+    alpha = info.fmt == 11
+    old = _etc_decode(blob, info, size).load()
+    px = new.load()
+    out = bytearray(blob)
+    i = 0
+    for ty in range(0, size[1], 8):
+        for tx in range(0, size[0], 8):
+            for bx, by in ETC_BLOCKS:
+                cells = [(x, y) for x in range(4) for y in range(4)]
+                inside = tx + bx < info.stored[0] and ty + by < info.stored[1]
+                changed = inside and any(
+                    px[tx + bx + x, ty + by + y] != old[tx + bx + x, ty + by + y]
+                    for x, y in cells)
+                if changed:
+                    pixels = {c: px[tx + bx + c[0], ty + by + c[1]] for c in cells}
+                    if alpha:
+                        a = 0
+                        for x, y in cells:
+                            a |= ((pixels[(x, y)][3] + 8) // 17) << (4 * (x * 4 + y))
+                        out[i:i + 8] = a.to_bytes(8, "little")
+                    weights = {c: (1 if not alpha or pixels[c][3] >= 9 else 0) for c in cells}
+                    block = _etc_encode_block({c: pixels[c][:3] for c in cells}, weights)
+                    out[i + (8 if alpha else 0):i + (16 if alpha else 8)] = block.to_bytes(8, "little")
+                i += 16 if alpha else 8
+    return bytes(out)
+
+
+# ---- whole images --------------------------------------------------------
+
 def decode(blob):
     """Decode a BFLIM image to an upright RGBA picture."""
     info = Flim(blob)
     if not info.editable:
         return None
-    bpp = FORMATS[info.fmt][1]
     sw, sh = _pow2(info.stored[0]), _pow2(info.stored[1])
-    img = Image.new("RGBA", (sw, sh))
-    px = img.load()
-    i = 0
-    for ty in range(0, sh, 8):
-        for tx in range(0, sw, 8):
-            for x, y in MORTON:
-                if i + bpp > info.pixels_end:
-                    break
-                px[tx + x, ty + y] = _unpack(info.fmt, blob, i)
-                i += bpp
-    img = img.crop((0, 0, info.stored[0], info.stored[1]))
-    if info.rotated:
-        img = img.transpose(Image.TRANSPOSE).transpose(Image.FLIP_TOP_BOTTOM)
-    return img
+    if info.etc:
+        img = _etc_decode(blob, info, (sw, sh))
+    else:
+        bpp = FORMATS[info.fmt][1]
+        img = Image.new("RGBA", (sw, sh))
+        px = img.load()
+        i = 0
+        for ty in range(0, sh, 8):
+            for tx in range(0, sw, 8):
+                for x, y in MORTON:
+                    if i + bpp > info.pixels_end:
+                        break
+                    px[tx + x, ty + y] = _unpack(info.fmt, blob, i)
+                    i += bpp
+    return info.upright(img.crop((0, 0, info.stored[0], info.stored[1])))
 
 
 def encode(blob, img):
@@ -190,11 +378,14 @@ def encode(blob, img):
     if img.size != (info.width, info.height):
         raise FormatError("image must be %dx%d, got %dx%d"
                           % (info.width, info.height, img.width, img.height))
-    img = img.convert("RGBA")
-    if info.rotated:
-        img = img.transpose(Image.FLIP_TOP_BOTTOM).transpose(Image.TRANSPOSE)
-    bpp = FORMATS[info.fmt][1]
+    img = info.as_stored(img.convert("RGBA"))
     sw, sh = _pow2(info.stored[0]), _pow2(info.stored[1])
+    if info.etc:
+        # padding outside the picture keeps the pixels it already has
+        padded = _etc_decode(blob, info, (sw, sh))
+        padded.paste(img, (0, 0))
+        return _etc_encode(blob, info, padded, (sw, sh))
+    bpp = FORMATS[info.fmt][1]
     px = img.load()
     out = bytearray(blob)
     i = 0
@@ -248,7 +439,7 @@ def cmd_extract(args):
         done += 1
     print("extracted %d images to %s" % (done, args.outdir))
     if skipped:
-        print("%d images are in compressed formats and were skipped" % skipped)
+        print("%d images are in formats this tool cannot read and were skipped" % skipped)
     return 0
 
 

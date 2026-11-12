@@ -15,7 +15,7 @@ without a "_0"/"_1" suffix applies to every state of that button. The key
 "_icon": true marks archives whose images start with a round button icon.
 "_fill" and "_ring" set the letter colour and an inner outline ("#rrggbb",
 or "edge" for the outline colour of the original word), "_size" the font
-size in pixels. A label may also be an object such as
+size in pixels and "_stroke" the outline width. A label may also be an object such as
 {"text": "Весна", "fill": "#ff4f8f"} to override the style for one image.
 Needs Pillow.
 """
@@ -73,7 +73,7 @@ def parse_colour(value, edge):
     return tuple(int(value[i:i + 2], 16) for i in (0, 2, 4)) + (255,)
 
 
-def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12):
+def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12, stroke=2):
     """Replace the word in an image.
 
     fill, ring: "#rrggbb", or "edge" for the outline colour of the original
@@ -90,7 +90,8 @@ def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12)
     edge = edge_colour(img, x0, x1)
     fill = parse_colour(fill, edge) or (255, 255, 255, 255)
     ring = parse_colour(ring, edge)
-    stroke = 3 if ring else 2
+    if ring:
+        stroke += 1
 
     left = x0 + 1 if icon else 1
     room = img.width - 1 - left
@@ -101,11 +102,13 @@ def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12)
         if box[2] - box[0] <= room or size <= 9:
             break
         size -= 1
-    width, height = box[2] - box[0], box[3] - box[1]
+    width = box[2] - box[0]
 
     layer = Image.new("RGBA", (max(width, 1) + 4, img.height), (0, 0, 0, 0))
     draw = ImageDraw.Draw(layer)
-    origin = (2 - box[0], round(centre_y - height / 2) - box[1])
+    # centre on the capital letters so that every word sits on the same line
+    caps = font.getbbox("Н", stroke_width=stroke)
+    origin = (2 - box[0], round(centre_y - (caps[1] + caps[3]) / 2))
     draw.text(origin, text, font=font, fill=edge, stroke_width=stroke, stroke_fill=edge)
     if ring:
         draw.text(origin, text, font=font, fill=ring, stroke_width=stroke - 1, stroke_fill=ring)
@@ -132,7 +135,8 @@ def main(argv=None):
     style = {"icon": bool(labels.pop("_icon", False)),
              "fill": labels.pop("_fill", "#ffffff"),
              "ring": labels.pop("_ring", None),
-             "size": int(labels.pop("_size", 12))}
+             "size": int(labels.pop("_size", 12)),
+             "stroke": int(labels.pop("_stroke", 2))}
     done = 0
     for name, text in sorted(labels.items()):
         base = os.path.join(pngdir, *name.split("/"))
