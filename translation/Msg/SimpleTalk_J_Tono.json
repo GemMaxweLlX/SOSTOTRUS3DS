@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Tono",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "e0c4571d",
+   "ru": "<NAME_MOB_TONO>\r\nПривет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "c3d24829",
+   "ru": "<NAME_MOB_TONO>\r\nТрудишься, да? Приятно слышать!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "00bf7c3c",
+   "ru": "<NAME_MOB_TONO>\r\nЛюди сегодня такие счастливые."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "bc25b85f",
+   "ru": "<NAME_MOB_TONO>\r\nИз меня вышел бы хороший староста, а?"
+  }
+ ]
+}

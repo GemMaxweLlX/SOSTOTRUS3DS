@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Paani",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "3940d9ca",
+   "ru": "Алоха! Лулукоко ― это класс, правда?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "fd5a0871",
+   "ru": "<NAME_MOB_PAANI>\r\nЗдесь полно весёлых занятий!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "1004290e",
+   "ru": "<NAME_MOB_PAANI>\r\nОтлично выглядишь, дружище!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "8d7e3341",
+   "ru": "<NAME_MOB_PAANI>\r\nЕсть руда? Улучши инструменты."
+  }
+ ]
+}

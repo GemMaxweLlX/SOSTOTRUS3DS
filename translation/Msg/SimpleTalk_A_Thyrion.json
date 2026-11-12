@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Thyrion",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "f8f851c9",
+   "ru": "<NAME_MOB_THYRION>\r\nПривет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "7d88fbcc",
+   "ru": "<NAME_MOB_THYRION>\r\nПризнаю. Я довольно привередлив в еде."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "d2779676",
+   "ru": "<NAME_MOB_THYRION>\r\nКакую еду посоветуешь?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "59e62036",
+   "ru": "<NAME_MOB_THYRION>\r\nОтдыхаешь от работы на ферме?"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Eikichi",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "9c2b952f",
+   "ru": "<NAME_MOB_EIKICHI>\r\nПривет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "2c7bc7dd",
+   "ru": "<NAME_MOB_EIKICHI>\r\nБыть родителем сложнее, чем я думал."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "f487d496",
+   "ru": "<NAME_MOB_EIKICHI>\r\nКак тебе фермерская жизнь?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "e3730c8f",
+   "ru": "<NAME_MOB_EIKICHI>\r\nОбожаю здешние источники! Так расслабляют!"
+  }
+ ]
+}

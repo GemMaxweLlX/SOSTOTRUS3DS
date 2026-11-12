@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Kumu",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "050bb36b",
+   "ru": "Привет! Пчёлам ― мёд, а тебе чем помочь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "34969630",
+   "ru": "<NAME_MOB_KUMU>\r\nАга, я пчеловод по профессии."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "807c6691",
+   "ru": "<NAME_MOB_KUMU>\r\nМёд ― это чудо, правда? Моя специальность!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "3a410195",
+   "ru": "<NAME_MOB_KUMU>\r\nПчёлы не страшные, если узнать их получше!"
+  }
+ ]
+}

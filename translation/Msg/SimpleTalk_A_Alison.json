@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Alison",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "bb143b6f",
+   "ru": "<NAME_MOB_ALISON>\r\nМу! Бе-бе! ♪ Кукареку! ♪"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "c5bb15c8",
+   "ru": "<NAME_MOB_ALISON>\r\nУхаживать за животными ― лучше всего!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "d5775033",
+   "ru": "<NAME_MOB_ALISON>\r\nНа каждой ферме должны быть животные, да?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "f85e28e2",
+   "ru": "<NAME_MOB_ALISON>\r\nЛюбимый звук? Когда корова говорит “му”!"
+  }
+ ]
+}

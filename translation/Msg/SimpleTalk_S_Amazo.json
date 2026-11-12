@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Amazo",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "3c0ad553",
+   "ru": "Алоха!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "0bff4957",
+   "ru": "<NAME_MOB_AMAZO>\r\nЛодки ― это потрясающе, правда?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "ded6a0c3",
+   "ru": "<NAME_MOB_AMAZO>\r\nКак-нибудь загляни в мой родной город!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "cf6008ab",
+   "ru": "<NAME_MOB_AMAZO>\r\n*зевает* Может, немного отдохнуть."
+  }
+ ]
+}

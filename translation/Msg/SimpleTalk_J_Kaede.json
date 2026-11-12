@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Kaede",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "835234ca",
+   "ru": "<NAME_MOB_KAEDE>\r\nПривет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "6398441f",
+   "ru": "<NAME_MOB_KAEDE>\r\nАх! Скорей бы снова в купальню!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "73763ca3",
+   "ru": "<NAME_MOB_KAEDE>\r\nОт усталости нет ничего лучше ванны."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "93dabb75",
+   "ru": "<NAME_MOB_KAEDE>\r\nНе составишь мне компанию в купальне?"
+  }
+ ]
+}

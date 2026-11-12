@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Teto",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "b3e46b81",
+   "ru": "Алоха, друг!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "a64e0466",
+   "ru": "<NAME_MOB_TETO>\r\nТы тоже любишь слон, да?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "147adda7",
+   "ru": "<NAME_MOB_TETO>\r\nЖизнь хороша, нет?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "66f9872d",
+   "ru": "<NAME_MOB_TETO>\r\nХорошо видеть тебя, <_____MYNAME_____>!"
+  }
+ ]
+}

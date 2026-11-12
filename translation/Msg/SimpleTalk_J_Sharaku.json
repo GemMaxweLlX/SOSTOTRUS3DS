@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Sharaku",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "9ba9df2a",
+   "ru": "<NAME_MOB_SHARAKU>\r\nПривет! Рад тебя видеть!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "2a0e8bb6",
+   "ru": "<NAME_MOB_SHARAKU>\r\nХочешь перемен? Начни с причёски!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "a4bbb2b8",
+   "ru": "<NAME_MOB_SHARAKU>\r\nМоя работа? Обожаю. Это моё призвание!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "32817891",
+   "ru": "<NAME_MOB_SHARAKU>\r\nПравильная причёска очень важна! Серьёзно!"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Sei",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "cc044ef6",
+   "ru": "Привет! Как поживаешь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "35a91ebb",
+   "ru": "<NAME_MOB_SEI>\r\nАга! Мне пришла отличная идея для песни."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "67cd6063",
+   "ru": "<NAME_MOB_SEI>\r\nХА-ХА! Ой, прости, шутка не для всех."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "83315977",
+   "ru": "<NAME_MOB_SEI>\r\nТы сегодня так и пружинишь при ходьбе!"
+  }
+ ]
+}

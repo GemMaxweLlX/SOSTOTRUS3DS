@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Jayden",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "03d07713",
+   "ru": "<NAME_MOB_JAYDEN>\r\nПривет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "25600a14",
+   "ru": "<NAME_MOB_JAYDEN>\r\nВажно знать вкусы людей."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "bdea59c5",
+   "ru": "<NAME_MOB_JAYDEN>\r\nКто же не любит красиво упакованный подарок?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "cfa4c6aa",
+   "ru": "<NAME_MOB_JAYDEN>\r\nПодарки ― отличный способ подружиться!"
+  }
+ ]
+}

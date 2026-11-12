@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Poliahu",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "1be14b01",
+   "ru": "Алоха! Любишь готовить?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "878515e0",
+   "ru": "<NAME_MOB_POLIAHU>\r\nЯ люблю готовить, но мне многому учиться."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "7e96436e",
+   "ru": "<NAME_MOB_POLIAHU>\r\nКак понять, какие специи лучше?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "3459b5ab",
+   "ru": "<NAME_MOB_POLIAHU>\r\nЧто приготовить? Столько вариантов..."
+  }
+ ]
+}

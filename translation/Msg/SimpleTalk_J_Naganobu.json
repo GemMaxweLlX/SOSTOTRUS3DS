@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Naganobu",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "bdc81e3c",
+   "ru": "Приве-е-ет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "7651aba6",
+   "ru": "<NAME_MOB_NAGANOBU>\r\nЭй! Кто-нибудь тут умеет танцевать?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "ae40adf0",
+   "ru": "<NAME_MOB_NAGANOBU>\r\nХочу конфет! Они полезны для зубов!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "bf673fb4",
+   "ru": "<NAME_MOB_NAGANOBU>\r\nГде моя книга?! А, в кармане."
+  }
+ ]
+}

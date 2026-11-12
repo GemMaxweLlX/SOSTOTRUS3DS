@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Olmeca",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "596d8cd5",
+   "ru": "Не обращай внимания. Я не пялюсь, клянусь."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "b0d1dbc8",
+   "ru": "<NAME_MOB_OLMECA>\r\nДа, у тебя изумительная форма головы."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "b74fdbf0",
+   "ru": "<NAME_MOB_OLMECA>\r\nНе хочешь приобрести скульптуру?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "ed1cb494",
+   "ru": "<NAME_MOB_OLMECA>\r\nХм, из тебя вышла бы хорошая модель..."
+  }
+ ]
+}

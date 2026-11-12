@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Suzana",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "2e6c2d6e",
+   "ru": "<NAME_MOB_SUZANA>\r\nОх! Кажется, Уэйн мне подмигнул."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "db065e06",
+   "ru": "<NAME_MOB_SUZANA>\r\nУэйн такой красавчик, правда?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "72b74cc9",
+   "ru": "<NAME_MOB_SUZANA>\r\nСогласись, Уэйн просто мечта!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "9195947c",
+   "ru": "<NAME_MOB_SUZANA>\r\nЭх, скинуть бы мне лет тридцать..."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Judy",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "5f9b986b",
+   "ru": "<NAME_MOB_JUDY>\r\nО, здравствуй."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "745af7be",
+   "ru": "<NAME_MOB_JUDY>\r\nНа шопинг время всегда найдётся!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "5b7d6af2",
+   "ru": "<NAME_MOB_JUDY>\r\nЧто сегодня хочешь купить?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "874cfbe0",
+   "ru": "<NAME_MOB_JUDY>\r\nКакова цена, таков и товар. Это естественно."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Saku",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "f1b5b76c",
+   "ru": "<NAME_MOB_SAKU>\r\nПривет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "bbf34dff",
+   "ru": "<NAME_MOB_SAKU>\r\nРабота порой тяжела, но такова жизнь!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "261bb1bd",
+   "ru": "<NAME_MOB_SAKU>\r\nСяраку классно стрижёт, правда?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "1b9811d5",
+   "ru": "<NAME_MOB_SAKU>\r\nНикак не решу, какую причёску хочу."
+  }
+ ]
+}

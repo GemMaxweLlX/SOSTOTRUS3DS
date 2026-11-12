@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Hannah",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "a56d9035",
+   "ru": "<NAME_MOB_HANNAH>\r\nЗдравствуй."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "1e5a3d03",
+   "ru": "<NAME_MOB_HANNAH>\r\nОй, прости! Я мешаю? Извини!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "d0b8385b",
+   "ru": "<NAME_MOB_HANNAH>\r\nМой совет? Запасись лекарствами."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "98173be8",
+   "ru": "<NAME_MOB_HANNAH>\r\nОй, я просто в гостях из соседнего города."
+  }
+ ]
+}

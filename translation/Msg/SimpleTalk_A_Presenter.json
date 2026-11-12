@@ -1,0 +1,47 @@
+{
+ "file": "SimpleTalk_A_Presenter",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "21d040d5",
+   "ru": "<FACE_PRESENTER>\r\nКак дела, <_____MYNAME_____>?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "35118ffd",
+   "ru": "<FACE_PRESENTER>\r\nПриветствую, <_____MYNAME_____>."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "1d1dfd9e",
+   "ru": "<FACE_PRESENTER>\r\nСобираешься поучаствовать в празднике?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "dd1c7b21",
+   "ru": "<FACE_PRESENTER>\r\nХочешь записаться? Тогда тебе сюда!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_SIMPLETALK_RECEPTION_END_00",
+   "key": "b5987d9f",
+   "ru": "<FACE_PRESENTER>\r\nГлавное для ведущего ― отличная улыбка!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_SIMPLETALK_RECEPTION_END_01",
+   "key": "4f9f63f7",
+   "ru": "<FACE_PRESENTER>\r\nНа следующем конкурсе я постараюсь."
+  }
+ ]
+}

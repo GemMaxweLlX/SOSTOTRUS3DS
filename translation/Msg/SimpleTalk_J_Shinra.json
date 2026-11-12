@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Shinra",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "cf712f56",
+   "ru": "<NAME_MOB_SHINRA>\r\nПривет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "78052d74",
+   "ru": "<NAME_MOB_SHINRA>\r\nНе смейся, но... я боюсь купаться один."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "b61465ea",
+   "ru": "<NAME_MOB_SHINRA>\r\nОгромная ванна ― это же здорово, а?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "ce0c3c43",
+   "ru": "<NAME_MOB_SHINRA>\r\nВот бы папа не злился так легко..."
+  }
+ ]
+}

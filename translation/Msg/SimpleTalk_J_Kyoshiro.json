@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Kyoshiro",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "fbf0a6f8",
+   "ru": "<NAME_MOB_KYOSHIRO>\r\nЗ-здравствуй."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "b1ba6a8c",
+   "ru": "<NAME_MOB_KYOSHIRO>\r\nЯ бы предпочёл побыть один..."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "1645b60b",
+   "ru": "<NAME_MOB_KYOSHIRO>\r\nЧ-что-то случилось?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "88d79e12",
+   "ru": "<NAME_MOB_KYOSHIRO>\r\nЕсли не нужна помощь, уходи, пожалуйста."
+  }
+ ]
+}

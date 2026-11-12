@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Andrew",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "b5c57055",
+   "ru": "Привет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "d0257cd4",
+   "ru": "<NAME_MOB_ANDREW>\r\nОй! Ты не видишь, куда делся мой кот?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "54faa890",
+   "ru": "<NAME_MOB_ANDREW>\r\nТы тоже любишь кошек, как я?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "6560ee47",
+   "ru": "<NAME_MOB_ANDREW>\r\nХм, о чём бы написать? Есть идеи?"
+  }
+ ]
+}

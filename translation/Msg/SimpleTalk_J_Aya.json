@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Aya",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "b71040d6",
+   "ru": "Привет! Как ферма?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "b3bfafd3",
+   "ru": "<NAME_MOB_AYA>\r\nЛучшие удобрения ― самодельные, по-моему."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "f6700a87",
+   "ru": "<NAME_MOB_AYA>\r\nМой руки, чтобы не подхватить паразитов!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "f141b095",
+   "ru": "<NAME_MOB_AYA>\r\nСлушай, ты не знаешь завидных женихов?"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Hoala",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "3c946acf",
+   "ru": "<NAME_MOB_HOALA>\r\nПлохой работы нет. Есть плохой настрой!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "d54ccc0c",
+   "ru": "<NAME_MOB_HOALA>\r\nНе волнуйся! Подберу тебе работу по душе!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "a96eba73",
+   "ru": "<NAME_MOB_HOALA>\r\nПотрудимся? Ха-ха! Знаю, что да!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "1a289f60",
+   "ru": "<NAME_MOB_HOALA>\r\nХочешь немного подзаработать?"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Luana",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "c5ca1f11",
+   "ru": "<NAME_MOB_LUANA>\r\nЭнергии у меня больше, чем у молоденьких."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "c5ca1f11",
+   "ru": "<NAME_MOB_LUANA>\r\nЭнергии у меня больше, чем у молоденьких."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "8a54ba30",
+   "ru": "<NAME_MOB_LUANA>\r\nЛудус такой красавчик!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "ac023681",
+   "ru": "<NAME_MOB_LUANA>\r\nАлоха! Куда направляешься?"
+  }
+ ]
+}

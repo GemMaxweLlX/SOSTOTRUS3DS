@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Charly",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "a20f0088",
+   "ru": "<NAME_MOB_CHARLY>\r\nЗдравствуй. Как сегодня дела?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "029053c6",
+   "ru": "<NAME_MOB_CHARLY>\r\nМы с Марко? Да, мы давно знакомы."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "8782a543",
+   "ru": "<NAME_MOB_CHARLY>\r\nЖду не дождусь твоего нового урожая!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "a3990cf9",
+   "ru": "<NAME_MOB_CHARLY>\r\nСекрет хорошей готовки ― в подготовке."
+  }
+ ]
+}

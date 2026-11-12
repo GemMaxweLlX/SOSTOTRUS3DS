@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Mila",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "799ec5da",
+   "ru": "Привет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "07f560f7",
+   "ru": "<NAME_MOB_MILA>\r\nВремя зарядки! Буду бегать до упаду!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "797a7057",
+   "ru": "<NAME_MOB_MILA>\r\nХм, интересно, смогу ли я взбежать по стене..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "a3f885f0",
+   "ru": "<NAME_MOB_MILA>\r\nО, классный наряд! Мне нравится."
+  }
+ ]
+}

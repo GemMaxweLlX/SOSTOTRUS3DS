@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Perrier",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "ff44f63f",
+   "ru": "<NAME_MOB_PERRIER>\r\nЗдорово!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "bebbc8b5",
+   "ru": "<NAME_MOB_PERRIER>\r\nРуки так и чешутся что-нибудь построить!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "8ab1d5c6",
+   "ru": "<NAME_MOB_PERRIER>\r\nЕсть у тебя хобби?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "2fcc55f1",
+   "ru": "<NAME_MOB_PERRIER>\r\nЗдорово, когда платят за любимое дело!"
+  }
+ ]
+}

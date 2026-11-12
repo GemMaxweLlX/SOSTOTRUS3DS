@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Machu",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "8b7096c1",
+   "ru": "О, привет."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "be82d809",
+   "ru": "<NAME_MOB_MACHU>\r\nП-привет. Есть время поговорить?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "0ffce5a2",
+   "ru": "<NAME_MOB_MACHU>\r\nХлопотный сегодня денёк, а?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "9342c201",
+   "ru": "<NAME_MOB_MACHU>\r\nУ тебя всё хорошо? Р-рад слышать!"
+  }
+ ]
+}

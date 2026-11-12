@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Lini",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "e42eebac",
+   "ru": "Привет, привет, привет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "8433b216",
+   "ru": "<NAME_MOB_LINI>\r\nА ты знаешь, что рядом джунгли?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "688ab9fe",
+   "ru": "<NAME_MOB_LINI>\r\nПрислушайся ― слышно диких зверей..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "1d343164",
+   "ru": "<NAME_MOB_LINI>\r\nДержи сумку в порядке. Мой совет."
+  }
+ ]
+}

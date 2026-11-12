@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Julie",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "322e1f06",
+   "ru": "Привет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "62201e26",
+   "ru": "<NAME_MOB_JULIE>\r\nХочется петь. Споём дуэтом?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "b991e05a",
+   "ru": "<NAME_MOB_JULIE>\r\nДу-ду ду ду ду. ♪ Ла-ла-ла. ♪"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "93c1bbf4",
+   "ru": "<NAME_MOB_JULIE>\r\nХм, для пения воздух суховат."
+  }
+ ]
+}

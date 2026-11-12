@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Grace",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "7621c282",
+   "ru": "<NAME_MOB_GRACE>\r\nПривет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "b33c1260",
+   "ru": "<NAME_MOB_GRACE>\r\nСледи, чтобы животные много двигались!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "4f442957",
+   "ru": "<NAME_MOB_GRACE>\r\nТвои животные ведь все здоровы?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "48e5ae1e",
+   "ru": "<NAME_MOB_GRACE>\r\nЛюбимое животное...? Хм-м-м..."
+  }
+ ]
+}

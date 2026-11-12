@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Murasaki",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "799ec5da",
+   "ru": "Привет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "c82c29de",
+   "ru": "<NAME_MOB_MURASAKI>\r\nМне бы побольше романтики в жизни."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "3d552efe",
+   "ru": "<NAME_MOB_MURASAKI>\r\nО-о! Я только что услышала сочную сплетню!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "33915a46",
+   "ru": "<NAME_MOB_MURASAKI>\r\nТак... эм... О чём это я?"
+  }
+ ]
+}

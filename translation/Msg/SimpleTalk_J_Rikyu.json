@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Rikyu",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "b3d1602d",
+   "ru": "<NAME_MOB_RIKYU>\r\nИщешь работу? Уверен, я помогу!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "395df7e9",
+   "ru": "<NAME_MOB_RIKYU>\r\nВажна любая работа, даже простая."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "5c3ecfe9",
+   "ru": "<NAME_MOB_RIKYU>\r\nРабота ― это деньги. Деньги ― это еда!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "6b447a5b",
+   "ru": "<NAME_MOB_RIKYU>\r\nИногда полезно передохнуть."
+  }
+ ]
+}

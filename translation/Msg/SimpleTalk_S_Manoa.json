@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Manoa",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "b3e4bc80",
+   "ru": "<NAME_MOB_MANOA>\r\nЗдравствуй. Как поживаешь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "b3c332d6",
+   "ru": "<NAME_MOB_MANOA>\r\nКартофель ― наш местный деликатес."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "b7f4f354",
+   "ru": "<NAME_MOB_MANOA>\r\nА-ах! Обожаю отдыхать в кафе."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "08655bed",
+   "ru": "<NAME_MOB_MANOA>\r\nОх, ноги гудят. Пора отдохнуть."
+  }
+ ]
+}

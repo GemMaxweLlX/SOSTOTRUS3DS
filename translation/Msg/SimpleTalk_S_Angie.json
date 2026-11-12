@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Angie",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "3c0ad553",
+   "ru": "Алоха!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "96a11e87",
+   "ru": "<NAME_MOB_ANGIE>\r\nСегодня я найду спрятанное сокровище!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "6885db93",
+   "ru": "<NAME_MOB_ANGIE>\r\nЯ так близка к разгадке."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "1d9f8f29",
+   "ru": "<NAME_MOB_ANGIE>\r\nТайна! Сокровище! Разве не здорово?!"
+  }
+ ]
+}

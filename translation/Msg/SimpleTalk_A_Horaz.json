@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Horaz",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "0088b07a",
+   "ru": "<NAME_MOB_HORAZ>\r\nТяжёлый труд ― лучший труд!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "2ca25bfd",
+   "ru": "<NAME_MOB_HORAZ>\r\nМожет, когда-нибудь поселюсь в таком месте."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "412b97f3",
+   "ru": "<NAME_MOB_HORAZ>\r\nИщешь работу? Только скажи."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "0273a05d",
+   "ru": "<NAME_MOB_HORAZ>\r\nПодработка тоже бывает очень весёлой!"
+  }
+ ]
+}

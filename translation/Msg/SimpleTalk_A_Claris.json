@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Claris",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "39a7e68e",
+   "ru": "<NAME_MOB_CLARIS>\r\nПривет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "7114911b",
+   "ru": "<NAME_MOB_CLARIS>\r\nЯ культурный антрополог."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "9e7387ff",
+   "ru": "<NAME_MOB_CLARIS>\r\nКаждый раз узнаю здесь что-то новое."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "4fa2087a",
+   "ru": "<NAME_MOB_CLARIS>\r\nВ этих городах столько всего интересного."
+  }
+ ]
+}

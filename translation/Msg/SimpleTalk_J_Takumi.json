@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Takumi",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "e7044f93",
+   "ru": "<NAME_MOB_TAKUMI>\r\nКоннитива!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "71eceb55",
+   "ru": "<NAME_MOB_TAKUMI>\r\nАй! Прости, я так испугался!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "02b059fe",
+   "ru": "<NAME_MOB_TAKUMI>\r\nТы со всеми такой приветливый человек?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "8b5823aa",
+   "ru": "<NAME_MOB_TAKUMI>\r\nЗнаешь мою сестру? С ней одни хлопоты!"
+  }
+ ]
+}

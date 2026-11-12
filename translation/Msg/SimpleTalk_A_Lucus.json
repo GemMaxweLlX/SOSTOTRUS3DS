@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Lucus",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "d11960ca",
+   "ru": "О, привет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "74f3305a",
+   "ru": "<NAME_MOB_LUCUS>\r\nОх, творческий кризис! Это плохо."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "061e5c10",
+   "ru": "<NAME_MOB_LUCUS>\r\nАй! Сроки поджимают!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "329ba4e8",
+   "ru": "<NAME_MOB_LUCUS>\r\nЗнаешь какие-нибудь интересные истории?"
+  }
+ ]
+}

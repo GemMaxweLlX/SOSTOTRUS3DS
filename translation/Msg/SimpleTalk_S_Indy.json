@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Indy",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "cebc3daf",
+   "ru": "Эй. Что тебя сюда привело?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "56c88b39",
+   "ru": "<NAME_MOB_INDY>\r\nДумаешь, в руинах есть идол...?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "719acf56",
+   "ru": "<NAME_MOB_INDY>\r\nЯ здесь ради богатства и славы, малыш."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "9d253485",
+   "ru": "<NAME_MOB_INDY>\r\nЭто ЗМЕ-Е-ЕЯ?! Уф! Это просто кнут."
+  }
+ ]
+}
