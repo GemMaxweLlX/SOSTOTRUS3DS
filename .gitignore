@@ -1,0 +1,14 @@
+# game files and everything extracted from them
+rom/
+text/
+out/
+work/
+*.xbb
+*.bffnt
+*.3ds
+*.cia
+*.cxi
+
+__pycache__/
+*.pyc
+.venv/
