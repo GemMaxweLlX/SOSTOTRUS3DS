@@ -2,6 +2,265 @@
  "file": "ShopAGoddess",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_00",
+   "key": "ba5174fe",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nСпасибо огромное! В благодарность подскажу,\nкак подружиться с людьми."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_CHOICE_00",
+   "key": "eece56f6",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nС кем тебе больше всего хочется подружиться,\n<_____MYNAME_____>?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_CHOICE_01",
+   "key": "de69830c",
+   "ru": "С кем-то из Уэстауна"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_CHOICE_02",
+   "key": "db8123e3",
+   "ru": "С кем-то из Цуюкусы"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_CHOICE_03",
+   "key": "6fa80f7b",
+   "ru": "С кем-то из Лулукоко"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_CHOICE_04",
+   "key": "a8bbc67e",
+   "ru": "<CANCEL_SELECT>\r\nПока не надо"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_CHOICE_05",
+   "key": "28cd8237",
+   "ru": "Пока ни с кем"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_CANCEL_00",
+   "key": "0fe1b00c",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nТочно-о-о не хочешь подсказку?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_OTHER_00",
+   "key": "f76a4025",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nПодсказать про кого-нибудь ещё?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_YES",
+   "key": "8a175b48",
+   "ru": "Давай"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_NO",
+   "key": "5a61aa9f",
+   "ru": "<CANCEL_SELECT>\r\nНе-а"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_END_00",
+   "key": "59eb067b",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nПока это всё, что могу сказать. Удачи в\nукреплении уз! Хи-хи..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_END_01",
+   "key": "d30759d7",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЭх. Ну, может, в следующий раз! Держи,\nвозвращаю клубнику."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_RESTART",
+   "key": "a6ff9eb4",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЛадно, начнём с самого начала!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_HINT_00",
+   "key": "d86183d6",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nКакая подсказка нужна?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_HINT_01",
+   "key": "c25f1689",
+   "ru": "Как подружиться"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_HINT_02",
+   "key": "01b45f6b",
+   "ru": "Как сделать предложение"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_HINT_03",
+   "key": "0113dadd",
+   "ru": "Как расстаться"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_HINT_04",
+   "key": "03e710b8",
+   "ru": "<CANCEL_SELECT>\r\nОй, как неловко!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_NO_HINT_00",
+   "key": "e8512ded",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nВы и так очень близкие друзья! Подсказки не\nнужны, глупышка."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_NO_HINT_01",
+   "key": "d8f42794",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЕсли ты ещё сблизишься с этим человеком,\nтвоя вторая половинка ужас как приревнует!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_NO_HINT_02",
+   "key": "de7baeb3",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nСпроси меня ещё раз после свадьбы!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_NO_HINT_03",
+   "key": "f325e41b",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nСпроси меня ещё раз, когда появится ребёнок!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_NO_HINT_04",
+   "key": "126d6216",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nВаши узы крепче некуда. Пусть вы будете\nсчастливы вместе вечно! ♪"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_SUCCESS",
+   "key": "918c0b23",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nОго, похоже, твой питомец кого-то встретил!"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PRAISE_1",
+   "key": "50d0ffba",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nВообще-то он встретил кое-кого\nпотрясающего! ♪"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PRAISE_2",
+   "key": "7bcc675f",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nОн встретил очень добрых людей. ♪"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PRAISE_3",
+   "key": "cfabdc1e",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nУх ты! И не одного-двух. Он встретил\nку-у-учу людей!"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PRAISE_4",
+   "key": "49ce070e",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nБ-б-батюшки, он встретил целую армию\nклассных людей!"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PRAISE_5",
+   "key": "cf1e6425",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nЯ прямо в восторге, сколько народу он\nвстретил. Есть кто-то, кого он НЕ видел? Вот\nзвезда!"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_SUCCESS_RESULT",
+   "key": "1cb0e674",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nВсего твой питомец встретил людей: <BLUE><MOJI0></BLUE>!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_SUCCESS_RESULT_ITEMINFO",
+   "key": "d71c4620",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nВсе найденные вещи я придержу, так что\nзаходи ко мне, когда захочешь их забрать."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MSG_SURECHIGAI_SUCCESS_RESULT_NOT",
+   "key": "aa95b082",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\r\nЯ и так храню слишком много находок твоего\nпитомца. Больше не влезет!\n<PAGE>\nХочешь, чтобы я и дальше собирала вещи,\nсначала забери у меня часть."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_MENU",
+   "key": "54d2a95f",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nХочешь обсудить что-то про сетевую игру?"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_MENU_MULTIPLAY",
+   "key": "e6551e15",
+   "ru": "Сетевая игра"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_MENU_ITEM",
+   "key": "ba6eacfe",
+   "ru": "Забрать вещи"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_MENU_REGIST",
+   "key": "c1f47000",
+   "ru": "Вкл./выкл. StreetPass"
+  },
+  {
    "n": 66,
    "f": 2,
    "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_MENU_CANCEL",
@@ -9,11 +268,235 @@
    "ru": "<CANCEL_SELECT>\r\nНичего"
   },
   {
+   "n": 67,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_ITEM_MENU",
+   "key": "18caa895",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nКакие вещи посмотреть?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_ITEM_MENU_MULTIPLAY",
+   "key": "49fd56d2",
+   "ru": "Вещи с острова"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_ITEM_MENU_SURECHIGAI",
+   "key": "4a1ef8cc",
+   "ru": "Вещи из StreetPass"
+  },
+  {
    "n": 70,
    "f": 2,
    "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_ITEM_MENU_CANCEL",
    "key": "e9f69236",
    "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_ITEM_NONE",
+   "key": "feafc281",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nУ меня таких нет!"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_ITEM_BAG_FULL",
+   "key": "3fa7016d",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nУ тебя же нет места в сумке? Освободи, тогда\nпоговорим! Хи-хи..."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_COMMUNICATION_ITEM_KEEP",
+   "key": "779ab730",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nУ меня ещё есть твои вещи, так что освободи\nместо в сумке и приходи снова, ладно?"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_NONE_PET",
+   "key": "fa555b2f",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nУ тебя нет питомца, так что StreetPass\nнедоступен. Как заведёшь питомца, поговори со\nмной снова!"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_NO_SAVE_ERROR",
+   "key": "dbc139f3",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nДа в дневнике ещё ни одной записи! Как я\nпоменяю настройки StreetPass такому\nновичку?!"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_REGISTRATION_ASK",
+   "key": "da1d592a",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nВключить StreetPass?"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_REGISTRATION_YES",
+   "key": "9e6c07d1",
+   "ru": "Включить StreetPass"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_REGISTRATION_NO",
+   "key": "d7872797",
+   "ru": "<CANCEL_SELECT>\r\nНе включать"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_REGISTRATION_GO",
+   "key": "fadfbdb9",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЛадушки! StreetPass, ВПЕРЁД!!"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PET_SELECTION",
+   "key": "afb94844",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nВыбери питомца для StreetPass."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PET_DECISION_NO",
+   "key": "1614c055",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЗначит, сегодня StreetPass не меняем? Поняла."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_DISABLE_NO",
+   "key": "1614c055",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЗначит, сегодня StreetPass не меняем? Поняла."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_REGISTRATION_SUCCESS",
+   "key": "6b99438e",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nВсё, готово!\n<PAGE>\nПомни: StreetPass работает сам, даже когда\nты выходишь из игры!"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_REGISTRATION_FAILURE",
+   "key": "76199020",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nПрости, но включить StreetPass не вышло."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_BOX_OVER",
+   "key": "bf3f6e99",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nНа этой консоли StreetPass нельзя включить\nещё для одной игры.\n<PAGE>\nЗайди в “Управление StreetPass” в настройках\nконсоли и выключи StreetPass для другой\nигры.\n<PAGE>\nТолько так! Прости!"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_ENABLE",
+   "key": "1c8c8dda",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nВключить тебе StreetPass?"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_DISABLE",
+   "key": "987eb059",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nВыключить StreetPass? <RED>Питомец отвяжется!\nЕсли снова включишь StreetPass, питомца\nпридётся выбрать заново.</RED>"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_YES",
+   "key": "d30ecdea",
+   "ru": "Давай"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_NO",
+   "key": "0ff44112",
+   "ru": "<CANCEL_SELECT>\r\nНет! Стой!"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_WRITE",
+   "key": "89b41b2c",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nДанные StreetPass будут перезаписаны."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_WRITE_NO",
+   "key": "873feb65",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\r\nНе удалось перезаписать данные StreetPass."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_WRITE_ENABLE_SUCCESS",
+   "key": "c1c6ff39",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nStreetPass для этой игры <RED>включён</RED>.\n<PAGE>\nПомни: StreetPass работает сам, даже когда\nты выходишь из игры."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_WRITE_DISABLE_SUCCESS",
+   "key": "5d3a7b92",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nStreetPass для этой игры <RED>выключен</RED>."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_ITEM_19",
+   "key": "d1cdf3ba",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nХранилище вещей заполнено, так что новые\nвещи могут не поместиться.\n<PAGE>\nНесобранные вещи пропадут. Всё равно начать\nсетевую игру?"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_ITEM_OVER",
+   "key": "a805347c",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nХранилище вещей заполнено.\n<PAGE>\nЕсли начать сетевую игру сейчас, часть вещей\nможет не вернуться. Ничего?"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_ITEM_OVER_NO",
+   "key": "423daaac",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nХорошо, тогда сначала выбери <BLUE>Забрать вещи</BLUE>."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PET_NOT_REGISTRATION",
+   "key": "172b5219",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nТвой питомец не включён в StreetPass."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PET_RELEASE_ASK",
+   "key": "1e479335",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nПравда? Точно-точно? Это же твой питомец! И\nПУФ ― его не станет!"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_MULTIPLAY_GO",
+   "key": "51636390",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Поехали!\n<PAGE>\nАбра-кадабра-пока!"
   }
  ]
 }

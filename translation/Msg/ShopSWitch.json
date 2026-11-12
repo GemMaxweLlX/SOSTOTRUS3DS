@@ -1,0 +1,180 @@
+{
+ "file": "ShopSWitch",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_00",
+   "key": "9e06cbbe",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nМва-ха-ха! Я тебя ждала! Как обещала,\nналожу суперское колдовство специально для\nтебя!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_01",
+   "key": "03e7f233",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЧто, опять ты? Ну... ладно, так и быть, побуду\nс тобой!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_02",
+   "key": "eb480d01",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\nСегодня больше не могу колдовать на\nнелюбовь!\n<PAGE>\nЭто колдовство отнимает много сил, его можно\nтолько раз в день.\n<PAGE>\nТак что возвращаю урожай и говорю: потерпи,\nладно?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_CHOICE_00",
+   "key": "def68bbe",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nСегодня день удивлять, так что давай я сменю\nтебе внешность? Что скажешь?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_CHOICE_01",
+   "key": "9adeabf4",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nСегодня день вредничать, так что давай\nкто-нибудь тебя невзлюбит? Что скажешь?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_YES",
+   "key": "03ea9aea",
+   "ru": "Э-э, давай"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_NO",
+   "key": "be0d6060",
+   "ru": "<CANCEL_SELECT>\r\nЭ-э, нет?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_CHARA_DISLIKE_00",
+   "key": "bc9caea3",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nВот это дух! Выбирай, кто тебя невзлюбит!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_CHARA_01",
+   "key": "de69830c",
+   "ru": "Кто-то из Уэстауна"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_CHARA_02",
+   "key": "db8123e3",
+   "ru": "Кто-то из Цуюкусы"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_CHARA_03",
+   "key": "6fa80f7b",
+   "ru": "Кто-то из Лулукоко"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_CHARA_04",
+   "key": "472e5db3",
+   "ru": "<CANCEL_SELECT>\r\nА может, нет?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_CHARA_05",
+   "key": "72368ede",
+   "ru": "Погоди, выберу заново!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_MAGIC_DISLIKE_00",
+   "key": "283ac779",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nНаложу нелюбовное колдовство на <CHARANAME0>.\nЛа-а-адно?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_CANCEL",
+   "key": "0649db4c",
+   "ru": "Лучше не надо"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_START_00",
+   "key": "fd241413",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Тогда идём в мою обитель?\nМва-ха-ха..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_START_01",
+   "key": "6608f4ba",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nНу что? По-е-е-ехали!\n<PAGE>\nξουρЖπА...\n  ξουρЖπА...\n    ξουρЖπА..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_CHANGE_FACE_00",
+   "key": "156e2067",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nДа! Давай! Теперь выбери, как хочешь\nвыглядеть!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_END_00",
+   "key": "f5fa3377",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nВот! И это вели-и-иколепно!\n<PAGE>\nЗахочешь снова моей магии, заходи, ладно?\n<PAGE>\nИ не забудь принести урожай Лулукоко!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_END_01",
+   "key": "2a06ea56",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЧего-о-о? Трусишь?! Скукоти-и-ища!\n<PAGE>\nНу и ладно. Забирай свой вонючий урожай!\nТолько далеко не уходи. Я буду ждать! Хи-хи."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_END_02",
+   "key": "648c5107",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nХм-хм! Ну как тебе?! Моя сила суперская!\n<PAGE>\nЗахочешь снова моей магии, заходи, ладно?\n<PAGE>\nИ не забудь принести урожай Лулукоко!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_NPC_RESELECT",
+   "key": "f77195b4",
+   "ru": "Выбрать другого"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_FACE_START",
+   "key": "bc24dd1a",
+   "ru": "Выберите предмет на верхнем экране."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_FACE_CANCEL",
+   "key": "c547f440",
+   "ru": "Ладно, отменю колдовство превращения,\nхорошо?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_S_WITCH_FACE_CHANGE",
+   "key": "2b8a77ea",
+   "ru": "Отлично! Точно этого хочешь?"
+  }
+ ]
+}
