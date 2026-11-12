@@ -196,12 +196,16 @@ class Papa:
     def text_slots(self):
         """Yield (row, field, label, text) for every translatable field."""
         for r, fields in enumerate(self.rows):
+            if not fields:
+                continue                    # empty row (seen in the update)
             stamp = fields[0].rstrip(b"\0")
-            if stamp == b"Msg" and len(fields) == 3:
-                text = decode_text(fields[2])
-                if text is not None:
-                    yield r, 2, decode_label(fields[1]), text
-            else:
+            if stamp == b"Msg":
+                # field 1 is the label; rows without field 2 have no text
+                if len(fields) >= 3:
+                    text = decode_text(fields[2])
+                    if text is not None:
+                        yield r, 2, decode_label(fields[1]), text
+            elif stamp == b"DataText":
                 for f in range(1, len(fields)):
                     text = decode_text(fields[f])
                     # "-" marks an unused column in DataText tables
@@ -568,10 +572,17 @@ def cmd_load(args):
             continue
         doc = read_json(target)
         index = {(e["n"], e["f"]): e for e in doc["entries"]}
+        # fallback for other game versions where rows have moved:
+        # same label and same original text anywhere in the file
+        moved = {}
+        for e in doc["entries"]:
+            moved.setdefault((e.get("id"), text_key(e["en"])), e)
         changed = False
         for item in read_json(path)["entries"]:
             e = index.get((item["n"], item["f"]))
             if e is None or text_key(e["en"]) != item.get("key"):
+                e = moved.get((item.get("id"), item.get("key")))
+            if e is None:
                 stale += 1
                 continue
             if e.get(LANG) != item[LANG]:
