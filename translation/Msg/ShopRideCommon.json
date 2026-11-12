@@ -2,6 +2,27 @@
  "file": "ShopRideCommon",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "Select00",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "Select01",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "Select02",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
    "n": 4,
    "f": 2,
    "id": "SelectCancel",

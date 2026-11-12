@@ -1,0 +1,215 @@
+{
+ "file": "Family_Meal_Turn",
+ "entries": [
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Postman",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Postman",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Postman",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Doctor",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Doctor",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Doctor",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Chaser",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Chaser",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Chaser",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Apprentice",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Apprentice",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Apprentice",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Craftman",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Craftman",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Craftman",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Florist",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Florist",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Florist",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_TeaGirl",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_TeaGirl",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_TeaGirl",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Teacher",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Teacher",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Teacher",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_TwinOlder",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_TwinOlder",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 390,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_TwinOlder",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 433,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_TwinYounger",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 434,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_TwinYounger",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 435,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_TwinYounger",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  }
+ ]
+}

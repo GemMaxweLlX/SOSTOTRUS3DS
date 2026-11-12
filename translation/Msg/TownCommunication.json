@@ -1,0 +1,26 @@
+{
+ "file": "TownCommunication",
+ "entries": [
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_CROP",
+   "key": "bdff68fe",
+   "ru": "Урожай"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_FISH",
+   "key": "9f46eb0d",
+   "ru": "Рыба"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_MILK",
+   "key": "1c143328",
+   "ru": "Молоко"
+  }
+ ]
+}

@@ -2,6 +2,132 @@
  "file": "Property",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "TopMenuSelectIncome",
+   "key": "6720d27a",
+   "ru": "Доходы"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "TopMenuSelectShipment",
+   "key": "32fb3480",
+   "ru": "Отправки"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "TopMenuSelectHarvest",
+   "key": "f3e3e4ac",
+   "ru": "Урожай"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "TopMenuSelectTournament",
+   "key": "af7165d7",
+   "ru": "Турниры"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "TopMenuSelectNpc",
+   "key": "c5e1ac81",
+   "ru": "Жители"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "TopMenuSelectAnimal",
+   "key": "d1882794",
+   "ru": "Животные"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "TopMenuSelectFishing",
+   "key": "ff35bc5e",
+   "ru": "Рыбалка"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "TopMenuSelectProfile",
+   "key": "4eea9393",
+   "ru": "Профиль"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "FamilyInfoMyName",
+   "key": "1fa3f9bf",
+   "ru": "О себе"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "FamilyInfoMyFamily",
+   "key": "a24a246d",
+   "ru": "Семья"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MyFamilyInfoFarm",
+   "key": "f8247f7b",
+   "ru": "Ферма"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MyFamilyInfoBirthDay",
+   "key": "be1dd4bb",
+   "ru": "Д. р."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MyFamilyInfoPlay",
+   "key": "febb7184",
+   "ru": "Игра"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MyFamilyInfoDegree\n \n",
+   "key": "eaf7576f",
+   "ru": "Звание"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MyFamilyInfoType",
+   "key": "2cecf817",
+   "ru": "Тип"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MyFamilyInfoAnniversary",
+   "key": "6a881266",
+   "ru": "Годовщ."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "ChangeNameCheck",
+   "key": "c41b00e5",
+   "ru": "<MOJI0> подходит?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "IncomeExpenditureYear",
+   "key": "9c22e129",
+   "ru": "Всего, год %2d"
+  },
+  {
    "n": 18,
    "f": 2,
    "id": "TopMenuSeasonSpring",
@@ -30,11 +156,165 @@
    "ru": "Зима"
   },
   {
+   "n": 22,
+   "f": 2,
+   "id": "TopMenuYear",
+   "key": "1bb0dc09",
+   "ru": "Год"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "TopMenuDate",
+   "key": "dded6f70",
+   "ru": "День"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "HarvestSubTitle",
+   "key": "9a9f2e9f",
+   "ru": "Урожай подробно"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "ShipmentSubGenreAll",
+   "key": "c2f1b288",
+   "ru": "Всё вместе"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "ShipmentSubGenreSeed",
+   "key": "33e8c2d9",
+   "ru": "Семена"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "ShipmentSubGenreCrop",
+   "key": "bdff68fe",
+   "ru": "Урожай"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "ShipmentSubGenreCook",
+   "key": "5fe1d66b",
+   "ru": "Блюда"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "ShipmentSubGenreMaker",
+   "key": "4acc380c",
+   "ru": "Продукты"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "ShipmentSubGenreFish",
+   "key": "9f46eb0d",
+   "ru": "Рыба"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "ShipmentSubGenreOther",
+   "key": "18991a24",
+   "ru": "Другое"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "ShipmentSubPrice",
+   "key": "632cd1c1",
+   "ru": "Сумма"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "ShipmentSubNum",
+   "key": "fb82cd97",
+   "ru": "Количество"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "AnimalSubTitle",
+   "key": "8babf260",
+   "ru": "Животные"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "TopmenuFarm",
+   "key": "f8247f7b",
+   "ru": "Ферма"
+  },
+  {
    "n": 36,
    "f": 2,
    "id": "UnknownName",
    "key": "3ece7cbe",
    "ru": "???"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "AnimalProductSubTitle",
+   "key": "8c691034",
+   "ru": "Продукты животных"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "HarvestRankingSubTitle",
+   "key": "33458aac",
+   "ru": "Топ-3 культур"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "CookRankingSubTitle",
+   "key": "da0a5c51",
+   "ru": "Топ-3 блюд"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "WorkshopRankingSubTitle",
+   "key": "620809a0",
+   "ru": "Топ-3 продуктов"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "FishRankingSubTitle",
+   "key": "9b4b4090",
+   "ru": "Топ-3 рыбы"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "TopmenuFarmFormat",
+   "key": "eb47a99c",
+   "ru": "Ферма <MOJI0>"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "TopmenuBirthdayFormat",
+   "key": "b8604630",
+   "ru": "<MOJI0> <MOJI1>"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "TopmenuTimeFormat",
+   "key": "41152e1c",
+   "ru": "Год <MOJI1>, <MOJI0>"
   }
  ]
 }

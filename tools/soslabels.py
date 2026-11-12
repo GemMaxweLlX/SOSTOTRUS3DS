@@ -17,6 +17,8 @@ without a "_0"/"_1" suffix applies to every state of that button. The key
 or "edge" for the outline colour of the original word), "_size" the font
 size in pixels and "_stroke" the outline width. A label may also be an object such as
 {"text": "Весна", "fill": "#ff4f8f"} to override the style for one image.
+"keep_box": true keeps the new word inside the area of the original one,
+for pictures of which the game shows only that part.
 Needs Pillow.
 """
 
@@ -73,7 +75,8 @@ def parse_colour(value, edge):
     return tuple(int(value[i:i + 2], 16) for i in (0, 2, 4)) + (255,)
 
 
-def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12, stroke=2):
+def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12, stroke=2,
+            keep_box=False):
     """Replace the word in an image.
 
     fill, ring: "#rrggbb", or "edge" for the outline colour of the original
@@ -95,6 +98,10 @@ def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12,
 
     left = x0 + 1 if icon else 1
     room = img.width - 1 - left
+    if keep_box:
+        # the game shows only the part of the picture where the original
+        # word was: keep the new word inside that box
+        left, room = x0, x1 - x0
 
     while True:
         font = ImageFont.truetype(ttf_path, size)
@@ -119,7 +126,10 @@ def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12,
 
     out = img.copy()
     out.paste((0, 0, 0, 0), (x0 if icon else 0, 0, img.width, img.height))
-    pos = left - 2 if icon else round((img.width - width) / 2) - 2
+    if keep_box:
+        pos = left - 2
+    else:
+        pos = left - 2 if icon else round((img.width - width) / 2) - 2
     out.alpha_composite(layer, (max(pos, 0), 0))
     return out
 

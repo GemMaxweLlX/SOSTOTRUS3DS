@@ -1,0 +1,264 @@
+{
+ "file": "Family_ChildBirth",
+ "entries": [
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_08",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 306,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_09",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_10",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_NAMING_01",
+   "key": "cdfc6e09",
+   "ru": "Назад"
+  }
+ ]
+}

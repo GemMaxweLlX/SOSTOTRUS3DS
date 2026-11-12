@@ -16,6 +16,48 @@
    "ru": "Нет"
   },
   {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_CANCEL",
+   "key": "68291829",
+   "ru": "Назад"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_00",
+   "key": "4fae16f0",
+   "ru": "Юдзуки"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_01",
+   "key": "25e1f085",
+   "ru": "Хината"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_08",
+   "key": "6601f7d1",
+   "ru": "Комари"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_09",
+   "key": "bf826c2e",
+   "ru": "Касуми"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_13",
+   "key": "19e86dee",
+   "ru": "<CHILD_NAME>"
+  },
+  {
    "n": 100,
    "f": 2,
    "id": "MES_EV_FES_A_RICE_EAR_GO_HOME_01",

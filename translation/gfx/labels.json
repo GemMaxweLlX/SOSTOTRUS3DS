@@ -104,9 +104,10 @@
   "timg/date_base": {
    "text": "День",
    "fill": "#ffffff",
-   "size": 9,
+   "size": 10,
    "stroke": 1,
-   "ring": null
+   "ring": null,
+   "keep_box": true
   }
  },
  "ItemComment.arc": {

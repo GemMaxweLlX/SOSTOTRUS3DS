@@ -1,0 +1,75 @@
+{
+ "file": "Resident_FriendsTalk",
+ "entries": [
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_CHOICE_01",
+   "key": "520df481",
+   "ru": "Уэйн"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_CHOICE_02",
+   "key": "8b66ead5",
+   "ru": "Форд"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_CHOICE_03",
+   "key": "25e1f085",
+   "ru": "Хината"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_CHOICE_04",
+   "key": "4fae16f0",
+   "ru": "Юдзуки"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_CHOICE_05",
+   "key": "d35adc32",
+   "ru": "Лудус"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_CHOICE_01",
+   "key": "a6c5ea66",
+   "ru": "Лизетта"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_CHOICE_02",
+   "key": "6601f7d1",
+   "ru": "Комари"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_CHOICE_03",
+   "key": "bf826c2e",
+   "ru": "Касуми"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_CHOICE_04",
+   "key": "0cb7cc87",
+   "ru": "Илука"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_CHOICE_05",
+   "key": "308ccf64",
+   "ru": "Силука"
+  }
+ ]
+}
