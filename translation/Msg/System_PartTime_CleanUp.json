@@ -1,0 +1,117 @@
+{
+ "file": "System_PartTime_CleanUp",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_START_Assistant",
+   "key": "5001e1cb",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nОй! С-спасибо, что пришли...\n<PAGE>\nЭм, сегодня мне очень нужна помощь с\n<BLUE>уборкой</BLUE>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_MONEY_Assistant",
+   "key": "befec529",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nОго! Сразу видно мастера!\n<PAGE>\nВ-вот плата. Если хочешь, пересчитай."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_ITEM_Assistant",
+   "key": "93f81527",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nДа, точно. Я, эм, недавно получил вот это,\nно...\n<PAGE>\nХочу отдать тебе. За помощь."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_END_Assistant",
+   "key": "d4264990",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nСпасибо! Всё, что нашлось, можешь оставить\nсебе. Уверен, мне ещё понадобится твоя\nпомощь."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_FREE",
+   "key": "c856f259",
+   "ru": "Взята подработка: <BLUE>уборка</BLUE>!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_START_COLLABORATION",
+   "key": "e862153a",
+   "ru": "Наконец-то! Я вас ждала!\n<PAGE>\nМеня попросили достать <BLUE>фрукты</BLUE>, но я всё\nперепутала.\n<PAGE>\nЯ искала умельца, который поможет всё\nсобрать.\n<PAGE>\nПожалуйста, <BLUE>соберите для меня фрукты: <MOJI1> шт.</BLUE>"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_RECEIVE_COLLABORATION",
+   "key": "d544f416",
+   "ru": "Впечатляет! Быстро работаете. Большое\nспасибо.\n<PAGE>\nМожно забрать собранные <BLUE>фрукты</BLUE>?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_MONEY_COLLABORATION",
+   "key": "c569c592",
+   "ru": "Пожалуйста, примите это в качестве платы!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_ITEM_COLLABORATION",
+   "key": "dbcf81db",
+   "ru": "А вот ещё кое-что в качестве особой награды.\nУверена, пригодится!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_ITEM_COLLABORATION_PEACH",
+   "key": "cfba0d1c",
+   "ru": "Наденьте весь комплект ― и будете вылитая\n<BLUE>Принцесса Пич</BLUE>!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_ITEM_COLLABORATION_KINOPIO",
+   "key": "ee7792c7",
+   "ru": "Наденьте весь комплект ― и будете вылитый\n<BLUE>Тоад</BLUE>!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_END_COLLABORATION",
+   "key": "21ae8eed",
+   "ru": "Если снова будут проблемы, я знаю, к кому\nобратиться. Спасибо вам! ♪"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_END_COLLABORATION_FINAL",
+   "key": "e2f6db9f",
+   "ru": "Вы меня просто выручили. Неудивительно, что\nходят слухи о легендарном фермере!\n<PAGE>\nМожет, мы больше и не встретимся, но я буду\nболеть за вас из тени. Прощайте! ♪"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_PRESENT",
+   "key": "e4f8c973",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLEANUP_COLLABORATION_FREE",
+   "key": "7c8f610b",
+   "ru": "Взята подработка: <BLUE>уборка</BLUE>!"
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "file": "System_Historian_Encounter",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_ENCOUNTER_000",
+   "key": "a7461c36",
+   "ru": "<FACE_INNOWNER>\r\n<_____MYNAME_____>, ты уже на ногах?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_ENCOUNTER_001",
+   "key": "575cbb76",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nПрости, что беспокою так рано.\n<PAGE>\nЭти двое были в своего рода путешествии и\nтолько этим утром вернулись.\n<PAGE>\nВы ещё не знакомы, вот я и решила вас\nпредставить."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_ENCOUNTER_002",
+   "key": "309d2504",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Так это и есть новый фермер, <_____MYNAME_____>?\n<PAGE>\nХм-м... Вид у тебя толковый. По крайней\nмере, физически."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_ENCOUNTER_003",
+   "key": "b2e32998",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN><WINDOW_SWEAT_R>П-профессор, не слишком ли это грубо...?\n<PAGE>\n<FACE_HISTORIAN><POS_LEFT><FACE_ANGRY><WINDOW_ANGER_L>Тихо, Лотус.\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_SAD><WINDOW_DISCOURAGEMENT_R>П-простите..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_ENCOUNTER_004",
+   "key": "99f70ddf",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nЯ Митра, историк. Специализируюсь на\nизучении древних культур.\n<PAGE>\nА этот хиляк ― Лотус, мой ассистент. На\nхудой конец годится как приманка для древних\nловушек.\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>Э-это как-то жестоко. Да ещё при человеке, с\nкоторым мы только познакомились...\n<PAGE>\n<FACE_LAUGH>З-здравствуй. Приятно познакомиться, <_____MYNAME_____>. Меня\nзовут Лотус."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_ENCOUNTER_005",
+   "key": "9592c8f9",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____> всегда с радостью помогает.\n<PAGE>\nЕсли нужна помощь, думаю, достаточно просто\nпопросить."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_ENCOUNTER_006",
+   "key": "cde8d454",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>О, правда? Что ж ты раньше не сказала!\n<PAGE>\n<WINDOW_DEFAULT><FACE_NORMAL>Что ж, поговорим об этом подробнее завтра.\n<PAGE>\nЯ только вернулась и ещё порядком устала."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_ENCOUNTER_007",
+   "key": "43b9921a",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, приятно было познакомиться. Скоро\nещё поговорим!\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>П-простите нас."
+  }
+ ]
+}

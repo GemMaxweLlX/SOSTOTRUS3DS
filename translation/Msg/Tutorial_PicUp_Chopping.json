@@ -1,0 +1,166 @@
+{
+ "file": "Tutorial_PicUp_Chopping",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_00",
+   "key": "73c09804",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНу что ж. Давай для начала соберёшь хворост.\n<PAGE>\nСкажи честно, <_____MYNAME_____>. Ты знаешь, как это делается?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_01",
+   "key": "ba0bff57",
+   "ru": "Ага!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_02",
+   "key": "0be3902e",
+   "ru": "Не-а"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_03",
+   "key": "d0cbf4f6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, значит? Одним объяснением меньше.\nТогда за дело."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_04",
+   "key": "571e157b",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Слушай внимательно, объясню, как\nсобирать вещи."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_05",
+   "key": "477439c5",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЧтобы что-то подобрать, подойди к этому и\n<BLUE>нажми кнопку A</BLUE>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_06",
+   "key": "38ad504c",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНу как? Проще простого, правда? Теперь так\nже собери оставшиеся <BLUE>9 веток</BLUE>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_07",
+   "key": "cbf8c4e2",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЭй, придержи коней. Ты куда? Вернись и\nдобери ветки."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_08",
+   "key": "edb5f1ee",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nВот, так и надо. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_09",
+   "key": "339706d0",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nТеперь расколем ветки на дрова. Знаешь уже,\nкак это делается?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_10",
+   "key": "ba0bff57",
+   "ru": "Ага!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_11",
+   "key": "0be3902e",
+   "ru": "Не-а"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_12",
+   "key": "f992c76a",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nЛадно. Ещё одним объяснением меньше.\n<PAGE>\nТогда за дело. Помоги расколоть эти ветки на\nдрова."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_13",
+   "key": "abf70404",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Слушай внимательно."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_14",
+   "key": "f2588e71",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЧтобы расколоть ветку на дрова, возьми <BLUE>топор</BLUE>,\nподойди к ветке и <BLUE>нажми кнопку A</BLUE>."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_15",
+   "key": "f5946fd4",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nПотом, как и раньше, подбери дрова, снова\n<BLUE>нажав кнопку A</BLUE>."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_16",
+   "key": "627e5d03",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nПросто, правда? Теперь так же расколи\nоставшиеся <BLUE>9 веток</BLUE>."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_17",
+   "key": "a7ce4b91",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nХорошо. С твоей помощью управились куда\nбыстрее обычного."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_18",
+   "key": "f047b02b",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВот. Возьми в награду за сегодняшнюю помощь.\nЗнаю, немного, но уверен, найдёшь применение."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_19",
+   "key": "d3d173ad",
+   "ru": "Ура! Получено <BLUE>3000G</BLUE>!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_20",
+   "key": "3ac70e4a",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nАх да, кстати, этот топор я купил для тебя. Он\nтвой, пользуйся как хочешь."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_21",
+   "key": "14c4d38e",
+   "ru": "Получен топор!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PIC_CHOP_22",
+   "key": "b62801e7",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nАх. Прости. Видно, живот напоминает, что\nскоро обед. Пойдём в дом, поедим."
+  }
+ ]
+}

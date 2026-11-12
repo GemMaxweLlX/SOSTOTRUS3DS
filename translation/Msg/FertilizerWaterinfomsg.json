@@ -1,0 +1,82 @@
+{
+ "file": "FertilizerWaterinfomsg",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterPika",
+   "key": "24dd094f",
+   "ru": "Блестящее удобрение,\nразведённое водой."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterAma",
+   "key": "027ecbbb",
+   "ru": "Сахарное удобрение, разведённое\nводой."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterJushi",
+   "key": "d81e9a1c",
+   "ru": "Сочное удобрение, разведённое\nводой."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterGun",
+   "key": "16e3bd77",
+   "ru": "Ровное удобрение, разведённое\nводой."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterFueru",
+   "key": "79d09d2b",
+   "ru": "Плодородное удобрение,\nразведённое водой."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterSuper",
+   "key": "18942d42",
+   "ru": "Суперудобрение, разведённое\nводой."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterPikaUltra",
+   "key": "198f406e",
+   "ru": "Мега-блестящее удобрение,\nразведённое водой."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterAmaUltra",
+   "key": "d36d9996",
+   "ru": "Мега-сахарное удобрение,\nразведённое водой."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterJushiUltra",
+   "key": "40298422",
+   "ru": "Мега-сочное удобрение,\nразведённое водой."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterGunUltra",
+   "key": "2bb1f456",
+   "ru": "Мега-ровное удобрение,\nразведённое водой."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_INFO_FertilizerWaterFueruUltra",
+   "key": "6d419d97",
+   "ru": "Мега-плодородное удобрение,\nразведённое водой."
+  }
+ ]
+}

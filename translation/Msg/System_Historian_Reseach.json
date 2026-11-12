@@ -1,0 +1,110 @@
+{
+ "file": "System_Historian_Reseach",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_000",
+   "key": "41cb7ce7",
+   "ru": "<FACE_HISTORIAN>\r\n<_____MYNAME_____>, это Митра! Я вхожу!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_001",
+   "key": "bfb506f8",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nЯ здесь, как и обещала! Идём?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_002",
+   "key": "4e350133",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nЧто? Мы идём в древние руины разгадывать\nтайны, конечно!\n<PAGE>\nДревние руины тебе ведь знакомы?\n<PAGE>\nВозле алтаря есть запечатанная каменная\nдверь...\n<PAGE>\n<WINDOW_LINE_R><FACE_ANGRY>Мир должен узнать, что за ней! Ты ведь\nпоможешь?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_003",
+   "key": "ab86921d",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nВеликолепно! Вот это настрой!\n<PAGE>\nВсё началось, когда... благодаря одному\nслучаю... я раздобыла эту каменную гравюру."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_004",
+   "key": "41fc7608",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nВ-вообще-то я попал в ловушку и случайно её\nнашёл..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_005",
+   "key": "356a5eff",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nМне удалось расшифровать древний текст,\nвырезанный на гравюре...\n<PAGE>\nИ в итоге я узнала тайный способ открыть\nдверь в древних руинах!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_006",
+   "key": "a88a01ed",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nМы прямо сейчас идём туда пожинать плоды\nтрудов!\n<PAGE>\nЗа мной, <_____MYNAME_____>!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_007",
+   "key": "007ff284",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nТак, <_____MYNAME_____>. Подержи для меня эту <BLUE>репу</BLUE>..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_008",
+   "key": "5ecd6504",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nП-профессор? М-может, лучше мне..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_009",
+   "key": "56e2e840",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\nДай я <BLUE>репу</BLUE> тебе, ты бы её наверняка потерял.\n<PAGE>\nПросто встань вон там и не двигайся. И не\nговори. Вообще ничего не делай.\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_SAD><WINDOW_DISCOURAGEMENT_L>Ну во-о-от..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_010",
+   "key": "4c512932",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nПо моему сигналу положи репу на алтарь!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_011",
+   "key": "7c2bf089",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nЧ-что происходит...?\n<PAGE>\n<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>Я что-то слышу! Будто... движется большой\nтяжёлый камень..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_012",
+   "key": "2ef4d5c4",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nДа! Получилось!\n<PAGE>\n<FACE_LAUGH><WINDOW_LINE_R>Потрясающе! Мой перевод был верным!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_013",
+   "key": "65fc8d15",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_SAD>\r\nП-подождите, профессор! Стойте!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_HISTORIAN_RESEACH_014",
+   "key": "f8b8c2d4",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\nНу что ж! Раз, два, три!"
+  }
+ ]
+}

@@ -2,11 +2,88 @@
  "file": "Maker",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_ATELIER_COMPLETE",
+   "key": "ce43e035",
+   "ru": "<BLUE><____ITEMNAME0____></BLUE>: готово!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_ATELIER_TAKEOUT_00",
+   "key": "8d3fbe16",
+   "ru": "<SPEED_IMME>Достать готовые предметы?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_ATELIER_TAKEOUT_01",
+   "key": "fc3bcca1",
+   "ru": "Достать"
+  },
+  {
    "n": 3,
    "f": 2,
    "id": "MSG_ATELIER_TAKEOUT_02",
    "key": "e9f69236",
    "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_ATELIER_BAGOVER",
+   "key": "bf982fea",
+   "ru": "В сумке нет места!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_ATELIER_CHECK_00",
+   "key": "71645ea4",
+   "ru": "<SPEED_IMME>Что сделать?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_ATELIER_CHECK_01",
+   "key": "62679cce",
+   "ru": "Изготовить предмет"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_ATELIER_CHECK_02",
+   "key": "2d8119f4",
+   "ru": "Проверить ход работы"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_ATELIER_FULL",
+   "key": "09609730",
+   "ru": "Материалов уже полно."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_ATELIER_CANCEL",
+   "key": "abe22f4f",
+   "ru": "Все использованные материалы пропадут.\nОтменить производство?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_ATELIER_BACK_00",
+   "key": "38b45434",
+   "ru": "Вернуться к началу?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_ATELIER_BACK_01",
+   "key": "38b45434",
+   "ru": "Вернуться к началу?"
   }
  ]
 }

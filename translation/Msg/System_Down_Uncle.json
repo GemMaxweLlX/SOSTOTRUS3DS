@@ -1,0 +1,47 @@
+{
+ "file": "System_Down_Uncle",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_UNCLE_00",
+   "key": "e2da9d36",
+   "ru": "<_____MYNAME_____>... <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_UNCLE_01",
+   "key": "57d29c12",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nСлава богу, наконец-то ты с нами! Как\nсамочувствие?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_UNCLE_02",
+   "key": "4a4fdd4e",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_SAD>\r\nНе помнишь? Тебя нашли без чувств! Нельзя же\nтак себя загонять."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_UNCLE_03",
+   "key": "f6282174",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nНу, вижу, ты понимаешь свою ошибку, так что\nбольше ничего не скажу.\n<PAGE>\n<FACE_LAUGH>Лишь бы впредь было поосторожнее! Не хочу,\nчтобы с тобой что-то случилось. В общем,\nрад, что ты в порядке."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_UNCLE_04",
+   "key": "235feb95",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nМы семья, и я здесь, чтобы о тебе заботиться,\nтак что благодарить не надо.\n<PAGE>\n<FACE_NORMAL>Только сегодня поберегись, слышишь? Не хочу,\nчтобы это повторилось."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_UNCLE_05",
+   "key": "0c33e1a4",
+   "ru": "(Он так за меня волновался. Впредь надо быть\nосторожнее.)"
+  }
+ ]
+}

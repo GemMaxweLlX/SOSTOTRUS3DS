@@ -9,11 +9,81 @@
    "ru": "Урожай"
   },
   {
+   "n": 3,
+   "f": 2,
+   "id": "MES_FARMADVICE_CONDITIONS_ANIMAL",
+   "key": "421c6b65",
+   "ru": "Коровы"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_FARMADVICE_CONDITIONS_HOUSE",
+   "key": "f6cdf144",
+   "ru": "Ремонт дома"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_FARMADVICE_CONDITIONS_PRODUCT",
+   "key": "6dd1037d",
+   "ru": "Продукты животных"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_FARMADVICE_CONDITIONS_MAKER_01",
+   "key": "86f9f564",
+   "ru": "Семенной станок"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_FARMADVICE_CONDITIONS_MAKER_02",
+   "key": "14038f03",
+   "ru": "Молочный цех"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_FARMADVICE_CONDITIONS_TOWNRANK",
+   "key": "5dc4d0de",
+   "ru": "Ранг связи"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_FARMADVICE_CONDITIONS_BRAND",
+   "key": "438c22d1",
+   "ru": "Бренды"
+  },
+  {
    "n": 10,
    "f": 2,
    "id": "MES_FARMADVICE_CONDITIONS_MONEY",
    "key": "761eb664",
    "ru": "Сумма отгрузок"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_FARMADVICE_CONDITIONS_COUNT",
+   "key": "07f51ff3",
+   "ru": "Отгружено товаров"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_FARMADVICE_CONDITIONS_VICTORY",
+   "key": "f44dfe5e",
+   "ru": "Победы на праздниках"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_FARMADVICE_CLEAR",
+   "key": "a1129dbd",
+   "ru": "<BLUE><MOJI0></BLUE>: выполнено!"
   }
  ]
 }

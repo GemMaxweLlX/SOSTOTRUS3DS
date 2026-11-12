@@ -1,0 +1,89 @@
+{
+ "file": "EventOption",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "DEMOSKIP_MES_000",
+   "key": "a28b41fb",
+   "ru": "Пропустить сценку?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "DEMOSKIP_MES_001",
+   "key": "0ef4c3b4",
+   "ru": "Включить автопрокрутку текста?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "DEMOSKIP_MES_002",
+   "key": "f0677235",
+   "ru": "Выключить автопрокрутку текста?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_BLUE_SHUTTLECOCK_NO_REACTION",
+   "key": "4264f1ad",
+   "ru": "Показывать это <CHARANAME0> нет смысла. Уберём."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_FESTIVAL_THANKS_NO_REACTION",
+   "key": "aeff8baa",
+   "ru": "Отдавать это во время работы, пожалуй,\nневежливо. Сделаем это позже."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_FESTIVAL_GET_CAMPA",
+   "key": "447af4cd",
+   "ru": "Получено пожертвование от <CHARANAME0>!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_FESTIVAL_HAND_CAMPA",
+   "key": "c66b0957",
+   "ru": "Собранные деньги переданы."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_FES_ENTRY_CLASS_00",
+   "key": "12f72296",
+   "ru": "Класс <MOJI0>"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_FES_ENTRY_CLASS_01",
+   "key": "de5d2208",
+   "ru": "Класс <MOJI1>"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_FES_ENTRY_CLASS_02",
+   "key": "50d225eb",
+   "ru": "Класс <MOJI2>"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_FES_ENTRY_CLASS_03",
+   "key": "9c782575",
+   "ru": "Класс <MOJI3>"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_FES_ENTRY_CLASS_04",
+   "key": "fe47519a",
+   "ru": "<CANCEL_SELECT>\r\nНе участвовать"
+  }
+ ]
+}

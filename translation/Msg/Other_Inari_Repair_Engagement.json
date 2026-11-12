@@ -1,0 +1,33 @@
+{
+ "file": "Other_Inari_Repair_Engagement",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_OTHER_INARI_REPAIR_ENGAGEMENT_00",
+   "key": "daf9f125",
+   "ru": "<NAME_UNKNOWN>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_OTHER_INARI_REPAIR_ENGAGEMENT_01",
+   "key": "8813ce5f",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\nПрости, что явилась так внезапно. Я пришла\nсегодня извиниться.\n<PAGE>\n<FACE_WITCH><POS_RIGHT><FACE_SAD>В общем, насчёт вашей свадебной церемонии...\nВозникла небольшая проблема, и мы не\nуспеваем.\n<PAGE>\n<FACE_GODDES><POS_LEFT><FACE_SAD>Мне правда очень жаль, <_____MYNAME_____>.\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_SAD>Прости меня, <_____MYNAME_____>. Надо было сказать раньше."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_OTHER_INARI_REPAIR_ENGAGEMENT_02",
+   "key": "e8af6916",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\n<FACE_GODDES><POS_RIGHT><FACE_SAD>У-у-у, мне правда очень жаль. Это всё потому,\nчто мы не успеваем с подготовкой...\n<PAGE>\n<FACE_INARI><POS_LEFT><FACE_NORMAL>Не кори себя так, Десси. Мы с <_____MYNAME_____> одни ни за что\nне подготовили бы церемонию.\n<PAGE>\n<FACE_LAUGH>Поэтому мы оба искренне благодарны тебе и\nВедьмочке. Небольшая отсрочка меня не пугает.\n<PAGE>\n<FACE_GODDES><POS_RIGHT><FACE_SAD>*всхлип* Инари...\n<PAGE>\n<FACE_WITCH><POS_RIGHT><FACE_SAD>Как хорошо это слышать..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_OTHER_INARI_REPAIR_ENGAGEMENT_03",
+   "key": "c418c97e",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_NORMAL>\r\nИтак, новая дата свадьбы:\n<BLUE><MOJI0>\n<MOJI1></BLUE>.\n<PAGE>\n<FACE_WITCH><POS_RIGHT><FACE_ANGRY>Будьте уверены, эта свадьба пройдёт с\nогромным успехом!\n<PAGE>\n<FACE_INARI><POS_LEFT><FACE_LAUGH>Хи-хи. Мы на тебя рассчитываем, Ведьмочка.\n<PAGE>\n<FACE_INARI><POS_LEFT><FACE_NORMAL>Что ж, нам пора. Прости, что так внезапно.\n<PAGE>\nЯ с нетерпением жду нашей свадьбы!"
+  }
+ ]
+}

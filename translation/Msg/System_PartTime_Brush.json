@@ -1,0 +1,75 @@
+{
+ "file": "System_PartTime_Brush",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_BRUSH_START_Uncle",
+   "key": "69ecda36",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за помощь! Давай сразу начнём <BLUE>чистить\nживотных</BLUE>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_BRUSH_MONEY_Uncle",
+   "key": "c75df41f",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nВот это чистка что надо! Держи плату за\nхорошую работу."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_BRUSH_ITEM_Uncle",
+   "key": "1bb41321",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nПремного благодарен! А это в знак\nпризнательности. Бери, бери."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_BRUSH_END_Uncle",
+   "key": "a349bd09",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nНу вот! Будет возможность ― с радостью\nпозову тебя снова."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_BRUSH_START_AmericaFarmOldwoman",
+   "key": "786e96bf",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОй, спасибо, что пришли! Не хочу торопить, но\nготовы начать <BLUE>чистить животных</BLUE>?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_BRUSH_MONEY_AmericaFarmOldwoman",
+   "key": "375d7b94",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Вот, не забудьте плату."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_BRUSH_ITEM_AmericaFarmOldwoman",
+   "key": "e68b4edd",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да! Вот ещё кое-что за то, что всегда мне\nпомогаете."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_BRUSH_END_AmericaFarmOldwoman",
+   "key": "c1ffd5dd",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВы меня просто спасаете. Надеюсь и в\nследующий раз на вас рассчитывать!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_BRUSH_FREE",
+   "key": "aace5bd7",
+   "ru": "Взята подработка: <BLUE>чистка</BLUE> животных!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_BRUSH_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  }
+ ]
+}

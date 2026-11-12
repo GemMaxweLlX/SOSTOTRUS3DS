@@ -1,0 +1,54 @@
+{
+ "file": "System_PartTime_Harvest",
+ "entries": [
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_ITEM_Doctor",
+   "key": "7fb148f8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nИ возьмите ещё вот это в знак благодарности.\nНадеюсь, пригодится."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_END_Doctor",
+   "key": "81fcb0da",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nБуду ждать следующего раза!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_ITEM_Uncle",
+   "key": "837662e1",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nПремного благодарен. Хочу дать тебе ещё и\nэто. Считай знаком признательности."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_MONEY_AmericaFarmOldwoman",
+   "key": "3e78fe99",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Вот, держите плату."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_ITEM_StuffWoman",
+   "key": "484fb2f4",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да, и вот вам небольшая премия. Спасибо,\nчто всегда помогаете!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_END_StuffWoman",
+   "key": "684aef13",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо! До следующего раза,\nхорошо?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  }
+ ]
+}

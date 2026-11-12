@@ -1,0 +1,19 @@
+{
+ "file": "Tutorial_TownRank_Lock",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_LOCK_00",
+   "key": "1d1f57dc",
+   "ru": "<FACE_UNCLE>\r\n<_____MYNAME_____>, ты дома? Прошу прощения."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_LOCK_01",
+   "key": "d643dbec",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nКак дела? Решил, что пора проведать, как у\nтебя с рангами связи с городами."
+  }
+ ]
+}

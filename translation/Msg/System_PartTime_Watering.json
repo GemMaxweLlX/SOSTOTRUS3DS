@@ -1,0 +1,103 @@
+{
+ "file": "System_PartTime_Watering",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_START_Doctor",
+   "key": "20f640c3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА, спасибо, что пришли, <_____MYNAME_____>. Готовы начать\n<BLUE>поливать</BLUE> поле?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_MONEY_Doctor",
+   "key": "d1d88fab",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nОтличная работа. Вот, примите в качестве\nвознаграждения."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_ITEM_Doctor",
+   "key": "7fb148f8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nИ возьмите ещё вот это в знак благодарности.\nНадеюсь, пригодится."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_END_Doctor",
+   "key": "81fcb0da",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nБуду ждать следующего раза!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_START_Uncle",
+   "key": "30504bde",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за помощь! Давай сразу начнём\n<BLUE>поливать</BLUE> поле."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_MONEY_Uncle",
+   "key": "0883f539",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nВот это полив что надо! Держи оплату."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_ITEM_Uncle",
+   "key": "837662e1",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nПремного благодарен. Хочу дать тебе ещё и\nэто. Считай знаком признательности."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_END_Uncle",
+   "key": "0e11cd97",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nКак будет настроение ― с радостью приму\nтвою помощь снова."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_START_StuffWoman",
+   "key": "b3859dec",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуйте, <_____MYNAME_____>, готовы? Мне нужна помощь,\nчтобы <BLUE>полить</BLUE> это поле."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_MONEY_StuffWoman",
+   "key": "225243ae",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОго, уже готово? Тогда вот ваша плата за\nсегодня."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_ITEM_StuffWoman",
+   "key": "484fb2f4",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да, и вот вам небольшая премия. Спасибо,\nчто всегда помогаете!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_END_StuffWoman",
+   "key": "684aef13",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо! До следующего раза,\nхорошо?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_FREE",
+   "key": "8583345f",
+   "ru": "Взята подработка: <BLUE>полив</BLUE>!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WARTERING_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  }
+ ]
+}

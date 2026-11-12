@@ -1,0 +1,33 @@
+{
+ "file": "System_PartTime_Weeder",
+ "entries": [
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_ITEM_Doctor",
+   "key": "7fb148f8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nИ возьмите ещё вот это в знак благодарности.\nНадеюсь, пригодится."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_MONEY_AmericaFarmOldwoman",
+   "key": "3e78fe99",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Вот, держите плату."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_ITEM_StuffWoman",
+   "key": "484fb2f4",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да, и вот вам небольшая премия. Спасибо,\nчто всегда помогаете!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  }
+ ]
+}

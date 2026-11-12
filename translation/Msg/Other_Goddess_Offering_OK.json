@@ -1,0 +1,138 @@
+{
+ "file": "Other_Goddess_Offering_OK",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_00",
+   "key": "bb2a5125",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nТа... Та-да-да-да-а-ам."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_01",
+   "key": "ed6a07a7",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nТа-да-дя-а...\n<PAGE>\n<FACE_SAD>...Сбилась."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_02",
+   "key": "5fb8d70d",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nТа-а-ам та-да та-а-ам."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_03",
+   "key": "d141e06f",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nМя-я-ам мя-да мя-а-ам."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_04",
+   "key": "9fb5c0c1",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nТам-тара-ра-а-ам."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_05",
+   "key": "cbd10ca9",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nТян-тяра-тя-а-ам."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_06",
+   "key": "36ab6aa5",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nШан-шара-ша-а-ам."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_07",
+   "key": "1a617993",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_NORMAL>\r\nЯ-я просто пробую новые фразы для своего\nпоявления."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_08",
+   "key": "16cb8edb",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nАх, главное ― спасибо за подношение.\nПосмотрим..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_09",
+   "key": "15e459b1",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nЭ-это же...!\n<PAGE>\nН-н-неужели мне правда можно принять такую\nчудесную вещь? М-мне нечего дать взамен...\n<PAGE>\n<FACE_LAUGH>Огромное спасибо...! Обязательно буду беречь!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_10",
+   "key": "0a84427d",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nОй, это... мне?\n<PAGE>\n<FACE_LAUGH>Неужели... это потому, что ты знаешь, как я\nтакое люблю?\n<PAGE>\nОгромное спасибо! Я так счастлива!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_11",
+   "key": "dbb6b9a0",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nОй, это... мне? Спасибо! Обожаю! ♪"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_12",
+   "key": "a9ed03d9",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_NORMAL>\r\nЭто мне? Спасибо."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_13",
+   "key": "46fa717c",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_SAD>\r\nЭто... мне? Эм, такое в качестве подношения...\n<PAGE>\nН-неважно. Спасибо. Я-я приму."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_14",
+   "key": "decf04f1",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_SAD>\r\n...Эм, ты так намекаешь, что ненавидишь меня,\n<_____MYNAME_____>?\n<PAGE>\nЭм, если нет, то не бери в голову. ...С-спасибо."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_15",
+   "key": "24c286f5",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_SAD>\r\n*всхлип* ...Как ты можешь, <_____MYNAME_____>.\n<PAGE>\nЕсли так меня ненавидишь, так и скажи!\n<PAGE>\nНе нужно приносить в подношение еду,\nкоторую я терпеть не могу, чтобы заставить\nменя её съесть... *всхлип*"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_16",
+   "key": "11843cf5",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_NORMAL>\r\nЧто ж, я пойду. До свидания, <_____MYNAME_____>."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_WRAPPING_FAVORITE",
+   "key": "020ae1e0",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nОго, какая милая упаковка! Можно открыть?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_OK_WRAPPING_NORMAL",
+   "key": "70831f6b",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nДаже в упаковке? Ого, огромное спасибо!\nМожно открыть?"
+  }
+ ]
+}

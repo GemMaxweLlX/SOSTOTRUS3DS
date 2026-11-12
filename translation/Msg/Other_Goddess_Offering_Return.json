@@ -1,0 +1,103 @@
+{
+ "file": "Other_Goddess_Offering_Return",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_00",
+   "key": "674cceaf",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nТа-да-дя-ай!\n<PAGE>\n<FACE_SAD>...Ох, опять сбилась..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_01",
+   "key": "763f1ad3",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nУ-у-у... больно же. Погоди, что я делала?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_02",
+   "key": "bee4259a",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nАх, да! Вспомнила!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_03",
+   "key": "f0f8ab7f",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nСпасибо за доброе подношение, <_____MYNAME_____>. Я очень рада!\n<PAGE>\n<FACE_NORMAL>Но только получать ― не дело. Я тоже должна\nчто-то для тебя сделать!\n<PAGE>\nХм, что бы такое...\n<PAGE>\nАга! Знаю, как насчёт этого в ответ: <BLUE><____ITEMNAME0____></BLUE>?\n<PAGE>\nНадеюсь, это скрасит тебе день!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_04",
+   "key": "3336b188",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nКак всегда, спасибо за доброе подношение, <_____MYNAME_____>. Я\nочень рада!\n<PAGE>\nСнова пришло время отблагодарить тебя!\n<PAGE>\nВ этот раз дарю тебе: <BLUE><____ITEMNAME0____></BLUE>. Спасибо, как всегда. ♪"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_05",
+   "key": "43e9e28e",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nСпасибо за доброе подношение. Я всегда рада\nтакому приятному подарку!\n<PAGE>\nКакой ты добрый человек, <_____MYNAME_____>. Нет-нет, не надо\nскромничать.\n<PAGE>\nЧто ж, в этот раз дарю тебе: <BLUE><____ITEMNAME0____></BLUE>!\n<PAGE>\nНичего не говори. Ты мне столько всего\nдаришь, так что я настаиваю!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_06",
+   "key": "12514716",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nСпасибо за очередное доброе подношение, <_____MYNAME_____>. Я\nвсегда рада им!\n<PAGE>\nЗнаешь, в этом городе так приятно жить. Он\nмне ужасно нравится. ♪\n<PAGE>\nВ общем, в этот раз в благодарность дарю\nтебе: <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\nОбязательно береги, ладно?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_07",
+   "key": "ab58a44c",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nСпасибо за очередное доброе подношение, <_____MYNAME_____>. Я\nсуперрада! ♪\n<PAGE>\nНо ого... Сколько же подношений... Целых\n100!\n<PAGE>\nПожалуй, в этот раз подарю тебе что-то\nособенное! ♪\n<PAGE>\nДля самого преданного дарителя ― вот: <BLUE><____ITEMNAME0____></BLUE>.\nНравится?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_08",
+   "key": "62a86ea4",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nСпасибо за доброе подношение. Они всегда\nскрашивают мне день!\n<PAGE>\nКак дела на ферме, <_____MYNAME_____>? У тебя ведь моё\nблагословение!\n<PAGE>\nИ, как обычно, пора отплатить за щедрость! В\nэтот раз дарю тебе: <BLUE><____ITEMNAME0____></BLUE>!\n<PAGE>\nНет-нет, благодарить не нужно. Даже не думай\nоб этом. <RED>∀</RED>"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_09",
+   "key": "724ea105",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nСпасибо за доброе подношение. Твои\nподношения всегда скрашивают мне день!\n<PAGE>\nКак дела на ферме в последнее время? На\nтвоей стороне ведь великая удача Десси, <_____MYNAME_____>.\n<PAGE>\nВ этот раз я приготовила для тебя: <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\nНет-нет, ничего не говори. Ты мне столько\nвсего даришь, так что я настаиваю! ♪"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_10",
+   "key": "e3aaab14",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>, спасибо, что всегда приносишь подношения.\n<PAGE>\nВообще-то с этим я получила от тебя уже 200\nподношений!\n<PAGE>\nНа днях великий дух меня похвалил, сказал,\nчто для новенькой богини это необычно. ♪\n<PAGE>\nЭто всё благодаря тебе, <_____MYNAME_____>. Я очень счастлива. ♪\n<PAGE>\nВ благодарность дарю тебе: <BLUE><____ITEMNAME0____></BLUE>. Надеюсь,\nпригодится!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_11",
+   "key": "9a2e3135",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>, спасибо за очередное доброе подношение. Я\nочень рада, что ты так стараешься!\n<PAGE>\n<FACE_NORMAL>...\n<PAGE>\nАх, нет... Просто...\n<PAGE>\nПока я не поселилась здесь, я и представить не\nмогла, что получу столько подношений...\n<PAGE>\n<FACE_SAD>Наверное, я немного растрогалась.\n<PAGE>\n<FACE_LAUGH>Огромное спасибо, <_____MYNAME_____>. ♪\n<PAGE>\nТак что в этот раз в благодарность дарю тебе\nвот это: <BLUE><____ITEMNAME0____></BLUE>! Специально для тебя!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_12",
+   "key": "8edc9e59",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_LINE_L><_____MYNAME_____>! Ты потрясающий человек!\n<PAGE>\n<FACE_SAD><WINDOW_DEFAULT>Ах, прости, я не хотела так кричать... Я просто\nсупер-пупер растрогана!\n<PAGE>\n<FACE_LAUGH>Это же 300 подарков!\n<PAGE>\nНе верится, что подношений так много... Я так\nрада, что мы подружились, <_____MYNAME_____>. <RED>∀</RED>\n<PAGE>\nТак что в этот раз я приготовила лучшее, что\nтолько смогла придумать в благодарность.\n<PAGE>\nДарю тебе: <BLUE><____ITEMNAME0____></BLUE>! Надеюсь, пригодится. ♪"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_RETURN_13",
+   "key": "28976e2d",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nЧто ж, на этом всё. Пока-пока, <_____MYNAME_____>! ♪"
+  }
+ ]
+}

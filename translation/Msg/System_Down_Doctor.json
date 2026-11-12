@@ -1,0 +1,68 @@
+{
+ "file": "System_Down_Doctor",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_DOCTOR_00",
+   "key": "2b44ebfa",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>?! Держись."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_DOCTOR_01",
+   "key": "5fb8bc77",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nА, ты с нами! Слава богу."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_DOCTOR_02",
+   "key": "621f47fa",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХорошо, ты с нами."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_DOCTOR_03",
+   "key": "86dcff47",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНе помнишь?\n<PAGE>\nЯ нашёл тебя на земле без сознания и принёс\nсюда.\n<PAGE>\n<FACE_SAD>Ну и страху я натерпелся. Рад, что всё\nобошлось."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_DOCTOR_04",
+   "key": "a31c6e95",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНе помнишь?\n<PAGE>\nЯ нашёл тебя на земле без сознания и принёс\nсюда.\n<PAGE>\n<FACE_ANGRY>Надо быть осторожнее. Даже у тебя есть\nпредел!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_DOCTOR_05",
+   "key": "cdfaa8e6",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНу да ладно. Сейчас не время для нотаций.\n<PAGE>\nПросто отдохни, хорошо?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_DOCTOR_06",
+   "key": "2b0913e5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nБлагодарить не нужно.\n<PAGE>\n<FACE_LAUGH>В такие моменты я рад, что я врач!\n<PAGE>\n<FACE_NORMAL>Но впредь постарайся не перенапрягаться."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_DOCTOR_07",
+   "key": "385edcf5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nБлагодарить не нужно. Лечить пациентов ―\nмоя работа.\n<PAGE>\nПросто постарайся не перенапрягаться,\nхорошо?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_DOWN_DOCTOR_08",
+   "key": "437d340b",
+   "ru": "(Похоже, он из-за меня волновался... Впредь\nнадо следить за силами.)"
+  }
+ ]
+}

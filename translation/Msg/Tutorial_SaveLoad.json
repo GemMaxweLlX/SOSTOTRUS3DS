@@ -1,0 +1,40 @@
+{
+ "file": "Tutorial_SaveLoad",
+ "entries": [
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SAVELOAD_02",
+   "key": "4625e29a",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНу что ж, пора на боковую. Вон та кровать в\nтвоём распоряжении."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SAVELOAD_03",
+   "key": "e90f1ae7",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nАх да. Не забудь <RED>сделать запись в дневнике</RED>\nперед сном."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SAVELOAD_04",
+   "key": "70035f22",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЗапись в дневнике помогает вспомнить, как\nпрошёл день, и сохраняет игру.\n\nСтоит делать запись хотя бы раз в день."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SAVELOAD_05",
+   "key": "aa08fbea",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nА если захочешь вернуться и вспомнить, что\nбыло в другой день, можно <RED>почитать дневник</RED>.\n\nВспомнить можно когда угодно. Дневник ―\nштука удобная. Попробуй как-нибудь."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SAVELOAD_07",
+   "key": "82dca13b",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЯ бы с радостью завтра же с утра отвёл тебя на\nферму, но там ещё идут работы.\n<PAGE>\nВместо этого устрою тебе большую экскурсию\nпо Уэстауну. Как тебе? В общем, пора спать.\nСпокойной ночи, <_____MYNAME_____>."
+  }
+ ]
+}

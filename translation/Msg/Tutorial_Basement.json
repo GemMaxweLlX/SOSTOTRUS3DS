@@ -1,0 +1,61 @@
+{
+ "file": "Tutorial_Basement",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_BASEMENT_00",
+   "key": "7e8c2c36",
+   "ru": "<NAME_UNKNOWN>\r\n<_____MYNAME_____>, ты дома? Прошу прощения."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_BASEMENT_01",
+   "key": "0a3b5a32",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, хорошие новости! На ферме теперь есть\nсамый настоящий <GREEN>погреб</GREEN>!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_BASEMENT_02",
+   "key": "9f5940a3",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nПойдём, покажу."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_BASEMENT_03",
+   "key": "992e1b7d",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВход в погреб в правом верхнем углу фермы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_BASEMENT_04",
+   "key": "1008cd72",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nЭто подарок за успехи в “Советах по ферме”.\nНу как? Нравится?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_BASEMENT_05",
+   "key": "93b61479",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nХа-ха-ха! Рад слышать! Ради такого и стоит\nработать, правда?\n<PAGE>\n<FACE_NORMAL>Здесь, в погребе, можно выращивать урожай\nнезависимо от времени года снаружи.\n<PAGE>\nВидишь вон то?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_BASEMENT_06",
+   "key": "ec9b53b8",
+   "ru": "<FACE_UNCLE>\r\nЭто <BLUE>алтарь солнца</BLUE>.\n<PAGE>\nПоложи в него <BLUE>сезонный солнечный камень</BLUE>,\nчтобы растить урожай этого сезона.\n<PAGE>\nС завтрашнего дня солнечные камни можно\nкупить в универсальном магазине <GREEN>“От 99G”</GREEN> в\nЦуюкусе."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_BASEMENT_07",
+   "key": "5f2b8e0c",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВот и всё, что я могу рассказать о погребе.\nВыращивай здесь что хочешь и когда хочешь."
+  }
+ ]
+}

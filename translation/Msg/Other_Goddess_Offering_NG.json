@@ -1,0 +1,19 @@
+{
+ "file": "Other_Goddess_Offering_NG",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_NG_00",
+   "key": "3a5bbc3f",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_SAD>\r\nМне приятно получить от тебя подношение, <_____MYNAME_____>, но\nя должна извиниться...\n<PAGE>\nМне полагается только одно подношение в\nдень.\n<PAGE>\n<FACE_LAUGH>Я верну этот предмет. Если хочешь, отдай это\nзавтра, ладно? ♪"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_OTHER_GODDESS_OFFERING_NG_01",
+   "key": "729e134d",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\n<_____MYNAME_____>, это ведь случайно сюда попало, да?\n<PAGE>\n<FACE_SAD>Я чуть было всё не так поняла...\n<PAGE>\n<FACE_NORMAL>Эта вещь имеет смысл, только если подарить\nеё тому, кто в сердце. Я её верну."
+  }
+ ]
+}

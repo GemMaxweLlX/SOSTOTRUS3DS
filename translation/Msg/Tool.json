@@ -1,0 +1,173 @@
+{
+ "file": "Tool",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "AlreadySeeded",
+   "key": "b8285e7c",
+   "ru": "Здесь уже что-то посажено."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "AlreadyPlanted",
+   "key": "b8285e7c",
+   "ru": "Здесь уже что-то посажено."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "OnlyPaddyCanSeeding",
+   "key": "9865fd25",
+   "ru": "Это нужно сажать на рисовом поле."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "OnlyPaddyCanPlanting",
+   "key": "08f30e03",
+   "ru": "Это нужно сажать на рисовом поле."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "OnlySoilCanSeeding",
+   "key": "abc3b84d",
+   "ru": "Это нужно сажать на сухом поле."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "OnlySoilCanPlanting",
+   "key": "4e0c3bfe",
+   "ru": "Это нужно сажать на сухом поле."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "OnlyMushroomBedCanPlanting",
+   "key": "c9d0b400",
+   "ru": "Это нужно рассыпать по грибному бревну."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "DoWateringForSeeding",
+   "key": "2c0979de",
+   "ru": "Сначала нужно затопить рисовое поле."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "DoWateringForPlanting",
+   "key": "2c0979de",
+   "ru": "Сначала нужно затопить рисовое поле."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "PlowUnconpleted",
+   "key": "21f1b31f",
+   "ru": "Сначала нужно вспахать поле."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "OtherSeason",
+   "key": "4c48397a",
+   "ru": "Придётся подождать до: <BLUE><MOJI0></BLUE>."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "UnrequestedWater",
+   "key": "b4cb8fac",
+   "ru": "Сейчас это не нужно поливать."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "UnrequestedWaterBecauseGrew",
+   "key": "cd7c9920",
+   "ru": "Это больше не нужно поливать."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "UnrequestedWaterBecauseWet",
+   "key": "cd7c9920",
+   "ru": "Это больше не нужно поливать."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "UnrequestedWaterBecauseWetPaddy",
+   "key": "fc19b83d",
+   "ru": "Воды больше добавлять не нужно."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "UnrequestedWaterBecauseDead",
+   "key": "70b90b35",
+   "ru": "Завяло. Поливать бесполезно..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "FertilizeUsedAlready",
+   "key": "c7bf9f18",
+   "ru": "Сейчас удобрять больше не нужно."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "UnrequestedFertilizeBecauseGrew",
+   "key": "e6ee7a37",
+   "ru": "Уже созрело. Удобрение не нужно."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "UnrequestedFertilizeBecauseQualityMax",
+   "key": "da3f4605",
+   "ru": "Больше удобрять не нужно."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "UnrequestedFertilizeBecauseNoQuality",
+   "key": "da3f4605",
+   "ru": "Больше удобрять не нужно."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "UnrequestedFertilizeBecauseDead",
+   "key": "6234b7b8",
+   "ru": "Завяло. Удобрение не поможет..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "NpcFarmland",
+   "key": "eff209b9",
+   "ru": "Не стоит трогать чужое поле!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "UnrequestedFertilizeBecauseNoCrop",
+   "key": "b66dc841",
+   "ru": "Сначала здесь нужно что-то посадить."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "ImmatureFungus",
+   "key": "bb29456b",
+   "ru": "<GREEN><MOJI0></GREEN>: ещё не готово."
+  }
+ ]
+}

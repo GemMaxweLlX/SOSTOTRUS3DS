@@ -1,0 +1,89 @@
+{
+ "file": "System_Build",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_00",
+   "key": "44f02f77",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nВот и всё! Готово. Спасибо за помощь."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_01",
+   "key": "8b9ead33",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nПриступим. Прости, <_____MYNAME_____>, но если подсобишь,\nработа пойдёт быстрее."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_02",
+   "key": "25c657c5",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\n<_____MYNAME_____>, не хочется говорить, но...\n<PAGE>\nЯ никак не мог сюда добраться, потому что\nдорога была разрушена.\n<PAGE>\nЖилище у тебя было совсем обветшалое."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_03",
+   "key": "2b3d3696",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nК счастью, с этим ремонтом мы всё исправили.\n<PAGE>\nПойдём. Покажу дом и расскажу, что в нём\nнового."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_04",
+   "key": "d94915c9",
+   "ru": "<MOJI2>: готово! Найдёте на верстаке."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_05",
+   "key": "6bb8f683",
+   "ru": "Поздравляем! Дом улучшен!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_06",
+   "key": "b73da615",
+   "ru": "Отлично! После ремонта дом выглядит лучше\nпрежнего."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_07",
+   "key": "cee40ae5",
+   "ru": "Пристройка готова! Отличное место, чтобы\nрастить детей..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_08",
+   "key": "2ca5bee3",
+   "ru": "Добавлен раздатчик корма для питомцев. Вот\nэто забота о зверях!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_09",
+   "key": "14c5ebd2",
+   "ru": "Ящик для хранения улучшен! Теперь в нём\nпомещается куда больше!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_10",
+   "key": "5eaee78a",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nОтлично! Работа сделана на славу. Пора\nвозвращаться в мастерскую."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_BUILD_11",
+   "key": "5eaee78a",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nОтлично! Работа сделана на славу. Пора\nвозвращаться в мастерскую."
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "file": "Tutorial_Fishing",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_FISHING_00",
+   "key": "b09f0795",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nО! Здорово, <_____MYNAME_____>. Тебя и не заметно было."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_FISHING_01",
+   "key": "73b7cfa2",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nРешил вот впервые за долгое время\nпорыбачить. Наловил немало. Положу их на\nпиццу к ужину."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_FISHING_02",
+   "key": "71f5ecc7",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nСлушай, раз уж ты здесь, давай расскажу пару\nсоветов о рыбалке?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_FISHING_03",
+   "key": "776d347c",
+   "ru": "Рыбачить можно где угодно у воды. Возьми\nудочку и <BLUE>нажми кнопку A</BLUE>, чтобы закинуть\nлеску.\n\nКогда поплавок в воде, появятся тени рыб. Как\nтолько одна схватит наживку, <BLUE>жми кнопку A</BLUE>!\nУспеешь вовремя ― рыба на крючке."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_FISHING_04",
+   "key": "0e79093e",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nЕсли плохо видно тени, поверни камеру\n<BLUE>крестовиной</BLUE> и найди угол получше."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_FISHING_05",
+   "key": "5573d462",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nВот и всё, что я могу рассказать о рыбалке.\n<PAGE>\nБудут лишние деньги ― купи удочку и тоже\nпорыбачь в своё удовольствие."
+  }
+ ]
+}

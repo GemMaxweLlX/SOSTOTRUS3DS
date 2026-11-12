@@ -1,0 +1,89 @@
+{
+ "file": "System_PartTime_Clipping",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_START_Uncle",
+   "key": "683c7ce9",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за помощь! Давай сразу начнём <BLUE>стричь\nживотных</BLUE>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_RECEIVE_Uncle",
+   "key": "95a48dc5",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВот это стрижка что надо! Дай-ка соберу всю\nшерсть."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_MONEY_Uncle",
+   "key": "1fb80446",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nНеплохо. Совсем неплохо. Держи плату."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_ITEM_Uncle",
+   "key": "166c53c1",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nПремного благодарен. И прими, пожалуйста,\nэто в знак признательности."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_END_Uncle",
+   "key": "c4476746",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nБудет настроение ― с радостью приму твою\nпомощь снова."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_START_AmericaFarmOldwoman",
+   "key": "68693642",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОй, вы пришли! Не хочу торопить, но готовы\nначать <BLUE>стричь животных</BLUE>?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_RECEIVE_AmericaFarmOldwoman",
+   "key": "a0d695fe",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх, отличная работа! Отдадите мне шерсть?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_MONEY_AmericaFarmOldwoman",
+   "key": "3e78fe99",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Вот, держите плату."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_ITEM_AmericaFarmOldwoman",
+   "key": "bd0de98e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да! Вот ещё кое-что за то, что всегда мне\nпомогаете."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_END_AmericaFarmOldwoman",
+   "key": "106e145b",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВы меня просто спасаете. До следующего раза!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_FREE",
+   "key": "1e14aacf",
+   "ru": "Взята подработка: <BLUE>стрижка</BLUE> шерсти!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLIPPING_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  }
+ ]
+}

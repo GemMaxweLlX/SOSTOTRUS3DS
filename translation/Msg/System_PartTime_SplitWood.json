@@ -1,0 +1,33 @@
+{
+ "file": "System_PartTime_SplitWood",
+ "entries": [
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_Doctor",
+   "key": "81fcb0da",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nБуду ждать следующего раза!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_StuffWoman",
+   "key": "484fb2f4",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да, и вот вам небольшая премия. Спасибо,\nчто всегда помогаете!"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_COLLABORATION",
+   "key": "dbcf81db",
+   "ru": "А вот ещё кое-что в качестве особой награды.\nУверена, пригодится!"
+  }
+ ]
+}

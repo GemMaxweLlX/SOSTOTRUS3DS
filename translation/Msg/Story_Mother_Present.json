@@ -1,0 +1,33 @@
+{
+ "file": "Story_Mother_Present",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_PRESENT_00",
+   "key": "ffb38e9a",
+   "ru": "(Хм? Что это?)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_PRESENT_01",
+   "key": "af8e3a49",
+   "ru": "(Мама оставила мне подарок? Откроем и\nпосмотрим.)"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_PRESENT_02",
+   "key": "ab05ad20",
+   "ru": "Здравствуй, родной мой. Ещё раз спасибо за\nгостеприимство.\n<PAGE>\nВозьми эти деньги и сходи поужинай\nгде-нибудь хорошо.\n-Целую, мама"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_PRESENT_03",
+   "key": "83466d8b",
+   "ru": "(Получено <BLUE>10 000</BLUE>G!)"
+  }
+ ]
+}

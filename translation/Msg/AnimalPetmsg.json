@@ -1,0 +1,96 @@
+{
+ "file": "AnimalPetmsg",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_ITEMSEARCH_NO",
+   "key": "7d91f780",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_ITEMSEARCH_GET1",
+   "key": "fdb25943",
+   "ru": "Получено: <____ITEMNAME0____>."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_ITEMSEARCH_GET2",
+   "key": "fdb25943",
+   "ru": "Получено: <____ITEMNAME0____>."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_ITEMSEARCH_GET3",
+   "key": "fdb25943",
+   "ru": "Получено: <____ITEMNAME0____>."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_ITEMSEARCH_GET4",
+   "key": "fdb25943",
+   "ru": "Получено: <____ITEMNAME0____>."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_ITEMSEARCH_GET_MULTIPLE_1",
+   "key": "714d2b17",
+   "ru": "Получено: <____ITEMNAME0____> × <MOJI0>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_ITEMSEARCH_GET_MULTIPLE_2",
+   "key": "714d2b17",
+   "ru": "Получено: <____ITEMNAME0____> × <MOJI0>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_ITEMSEARCH_GET_MULTIPLE_3",
+   "key": "714d2b17",
+   "ru": "Получено: <____ITEMNAME0____> × <MOJI0>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_ITEMSEARCH_GET_MULTIPLE_4",
+   "key": "714d2b17",
+   "ru": "Получено: <____ITEMNAME0____> × <MOJI0>."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_TREGSURPOINT_BAGFULL",
+   "key": "99ae68da",
+   "ru": "Нет, в сумку больше не влезет."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TREGSURPOINT_PET_HAVE_TREGSURITEM",
+   "key": "ee21054d",
+   "ru": "Сначала посмотрим, не принёс ли чего питомец."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_SOUL_PRESENT",
+   "key": "a1c81c6e",
+   "ru": "Подарок от фамильяра!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_ANIMAL_SURECHIGAI_PET_INFORMATION_TALK",
+   "key": "d9adfea9",
+   "ru": "<MOJI0> и <MOJI1> пришли в гости!"
+  }
+ ]
+}

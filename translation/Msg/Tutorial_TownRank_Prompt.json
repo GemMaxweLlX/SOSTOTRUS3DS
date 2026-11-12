@@ -1,0 +1,96 @@
+{
+ "file": "Tutorial_TownRank_Prompt",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_00",
+   "key": "1d1f57dc",
+   "ru": "<FACE_UNCLE>\r\n<_____MYNAME_____>, ты дома? Прошу прощения."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_01",
+   "key": "d643dbec",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nКак дела? Решил, что пора проведать, как у\nтебя с рангами связи с городами."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_02",
+   "key": "483e6699",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nО, памятка пошла впрок и ранг связи вырос?\nПоздравляю!\n<PAGE>\nЛовко. Неплохо, совсем неплохо! Вот это <RELATIONSHIP>!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_05",
+   "key": "d11ebdbc",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nА. Ещё разбираешься с памяткой о рангах\nсвязи? Зная тебя, уверен, скоро управишься."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_06",
+   "key": "22b42d42",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nА. Ещё повышаешь ранги связи? Хорошо,\nхорошо.\n<PAGE>\nПокупки в местных лавках, отгрузки туда,\nучастие в праздниках... всё это повышает ранг\nсвязи с городом."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_07",
+   "key": "b7245ccd",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nКак ранг связи вырос, в лавках стало больше\nтоваров, верно?\n<PAGE>\nЗдорово, правда? Так что крепи связь с\nкаждым городом всё сильнее."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_08",
+   "key": "944dfdc3",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nКогда ранг связи вырастет, в лавках появится\nбольше товаров. Так что старайся и повышай\nранг, слышишь?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_09",
+   "key": "1b3c5184",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nВот. Раз у тебя так хорошо получается, я\nпринёс тебе небольшой подарок. Старайся и\nдальше, слышишь?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_10",
+   "key": "5f12be97",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВот. Принёс тебе немного карманных денег.\nУверен, пригодятся.\n<PAGE>\nИ уверен, ранги связи скоро вырастут. Удачи. Я\nза тебя болею."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_11",
+   "key": "bec487b4",
+   "ru": "(Получено <BLUE>10 000</BLUE>G!)"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_12",
+   "key": "d3aaffeb",
+   "ru": "(Получено <BLUE>5 000</BLUE>G!)"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_13",
+   "key": "cdc16633",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно, пойду домой. Ещё увидимся, <_____MYNAME_____>."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_TOWNRANK_PROMPT_14",
+   "key": "6e5e5dfe",
+   "ru": "(Надо стараться и поднимать ранги связи ещё\nвыше!)"
+  }
+ ]
+}

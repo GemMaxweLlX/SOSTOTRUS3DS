@@ -2,11 +2,46 @@
  "file": "HarvestMaple",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "OtherSeason",
+   "key": "d75da15d",
+   "ru": "Собирать сироп здесь можно не раньше, чем: <BLUE><MOJI0></BLUE>."
+  },
+  {
    "n": 1,
    "f": 2,
    "id": "LevelUp",
    "key": "39e10710",
    "ru": "Получен ранг <BLUE><MOJI0></BLUE>!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "BagFull",
+   "key": "13342b4d",
+   "ru": "Сумка полна. Собрать не получится."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "BucketSpace",
+   "key": "c051d056",
+   "ru": "<BLUE><____ITEMNAME0____></BLUE>: ещё не наполнено. Осталось дней: <RED><MOJI0></RED>."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "CanSetBucket",
+   "key": "c8a4f6d3",
+   "ru": "Будь у меня <BLUE><____ITEMNAME0____></BLUE>, можно было бы собрать: <BLUE><____ITEMNAME1____></BLUE>."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "SetBucket",
+   "key": "395b7359",
+   "ru": "<BLUE><____ITEMNAME0____></BLUE> нужно, чтобы собрать: <BLUE><____ITEMNAME1____></BLUE>. Поставить?"
   },
   {
    "n": 6,

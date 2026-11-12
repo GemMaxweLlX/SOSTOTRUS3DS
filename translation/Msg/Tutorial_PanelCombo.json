@@ -1,0 +1,89 @@
+{
+ "file": "Tutorial_PanelCombo",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_00",
+   "key": "2c596948",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_01",
+   "key": "81e1b11c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nАлоха. Прости, что беспокою так рано.\n<PAGE>\nЯ вспомнил кое-что важное и решил сказать\nпоскорее, да?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_02",
+   "key": "1057a7b7",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПравда, здесь объяснять неудобно. Выйдем на\nулицу?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_03",
+   "key": "9ca737ee",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТак. Я вытащил тебя сюда, чтобы рассказать о\nкругах фермы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_04",
+   "key": "fb446a98",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы ведь видишь, что у меня в продаже всё\nбольше видов кругов фермы?\n<PAGE>\nИ наверняка многие из них уже стоят у тебя на\nферме..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_05",
+   "key": "a3b79105",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТак вот: если поставить определённые\nсочетания кругов фермы на одном экране\nкарты...\n<PAGE>\n...они могут войти в резонанс и дать новый\nособый эффект на весь этот экран карты.\n<PAGE>\nПроще говоря, у некоторых групп кругов\nфермы есть <RED>эффекты комбо</RED>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_06",
+   "key": "d80652d3",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе волнуйся. Узнать, какие бывают комбо и их\nэффекты, можно. Вот, взгляни."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_07",
+   "key": "b2a06853",
+   "ru": "Это экран обустройства фермы. Видишь синий\nзначок в правом нижнем углу? Это значок\nкомбо.\n\nКоснись его, чтобы открыть список комбо. В\nнём есть всё, что нужно знать о комбо и их\nэффектах."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_08",
+   "key": "86fb7e70",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТам даже есть подсказки, какие круги фермы\nнужны для ещё не открытых комбо.\n<PAGE>\nЕсли следовать подсказкам и пробовать\nрасставлять разные круги, наверняка откроешь\nновые комбо.\n<PAGE>\nНу как? Стало немного понятнее с комбо?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_09",
+   "key": "cacc4cf0",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nОтлично. Ах да, последнее...\n<PAGE>\nРасположение и направление не важны, но для\nэффекта комбо круги должны стоять на <RED>одном\nэкране карты</RED>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_10",
+   "key": "45b847d8",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Это всё, что я хотел сказать. Пойду\nдомой.\n<PAGE>\n<FACE_LAUGH>Удачи в работе."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_PANELCOMBO_11",
+   "key": "e2018ee7",
+   "ru": "(Комбо кругов фермы, значит...? Надо\nпопробовать!)"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "file": "System_Get_Lithograph_Dealer",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_GET_LITHOGRAPH_DEALER_00",
+   "key": "2712f468",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\nО нет! Я опоздала!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_GET_LITHOGRAPH_DEALER_01",
+   "key": "188446db",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nОй, погоди. Так это твоя покупка, <_____MYNAME_____>?\n<PAGE>\nВот совпадение! Я тоже пришла его купить.\n<PAGE>\nТы ведь не... уступишь его мне?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_GET_LITHOGRAPH_DEALER_02",
+   "key": "83e3e19b",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо! Ты и правда понимаешь, как\nважны исследования!\n<PAGE>\nЗагляни потом. Обсудим гравировку!"
+  }
+ ]
+}

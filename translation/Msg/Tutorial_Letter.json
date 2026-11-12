@@ -1,0 +1,54 @@
+{
+ "file": "Tutorial_Letter",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_LETTER_00",
+   "key": "fe3d8395",
+   "ru": "<NAME_UNKNOWN>\r\nДоброе утро, <_____MYNAME_____>. Рад видеть тебя в добром\nздравии."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_LETTER_01",
+   "key": "4389c3e8",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nПрости, что так рано, но у меня хорошие\nновости, не терпелось поделиться."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_LETTER_02",
+   "key": "adbe2099",
+   "ru": "<NAME_MOB_ETHAN>\r\nДа-да. Все бумаги наконец оформлены. С\nсегодняшнего дня <GREEN>почта</GREEN> снова работает."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_LETTER_03",
+   "key": "9816cf28",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nТеперь, если хочешь, можешь отправлять\nписьма родным."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_LETTER_04",
+   "key": "6d0e07b9",
+   "ru": "<NAME_MOB_ETHAN>\r\nА ещё к письмам можно прикладывать подарки.\n<PAGE>\nУверен, родные и друзья в городе будут рады\nполучить подарок по почте. Почему бы\nкак-нибудь не попробовать?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_LETTER_05",
+   "key": "c156508d",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nПочта будет работать и принимать письма <BLUE>с\nпонедельника по пятницу, с 9:00 до 15:00</BLUE>.\n<PAGE>\nБуду ждать тебя там, <_____MYNAME_____>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_LETTER_06",
+   "key": "f41d530e",
+   "ru": "(Ура! Почта открылась! Надо бы скоро туда\nзаглянуть.)"
+  }
+ ]
+}

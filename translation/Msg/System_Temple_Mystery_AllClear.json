@@ -1,0 +1,68 @@
+{
+ "file": "System_Temple_Mystery_AllClear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_ALLCLEAR_000",
+   "key": "85943090",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nО, так это ты...!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_ALLCLEAR_001",
+   "key": "8b0ae885",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nЯ не понимала, то ли тайник с едой и\nрецептами, что я спрятала в руинах, правда\nпустеет, то ли я схожу с ума!\n<PAGE>\nНо, похоже, они уходили к тебе."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_ALLCLEAR_002",
+   "key": "b7485e43",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nНет-нет. Всё в порядке.\n<PAGE>\nКак местной жительнице, мне приятно, что\nприезжие интересуются руинами.\n<PAGE>\nК тому же я никогда не видела, чтобы эти\nдвери открывали как положено."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_ALLCLEAR_003",
+   "key": "83e32444",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nДа, верно. Даже без гравюр можно просто чуть\nнадавить на этот выступ..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_ALLCLEAR_004",
+   "key": "9d813181",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\n...и всё откроется проще простого.\n<PAGE>\n<FACE_LAUGH>Ха-ха! Об этом ты не знаешь, да?\n<PAGE>\nОт того, как сильно надавить, зависит, в какую\nкомнату попадёшь."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_ALLCLEAR_005",
+   "key": "5abceb5a",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nВнутри этих руин приятная прохлада. И попасть\nтуда непросто.\n<PAGE>\nИдеальное место для долгого хранения."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_ALLCLEAR_006",
+   "key": "face4500",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nГоворишь, вернёшь всё обратно?\n<PAGE>\n<FACE_LAUGH>Нет, не беспокойся. Я серьёзно.\n<PAGE>\n<FACE_NORMAL>Гравюры этих руин украли давным-давно, и я\nне думала, что мы их ещё увидим.\n<PAGE>\nЯ просто благодарна, что их наконец вернули.\nМахало."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_ALLCLEAR_007",
+   "key": "7744198a",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nК тому же, если кто и применит мои тайные\nрецепты с пользой, так это ты.\n<PAGE>\nНадеюсь, пригодятся."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_ALLCLEAR_008",
+   "key": "b584b4ef",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nСпасибо за компанию! Ещё увидимся."
+  }
+ ]
+}

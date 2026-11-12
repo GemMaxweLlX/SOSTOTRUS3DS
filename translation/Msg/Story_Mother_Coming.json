@@ -1,0 +1,54 @@
+{
+ "file": "Story_Mother_Coming",
+ "entries": [
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_COMING_01",
+   "key": "dab0df05",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_COMING_02",
+   "key": "514fbda9",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_NORMAL>\r\nХорошо спалось?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_COMING_03",
+   "key": "6dc743ae",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_LAUGH>\r\nПрости, что нагрянула вот так. Я стучала, но\nникто не ответил, и я решила войти сама."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_COMING_04",
+   "key": "acdb34b9",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_NORMAL>\r\nТы ведь знаешь, что на днях к тебе приезжала\nсестра?\n<PAGE>\n<FACE_LAUGH>Так вот, она так хвасталась, как было весело,\nчто мне просто пришлось приехать самой.\n<PAGE>\nЗа папу с сестрой не волнуйся. Они оба люди\nответственные. Пару дней без меня справятся."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_COMING_05",
+   "key": "e597d201",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_NORMAL>\r\nЯ только приехала и многого ещё не видела,\nно, судя по тому, что видела, у тебя чудесная\nуютная ферма.\n<PAGE>\nЕсли не возражаешь, я бы осталась на\nнесколько дней. Обещаю не мешать работе."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_COMING_06",
+   "key": "06f3d984",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_LAUGH>\r\nСпасибо, родной мой. С нетерпением жду, как\nмы проведём время вместе."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_COMING_07",
+   "key": "60c6ec58",
+   "ru": "(Мама приехала погостить на несколько дней.\nБудет весело!)"
+  }
+ ]
+}
