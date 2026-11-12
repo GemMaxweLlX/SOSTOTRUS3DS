@@ -1,0 +1,73 @@
+{
+ "ListGuideButton.arc": {
+  "_icon": true,
+  "timg/a_next": "Далее",
+  "timg/a_select": "Выбрать",
+  "timg/a_stock": "Запас",
+  "timg/ast_rotate": "Поворот",
+  "timg/details": "Детали",
+  "timg/help": "Умение",
+  "timg/kettei": "Принять",
+  "timg/kirikae": "Сменить",
+  "timg/matome": "Сорт.",
+  "timg/matomeru": "Сорт.",
+  "timg/modoru": "Назад",
+  "timg/move": "Двигать",
+  "timg/name": "Имя",
+  "timg/next": "Далее",
+  "timg/page": "Стр.",
+  "timg/search": "Заново",
+  "timg/seiri": "Сорт.",
+  "timg/suteru": "Бросить",
+  "timg/x_autmatic": "Автовыбор",
+  "timg/x_auto": "Автостр.",
+  "timg/x_monthly": "Месяц",
+  "timg/x_reset": "Сброс",
+  "timg/x_rotate": "Поворот",
+  "timg/x_shipment_amnt": "Сумма",
+  "timg/x_shipment_nmb": "Кол-во",
+  "timg/x_takeout": "Забрать",
+  "timg/x_weekly": "Неделя",
+  "timg/y_details": "Детали",
+  "timg/y_take_off": "Снять",
+  "_fill": "#ffffff",
+  "_size": 12
+ },
+ "Clock.arc": {
+  "_ring": "#ffffff",
+  "_size": 13,
+  "timg/season_spring": {
+   "text": "Весна",
+   "fill": "#ff4f8f"
+  },
+  "timg/season_summer": {
+   "text": "Лето",
+   "fill": "#3fa81e"
+  },
+  "timg/season_autum": {
+   "text": "Осень",
+   "fill": "#ff6a2a"
+  },
+  "timg/season_winter": {
+   "text": "Зима",
+   "fill": "#3a8fd0"
+  }
+ },
+ "ItemComment.arc": {
+  "timg/s_title_00": "Сумка",
+  "timg/s_title_01": "Инструменты",
+  "timg/s_title_02": "Хранилище",
+  "timg/s_title_03": "Силос",
+  "timg/s_title_04": "Запас",
+  "timg/s_title_05": "Взято",
+  "timg/r_title_00": "Сумка",
+  "timg/r_title_03": "Инструменты",
+  "_fill": "#ffd23c",
+  "_size": 13
+ },
+ "StockUpper.arc": {
+  "timg/s_title_03": "Силос",
+  "_fill": "#ffd23c",
+  "_size": 13
+ }
+}

@@ -137,6 +137,28 @@ python tools/sosfont.py preview out/mainfont.bffnt "Привет, ферма!" p
 
 Команде `check` из `sosxbb.py` стоит передавать уже новый шрифт: ширина русских букв в нём другая.
 
+## Картинки интерфейса
+
+Подсказки кнопок, заголовки окон, времена года и многие подписи меню — это не текст, а картинки внутри архивов `Layout/*.arc`. Достать их в PNG и вставить обратно:
+
+```bash
+python tools/sosgfx.py extract rom/Layout/ListGuideButton.arc gfx/ListGuideButton
+```
+
+```bash
+python tools/sosgfx.py pack rom/Layout/ListGuideButton.arc gfx/ListGuideButton out/Layout/ListGuideButton.arc
+```
+
+Отредактированная картинка должна остаться того же размера. Картинки в сжатых форматах ETC1 инструмент не извлекает и не заменяет; команда `list` показывает, какие это.
+
+Простые надписи можно перерисовать автоматически. Таблица «картинка — слово» лежит в `translation/gfx/labels.json`, шрифт для надписей — Russo One (лицензия SIL OFL, папка `ofl/russoone` в репозитории `google/fonts`):
+
+```bash
+python tools/soslabels.py translation/gfx/labels.json ListGuideButton.arc gfx/ListGuideButton RussoOne-Regular.ttf
+```
+
+Команда стирает английское слово, сохраняет значок кнопки и рисует русское слово с контуром того же цвета. После неё выполняется `pack`.
+
 ## Перевод в репозитории
 
 Готовый перевод хранится в папке `translation/` без английского текста: только номер строки, её метка, контрольная сумма оригинала и русский текст.
