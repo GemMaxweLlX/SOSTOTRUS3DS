@@ -2,6 +2,13 @@
  "file": "ShopJTailor",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_FIRST_000",
+   "key": "e7faddbb",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nО, здравствуйте. Вы, должно быть, тот самый\nновый фермер, о котором столько разговоров!\n<PAGE>\nЯ Сидзу. Мы с мужем рады будущему\nсотрудничеству. Кстати...\n<PAGE>\nДобро пожаловать в ателье “Ра Ман”! Здесь\nдля вас сошьют одежду, шляпы и всё, что\nпожелаете!"
+  },
+  {
    "n": 1,
    "f": 2,
    "id": "MSG_SHOP_TAILOR_GREETING_000",
@@ -23,11 +30,74 @@
    "ru": "Магазин закрыт. Приходите в часы работы."
   },
   {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_003",
+   "key": "764f5522",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуйте, <_____MYNAME_____>!\n<PAGE>\nДоброго дня, добро пожаловать в ателье “Ра\nМан”. Здесь для вас сошьют одежду, шляпы и\nвсё, что пожелаете!\n<PAGE>\nХм? Говорю не так, как обычно?\n<PAGE>\nНу конечно. Мория требует, чтобы покупателей\nобслуживали с величайшей учтивостью.\n<PAGE>\nВозможно, это удивляет и кажется, будто я\nдержусь... отстранённо. Но не беспокойтесь.\nИтак...\n<PAGE>\nДобро пожаловать, дорогой клиент!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_004",
+   "key": "a363231c",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в отдел одежды “Ра Ман”."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_005",
+   "key": "a363231c",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в отдел одежды “Ра Ман”."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_006",
+   "key": "9c9a63bf",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nМне ужасно жаль, но одежду я продать не\nмогу, пока у вас нет шкафа для неё.\n<PAGE>\nКогда он появится, приходите снова."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_007",
+   "key": "b0a3abd1",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВместе с <_____MYNAME_____> мы предлагаем особые вещи.\nНадеюсь, они вас заинтересуют!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_AVATARGET_000",
+   "key": "29650b1e",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВаш заказ готов. Пожалуйста, посмотрите, всё\nли по душе."
+  },
+  {
    "n": 10,
    "f": 2,
    "id": "MSG_SHOP_TAILOR_AVATARGET_001",
    "key": "a41ca20f",
    "ru": "Получено: <BLUE><MOJI0></BLUE>! Вещь ждёт в шкафу."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_000",
+   "key": "b7d72d8e",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧем могу служить?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_001",
+   "key": "47a42f2f",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nМогу ли я ещё чем-то помочь?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_002",
+   "key": "7996d1f6",
+   "ru": "Сшить одежду"
   },
   {
    "n": 14,
@@ -51,6 +121,13 @@
    "ru": "<CANCEL_SELECT>\r\nНичего"
   },
   {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_000",
+   "key": "135aeafd",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКак пожелаете. Что вас интересует?"
+  },
+  {
    "n": 18,
    "f": 2,
    "id": "MSG_SHOP_TAILOR_ITEM_001",
@@ -70,6 +147,62 @@
    "id": "MSG_SHOP_TAILOR_ITEM_003",
    "key": "4797a16e",
    "ru": "Продолжить?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_004",
+   "key": "cc5b8fd6",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо. Заказ будет готов через день,\nи мы сохраним его сколько потребуется."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_005",
+   "key": "cc5b8fd6",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо. Заказ будет готов через день,\nи мы сохраним его сколько потребуется."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_006",
+   "key": "22065415",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПрошу прощения, но у вас, кажется, уже есть\nвсё, что мы умеем шить. Вот это достижение!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_007",
+   "key": "661747eb",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nАх да. Возможно, вам будет интересно...\n<PAGE>\n...у нас появились любопытные новинки.\nНадеюсь, вы найдёте минутку взглянуть!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_008",
+   "key": "cdfc4b65",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nТеперь у нас есть новинки, сделанные при\nучастии <_____MYNAME_____>. Надеюсь, взглянете."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_NAME",
+   "key": "2a3511e2",
+   "ru": "Ра Ман"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GOODBYE_000",
+   "key": "f42dd781",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо! Приходите снова."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_TEMP",
+   "key": "1c0628a1",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за заказ. Как будет готово, отправлю\nпрямо к вам домой, загляните потом в шкаф!"
   }
  ]
 }

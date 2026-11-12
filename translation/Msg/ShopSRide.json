@@ -1,0 +1,68 @@
+{
+ "file": "ShopSRide",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_S_RIDING_00",
+   "key": "e009e45e",
+   "ru": "<NAME_MOB_TETO>\r\nКуда?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_S_RIDING_01",
+   "key": "3122976d",
+   "ru": "<NAME_MOB_TETO>\r\nАлоха! Алоха! Это слон-такси “Гандхаваха”!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_S_RIDING_CHJNGE",
+   "key": "88c6a933",
+   "ru": "<NAME_MOB_TETO>\r\nТы уже там стоишь! Может, куда-то ещё?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_S_RIDING_AREA",
+   "key": "f3a6c5f4",
+   "ru": "<NAME_MOB_TETO>\r\n<GREEN><MOJI0></GREEN>, да? Куда именно?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_S_RIDING_CHOICE_00",
+   "key": "4c6c2f4b",
+   "ru": "<NAME_MOB_TETO>\r\n<GREEN><MOJI0></GREEN>? Тогда <BLUE><MOJI1></BLUE>G. Ладно?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_S_RIDING_GO",
+   "key": "6d1c0cb9",
+   "ru": "<NAME_MOB_TETO>\r\nЛадно. Я везу. Садись на слона."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_S_RIDING_CANCEL",
+   "key": "fb2c6203",
+   "ru": "<NAME_MOB_TETO>\r\nЛадно. Не беда. Приходи ещё."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_S_RIDING_UNUSABLE",
+   "key": "426eb011",
+   "ru": "Здесь вывеска слона-такси, но, похоже, сейчас\nон не работает."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_S_RIDING_NO_MONEY",
+   "key": "2d7354dc",
+   "ru": "<NAME_MOB_TETO>\r\nПрости. Нет денег ― нет поездки."
+  }
+ ]
+}

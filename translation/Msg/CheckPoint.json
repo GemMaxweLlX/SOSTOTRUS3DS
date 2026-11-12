@@ -121,6 +121,20 @@
    "ru": "<CANCEL_SELECT>\r\nНичего"
   },
   {
+   "n": 314,
+   "f": 2,
+   "id": "MES_TOILET_BATHROOM_BATH",
+   "key": "c62cc0c2",
+   "ru": "Принять ванну"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_PANEL_BATH_SELECT_0",
+   "key": "c62cc0c2",
+   "ru": "Принять ванну"
+  },
+  {
    "n": 398,
    "f": 2,
    "id": "MES_SELECT_GATSHA_NO",

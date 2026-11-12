@@ -2,11 +2,81 @@
  "file": "ShopSRestaurant",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_FIRST_000",
+   "key": "537248e2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nКомо май! Добро пожаловать в кафе у моря\n“Карозелло”! ♪\n<PAGE>\nО, это ты, <_____MYNAME_____>! С тобой можно быть собой, да?\n<PAGE>\nНо я рада тебя видеть! Чем помочь?"
+  },
+  {
    "n": 1,
    "f": 2,
    "id": "MSG_SHOP_RESTAURANT_GREETING_000",
    "key": "afce0d5b",
    "ru": "Клиника закрыта до конца праздника."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_001",
+   "key": "2430e8e1",
+   "ru": "По пятницам и субботам кафе закрыто."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_002",
+   "key": "56bfda77",
+   "ru": "Кафе закрыто. Приходите в часы работы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_003",
+   "key": "537248e2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nКомо май! Добро пожаловать в кафе у моря\n“Карозелло”! ♪\n<PAGE>\nО, это ты, <_____MYNAME_____>! С тобой можно быть собой, да?\n<PAGE>\nНо я рада тебя видеть! Чем помочь?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_004",
+   "key": "e421daec",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nКомо май! Добро пожаловать в кафе у моря\n“Карозелло”! ♪"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_005",
+   "key": "2440b7bd",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВ меню новое блюдо, придуманное с твоей\nпомощью. Обязательно попробуй!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_006",
+   "key": "6aa9be85",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nАх да, теперь мы продаём рецепты! Ты же\nкупишь, правда?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_000",
+   "key": "59cdeb3e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧем помочь?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_001",
+   "key": "9dd6d802",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧто ещё нужно?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_002",
+   "key": "82044c8c",
+   "ru": "Поесть"
   },
   {
    "n": 11,
@@ -37,6 +107,13 @@
    "ru": "<CANCEL_SELECT>\r\nНичего"
   },
   {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_000",
+   "key": "f3f75e4d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nКонечно. Заказывай что хочешь из меню!"
+  },
+  {
    "n": 16,
    "f": 2,
    "id": "MSG_SHOP_RESTAURANT_COOK_001",
@@ -51,6 +128,34 @@
    "ru": "Оформить заказ?"
   },
   {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_003",
+   "key": "d70f4b91",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nМахало. Отдыхай. Всё будет готово мигом!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_004",
+   "key": "5e08d586",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nАх да, в меню новые блюда! Мы с Силукой\nпридумали их вместе, так что они точно\nхороши!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_005",
+   "key": "908173e7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВ продаже наш новый совместный рецепт!\nГордись им, ладно?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_000",
+   "key": "1c05f1d4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nМы писали эти рецепты вместе, так что они\nточно хороши!"
+  },
+  {
    "n": 22,
    "f": 2,
    "id": "MSG_SHOP_RESTAURANT_RECIPE_001",
@@ -63,6 +168,48 @@
    "id": "MSG_SHOP_RESTAURANT_RECIPE_002",
    "key": "2cb0da37",
    "ru": "Совершить покупку?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_003",
+   "key": "2845367a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nИ новые рецепты есть. Не пропусти!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_004",
+   "key": "5babd954",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nБлагодаря сотрудничеству с <_____MYNAME_____> у нас отличная\nновинка.\n<PAGE>\nБыло много работы, но оно того стоило."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_HALF_COMP",
+   "key": "686f95be",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n...Погоди, у тебя же есть все наши рецепты!\n<PAGE>\nКогда у Силуки будет настроение, она\nпридумает новые. Тогда и приходи, ладно?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_FULL_COMP",
+   "key": "0f5fd8d1",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n...Погоди, у тебя же есть все наши рецепты!\n<PAGE>\n<FACE_LAUGH>Что ж, наверное, надо сказать спасибо. Махало."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GOODBYE_000",
+   "key": "151fac64",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nМахало. До встречи!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_NAME",
+   "key": "780000cc",
+   "ru": "Карозелло"
   }
  ]
 }

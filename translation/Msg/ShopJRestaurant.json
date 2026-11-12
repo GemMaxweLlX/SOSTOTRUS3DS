@@ -2,6 +2,13 @@
  "file": "ShopJRestaurant",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_FIRST_000",
+   "key": "5ce83100",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>! Ты у нас впервые, да?\n<PAGE>\nДобро пожаловать в нашу скромную чайную\n“Встреча за чаем”! В меню вкусная еда и\nнапитки... так что располагайся!"
+  },
+  {
    "n": 1,
    "f": 2,
    "id": "MSG_SHOP_RESTAURANT_GREETING_000",
@@ -14,6 +21,62 @@
    "id": "MSG_SHOP_RESTAURANT_GREETING_001",
    "key": "eec4b96f",
    "ru": "Сегодня заведение уже закрыто."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_002",
+   "key": "56bfda77",
+   "ru": "Чайная закрыта. Приходите в часы работы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_003",
+   "key": "6884a8cc",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу здравствуй, <_____MYNAME_____>! Ты у нас впервые, да?\n<PAGE>\nДобро пожаловать в мою скромную чайную\n“Встреча за чаем”! В меню вкусная еда и\nнапитки... так что располагайся!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_004",
+   "key": "cf38a106",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в чайную “Встреча за чаем”!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_005",
+   "key": "7e3fe558",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСейчас у нас особое блюдо, которое мы\nпридумали вместе. Не пропусти!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_006",
+   "key": "212c433c",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nАх да, теперь я продаю рецепты, если\nинтересно."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_000",
+   "key": "357f6f1a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЧто тебе подать?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_001",
+   "key": "ad93c66f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЕщё чего-нибудь?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_002",
+   "key": "82044c8c",
+   "ru": "Поесть"
   },
   {
    "n": 11,
@@ -44,6 +107,13 @@
    "ru": "<CANCEL_SELECT>\r\nНичего"
   },
   {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_000",
+   "key": "bd543282",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЧто будешь? Тут всё объедение! Пальчики\nоближешь. Ну, это так, к слову."
+  },
+  {
    "n": 16,
    "f": 2,
    "id": "MSG_SHOP_RESTAURANT_COOK_001",
@@ -58,6 +128,34 @@
    "ru": "Оформить заказ?"
   },
   {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_003",
+   "key": "0b75920f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПонял. Присаживайся, и не успеешь оглянуться\n― всё готово."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_004",
+   "key": "50a2264f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКстати, в меню новые блюда. Очень вкусные,\nхоть сам себя и не хвалю."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_005",
+   "key": "d7decd56",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЯ добавил в меню наше совместное блюдо, <_____MYNAME_____>!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_000",
+   "key": "49dd535f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНужны рецепты? Ты по адресу. Их у меня куча,\nгляди, что приглянется."
+  },
+  {
    "n": 22,
    "f": 2,
    "id": "MSG_SHOP_RESTAURANT_RECIPE_001",
@@ -70,6 +168,48 @@
    "id": "MSG_SHOP_RESTAURANT_RECIPE_002",
    "key": "2cb0da37",
    "ru": "Совершить покупку?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_003",
+   "key": "188c5304",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nАх да, появились новые рецепты. Глянь, а?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_004",
+   "key": "d7decd56",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЯ добавил в меню наше совместное блюдо, <_____MYNAME_____>!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_HALF_COMP",
+   "key": "e2c8a6dc",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПогоди, <_____MYNAME_____>, похоже, у тебя все наши рецепты.\n<PAGE>\nПридумаю новые, тогда и приходи, ладно?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_FULL_COMP",
+   "key": "2539e440",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПогоди, <_____MYNAME_____>, похоже, у тебя все наши рецепты.\n<PAGE>\nСпасибо за щедрые покупки!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GOODBYE_000",
+   "key": "b8f64014",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо! Не забывай нас."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_NAME",
+   "key": "6c42fa1e",
+   "ru": "Встреча за чаем"
   }
  ]
 }

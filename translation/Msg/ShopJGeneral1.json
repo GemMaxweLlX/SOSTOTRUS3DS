@@ -2,6 +2,13 @@
  "file": "ShopJGeneral1",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_FIRST_000",
+   "key": "8a998487",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в “Ра Ман”. В отделе\nтоваров есть почти всё, что нужно фермеру\nкаждый день."
+  },
+  {
    "n": 1,
    "f": 2,
    "id": "MSG_SHOP_GENERAL1_GREETING_000",
@@ -9,11 +16,67 @@
    "ru": "Магазин закрыт до конца праздника."
   },
   {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_001",
+   "key": "9718a9b5",
+   "ru": "По понедельникам и четвергам магазин закрыт."
+  },
+  {
    "n": 3,
    "f": 2,
    "id": "MSG_SHOP_GENERAL1_GREETING_002",
    "key": "c6acc082",
    "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_003",
+   "key": "8a998487",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в “Ра Ман”. В отделе\nтоваров есть почти всё, что нужно фермеру\nкаждый день."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_004",
+   "key": "28214593",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в отдел товаров “Ра Ман”."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_005",
+   "key": "28214593",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в отдел товаров “Ра Ман”."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_006",
+   "key": "2fe005e0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nК <BLUE>Празднику долголетия</BLUE> у нас особая упаковка,\nтолько на время! Загляните."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_007",
+   "key": "5d40754e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТолько с <BLUE>5-го по 7-е</BLUE> число <BLUE>весной</BLUE> у нас особая\nупаковка к <BLUE>Празднику долголетия</BLUE>.\n<PAGE>\nПожалуйста, загляните."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_000",
+   "key": "7172e18f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЧем могу помочь?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_001",
+   "key": "c245ea8f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nМогу ли я ещё чем-то помочь?"
   },
   {
    "n": 11,
@@ -86,6 +149,20 @@
    "ru": "<CANCEL_SELECT>\r\nНазад"
   },
   {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_012",
+   "key": "286c3d2e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nРазумеется. Что упаковать?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_000",
+   "key": "0d3d7cc5",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЧто желаете купить?"
+  },
+  {
    "n": 23,
    "f": 2,
    "id": "MSG_SHOP_GENERAL1_ITEM_001",
@@ -107,6 +184,41 @@
    "ru": "В сумке не хватает места."
   },
   {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_004",
+   "key": "ed5106c0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nУ нас новые товары. Пожалуйста, взгляните."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_005",
+   "key": "1844d5c4",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nМы начали продавать товары, сделанные при\nпомощи <_____MYNAME_____>. Пожалуйста, взгляните."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_000",
+   "key": "0ff48d6a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗначит, сумку побольше?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_001",
+   "key": "34cb8359",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗначит, ещё больше сумку?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_002",
+   "key": "58cd6bfb",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nС вас <BLUE><MOJI0></BLUE>G. Как поступите?"
+  },
+  {
    "n": 31,
    "f": 2,
    "id": "MSG_SHOP_GENERAL1_BAG_UP_003",
@@ -119,6 +231,27 @@
    "id": "MSG_SHOP_GENERAL1_BAG_UP_004",
    "key": "ab5f605a",
    "ru": "<CANCEL_SELECT>\r\nПока нет"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_005",
+   "key": "0f7fd41a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nПрошу прощения, но денег недостаточно."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_006",
+   "key": "000a7bef",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nБлагодарим за покупку. Теперь в сумке больше\nместа."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_000",
+   "key": "3b645d9b",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nРазумеется. Выберите предмет и фуросики, в\nкоторое его завернуть."
   },
   {
    "n": 36,
@@ -140,6 +273,69 @@
    "id": "MSG_SHOP_GENERAL1_WRAPPING_003",
    "key": "2f264a35",
    "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_004",
+   "key": "bd59fcde",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nБлагодарю за ожидание. Надеюсь, вам\nпонравится."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_005",
+   "key": "04e38e0e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nПрошу прощения, но у вас нет упакованных\nвещей."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_006",
+   "key": "77a97918",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nКак пожелаете. Что распаковать?"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_007",
+   "key": "cfc9d31a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nСейчас же распакую. Хорошо?"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_008",
+   "key": "87d00b53",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nПрошу прощения, но у вас нет вещей, которые\nможно упаковать."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GOODBYE_000",
+   "key": "df9b95fb",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо. Приходите снова."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GOODBYE_001",
+   "key": "df9b95fb",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо. Приходите снова."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_NAME",
+   "key": "2a3511e2",
+   "ru": "Ра Ман"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_START",
+   "key": "ba835b56",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nДля вашего удобства мы заворачиваем подарки\nв восточные фуросики.\n<PAGE>\nФуросики бывают с разными узорами.\n<PAGE>\nПодарок в любимой ткани обрадует получателя\nещё сильнее.\n<PAGE>\nНадеюсь, услуга вам пригодится."
   }
  ]
 }

@@ -2,6 +2,13 @@
  "file": "ShopSFoodStuff",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_FIRST_000",
+   "key": "7ed1adc1",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nО, кто это? Новый фермер? <_____MYNAME_____>, верно?\n<PAGE>\nДа! Так и знала!\n<PAGE>\nМеня зовут Каолила, а это мой продуктовый,\n“Аква пацца”!\n<PAGE>\nМой муж Захау ― рыбак, так что у нас много\nсвежей рыбы и прочей вкусной еды!"
+  },
+  {
    "n": 1,
    "f": 2,
    "id": "MSG_SHOP_FOODSTUFF_GREETING_000",
@@ -14,6 +21,48 @@
    "id": "MSG_SHOP_FOODSTUFF_GREETING_001",
    "key": "eec4b96f",
    "ru": "Сегодня заведение уже закрыто."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_002",
+   "key": "56bfda77",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_003",
+   "key": "260d52cd",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nО, привет, <_____MYNAME_____>!\n<PAGE>\nКомо май в “Аква пацца”!\n<PAGE>\nУ нас много свежей рыбы и другой вкусной\nеды, бери сколько хочешь!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_004",
+   "key": "f364c5ca",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nКомо май! Добро пожаловать в “Аква пацца”!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_005",
+   "key": "13c76436",
+   "ru": "Комо май! Добро пожаловать в “Аква пацца”!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_000",
+   "key": "eb210892",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nЧем помочь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_001",
+   "key": "9b109759",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nЧто-нибудь ещё?"
   },
   {
    "n": 9,
@@ -44,6 +93,13 @@
    "ru": "<CANCEL_SELECT>\r\nНичего"
   },
   {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_000",
+   "key": "42199e5f",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nКонечно! Что купишь?"
+  },
+  {
    "n": 14,
    "f": 2,
    "id": "MSG_SHOP_FOODSTUFF_ITEM_001",
@@ -63,6 +119,41 @@
    "id": "MSG_SHOP_FOODSTUFF_ITEM_003",
    "key": "2f264a35",
    "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_004",
+   "key": "dc81b7a9",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nПришли отличные новинки. Обязательно глянь!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_005",
+   "key": "bc17c078",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nТебе понравится новый товар. Мы же сделали\nего вместе, <_____MYNAME_____>!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_NAME",
+   "key": "621eb02c",
+   "ru": "Аква пацца"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GOODBYE_000",
+   "key": "de8fdd52",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nМахало! Заходи ещё!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GOODBYE_001",
+   "key": "c5c95e66",
+   "ru": "Махало! Заходи ещё!"
   }
  ]
 }
