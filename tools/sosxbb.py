@@ -12,6 +12,8 @@ library is needed (Python 3.8+).
     python sosxbb.py check   text/Msg --font rom/mainfont.bffnt
     python sosxbb.py stats   text/Msg
     python sosxbb.py pack    rom/Msg.xbb       text/Msg   out/Msg.xbb
+    python sosxbb.py save    text/Msg          translation/Msg
+    python sosxbb.py load    translation/Msg   text/Msg
 
 File formats (all little endian)
 
@@ -48,6 +50,7 @@ import os
 import re
 import struct
 import sys
+import zlib
 
 XBB_MAGIC = b"XBB\x01"
 PAPA_MAGIC = b"PAPA"
@@ -524,6 +527,66 @@ def cmd_check(args):
     return 1 if problems else 0
 
 
+def text_key(text):
+    """Checksum of an original text, stored instead of the text itself."""
+    return "%08x" % (zlib.crc32(text.encode("utf-8")) & 0xFFFFFFFF)
+
+
+def cmd_save(args):
+    """Write translations without the original text (safe to publish)."""
+    files = count = 0
+    for path in iter_json(args.textdir):
+        doc = read_json(path)
+        entries = []
+        for e in doc["entries"]:
+            if e.get(LANG):
+                item = {"n": e["n"], "f": e["f"]}
+                if "id" in e:
+                    item["id"] = e["id"]
+                item["key"] = text_key(e["en"])
+                item[LANG] = e[LANG]
+                entries.append(item)
+        out = os.path.join(args.outdir, os.path.relpath(path, args.textdir))
+        if entries:
+            write_json(out, {"file": doc["file"], "entries": entries})
+            files += 1
+            count += len(entries)
+        elif os.path.exists(out):
+            os.remove(out)
+    print("saved %d translations in %d files to %s" % (count, files, args.outdir))
+    return 0
+
+
+def cmd_load(args):
+    """Merge saved translations into unpacked text files."""
+    loaded = stale = files = 0
+    for path in iter_json(args.savedir):
+        target = os.path.join(args.textdir, os.path.relpath(path, args.savedir))
+        if not os.path.exists(target):
+            print("no unpacked file for %s (run unpack first)" % path)
+            stale += len(read_json(path)["entries"])
+            continue
+        doc = read_json(target)
+        index = {(e["n"], e["f"]): e for e in doc["entries"]}
+        changed = False
+        for item in read_json(path)["entries"]:
+            e = index.get((item["n"], item["f"]))
+            if e is None or text_key(e["en"]) != item.get("key"):
+                stale += 1
+                continue
+            if e.get(LANG) != item[LANG]:
+                e[LANG] = item[LANG]
+                changed = True
+            loaded += 1
+        if changed:
+            write_json(target, doc)
+            files += 1
+    print("loaded %d translations, updated %d files" % (loaded, files))
+    if stale:
+        print("%d saved translations do not match this game version and were skipped" % stale)
+    return 0
+
+
 def main(argv=None):
     ap = argparse.ArgumentParser(
         description="Text tool for Story of Seasons: Trio of Towns (3DS)")
@@ -567,6 +630,16 @@ def main(argv=None):
                    help="without --font: report a changed number of lines")
     p.add_argument("--limit", type=int, default=50, help="problems to print")
     p.set_defaults(func=cmd_check)
+
+    p = sub.add_parser("save", help="store translations without the original text")
+    p.add_argument("textdir", help="directory with unpacked JSON files")
+    p.add_argument("outdir", help="directory for translation-only files")
+    p.set_defaults(func=cmd_save)
+
+    p = sub.add_parser("load", help="merge stored translations into unpacked files")
+    p.add_argument("savedir", help="directory with translation-only files")
+    p.add_argument("textdir", help="directory with unpacked JSON files")
+    p.set_defaults(func=cmd_load)
 
     args = ap.parse_args(argv)
     try:

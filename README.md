@@ -119,6 +119,24 @@ python tools/sosxbb.py pack rom/DataText.xbb text/DataText out/DataText.xbb
 
 Через LayeredFS в Luma3DS: положите собранные файлы в `luma/titles/<TitleID игры>/romfs/` на карте памяти и включите в настройках Luma пункт `Enable game patching`. Образ игры пересобирать не нужно. В эмуляторе Azahar (бывший Citra) те же файлы кладутся в папку модов игры.
 
+## Перевод в репозитории
+
+Готовый перевод хранится в папке `translation/` без английского текста: только номер строки, её метка, контрольная сумма оригинала и русский текст.
+
+Подставить его в свои распакованные файлы:
+
+```bash
+python tools/sosxbb.py load translation/DataText text/DataText
+```
+
+Сохранить свои правки обратно в `translation/`:
+
+```bash
+python tools/sosxbb.py save text/DataText translation/DataText
+```
+
+Для `Msg` команды те же, с `translation/Msg` и `text/Msg`.
+
 ## Что проверено, а что нет
 
 Проверено на файлах американской версии:
