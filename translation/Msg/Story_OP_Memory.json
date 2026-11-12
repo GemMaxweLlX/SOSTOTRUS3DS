@@ -1,0 +1,103 @@
+{
+ "file": "Story_OP_Memory",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_00",
+   "key": "e53ab1fc",
+   "ru": "<FACE_MOTHER>\r\n<_____MYNAME_____>, иди сюда.\nИди к мамочке."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_01",
+   "key": "6618e04c",
+   "ru": "<FACE_MOTHER>\r\nВидишь? Вот мы и пришли:\nэто контактная ферма."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_02",
+   "key": "625acbe2",
+   "ru": "<FACE_MOTHER>\r\nПойдём посмотрим на зверей?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_03",
+   "key": "582648a1",
+   "ru": "<FACE_MOTHER>\r\nНу же, <_____MYNAME_____>.\n<PAGE>\nПогладь коровку."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_04",
+   "key": "de481a5e",
+   "ru": "<FACE_MOTHER>\r\nНе бойся. Ей наверняка будет\nочень приятно."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_05",
+   "key": "4c4e7e01",
+   "ru": "<FACE_MOTHER>\r\nВот видишь? Она говорит\n“спасибо”. Правда, здорово?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_06",
+   "key": "4315cd9a",
+   "ru": "<FACE_MOTHER>\r\nОй, смотри! Здесь можно собирать\nклубнику. Аппетитная, правда?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_07",
+   "key": "eef5b2ce",
+   "ru": "<FACE_MOTHER>\r\nНу что, <_____MYNAME_____>?\nПонравилось на ферме?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_08",
+   "key": "0f521696",
+   "ru": "<FACE_MOTHER>\r\nВот как? Хочешь теперь там жить?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_09",
+   "key": "29676184",
+   "ru": "<FACE_MOTHER>\r\nО-хо-хо! Похоже, тебе и правда\nочень понравилось!\n<PAGE>\nЧто ж, значит, придётся приехать\nсюда ещё раз. Я привезу тебя,\nкогда захочешь."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_10",
+   "key": "e5605f90",
+   "ru": "<NAME_UNKNOWN>\r\n...ратик...!\n<PAGE>\nБратик...!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_11",
+   "key": "e454fbbb",
+   "ru": "<NAME_UNKNOWN>\r\n...стрёнка...!\n<PAGE>\nСестрёнка...!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_12",
+   "key": "e1214e84",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_ANGRY>\r\nТы чего спишь на диване?\nШея же затечёт.\n<PAGE>\n<FACE_NORMAL>И что тебе снилось? У тебя была\nтакая глупая улыбка до ушей."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_MEMORY_13",
+   "key": "f105a964",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nХм. Ну ладно.\n<PAGE>\nМама зовёт помочь с ужином.\nЖду тебя на кухне."
+  }
+ ]
+}
