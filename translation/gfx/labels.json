@@ -1,0 +1,233 @@
+{
+ "ListGuideButton.arc": {
+  "_icon": true,
+  "timg/a_next": "Далее",
+  "timg/a_select": "Выбрать",
+  "timg/a_stock": "Запас",
+  "timg/ast_rotate": "Поворот",
+  "timg/details": "Детали",
+  "timg/help": "Умение",
+  "timg/kettei": "Принять",
+  "timg/kirikae": "Сменить",
+  "timg/matome": "Сорт.",
+  "timg/matomeru": "Сорт.",
+  "timg/modoru": "Назад",
+  "timg/move": "Двигать",
+  "timg/name": "Имя",
+  "timg/next": "Далее",
+  "timg/page": "Стр.",
+  "timg/search": "Заново",
+  "timg/seiri": "Сорт.",
+  "timg/suteru": "Бросить",
+  "timg/x_autmatic": "Автовыбор",
+  "timg/x_auto": "Автостр.",
+  "timg/x_monthly": "Месяц",
+  "timg/x_reset": "Сброс",
+  "timg/x_rotate": "Поворот",
+  "timg/x_shipment_amnt": "Сумма",
+  "timg/x_shipment_nmb": "Кол-во",
+  "timg/x_takeout": "Забрать",
+  "timg/x_weekly": "Неделя",
+  "timg/y_details": "Детали",
+  "timg/y_take_off": "Снять",
+  "_fill": "#ffffff",
+  "_size": 12
+ },
+ "Clock.arc": {
+  "_ring": "#ffffff",
+  "_size": 13,
+  "timg/season_spring": {
+   "text": "Весна",
+   "fill": "#ff4f8f"
+  },
+  "timg/season_summer": {
+   "text": "Лето",
+   "fill": "#3fa81e"
+  },
+  "timg/season_autum": {
+   "text": "Осень",
+   "fill": "#ff6a2a"
+  },
+  "timg/season_winter": {
+   "text": "Зима",
+   "fill": "#3a8fd0"
+  },
+  "timg/w_monday": {
+   "text": "(Пн)",
+   "fill": "#ffffff",
+   "size": 9,
+   "stroke": 1,
+   "ring": null
+  },
+  "timg/w_tuesday": {
+   "text": "(Вт)",
+   "fill": "#ffffff",
+   "size": 9,
+   "stroke": 1,
+   "ring": null
+  },
+  "timg/w_wednesday": {
+   "text": "(Ср)",
+   "fill": "#ffffff",
+   "size": 9,
+   "stroke": 1,
+   "ring": null
+  },
+  "timg/w_thursday": {
+   "text": "(Чт)",
+   "fill": "#ffffff",
+   "size": 9,
+   "stroke": 1,
+   "ring": null
+  },
+  "timg/w_friday": {
+   "text": "(Пт)",
+   "fill": "#ffffff",
+   "size": 9,
+   "stroke": 1,
+   "ring": null
+  },
+  "timg/w_saturday": {
+   "text": "(Сб)",
+   "fill": "#9fd8ff",
+   "size": 9,
+   "stroke": 1,
+   "ring": null
+  },
+  "timg/w_sunday": {
+   "text": "(Вс)",
+   "fill": "#ff8f9f",
+   "size": 9,
+   "stroke": 1,
+   "ring": null
+  },
+  "timg/date_base": {
+   "text": "День",
+   "fill": "#ffffff",
+   "size": 9,
+   "stroke": 1,
+   "ring": null
+  }
+ },
+ "ItemComment.arc": {
+  "timg/s_title_00": "Сумка",
+  "timg/s_title_01": "Инструменты",
+  "timg/s_title_02": "Хранилище",
+  "timg/s_title_03": "Силос",
+  "timg/s_title_04": "Запас",
+  "timg/s_title_05": "Взято",
+  "timg/r_title_00": "Сумка",
+  "timg/r_title_03": "Инструменты",
+  "_fill": "#ffd23c",
+  "_size": 13,
+  "timg/r_title_08": "Ящик отправки",
+  "timg/r_title_09": "Хранилище",
+  "timg/r_title_10": "Силос",
+  "timg/df_00": {
+   "text": "Цвет",
+   "fill": "#ffffff",
+   "size": 11
+  },
+  "timg/df_01": {
+   "text": "Сладость",
+   "fill": "#ffffff",
+   "size": 11
+  },
+  "timg/df_02": {
+   "text": "Сочность",
+   "fill": "#ffffff",
+   "size": 11
+  },
+  "timg/df_03": {
+   "text": "Размер",
+   "fill": "#ffffff",
+   "size": 11
+  },
+  "timg/df_06": {
+   "text": "Аромат",
+   "fill": "#ffffff",
+   "size": 11
+  }
+ },
+ "StockUpper.arc": {
+  "timg/s_title_03": "Силос",
+  "_fill": "#ffd23c",
+  "_size": 13,
+  "timg/a_title_14": {
+   "text": "Объединить",
+   "fill": "#ffffff",
+   "size": 13
+  }
+ },
+ "Tab.arc": {
+  "_fill": "#ffd23c",
+  "_size": 15,
+  "timg/a_type_00": "Ремёсла",
+  "timg/ani_type_03": "Овцы",
+  "timg/ani_type_05": "Альпаки",
+  "timg/ani_type_06": "Ламы",
+  "timg/ani_type_07": "Кролики",
+  "timg/ani_type_11": "Суффолки",
+  "timg/ani_type_18": "Лошади",
+  "timg/ani_type_20": "Хлева",
+  "timg/ani_type_21": "Курятники",
+  "timg/ani_type_22": "Питомцы",
+  "timg/atlr_type_00": "Полевые",
+  "timg/atlr_type_01": "Плоды",
+  "timg/atlr_type_02": "Цветы",
+  "timg/atlr_type_03": "Майонез",
+  "timg/atlr_type_04": "Приправы",
+  "timg/atlr_type_05": "Джем",
+  "timg/atlr_type_06": "Сыр",
+  "timg/atlr_type_07": "Масло",
+  "timg/atlr_type_08": "Йогурт",
+  "timg/ava_type_05": "Одежда",
+  "timg/ava_type_06": "Шляпы",
+  "timg/ava_type_07": "Очки",
+  "timg/ava_type_08": "Город",
+  "timg/ava_type_09": "Мужское",
+  "timg/ava_type_10": "Женское",
+  "timg/ava_type_11": "Элегантное",
+  "timg/ava_type_12": "Дикое",
+  "timg/ava_type_13": "Природное",
+  "timg/ava_type_14": "Милое",
+  "timg/ava_type_15": "Причудливое",
+  "timg/b_type_00": "Инструменты",
+  "timg/b_type_01": "Семена",
+  "timg/b_type_02": "Урожай",
+  "timg/b_type_03": "Блюда",
+  "timg/b_type_07": "Рыба",
+  "timg/b_type_09": "Другое",
+  "timg/c_type_00": "Салаты",
+  "timg/c_type_01": "Супы",
+  "timg/c_type_02": "Жареное",
+  "timg/c_type_03": "Тушёное",
+  "timg/c_type_04": "Рис",
+  "timg/c_type_05": "Лапша/хлеб",
+  "timg/c_type_06": "Десерты",
+  "timg/c_type_07": "Напитки",
+  "timg/ctry_type_00": "Уэстаун",
+  "timg/ctry_type_01": "Цуюкуса",
+  "timg/ctry_type_02": "Лулукоко",
+  "timg/e_type_04": "Постройки",
+  "timg/mvg_type_00": "Центр фермы",
+  "timg/mvg_type_01": "Запад фермы",
+  "timg/mvg_type_02": "Восток фермы",
+  "timg/pt_type_00": "Семья",
+  "timg/s_type_07": "Ремонт",
+  "timg/s_type_08": "Внешний вид",
+  "timg/s_type_09": "Интерьер",
+  "timg/s_type_10": "Мебель",
+  "timg/t_type_00": "Основы",
+  "timg/t_type_01": "Праздник",
+  "timg/t_type_02": "Урожай",
+  "timg/t_type_03": "Животные",
+  "timg/t_type_04": "Ферма",
+  "timg/t_type_05": "Быт",
+  "timg/t_type_06": "Постройки",
+  "timg/type_all": "ВСЕ",
+  "timg/ad_type_00": "Советы 1",
+  "timg/ad_type_01": "Советы 2",
+  "timg/ad_type_02": "Советы 3"
+ }
+}
