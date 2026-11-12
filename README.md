@@ -119,6 +119,24 @@ python tools/sosxbb.py pack rom/DataText.xbb text/DataText out/DataText.xbb
 
 Через LayeredFS в Luma3DS: положите собранные файлы в `luma/titles/<TitleID игры>/romfs/` на карте памяти и включите в настройках Luma пункт `Enable game patching`. Образ игры пересобирать не нужно. В эмуляторе Azahar (бывший Citra) те же файлы кладутся в папку модов игры.
 
+## Шрифт
+
+В шрифте игры кириллица есть, но тонкая и широкая, а латиница жирная и узкая. Команда `restyle` перерисовывает русские буквы из обычного TTF-шрифта под размер латиницы. Нужна библиотека Pillow (`pip install pillow`).
+
+```bash
+python tools/sosfont.py restyle rom/mainfont.bffnt PT_Sans-Narrow-Web-Bold.ttf out/mainfont.bffnt --gain 1.25
+```
+
+Используется PT Sans Narrow Bold (ParaType, лицензия SIL OFL), файл есть в репозитории `google/fonts` в папке `ofl/ptsansnarrow`. Результат кладётся в `romfs/Font/` под двумя именами: `mainfont.bffnt` и `subfont.bffnt` (в игре эти файлы одинаковые).
+
+Посмотреть, как строка будет выглядеть в игре:
+
+```bash
+python tools/sosfont.py preview out/mainfont.bffnt "Привет, ферма!" preview.png
+```
+
+Команде `check` из `sosxbb.py` стоит передавать уже новый шрифт: ширина русских букв в нём другая.
+
 ## Перевод в репозитории
 
 Готовый перевод хранится в папке `translation/` без английского текста: только номер строки, её метка, контрольная сумма оригинала и русский текст.
