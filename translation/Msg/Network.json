@@ -2,6 +2,20 @@
  "file": "Network",
  "entries": [
   {
+   "n": 47,
+   "f": 2,
+   "id": "TEXT_NPC_SELECT_NOTHING",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "TEXT_NPC_NG_SELECT_NOTHING",
+   "key": "c1aade51",
+   "ru": "<CANCEL_SELECT>\r\nНазад"
+  },
+  {
    "n": 74,
    "f": 2,
    "id": "TEXT_NPC_EXIT_SELECT_YES",

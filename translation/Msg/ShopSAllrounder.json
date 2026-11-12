@@ -1,0 +1,54 @@
+{
+ "file": "ShopSAllrounder",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_CHOICE_006",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_AVATAR_GET_001",
+   "key": "a41ca20f",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>! Вещь ждёт в шкафу."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_SELECT_002",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_SELECT_002",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEEXTENSION_SELECT_003",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  }
+ ]
+}

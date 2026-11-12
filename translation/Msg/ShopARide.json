@@ -1,0 +1,68 @@
+{
+ "file": "ShopARide",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_A_RIDING_00",
+   "key": "3545b6b7",
+   "ru": "<NAME_MOB_BORGO>\r\nКуда путь держишь, партнёр?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_A_RIDING_01",
+   "key": "49b28b43",
+   "ru": "<NAME_MOB_BORGO>\r\nЭто станция дилижансов “Золотая лихорадка”."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_A_RIDING_CHJNGE",
+   "key": "09fa8ba0",
+   "ru": "<NAME_MOB_BORGO>\r\nЭй, да ты уже на месте! Ты в порядке, партнёр?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_A_RIDING_AREA",
+   "key": "95e1afaa",
+   "ru": "<NAME_MOB_BORGO>\r\nКуда в <GREEN><MOJI0></GREEN>?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_A_RIDING_CHOICE_00",
+   "key": "d4dfc436",
+   "ru": "<NAME_MOB_BORGO>\r\n<GREEN><MOJI0></GREEN>, да? С тебя <BLUE><MOJI1></BLUE>G. Идёт?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_A_RIDING_GO",
+   "key": "b88cb49f",
+   "ru": "<NAME_MOB_BORGO>\r\nТогда по местам! Трогаем!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_A_RIDING_CANCEL",
+   "key": "bcf80cb8",
+   "ru": "<NAME_MOB_BORGO>\r\nПонятно... Буду ждать в следующий раз."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_A_RIDING_UNUSABLE",
+   "key": "f905e39c",
+   "ru": "Здесь вывеска станции дилижансов, но,\nпохоже, сейчас закрыто."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_A_RIDING_NO_MONEY",
+   "key": "674a6fc9",
+   "ru": "<NAME_MOB_BORGO>\r\nНу ёлки! Без денег не повезу! Буду ждать в\nследующий раз."
+  }
+ ]
+}

@@ -2,6 +2,90 @@
  "file": "ShopJGeneral1",
  "entries": [
   {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_003",
+   "key": "4beeb254",
+   "ru": "Расширить сумку"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_004",
+   "key": "67ec7107",
+   "ru": "Ещё расширить сумку"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_005",
+   "key": "a19fd4bf",
+   "ru": "Упаковка подарков"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_006",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_007",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_008",
+   "key": "1d077266",
+   "ru": "<CANCEL_SELECT>\r\nПока ничего"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_009",
+   "key": "c732316a",
+   "ru": "Упаковать"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_010",
+   "key": "0e8a532e",
+   "ru": "Распаковать"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_011",
+   "key": "c1aade51",
+   "ru": "<CANCEL_SELECT>\r\nНазад"
+  },
+  {
    "n": 23,
    "f": 2,
    "id": "MSG_SHOP_GENERAL1_ITEM_001",
@@ -23,11 +107,32 @@
    "ru": "В сумке не хватает места."
   },
   {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_003",
+   "key": "a584bb8f",
+   "ru": "Купить сумку"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_004",
+   "key": "ab5f605a",
+   "ru": "<CANCEL_SELECT>\r\nПока нет"
+  },
+  {
    "n": 36,
    "f": 2,
    "id": "MSG_SHOP_GENERAL1_WRAPPING_001",
    "key": "a11e1ac8",
    "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_002",
+   "key": "d6d95051",
+   "ru": "Сколько упаковать?"
   },
   {
    "n": 38,

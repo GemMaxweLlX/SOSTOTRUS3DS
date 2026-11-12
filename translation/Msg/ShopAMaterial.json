@@ -2,6 +2,97 @@
  "file": "ShopAMaterial",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_GREETING_000",
+   "key": "dc0f8690",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_GREETING_003",
+   "key": "d3232433",
+   "ru": "<NAME_MOB_HIRAF>\r\nА, вот и ты! Рад тебя видеть. Так, погоди-ка...\n<PAGE>\nЭто магазин материалов “Бревенчатый дом”!\nЕсть всё: от древесины до камня, и прочие\nстройматериалы в придачу!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_GREETING_004",
+   "key": "f2eaba8a",
+   "ru": "<NAME_MOB_HIRAF>\r\nЗдорово, друг, добро пожаловать в\n“Бревенчатый дом”!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_GREETING_005",
+   "key": "c60f3474",
+   "ru": "Добро пожаловать в “Бревенчатый дом”!\nСпасибо, что заглянула, милая!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_CHOICE_000",
+   "key": "b4622c01",
+   "ru": "<NAME_MOB_HIRAF>\r\nЧем подсобить?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_CHOICE_001",
+   "key": "9d01a9f9",
+   "ru": "<NAME_MOB_HIRAF>\r\nЧто-нибудь ещё?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_CHOICE_003",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_CHOICE_004",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_CHOICE_005",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_ITEM_000",
+   "key": "378cedc0",
+   "ru": "<NAME_MOB_HIRAF>\r\nЧто хочешь купить?"
+  },
+  {
    "n": 13,
    "f": 2,
    "id": "MSG_SHOP_MATERIAL_ITEM_001",
@@ -21,6 +112,41 @@
    "id": "MSG_SHOP_MATERIAL_ITEM_003",
    "key": "2f264a35",
    "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_ITEM_004",
+   "key": "999d8c90",
+   "ru": "<NAME_MOB_HIRAF>\r\nПришли новинки, заходи, глянь!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_ITEM_005",
+   "key": "bb1d3b99",
+   "ru": "<NAME_MOB_HIRAF>\r\nМы с <_____MYNAME_____> сделали кучу новых товаров,\nобязательно глянь!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_GOODBYE_000",
+   "key": "d3c33db6",
+   "ru": "<NAME_MOB_HIRAF>\r\nПремного благодарен! До встречи, друг!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_GOODBYE_001",
+   "key": "fe6f68de",
+   "ru": "Премного благодарен! До встречи, милая."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_MATERIAL_NAME",
+   "key": "feefc073",
+   "ru": "Бревенчатый дом"
   }
  ]
 }

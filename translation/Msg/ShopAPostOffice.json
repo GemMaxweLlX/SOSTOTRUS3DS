@@ -1,0 +1,173 @@
+{
+ "file": "ShopAPostOffice",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_GREETING_00",
+   "key": "b1040263",
+   "ru": "Почта закрыта до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_GREETING_01",
+   "key": "72f2de7c",
+   "ru": "По субботам и воскресеньям почта не работает."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_GREETING_02",
+   "key": "07a8a1c7",
+   "ru": "Почта закрыта. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_GREETING_03",
+   "key": "1a6913a8",
+   "ru": "<NAME_MOB_ETHAN>\r\nДобро пожаловать, <_____MYNAME_____>. Тебя уже ждут. Это почта\n“Постино”.\n<PAGE>\nЗдесь можно отправить подарки и письма\nдрузьям и родным.\n<PAGE>\nНо отправка стоит денег. Цена зависит от\nадреса и бумаги, которую выберешь.\n<PAGE>\nТак, с этим разобрались..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_NOT_START",
+   "key": "f37f7d1d",
+   "ru": "<NAME_MOB_ETHAN>\r\nПрости, но доставку мы ещё не запустили.\n<PAGE>\nКогда всё заработает, обязательно тебе скажу."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_GREETING_05",
+   "key": "fd1e6f4d",
+   "ru": "<NAME_MOB_ETHAN>\r\nДобро пожаловать! В “Постино” мы гордимся\nтем, как бережно обращаемся с твоими\nпосылками и письмами!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_GREETING_06",
+   "key": "2eaaee8b",
+   "ru": "<NAME_MOB_ETHAN>\r\nДобро пожаловать! В “Постино” мы гордимся\nтем, как бережно обращаемся с посылками и\nписьмами! Так же бережно, как с тобой!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_CHOICE_00",
+   "key": "08ef0f0b",
+   "ru": "<NAME_MOB_ETHAN>\r\nИтак, чем могу помочь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_CHOICE_01",
+   "key": "c8ad8fc0",
+   "ru": "Отправить письмо"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_CHOICE_02",
+   "key": "5487e182",
+   "ru": "Узнать об услугах"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_CHOICE_03",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_CHOICE_04",
+   "key": "8051604b",
+   "ru": "<NAME_MOB_ETHAN>\r\nИтак, чем помочь? По-моему, отличная мысль\n― отправить кому-нибудь письмо на день\nрождения!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_SCENE_CHANGE",
+   "key": "5b0c567e",
+   "ru": "<NAME_MOB_ETHAN>\r\nХорошо. Давай письмо, остальное за мной, не\nволнуйся."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_END_00",
+   "key": "12e2bd96",
+   "ru": "<NAME_MOB_ETHAN>\r\nБольшое спасибо! Заходи в любое время."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_END_02",
+   "key": "9d9c093c",
+   "ru": "<NAME_MOB_ETHAN>\r\nБольшое спасибо! Надеюсь, ещё обратишься."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_OK_00",
+   "key": "676cc717",
+   "ru": "<NAME_MOB_ETHAN>\r\nХорошо, займусь. Доставлю сегодня же."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_OK_01",
+   "key": "4d56fc97",
+   "ru": "<NAME_MOB_ETHAN>\r\nХорошо, займусь. Дойдёт не сразу, так что\nответа жди не раньше чем через неделю."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_OK_02",
+   "key": "65cca85f",
+   "ru": "<NAME_MOB_ETHAN>\r\nХорошо, займусь. Потом передам Уэйну."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_CONTINUE_00",
+   "key": "8b5cbf60",
+   "ru": "<NAME_MOB_ETHAN>\r\nЕщё письма будут?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_CONTINUE_01",
+   "key": "074195f3",
+   "ru": "Отправить"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_CONTINUE_02",
+   "key": "f8599ad4",
+   "ru": "<CANCEL_SELECT>\r\nНе отправлять"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_CONTINUE_03",
+   "key": "d79d9c8c",
+   "ru": "Погоди, кое-что отправлю"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_CANCEL",
+   "key": "7ce6b065",
+   "ru": "<NAME_MOB_ETHAN>\r\nЗначит, отправлять нечего?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_A_POST_NAME",
+   "key": "7c41ecdd",
+   "ru": "Постино"
+  }
+ ]
+}

@@ -2,6 +2,20 @@
  "file": "ShopRideCommon",
  "entries": [
   {
+   "n": 4,
+   "f": 2,
+   "id": "SelectCancel",
+   "key": "e8b9a8c2",
+   "ru": "<CANCEL_SELECT>\r\nОтмена"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "SelectBack",
+   "key": "2d9517cc",
+   "ru": "<CANCEL_SELECT>\r\nК выбору города"
+  },
+  {
    "n": 6,
    "f": 2,
    "id": "SelectYes",

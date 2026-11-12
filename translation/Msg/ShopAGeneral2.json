@@ -2,6 +2,125 @@
  "file": "ShopAGeneral2",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_003",
+   "key": "2e283c57",
+   "ru": "<NAME_MOB_CORTES>\r\nПривет-привет, добро пожаловать в\n“Гулливер”!\n<PAGE>\nУ нас все повседневные мелочи, какие только,\nёлки-палки, могут понадобиться. Поглазей!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_004",
+   "key": "6bb29d84",
+   "ru": "<NAME_MOB_CORTES>\r\nПривет-привет, добро пожаловать в\n“Гулливер”, где есть всё, за чем обычно ходят\nпо всем лавкам!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_005",
+   "key": "374d291c",
+   "ru": "Ого! Рад видеть, красотка!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_006",
+   "key": "79f5be28",
+   "ru": "<NAME_MOB_CORTES>\r\nКстати, удочка-то у тебя есть?\n<PAGE>\nГоворю это только рыбакам, но... вообще-то\nмы ещё и наживку на заказ делаем.\n<PAGE>\nА насадить её на удочку отлично умеет <GREEN>мастер\nна все руки</GREEN> в Лулукоко, загляни к нему!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_000",
+   "key": "ca669ebf",
+   "ru": "<NAME_MOB_CORTES>\r\nНу, чем подсобить?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_001",
+   "key": "dd81d7b0",
+   "ru": "<NAME_MOB_CORTES>\r\nЧто ещё нужно?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_003",
+   "key": "feb1027d",
+   "ru": "Сделать наживку"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_004",
+   "key": "4beeb254",
+   "ru": "Расширить сумку"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_005",
+   "key": "67ec7107",
+   "ru": "Ещё расширить сумку"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_006",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_007",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_008",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_000",
+   "key": "95e2bd7e",
+   "ru": "<NAME_MOB_CORTES>\r\nТовары, да? Конечно, что тебе продать,\nдружище?"
+  },
+  {
    "n": 17,
    "f": 2,
    "id": "MSG_SHOP_GENERAL2_ITEM_001",
@@ -23,6 +142,83 @@
    "ru": "В сумке не хватает места."
   },
   {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_004",
+   "key": "de3394f5",
+   "ru": "<NAME_MOB_CORTES>\r\nУ меня новинки, просто суперские, так что\nгляди в оба и смотри, на что глядеть..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_005",
+   "key": "d65f27fa",
+   "ru": "<NAME_MOB_CORTES>\r\nО, мы с <_____MYNAME_____> сделали особые товары, ёлки-палки.\nГлянь, дружище!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_000",
+   "key": "ddd8d5d2",
+   "ru": "<NAME_MOB_CORTES>\r\nСумку увеличить, да?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_001",
+   "key": "8a809109",
+   "ru": "<NAME_MOB_CORTES>\r\nЕщё увеличить! Сумка и так большая, как сумки\nбывают, а тебе ещё больше, приятель?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_002",
+   "key": "ea345819",
+   "ru": "<NAME_MOB_CORTES>\r\nС тебя <BLUE><MOJI0></BLUE>G. Пойдёт?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_003",
+   "key": "a584bb8f",
+   "ru": "Купить сумку"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_004",
+   "key": "ab5f605a",
+   "ru": "<CANCEL_SELECT>\r\nПока нет"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_005",
+   "key": "97ae8592",
+   "ru": "<NAME_MOB_CORTES>\r\nМаловато! И ещё у тебя не хватает денег.\nХа-ха-ха!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_006",
+   "key": "caf87880",
+   "ru": "<NAME_MOB_CORTES>\r\nСумка-а-а теперь огро-о-омная! У-у-ух!\nГляди, сколько ВСЕГО влезет!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_000",
+   "key": "cec22b54",
+   "ru": "<NAME_MOB_CORTES>\r\nМоя суперсекретная услуга к твоим услугам,\nёлки-палки! Какую наживку сделать?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_001",
+   "key": "6a038bb0",
+   "ru": "У тебя нет нужных материалов."
+  },
+  {
    "n": 31,
    "f": 2,
    "id": "MSG_SHOP_GENERAL2_FISH_002",
@@ -42,6 +238,41 @@
    "id": "MSG_SHOP_GENERAL2_FISH_004",
    "key": "2f264a35",
    "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_005",
+   "key": "5af1da16",
+   "ru": "<NAME_MOB_CORTES>\r\nВсё готово-о-о! Держи-и-и!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_006",
+   "key": "66da157d",
+   "ru": "<NAME_MOB_CORTES>\r\nПридумал новую наживку, но скидок не делаю,\nхоть и заманчиво! Ха-ха-ха!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_007",
+   "key": "d65f27fa",
+   "ru": "<NAME_MOB_CORTES>\r\nО, мы с <_____MYNAME_____> сделали особые товары, ёлки-палки.\nГлянь, дружище!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GOODBYE_000",
+   "key": "96ba8593",
+   "ru": "<NAME_MOB_CORTES>\r\nСпасибо, ковбой! Заглядывай ещё!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_NAME",
+   "key": "ffa70341",
+   "ru": "Гулливер"
   }
  ]
 }

@@ -2,6 +2,41 @@
  "file": "ShopSRestaurant",
  "entries": [
   {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_000",
+   "key": "afce0d5b",
+   "ru": "Клиника закрыта до конца праздника."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_003",
+   "key": "6eb0750d",
+   "ru": "Купить рецепты"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_004",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_005",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_006",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
    "n": 16,
    "f": 2,
    "id": "MSG_SHOP_RESTAURANT_COOK_001",

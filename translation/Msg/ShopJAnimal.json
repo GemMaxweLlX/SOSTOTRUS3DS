@@ -2,6 +2,76 @@
  "file": "ShopJAnimal",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_002",
+   "key": "5bb5fe65",
+   "ru": "Купить животных"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_003",
+   "key": "92493652",
+   "ru": "Продать животных"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_004",
+   "key": "ff608c1a",
+   "ru": "Развести животных"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_005",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_006",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_007",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_008",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
    "n": 15,
    "f": 2,
    "id": "MSG_SHOP_ANIMAL_BUY_001",
@@ -30,6 +100,13 @@
    "ru": "Какое имя ему дать?"
   },
   {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_005",
+   "key": "aa31f3f0",
+   "ru": "Имя \"<BLUE><MOJI0></BLUE>\" подходит?"
+  },
+  {
    "n": 20,
    "f": 2,
    "id": "MSG_SHOP_ANIMAL_BUY_006",
@@ -42,6 +119,13 @@
    "id": "MSG_SHOP_ANIMAL_BUY_008",
    "key": "087ddd93",
    "ru": "Где оно будет жить?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_SELL_001",
+   "key": "db589a68",
+   "ru": "Продать это животное за <BLUE><MOJI0></BLUE>G?"
   },
   {
    "n": 25,
@@ -84,6 +168,20 @@
    "id": "MSG_SHOP_ANIMAL_PREGNANT_003",
    "key": "a4a8a0d9",
    "ru": "Теперь животное беременно."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_004",
+   "key": "b7645b3e",
+   "ru": "В хлеву нет места."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_005",
+   "key": "5d0fc10e",
+   "ru": "Сбежавшее животное нельзя разводить."
   },
   {
    "n": 35,

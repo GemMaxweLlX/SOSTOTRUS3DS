@@ -2,6 +2,181 @@
  "file": "ShopAGeneral1",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_FIRST_000",
+   "key": "341f4f3b",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nА, так это о тебе говорил твой дядя Фрэнк.\n<PAGE>\nЭто городской универмаг “Соломенный рынок”.\nУ нас всякие товары, чтобы помогать здешним\nфермерам с полями."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_003",
+   "key": "1da9f076",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nБа, да это же <_____MYNAME_____>! Рада тебя видеть.\n<PAGE>\nДобро пожаловать в “Соломенный рынок”!\n<PAGE>\nУ нас есть почти всё, что нужно для фермы."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_004",
+   "key": "1d4210e0",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в “Соломенный рынок”!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_005",
+   "key": "ac4132bb",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНу здравствуй! Рада, что заглядываешь!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_006",
+   "key": "d121c090",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nК Цветочной ярмарке у нас особая упаковка,\nтолько на время. Попробуй!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_007",
+   "key": "86ee6fc2",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати, хотела тебе сказать.\n<PAGE>\n<BLUE>Летом</BLUE> с <BLUE>29-го по 31-е</BLUE> у нас будет особая\nупаковка к Цветочной ярмарке! Пользуйся, если\nзахочешь!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_000",
+   "key": "ef5373af",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧем могу помочь?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_001",
+   "key": "cf0a6274",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто-нибудь ещё?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_003",
+   "key": "4beeb254",
+   "ru": "Расширить сумку"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_004",
+   "key": "67ec7107",
+   "ru": "Ещё расширить сумку"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_005",
+   "key": "a19fd4bf",
+   "ru": "Упаковка подарков"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_006",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_007",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_008",
+   "key": "1d077266",
+   "ru": "<CANCEL_SELECT>\r\nПока ничего"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_009",
+   "key": "c732316a",
+   "ru": "Упаковать"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_010",
+   "key": "0e8a532e",
+   "ru": "Распаковать"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_011",
+   "key": "c1aade51",
+   "ru": "<CANCEL_SELECT>\r\nНазад"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_012",
+   "key": "10ac08f9",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nО, хочешь воспользоваться упаковкой? Что\nсделать?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_013",
+   "key": "06d83158",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСшить одежду"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_000",
+   "key": "82e07e1a",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Выбирай, что купить."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_001",
+   "key": "3e83e5e0",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nУ тебя не хватает денег."
+  },
+  {
    "n": 25,
    "f": 2,
    "id": "MSG_SHOP_GENERAL1_ITEM_002",
@@ -16,11 +191,88 @@
    "ru": "В сумке не хватает места."
   },
   {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_004",
+   "key": "966da529",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПришли новые товары, загляни, вдруг что\nприглянется?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_005",
+   "key": "5227b8e2",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nМы начали продавать товары, сделанные\nвместе с <_____MYNAME_____>. Глянь!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_000",
+   "key": "6aed5ef3",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСумку побольше, говоришь?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_001",
+   "key": "ac472129",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЕщё больше сумку! Батюшки!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_002",
+   "key": "000850f1",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nС тебя <BLUE><MOJI0></BLUE>G. Устраивает?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_003",
+   "key": "a584bb8f",
+   "ru": "Купить сумку"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_004",
+   "key": "ab5f605a",
+   "ru": "<CANCEL_SELECT>\r\nПока нет"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_005",
+   "key": "a91fbd3b",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОй, похоже, денег не хватает."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_006",
+   "key": "258fddd2",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВот! Теперь в неё влезет куда больше!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_000",
+   "key": "6a68da49",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно! Выбери предмет и вид упаковки."
+  },
+  {
    "n": 37,
    "f": 2,
    "id": "MSG_SHOP_GENERAL1_WRAPPING_001",
    "key": "a11e1ac8",
    "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_002",
+   "key": "d6d95051",
+   "ru": "Сколько упаковать?"
   },
   {
    "n": 39,
@@ -30,11 +282,137 @@
    "ru": "В сумке не хватает места."
   },
   {
+   "n": 40,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_004",
+   "key": "f4900f26",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПрости, что заставила ждать. Как тебе?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_005",
+   "key": "b647f157",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, у тебя нет упакованных вещей."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_006",
+   "key": "73ba84cd",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно! Снять с этого упаковку, верно?"
+  },
+  {
    "n": 43,
    "f": 2,
    "id": "MSG_SHOP_GENERAL1_WRAPPING_007",
    "key": "14da8735",
    "ru": "Точно убрать это?"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_008",
+   "key": "709eff94",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nБоюсь, у тебя нет ничего, что можно упаковать."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GOODBYE_000",
+   "key": "0178dfae",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо! Заходи ещё!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GOODBYE_001",
+   "key": "0178dfae",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо! Заходи ещё!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_NAME",
+   "key": "73852feb",
+   "ru": "Соломенный рынок"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_TAILOR_START_000",
+   "key": "ec325a03",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати, теперь я ещё и шью.\n<PAGE>\nПринеси материалы, и я сошью одежду и\nшляпы! Выгодно нам обоим!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_TAILOR_NOCLOSET_000",
+   "key": "4ff6f5c8",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПрости, но сначала тебе нужен шкаф, а потом\nуже одежда.\n<PAGE>\nКогда дом станет побольше и появится шкаф,\nпоговорим! Я с радостью что-нибудь сошью."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_TAILOR_AVATARGET_000",
+   "key": "bb4b1817",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЗаказ готов! Держи!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_TAILOR_AVATARGET_001",
+   "key": "a41ca20f",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>! Вещь ждёт в шкафу."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_TAILOR_ALLGET_000",
+   "key": "e824ea1b",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНе поверишь, но у тебя уже есть всё, что я\nумею шить. Впечатляет!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_TAILOR_CHOICE_000",
+   "key": "791c4811",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Что сшить?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_TAILOR_ORDER_000",
+   "key": "2ea487c8",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо! Будет готово завтра, заходи\nв часы работы."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_TAILOR_ORDER_001",
+   "key": "2ea487c8",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо! Будет готово завтра, заходи\nв часы работы."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_TAILOR_NEWITEM_000",
+   "key": "f24d0c14",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nАх да! Пришли новые товары, загляни при\nслучае! Может, что-то приглянется."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_TAILOR_NEWCOLLABO_000",
+   "key": "23a9f41c",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nТеперь у нас есть товары, сделанные вместе с <_____MYNAME_____>.\nНадеюсь, понравятся."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_START",
+   "key": "ce1ff785",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nАх да! У нас теперь можно упаковать подарок.\n<PAGE>\nПодарку в упаковке радуются ещё больше.\nЗдорово, правда?\n<PAGE>\nНадеюсь, пригодится!"
   }
  ]
 }

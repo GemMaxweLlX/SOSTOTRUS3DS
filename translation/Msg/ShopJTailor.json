@@ -2,6 +2,62 @@
  "file": "ShopJTailor",
  "entries": [
   {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_AVATARGET_001",
+   "key": "a41ca20f",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>! Вещь ждёт в шкафу."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_003",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_004",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_005",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_001",
+   "key": "6a038bb0",
+   "ru": "У тебя нет нужных материалов."
+  },
+  {
    "n": 19,
    "f": 2,
    "id": "MSG_SHOP_TAILOR_ITEM_002",

@@ -2,6 +2,41 @@
  "file": "CheckPoint",
  "entries": [
   {
+   "n": 10,
+   "f": 2,
+   "id": "MES_CHECK_ITEMBOX_03",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_CHECK_TOOLBOX_03",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_CHECK_SILO_03",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_CHECK_PANELDECK_04",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_04",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
    "n": 34,
    "f": 2,
    "id": "MES_CHECK_SHIPMENT_10",
@@ -23,6 +58,41 @@
    "ru": "Лулукоко"
   },
   {
+   "n": 44,
+   "f": 2,
+   "id": "MES_CHECK_BOOKSHELF_06",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_PETHOME_END",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_API_NO_00",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MSG_API_NO_SWAP",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_END",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
    "n": 155,
    "f": 2,
    "id": "MSG_FERTILIZWR_TANK_NO",
@@ -35,6 +105,27 @@
    "id": "MSG_FERTILIZWR_TANK_YES",
    "key": "4daa7349",
    "ru": "Да"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_PANEL_STAND_NO",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_TAKEMONEY_02",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "MES_SELECT_GATSHA_NO",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
   }
  ]
 }

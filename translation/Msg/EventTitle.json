@@ -2,11 +2,3868 @@
  "file": "EventTitle",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "Story_OP",
+   "key": "c188ed5f",
+   "ru": "Пролог"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "Story_OP_Departure",
+   "key": "63a03494",
+   "ru": "Начало пути"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "Story_OP_Memory",
+   "key": "f68ab0d3",
+   "ru": "Воспоминания"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "Story_Opening_1stDay",
+   "key": "63a03494",
+   "ru": "Начало пути"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "Story_Opening_2ndDay",
+   "key": "a8d2cf20",
+   "ru": "Прогулка по Уэстауну"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "Story_Opening_3rdDay",
+   "key": "d1264e76",
+   "ru": "На ферму"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "Story_Town_A_Release",
+   "key": "a8d2cf20",
+   "ru": "Прогулка по Уэстауну"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "Story_Farm_Release",
+   "key": "d1264e76",
+   "ru": "На ферму"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "Story_Town_S_Release",
+   "key": "1db0e7c6",
+   "ru": "В Лулукоко"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "Story_Town_J_Release",
+   "key": "6e23f43a",
+   "ru": "В Цуюкусу"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "Story_Town_A_RankD_Bridge",
+   "key": "fcba776e",
+   "ru": "Шаткий мост"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "Story_Town_A_RankD_Bridge_Clear",
+   "key": "e1044469",
+   "ru": "Починим мост!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "Story_Town_A_RankC_Belltower",
+   "key": "db7468d4",
+   "ru": "Недостроенная колокольня"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "Story_Town_A_RankC_Belltower_Clear",
+   "key": "4340bd28",
+   "ru": "Достроим колокольню!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "Story_Town_A_RankC_Collabo_Menu1",
+   "key": "04666370",
+   "ru": "Совместное блюдо с рестораном"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "Story_Town_A_RankC_Collabo_Menu1_Clear",
+   "key": "b54c5f09",
+   "ru": "Приготовим совместное блюдо!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "Story_Town_A_RankB_Bronze",
+   "key": "7ab86d45",
+   "ru": "Ржавый символ города"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "Story_Town_A_RankB_Bronze_Clear",
+   "key": "33d54dae",
+   "ru": "Почистим символ города!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "Story_Town_A_RankB_Collabo_Perfume",
+   "key": "a847ace9",
+   "ru": "Совместная работа с цветочным"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "Story_Town_A_RankB_Collabo_Perfume_Clear",
+   "key": "92772606",
+   "ru": "Сделаем совместную работу!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "Story_Town_A_RankA_Goddess",
+   "key": "6b4c42e7",
+   "ru": "Благодарность Десси"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "Story_Town_A_RankA_Goddess_Clear",
+   "key": "06095727",
+   "ru": "Построим статую Десси!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "Story_Town_A_RankA_Collabo_Menu2",
+   "key": "c52182e1",
+   "ru": "Совместное блюдо с рестораном 2"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "Story_Town_A_RankA_Collabo_Menu2_Clear",
+   "key": "ea7f9940",
+   "ru": "Приготовим совместное блюдо! 2"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "Story_Town_J_RankD_FarmBridge",
+   "key": "6ba7fab6",
+   "ru": "Повреждённый мост"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "Story_Town_J_RankD_FarmBridge_Clear",
+   "key": "90832614",
+   "ru": "Починим мост у рисовых полей!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "Story_Town_J_RankC_Spa",
+   "key": "79d94e84",
+   "ru": "Закрытая купальня"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "Story_Town_J_RankC_Spa_Clear",
+   "key": "a69e935b",
+   "ru": "Восстановим купальню!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "Story_Town_J_RankC_Collabo_Menu",
+   "key": "4ebcde0e",
+   "ru": "Совместная работа с чайной"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "Story_Town_J_RankC_Collabo_Menu_Clear",
+   "key": "b54c5f09",
+   "ru": "Приготовим совместное блюдо!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "Story_Town_J_RankB_Park",
+   "key": "c1ba22a7",
+   "ru": "Заброшенный парк"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "Story_Town_J_RankB_Park_Clear",
+   "key": "31c023a3",
+   "ru": "Приведём парк в порядок!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "Story_Town_J_RankB_Collabo_Kanzashi",
+   "key": "a29feb53",
+   "ru": "Совместная работа с ювелиром"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "Story_Town_J_RankB_Collabo_Kanzashi_Clear",
+   "key": "8a733f7d",
+   "ru": "Сделаем совместную вещь!"
+  },
+  {
    "n": 34,
    "f": 2,
    "id": "Story_Town_J_RankA_Inari",
    "key": "9a360e61",
    "ru": "Святилище Инари"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "Story_Town_J_RankA_Inari_Clear",
+   "key": "224b9aea",
+   "ru": "Уберём святилище Инари!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "Story_Town_J_RankA_Collabo_Spa",
+   "key": "931d50c2",
+   "ru": "Совместная работа с купальней"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "Story_Town_J_RankA_Collabo_Spa_Clear",
+   "key": "faf794c3",
+   "ru": "Сделаем совместную ванну!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "Story_Town_S_RankD_OutsideKitchen",
+   "key": "8a58e7f9",
+   "ru": "Грязная кухня"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "Story_Town_S_RankD_OutsideKitchen_Clear",
+   "key": "02282d02",
+   "ru": "Уберём общую кухню!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "Story_Town_S_RankC_Fire",
+   "key": "68ccf61a",
+   "ru": "Маленький костёр"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "Story_Town_S_RankC_Fire_Clear",
+   "key": "48954c25",
+   "ru": "Сделаем костёр получше!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "Story_Town_S_RankC_Collabo_FoodStuff",
+   "key": "5a463bc7",
+   "ru": "Совместная работа с продуктовым"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "Story_Town_S_RankC_Collabo_FoodStuff_Clear",
+   "key": "8a733f7d",
+   "ru": "Сделаем совместную вещь!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "Story_Town_S_RankB_InnAround",
+   "key": "f2086f42",
+   "ru": "Беспорядок у гостиницы"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "Story_Town_S_RankB_InnAround_Clear",
+   "key": "0d0c76bf",
+   "ru": "Украсим гостиницу!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "Story_Town_S_RankB_Collabo_Avatar",
+   "key": "c1d8529a",
+   "ru": "Возрождение старинной одежды"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "Story_Town_S_RankB_Collabo_Avatar_Clear",
+   "key": "cdd9ff97",
+   "ru": "Поможем возродить старинную одежду!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "Story_Town_S_RankA_Pier",
+   "key": "4be0ee89",
+   "ru": "Деревня без причала"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "Story_Town_S_RankA_Pier_Clear",
+   "key": "61682553",
+   "ru": "Построим причал!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "Story_Town_S_RankA_Collabo_Menu",
+   "key": "4904af65",
+   "ru": "Совместная работа с кафе у моря"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "Story_Town_S_RankA_Collabo_Menu_Clear",
+   "key": "b54c5f09",
+   "ru": "Приготовим совместное блюдо!"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "Story_RankS_Celebration_A",
+   "key": "fa90ea69",
+   "ru": "Узы с Уэстауном"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "Story_RankS_Celebration_J",
+   "key": "f7654104",
+   "ru": "Узы с Цуюкусой"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "Story_RankS_Celebration_S",
+   "key": "525463c5",
+   "ru": "Узы с Лулукоко"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "Story_TownRank_Ending",
+   "key": "272be531",
+   "ru": "Узы трёх городов"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "Story_Advice_1",
+   "key": "6303f26e",
+   "ru": "О советах фермеру"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "Story_Advice_1_Clear",
+   "key": "e507d172",
+   "ru": "Советы фермеру, часть 1: готово"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "Story_Advice_2",
+   "key": "056828c1",
+   "ru": "Советы фермеру, часть 2"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "Story_Advice_2_Clear",
+   "key": "6b88d691",
+   "ru": "Советы фермеру, часть 2: готово"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "Story_Advice_3",
+   "key": "e8f6d83b",
+   "ru": "Последний совет фермеру"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "Story_Ending_FarmRival",
+   "key": "d0ea32b7",
+   "ru": "День, когда сбылась мечта"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "Story_FarmRival_First",
+   "key": "4d8acd91",
+   "ru": "Встреча с загадочным человеком"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "Story_FarmRival_FirstLose",
+   "key": "65d2ed6b",
+   "ru": "Мы с тобой соперники?"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "Story_FarmRival_FirstWin",
+   "key": "65d2ed6b",
+   "ru": "Мы с тобой соперники?"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "Story_FarmRival_Odd",
+   "key": "e9125fb8",
+   "ru": "Схватка с соперником"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "Story_FarmRival_OddLose",
+   "key": "e9125fb8",
+   "ru": "Схватка с соперником"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "Story_FarmRival_OddWin",
+   "key": "e9125fb8",
+   "ru": "Схватка с соперником"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "Story_FarmRival_Advice3",
+   "key": "e9125fb8",
+   "ru": "Схватка с соперником"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "Story_FarmRival_Advice3Lose",
+   "key": "e9125fb8",
+   "ru": "Схватка с соперником"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "Story_FarmRival_Advice3Win",
+   "key": "e9125fb8",
+   "ru": "Схватка с соперником"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "Story_FarmRival_Earnest_First",
+   "key": "1929e897",
+   "ru": "Настоящая битва"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "Story_FarmRival_Earnest_FirstLose",
+   "key": "1929e897",
+   "ru": "Настоящая битва"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "Story_FarmRival_Earnest_FirstWin",
+   "key": "1929e897",
+   "ru": "Настоящая битва"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "Story_FarmRival_Earnest",
+   "key": "1929e897",
+   "ru": "Настоящая битва"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "Story_FarmRival_EarnestLose",
+   "key": "1929e897",
+   "ru": "Настоящая битва"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "Story_FarmRival_EarnestWin",
+   "key": "1929e897",
+   "ru": "Настоящая битва"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "Story_Sister_Coming_1",
+   "key": "a3d38b2b",
+   "ru": "Неожиданный визит"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "Story_Sister_Farm",
+   "key": "f713eebc",
+   "ru": "Экскурсия по ферме"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "Story_Sister_Leave_1",
+   "key": "51e1863d",
+   "ru": "До новой встречи"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "Story_Mother_Coming",
+   "key": "a3d38b2b",
+   "ru": "Неожиданный визит"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "Story_Mother_Talk",
+   "key": "889344dd",
+   "ru": "Разговор с мамой"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "Story_Mother_Leave",
+   "key": "51e1863d",
+   "ru": "До новой встречи"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "Story_Sister_Coming_2",
+   "key": "a3d38b2b",
+   "ru": "Неожиданный визит"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "Story_Sister_Leave_2",
+   "key": "51e1863d",
+   "ru": "До новой встречи"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "Story_Meal",
+   "key": "af0aec1f",
+   "ru": "Едим вместе"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "Story_FirstMeeting_Uncle",
+   "key": "b37c665c",
+   "ru": "Встреча с дядей Фрэнком"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "Story_Sleep_2day",
+   "key": "a8d2cf20",
+   "ru": "Прогулка по Уэстауну"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "Tutorial_Crops",
+   "key": "d1264e76",
+   "ru": "На ферму"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "Tutorial_Meal",
+   "key": "b37c665c",
+   "ru": "Встреча с дядей Фрэнком"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "Tutorial_PicUp_Chopping",
+   "key": "041c1a9a",
+   "ru": "Обучение: сбор и рубка"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "Tutorial_SaveLoad",
+   "key": "b37c665c",
+   "ru": "Встреча с дядей Фрэнком"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "Tutorial_Animal",
+   "key": "e8ceafa9",
+   "ru": "О животных"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "Tutorial_PartTime",
+   "key": "306f472e",
+   "ru": "О подработке"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "Tutorial_PartTime_J",
+   "key": "306f472e",
+   "ru": "О подработке"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "Tutorial_PartTime_S",
+   "key": "306f472e",
+   "ru": "О подработке"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "Tutorial_Fishing",
+   "key": "0b1d39c9",
+   "ru": "О рыбалке"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "Tutorial_TownRank",
+   "key": "5acb24ad",
+   "ru": "О ранге связи с городом"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "Tutorial_Panel",
+   "key": "dfe06ac8",
+   "ru": "О кругах фермы"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "Tutorial_Passing_Communication",
+   "key": "89ad3f85",
+   "ru": "О StreetPass"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "Tutorial_Basement",
+   "key": "3f3638b3",
+   "ru": "О погребе"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "Tutorial_Letter",
+   "key": "465a6e24",
+   "ru": "О почте"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "Tutorial_Ride",
+   "key": "572060e5",
+   "ru": "О транспорте"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "Tutorial_Confession",
+   "key": "71686921",
+   "ru": "О признании в любви"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "Tutorial_Proposal",
+   "key": "ba11781d",
+   "ru": "О предложении"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "Tutorial_Uncle",
+   "key": "9dcebdd8",
+   "ru": "Уроки дяди Фрэнка"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "Tutorial_Kitchen_Closet",
+   "key": "b2921831",
+   "ru": "Новое в доме"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "Tutorial_Hammer",
+   "key": "86d80dd1",
+   "ru": "Об улучшении инструментов"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "Tutorial_Tailor",
+   "key": "7d3871ec",
+   "ru": "О портном"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "Tutorial_PanelCombo",
+   "key": "e6b46da9",
+   "ru": "О комбо кругов фермы"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "Tutorial_TownRank_Lock",
+   "key": "57969720",
+   "ru": "О записке про ранг связи"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "Tutorial_TownRank_Prompt",
+   "key": "8107c32e",
+   "ru": "Проверка ранга связи"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "Tutorial_Advice_Prompt",
+   "key": "427f73ef",
+   "ru": "Совет дяди Фрэнка"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "Festival_Info_First_Crop",
+   "key": "c83bfbd9",
+   "ru": "Примем участие в Празднике урожая!"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "Festival_Info_First_Animal",
+   "key": "ebab3176",
+   "ru": "Примем участие в Празднике животных!"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "Festival_Info_First_Cooking",
+   "key": "dfb7010a",
+   "ru": "Примем участие в Кулинарной выставке!"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "Festival_Info_First_Pet",
+   "key": "c5689d6a",
+   "ru": "Примем участие в Параде питомцев!"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "Festival_Info_First_Fashion",
+   "key": "0f290f8e",
+   "ru": "Примем участие в Показе мод!"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "Festival_Info_First_A_Goddess",
+   "key": "e2e1a07c",
+   "ru": "Первый Праздник богини"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "Festival_Info_First_J_Inari",
+   "key": "d0b36c32",
+   "ru": "Первый Праздник изобилия"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "Festival_Info_First_S_Witch",
+   "key": "eedd92d5",
+   "ru": "Первый Праздник духов"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "Festival_Info_First_Drink",
+   "key": "d7a98914",
+   "ru": "Первый Праздник напитков"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "Festival_Info_First_Game",
+   "key": "34870f3b",
+   "ru": "Первая Трилимпиада"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "Festival_Info_First_A_Friendship",
+   "key": "f6c9ea7e",
+   "ru": "Первый Звёздный бал"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "Festival_Info_First_J_Friendship",
+   "key": "5a6dae1a",
+   "ru": "Первый Праздник звёзд"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "Festival_Info_First_S_Friendship",
+   "key": "c8a188b1",
+   "ru": "Первая Ночь морских огней"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "Festival_Info_First_NewYear",
+   "key": "ed2b4f6c",
+   "ru": "Первый Новогодний праздник"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "Festival_Info_Contest",
+   "key": "36a5c92a",
+   "ru": "Объявление о конкурсах"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "Festival_Info_A_Goddess",
+   "key": "15f9dbfe",
+   "ru": "Скоро Праздник богини"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "Festival_Info_J_Inari",
+   "key": "1ed1c957",
+   "ru": "Скоро Праздник изобилия"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "Festival_Info_S_Witch",
+   "key": "94f14d41",
+   "ru": "Скоро Праздник духов"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "Festival_Crops",
+   "key": "5f4b8601",
+   "ru": "Праздник урожая"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "Festival_Cooking",
+   "key": "25c748ae",
+   "ru": "Кулинарная выставка"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "Festival_Animal",
+   "key": "47411773",
+   "ru": "Праздник животных"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "Festival_Pet",
+   "key": "1466a036",
+   "ru": "Парад питомцев"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "Festival_Fashion",
+   "key": "80b8c53d",
+   "ru": "Показ мод"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "Festival_A_Goddess",
+   "key": "9425867c",
+   "ru": "Праздник богини"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "Festival_J_RiceEar",
+   "key": "02be9f0b",
+   "ru": "Праздник изобилия"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "Festival_S_Witch",
+   "key": "f6ba0295",
+   "ru": "Праздник духов"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "Festival_A_Drink",
+   "key": "6088a9f1",
+   "ru": "Праздник напитков"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "Festival_J_Drink",
+   "key": "6088a9f1",
+   "ru": "Праздник напитков"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "Festival_S_Drink",
+   "key": "6088a9f1",
+   "ru": "Праздник напитков"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "Festival_A_Game",
+   "key": "86f357f9",
+   "ru": "Трилимпиада"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "Festival_J_Game",
+   "key": "86f357f9",
+   "ru": "Трилимпиада"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "Festival_S_Game",
+   "key": "86f357f9",
+   "ru": "Трилимпиада"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "Festival_A_Friendship",
+   "key": "261edda9",
+   "ru": "Звёздный бал"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "Festival_J_Friendship",
+   "key": "ed4c8eff",
+   "ru": "Праздник звёзд"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "Festival_S_Friendship",
+   "key": "6f78840d",
+   "ru": "Ночь морских огней"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "Festival_A_NewYear",
+   "key": "b2fcca97",
+   "ru": "Новогодний праздник"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "Festival_J_NewYear",
+   "key": "b2fcca97",
+   "ru": "Новогодний праздник"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "Festival_S_NewYear",
+   "key": "b2fcca97",
+   "ru": "Новогодний праздник"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "Festival_Thanks",
+   "key": "79b0ede0",
+   "ru": "День Валентина"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "Festival_Pumpkin",
+   "key": "7c0a42b8",
+   "ru": "Тыквенный праздник"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "Resident_First_A_Doctor",
+   "key": "8db2237d",
+   "ru": "Приезд Форда"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "Resident_First_A_Farmer",
+   "key": "4db2ace2",
+   "ru": "Приезд Гектора и Колина"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "Resident_First_A_Goddess",
+   "key": "ed728886",
+   "ru": "Появление Десси"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "Resident_First_J_Chaser",
+   "key": "7ed4cd20",
+   "ru": "Приезд Юдзуки"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "Resident_First_J_Inari",
+   "key": "1f3b2534",
+   "ru": "Появление Инари"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "Resident_First_J_Teacher",
+   "key": "1d01b37b",
+   "ru": "Приезд Касуми"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "Resident_First_S_Angler",
+   "key": "b3025937",
+   "ru": "Приезд Хаулани и Тигре"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "Resident_A_Postman_1",
+   "key": "8e283b7f",
+   "ru": "Несравненная красота"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "Resident_A_Postman_2",
+   "key": "e1f7c2a6",
+   "ru": "Слабость Уэйна"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "Resident_A_Doctor_1",
+   "key": "2c9a51f9",
+   "ru": "Непонятливый доктор"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "Resident_A_Doctor_2",
+   "key": "c4121d88",
+   "ru": "От гения до глупца один шаг"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "Resident_J_Apprentice_1",
+   "key": "c8118190",
+   "ru": "Прятки"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "Resident_J_Apprentice_2",
+   "key": "eda03d6d",
+   "ru": "Цель на будущее"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "Resident_J_Chaser_1",
+   "key": "165c63a4",
+   "ru": "Тихая передышка"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "Resident_J_Chaser_2",
+   "key": "8e6884cb",
+   "ru": "Наводим порядок"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "Resident_S_Craftman_1",
+   "key": "a7678a4a",
+   "ru": "Трое друзей детства, часть 1"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "Resident_S_Craftman_2",
+   "key": "39b645d2",
+   "ru": "Лудус ― старший брат для всех"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "Resident_A_Florist_1",
+   "key": "927828ea",
+   "ru": "Язык цветов"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "Resident_A_Florist_2",
+   "key": "2e22b3c6",
+   "ru": "Мечтательница Лизетта"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "Resident_J_TeaGirl_1",
+   "key": "2571029c",
+   "ru": "Комари-болельщица"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "Resident_J_TeaGirl_2",
+   "key": "15fc76ca",
+   "ru": "Каждому нужно хобби"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "Resident_J_Teacher_1",
+   "key": "52efab87",
+   "ru": "Учительница, что не выносит мужчин"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "Resident_J_Teacher_2",
+   "key": "2151f178",
+   "ru": "Пропала страница..."
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "Resident_S_TwinOlder_1",
+   "key": "3e6edbf0",
+   "ru": "Трое друзей детства, часть 2"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "Resident_S_TwinOlder_2",
+   "key": "3ab028ea",
+   "ru": "Суровый образ"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "Resident_S_TwinYounger_1",
+   "key": "4969eb66",
+   "ru": "Трое друзей детства, часть 3"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "Resident_S_TwinYounger_2",
+   "key": "1133236a",
+   "ru": "День, когда она перестала видеть ауры"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "Resident_A_RestOldman",
+   "key": "8a44e835",
+   "ru": "Большая рыбалка!"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "Resident_A_RestHusbund",
+   "key": "aa555f2a",
+   "ru": "Нож Брэда"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "Resident_A_RestWife",
+   "key": "40cbdf3e",
+   "ru": "Война тартов"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "Resident_A_FarmOldwoman",
+   "key": "db9978da",
+   "ru": "Рыбный совет"
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "Resident_A_FarmMan",
+   "key": "440e17c0",
+   "ru": "Мамино печенье"
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "Resident_A_FarmSon",
+   "key": "95c162ea",
+   "ru": "Загадочная аппликация"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "Resident_A_Uncle",
+   "key": "f6e024f5",
+   "ru": "Роман Фрэнка?"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "Resident_A_StoreWoman",
+   "key": "d8948040",
+   "ru": "Оркестр Миранды"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "Resident_A_StoreDaughter",
+   "key": "8e0a8938",
+   "ru": "Отряд любовных рейнджеров Ноэля!"
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "Resident_J_FarmOldman",
+   "key": "2cc287b2",
+   "ru": "Подозрительное сборище?"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "Resident_J_FarmOldwoman",
+   "key": "b37f658f",
+   "ru": "Всеобщая Омиё"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "Resident_J_Wolesaler",
+   "key": "d0585359",
+   "ru": "Как сдержать гнев"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "Resident_J_MigrantGirl",
+   "key": "fefc2021",
+   "ru": "Сумомо платит долги"
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "Resident_J_TeaOwner",
+   "key": "5c00c791",
+   "ru": "Семейная ссора"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "Resident_J_StuffMan",
+   "key": "0f3d2d47",
+   "ru": "За покупками с Иттэцу"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "Resident_J_StuffWoman",
+   "key": "f1b5bcc0",
+   "ru": "Сидзу и Омиё"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "Resident_J_StuffSonOlder",
+   "key": "e74eca60",
+   "ru": "Истинные чувства Тацуми"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "Resident_J_StuffSonYounger",
+   "key": "4b2d2819",
+   "ru": "Любимые вещи Яити"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "Resident_S_InnOwner",
+   "key": "149b1219",
+   "ru": "Правила гостиницы"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "Resident_S_Fisher",
+   "key": "4dd4cded",
+   "ru": "Легендарные подвиги Захау"
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "Resident_S_FisherWife",
+   "key": "0927d40c",
+   "ru": "Запасы еды"
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "Resident_S_FisherSon",
+   "key": "c9caed31",
+   "ru": "Длинная тень"
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "Resident_S_FisherDaughter",
+   "key": "5491fe08",
+   "ru": "Блюдо Альмы"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "Resident_S_Historian",
+   "key": "e12c98e0",
+   "ru": "Истинные чувства"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "Resident_S_Assistant",
+   "key": "f799efdc",
+   "ru": "Бесценная неуклюжесть"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "Resident_S_Angler",
+   "key": "55fda396",
+   "ru": "Урок боевых искусств Хаулани"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "Resident_S_AnglerGrandson",
+   "key": "849bacca",
+   "ru": "Чем восхищаешься"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "Resident_A_Goddess",
+   "key": "97f18042",
+   "ru": "Тренировка уверенности от Десси"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "Resident_S_Witch",
+   "key": "d23fa78e",
+   "ru": "Обещание волшебных воинов (?)"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "Resident_J_Inari_1",
+   "key": "c2e43d83",
+   "ru": "Чаепитие Инари"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "Resident_J_Inari_2",
+   "key": "2029d85e",
+   "ru": "Жизнь без магии"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "Celebration_Birthday_A",
+   "key": "fedb68b9",
+   "ru": "Сюрприз!"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "Celebration_Birthday_J",
+   "key": "fedb68b9",
+   "ru": "Сюрприз!"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "Celebration_Birthday_S",
+   "key": "fedb68b9",
+   "ru": "Сюрприз!"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "Resident_MealTogether",
+   "key": "af0aec1f",
+   "ru": "Едим вместе"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "Love_A_Postman_1",
+   "key": "49348b91",
+   "ru": "Молоко и крекеры"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "Love_A_Postman_2",
+   "key": "179a4ea2",
+   "ru": "Неожиданное задание"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "Love_A_Postman_3",
+   "key": "5280208a",
+   "ru": "Желание на звезду"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "Love_A_Doctor_1",
+   "key": "61754570",
+   "ru": "Идеальное блюдо"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "Love_A_Doctor_2",
+   "key": "0846d90f",
+   "ru": "Любовь или болезнь?"
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "Love_A_Doctor_3",
+   "key": "8c578ae1",
+   "ru": "Мастер гостеприимства"
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "Love_J_Apprentice_1",
+   "key": "ec32d3fd",
+   "ru": "Страшные истории"
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "Love_J_Apprentice_2",
+   "key": "692712f5",
+   "ru": "Ловкий торговец"
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "Love_J_Apprentice_3",
+   "key": "33457acb",
+   "ru": "Репетиция спектакля"
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "Love_J_Chaser_1",
+   "key": "4869631e",
+   "ru": "Доброта Юдзуки"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "Love_J_Chaser_2",
+   "key": "ba5a520a",
+   "ru": "Творческий кризис"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "Love_J_Chaser_3",
+   "key": "12fc3cfb",
+   "ru": "Благодарность?"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "Love_S_Craftman_1",
+   "key": "34bea06c",
+   "ru": "Сломанная дверь"
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "Love_S_Craftman_2",
+   "key": "2ef773b2",
+   "ru": "Кошачья катастрофа"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "Love_S_Craftman_3",
+   "key": "53223fc4",
+   "ru": "Будущая жена Лудуса"
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "Love_A_Florist_1",
+   "key": "be10427e",
+   "ru": "Изо всех сил"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "Love_A_Florist_2",
+   "key": "da0c1efa",
+   "ru": "Награда за труд"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "Love_A_Florist_3",
+   "key": "9a38562b",
+   "ru": "Лизетта влюблена?"
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "Love_J_TeaGirl_1",
+   "key": "8670654e",
+   "ru": "В защиту фермеров"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "Love_J_TeaGirl_2",
+   "key": "65657405",
+   "ru": "Меланхолия Комари"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "Love_J_TeaGirl_3",
+   "key": "5608a0ea",
+   "ru": "Маленький росток"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "Love_J_Teacher_1",
+   "key": "8efee323",
+   "ru": "Учитель и ученица"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "Love_J_Teacher_2",
+   "key": "80a5edcb",
+   "ru": "Поимка негодника"
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "Love_J_Teacher_3",
+   "key": "e98d99e4",
+   "ru": "Это не может быть любовь..."
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "Love_S_TwinOlder_1",
+   "key": "d30b59ec",
+   "ru": "Хлопотный заказ"
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "Love_S_TwinOlder_2",
+   "key": "67df13aa",
+   "ru": "Расплата Илуки"
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "Love_S_TwinOlder_3",
+   "key": "4012e4df",
+   "ru": "Невысказанные вопросы"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "Love_S_TwinYounger_1",
+   "key": "44a45b9e",
+   "ru": "Любимое место для сна"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "Love_S_TwinYounger_2",
+   "key": "84e83690",
+   "ru": "Влюблённый цветок"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "Love_S_TwinYounger_3",
+   "key": "0f124e17",
+   "ru": "Добрая помощь"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "Love_J_Inari_1",
+   "key": "3301507f",
+   "ru": "Неуслышанные слова"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "Love_J_Inari_2",
+   "key": "81e665f5",
+   "ru": "Узы судьбы"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "Love_J_Inari_3",
+   "key": "27ff3aa2",
+   "ru": "Невероятное превращение"
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "Love_4A_Postman",
+   "key": "54e63303",
+   "ru": "Первый шаг"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "Love_4A_Doctor",
+   "key": "54e63303",
+   "ru": "Первый шаг"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "Love_4A_Apprentice",
+   "key": "54e63303",
+   "ru": "Первый шаг"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "Love_4A_Chaser",
+   "key": "54e63303",
+   "ru": "Первый шаг"
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "Love_4A_Craftman",
+   "key": "54e63303",
+   "ru": "Первый шаг"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "Love_4A_Florist",
+   "key": "54e63303",
+   "ru": "Первый шаг"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "Love_4A_Teacher",
+   "key": "54e63303",
+   "ru": "Первый шаг"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "Love_4A_TeaGirl",
+   "key": "54e63303",
+   "ru": "Первый шаг"
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "Love_4A_TwinOlder",
+   "key": "54e63303",
+   "ru": "Первый шаг"
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "Love_4A_TwinYounger",
+   "key": "54e63303",
+   "ru": "Первый шаг"
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "Love_4A_Inari",
+   "key": "4847d581",
+   "ru": "Столкновение двух миров"
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "Love_4B_Postman",
+   "key": "732780af",
+   "ru": "Их истинные чувства"
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "Love_4B_Doctor",
+   "key": "732780af",
+   "ru": "Их истинные чувства"
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "Love_4B_Apprentice",
+   "key": "732780af",
+   "ru": "Их истинные чувства"
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "Love_4B_Chaser",
+   "key": "732780af",
+   "ru": "Их истинные чувства"
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "Love_4B_Craftman",
+   "key": "732780af",
+   "ru": "Их истинные чувства"
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "Love_4B_Florist",
+   "key": "732780af",
+   "ru": "Их истинные чувства"
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "Love_4B_TeaGirl",
+   "key": "732780af",
+   "ru": "Их истинные чувства"
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "Love_4B_Teacher",
+   "key": "732780af",
+   "ru": "Их истинные чувства"
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "Love_4B_TwinOlder",
+   "key": "732780af",
+   "ru": "Их истинные чувства"
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "Love_4B_TwinYounger",
+   "key": "732780af",
+   "ru": "Их истинные чувства"
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "Love_4C_Postman",
+   "key": "940d2caa",
+   "ru": "Как идёт новая любовь"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "Love_4C_Doctor",
+   "key": "940d2caa",
+   "ru": "Как идёт новая любовь"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "Love_4C_Apprentice",
+   "key": "940d2caa",
+   "ru": "Как идёт новая любовь"
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "Love_4C_Chaser",
+   "key": "940d2caa",
+   "ru": "Как идёт новая любовь"
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "Love_4C_Craftman",
+   "key": "940d2caa",
+   "ru": "Как идёт новая любовь"
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "Love_4C_Florist",
+   "key": "940d2caa",
+   "ru": "Как идёт новая любовь"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "Love_4C_TeaGirl",
+   "key": "940d2caa",
+   "ru": "Как идёт новая любовь"
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "Love_4C_Teacher",
+   "key": "940d2caa",
+   "ru": "Как идёт новая любовь"
+  },
+  {
+   "n": 277,
+   "f": 2,
+   "id": "Love_4C_TwinOlder",
+   "key": "940d2caa",
+   "ru": "Как идёт новая любовь"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "Love_4C_TwinYounger",
+   "key": "940d2caa",
+   "ru": "Как идёт новая любовь"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "Love_4D_Postman",
+   "key": "7ff7fbbb",
+   "ru": "Второй шанс"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "Love_4D_Doctor",
+   "key": "7ff7fbbb",
+   "ru": "Второй шанс"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "Love_4D_Apprentice",
+   "key": "7ff7fbbb",
+   "ru": "Второй шанс"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "Love_4D_Chaser",
+   "key": "7ff7fbbb",
+   "ru": "Второй шанс"
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "Love_4D_Craftman",
+   "key": "7ff7fbbb",
+   "ru": "Второй шанс"
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "Love_4D_Florist",
+   "key": "7ff7fbbb",
+   "ru": "Второй шанс"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "Love_4D_TeaGirl",
+   "key": "7ff7fbbb",
+   "ru": "Второй шанс"
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "Love_4D_Teacher",
+   "key": "7ff7fbbb",
+   "ru": "Второй шанс"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "Love_4D_TwinOlder",
+   "key": "7ff7fbbb",
+   "ru": "Второй шанс"
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "Love_4D_TwinYounger",
+   "key": "7ff7fbbb",
+   "ru": "Второй шанс"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "Love_Cancel",
+   "key": "6124fa1c",
+   "ru": "Расставание"
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "Love_A_Postman_5",
+   "key": "0fc9feb9",
+   "ru": "Признание Уэйна"
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "Love_A_Postman_6",
+   "key": "68772fa7",
+   "ru": "Вкус ревности"
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "Love_A_Postman_7",
+   "key": "21515d57",
+   "ru": "Даже если ты не идеальна"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "Love_A_Doctor_5",
+   "key": "db256404",
+   "ru": "За что ты любишь <_____MYNAME_____>?"
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "Love_A_Doctor_6",
+   "key": "36a47961",
+   "ru": "Истинные намерения доктора"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "Love_A_Doctor_7",
+   "key": "8a0b5010",
+   "ru": "Хочется кого-то обнять"
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "Love_J_Apprentice_5",
+   "key": "2c04a21c",
+   "ru": "Подумай, прежде чем делать"
+  },
+  {
+   "n": 297,
+   "f": 2,
+   "id": "Love_J_Apprentice_6",
+   "key": "2d4036f9",
+   "ru": "Сувенир для семьи"
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "Love_J_Apprentice_7",
+   "key": "23e2728a",
+   "ru": "Большой шанс Хинаты"
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "Love_J_Chaser_5",
+   "key": "32b31a96",
+   "ru": "Прекрасная модель"
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "Love_J_Chaser_6",
+   "key": "33c10be2",
+   "ru": "Гадалка"
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "Love_J_Chaser_7",
+   "key": "16dd4c5a",
+   "ru": "Болезнь Юдзуки"
+  },
+  {
+   "n": 302,
+   "f": 2,
+   "id": "Love_S_Craftman_5",
+   "key": "981e2afd",
+   "ru": "Мастер на все руки"
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "Love_S_Craftman_6",
+   "key": "4c9d6f33",
+   "ru": "Привычки не меняются"
+  },
+  {
+   "n": 304,
+   "f": 2,
+   "id": "Love_S_Craftman_7",
+   "key": "7dd5cfb2",
+   "ru": "Тайная сторона Лудуса"
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "Love_A_Florist_5",
+   "key": "c95df849",
+   "ru": "Популярная девушка"
+  },
+  {
+   "n": 306,
+   "f": 2,
+   "id": "Love_A_Florist_6",
+   "key": "634de55a",
+   "ru": "Посмотри на меня"
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "Love_A_Florist_7",
+   "key": "4a7dc941",
+   "ru": "Влюблённые при луне"
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "Love_J_TeaGirl_5",
+   "key": "14ce01af",
+   "ru": "Моя дочь влюблена"
+  },
+  {
+   "n": 309,
+   "f": 2,
+   "id": "Love_J_TeaGirl_6",
+   "key": "86ad2e71",
+   "ru": "Странное чувство"
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "Love_J_TeaGirl_7",
+   "key": "8d97a86d",
+   "ru": "Путешествуем вместе"
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "Love_J_Teacher_5",
+   "key": "d7853b8e",
+   "ru": "Беда Касуми"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "Love_J_Teacher_6",
+   "key": "740c0caa",
+   "ru": "Урок каллиграфии"
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "Love_J_Teacher_7",
+   "key": "f4bb70e8",
+   "ru": "Поход в святилище"
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "Love_S_TwinOlder_5",
+   "key": "9202c02e",
+   "ru": "Страдания Силуки"
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "Love_S_TwinOlder_6",
+   "key": "a8b07d9b",
+   "ru": "Особая стряпня Илуки"
+  },
+  {
+   "n": 316,
+   "f": 2,
+   "id": "Love_S_TwinOlder_7",
+   "key": "db524c3a",
+   "ru": "Обряд древних руин"
+  },
+  {
+   "n": 317,
+   "f": 2,
+   "id": "Love_S_TwinYounger_5",
+   "key": "6cfd3d3e",
+   "ru": "Страдания Илуки"
+  },
+  {
+   "n": 318,
+   "f": 2,
+   "id": "Love_S_TwinYounger_6",
+   "key": "bfe7a4f4",
+   "ru": "В поисках редкой розы"
+  },
+  {
+   "n": 319,
+   "f": 2,
+   "id": "Love_S_TwinYounger_7",
+   "key": "b34fe27d",
+   "ru": "Полярное сияние"
+  },
+  {
+   "n": 320,
+   "f": 2,
+   "id": "Love_8A_Postman",
+   "key": "f447e793",
+   "ru": "Сейчас и навсегда"
+  },
+  {
+   "n": 321,
+   "f": 2,
+   "id": "Love_8A_Doctor",
+   "key": "f447e793",
+   "ru": "Сейчас и навсегда"
+  },
+  {
+   "n": 322,
+   "f": 2,
+   "id": "Love_8A_Apprentice",
+   "key": "f447e793",
+   "ru": "Сейчас и навсегда"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "Love_8A_Chaser",
+   "key": "f447e793",
+   "ru": "Сейчас и навсегда"
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "Love_8A_Craftman",
+   "key": "f447e793",
+   "ru": "Сейчас и навсегда"
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "Love_8A_Florist",
+   "key": "f447e793",
+   "ru": "Сейчас и навсегда"
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "Love_8A_TeaGirl",
+   "key": "f447e793",
+   "ru": "Сейчас и навсегда"
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "Love_8A_Teacher",
+   "key": "f447e793",
+   "ru": "Сейчас и навсегда"
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "Love_8A_TwinOlder",
+   "key": "f447e793",
+   "ru": "Сейчас и навсегда"
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "Love_8A_TwinYounger",
+   "key": "f447e793",
+   "ru": "Сейчас и навсегда"
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "Love_8A_Inari",
+   "key": "69367a81",
+   "ru": "Внезапная буря"
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "Love_8B_Postman",
+   "key": "70535543",
+   "ru": "Вечное обещание"
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "Love_8B_Doctor",
+   "key": "70535543",
+   "ru": "Вечное обещание"
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "Love_8B_Apprentice",
+   "key": "70535543",
+   "ru": "Вечное обещание"
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "Love_8B_Chaser",
+   "key": "70535543",
+   "ru": "Вечное обещание"
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "Love_8B_Craftman",
+   "key": "70535543",
+   "ru": "Вечное обещание"
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "Love_8B_Florist",
+   "key": "70535543",
+   "ru": "Вечное обещание"
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "Love_8B_TeaGirl",
+   "key": "70535543",
+   "ru": "Вечное обещание"
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "Love_8B_Teacher",
+   "key": "70535543",
+   "ru": "Вечное обещание"
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "Love_8B_TwinOlder",
+   "key": "70535543",
+   "ru": "Вечное обещание"
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "Love_8B_TwinYounger",
+   "key": "70535543",
+   "ru": "Вечное обещание"
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "Love_8C_Postman",
+   "key": "2e0235f9",
+   "ru": "Строим будущее вместе"
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "Love_8C_Doctor",
+   "key": "2e0235f9",
+   "ru": "Строим будущее вместе"
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "Love_8C_Apprentice",
+   "key": "2e0235f9",
+   "ru": "Строим будущее вместе"
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "Love_8C_Chaser",
+   "key": "2e0235f9",
+   "ru": "Строим будущее вместе"
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "Love_8C_Craftman",
+   "key": "2e0235f9",
+   "ru": "Строим будущее вместе"
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "Love_8C_Florist",
+   "key": "2e0235f9",
+   "ru": "Строим будущее вместе"
+  },
+  {
+   "n": 347,
+   "f": 2,
+   "id": "Love_8C_TeaGirl",
+   "key": "2e0235f9",
+   "ru": "Строим будущее вместе"
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "Love_8C_Teacher",
+   "key": "2e0235f9",
+   "ru": "Строим будущее вместе"
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "Love_8C_TwinOlder",
+   "key": "2e0235f9",
+   "ru": "Строим будущее вместе"
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "Love_8C_TwinYounger",
+   "key": "2e0235f9",
+   "ru": "Строим будущее вместе"
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "Love_A_Blessing",
+   "key": "9d351d5f",
+   "ru": "Радостная новость"
+  },
+  {
+   "n": 352,
+   "f": 2,
+   "id": "Love_J_Blessing",
+   "key": "9d351d5f",
+   "ru": "Радостная новость"
+  },
+  {
+   "n": 353,
+   "f": 2,
+   "id": "Love_S_Blessing",
+   "key": "9d351d5f",
+   "ru": "Радостная новость"
+  },
+  {
+   "n": 354,
+   "f": 2,
+   "id": "Marriage_A",
+   "key": "87414707",
+   "ru": "Свадьба"
+  },
+  {
+   "n": 355,
+   "f": 2,
+   "id": "Marriage_J",
+   "key": "87414707",
+   "ru": "Свадьба"
+  },
+  {
+   "n": 356,
+   "f": 2,
+   "id": "Marriage_S",
+   "key": "87414707",
+   "ru": "Свадьба"
+  },
+  {
+   "n": 357,
+   "f": 2,
+   "id": "Tutorial_Marriage",
+   "key": "29d9d315",
+   "ru": "Договоримся о правилах"
+  },
+  {
+   "n": 358,
+   "f": 2,
+   "id": "Marriage_J_Inari",
+   "key": "87414707",
+   "ru": "Свадьба"
+  },
+  {
+   "n": 359,
+   "f": 2,
+   "id": "Tutorial_Marriage_J_Inari",
+   "key": "daf8ae57",
+   "ru": "Начало новых отношений"
+  },
+  {
+   "n": 360,
+   "f": 2,
+   "id": "Love_Birthday_Lover",
+   "key": "4b44e8fe",
+   "ru": "Праздник для любимого"
+  },
+  {
+   "n": 361,
+   "f": 2,
+   "id": "Love_Birthday_Pair",
+   "key": "9f67324d",
+   "ru": "Общий день рождения"
+  },
+  {
+   "n": 362,
+   "f": 2,
+   "id": "Love_Birthday_Player",
+   "key": "60931f20",
+   "ru": "Чудесный день рождения"
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "Couple_A_Postman_1",
+   "key": "acc867ae",
+   "ru": "Большая вечеринка Уэйна"
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "Couple_A_Doctor_1",
+   "key": "a29befff",
+   "ru": "Единственный доктор в городе"
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "Couple_J_Apprentice_1",
+   "key": "8fe6a3c4",
+   "ru": "Письмо из дома"
+  },
+  {
+   "n": 366,
+   "f": 2,
+   "id": "Couple_J_Chaser_1",
+   "key": "c4c387b2",
+   "ru": "Прогулка по воспоминаниям"
+  },
+  {
+   "n": 367,
+   "f": 2,
+   "id": "Couple_S_Craftman_1",
+   "key": "429bcf12",
+   "ru": "Подозрительное поведение"
+  },
+  {
+   "n": 368,
+   "f": 2,
+   "id": "Couple_A_Florist_1",
+   "key": "bc712f34",
+   "ru": "Нежные мгновения"
+  },
+  {
+   "n": 369,
+   "f": 2,
+   "id": "Couple_J_TeaGirl_1",
+   "key": "c87dbe92",
+   "ru": "Комари взрослеет"
+  },
+  {
+   "n": 370,
+   "f": 2,
+   "id": "Couple_J_Teacher_1",
+   "key": "ede6bacb",
+   "ru": "Домашние правила"
+  },
+  {
+   "n": 371,
+   "f": 2,
+   "id": "Couple_S_TwinOlder_1",
+   "key": "27a9ca23",
+   "ru": "Что по-настоящему идеально"
+  },
+  {
+   "n": 372,
+   "f": 2,
+   "id": "Couple_S_TwinYounger_1",
+   "key": "db40f131",
+   "ru": "Цветок, что цветёт на солнце"
+  },
+  {
+   "n": 373,
+   "f": 2,
+   "id": "Couple_J_Inari_1",
+   "key": "45296579",
+   "ru": "Отдых Инари"
+  },
+  {
+   "n": 374,
+   "f": 2,
+   "id": "Pregnancy",
+   "key": "3f0997ea",
+   "ru": "От свадьбы к семье"
+  },
+  {
+   "n": 375,
+   "f": 2,
+   "id": "ChildBirth",
+   "key": "baa86504",
+   "ru": "Новая семья"
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "Child_Growth1",
+   "key": "9ab73bba",
+   "ru": "Как быстро они растут"
+  },
+  {
+   "n": 377,
+   "f": 2,
+   "id": "Child_Growth2",
+   "key": "9ab73bba",
+   "ru": "Как быстро они растут"
+  },
+  {
+   "n": 378,
+   "f": 2,
+   "id": "Family_Birthday_Child",
+   "key": "9661e16c",
+   "ru": "День рождения"
+  },
+  {
+   "n": 379,
+   "f": 2,
+   "id": "Family_Child_Thanks",
+   "key": "40e756f2",
+   "ru": "Благодарность"
+  },
+  {
+   "n": 380,
+   "f": 2,
+   "id": "Family_Picnic",
+   "key": "425e5e81",
+   "ru": "Семейный пикник"
+  },
+  {
+   "n": 381,
+   "f": 2,
+   "id": "Family_MealTurn",
+   "key": "ef24e7a3",
+   "ru": "Обед с семьёй"
+  },
+  {
+   "n": 382,
+   "f": 2,
+   "id": "Family_MealTurnPartner",
+   "key": "ef24e7a3",
+   "ru": "Обед с семьёй"
+  },
+  {
+   "n": 383,
+   "f": 2,
+   "id": "Family_Birthday_Marriage",
+   "key": "1d988200",
+   "ru": "День рождения супруга"
+  },
+  {
+   "n": 384,
+   "f": 2,
+   "id": "Family_Birthday_Pair",
+   "key": "9f67324d",
+   "ru": "Общий день рождения"
+  },
+  {
+   "n": 385,
+   "f": 2,
+   "id": "Family_Birthday_Player",
+   "key": "cc750e47",
+   "ru": "Счастливый день рождения"
+  },
+  {
+   "n": 386,
+   "f": 2,
+   "id": "Wedding_Anniversary",
+   "key": "eb5aa53f",
+   "ru": "Годовщина свадьбы"
+  },
+  {
+   "n": 387,
+   "f": 2,
+   "id": "Animal_Birth",
+   "key": "bac76977",
+   "ru": "Новая жизнь"
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "Animal_DeathOld",
+   "key": "2b56a6bd",
+   "ru": "Последний общий миг"
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "Animal_DeathSick",
+   "key": "2b56a6bd",
+   "ru": "Последний общий миг"
+  },
+  {
+   "n": 390,
+   "f": 2,
+   "id": "Animal_Hen_Birth",
+   "key": "bac76977",
+   "ru": "Новая жизнь"
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "Animal_Hen_DeathOld",
+   "key": "2b56a6bd",
+   "ru": "Последний общий миг"
+  },
+  {
+   "n": 392,
+   "f": 2,
+   "id": "Animal_Hen_DeathSick",
+   "key": "2b56a6bd",
+   "ru": "Последний общий миг"
+  },
+  {
+   "n": 393,
+   "f": 2,
+   "id": "Soulmate_Decided",
+   "key": "5fd0581e",
+   "ru": "Решение о спутнике"
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "Soulmate_Anniversary",
+   "key": "078ca20b",
+   "ru": "Годовщина со спутником"
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "Animal_Pet_EyeSight_1",
+   "key": "6087c743",
+   "ru": "Найди Люсию!"
+  },
+  {
+   "n": 396,
+   "f": 2,
+   "id": "Animal_Pet_EyeSight_A_Beginning",
+   "key": "eeb5d953",
+   "ru": "Превращение <_____MYNAME_____>!"
+  },
+  {
+   "n": 397,
+   "f": 2,
+   "id": "Animal_Pet_EyeSight_J_Beginning",
+   "key": "eeb5d953",
+   "ru": "Превращение <_____MYNAME_____>!"
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "Animal_Pet_EyeSight_S_Beginning",
+   "key": "eeb5d953",
+   "ru": "Превращение <_____MYNAME_____>!"
+  },
+  {
+   "n": 399,
+   "f": 2,
+   "id": "Pet_EyeSight_A_1",
+   "key": "01508fd4",
+   "ru": "Заботы гризли"
+  },
+  {
+   "n": 400,
+   "f": 2,
+   "id": "Pet_EyeSight_A_2",
+   "key": "33fd9a28",
+   "ru": "Форд против орла"
+  },
+  {
+   "n": 401,
+   "f": 2,
+   "id": "Pet_EyeSight_A_3",
+   "key": "01095109",
+   "ru": "Умный Бадди и робкий сын"
+  },
+  {
+   "n": 402,
+   "f": 2,
+   "id": "Pet_EyeSight_A_4",
+   "key": "3aa77d74",
+   "ru": "Соседская лужайка какая-то..."
+  },
+  {
+   "n": 403,
+   "f": 2,
+   "id": "Pet_EyeSight_A_5",
+   "key": "06da1676",
+   "ru": "Любовь с первого взгляда?"
+  },
+  {
+   "n": 404,
+   "f": 2,
+   "id": "Pet_EyeSight_J_1",
+   "key": "62e4fe62",
+   "ru": "Как стать вожаком"
+  },
+  {
+   "n": 405,
+   "f": 2,
+   "id": "Pet_EyeSight_J_2",
+   "key": "bb5bcc7e",
+   "ru": "Перевоплощения тануки"
+  },
+  {
+   "n": 406,
+   "f": 2,
+   "id": "Pet_EyeSight_J_3",
+   "key": "7d27b58d",
+   "ru": "Яити и воробей"
+  },
+  {
+   "n": 407,
+   "f": 2,
+   "id": "Pet_EyeSight_J_4",
+   "key": "112032b7",
+   "ru": "Воробей становится учеником"
+  },
+  {
+   "n": 408,
+   "f": 2,
+   "id": "Pet_EyeSight_J_5",
+   "key": "0671c311",
+   "ru": "Лучший жареный тофу"
+  },
+  {
+   "n": 409,
+   "f": 2,
+   "id": "Pet_EyeSight_S_1",
+   "key": "e1771a39",
+   "ru": "Наблюдение за китоглавом"
+  },
+  {
+   "n": 410,
+   "f": 2,
+   "id": "Pet_EyeSight_S_2",
+   "key": "1cbe39cf",
+   "ru": "Данте и Рене"
+  },
+  {
+   "n": 411,
+   "f": 2,
+   "id": "Pet_EyeSight_S_3",
+   "key": "7249b487",
+   "ru": "Рыцарь Парора"
+  },
+  {
+   "n": 412,
+   "f": 2,
+   "id": "Pet_EyeSight_S_4",
+   "key": "8ac360df",
+   "ru": "Тайная поклонница Тигре"
+  },
+  {
+   "n": 413,
+   "f": 2,
+   "id": "Pet_EyeSight_S_5",
+   "key": "92e3bd71",
+   "ru": "Кто лучший?"
+  },
+  {
+   "n": 414,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Cacatua_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 415,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Cacatua_2",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 416,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Cacatua_3",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 417,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Cacatua_4",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 418,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Eagle_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 419,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Ermine_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 420,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Ermine_2",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 421,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Fox_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 422,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Fox_2",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 423,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Grizzly_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 424,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Grizzly_2",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 425,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Kiji_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 426,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Monkey_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 427,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Monkey_2",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 428,
+   "f": 2,
+   "id": "WildAnimal_Thanks_RacoonDog_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 429,
+   "f": 2,
+   "id": "WildAnimal_Thanks_RacoonDog_2",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 430,
+   "f": 2,
+   "id": "WildAnimal_Thanks_RainbowBird_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 431,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Shoebill_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 432,
+   "f": 2,
+   "id": "WildAnimal_Thanks_TreeSparrow_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 433,
+   "f": 2,
+   "id": "WildAnimal_Thanks_TreeSparrow_2",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 434,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Turtle_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 435,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Verreauxi_1",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 436,
+   "f": 2,
+   "id": "WildAnimal_Thanks_Hamutaro",
+   "key": "46b39190",
+   "ru": "Символ дружбы"
+  },
+  {
+   "n": 437,
+   "f": 2,
+   "id": "Hamutaro_Anniversary",
+   "key": "d06d4cc8",
+   "ru": "Сегодня годовщина!"
+  },
+  {
+   "n": 438,
+   "f": 2,
+   "id": "Hamutaro_First_Contact",
+   "key": "e56ef653",
+   "ru": "Куси-куси... Хэкэ?"
+  },
+  {
+   "n": 439,
+   "f": 2,
+   "id": "System_Historian_Encounter",
+   "key": "5926f88e",
+   "ru": "Приезд Митры и Лотуса"
+  },
+  {
+   "n": 440,
+   "f": 2,
+   "id": "System_Historian_Reseach",
+   "key": "355caa83",
+   "ru": "Итоги исследований Митры"
+  },
+  {
+   "n": 441,
+   "f": 2,
+   "id": "System_Witch_Encounter",
+   "key": "6c42c021",
+   "ru": "Появление Ведьмочки"
+  },
+  {
+   "n": 442,
+   "f": 2,
+   "id": "System_Temple_Mystery",
+   "key": "5f11e65f",
+   "ru": "Тайна древних руин"
+  },
+  {
+   "n": 443,
+   "f": 2,
+   "id": "System_Get_Lithograph_Dealer",
+   "key": "f3ec0f8b",
+   "ru": "Новая гравюра в руках"
+  },
+  {
+   "n": 444,
+   "f": 2,
+   "id": "System_Get_Lithograph_Fes",
+   "key": "f3ec0f8b",
+   "ru": "Новая гравюра в руках"
+  },
+  {
+   "n": 445,
+   "f": 2,
+   "id": "System_Get_Lithograph_Historian",
+   "key": "f3ec0f8b",
+   "ru": "Новая гравюра в руках"
+  },
+  {
+   "n": 446,
+   "f": 2,
+   "id": "System_Codebreak_Start",
+   "key": "1209143d",
+   "ru": "Начинаем расшифровку!"
+  },
+  {
+   "n": 447,
+   "f": 2,
+   "id": "System_Codebreak_NoMoney",
+   "key": "6ddfaa3a",
+   "ru": "Не хватает денег на исследования"
+  },
+  {
+   "n": 448,
+   "f": 2,
+   "id": "System_Codebreak_TakeMoney",
+   "key": "f4696d14",
+   "ru": "Я принёс деньги"
+  },
+  {
+   "n": 449,
+   "f": 2,
+   "id": "System_Codebreak_Finish",
+   "key": "06dfa067",
+   "ru": "Расшифровка готова!"
+  },
+  {
+   "n": 450,
+   "f": 2,
+   "id": "System_Temple_Mystery_Clear",
+   "key": "09c908ca",
+   "ru": "Тайна раскрыта!"
+  },
+  {
+   "n": 451,
+   "f": 2,
+   "id": "System_Temple_Mystery_AllClear",
+   "key": "679e5a50",
+   "ru": "Правда о древних руинах"
+  },
+  {
+   "n": 452,
+   "f": 2,
+   "id": "System_Meal_Restaurant",
+   "key": "edfe3867",
+   "ru": "Обед в ресторане"
+  },
+  {
+   "n": 453,
+   "f": 2,
+   "id": "System_Meal_TeaHouse",
+   "key": "64d2bd51",
+   "ru": "Обед в чайной"
+  },
+  {
+   "n": 454,
+   "f": 2,
+   "id": "System_Meal_TeaHouseOut",
+   "key": "64d2bd51",
+   "ru": "Обед в чайной"
+  },
+  {
+   "n": 455,
+   "f": 2,
+   "id": "System_Meal_BeachBar",
+   "key": "b03e4a17",
+   "ru": "Обед в кафе у моря"
+  },
+  {
+   "n": 456,
+   "f": 2,
+   "id": "System_Meal_SouthInn",
+   "key": "f6caaebc",
+   "ru": "Завтрак в гостинице"
+  },
+  {
+   "n": 457,
+   "f": 2,
+   "id": "System_Down_Uncle",
+   "key": "f9a5d496",
+   "ru": "Под присмотром Фрэнка"
+  },
+  {
+   "n": 458,
+   "f": 2,
+   "id": "System_Down_Doctor",
+   "key": "b3844a63",
+   "ru": "Очнувшись..."
+  },
+  {
+   "n": 459,
+   "f": 2,
+   "id": "System_HP_Information_1",
+   "key": "45caa457",
+   "ru": "Награда от Десси"
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "System_HP_Information_2",
+   "key": "45caa457",
+   "ru": "Награда от Десси"
+  },
+  {
+   "n": 461,
+   "f": 2,
+   "id": "System_HP_Information_3",
+   "key": "45caa457",
+   "ru": "Награда от Десси"
+  },
+  {
+   "n": 462,
+   "f": 2,
+   "id": "System_HP_Information_4",
+   "key": "45caa457",
+   "ru": "Награда от Десси"
+  },
+  {
+   "n": 463,
+   "f": 2,
+   "id": "System_HP_Information_5",
+   "key": "45caa457",
+   "ru": "Награда от Десси"
+  },
+  {
+   "n": 464,
+   "f": 2,
+   "id": "System_Insect_Reward",
+   "key": "a9c6c41c",
+   "ru": "Подарок от Десси"
+  },
+  {
+   "n": 465,
+   "f": 2,
+   "id": "System_Change_CallName",
+   "key": "1a8999c3",
+   "ru": "Что в имени?"
+  },
+  {
+   "n": 466,
+   "f": 2,
+   "id": "Parttime_BrushAmericaFarmOldwoman",
+   "key": "3d2b93b6",
+   "ru": "Подработка: чистка животных"
+  },
+  {
+   "n": 467,
+   "f": 2,
+   "id": "Parttime_BrushUncle",
+   "key": "3d2b93b6",
+   "ru": "Подработка: чистка животных"
+  },
+  {
+   "n": 468,
+   "f": 2,
+   "id": "Parttime_CatchFisherWife",
+   "key": "52c0e9ff",
+   "ru": "Подработка: проверка ловушки"
+  },
+  {
+   "n": 469,
+   "f": 2,
+   "id": "Parttime_CleanUpAssistant",
+   "key": "96f59f52",
+   "ru": "Подработка: уборка"
+  },
+  {
+   "n": 470,
+   "f": 2,
+   "id": "Parttime_ClinicalTrialDoctor",
+   "key": "71592952",
+   "ru": "Подработка: испытуемый"
+  },
+  {
+   "n": 471,
+   "f": 2,
+   "id": "Parttime_ClippingAmericaFarmOldwoman",
+   "key": "02cff480",
+   "ru": "Подработка: стрижка животных"
+  },
+  {
+   "n": 472,
+   "f": 2,
+   "id": "Parttime_ClippingUncle",
+   "key": "02cff480",
+   "ru": "Подработка: стрижка животных"
+  },
+  {
+   "n": 473,
+   "f": 2,
+   "id": "Parttime_HarvestAmericaFarmOldwoman",
+   "key": "04172533",
+   "ru": "Подработка: сбор урожая"
+  },
+  {
+   "n": 474,
+   "f": 2,
+   "id": "Parttime_HarvestDoctor",
+   "key": "04172533",
+   "ru": "Подработка: сбор урожая"
+  },
+  {
+   "n": 475,
+   "f": 2,
+   "id": "Parttime_HarvestFisherWife",
+   "key": "04172533",
+   "ru": "Подработка: сбор урожая"
+  },
+  {
+   "n": 476,
+   "f": 2,
+   "id": "Parttime_HarvestJapanFarmOldman",
+   "key": "04172533",
+   "ru": "Подработка: сбор урожая"
+  },
+  {
+   "n": 477,
+   "f": 2,
+   "id": "Parttime_HarvestStuffWoman",
+   "key": "04172533",
+   "ru": "Подработка: сбор урожая"
+  },
+  {
+   "n": 478,
+   "f": 2,
+   "id": "Parttime_HarvestUncle",
+   "key": "04172533",
+   "ru": "Подработка: сбор урожая"
+  },
+  {
+   "n": 479,
+   "f": 2,
+   "id": "Parttime_MilkingAmericaFarmOldwoman",
+   "key": "c3846a23",
+   "ru": "Подработка: дойка"
+  },
+  {
+   "n": 480,
+   "f": 2,
+   "id": "Parttime_MilkingUncle",
+   "key": "c3846a23",
+   "ru": "Подработка: дойка"
+  },
+  {
+   "n": 481,
+   "f": 2,
+   "id": "Parttime_SplitWoodAngler",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 482,
+   "f": 2,
+   "id": "Parttime_SplitWoodAssistant",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 483,
+   "f": 2,
+   "id": "Parttime_SplitWoodDoctor",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 484,
+   "f": 2,
+   "id": "Parttime_SplitWoodFisherWife",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 485,
+   "f": 2,
+   "id": "Parttime_SplitWoodFlorist",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 486,
+   "f": 2,
+   "id": "Parttime_SplitWoodInnOwner",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 487,
+   "f": 2,
+   "id": "Parttime_SplitWoodJapanFarmOldman",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 488,
+   "f": 2,
+   "id": "Parttime_SplitWoodMob_Mutsu",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 489,
+   "f": 2,
+   "id": "Parttime_SplitWoodRestaurantWife",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 490,
+   "f": 2,
+   "id": "Parttime_SplitWoodStoreWoman",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 491,
+   "f": 2,
+   "id": "Parttime_SplitWoodStuffWoman",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 492,
+   "f": 2,
+   "id": "Parttime_SplitWoodTeacher",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 493,
+   "f": 2,
+   "id": "Parttime_SplitWoodTeaOwner",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 494,
+   "f": 2,
+   "id": "Parttime_SplitWoodTwinOlder",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 495,
+   "f": 2,
+   "id": "Parttime_SplitWoodTwinYounger",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 496,
+   "f": 2,
+   "id": "Parttime_SplitWoodWolesaler",
+   "key": "dab04b28",
+   "ru": "Подработка: колка дров"
+  },
+  {
+   "n": 497,
+   "f": 2,
+   "id": "Parttime_SplitWoodEvent_Collabo",
+   "key": "76aad296",
+   "ru": "Загадочная работа"
+  },
+  {
+   "n": 498,
+   "f": 2,
+   "id": "Parttime_SplitWoodEvent_Collabo2",
+   "key": "76aad296",
+   "ru": "Загадочная работа"
+  },
+  {
+   "n": 499,
+   "f": 2,
+   "id": "Parttime_WateringDoctor",
+   "key": "b4122d63",
+   "ru": "Подработка: полив"
+  },
+  {
+   "n": 500,
+   "f": 2,
+   "id": "Parttime_WateringStuffWoman",
+   "key": "b4122d63",
+   "ru": "Подработка: полив"
+  },
+  {
+   "n": 501,
+   "f": 2,
+   "id": "Parttime_WateringUncle",
+   "key": "b4122d63",
+   "ru": "Подработка: полив"
+  },
+  {
+   "n": 502,
+   "f": 2,
+   "id": "Parttime_WeederAmericaFarmOldwoman",
+   "key": "821ea13d",
+   "ru": "Подработка: прополка"
+  },
+  {
+   "n": 503,
+   "f": 2,
+   "id": "Parttime_WeederAssistant",
+   "key": "821ea13d",
+   "ru": "Подработка: прополка"
+  },
+  {
+   "n": 504,
+   "f": 2,
+   "id": "Parttime_WeederDoctor",
+   "key": "821ea13d",
+   "ru": "Подработка: прополка"
+  },
+  {
+   "n": 505,
+   "f": 2,
+   "id": "Parttime_WeederJapanFarmOldman",
+   "key": "821ea13d",
+   "ru": "Подработка: прополка"
+  },
+  {
+   "n": 506,
+   "f": 2,
+   "id": "Parttime_WeederStuffWoman",
+   "key": "821ea13d",
+   "ru": "Подработка: прополка"
+  },
+  {
+   "n": 507,
+   "f": 2,
+   "id": "Parttime_WeederTwinOlder",
+   "key": "821ea13d",
+   "ru": "Подработка: прополка"
+  },
+  {
+   "n": 508,
+   "f": 2,
+   "id": "Parttime_WeederEvent_Collabo",
+   "key": "76aad296",
+   "ru": "Загадочная работа"
+  },
+  {
+   "n": 509,
+   "f": 2,
+   "id": "Parttime_WeederEvent_Collabo2",
+   "key": "76aad296",
+   "ru": "Загадочная работа"
+  },
+  {
+   "n": 510,
+   "f": 2,
+   "id": "System_ShopStateChangeAmericaMain",
+   "key": "e845d1a6",
+   "ru": "Открыто"
+  },
+  {
+   "n": 511,
+   "f": 2,
+   "id": "System_ShopStateChangeJapanMain",
+   "key": "e845d1a6",
+   "ru": "Открыто"
+  },
+  {
+   "n": 512,
+   "f": 2,
+   "id": "System_ShopStateChangeSouthMain",
+   "key": "e845d1a6",
+   "ru": "Открыто"
+  },
+  {
+   "n": 513,
+   "f": 2,
+   "id": "System_ShopStateChangeSouthSub",
+   "key": "e845d1a6",
+   "ru": "Открыто"
+  },
+  {
+   "n": 514,
+   "f": 2,
+   "id": "Create_BuildMyHouseExtension",
+   "key": "d0f05c94",
+   "ru": "Расширение дома"
+  },
+  {
+   "n": 515,
+   "f": 2,
+   "id": "Create_BuildMyHouseExterior",
+   "key": "a163ed93",
+   "ru": "Смена фасада"
+  },
+  {
+   "n": 516,
+   "f": 2,
+   "id": "Create_BuildMyHouseInterior",
+   "key": "f2c25128",
+   "ru": "Смена интерьера"
+  },
+  {
+   "n": 517,
+   "f": 2,
+   "id": "Create_BuildMyHouseFurniture",
+   "key": "620fc89f",
+   "ru": "Новая мебель"
+  },
+  {
+   "n": 518,
+   "f": 2,
+   "id": "Create_BuildPanel",
+   "key": "b5df76f5",
+   "ru": "Постройка круга фермы"
+  },
+  {
+   "n": 519,
+   "f": 2,
+   "id": "Parttime_WeederTwinYounger",
+   "key": "57540639",
+   "ru": "Прополка"
+  },
+  {
+   "n": 520,
+   "f": 2,
+   "id": "Other_Goddess_Offering",
+   "key": "c44340fb",
+   "ru": "Подношение Десси"
+  },
+  {
+   "n": 521,
+   "f": 2,
+   "id": "TestEvent",
+   "key": "784dd132",
+   "ru": "Тест"
+  },
+  {
+   "n": 522,
+   "f": 2,
+   "id": "TestEvent2",
+   "key": "002ea9a3",
+   "ru": "Тест 2"
+  },
+  {
+   "n": 528,
+   "f": 2,
+   "id": "TestEventEasySetUp",
+   "key": "3ece7cbe",
+   "ru": "???"
+  },
+  {
+   "n": 529,
+   "f": 2,
+   "id": "System_ShopStateChangeAmericaMain_Close",
+   "key": "dd81c47e",
+   "ru": "Закрыто!"
+  },
+  {
+   "n": 530,
+   "f": 2,
+   "id": "System_ShopStateChangeJapanMain_Close",
+   "key": "dd81c47e",
+   "ru": "Закрыто!"
+  },
+  {
+   "n": 531,
+   "f": 2,
+   "id": "System_ShopStateChangeSouthMain_Close",
+   "key": "dd81c47e",
+   "ru": "Закрыто!"
+  },
+  {
+   "n": 532,
+   "f": 2,
+   "id": "System_ShopStateChangeSouthSub_Close",
+   "key": "dd81c47e",
+   "ru": "Закрыто!"
+  },
+  {
+   "n": 533,
+   "f": 2,
+   "id": "Resident_FriendsTalk",
+   "key": "ed341e36",
+   "ru": "Болтовня с друзьями"
+  },
+  {
+   "n": 534,
+   "f": 2,
+   "id": "Resident_Father",
+   "key": "3e0158da",
+   "ru": "Хлопотный день"
+  },
+  {
+   "n": 535,
+   "f": 2,
+   "id": "Resident_Trip_A",
+   "key": "d5439e84",
+   "ru": "Поездка в Лулукоко"
+  },
+  {
+   "n": 536,
+   "f": 2,
+   "id": "Resident_Trip_S",
+   "key": "f63927ff",
+   "ru": "Поездка в Цуюкусу"
+  },
+  {
+   "n": 537,
+   "f": 2,
+   "id": "Resident_Trip_J",
+   "key": "e5ce79f8",
+   "ru": "Поездка в Уэстаун"
+  },
+  {
+   "n": 538,
+   "f": 2,
+   "id": "Resident_First_S_Wantatan",
+   "key": "ef57c9cd",
+   "ru": "Приезд Вуфио"
+  },
+  {
+   "n": 539,
+   "f": 2,
+   "id": "Resident_First_A_Presenter",
+   "key": "87668ec9",
+   "ru": "Приезд Стефани"
+  },
+  {
+   "n": 540,
+   "f": 2,
+   "id": "Resident_S_Wantatan_1",
+   "key": "70f49faf",
+   "ru": "Чудесная собачья жизнь Вуфио"
+  },
+  {
+   "n": 541,
+   "f": 2,
+   "id": "Resident_A_Presenter_1",
+   "key": "a15cc1d8",
+   "ru": "Угощение в благодарность"
+  },
+  {
+   "n": 542,
+   "f": 2,
+   "id": "Love_S_Wantatan_1",
+   "key": "b65b9a7e",
+   "ru": "Вуфио сбился с пути"
+  },
+  {
+   "n": 543,
+   "f": 2,
+   "id": "Love_S_Wantatan_2",
+   "key": "2b361fe8",
+   "ru": "Костюм к лицу"
+  },
+  {
+   "n": 544,
+   "f": 2,
+   "id": "Love_S_Wantatan_3",
+   "key": "1f23800d",
+   "ru": "Магия делает мужчину"
+  },
+  {
+   "n": 545,
+   "f": 2,
+   "id": "Love_A_Presenter_1",
+   "key": "499acedd",
+   "ru": "Настраиваем ритм"
+  },
+  {
+   "n": 546,
+   "f": 2,
+   "id": "Love_A_Presenter_2",
+   "key": "3dcb3f69",
+   "ru": "Первый провал"
+  },
+  {
+   "n": 547,
+   "f": 2,
+   "id": "Love_A_Presenter_3",
+   "key": "399c08ec",
+   "ru": "Настоящее предложение"
+  },
+  {
+   "n": 548,
+   "f": 2,
+   "id": "Marriage_S_Wantatan",
+   "key": "6211579d",
+   "ru": "Тайная свадьба"
+  },
+  {
+   "n": 549,
+   "f": 2,
+   "id": "Marriage_A_Presenter",
+   "key": "6211579d",
+   "ru": "Тайная свадьба"
+  },
+  {
+   "n": 550,
+   "f": 2,
+   "id": "Tutorial_Marriage_AddPartner",
+   "key": "29d9d315",
+   "ru": "Договоримся о правилах"
+  },
+  {
+   "n": 551,
+   "f": 2,
+   "id": "Family_ChildBirth_Inari",
+   "key": "175bfe36",
+   "ru": "Божественный дар"
+  },
+  {
+   "n": 552,
+   "f": 2,
+   "id": "Cheburashka_First_Contact",
+   "key": "2a3c3103",
+   "ru": "Привет-привет"
+  },
+  {
+   "n": 553,
+   "f": 2,
+   "id": "Cheburashka_Thanks",
+   "key": "f87057d6",
+   "ru": "Подарок для друга"
+  },
+  {
+   "n": 554,
+   "f": 2,
+   "id": "Festival_A_Friendship_After",
+   "key": "52f64bb0",
+   "ru": "Праздничный помощник"
+  },
+  {
+   "n": 555,
+   "f": 2,
+   "id": "Festival_NewYear_After",
+   "key": "fb37ec84",
+   "ru": "Новогодние желания"
+  },
+  {
+   "n": 556,
+   "f": 2,
+   "id": "Other_Inari_Repair_Engagement",
+   "key": "d6c19be2",
+   "ru": "Небольшая заминка"
   }
  ]
 }

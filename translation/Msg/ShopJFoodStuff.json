@@ -2,6 +2,55 @@
  "file": "ShopJFoodStuff",
  "entries": [
   {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_003",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_004",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_005",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
    "n": 14,
    "f": 2,
    "id": "MSG_SHOP_FOODSTUFF_ITEM_001",

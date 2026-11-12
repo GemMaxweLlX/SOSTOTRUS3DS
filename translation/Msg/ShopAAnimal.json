@@ -2,6 +2,125 @@
  "file": "ShopAAnimal",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_003",
+   "key": "31bfd66a",
+   "ru": "<NAME_MOB_ALISON>\r\nДобро пожаловать в “Зов природы”! Всё для\nзверья в одном месте!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_004",
+   "key": "45142d79",
+   "ru": "<NAME_MOB_ALISON>\r\nДобро пожаловать в “Зов природы”! Чем\nпомочь?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_000",
+   "key": "295f37d4",
+   "ru": "<NAME_MOB_ALISON>\r\nЧто возьмёшь?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_001",
+   "key": "42809a6d",
+   "ru": "<NAME_MOB_ALISON>\r\nЧто-нибудь ещё?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_002",
+   "key": "5bb5fe65",
+   "ru": "Купить животных"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_003",
+   "key": "92493652",
+   "ru": "Продать животных"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_004",
+   "key": "ff608c1a",
+   "ru": "Развести животных"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_005",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_006",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_007",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_008",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_009",
+   "key": "60b3db8b",
+   "ru": "Присмотреть за Хамтаро"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_010",
+   "key": "8bf29339",
+   "ru": "Вернуть Хамтаро"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_000",
+   "key": "e351e81e",
+   "ru": "<NAME_MOB_ALISON>\r\nУ нас самые милые зверушки, гарантирую!\nПогляди, они тебя очаруют."
+  },
+  {
    "n": 17,
    "f": 2,
    "id": "MSG_SHOP_ANIMAL_BUY_001",
@@ -30,6 +149,13 @@
    "ru": "Какое имя ему дать?"
   },
   {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_005",
+   "key": "aa31f3f0",
+   "ru": "Имя \"<BLUE><MOJI0></BLUE>\" подходит?"
+  },
+  {
    "n": 22,
    "f": 2,
    "id": "MSG_SHOP_ANIMAL_BUY_006",
@@ -37,11 +163,32 @@
    "ru": "Отправлено на вашу ферму."
   },
   {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_007",
+   "key": "ea6d78a0",
+   "ru": "<NAME_MOB_ALISON>\r\nНедавно привезли новых зверушек, погляди!"
+  },
+  {
    "n": 24,
    "f": 2,
    "id": "MSG_SHOP_ANIMAL_BUY_008",
    "key": "087ddd93",
    "ru": "Где оно будет жить?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_SELL_000",
+   "key": "ed7b177b",
+   "ru": "<NAME_MOB_ALISON>\r\nПродать животное обратно, да? Бедняжка.\nКого отдаёшь?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_SELL_001",
+   "key": "db589a68",
+   "ru": "Продать это животное за <BLUE><MOJI0></BLUE>G?"
   },
   {
    "n": 27,
@@ -65,6 +212,20 @@
    "ru": "Сбежавших животных продавать нельзя."
   },
   {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_SELL_005",
+   "key": "4df883fe",
+   "ru": "<NAME_MOB_ALISON>\r\nПохоже, тебе нечего продать..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_000",
+   "key": "4d3f0d45",
+   "ru": "<NAME_MOB_ALISON>\r\nРазведение, да? Без проблем. Это моё дело!"
+  },
+  {
    "n": 32,
    "f": 2,
    "id": "MSG_SHOP_ANIMAL_PREGNANT_001",
@@ -86,6 +247,20 @@
    "ru": "Теперь животное беременно."
   },
   {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_004",
+   "key": "b7645b3e",
+   "ru": "В хлеву нет места."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_005",
+   "key": "5d0fc10e",
+   "ru": "Сбежавшее животное нельзя разводить."
+  },
+  {
    "n": 37,
    "f": 2,
    "id": "MSG_SHOP_ANIMAL_PREGNANT_006",
@@ -98,6 +273,20 @@
    "id": "MSG_SHOP_ANIMAL_PREGNANT_007",
    "key": "c1ae687a",
    "ru": "Грязное животное нельзя разводить."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_008",
+   "key": "e2d47e4e",
+   "ru": "<NAME_MOB_ALISON>\r\nУ тебя нет животных, которые могут\nзабеременеть."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_ITEM_000",
+   "key": "b74f7930",
+   "ru": "<NAME_MOB_ALISON>\r\nЛадненько. Что выберешь?"
   },
   {
    "n": 41,
@@ -119,6 +308,153 @@
    "id": "MSG_SHOP_ANIMAL_ITEM_003",
    "key": "2f264a35",
    "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_ITEM_004",
+   "key": "4a56cf24",
+   "ru": "<NAME_MOB_ALISON>\r\nПришли отличные новинки, погляди!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_ITEM_005",
+   "key": "5fcc0252",
+   "ru": "<NAME_MOB_ALISON>\r\nМы начали продавать новые товары вместе с <_____MYNAME_____>.\nПогляди!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GOODBYE_000",
+   "key": "455b37de",
+   "ru": "<NAME_MOB_ALISON>\r\nПремного благодарна. Ещё увидимся!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_NAME",
+   "key": "73a6621c",
+   "ru": "Зов природы"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PET_START",
+   "key": "858f6051",
+   "ru": "<NAME_MOB_ALISON>\r\nТеперь мы отдаём питомцев в добрые руки.\n<PAGE>\nИщешь нового друга? Выбери “Купить\nживотных” и переключи вкладку <GREEN>кнопкой R</GREEN>."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HORSE_START",
+   "key": "ede33a81",
+   "ru": "<NAME_MOB_ALISON>\r\nТеперь у нас есть и лошади!\n<PAGE>\nХочешь прокатиться? Выбери “Купить\nживотных” и переключи вкладку <GREEN>кнопкой R</GREEN>."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_START",
+   "key": "364a3490",
+   "ru": "<NAME_MOB_ALISON>\r\nВообще-то у нас живёт хомячок Хамтаро.\n<PAGE>\nХочешь за ним присмотреть? Выбери\n“Присмотреть за Хамтаро”."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_BUY",
+   "key": "45614681",
+   "ru": "<NAME_MOB_ALISON>\r\nЗначит, хочешь присмотреть за Хамтаро?"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_NO_EMPTY",
+   "key": "d994ebc9",
+   "ru": "<NAME_MOB_ALISON>\r\nНо, похоже, в домике питомца нет места. Как\nосвободится, приходи."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_BUY_FINISH",
+   "key": "d6e5ce77",
+   "ru": "<NAME_MOB_ALISON>\r\nХорошо, тогда отправлю его в домик питомца."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_CHOICE_000",
+   "key": "9f672843",
+   "ru": "<NAME_MOB_ALISON>\r\nХорошо, выбери домик питомца."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_CHOICE_001",
+   "key": "c7c7251a",
+   "ru": "Центр фермы"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_CHOICE_002",
+   "key": "12209d44",
+   "ru": "Запад фермы"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_CHOICE_003",
+   "key": "ef39aa8c",
+   "ru": "Восток фермы"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_CHOICE_CANCEL",
+   "key": "153209d0",
+   "ru": "<CANCEL_SELECT>\r\nОтмена"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_SELL_000",
+   "key": "39e6f4f4",
+   "ru": "Значит, прощаешься с Хамтаро.\n<PAGE>\nТочно? Вся дружба, что вы накопили..."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_SELL_OK",
+   "key": "8bf29339",
+   "ru": "Вернуть Хамтаро"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_SELL_NG",
+   "key": "2b627136",
+   "ru": "Нет, не надо"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_SELL_001",
+   "key": "a01b1c8a",
+   "ru": "Понимаю. Тогда заберём его из домика\nпитомца."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_SELL_002",
+   "key": "f2e3ce3e",
+   "ru": "Не будешь? Поняла."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HAMUTARO_SELL_003",
+   "key": "7e24a011",
+   "ru": "Хамтаро сейчас на прогулке, забрать его\nнельзя.\n<PAGE>\nКак закончите прогулку, приходи."
   }
  ]
 }

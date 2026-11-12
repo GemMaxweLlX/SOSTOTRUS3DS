@@ -2,6 +2,76 @@
  "file": "ShopSGeneral2",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_003",
+   "key": "feb1027d",
+   "ru": "Сделать наживку"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_004",
+   "key": "4beeb254",
+   "ru": "Расширить сумку"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_005",
+   "key": "67ec7107",
+   "ru": "Ещё расширить сумку"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_006",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_007",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_008",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
    "n": 17,
    "f": 2,
    "id": "MSG_SHOP_GENERAL2_ITEM_001",
@@ -21,6 +91,27 @@
    "id": "MSG_SHOP_GENERAL2_ITEM_003",
    "key": "2f264a35",
    "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_003",
+   "key": "a584bb8f",
+   "ru": "Купить сумку"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_004",
+   "key": "ab5f605a",
+   "ru": "<CANCEL_SELECT>\r\nПока нет"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_001",
+   "key": "6a038bb0",
+   "ru": "У тебя нет нужных материалов."
   },
   {
    "n": 31,
