@@ -1,0 +1,33 @@
+{
+ "file": "Property",
+ "entries": [
+  {
+   "n": 18,
+   "f": 2,
+   "id": "TopMenuSeasonSpring",
+   "key": "6c92115f",
+   "ru": "Весна"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "TopMenuSeasonSummer",
+   "key": "25284c1a",
+   "ru": "Лето"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "TopMenuSeasonAutumn",
+   "key": "5b627032",
+   "ru": "Осень"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "TopMenuSeasonWinter",
+   "key": "1aeb439e",
+   "ru": "Зима"
+  }
+ ]
+}

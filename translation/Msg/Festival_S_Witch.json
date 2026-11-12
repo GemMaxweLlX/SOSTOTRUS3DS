@@ -1,0 +1,33 @@
+{
+ "file": "Festival_S_Witch",
+ "entries": [
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_A_WITCH_10",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_A_WITCH_11",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_FES_A_WITCH_GO_HOME_01",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_FES_A_WITCH_GO_HOME_02",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

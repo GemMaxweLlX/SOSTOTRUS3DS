@@ -1,0 +1,33 @@
+{
+ "file": "ShopSFoodStuff",
+ "entries": [
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_001",
+   "key": "eec4b96f",
+   "ru": "Сегодня заведение уже закрыто."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  }
+ ]
+}

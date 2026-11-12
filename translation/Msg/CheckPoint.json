@@ -1,0 +1,40 @@
+{
+ "file": "CheckPoint",
+ "entries": [
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_10",
+   "key": "c89dffdf",
+   "ru": "Цуюкуса"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_11",
+   "key": "f0f71409",
+   "ru": "Уэстаун"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_12",
+   "key": "1fec6563",
+   "ru": "Лулукоко"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_NO",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  }
+ ]
+}

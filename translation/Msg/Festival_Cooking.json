@@ -1,0 +1,33 @@
+{
+ "file": "Festival_Cooking",
+ "entries": [
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_NONE_SELECT_00",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_NONE_SELECT_01",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_GO_HOME_01",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_GO_HOME_02",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  }
+ ]
+}

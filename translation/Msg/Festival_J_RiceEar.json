@@ -1,0 +1,33 @@
+{
+ "file": "Festival_J_RiceEar",
+ "entries": [
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_10",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_11",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_GO_HOME_01",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_GO_HOME_02",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

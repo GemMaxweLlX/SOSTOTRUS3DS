@@ -1,0 +1,26 @@
+{
+ "file": "HarvestMaple",
+ "entries": [
+  {
+   "n": 1,
+   "f": 2,
+   "id": "LevelUp",
+   "key": "39e10710",
+   "ru": "Получен ранг <BLUE><MOJI0></BLUE>!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "SelectSet",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "SelectCancel",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

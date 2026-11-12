@@ -1,0 +1,33 @@
+{
+ "file": "ItemMsg",
+ "entries": [
+  {
+   "n": 1141,
+   "f": 2,
+   "id": "INFO_TRANS_MOJI_00",
+   "key": "6c92115f",
+   "ru": "Весна"
+  },
+  {
+   "n": 1142,
+   "f": 2,
+   "id": "INFO_TRANS_MOJI_01",
+   "key": "25284c1a",
+   "ru": "Лето"
+  },
+  {
+   "n": 1143,
+   "f": 2,
+   "id": "INFO_TRANS_MOJI_02",
+   "key": "5b627032",
+   "ru": "Осень"
+  },
+  {
+   "n": 1144,
+   "f": 2,
+   "id": "INFO_TRANS_MOJI_03",
+   "key": "1aeb439e",
+   "ru": "Зима"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "file": "ShopJRestaurant",
+ "entries": [
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_001",
+   "key": "eec4b96f",
+   "ru": "Сегодня заведение уже закрыто."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_002",
+   "key": "81391d63",
+   "ru": "Оформить заказ?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_002",
+   "key": "2cb0da37",
+   "ru": "Совершить покупку?"
+  }
+ ]
+}

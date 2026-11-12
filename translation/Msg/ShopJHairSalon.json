@@ -1,0 +1,33 @@
+{
+ "file": "ShopJHairSalon",
+ "entries": [
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_GREETING_001",
+   "key": "eec4b96f",
+   "ru": "Сегодня заведение уже закрыто."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_001",
+   "key": "ff500332",
+   "ru": "Отменить заказ?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_002",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_008",
+   "key": "ebc6eb29",
+   "ru": "Для этой причёски нужно снять шляпу.\nСогласны?"
+  }
+ ]
+}

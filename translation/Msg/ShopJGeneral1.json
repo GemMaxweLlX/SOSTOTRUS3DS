@@ -1,0 +1,40 @@
+{
+ "file": "ShopJGeneral1",
+ "entries": [
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "Festival_S_Drink",
+ "entries": [
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_05",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_06",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_GO_HOME_01",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_GO_HOME_02",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "file": "Fishing",
+ "entries": [
+  {
+   "n": 11,
+   "f": 2,
+   "id": "LevelUp",
+   "key": "39e10710",
+   "ru": "Получен ранг <BLUE><MOJI0></BLUE>!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "SelectSet",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "SelectCancel",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

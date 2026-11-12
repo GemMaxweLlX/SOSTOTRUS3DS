@@ -1,0 +1,19 @@
+{
+ "file": "ShopRideCommon",
+ "entries": [
+  {
+   "n": 6,
+   "f": 2,
+   "id": "SelectYes",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "SelectNo",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

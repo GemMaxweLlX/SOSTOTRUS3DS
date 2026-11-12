@@ -1,0 +1,68 @@
+{
+ "file": "Festival_Entry",
+ "entries": [
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_NO",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  }
+ ]
+}

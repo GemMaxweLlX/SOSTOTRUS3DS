@@ -1,0 +1,26 @@
+{
+ "file": "ShopAHospital",
+ "entries": [
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_ITEM_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_ITEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_ITEM_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  }
+ ]
+}
