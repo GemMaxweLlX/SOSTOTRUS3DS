@@ -1,0 +1,54 @@
+{
+ "file": "Tutorial_Animal",
+ "entries": [
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_05",
+   "key": "348139b1",
+   "ru": "Чистка скота"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_06",
+   "key": "e81aa4c2",
+   "ru": "Дойка коров"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_07",
+   "key": "3759c93a",
+   "ru": "Стрижка овец"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_08",
+   "key": "bbdce77c",
+   "ru": "Сбор яиц"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_09",
+   "key": "a6989f94",
+   "ru": "Выпуск скота на улицу"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_10",
+   "key": "c59c74e4",
+   "ru": "Кормление скота"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_12",
+   "key": "14d06845",
+   "ru": "Пока ничего"
+  }
+ ]
+}

@@ -23,6 +23,13 @@
    "ru": "<MOJI2>"
   },
   {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_11",
+   "key": "98d7df71",
+   "ru": "Другое"
+  },
+  {
    "n": 18,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Postman_18",
@@ -49,6 +56,13 @@
    "id": "MES_EV_CHILD_BIRTH_Doctor_10",
    "key": "3c3981be",
    "ru": "<MOJI2>"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_11",
+   "key": "98d7df71",
+   "ru": "Другое"
   },
   {
    "n": 45,
@@ -79,6 +93,13 @@
    "ru": "<MOJI2>"
   },
   {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_11",
+   "key": "98d7df71",
+   "ru": "Другое"
+  },
+  {
    "n": 72,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Chaser_18",
@@ -105,6 +126,13 @@
    "id": "MES_EV_CHILD_BIRTH_Apprentice_10",
    "key": "3c3981be",
    "ru": "<MOJI2>"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_11",
+   "key": "98d7df71",
+   "ru": "Другое"
   },
   {
    "n": 99,
@@ -135,6 +163,13 @@
    "ru": "<MOJI2>"
   },
   {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_11",
+   "key": "98d7df71",
+   "ru": "Другое"
+  },
+  {
    "n": 126,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Craftman_18",
@@ -161,6 +196,13 @@
    "id": "MES_EV_CHILD_BIRTH_Florist_10",
    "key": "3c3981be",
    "ru": "<MOJI2>"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_11",
+   "key": "98d7df71",
+   "ru": "Другое"
   },
   {
    "n": 153,
@@ -191,6 +233,13 @@
    "ru": "<MOJI2>"
   },
   {
+   "n": 173,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_11",
+   "key": "98d7df71",
+   "ru": "Другое"
+  },
+  {
    "n": 180,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_TeaGirl_18",
@@ -217,6 +266,13 @@
    "id": "MES_EV_CHILD_BIRTH_Teacher_10",
    "key": "3c3981be",
    "ru": "<MOJI2>"
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_11",
+   "key": "98d7df71",
+   "ru": "Другое"
   },
   {
    "n": 207,
@@ -247,6 +303,13 @@
    "ru": "<MOJI2>"
   },
   {
+   "n": 227,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_11",
+   "key": "98d7df71",
+   "ru": "Другое"
+  },
+  {
    "n": 234,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_TwinOlder_18",
@@ -273,6 +336,13 @@
    "id": "MES_EV_CHILD_BIRTH_TwinYounger_10",
    "key": "3c3981be",
    "ru": "<MOJI2>"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_11",
+   "key": "98d7df71",
+   "ru": "Другое"
   },
   {
    "n": 261,
@@ -303,6 +373,13 @@
    "ru": "<MOJI2>"
   },
   {
+   "n": 281,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_11",
+   "key": "98d7df71",
+   "ru": "Другое"
+  },
+  {
    "n": 288,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Wantatan_18",
@@ -329,6 +406,13 @@
    "id": "MES_EV_CHILD_BIRTH_Presenter_10",
    "key": "3c3981be",
    "ru": "<MOJI2>"
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_11",
+   "key": "98d7df71",
+   "ru": "Другое"
   },
   {
    "n": 315,
