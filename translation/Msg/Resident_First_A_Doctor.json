@@ -1,0 +1,145 @@
+{
+ "file": "Resident_First_A_Doctor",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_00",
+   "key": "e195f77d",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_01",
+   "key": "6496e6d2",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nПо делам пришёл(шла)?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_02",
+   "key": "4b3778d1",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЯ? Иду навестить друга.\n<PAGE>\n<FACE_LAUGH>Знаешь что? Пошли со мной. Познакомлю."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_03",
+   "key": "46adf73b",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nСлышал(а), что доктор из клиники был\nкакое-то время в отъезде по делам?\n<PAGE>\nТак вот, на днях он наконец вернулся.\n<PAGE>\nЕсли станет нехорошо, он тебя живо поставит\nна ноги. По-моему, стоит зайти поздороваться."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_04",
+   "key": "808c0c6b",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nНу и отлично! Сюда, <_____MYNAME_____>."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_05",
+   "key": "658874e1",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nО, погоди!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_06",
+   "key": "30566a77",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nПрошу прощения. Можешь секундочку постоять\nсмирно?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_07",
+   "key": "c446ffa5",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LOSS>\r\nХм-м-м... Не слишком грязно. Пожалуй,\nсойдёт."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_08",
+   "key": "1f6584f1",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nА, э-э, док бывает довольно... придирчив\nнасчёт чистоты и всякого такого. Не бери в\nголову. Пошли."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_09",
+   "key": "7559f78c",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nФорд? Ты здесь?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_10",
+   "key": "e496a727",
+   "ru": "<NAME_UNKNOWN>\r\nХм? Уэйн, это ты?\n<PAGE>\nЯ сейчас обдумываю идеи. Меня не беспокоить,\nесли только нет пациента, которому срочно\nнужна помощь.\n<PAGE>\nПодожди тихо вон там. Займусь тобой позже."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_11",
+   "key": "81086fd7",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nИзвини. С ним такое бывает.\n<PAGE>\nДавай присядем на тот диван и подождём?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_12",
+   "key": "d5447d42",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nИтак, в чём дело?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Ого. Быстрее, чем я ожидал.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>Я услышал голос помимо твоего. Как тут\nсосредоточиться, когда вы двое тут болтаете."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_13",
+   "key": "f6ffc884",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм. Что ж, весьма учтивое приветствие."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_14",
+   "key": "8b9473a9",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nМеня зовут Форд, я врач этой клиники."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_15",
+   "key": "66ae8f72",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЗначит, ты племянник Фрэнка, хм? Выглядишь\nсовершенно здоровым молодым человеком, так\nчто, полагаю, мои услуги тебе не нужны."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_16",
+   "key": "a6aafaca",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЗначит, ты племянница Фрэнка, хм? Выглядишь\nсовершенно здоровой девушкой, так что,\nполагаю, мои услуги тебе не нужны."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_17",
+   "key": "6ca18cd3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...Да. Пока что сойдёт, пожалуй.\n<PAGE>\n<FACE_ANGRY>Но позволь кое-что прояснить: я не терплю\nнеряшества и оборванцев. Если хочешь ко мне\nприйти, приходи чистым и прилично одетым!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_18",
+   "key": "123e1e30",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nИтак, это всё?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Да, пожалуй, всё.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Ясно. Что ж, ступайте оба. Свободны."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_DOCTOR_19",
+   "key": "cf3d8436",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, э-э... да. Как я и говорил, он бывает\nстранноват. Но парень хороший, честно.\n<PAGE>\nЕсли он тебя не слишком отпугнул, заходи к\nнему как-нибудь ещё."
+  }
+ ]
+}

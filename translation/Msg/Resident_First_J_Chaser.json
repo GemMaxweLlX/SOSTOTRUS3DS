@@ -1,0 +1,54 @@
+{
+ "file": "Resident_First_J_Chaser",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_CHASER_00",
+   "key": "7586ccba",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_LEFT><FACE_NORMAL>\r\nО, <_____MYNAME_____>. Ты как нельзя вовремя."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_CHASER_01",
+   "key": "65451369",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nПозволь представить, милок. Это наш внук,\nЮдзуки.\n<PAGE>\nБедняжке нездоровилось, так что до недавнего\nвремени он лечился на водах. Как раз сегодня\nвернулся домой."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_CHASER_06",
+   "key": "cafd59a6",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nАх, приветствую. Честь познакомиться. Меня\nзовут Юдзуки. Я ювелир и специализируюсь на\nукрашениях для волос и тому подобном."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_CHASER_07",
+   "key": "052f26f0",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nТебя ведь зовут <_____MYNAME_____>? Приятно, что переехал\nкто-то примерно моего возраста.\n<PAGE>\nОчень надеюсь, что мы быстро подружимся."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_CHASER_08",
+   "key": "7ced09e2",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nТы ведь <_____MYNAME_____>? Прелестное имя. Оно тебе очень\nидёт.\n<PAGE>\nПриятно, что переехал кто-то примерно моего\nвозраста. Очень надеюсь, что мы быстро\nподружимся."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_CHASER_09",
+   "key": "3a660fe8",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЯ питаю слабость к сладостям, так что иногда\nбываю и в Вестауне, и в Лулукоко.\n<PAGE>\n<FACE_LAUGH>Если увидишь меня, не стесняйся, подходи\nпоздороваться."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_CHASER_10",
+   "key": "f09b6192",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЗаходи почаще, <_____MYNAME_____>. Мы все трое рады быть\nтвоими добрыми соседями."
+  }
+ ]
+}

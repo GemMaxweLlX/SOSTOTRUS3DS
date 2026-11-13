@@ -1,0 +1,89 @@
+{
+ "file": "Resident_First_A_FarmMan",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_00",
+   "key": "c97d5919",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nАга! <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_01",
+   "key": "448f1c9d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКак раз вовремя, милок. Избавил(а) мои\nбедные ноги от похода к тебе на ферму."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_02",
+   "key": "3a25ed6e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПонимаешь, у меня есть сын и внук. Оба\nпереехали в другой город...\n<PAGE>\n<FACE_LAUGH>Но с сегодняшнего дня вернулись сюда!\nВернулись к бабушке насовсем."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_03",
+   "key": "993954f1",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЗнаю, это внезапно, но хочу познакомить тебя с\nними обоими. Есть время?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_04",
+   "key": "f37b98bd",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Пойдём ко мне домой."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_05",
+   "key": "956f7f96",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nГектор! Колин! Спуститесь на минутку!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_06",
+   "key": "63b83adf",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Что такое, ма?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_07",
+   "key": "2c41372d",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Кто это, бабушка?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_08",
+   "key": "96839075",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nЭто <_____MYNAME_____>, родня Фрэнка, на ферме дальше по\nдороге.\n<PAGE>\n<FACE_LAUGH>Раз мы все фермеры, я подумала, что неплохо\nбы нам всем познакомиться."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_09",
+   "key": "4e845006",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>\r\nМеня зовут Гектор. Здравствуйте."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_10",
+   "key": "758ab116",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nЭ-э... М-меня зовут Колин. Приятно\nпознакомиться, <_____MYNAME_____>."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_A_FARMER_11",
+   "key": "4a950e1d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nХорошо, что ты здесь, <_____MYNAME_____>. Мы все трое рады\nбыть твоими добрыми соседями."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "Resident_First_Presenter",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_PRESENTER_00",
+   "key": "7bc2e7a0",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nО, привет, да это же <_____MYNAME_____>. Здравствуй."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_PRESENTER_01",
+   "key": "94db823d",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nАх, точно!\n<PAGE>\nЯ только что переехала в эти края. Совсем\nрядом с городом.\n<PAGE>\nТы ведь лучше всех знаешь, какие тут вкусные\nпродукты, правда?\n<PAGE>\nЯ как раз закупилась свежими овощами, чтобы\nотправить семье. Они все живут довольно\nдалеко."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_PRESENTER_02",
+   "key": "bbd688f9",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЯ объездила весь мир, но нигде не видела,\nчтобы выращивали такое безумное\nразнообразие еды!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_PRESENTER_03",
+   "key": "30c3c886",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nКстати, может, для знакомства уже поздновато,\nно...\n<PAGE>\n...я Стефани.\n<PAGE>\n<FACE_NORMAL>Ты, наверное, теперь будешь часто меня\nвидеть, так что надеюсь, мы отлично поладим!"
+  }
+ ]
+}
