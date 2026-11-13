@@ -2,6 +2,34 @@
  "file": "Fes_NewYear_After",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_00",
+   "key": "5c2f208e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак, все в сборе!\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Когда мы все вот так собираемся, прямо\nнастоящая вечеринка!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>И то правда. Мы, конечно, общаемся, но такой\nбольшой компанией собираемся редко.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Так, э-э, план ― обойти знаменитые места во\nвсех городах, да?\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Не совсем. Скорее мы поздравим с Новым\nгодом покровителей каждого места.\n<PAGE>\n<FACE_NORMAL>Ну, никто из нас ведь толком не выказывал\nпочтения божествам других городов, верно?\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_NORMAL>Ох, раз уж ты сказала... Кажется, я и правда ни\nразу.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>Итак, подытожим: мы обойдём святилища всех\nгородов и выскажем свои цели и надежды на\nновый год.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Ага. Звучит весело.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Не хочу портить настроение, но, боюсь, обойти\nвсе три города такой большой компанией\nбудет непросто.\n<PAGE>\n<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>Это правда... Может, сегодня ограничимся\nодним городом?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_06",
+   "key": "b5fab77a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак! Все в сборе!\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Я так рад, что мы снова смогли вот так\nсобраться.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Похоже, вам всем совсем нечем заняться. Ну, и\nмне тоже, если честно.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL> В этом году мы снова обойдём божеств с\nпоздравлениями, да?\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH> Ага! Я только за!\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_NORMAL> А ещё можем вместе загадать новые надежды\nи цели на год!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH> Хм, по-моему, дело стоящее.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH> ...Ага. Звучит весело.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL> Но знаете, учитывая время, обойти все города\nбудет трудно.\n<PAGE>\n<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>Ты прав... Может, как и в прошлый раз,\nограничимся одним городом?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_01",
+   "key": "2c512e4b",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, может, ты решишь, в какой город пойдём?\nТы ведь в хороших отношениях со всеми\nтремя."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_07",
+   "key": "a360bb22",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LAUGH>\r\nМожет, снова пусть <_____MYNAME_____> решит за нас?\n<PAGE>\nКуда гав-ляем, <_____MYNAME_____>?"
+  },
+  {
    "n": 4,
    "f": 2,
    "id": "MES_EV_FES_NEWYEAR_AFTER_02",
@@ -21,6 +49,237 @@
    "id": "MES_EV_FES_NEWYEAR_AFTER_04",
    "key": "1fec6563",
    "ru": "Лулукоко"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_05",
+   "key": "5b60a2eb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу-с, значит, в этом году наш путь лежит в\nгород <MOJI0>!\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Надо быть осторожнее и не шуметь, чтобы не\nтревожить соседей, ведь уже поздняя ночь."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_00",
+   "key": "7e961bec",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nВот мы и на месте!\n<PAGE>\nВ этом святилище живёт наше\nбожество-покровитель, Инари.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Ага! Это Инари надо благодарить за богатый\nурожай Умэкити или новых посетителей\nчайной.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Проще говоря, это божество-покровитель\nурожая и удачи.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Верно. Поэтому все обычно приходят сюда\nмолиться о делах."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_01",
+   "key": "009e5bf1",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТогда мы с Силукой помолимся об успехе\n“Карозелло”.\n<PAGE>\n<FACE_LAUGH>Наше кафе, конечно, и так популярно, но\nлишние посетители не помешают!\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LOSS>Не знаю, Илука... Я хочу, чтобы кафе\nприносило деньги, но толпы ненавижу.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Тогда просто поднимем цены!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_02",
+   "key": "d080f713",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nЭй, сейчас правда время об этом говорить?\nСерьёзно...\n<PAGE>\n<FACE_NORMAL>А я, ну... Пожалуй, выберу очевидное и\nпомолюсь об успехе “Реласьона”, да?\n<PAGE>\n...А, и “Лалы Саламы” тоже.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LOSS>ДВЕ лавки? Ну ты и жадина, Лудус.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>Ни стыда ни совести, честное слово."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_03",
+   "key": "d2b2530d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХи-хи! Вы трое такие близкие, правда?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Ага, вы прямо как брат с сёстрами. Даже\nзавидую тебе, Лудус.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>...Я С РАДОСТЬЮ с тобой поменяюсь.\n<PAGE>\n<FACE_LAUGH>Может, если я перееду в Уэстаун, ко мне будут\nотноситься как к человеку, а?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>О, прошу. С тобой я буду на шаг ближе к мечте\n― созданию совершенно нового лекарства.\n<PAGE>\nТы здоров как бык. Я бы с удовольствием\nпровёл на тебе пару экспериментов...\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>Знаешь, я тут подумал..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_04",
+   "key": "8284e721",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nТы никогда не меняешься, да, Форд...?\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LOSS>Он и правда весьма... увлечён своей работой.\n<PAGE>\n<FACE_NORMAL>Ну а ты о чём помолился, Вуфио?\n<PAGE>\n<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>Я? Тоже о том, чтобы дела шли хорошо.\n<PAGE>\nЕсли мои дела процветают, значит, на свете\nбольше счастливых животных. Я всегда к этому\nстремлюсь, гав.\n<PAGE>\n<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>Какой чудесный образ мыслей! Несмотря на\nвнешность, ты очень взрослый, Вуфио!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>Ох, мне аж стыдно. Я всегда считала тебя\nкаким-то чудиком, но теперь вижу, что\nошибалась. Прости, Вуфио...\n<PAGE>\n<FACE_LAUGH>Ты отличный парень... Ой, то есть пёс?\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Это и правда вдохновляет. И, наверное,\nработать в таком костюме животного очень\nутомительно.\n<PAGE>\n<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>Ха-ха-ха, не беспокойтесь. Старину Вуфио\nничем не проймёшь!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_05",
+   "key": "707ae559",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТа-а-ак! Все помолились? Если да, двигаем\nдальше!\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Хорошая мысль. Задержимся ещё ― всю\nокругу перебудим."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_06",
+   "key": "53a72183",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_07",
+   "key": "3852289a",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЗная, что вы все придёте, мне пришлось\nспрятаться. Так никто ничего не заподозрит.\n<PAGE>\nИ всё же мне радостно, что вы пришли\nпоздравить меня с новым годом."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_08",
+   "key": "fd14f42c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nНовый год ― особое время для божества, это\nверно...\n<PAGE>\n<FACE_LAUGH>Но, полагаю, для людей он не менее важен.\n<PAGE>\nВ благодарность я пошлю всем немного доброй\nсилы, чтобы год начался с новыми силами."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_09",
+   "key": "610a4c8e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nВот так. <_____MYNAME_____>, можешь вернуться к друзьям.\n<PAGE>\n<FACE_LAUGH>С нетерпением жду, что принесёт нам всем\nновый год."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_J_10",
+   "key": "237fa3db",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nХм? Мне почему-то вдруг стало так радостно...\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>И мне. На душе так тепло.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Эй, может, до Инари дошли наши молитвы!\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Ох, какая чудесная мысль.\n<PAGE>\nС Новым годом, все!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_00",
+   "key": "b7b37c67",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу вот и пришли.\n<PAGE>\n<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>В руинах Лулукоко поклоняются духам, верно?\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Верно. Мы почитаем предков как духов.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Большинство приходят сюда молиться о\nздоровье и благополучии... своём или семьи."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_01",
+   "key": "da397cb9",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТогда я помолюсь о здоровье бабушки и\nдедушки. Хочу, чтобы они жили долго и\nсчастливо.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Очень заботливо с твоей стороны, Юдзуки, но\nна этот счёт можешь не беспокоиться.\n<PAGE>\nСудя по последнему осмотру, Умэкити и Омиё\nсовершенно здоровы.\n<PAGE>\n<FACE_LAUGH>Признаться, я поражён, насколько они здоровы\nдля своих лет.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>От твоих слов у меня камень с души, Форд.\nСпасибо."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_02",
+   "key": "5183d203",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nНу и внук же у Умэкити и Омиё.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Ха-ха, ага! А я, пожалуй, помолюсь о здоровье\nпапы.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>О? Но Гиндзиро выглядит здоровее некуда...\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_SAD>Да, болеет он редко, но вот травмы ― это\nда...\n<PAGE>\nВидно, когда столько готовишь, без травм\nникак.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_SAD>Ох, это и правда тревожно. Профессиональные\nповара и правда часто ранятся, да?\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>О? А я ни разу не поранилась! ♪\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>Ещё бы. Готовит-то в основном Силука, да?\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LOSS>Ага. Илука не готовит с утра, не работает с\nогнём, не..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_03",
+   "key": "72c02f6b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nОй, замолчите, вы двое. В-в общем, о чём ты\nпомолишься, Лизетта?\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LOSS>Я... Э-э...\n<PAGE>\n<FACE_SAD>Ох, н-немного стыдно говорить, но... Я\nпомолюсь, чтобы диета удалась...\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>Диета? С чего ты вообще взяла, что тебе\nнужна диета?\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LOSS>Ну, просто... в последнее время одежда стала\nтесновата в груди...\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>......\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Илука, твоя аура темнеет."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_04",
+   "key": "0054ad0b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nМожет, помолюсь, чтобы высыпаться и\nнормально просыпаться по утрам...\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>А, точно, тебе ведь всегда надо вставать\nужасно рано! Пока я только собираюсь, ты уже\nразносишь почту.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Ну, если не разносить почту, пока все\nпросыпаются, ни за что не успею.\n<PAGE>\n<FACE_NORMAL>А ты, Стефани? Тебе ведь тоже нелегко, нет?\n<PAGE>\n<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>Да не особо! К счастью, мне не надо вставать\nрано каждый день.\n<PAGE>\n<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>Ну-ну. Не скромничай. Ты ведь не только\nведущая и регистратор.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Точно! Когда намечается новый праздник, ты с\nутра обходишь всех и объясняешь. Это же\nстолько работы!\n<PAGE>\n<FACE_PRESENTER><POS_RIGHT><FACE_LOVE>Ах, нет, я... Я просто...\n<PAGE>\nМ-меня, кажется, никогда ещё столько не\nхвалили..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_05",
+   "key": "43cc6542",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nВсе помолились? Если да, пора двигаться.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Хорошая мысль. Задержимся ещё ― всю\nокругу перебудим."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_06",
+   "key": "b4eebfd2",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_07",
+   "key": "77a74217",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\nЧего это ты не спишь в такую поздноту?\n<PAGE>\nВы так шумите, что мне не дают выспаться для\nкрасоты!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_08",
+   "key": "d12ae50e",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nНо я понимаю, что людям хочется встретить\nновый год в хорошем настроении.\n<PAGE>\nВедьме, во-о-обще-то, незачем делать людям\nчто-то хорошее, но...\n<PAGE>\n<FACE_LAUGH>...В этот раз сделаю исключение и наведу на вас\nвсех доброе колдовство.\n<PAGE>\nО да-а-а!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_09",
+   "key": "ce71ddb2",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nВот, так-то.\n<PAGE>\nВ этом году работай в поте лица, раз уж я так\nради тебя расстаралась."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_S_10",
+   "key": "6904cea2",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nО? Я чувствую особую ауру. Тёплую и\nдобрую...\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Правда? Раз ты сказала, я и правда как-то\nпосвежел.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Может, раз мы поздравили их с новым годом,\nдухи нас благословили?\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>Ха-ха, может быть.\n<PAGE>\nВ общем, с Новым годом, все."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_A_00",
+   "key": "3d7fe6ab",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПришли, народ!\n<PAGE>\n<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>По легенде, в этой реке живёт богиня.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Ага! Я слышала, что богиня, говорят, очень\nкрасивая.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Говорят, если молиться от всего сердца, она\nисполнит любое желание.\n<PAGE>\nОднако особенно хорошо это, по слухам,\nработает с желаниями, связанными с\nискусством."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_A_01",
+   "key": "a9bb3006",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТогда, само собой, я помолюсь об успехе\nсвоего следующего спектакля!\n<PAGE>\n<FACE_LAUGH>В этот раз у меня довольно хорошая роль, так\nчто хочу показать себя!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Знаешь, одно из моих увлечений ― театр.\nОбязательно схожу посмотреть.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Я-я бы тоже с радостью сходила. Я ни разу не\nвидела спектаклей Цуюкусы.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Конечно! Буду рад, если вы все придёте\nпосмотреть на плоды моих трудов!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>На репетициях Хината становится совсем\nдругим человеком. Это стоит увидеть.\n<PAGE>\nОднажды он так разошёлся, что пришёл ко мне\n― да ещё и с костюмом ― и умолял сыграть\nженскую роль.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH><WINDOW_SWEAT_L>...Ты мне это до конца жизни припоминать\nбудешь, да?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_A_02",
+   "key": "05f47347",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЭй, эй, Касуми? О чём будешь молиться?\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Хм... Пожалуй, помолюсь, чтобы моё чувство\nхайку стало богаче.\n<PAGE>\n<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>Хайку, а? Поправьте, если ошибаюсь, но это\nвид поэзии, что передаётся в Цуюкусе, верно?\n<PAGE>\nОни часто описывают природу, и, говорят, без\nхорошего владения словом их трудно писать.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Впечатляет, Вуфио. Ты дрессировщик, а так\nмного знаешь о разных культурах.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>С природой-то мы на ты, но...\n<PAGE>\n...литература ― точно не наше. Звучит сложно.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Ох, вовсе нет! Может, кто-то из вас захочет\nкак-нибудь попробовать сочинить хайку?\n<PAGE>\nОблекать звуки природы в слова ― очень\nобогащающий опыт.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>А знаешь что? Давай. Если ты согласна нас\nнаучить, Касуми, я в деле."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_A_03",
+   "key": "0e150f17",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХм... Пожалуй, помолюсь, чтобы лучше петь...\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Стефани, ты ещё и поёшь? Ну ты и талантлива.\n<PAGE>\n<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>Ну, ведущую могут попросить сделать что\nугодно.\n<PAGE>\nЯ тренировалась, чтобы справиться с любой\nситуацией.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>Глядя на тебя, я чувствую что-то вроде\nродства душ...\n<PAGE>\n<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>Может, в следующий раз оба присоединитесь\nко мне? Петь громко и от души ― так здорово!\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>Э-э, ну, я и пение...\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>А? О чём ты, Лудус?\n<PAGE>\nЯ слышал, как ты поёшь за работой, и могу\nсмело сказать: голос у тебя отличный!\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LOVE>...! Д-да ладно тебе. Предупреждай, когда ты\nрядом!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_A_04",
+   "key": "ce3ffe8f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКхм. Похоже, все помолились. Вернёмся?\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_NORMAL>Хорошая мысль. Задержимся здесь ― соседей\nпотревожим."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_A_05",
+   "key": "1a4cf859",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_A_06",
+   "key": "8c329b29",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЯ очень удивилась, когда вы все вот так\nпришли, но...\n<PAGE>\n<FACE_LAUGH>...огромное спасибо за новогоднее\nпоздравление! ♪"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_A_07",
+   "key": "e312e748",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nМне всегда так тепло на душе, когда на Новый\nгод приходит много людей поздороваться.\n<PAGE>\nИ раз у меня такое хорошее настроение,\nподелюсь радостью со всеми!\n<PAGE>\n<FACE_NORMAL>Поехали... Фва-а-а!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_A_08",
+   "key": "ea09d9dc",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\n...Так, вроде всё получилось. ♪\n<PAGE>\nС Новым годом, <_____MYNAME_____>!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_NEWYEAR_AFTER_A_09",
+   "key": "7557c1af",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто это...? После того света у меня внутри так\nтепло.\n<PAGE>\n<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>И правда. Сейчас глубокая ночь, а я будто\nпросыпаюсь ласковым, приветливым утром.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Может, богиня наложила на нас чары счастья!\n♪\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Хм. Обычно я бы сказал, что такое\nневозможно, но, что ж, сейчас новый год.\n<PAGE>\n<FACE_LAUGH>Полагаю, иногда можно смотреть на вещи и\nсказочно.\n<PAGE>\nС Новым годом, все."
   }
  ]
 }
