@@ -1,0 +1,222 @@
+{
+ "file": "Resident_J_Apprentice_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_00",
+   "key": "f87281fc",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nКак дела, <_____MYNAME_____>? Послушай-ка. Со мной случилось\nкое-что отличное!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_01",
+   "key": "29bc3e62",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТы ведь знаешь, что Хината учится на актёра?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_02",
+   "key": "e885dcb4",
+   "ru": "Нет, не знаю"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_03",
+   "key": "aa92457f",
+   "ru": "Да, знаю"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_04",
+   "key": "19fd33d9",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nО, правда? Я думал, что рассказывал. Прости.\n<PAGE>\nПонимаешь, после работы у Ра Мана я всегда\nхожу в маленький театр в соседнем городе и\nучусь актёрскому мастерству.\n<PAGE>\n<FACE_LAUGH>Однажды хочу зарабатывать на жизнь как\nнастоящий актёр.\n<PAGE>\nВ общем, я играю в спектакле, который\nнедавно начался, и...\n<PAGE>\n<FACE_LAUGH>Он идёт отлично! Зрителей полные залы!\n<PAGE>\nТак что всем участникам выдадут что-то вроде\nпремии за выступление!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_05",
+   "key": "3f4201a8",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nТак вот, я играю в спектакле, который недавно\nначался, и...\n<PAGE>\n<FACE_LAUGH>Он идёт отлично! Зрителей полные залы!\n<PAGE>\nТак что всем участникам выдадут что-то вроде\nпремии за выступление!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_06",
+   "key": "f4faa5a5",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nКонечно, я рад, что мне заплатят, но...\n<PAGE>\nБольше всего я рад, что спектакль со мной\nнравится стольким людям!\n<PAGE>\nКак раз рассказывал Юдзуки хорошую новость,\nкогда ты проходил(а) мимо."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_07",
+   "key": "96ab2059",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nЭй, пошли с нами, <_____MYNAME_____>.\n<PAGE>\nМы идём к Юдзуки. Там всё объясню."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_08",
+   "key": "e0a9ab4c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nИтак, дело вот в чём. Сегодня мы будем\nготовить вкуснющие тираси-суси!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_09",
+   "key": "aad06f09",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nУ нас в семье, когда есть что отпраздновать,\nвсе вместе делают тираси-суси.\n<PAGE>\nС тех пор как переехал сюда, ни разу не\nдовелось, так что мне не терпится их\nприготовить.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>А я обещал Хинате, что если будет повод для\nпраздника, приготовлю с ним тираси-суси."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_10",
+   "key": "f200a57f",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nО, ты уже делал(а)? Здорово, объяснять не\nпридётся.\n<PAGE>\nНе терпится начать! В большой компании\nготовить куда веселее, чем одному."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_11",
+   "key": "646682d7",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nЯсно, ясно! Раз в первый раз, тебе понравится."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_12",
+   "key": "8e1b31ed",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nКреветки беру на себя, а ты свари моллюсков в\nкастрюле, <_____MYNAME_____>.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Я приготовлю рис для суси. Так, где же веер и\nдеревянная кадка...?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_13",
+   "key": "560fd46e",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nОх, моллюски выглядят так аппетитно. Эй, <_____MYNAME_____>,\nдай попробовать чуток.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LOSS>Осторожнее, <_____MYNAME_____>. Он говорит “попробовать”, но\nстоит отвернуться, как он съест почти всё.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>В этот раз так не сделаю! ...Наверное.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_ANGRY>Погоди, а ты, Юдзуки! Вижу, как ты там ешь\nрис!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Я просто проверяю вкус. Вот, <_____MYNAME_____>, скажи, как тебе.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_ANGRY>Эй! И мне дай!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_14",
+   "key": "9c10331c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nУх ты, получилось отлично! Выглядит так\nвкусно!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_15",
+   "key": "0786cecc",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nИ цветов тут целое разнообразие. С\nэстетической точки зрения определённо\nхорошо.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Ладно, ладно, меньше восхищения, больше\nеды. Я умираю с голоду!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_16",
+   "key": "634845a3",
+   "ru": "Приятного аппетита!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_17",
+   "key": "fd3d310c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nМ-м, это... Это просто! Это оно!\n<PAGE>\nУльтравкусно! Да это не хуже того, что я ел\nдома. Потрясно!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Раз ты так рад, мы не зря помогали."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_18",
+   "key": "6c8ab2e4",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКстати... Какая у тебя роль в спектакле,\nХината?\n<PAGE>\nТы всё это время об этом молчишь, и мне от\nэтого ещё любопытнее.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>А, точно. Совсем забыл. В этот раз моя роль..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_19",
+   "key": "2e22c54f",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nСпасибо, что провёл(а) с нами день, <_____MYNAME_____>.\n<PAGE>\nДо сих пор не верится, что Юдзуки сам\nвызвался всё убрать...\n<PAGE>\n<FACE_LAUGH>Если однажды у кого-то из вас случится\nчто-то хорошее, я обязательно тоже за вас\nотпраздную."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_20",
+   "key": "cb6452c4",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nХе-хе-хе... Осталось дождаться премии.\n<PAGE>\n<FACE_NORMAL>Собираюсь отправить эти деньги братьям\nдомой.\n<PAGE>\nВедь это благодаря им я пытаюсь стать\nактёром."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_21",
+   "key": "0065f44c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nУ меня двое старших братьев, и оба работают,\nчтобы поддерживать семью.\n<PAGE>\nЯ по той же причине выбрал прилично\nоплачиваемую работу, но перед отъездом...\n<PAGE>\nОни сказали, что дома всё будет хорошо и что\nмне надо заняться тем, к чему лежит душа.\n<PAGE>\nОни-то уже нашли работу мечты и хотели того\nже для меня..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_22",
+   "key": "0598437e",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\nЯ хотел работать, но никогда толком не\nзадумывался, чем на самом деле хочу\nзаниматься.\n<PAGE>\n<FACE_NORMAL>Когда они мне это сказали, я совсем\nрастерялся. Но теперь... я искренне благодарен\nим за совет.\n<PAGE>\n<FACE_LAUGH>Моя цель ― однажды поддерживать семью,\nзанимаясь любимым делом."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_23",
+   "key": "cb10bb2f",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nХе, спасибо. Мне очень приятно это слышать.\nВот увидишь, я заставлю всех, кто за меня\nболеет, мной гордиться."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_24",
+   "key": "e313c464",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nНу, мне пора. Давай ещё как-нибудь\nпотусуемся, ладно? Пока!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_30",
+   "key": "3041c855",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>, ты когда-нибудь делал(а) тираси-суси?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_31",
+   "key": "9a8575d5",
+   "ru": "Да, приходилось"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_32",
+   "key": "943acc63",
+   "ru": "Нет, не доводилось"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_33",
+   "key": "e8eb634a",
+   "ru": "Что такое тираси-суси?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_34",
+   "key": "ae52f8ae",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nНикогда не слышал(а)? Многое теряешь.\n<PAGE>\nЭто блюдо, где на приправленный рис кладут\nвсякое ― рыбу, яйцо. Обалденно вкусно!\n<PAGE>\n<FACE_LAUGH>Уверен, тебе понравится."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_RESIDENT_J_APPRENTICE_2_100",
+   "key": "2e045fa2",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПо-моему, к этой роли ты готовился усерднее,\nчем я когда-либо видел, Хината.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Я очень рад, что все твои старания наконец\nокупились.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Так... не хочешь сделать то, о чём мы\nговорили? Ну, чтобы отпраздновать успех\nспектакля?\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Сейчас? Правда? Ещё бы! Спасибо, Юдзуки!"
+  }
+ ]
+}

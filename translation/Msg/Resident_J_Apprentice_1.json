@@ -1,0 +1,138 @@
+{
+ "file": "Resident_J_Apprentice_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_00",
+   "key": "1409573c",
+   "ru": "<FACE_APPRENTICE>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_01",
+   "key": "cb7af7d4",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nМы вчетвером как раз собирались играть в\nпрятки.\n<PAGE>\n<FACE_LAUGH>Давай, отдохни от работы и присоединяйся!\n<PAGE>\nИногда поиграть с детьми ― это весело!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_02",
+   "key": "00f4bad6",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_ANGRY>\r\nЭ-э, я не очень хорошо прячусь, но очень\nлюблю прятки, так что постараюсь!\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>А я прячусь супер... Не проиграю.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL>Спасибо, что с нами, <_____MYNAME_____>. А ты, Хината, не столько\n“играешь с детьми”, сколько сам почти\nребёнок.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH><WINDOW_ANGER_L>Ах ты мелочь! Похоже, я знаю, кого буду\nискать первым, когда буду водить!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_03",
+   "key": "9c7e9f57",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак, решим, кто водит. Камень, ножницы,\nбумага. Готовы? Камень, ножницы, бумага,\nраз-два-три!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_04",
+   "key": "0bd594fe",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nПрости, <_____MYNAME_____>. Проигрыш, так что водишь ты.\n<PAGE>\nА значит, мы прячемся. Как досчитаешь до\nтридцати, иди искать, лады?\n<PAGE>\n<FACE_LAUGH>Пошли, ребята! Скорее!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_05",
+   "key": "b952ca67",
+   "ru": "1... 2... 3...\n<PAGE>\n...\n<PAGE>\n29... 30...!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_06",
+   "key": "536942f2",
+   "ru": "(Так, пора их искать!)"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_07",
+   "key": "223561fa",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\n<WINDOW_MOJA_L>Эх, попался!\n<PAGE>\nТы стоял(а) спиной, вот я и решил\nпроскользнуть незаметно. Не утерпел..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_08",
+   "key": "278c0c25",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nЗначит, я первый? Тогда иди ищи остальных."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_09",
+   "key": "6155dd6e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_DISCOURAGEMENT_R>Попасться первым ― отстой. Значит, в этот раз\nвожу я, да? Вот же...\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_LAUGH><WINDOW_FUN_L>... ♪\n<PAGE>\n<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL>Хинату и правда часто находят первым, да?\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH><WINDOW_JOY_R>Меня тоже обычно находят первой. Хорошо,\nчто в этот раз не меня.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>Эх. Я парень “всё или ничего”. Люблю\nвыигрывать в самый последний момент.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH><WINDOW_KERAKERA_L>...Только выигрываешь ты почти никогда."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_10",
+   "key": "908848e3",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_ANGER_R>Что ты сказал? Как вы смеете надо мной\nсмеяться, мелюзга!\n<PAGE>\nКак найду ― защекочу всех! Так, ра-а-аз!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_11",
+   "key": "ce0e209f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nПожалуй, на сегодня пряток хватит. До\nвстречи, ребятня!\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>Было очень весело с тобой играть, <_____MYNAME_____>. Надеюсь,\nещё придёшь к нам.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>Обещай...\n<PAGE>\n<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>Большое спасибо, <_____MYNAME_____>. Ещё увидимся."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_12",
+   "key": "752fc1ab",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nФух, вымотался.\n<PAGE>\nПрости, что оторвал тебя от работы, <_____MYNAME_____>. И\nспасибо за всё."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_13",
+   "key": "7042cf0f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗа что спасибо? Когда ты водил(а), первым\nнашёлся я, так?\n<PAGE>\nТебе так и быть скажу: процентов на 30 я\nиграл всерьёз, а процентов на 70 это был\nспектакль."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_14",
+   "key": "ccbfe6d3",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nВ каждой игре у детей что-то своё получается\nлучше, так?\n<PAGE>\nИ когда играешь с одной и той же компанией\nснова и снова...\n<PAGE>\n<FACE_LOSS>Скучно, если каждый раз проигрываешь или\nоказываешься последним.\n<PAGE>\n<FACE_SAD>Понимаю, что иногда так уж выходит, но это\nведь немного грустно?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_15",
+   "key": "755bbc53",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nМожет, потому что я вырос с кучей братьев и\nсестёр, но я сам такое испытал...\n<PAGE>\nПоэтому хочу, чтобы у этих троих было много\nвесёлых воспоминаний."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_16",
+   "key": "8fb1d2ab",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, прости, что так посерьёзнел.\n<PAGE>\nЯ ведь не всё время так думаю. Обычно я\nвыкладываюсь на полную, понимаешь?\n<PAGE>\nОни дети, но когда доходит до дела, я пощады\nне знаю. Поэтому и тебе было весело, правда?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_17",
+   "key": "e7c4268a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nРад! Надеюсь, ещё поиграешь с нами. Знаю, они\nбудут рады, и я тоже."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_APPRENTICE_1_18",
+   "key": "2c570569",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nНу, мне тоже пора. Увидимся, <_____MYNAME_____>. Жду\nследующего раза!"
+  }
+ ]
+}
