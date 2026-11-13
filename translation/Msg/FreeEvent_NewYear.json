@@ -1,0 +1,1195 @@
+{
+ "file": "FreeEvent_NewYear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_NEW_YEAR_00",
+   "key": "94c9313b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом! Рад, что ты с нами. Весело\nбыло?\n<PAGE>\nЯ всегда встречал Новый год с бабулей и\nдедулей, так что праздновать вот так со всеми\n― весело!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_NEW_YEAR_01",
+   "key": "d82a41dd",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nФейерверки в этом году так и грохотали!\nБудто ревели в честь начала нового года.\n<PAGE>\n<FACE_NORMAL>Хе, если бы Форд такое услышал, наверняка\nсъязвил бы!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_NEW_YEAR_02",
+   "key": "d78e2c3f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом! Ах, нет праздника лучше\nновогоднего.\n<PAGE>\nТолько не налегай сегодня на выпивку,\nслышишь?\n<PAGE>\nНекоторые слишком уж увлекаются. Не нужны\nнам неприятности в ночь, которая должна быть\nвесёлой."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Postman_NEW_YEAR_00",
+   "key": "021db763",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nСмотреть фейерверки вместе с тобой. Видно, я\nсамый везучий парень на свете.\n<PAGE>\nХорошая примета на весь год! Рассчитываю на\nтебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Postman_NEW_YEAR_01",
+   "key": "1f608f87",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом! И слушай, прошлый год был\nнеплохим, так что праздновать есть что!\n<PAGE>\nНо этот год можно сделать ещё лучше. Что\nскажешь, напарница?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Postman_NEW_YEAR_00",
+   "key": "e5774a40",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЖду волшебного года вместе, <_____MYNAME_____>. Фейерверки?\nЧестно говоря, я на них толком и не смотрел!\n<PAGE>\nТвои глаза... Так увлечённо смотрели на\nфейерверки... Я не мог не смотреть на них!\n<PAGE>\nВообще, жду не дождусь смотреть в эти глаза\nкаждый день этого года!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Postman_NEW_YEAR_01",
+   "key": "6cdcaa93",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе представляю лучшего начала года, чем\nпровести его с тобой.\n<PAGE>\nИ следующего года, и того, что после...\n<PAGE>\nМожет, почту разношу я, но ты ― моя особая\nпосылка! Всегда ею была, по-моему!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_NEW_YEAR_00",
+   "key": "6907e986",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nРекомендую смотреть фейерверки с\nбезопасного расстояния. Ударная волна может\nнеобратимо повредить слух."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_NEW_YEAR_01",
+   "key": "3335966a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом. Ты уже обдумал(а) планы на\nэтот год?\n<PAGE>\nЕсли идти по жизни без целей, время\nзакончится раньше, чем заметишь."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_NEW_YEAR_02",
+   "key": "47abbf51",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом.\n<PAGE>\nПожалуйста, если почувствуешь колики в\nживоте, пульсацию в черепе или ушиб копчика,\nбез колебаний приходи в клинику."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_NEW_YEAR_00",
+   "key": "88616916",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nАх, год начинается заново. Пожалуйста, без\nколебаний обращайся ко мне и в этом году.\n<PAGE>\nЯ всё время вижу, как ты бегаешь. Не хотелось\nбы увидеть разрыв связок колена. Но если что,\nприходи в клинику."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_NEW_YEAR_01",
+   "key": "edc719e4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOVE>\r\nКак тебе прекрасно известно, <_____MYNAME_____>, я не из тех, кто\nмыслит ненаучно. Логика и разум для меня\nпревыше всего.\n<PAGE>\nТак почему же у меня всегда так странно в\nживоте, когда я с тобой? Едва ли логичная\nреакция... но ничего не могу поделать."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_NEW_YEAR_00",
+   "key": "81481e70",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто такое? Клонит в сон? Ах, полагаю, это\nвполне понятно, учитывая время.\n<PAGE>\n<FACE_LAUGH>Я не против, если ты уснёшь здесь. Если нужно,\nотнесу тебя домой на руках."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_NEW_YEAR_01",
+   "key": "ed38bfc7",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЕщё один год. Пусть он, как и все годы, будет\nполон пациентов, которым я могу помочь.\n<PAGE>\n<FACE_SAD>Но годы неумолимы. Признаюсь, я уже не так\nточно владею скальпелем, как раньше.\n<PAGE>\n<FACE_LOVE>Ты будешь любить меня, даже если скальпель в\nмоей руке не безупречно твёрд? Поистине, слов\nромантичнее ещё не звучало."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_NEW_YEAR_00",
+   "key": "975e95c0",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nХе-хе! Ты впервые пробуешь моти? Странная\nтекстура, правда?\n<PAGE>\nС соевым соусом и соевой мукой вкусно, но мне\nбольше всего нравится сладость бобовой\nпасты."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_NEW_YEAR_01",
+   "key": "64aab2c8",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом! Я ударил в колокол и пожелал\nздоровья на этот год."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_NEW_YEAR_02",
+   "key": "dc1607a0",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, ты бывал(а) на новогодних праздниках в\nдругих городах?\n<PAGE>\n<FACE_LAUGH>Праздновать со всеми, похоже, весело. Но в\nитоге я люблю моти, с ними здесь как дома."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Chaser_NEW_YEAR_00",
+   "key": "cbd5dcd0",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, понравилось толочь моти? Ты так\nувлеклась, <_____MYNAME_____>. Была такая милая.\n<PAGE>\nХотел бы видеть эту твою сторону почаще!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Chaser_NEW_YEAR_01",
+   "key": "abd45fb5",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом. Я рад, что встретил новый год\nвместе с тобой.\n<PAGE>\nВесело проводить вечер со всеми, но с\nлюбимым человеком на душе особенно\nспокойно."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Chaser_NEW_YEAR_00",
+   "key": "612a1c9a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nЧем больше мы живём вместе, тем тревожнее\nмне, когда тебя нет рядом.\n<PAGE>\nЛюбимая, в этом году хочу проводить с тобой\nещё больше времени. Только вдвоём, если\nможно."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Chaser_NEW_YEAR_01",
+   "key": "adc3eadd",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, ты так мило выглядела с щеками,\nнабитыми моти. Такое счастливое было лицо.\n<PAGE>\nЯ тоже выглядел счастливым? Ну конечно! Я\nлюблю данго и моти.\n<PAGE>\n<FACE_LOVE>Но больше всего меня наполняет счастьем то,\nчто ты рядом, <_____MYNAME_____>. Не могу не осыпать тебя\nсловами любви!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_NEW_YEAR_00",
+   "key": "6c770dc6",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом! Ты в порядке? Толочь моти ―\nдело нелёгкое!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_NEW_YEAR_01",
+   "key": "526dd5b6",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nХа-а-а! Наелся до отвала! Моти такие\nвкусные, что всегда переедаю!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_NEW_YEAR_02",
+   "key": "b33ba13f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nХм? Как мой ожог? Уже не болит, не волнуйся.\nЯ и так привык ушибаться.\n<PAGE>\nСпасибо, что волнуешься!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Apprentice_NEW_YEAR_00",
+   "key": "4f68881f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nРад, что прошлый год пережил целым! Может,\nпотому что ты всё время заходишь с\nгостинцами, <_____MYNAME_____>?\n<PAGE>\nСпасибо за всё, что ты для меня делаешь!\nОтплатить мне нечем, но ты правда меня\nвыручаешь!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Apprentice_NEW_YEAR_01",
+   "key": "36aa9a89",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЭх, моти и правда вкуснота! Юдзуки сделал\nсвой особый соус, и это было просто потрясно!\n<PAGE>\nХм? Ты тоже умеешь делать соус? Ревнуешь к\nЮдзуки, <_____MYNAME_____>?\n<PAGE>\nА-ха-ха. Прости, просто захотелось тебя\nподразнить. Не волнуйся, твоя стряпня мне\nнравится больше всего!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Apprentice_NEW_YEAR_00",
+   "key": "48924a62",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что была со мной в прошлом году.\nФермерская жизнь мне не надоедает. Жду и\nэтого года.\n<PAGE>\nА давай проведём вместе и следующий год, и\nтот, что после? Да что там, ближайшие\nнесколько десятилетий?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Apprentice_NEW_YEAR_01",
+   "key": "c740db0c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nА? Обожглась моти? Ну что ты, <_____MYNAME_____>. Только что\nведь говорила, что всё в порядке!\n<PAGE>\nА, обожглась, пока ела? Ох, ну и ну... Как\nдоешь, давай скорее домой."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_NEW_YEAR_00",
+   "key": "48260f4b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nДля первого раза танцуешь ты неплохо.\n<PAGE>\nДавай потанцуем вместе и на следующем\nпразднике."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_NEW_YEAR_01",
+   "key": "5f7eddc0",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>, а? Рад, что и в этом году удалось\nпотанцевать с тобой.\n<PAGE>\n<FACE_SAD>Хотя эти близняшки так мило танцуют..."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_NEW_YEAR_02",
+   "key": "88638196",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nОгромную рыбу, которую мы едим каждый\nгод, ловит Захау.\n<PAGE>\nЯ иногда помогаю, но она такая большая, что\nбольшинству её не поднять!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Craftman_NEW_YEAR_00",
+   "key": "435a87d2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсли удаётся потанцевать с тобой, понятно, что\nгод будет хорошим.\n<PAGE>\nЕсли ты не против, потанцуй со мной и в\nследующем году, ладно?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Craftman_NEW_YEAR_01",
+   "key": "d32b6871",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nС тобой мне спокойно не так, как с Илукой и\nСилукой, а по-другому.\n<PAGE>\nКажется, что год с самого начала складывается\nхорошо. Давай придём и в следующем году."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Craftman_NEW_YEAR_00",
+   "key": "9e6801c5",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЖду каждого нашего танца как пары.\n<PAGE>\nТолько не хочется, чтобы танцы кончались!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Craftman_NEW_YEAR_01",
+   "key": "d7080c6c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nКаждый год Захау оправдывает всеобщие\nожидания и ловит огромную рыбу.\nПотрясающий он!\n<PAGE>\nКак мужчина, я им очень восхищаюсь. Может,\nподкачаться, чтобы стать таким же\nздоровяком?\n<PAGE>\n<FACE_LAUGH>Думаешь, я и так достаточно силён? Махало.\nРаз ты так говоришь, <_____MYNAME_____>, я доволен.\n<PAGE>\nЯ ведь силён лишь потому, что должен\nзащищать любимую женщину."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_NEW_YEAR_00",
+   "key": "f0c8510d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом, <_____MYNAME_____>! ♪ Жду не дождусь, как\nзацветут цветы в новом году.\n<PAGE>\nЖелаю тебе чудесного года, полного цветов. ♪"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_NEW_YEAR_01",
+   "key": "dcd70d60",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nФейерверки напоминают мне цветы, когда\nвзрываются. ♪\n<PAGE>\nВсё думаю, если бы сделать из каждого букет,\nкакие цветы взять, какую ленту. Всякое такое!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_NEW_YEAR_02",
+   "key": "7bf572af",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЦветам ночью всегда нужно немного полива, но\nсегодня я засижусь чуточку подольше.\n<PAGE>\nЭто же Новогодний праздник! Цветы дождутся\nменя дома. ♪"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Florist_NEW_YEAR_00",
+   "key": "1cb1d180",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nКогда я только приехала в этот город, не\nдумала, что проведу Новогодний праздник с\nлюбимым.\n<PAGE>\nТы прекрасен, как любой из моих цветов, <_____MYNAME_____>. ♪"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Florist_NEW_YEAR_01",
+   "key": "4a70919d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nБыло бы так здорово провести и следующий\nНовый год с тобой, <_____MYNAME_____>.\n<PAGE>\nЧто, думаешь, рановато так думать? Но год с\nтобой пролетает так быстро!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Florist_NEW_YEAR_00",
+   "key": "2ee0b8ce",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nУже поздно. Мне немного зябко.\n<PAGE>\n<FACE_LOVE>Батюшки! Н-не ожидала, что ты вдруг\nвозьмёшь меня за руку!\n<PAGE>\nНо спасибо. У тебя очень тёплая рука.\n<PAGE>\n<FACE_LAUGH>Это будет чудесный год, <_____MYNAME_____>. <RED>∀</RED>"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Florist_NEW_YEAR_01",
+   "key": "6ef857cd",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nМоя цель на этот год? Проводить с тобой как\nможно больше времени!\n<PAGE>\nХи-хи-хи... Ты как венерина мухоловка, <_____MYNAME_____>. Но в\nсамом лучшем смысле! <RED>∀</RED>"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_NEW_YEAR_00",
+   "key": "ac8c2406",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом! Рассчитываю на тебя и в этом\nгоду.\n<PAGE>\nЗаглядывай в чайную потусоваться! Принесу\nтебе отличного чаю."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_NEW_YEAR_01",
+   "key": "08797dce",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nМне нравятся новогодние праздники в других\nгородах, но...\n<PAGE>\nЯ привыкла к тому, как у нас, в Цуюкусе.\n<PAGE>\nБез колоколов и моти как-то странно."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_NEW_YEAR_02",
+   "key": "7a402a39",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\nУдарив в колокол 108 раз, очищаешь разум от\nдурных мыслей! Нельзя позволять желаниям\nсебя поглотить."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_NEW_YEAR_00",
+   "key": "c2c6a95f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nКогда встречаю новый год с тобой, всё видится\nгораздо яснее. Всё сверкает!\n<PAGE>\nХорошо бы это сверкание продлилось до утра.\nНе хочу, чтобы ты уже уходил домой, если\nпонимаешь, о чём я!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_NEW_YEAR_01",
+   "key": "deb6a9f9",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЭй, у тебя что-то на губах! Уберу, наклонись\nпоближе.\n<PAGE>\nВот, готово. Соевая мука. Это когда ты ел\nмоти, да?\n<PAGE>\n<FACE_LAUGH>А ты на удивление неуклюж! Рада помочь!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_NEW_YEAR_00",
+   "key": "8e2e5bc8",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nКогда слышу звон колокола, мне немного\nгрустно. Будто ещё один год закончился,\nпонимаешь?\n<PAGE>\nЗнаю, для меня это как-то уныло!\n<PAGE>\n<_____MYNAME_____>, обещаю, завтра буду как обычно, так что\nподержишь меня за руку, хоть сейчас?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_NEW_YEAR_01",
+   "key": "c8dcd859",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом. Рада, что и в этом году мы\nвместе!\n<PAGE>\nБуду стараться изо всех сил быть тебе опорой!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_NEW_YEAR_00",
+   "key": "e1fbb972",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом.\n<PAGE>\nСлушать звон колокола и встречать новый год с\nчистым сердцем ― традиция этого города.\n<PAGE>\nА ещё этот праздник ― чтобы выразить\nблагодарность тем, кто помогал в прошлом\nгоду."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_NEW_YEAR_01",
+   "key": "c8adbe37",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом. Надеюсь и в этом году на наше\nсотрудничество.\n<PAGE>\nА теперь мне пора. Нужно обойти и поздравить\nучеников."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_NEW_YEAR_02",
+   "key": "d3824278",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом, <_____MYNAME_____>.\n<PAGE>\nВ школе мы будем писать новогодние\nобещания. В начале года задания свободные,\nтак что написать можно немало."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_NEW_YEAR_00",
+   "key": "76d73d14",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом. И в этом году я на тебя\nполагаюсь.\n<PAGE>\nДумаешь, я слишком серьёзна? Но новогодние\nприветствия нужно произносить как подобает."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_NEW_YEAR_01",
+   "key": "efbef5a9",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом, <_____MYNAME_____>. Вот, возьми моти.\n<PAGE>\nТы ведь почти ничего не съел? Всю ночь толок\nмоти.\n<PAGE>\nЯ специально оставила для тебя, так что,\nпрошу, ешь."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_NEW_YEAR_00",
+   "key": "3e12d49e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом, <_____MYNAME_____>.\n<PAGE>\nБлагодаря тебе Новогодний праздник прошёл\nбез проблем. Последний удар в колокол,\nвнимание ко всему вокруг...\n<PAGE>\nТы и правда стал правой рукой Гиндзиро. Я\nвидела это и раньше, но всё равно впечатляет."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_NEW_YEAR_01",
+   "key": "9435a3a9",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом, <_____MYNAME_____>. Отличная работа.\n<PAGE>\nЗнаю, ещё есть дела на ферме, но постарайся\nотдохнуть. Новогоднее угощение я уже\nприготовила."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_NEW_YEAR_00",
+   "key": "9907b8f3",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nБезупречный танец. Видно, что ты потратил(а)\nвремя на репетиции.\n<PAGE>\nАлло, тебя хвалит жрица! Такое нечасто\nбывает."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_NEW_YEAR_01",
+   "key": "1b895416",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nДумаешь, наш танец был красивым?\n<PAGE>\nКонечно. Мы репетировали к празднику\nкаждый божий день."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_NEW_YEAR_02",
+   "key": "f36c99fe",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВ Вестауне на Новогодний праздник запускают\nфейерверки? Звучит неплохо.\n<PAGE>\nХотелось бы, чтобы и наш город устраивал\nпраздник с таким размахом."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_NEW_YEAR_00",
+   "key": "1b14097d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗева-а-аю... Так скучно, когда уже знаешь, кто\nбудет рядом в новом году.\n<PAGE>\n<FACE_LOVE>Хе, попался! Ты же знаешь, с тобой скучать не\nприходится!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_NEW_YEAR_01",
+   "key": "de435d0f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nАх, было весело! ♪\n<PAGE>\n<FACE_LOVE>Эй, я люблю танцевать. Что тут скажешь? Мне\nредко что вызывает улыбку, знаешь ли!"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_NEW_YEAR_00",
+   "key": "e651cc5a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nТы смотрел, как я танцую?\n<PAGE>\n<FACE_LAUGH>Вот как! Хорошо. Я весь танец думала о тебе, <_____MYNAME_____>.\nЯ была просто сногсшибательна, правда?"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_NEW_YEAR_01",
+   "key": "682cc1c0",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nКакой красивый костёр. Ну, я же его\nразжигала, так что, конечно, он потрясающий!\n<PAGE>\n<FACE_SAD>Э, что ты делаешь с моей рукой?\n<PAGE>\nТьфу. От тебя ничего не скроешь, да? Да,\nобожгла руку, когда разжигала. Не верится,\nчто я так оплошала.\n<PAGE>\n<FACE_NORMAL>Но впечатляет, что ты заметил! Хотя как НЕ\nзаметить такую сногсшибательную жрицу, как\nя!"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_NEW_YEAR_00",
+   "key": "a7f31f8e",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, <_____MYNAME_____>, ты отлично танцуешь.\n<PAGE>\nВ следующем году, если ты не против, я была\nбы рада снова с тобой потанцевать."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_NEW_YEAR_01",
+   "key": "2c2d6e8c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nВсе хвалят мой танец.\n<PAGE>\nНо я слишком много танцевала, и теперь\nхочется спать."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_NEW_YEAR_02",
+   "key": "7b0a835f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНа праздник всю рыбу поймал Захау.\n<PAGE>\n...Надо всё, что связано с рыбой, оставить\nЗахау. Махало, Захау."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_NEW_YEAR_00",
+   "key": "89ac6fd1",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, когда ты рядом, аура у всех окрашивается в\nкрасивый цвет.\n<PAGE>\nА когда ты со мной, <_____MYNAME_____>, моя аура становится\nрозовой.\n<PAGE>\nТы ведь понимаешь, что это значит?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_NEW_YEAR_01",
+   "key": "405b45f8",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nСегодня особенный день. Ведь я танцевала с <_____MYNAME_____>!"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_NEW_YEAR_00",
+   "key": "9516de4e",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПраздник в этом году прошёл неплохо. Рада,\nчто все увидели, как я танцую.\n<PAGE>\nНо теперь хочу встретить новый год наедине,\nтолько вдвоём."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_NEW_YEAR_01",
+   "key": "e99f7dd3",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМеня очень легко клонит в сон, но сегодня я не\nлягу допоздна.\n<PAGE>\nЛучше заставлю себя не спать, чем проведу\nхоть минуту без тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_NEW_YEAR_00",
+   "key": "573dffa5",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nКогда вижу, как в небо взлетают фейерверки,\nчувствую начало нового года.\n<PAGE>\n<FACE_LAUGH>Моя цель на этот год? Ну, посмотрим... Хочу\nпоймать рыбу ещё больше прошлогодней."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_NEW_YEAR_01",
+   "key": "0ff8b8c1",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nВ моём возрасте начинаешь волноваться, хватит\nли сил не спать допоздна, но...\n<PAGE>\nНа Новогоднем празднике утро наступает в\nмгновение ока. Время летит, когда весело."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_NEW_YEAR_02",
+   "key": "2cd77809",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nНу как, <_____MYNAME_____>? Хорошо проводишь время?\n<PAGE>\nТы здорово помог(ла) в прошлом году. И в\nэтот раз на тебя рассчитываю."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_NEW_YEAR_00",
+   "key": "6d656f45",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>! С Новым годом! И в этом году на тебя\nрассчитываю!\n<PAGE>\nКак тебе фейерверки? Грохотали, правда?\n<PAGE>\nГод надо начинать с рёва, а не с писка!\nОтличное вдохновение."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_NEW_YEAR_01",
+   "key": "94587a97",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nУх! Первый глоток в году ― самый лучший!\n<PAGE>\nПравда, если выпью слишком много, Кэрри\nустроит скандал! Однажды я так напился, что\nотключился...\n<PAGE>\nВыпить я люблю, но тебе не стоит брать с меня\nпример, <_____MYNAME_____>!"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_NEW_YEAR_02",
+   "key": "7f6b79a0",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nВ этом году мы с дедушкой помогали с\nугощением.\n<PAGE>\nКонечно, я очень доволен всем, что\nприготовил! Ешь сколько хочешь, <_____MYNAME_____>. И скажи,\nкак тебе!"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_NEW_YEAR_00",
+   "key": "1270ed7b",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nО, и ты на празднике, <_____MYNAME_____>?\n<PAGE>\nФейерверки были такие роскошные. Встречать\nновый год большим праздником ― то, что\nнадо! ♪"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_NEW_YEAR_01",
+   "key": "368866f5",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_ANGRY>\r\nМне надо следить, чтобы Брэд не перебрал!\n<PAGE>\n<FACE_LAUGH>Знаю, весело и всё такое, но если ему станет\nплохо, лучше уж не пить!"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_NEW_YEAR_02",
+   "key": "73340a54",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nПонравилась еда? В этом году Брэд с дедушкой\nпомогали готовить.\n<PAGE>\nЯ тоже каждый год хочу помочь, но они всегда\nговорят, что мне не о чем беспокоиться!\n<PAGE>\n<FACE_LAUGH>Мило, правда, <_____MYNAME_____>? ♪"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_NEW_YEAR_00",
+   "key": "bff6477a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЯ так рада, что ты пришёл(шла) на наш\nНовогодний праздник, <_____MYNAME_____>.\n<PAGE>\nЧувство, что становишься ближе к людям\nвокруг, когда взлетают фейерверки, ―\nглавное, за что я люблю наш праздник.\n<PAGE>\nЕсли тебе понравилось, будем рады видеть\nтебя снова."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_NEW_YEAR_01",
+   "key": "61baf484",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nПрошлый год был хорошим. Все были\nсчастливы и здоровы.\n<PAGE>\nНадо постараться, чтобы этот год был не хуже\nпрошлого!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_NEW_YEAR_02",
+   "key": "b64122f8",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nС тех пор как ты приехал(а), город и правда\nожил!\n<PAGE>\nКогда все счастливы и бодры, это видно и при\nподготовке к празднику.\n<PAGE>\nОгромное спасибо!"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_NEW_YEAR_00",
+   "key": "7b51a50d",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nМы любим начинать новый год с грохотом.\n<PAGE>\nБрэд отлично справляется с едой. Жалоб на\nнего никогда не было."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_NEW_YEAR_01",
+   "key": "50edfcf6",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nА, ты много помог(ла) в прошлом году.\n<PAGE>\nЕсли в новом году нам что-то понадобится,\nмоя семья даст знать."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_NEW_YEAR_02",
+   "key": "9a19c45c",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nПосле праздника мы не стесняемся сытно поесть\nи выпить.\n<PAGE>\nС полным животом новый год начинается как\nнадо."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_NEW_YEAR_00",
+   "key": "14441c09",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nКак тебе фейерверки? Были очень красивые.\n<PAGE>\nТолько сегодня мне можно не спать всю ночь.\nЕсли не усну, увижу восход!\n<PAGE>\nЗавтра буду ужасно сонным, но это же первый\nвосход нового года! Оно того стоит."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_NEW_YEAR_01",
+   "key": "f1ae5cc3",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nУ Новогоднего праздника какая-то загадочная\nатмосфера! Все собираются поздно ночью и всё\nтакое.\n<PAGE>\nХоть и поздно, все полны сил, и так весело!"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_NEW_YEAR_02",
+   "key": "b9fe9063",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>. Э-э... С Новым годом.\n<PAGE>\nЯ хочу попробовать не спать всю ночь, чтобы\nувидеть восход, но, по правде, уже хочется\nспать.\n<PAGE>\nЕсли усну посередине, разбудишь меня?"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_NEW_YEAR_00",
+   "key": "c21d57fc",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nРад, что ты с нами, <_____MYNAME_____>!\n<PAGE>\nФермерство ― дело нелёгкое, но сегодня\nхороший день, чтобы отдохнуть и вспомнить\nвсе труды прошлого года."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_NEW_YEAR_01",
+   "key": "ecec3805",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nУ-ух ты! Ну и грохотали сегодня фейерверки!\n<PAGE>\nПо мне, нет ничего лучше, чем глазеть на эти\nбахи и бумы с большой кружкой пива!"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_NEW_YEAR_02",
+   "key": "563ebdb5",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНе забывай! Только благодаря Меган мы\nможем наслаждаться фермерской жизнью!\n<PAGE>\n<FACE_LAUGH>Ну всё! Гуляем до рассвета, <_____MYNAME_____>!"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_NEW_YEAR_00",
+   "key": "a7ae373e",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nКак тебе фейерверки?\n<PAGE>\nКогда вижу, как они взмывают в небо, так и\nхочется запеть!\n<PAGE>\nРада, что тебе тоже понравилось. Рассчитываю\nна тебя в этом году."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_NEW_YEAR_01",
+   "key": "728d244c",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nПосле праздника Колин ни за что не идёт\nдомой, пока не увидит восход, так что Ноэль\nтоже изо всех сил старается не спать.\n<PAGE>\nНо в итоге всегда засыпает и восхода не видит!"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_NEW_YEAR_02",
+   "key": "4006e140",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nФейерверки в этом году грохотали даже\nсильнее обычного!\n<PAGE>\nСоздать такую атмосферу важно. Все гуляют в\nначале года, и кажется, что год будет\nхорошим!"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_NEW_YEAR_00",
+   "key": "db0a1e92",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nО, <_____MYNAME_____>. Давай повеселимся в этом году! ♪\n<PAGE>\nФейерверки очень красивые, правда? И еда\nпотрясная! Я всегда жду Новогоднего\nпраздника."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_NEW_YEAR_01",
+   "key": "5c944cb2",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nА, <_____MYNAME_____>. С Новым годом! ♪\n<PAGE>\nКогда праздник заканчивается, взрослые идут\nвыпивать и ждут восхода.\n<PAGE>\nКолин говорит, что это очень красиво, так что\nя тоже не сплю, но всегда в итоге засыпаю.\n<PAGE>\n<FACE_NORMAL>*зевок* Сегодня я... Мне немножко хочется\nспать..."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_NEW_YEAR_02",
+   "key": "34ccb88b",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nФейерверки в этом году были суперпотрясные!\n♪\n<PAGE>\nКолин будет их рисовать. Он рисует их каждый\nгод, давай сходим посмотрим!"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_NEW_YEAR_00",
+   "key": "c2310f41",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nСлушать звон колокола и есть моти, встречая\nновый год, ― обычай этого города.\n<PAGE>\nЯ уже совсем старый, так что, когда ем моти,\nнадо следить, чтобы не застрял в горле!"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_NEW_YEAR_01",
+   "key": "13a348c1",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nГоворят, в Вестауне встречают новый год\nобратным отсчётом.\n<PAGE>\nА здесь мы бьём в колокол 108 раз в знак\nсмены года.\n<PAGE>\n108-й удар приходится ровно на миг, когда\nнаступает новый год.\n<PAGE>\n<FACE_LAUGH>Иными словами, это, по сути, обратный отсчёт\nнашего города!"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_NEW_YEAR_02",
+   "key": "6bbe639a",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом. Мы с Омиё рассчитываем на\nтебя в этом году.\n<PAGE>\nТы чудесно бил(а) в колокол в этом году.\nХо-хо-хо!"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_NEW_YEAR_00",
+   "key": "5fa1bc98",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом. Вот так наш город встречает\nновый год!\n<PAGE>\nБьём в колокол и едим моти... Моти, которые\nнатолок сам, вкуснее всего, правда?"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_NEW_YEAR_01",
+   "key": "0753a24b",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом, <_____MYNAME_____>.\n<PAGE>\nМы с Умэкити рассчитываем на тебя в этом\nгоду.\n<PAGE>\nМоти, которые ты натолок(ла), были очень\nвкусными!"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_NEW_YEAR_02",
+   "key": "f902c9ed",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nУмэкити ест моти не торопясь.\n<PAGE>\nКак-то раз у него в горле застряла тапиока!\n<PAGE>\nС тех пор он всё мягкое и тягучее жуёт\nмедленно."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_NEW_YEAR_00",
+   "key": "d80653e3",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nНу как? Каково бить в колокол?\n<PAGE>\nИменно слыша традиционный звон, я могу\nпривести чувства в порядок и встретить новый\nгод. Надеюсь, дела в этом году пойдут в гору."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_NEW_YEAR_01",
+   "key": "956af3ab",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nГоворят, каков первый день года, таков и весь\nгод. Значит, важно начать с правильной ноги.\n<PAGE>\nСоставь план пораньше и оторвись от\nконкурентов."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_NEW_YEAR_02",
+   "key": "d4c729b8",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом. Рассчитываю на тебя в этом\nгоду.\n<PAGE>\nНовогодние приветствия важны. Сходи-ка,\nобойди всех."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_NEW_YEAR_00",
+   "key": "71170799",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом, <_____MYNAME_____>!\n<PAGE>\nВот так и начинается новый год. Я полна сил!"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_NEW_YEAR_01",
+   "key": "aa3dfb81",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nУх, делать моти ― лучше всего! Я наелась до\nотвала!\n<PAGE>\nРабота тяжёлая, но тем вкуснее!"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_NEW_YEAR_02",
+   "key": "c37d2098",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом. У тебя есть цель на этот год, <_____MYNAME_____>?\n<PAGE>\nВ этом году я собираюсь быть гораздо менее\nнеуклюжей! ...Э, пожелай мне удачи!"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_NEW_YEAR_00",
+   "key": "e55ccb11",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nНу как, <_____MYNAME_____>? Ну, бить в колокол? Куда тяжелее,\nчем кажется, верно?\n<PAGE>\nЗвучало отлично! Оно и понятно, ты ведь\nвсегда так трудишься на ферме.\n<PAGE>\nХочешь бить в колокол и в следующем году?"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_NEW_YEAR_01",
+   "key": "8d82112d",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Налетай! Бери моти!\n<PAGE>\nИх хватит и на добавку. Ох, только жуй как\nследует, прежде чем глотать!"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_NEW_YEAR_02",
+   "key": "b83975d7",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКогда меняется календарь, для меня это ещё не\nНовый год.\n<PAGE>\nНет уж! Не признаю его официально, пока не\nпрозвонит колокол и мы все не налопаемся\nмоти!\n<PAGE>\n<FACE_LAUGH><_____MYNAME_____>, рассчитываю, что этот год будет лучше\nпрошлого! Не то чтобы прошлый был плох,\nучти. Но можно и лучше!"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_NEW_YEAR_00",
+   "key": "665e0a50",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nДля первого раза в колокол бьёшь неплохо.\n<PAGE>\nС Новым годом. И в этом году на тебя\nрассчитываю."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_NEW_YEAR_01",
+   "key": "39ac4f39",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом. Моти вкусные? Не торопись!\nГод только начался."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_NEW_YEAR_02",
+   "key": "667ebade",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЗвон колокола меня очень успокаивает. Пусть\nгод будет хорошим."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_NEW_YEAR_00",
+   "key": "6de4ddbb",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом. Как тебе новогодний праздник\nнашего города?\n<PAGE>\nДавай трудиться, чтобы этот год был ещё\nлучше прошлого!"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_NEW_YEAR_01",
+   "key": "4b1d1b7b",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nМне нравится звук колокола. Он успокаивает,\nбудто сердце очищается.\n<PAGE>\nРассчитываю на тебя в этом году, <_____MYNAME_____>."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_NEW_YEAR_02",
+   "key": "5ea4ec07",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nС Новым годом. Свежие моти были вкусными.\n<PAGE>\nНо я часто слышу, что они застревают в горле,\nтак что жуй как следует, ладно?"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_NEW_YEAR_00",
+   "key": "7fb5d4a1",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, последний удар в колокол был отличный.\n<PAGE>\n<FACE_NORMAL>Когда слышу этот звук, правда чувствую, что\nпришёл новый год. Как же быстро летит год!"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_NEW_YEAR_01",
+   "key": "1d228671",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nЯ пока не могу бить в колокол один, так что\nнам с Яити помогает папа.\n<PAGE>\nТак что, когда я вырасту и смогу бить сам,\nбуду чувствовать себя совсем взрослым, <_____MYNAME_____>!"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_NEW_YEAR_02",
+   "key": "e4a6525e",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, в прошлом году всё было отлично!\n<PAGE>\nУ тебя есть цель на этот год? Я ещё не решил.\n<PAGE>\n<FACE_LAUGH>О! Может, буду присматривать за Сумомо,\nчтобы она достигла своей цели!"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_NEW_YEAR_00",
+   "key": "15d1cecb",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, привет.\n<PAGE>\n<FACE_LAUGH>Моти вкусные."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_NEW_YEAR_01",
+   "key": "15116f4f",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nКолокол. Я бил в него с братиком. Звук был\nгромкий."
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_NEW_YEAR_02",
+   "key": "d109de8c",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМ-м... Спать хочется... <_____MYNAME_____>, ты ещё не спишь?"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_NEW_YEAR_00",
+   "key": "986d5d45",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nПонравился новогодний праздник нашего\nгорода?\n<PAGE>\nСегодня ты отлично танцевал(а). Танцы со\nмножеством людей и правда заводят."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_NEW_YEAR_01",
+   "key": "806b1d8b",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nОгонь ― одно из важнейших орудий человека.\nНа нём ведь готовят, верно? Огню нужно\nвоздавать благодарность.\n<PAGE>\nСвежезажжённое пламя встречает новый год.\nКаким-то он будет?"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_NEW_YEAR_02",
+   "key": "581fff4c",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВ прошлом году ты очень помог(ла). А может,\nэто я помогала тебе!\n<PAGE>\n<FACE_LAUGH>Хё-хё-хё. Шучу. Жду великих свершений!"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_NEW_YEAR_00",
+   "key": "202a020e",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nГа-ха-ха-ха-ха-ха! Вот это был праздник!\n<PAGE>\nБез костра и танцев год у меня не начинается!"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_NEW_YEAR_01",
+   "key": "2eba8809",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Наелся(ась) как следует?\n<PAGE>\nМного есть и благодарить ― тоже часть\nцеремонии, понял(а)? Так мы встречаем новый\nгод!"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_NEW_YEAR_02",
+   "key": "9befc5ee",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nМне кажется, танцуешь ты всё лучше и лучше!\n<PAGE>\nЗначит, ты по-настоящему освоился(ась) в\nгороде. Давай как друзья гордо встретим\nновый год!"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_NEW_YEAR_00",
+   "key": "2fca8e14",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nЯ рада, что ты пришёл(шла) на новогодний\nпраздник нашего города, <_____MYNAME_____>!\n<PAGE>\nЧем больше друзей, тем лучше праздник!\n<PAGE>\nБлагодаря тебе это лучший Новогодний\nпраздник на моей памяти. Махало, <_____MYNAME_____>!"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_NEW_YEAR_01",
+   "key": "a351646d",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nТвой танец был фантастическим, <_____MYNAME_____>! Ты\nрепетировал(а)?\n<PAGE>\nВ последнее время Альма танцует всё лучше.\n<PAGE>\nГоворит, хочет стать жрицей... Знаю, я ей во\nвсём потакаю, но мне это показалось таким\nмилым!"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_NEW_YEAR_02",
+   "key": "70e02c62",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nИ этот год был хорошим! Жду не дождусь\nследующего!\n<PAGE>\nКаким ты хочешь сделать свой год? Я... Ну,\nпосмотрим. Лишь бы все были здоровы и\nсчастливы, и жаловаться не на что!"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_NEW_YEAR_00",
+   "key": "7c93dfa2",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nУх, танец старших сестрёнок и правда\nсуперкрасивый. Мне так ни за что не суметь."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_NEW_YEAR_01",
+   "key": "18a8cd9c",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nОго, эта рыба вкуснющая! Её тоже папа поймал!\n<PAGE>\nПапа потрясающий! Это такая важная\nцеремония, и он ― большая причина её успеха!"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_NEW_YEAR_02",
+   "key": "985ba953",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nОй, нет! Конец года, а я так и не устроил\nособенный розыгрыш! А ведь говорил себе, что\nв этом году точно...\n<PAGE>\n<FACE_LAUGH>Ну, видно, ничего не остаётся, кроме как\nустроить розыгрыш на начало года. Пойдёшь\nсо мной, <_____MYNAME_____>?"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_NEW_YEAR_00",
+   "key": "6efa79b2",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nХи-хи. ♪ <_____MYNAME_____> тоже здесь! Я суперрада. ♪\n<PAGE>\nИграй со мной много-много в этом году,\nладно? Обещание!"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_NEW_YEAR_01",
+   "key": "f5f3f46f",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nТанец старших сестрёнок был чудесный. ♪\nПрямо феи, правда?\n<PAGE>\nЯ тоже хочу так танцевать. Если стану жрицей,\nсмогу танцевать, как Илука и Силука?"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_NEW_YEAR_02",
+   "key": "10b7e723",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nЯ немножко боюсь костра.\n<PAGE>\nМожешь подержать меня за руку, <_____MYNAME_____>, ну\nпожа-а-алуйста? Хотя бы пока не пора будет\nдомой?"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_NEW_YEAR_00",
+   "key": "743b71b9",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nИ в этом году здесь? Как тебе наш праздник?!\nЗахватывающе, правда?\n<PAGE>\nРаз мы молимся пламени, значит, огонь ―\nпредмет поклонения, а?\n<PAGE>\n<FACE_NORMAL>А это значит, что на резьбе из руин... феникс?!\nИли, может..."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_NEW_YEAR_01",
+   "key": "b42fedca",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nВ этом году я внимательно наблюдала за\nважнейшим обычаем из всех: танцем жриц!\n<PAGE>\nСейчас они танцуют вдвоём, но какое-то время\nтанцевала одна Тототара.\n<PAGE>\nЗначит, число танцующих не так уж важно?\nПойду спрошу жриц!"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_NEW_YEAR_02",
+   "key": "33eb3805",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nВ этом году я внимательно присмотрелась к\nрыбе, которую едят на празднике. Похоже,\nкакой-то определённой рыбы нет.\n<PAGE>\nХм, кто бы в этом разбирался? Рыбак! Сейчас\nвернусь."
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_NEW_YEAR_00",
+   "key": "d5bfb86d",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nО, кстати, ты впервые на этом Новогоднем\nпразднике? Захватывающе, правда?\n<PAGE>\nТанцую я плохо, так что мне немного трудно,\nно всё равно нравится!"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_NEW_YEAR_01",
+   "key": "04d9e398",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nОй-ой-ой-ой! Профессор, как всегда, носится!\n<PAGE>\nЯ тут замечтался. Мне тоже пора!\n<PAGE>\nПрофессор, подождите меня-я-я-я!"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_NEW_YEAR_02",
+   "key": "f429bfb9",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nГорячо-горячо-горячо! Опять обжёгся о\nкостёр!\n<PAGE>\nХотел рассмотреть поближе! Будет мне урок!\nТы тоже будь осторожнее, <_____MYNAME_____>."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_NEW_YEAR_00",
+   "key": "050d5c6f",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо... Какой чудесный танец. Время от\nвремени потанцевать не так уж плохо.\n<PAGE>\n...Это движение... Применить к удару копьём...\nА потом...\n<PAGE>\nАх, прошу прощения. Задумался. С Новым\nгодом!"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_NEW_YEAR_01",
+   "key": "e6b5cb65",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХоть разок бы поймать такую большую рыбу.\n<PAGE>\n...Похоже, цель на год определилась."
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_NEW_YEAR_02",
+   "key": "a1ed5cc9",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКогда смотрю, как колышется пламя, на сердце\nстановится тихо. Надеюсь, и этот год будет\nотличным."
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_NEW_YEAR_00",
+   "key": "e30c6324",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, с Новым годом.\n<PAGE>\n...Я редко не сплю в такое время, так что\nкак-то странно.\n<PAGE>\nСпать совсем не хочется. Тебе нравится\nпраздник, <_____MYNAME_____>?"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_NEW_YEAR_01",
+   "key": "5e7577bd",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за всю помощь в прошлом году, <_____MYNAME_____>. И в\nэтом году на тебя рассчитываю.\n<PAGE>\nДавай постараемся, чтобы этот год был ещё\nлучше прошлого."
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_NEW_YEAR_02",
+   "key": "432edde7",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, а у тебя на родине есть такие праздники?\n<PAGE>\nНаверное, новый год стоит праздновать везде,\nда?"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_NEW_YEAR_00",
+   "key": "4d08f6fe",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nОтсчёт в этом году был таким захватывающим!\n♪\n<PAGE>\nБудешь смотреть восход, <_____MYNAME_____>?\n<PAGE>\nМногие в городе его ждут."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_NEW_YEAR_01",
+   "key": "be8681d6",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nФейерверки в этом году были тако-о-ие\nроскошные! ♪\n<PAGE>\nКогда вижу, как они взмывают ввысь, будто\nсама прыгаю в новое начало нового года.\n<PAGE>\nА что чувствуешь ты, <_____MYNAME_____>?"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_NEW_YEAR_02",
+   "key": "79c4f5d3",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nКак тебе Новогодний праздник в этом году?\nБыло столько аппетитной еды. Каждый год\nзавидую.\n<PAGE>\nГоворят, в Цуюкусе сегодня едят моти.\n<PAGE>\nА завтра ― особое новогоднее угощение.\n<PAGE>\nИм я тоже завидую!"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_NEW_YEAR_00",
+   "key": "2c1903e5",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nТанцуешь ты неплохо... для новичка!\n<PAGE>\nДумал(а), я не смотрю? Конечно, смотрела!\nВедьма видит всё!\n<PAGE>\n<FACE_LAUGH>Раз понимаешь, как я всемогуща, молчи и\nпразднуй со мной в следующем году!"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_NEW_YEAR_01",
+   "key": "e7f177e2",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nНу и чудные эти люди, каждый год празднуют\nновый год. Вы бессильны перед временем!\n<PAGE>\nРаз в сто лет праздновать ― более чем\nдостаточно!\n<PAGE>\n<FACE_SAD>А? Значит, у тебя за всю жизнь будет от силы\nодин праздник? Хм. Сочувствую!"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_NEW_YEAR_02",
+   "key": "21c06b96",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЧто за дела с этими кострами? Странный\nобычай.\n<PAGE>\nВоздавать пламени почести и молитвы, а?\nЛюди ― самые странные существа, что я\nвстречала!\n<PAGE>\nНо, эй, церемония была симпатичная, признаю."
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_NEW_YEAR_00",
+   "key": "7a58b95f",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЭто был твой первый Новогодний праздник?\nПо лицу вижу, что ты отлично вписываешься. Я\nрада.\n<PAGE>\nЕсли понравилось, буду рада встретить новый\nгод здесь и в следующий раз.\n<PAGE>\nПохоже, горожанам было ещё веселее\nблагодаря тебе.\n<PAGE>\nА главное, я счастлива. Ведь у меня есть кого\nпоздравить с Новым годом."
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_NEW_YEAR_01",
+   "key": "db037a4b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом. Я просто подражаю вам,\nлюдям, и приветствую тебя. И в этом году\nрассчитываю на твою поддержку.\n<PAGE>\nПрости, что меняю тему, но как думаешь, будет\nли вкусно, если положить моти в жареный\nтофу, <_____MYNAME_____>?\n<PAGE>\nКогда ешь моти каждый год, начинаешь думать\nо таком."
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_NEW_YEAR_02",
+   "key": "ed6592e1",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nСлушать звон колокола, приводить в порядок\nчувства и встречать новый год.\n<PAGE>\nЖители этого города твёрдо чтут обычаи.\nНадеюсь, год будет хорошим."
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_NEW_YEAR_00",
+   "key": "db037a4b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом. Я просто подражаю вам,\nлюдям, и приветствую тебя. И в этом году\nрассчитываю на твою поддержку.\n<PAGE>\nПрости, что меняю тему, но как думаешь, будет\nли вкусно, если положить моти в жареный\nтофу, <_____MYNAME_____>?\n<PAGE>\nКогда ешь моти каждый год, начинаешь думать\nо таком."
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_NEW_YEAR_01",
+   "key": "ed6592e1",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nСлушать звон колокола, приводить в порядок\nчувства и встречать новый год.\n<PAGE>\nЖители этого города твёрдо чтут обычаи.\nНадеюсь, год будет хорошим."
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_NEW_YEAR_00",
+   "key": "143e9a8a",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом, <_____MYNAME_____>. Что? Я улыбаюсь до ушей?\n<PAGE>\n<FACE_LOVE>Как подумаю, что проведу этот год с тобой,\nничего не могу поделать.\n<PAGE>\nПоэтому надеюсь, ты не против, что я буду\nрядом в этом году."
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_NEW_YEAR_01",
+   "key": "7776a8d6",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nС нашей встречи прошёл короткий год, а я уже\nполна счастливых воспоминаний.\n<PAGE>\nГод, проведённый с тобой, дороже мне, чем\nмногие годы моего существования до этого.\n<PAGE>\n<FACE_LOVE>Если и ты так же ценишь время вместе, я не\nмогла бы быть счастливее.\n<PAGE>\n<_____MYNAME_____>, в этом году я в твоих руках. Нет, отныне и до\nскончания времён."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_NEW_YEAR_00",
+   "key": "9b42bdfc",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nНа Новогоднем празднике все не спят допоздна.\nТак весело! Давай придём и в следующем году!"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_NEW_YEAR_01",
+   "key": "6473e064",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nТут много вкусной еды, и всем весело. Вот бы\nкаждый день был Новогодний праздник!\n<PAGE>\nНо... если бы все каждую ночь не спали\nдопоздна, мы бы все днём дремали. Наверное,\nраз в год достаточно."
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_NEW_YEAR_02",
+   "key": "7a677eec",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСегодня было так весело!\n<PAGE>\nС Новым годом!"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_NEW_YEAR_00",
+   "key": "9b42bdfc",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nНа Новогоднем празднике все не спят допоздна.\nТак весело! Давай придём и в следующем году!"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_NEW_YEAR_01",
+   "key": "6473e064",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nТут много вкусной еды, и всем весело. Вот бы\nкаждый день был Новогодний праздник!\n<PAGE>\nНо... если бы все каждую ночь не спали\nдопоздна, мы бы все днём дремали. Наверное,\nраз в год достаточно."
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_NEW_YEAR_02",
+   "key": "7a677eec",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСегодня было так весело!\n<PAGE>\nС Новым годом!"
+  }
+ ]
+}
