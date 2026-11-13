@@ -1,0 +1,257 @@
+{
+ "file": "Family_Birthday_Child",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_00",
+   "key": "dfb65e58",
+   "ru": "(Сегодня день рождения <CHILD_NAME>. Лучший способ\nотпраздновать ― вкусная еда и веселье!)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_GIRL",
+   "key": "cd843d16",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Сколько еды! С чего бы начать...?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_BOY",
+   "key": "1cf566d3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Настоящий пир! И всё моё любимое!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_Postman",
+   "key": "d10bfecb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <CHILD_NAME>.\n<PAGE>\nВсю эту вкуснятину приготовила мама, так что\nналетай!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_Doctor",
+   "key": "63fd4e7e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <CHILD_NAME>. Сколько бы тебе ни было\nлет, правильно питаться всегда важно.\n<PAGE>\nМ-м! Ешь хорошенько и получай все\nпитательные вещества!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_Chaser",
+   "key": "8b5c3d25",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <CHILD_NAME>. Даже не верится, как\nбыстро ты растёшь.\n<PAGE>\nНадеюсь, этот год будет таким же чудесным,\nкак прошлый."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_Apprentice",
+   "key": "7f862c64",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>! С днём рождения! Сегодня твой день, так что\nешь! Расти здоровеньким!\n<PAGE>\n<FACE_SAD>Только не перерасти меня пока, ладно? Хотя,\nпожалуй, и это ничего. Ха-ха."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_Craftman",
+   "key": "a16bf801",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>, с днём рождения! Давай! Налетай.\n<PAGE>\nТолько не объедайся! Знаю, мама отлично\nготовит, но оставь местечко на потом!\n<PAGE>\nНе хочется же заболеть в свой праздник, да?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_Florist",
+   "key": "21cceec7",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <CHILD_NAME>. Это всё для тебя! Надеюсь,\nтебе понравится! ♪\n<PAGE>\nГлавное ― твоё счастье и здоровье."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_TeaGirl",
+   "key": "725b58e5",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <CHILD_NAME>!\n<PAGE>\nСегодня твой особый день, так что ешь и\nвеселись!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_Teacher",
+   "key": "7f4d16c6",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>, с днём рождения. Пусть этот день принесёт\nтебе бесконечную радость и удачу.\n<PAGE>\nПожалуйста, ешь сколько хочешь и никогда не\nпереставай улыбаться."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_TwinOlder",
+   "key": "54465076",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <CHILD_NAME>! С днём рождения! Я так тобой горжусь!\nХорошего тебе дня, ладно?\n<PAGE>\nХорошо спи, хорошо ешь ― и наберёшься сил,\nпрямо как я, ха-ха!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_TwinYounger",
+   "key": "6986e4ca",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <CHILD_NAME>. Мы с папой тебя очень\nлюбим.\n<PAGE>\nБереги себя ― и обязательно вырастешь\nздоровеньким и крепким."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_Inari",
+   "key": "482eba8b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <CHILD_NAME>. Прошу, ешь досыта ― ведь\nсегодня твой особый день.\n<PAGE>\nМоё самое горячее желание ― чтобы из тебя\nвырос счастливый человек."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_Wantatan",
+   "key": "1671d4c7",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nС днём рождения, <CHILD_NAME>. Мы так рады видеть, как\nты подрастаешь.\n<PAGE>\nЕшь побольше, чтобы набраться сил, ладно?\nТогда сможешь играть со мной со всеми\nживотными."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_Presenter",
+   "key": "b6c26d9d",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <CHILD_NAME>! Ничто не радует нас\nбольше, чем видеть, как ты растёшь, так что\nешь сколько хочешь!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_GIRL_00",
+   "key": "4ae32e81",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nВаша еда всегда вкусная, но сегодня лучше всех!\n<PAGE>\nМама, папа, вы самые лучшие! Я вас люблю!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_GIRL_01",
+   "key": "8ca1ce12",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nХе-хе-хе! Я ТАК наелась! Но я всё ещё леди,\nправда?\n<PAGE>\nСпасибо за большой праздник, мама и папа."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_GIRL_02",
+   "key": "e8ca25b8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о-о, это было о-о-объедение! Кажется,\nнемножко перебор вышел, хе-хе.\n<PAGE>\nЖду не дождусь следующего года!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_BOY_00",
+   "key": "8fd689a3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУх ты, вы приготовили вкуснее всех! Это\nпотому, что у меня день рождения, да?\n<PAGE>\nМама, папа, огромное спасибо! Я вас люблю."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_BOY_01",
+   "key": "bdf83090",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Сейчас лопну, столько еды! Было\nо-о-очень вкусно!\n<PAGE>\nВот бы день рождения был каждый день!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_COMMENT_BOY_02",
+   "key": "a9b7ee62",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПапа, мама! Спасибо за всю вкусную еду\nсегодня!\n<PAGE>\nТеперь у меня будут силы помогать вам с\nработой!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_Postman",
+   "key": "3d09bb18",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНам с мамой очень повезло, что у нас есть ты, <CHILD_NAME>.\nМы любим тебя всем сердцем.\n<PAGE>\nТеперь осталось придумать, как отпраздновать\nтвой день рождения в следующем году. Будет\nещё больше и лучше!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_Doctor",
+   "key": "72e38bfb",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nОго, вот это аппетит! Неудивительно, что так\nбыстро растёшь.\n<PAGE>\nЯ люблю тебя, <CHILD_NAME>. Жду не дождусь, когда увижу,\nкак ты вырастешь к следующему празднику."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_Chaser",
+   "key": "7827e78c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЯ рад, что тебе было весело, <CHILD_NAME>.\n<PAGE>\nОбещаю, в следующем году будет так же\nвесело. Я люблю тебя, <CHILD_NAME>."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_Apprentice",
+   "key": "0d1a86cc",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЯ так рад, что тебе понравилось! С каждым\nгодом ты всё надёжнее. Наверняка в маму,\nха-ха.\n<PAGE>\nВ следующем году тоже устроим большой\nпраздник! Я люблю тебя, <CHILD_NAME>!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_Craftman",
+   "key": "f3facebc",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nТы растёшь таким добрым и чудесным\nчеловеком, <CHILD_NAME>. Мы с мамой очень тобой\nгордимся.\n<PAGE>\nМы любим тебя, <CHILD_NAME>. Надеюсь, тебе с нами так же\nхорошо, как нам с тобой."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_Florist",
+   "key": "741fb821",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОх! ♪ Мы тоже тебя любим, <CHILD_NAME>. Одна твоя\nулыбка делает нас такими счастливыми.\n<PAGE>\nУже жду не дождусь, когда повторим в\nследующем году!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_TeaGirl",
+   "key": "7a8e0a8c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nХа-ха! Прямо и честно, как мы тебя и\nвоспитали!\n<PAGE>\nМы тоже тебя любим, <CHILD_NAME>. Не знаю, что бы мы без\nтебя делали!\n<PAGE>\nВ следующем году тоже устроим что-нибудь\nособенное. Можешь не сомневаться!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_Teacher",
+   "key": "27cdea80",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nТы наше драгоценное сокровище, <CHILD_NAME>.\n<PAGE>\nПусть каждый день будет для тебя таким же\nсчастливым, как сейчас. Мы любим тебя, <CHILD_NAME>."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_TwinOlder",
+   "key": "9e8b1c17",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nУх, какой надёжный у нас растёт человечек!\nВидно, мы тебя правильно воспитали, ха-ха.\n<PAGE>\nОбещаю, в следующем году праздник будет\nещё лучше! Мы любим тебя, <CHILD_NAME>."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_TwinYounger",
+   "key": "748c6967",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЯ люблю тебя, <CHILD_NAME>. Я так рада видеть твою\nрадость.\n<PAGE>\nДаже представить не могу, сколько радости\nпринесёт следующий год..."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_Inari",
+   "key": "4a1122b8",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>, ты наше драгоценное сокровище.\n<PAGE>\nХоть мы и не можем каждый день проводить\nмного времени вместе...\n<PAGE>\nБольше всего на свете хочу каждый год\nвстречать твой день рождения вот так, за\nобщим столом."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_Wantatan",
+   "key": "53a65eb0",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nЯ так счастлив видеть, как растёт мой ребёнок.\n<PAGE>\nДети так быстро растут, что, кажется,\nморгнёшь ― и пропустишь что-то важное.\n<PAGE>\nКак бы мы ни были заняты, каждый день\nрождения надо проводить вот так. Я люблю\nтебя, <CHILD_NAME>."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_NEXT_Presenter",
+   "key": "55d08ba5",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nДавай и следующий день рождения проведём\nвот так, <CHILD_NAME>.\n<PAGE>\nА к этому времени в следующем году ты ещё\nподрастёшь. Не терпится увидеть! ♪"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_CHILD_01",
+   "key": "67825ad4",
+   "ru": "(С днём рождения, <CHILD_NAME>! Расти счастливым и\nздоровым!)"
+  }
+ ]
+}
