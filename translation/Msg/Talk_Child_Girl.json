@@ -2,6 +2,804 @@
  "file": "Talk_Child_Girl",
  "entries": [
   {
+   "n": 2,
+   "f": 2,
+   "id": "MES_LONG_INTERVAL",
+   "key": "9e26dd5b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\n<PARENT>, тебе всё ещё некогда? Мы сто лет не\nразговаривали...! Я скучаю..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PLAYER_DOWN",
+   "key": "2807f673",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_ANGRY>\r\n<PARENT>, ты слишком много работаешь! Я так испугался\nи переживал, когда услышал, что тебе стало\nплохо."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRIDGE",
+   "key": "3fa219c1",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМост в Вестауне починили, и он такой\nкрасивый! Я так удивился, когда увидел.\n<PAGE>\nТеперь совсем не страшно по нему бегать!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BELL",
+   "key": "dad5f6f4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЗвонить в колокол в Вестауне супервесело! Он\nтак красиво звучит.\n<PAGE>\n<FACE_NORMAL>Но, наверное, не надо звонить слишком много.\nА то опять отругают..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRONZE_STATUE",
+   "key": "1ebeac5e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nПочему статуя бизона вдруг вся блестит? Её\nпокрасили?\n<PAGE>\nЧто? Она стала такой блестящей, просто когда\nеё отмыли? Ого-о! Значит, она с самого начала\nдолжна была так блестеть."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_GODDESS_STATUE",
+   "key": "3b012f66",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nТак вот как выглядит богиня из источника!\nПостой... я её где-то видел...?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_01",
+   "key": "751f30cb",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nГоспожа Кэрри говорит, что минс-пай,\nкоторый вы с дедушкой Марко придумали, ―\nсамый вкусный десерт на всём белом свете.\n<PAGE>\nХи-хи! Мне нравится, когда про тебя говорят\nхорошее, <PARENT>. Ты лучше всех. ♪"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_PERFUME",
+   "key": "36ca5d3b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГоспожа Миранда сегодня так приятно пахла! Я\nспросил почему, а она сказала, что надушилась\nдухами.\n<PAGE>\nРаньше я никогда не чувствовал у госпожи\nМиранды духов."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BRIDGE",
+   "key": "62a31085",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nРаньше я нашёл птичку, которая застряла в\nщели между досками моста в Цуюкусе...\n<PAGE>\n<FACE_LAUGH>Но теперь мост новый и красивый. Уверен,\nптички рады, что теперь могут спокойно на нём\nсидеть! Я за них рад!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BATHSHOP",
+   "key": "8861dffd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>! У меня лучшая идея! Пойдёмте все в\n“Кипарисовую ванну”!\n<PAGE>\n<FACE_LAUGH>Там же огромные ванны, в которых можно\nплавать, да? Хочу туда! Пожа-а-алуйста!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_RELIEF",
+   "key": "16f81ce2",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nА знаешь что! Старая бабушка очень\nобрадовалась, что парк стал таким красивым и\nчистым.\n<PAGE>\n<FACE_NORMAL>Ой! Э-э, старая бабушка ― это старушка,\nкоторая часто сидит в парке. Когда она там, я\nподхожу поговорить."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_SHRINE",
+   "key": "04ec5de9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nЖалко, что я не помогал всем убирать\nсвятилище.\n<PAGE>\nЗнаю... я ещё маленький и буду только мешать,\nда?\n<PAGE>\n<FACE_NORMAL>Но я очень хорошо протираю тряпочкой! Разве\nне видно, как я утром начистил окно?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_TEA",
+   "key": "e1bf4a94",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nА знаешь что! А знаешь что! Господин Гиндзиро\nдал мне дораяки! ♪\n<PAGE>\n<FACE_NORMAL>Э-э... Он сказал, что их делают из бобов и\nмёда с нашей фермы. Это правда?\n<PAGE>\n<FACE_LAUGH>Ого, как здорово! И дораяки была очень\nвкусная! Надо будет ещё раз сказать спасибо\nгосподину Гиндзиро. ♪"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_BATH",
+   "key": "5f68d2c1",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХозяин купальни говорит, что каждый день\nкладёт в ванны разные соли, и берёт их с\nнашей фермы.\n<PAGE>\nРаз он берёт их у нас, может, мы сами можем\nделать такие ванны дома?\n<PAGE>\n<FACE_SAD>Качество источника? Химический состав?\nЭ-э-э... Не знаю, что значат эти слова, но\nпонял, что нельзя."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_ACCESSORY",
+   "key": "8952e6cd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, украшения для волос, что продают в “Ра\nМане”, делают из того, что берут с нашей\nфермы, да?\n<PAGE>\nА из чего? Из чего делают украшения для\nволос?\n<PAGE>\nИз разного? О-о, значит, разные украшения\nделают из разного. Здорово!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_KITCHEN",
+   "key": "d55fa44e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nУ-у-у... общая кухня раньше была отличным\nместом для игры в искателей сокровищ.\n<PAGE>\nА теперь, когда её убрали, всё слишком легко\nнаходится, где ни спрячь. Придётся искать\nновое место."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_INN",
+   "key": "f0750588",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n“Лала Салама” теперь цветочный магазин?\n<PAGE>\nА? Нет? Но там было полно цветов, когда я\nсмотрел."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_LANDING",
+   "key": "4cc4cae0",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nА знаешь что! У нас будет рыболовное\nсостязание на пирсе! Буду очень стараться и\nпоймаю больше всех! Да!!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_DRESS",
+   "key": "32c26143",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСлушай, <PARENT>? А что за танец хула? Это где крутят\nобруч и много виляют бёдрами?\n<PAGE>\n<FACE_SAD>Нет? Скорее из стороны в сторону? Не\nпонимаю. Может, покажешь, <PARENT>?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SPRING",
+   "key": "7f6573b4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nХм-м... Во что бы сегодня поиграть? На улице\nтак хорошо, можно поиграть в салочки или\nдаже в казаки-разбойники!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SPRING",
+   "key": "3ae5edc9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nНе люблю, когда дождь, потому что нельзя\nгулять и играть."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SUMMER",
+   "key": "e29dbaf0",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЗнаешь, так жарко, что мороженое было бы\nо-о-очень вкусным. ...КХМ. *пристально\nсмо-о-отрит*"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_AUTUMN",
+   "key": "3844c75a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nО-о! Смотри, сколько красивых листьев\nнападало. Найду особенно красивый и возьму\nдомой. ♪"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_AUTUMN",
+   "key": "a2f83251",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nУ-у-у... из-за дождя все опавшие листья\nмокрые и противные. Хотел выбрать красивый,\nа такой домой не возьмёшь."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_WINTER",
+   "key": "2daf480f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, <PARENT>, смотри! У меня пар изо рта! *ПУФ*\nА-ха-ха! И у тебя! Мы одинаковые. ♪"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_WINTER",
+   "key": "36b895f4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Снег идёт! Снег идёт! ♪ Можно слепить\nснеговика, поиграть в снежки... В снежный день\nстолько дел!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SPRING",
+   "key": "d5479fe4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСегодня тепло и хорошо! Я очень люблю весну."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SPRING",
+   "key": "7e84668c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКап-кап, кап-кап! Слышишь дождик?\nЛя-ля-ду-ду~ ♪ Ля-ля-ду-ду~ ♪"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SUMMER",
+   "key": "67853e73",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, а знаешь что! Я знаю, как называются такие\nжаркие дни. “Пекло”, да?"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SUMMER",
+   "key": "6dc8e98e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА знаешь что? Я видел лягушку! Она делала\n“ква-ква-ква!” Лягушки так смешно звучат."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_AUTUMN",
+   "key": "a9de5f86",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nДвоюродный дедушка говорит, что осень ―\nдля еды, поэтому мы едим много пиццы. А я\nдумаю, осень ― для веселья! И беготни! И игр!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_AUTUMN",
+   "key": "f543ffbf",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУ-у, сегодня не видно ни одной стрекозы.\nИнтересно, куда они деваются в дождь?"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_WINTER",
+   "key": "8945984e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА? Детям место на улице? Ну, я очень люблю\nгулять, но мне больше место рядом с тобой, <PARENT>!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_WINTER",
+   "key": "7e84668c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКап-кап, кап-кап! Слышишь дождик?\nЛя-ля-ду-ду~ ♪ Ля-ля-ду-ду~ ♪"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_WINTER",
+   "key": "6f1a4474",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>! <PARENT>! Давай вместе слепим снеговика! Ну\nдавай-а-ай! ♪"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_SPRING",
+   "key": "7322cb44",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, а если будет очень-очень много дождя, что\nбудет с морем? Оно переполнится и выльется?"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_SUMMER",
+   "key": "8a80ea90",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\n<PARENT>, я пить хочу...! Надо было взять с собой\nфлягу..."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_SUMMER",
+   "key": "9d08e955",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nДождь такой приятный и прохладный, правда!\n♪ Наверное, иногда дождь ― это хорошо."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_WINTER",
+   "key": "23fc5773",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты тут по делам? Или просто повеселиться?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_WEATHER_TYPHOON",
+   "key": "3eaae305",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nОго! Погода сегодня такая сердитая! Ветер\nпрямо ревёт. Животные в сараях, но с урожаем\nвсё будет хорошо?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_WEATHER_HEAVYSNOW",
+   "key": "310212f2",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, смотри! Смотри! На улице всё белое! Хочу\nтуда. Что? Нельзя? Эх..."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_MAN_MORNING_TALK_00",
+   "key": "7cc37b05",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <PARENT>! Надеюсь, ты сегодня рано\nзакончишь с делами. ♪"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_MAN_MORNING_TALK_01",
+   "key": "ef123f75",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nМ-м-м... утро... Я ещё сонный. Можно\nобратно в кровать?"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_WOMAN_MORNING_TALK_00",
+   "key": "7cc37b05",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <PARENT>! Надеюсь, ты сегодня рано\nзакончишь с делами. ♪"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_WOMAN_MORNING_TALK_01",
+   "key": "ef123f75",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nМ-м-м... утро... Я ещё сонный. Можно\nобратно в кровать?"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_MAN_AFTERNOON_TALK_00",
+   "key": "cc3cda3e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты сегодня ещё работаешь? Можешь\nнемножко поиграть?"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_WOMAN_AFTERNOON_TALK_00",
+   "key": "cc3cda3e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты сегодня ещё работаешь? Можешь\nнемножко поиграть?"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_MAN_EVENING_TALK_00",
+   "key": "a02be7fa",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, на сегодня работа закончена? Ура-а-а!"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_MAN_EVENING_TALK_01",
+   "key": "68a45c50",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, уже пора купаться? Я хочу купаться с тобой!\n♪"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_WOMAN_EVENING_TALK_00",
+   "key": "a02be7fa",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, на сегодня работа закончена? Ура-а-а!"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_WOMAN_EVENING_TALK_01",
+   "key": "68a45c50",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, уже пора купаться? Я хочу купаться с тобой!\n♪"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_FEERING_GOOD_TALK_00",
+   "key": "030d085c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>! Эй, <PARENT>! Хи-хи... Я просто хотел поздороваться.\n♪"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_FEERING_GOOD_TALK_01",
+   "key": "8d69272a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЛя-ля-дум-ди-дум~ ♪ Хм? У меня хорошее\nнастроение? Хм... Наверное, да."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_FEERING_TIRED_TALK_00",
+   "key": "59b5d28f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nОй, э-э, что, <PARENT>? Прости. Я не слушал."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_FEERING_TIRED_TALK_01",
+   "key": "07d1aab3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nУ-у-у... Вдруг живот заболел."
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_MAN_CHANGE_FEELING_GOOD",
+   "key": "eb4ffc82",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nХе-хе-хе... Слушай, <PARENT>? А знаешь что. Хочу ещё\nс тобой поговорить. ♪"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_WOMAN_CHANGE_FEELING_GOOD",
+   "key": "eb4ffc82",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nХе-хе-хе... Слушай, <PARENT>? А знаешь что. Хочу ещё\nс тобой поговорить. ♪"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_MAN_CHANGE_FEELING_BAD",
+   "key": "409d81e4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\n<PARENT>... я устал..."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_WOMAN_CHANGE_FEELING_BAD",
+   "key": "409d81e4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\n<PARENT>... я устал..."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_TODAY_GODDESS",
+   "key": "d0eaf2d8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСегодня ведь Праздник богини? День, когда\nможно съесть мно-о-ого-мно-о-ого пиццы,\nда? Хи-хи! Жду не дождусь. ♪"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_TODAY_RICE_EAR",
+   "key": "8b7a6584",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСегодня ведь Праздник изобилия? Ура! Съем\nмного-много риса из котла. Он вкусный! ♪\nО-о, жду не дождусь."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_TODAY_WITCH",
+   "key": "6c5b0b58",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСегодня Праздник духов! Съем\nмно-о-ого-мно-о-ого супервкусной еды. Жду\nне дождусь. ♪"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_TODAY_GAME",
+   "key": "cd997d20",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты будешь участвовать в Трилимпиаде в этом\nгоду? Если будешь, я буду суперсильно за тебя\nболеть!"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_TODAY_DRINK",
+   "key": "11d56452",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nНе терпится посмотреть, какой напиток\nсделают на Празднике напитков в этом году. ♪"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_MAN_TODAY_FRIENDSHIP",
+   "key": "52054915",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, с кем ты хочешь провести сегодняшний\nпраздник?"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_WOMAN_TODAY_FRIENDSHIP",
+   "key": "52054915",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, с кем ты хочешь провести сегодняшний\nпраздник?"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_TODAY_NEW_YEAR",
+   "key": "7920a0d7",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Сегодня та самая ночь, когда можно не\nложиться вовремя, да? Потому что Новый год.\nБуду не спать как можно дольше. ♪"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER",
+   "key": "f969e98b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nВот, <PARENT>! ♪ Цветок, потому что сегодня Цветочная\nярмарка! Спасибо, что ты у меня есть, <PARENT>!"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER_NOT",
+   "key": "77314c27",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА? Ой-ой! У тебя сумка полная. Тогда отдам\nпотом."
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_FORGET_FLOWER",
+   "key": "e2bcf1ec",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nАга! <PARENT>! Сумка уже не полная? Ура! Вот твой\nцветок. ♪"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL",
+   "key": "6abcbd42",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nВот, <PARENT>! ♪ Сегодня ведь Праздник долголетия.\nЗдоровья и счастья тебе долго-долго!"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL_NOT",
+   "key": "77314c27",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА? Ой-ой! У тебя сумка полная. Тогда отдам\nпотом."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_FORGET_GRUEL",
+   "key": "242ff3a6",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nАга! <PARENT>! Сумка уже не полная? Ура! Держи. ♪"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT",
+   "key": "c6e8d424",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nВот, <PARENT>! ♪ Фрукты, потому что сегодня\nФруктовая фиеста! Спасибо, что ты у меня\nесть, <PARENT>!"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT_NOT",
+   "key": "77314c27",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА? Ой-ой! У тебя сумка полная. Тогда отдам\nпотом."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_FORGET_FRUIT",
+   "key": "81ffdc14",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nАга! <PARENT>! Сумка уже не полная? Ура! Вот твои\nфрукты. ♪"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_NO_EMPTY_FESTIVAL",
+   "key": "77314c27",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА? Ой-ой! У тебя сумка полная. Тогда отдам\nпотом."
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_MAP_FARM_00",
+   "key": "9214ce54",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЯ тоже хочу помогать на ферме."
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_MAP_FARM_01",
+   "key": "ef325ed6",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nОдин друг сказал, что завидует, какой у нас\nбольшой двор.\n<PAGE>\nКак-то странно называть это “двором”. Для\nменя это всегда было “фермой”."
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_MAP_THREE_FORKED_ROAD_00",
+   "key": "67360552",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХм-м... В какой город пойти сегодня? К тем\nдрузьям... или к этим... Хм-м..."
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_MAP_THREE_FORKED_ROAD_01",
+   "key": "eee1adbe",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЭники-беники-ели-вареники! ♪ Где сегодня\nпоймаю богиню за пальчик-коленик?\n<PAGE>\n<FACE_NORMAL>Ой, погоди. Богиня же в Вестауне, так что если\nхочу поймать её за пальчик, надо идти туда."
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_00",
+   "key": "219f997e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, а как добывают руду? Хочу как-нибудь\nпопробовать."
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_01",
+   "key": "74323e49",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nТак весело взбегать по всем-всем лестницам до\nсамого верха города. ♪"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_02",
+   "key": "06adc336",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА знаешь что. Я на днях видел тут девочку с\nзелёными волосами. Я её не знаю. Интересно, в\nкаком городе она живёт."
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_03",
+   "key": "fe4a55c6",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nИнтересно, какую рыбу можно поймать в этой\nреке. <PARENT>, как думаешь, а крабов можно?"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_00",
+   "key": "63673831",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, пойдём в чайную? Попьём чаю с вкусняшками\nвместе. ♪"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_01",
+   "key": "d9ae8b70",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nПри посещении святилища надо соблюдать\nкакой-то “э-ти-кет”. Только я мало про него\nзнаю."
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_03",
+   "key": "09d157f9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, видно было? Там какое-то животное\nпромелькнуло. Интересно, какое."
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_00",
+   "key": "34ed36d2",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМ-м! Чем-то вкусно пахнет. Интересно, чем."
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_01",
+   "key": "18da2373",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nНа днях мне показалось, что из руин выходит\nпушистое чёрное облако.\n<PAGE>\n<FACE_SAD>Это же не... не призрак был? Просто пушистый\nзверёк, да?"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_02",
+   "key": "1da36f38",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСлушай, <PARENT>? Почему морская вода солёная?\nКто-то уронил в неё огромную солонку?"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_03",
+   "key": "b7e36f2e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСмотри! Смотри! Видишь, какую красивую\nракушку я нашёл? Возьму домой и положу в\nшкатулку с сокровищами. ♪"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_MAP_SHOOTING_STAR",
+   "key": "b062b9ec",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Падающая звезда! Если загадать желание\nна падающую звезду, оно сбудется, да? Хм...\nчто бы загадать?"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_A",
+   "key": "b1312660",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, на небе есть река из звёзд, да? Это та река, у\nкоторой встретились принц и принцесса из той\nсказки?"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_MAP_SNOWMAN",
+   "key": "ac095745",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nИнтересно, кто слепил этого снеговика. Он\nсуперхороший! Хочу спросить, как у них\nполучилось."
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_MAP_TREE",
+   "key": "25b30441",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nОго-о-о! Смотри, какая большая и сверкающая\nёлка! Такая красивая...! ♪"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_MAP_WIND_BELL",
+   "key": "8b61195a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЧто это так звенит? Колокольчики? О! Как\nкрасиво звучат."
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_J",
+   "key": "2cfc9413",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Смотри, сколько вкусных овощей! Вот бы\nих съесть."
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_MAP_FIREFLY",
+   "key": "67805442",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХочу поймать этого светящегося жука и взять\nдомой, он суперкрасивый. Что? Нельзя?\nУ-у-у..."
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_MAP_MORNING_GRLORY",
+   "key": "301645a9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nОх, вьюнки тут встают очень рано. Интересно,\nкто встаёт раньше, они или я? Надо\nкак-нибудь проверить."
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_MAP_SILVER_GRASS",
+   "key": "e0f5110d",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nМискант немножко похож на метлу, правда?"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_MAP_DRAGONFLY",
+   "key": "5b4d2a9a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Стрекоза! Когда ловишь её, надо крутить\nпальцем перед её глазами, вот так. ♪"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_MAP_STRAW",
+   "key": "9dbd65c9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХочу залезть на верх этого стога. Только если\nзалезу, он не развалится?"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_MAP_DRIED_PERSIMMON",
+   "key": "55edf902",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСушёная хурма суперсладкая! Я раньше ел. ♪"
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_MAP_THUNDERHEAD",
+   "key": "f6484d2e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nОго-о-о, смотри, какое облако! Огромное и\nпушистое!"
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_MAP_NOCTILUCA",
+   "key": "2aae91d2",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЭто правда жучки светятся? Такие блестящие и\nплавающие. По-моему, очень красиво."
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_S",
+   "key": "09f64cdb",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, смотри! На небе река из звёзд! Как думаешь, в\nней плавают рыбы?"
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_S",
+   "key": "297a66fe",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМ-м! Вкусные овощи. Интересно, какие\nвкуснее, эти или те, что выращиваешь ты, <PARENT>."
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_MAP_GULL",
+   "key": "044d9e00",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУ чаек такие смешные крики. Я однажды\nпробовал повторить. Не очень получилось."
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_PLAYER_HOUSE_00",
+   "key": "26859fa0",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСлушай, э-э, <PARENT>? А знаешь что. Хочу поиграть с\nтобой. ...Можно?"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_PLAYER_HOUSE_01",
+   "key": "51b7697c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nВещи на кухне опасные, так что без взрослых\nтрогать нельзя. Я помню это правило!"
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "MES_SCHEDULE_SLEEP",
+   "key": "02ce9b22",
+   "ru": "<FACE_CHILD>\r\nМ-м-м... Мама... Папа... Я вас люблю..."
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MES_SCHEDULE_SICK",
+   "key": "f7ad2e65",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\n...*КХЕ-КХЕ*... *КХЕ*... <PARENT>... *КХЕ-КХЕ*..."
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_MEAL",
+   "key": "d978debb",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМ-м! Так вкусно! ♪ Можно добавки,\nпожалуйста?"
+  },
+  {
    "n": 278,
    "f": 2,
    "id": "MES_MEAL_SELECT_00",
@@ -14,6 +812,13 @@
    "id": "MES_MEAL_SELECT_01",
    "key": "98bd8e4e",
    "ru": "Не есть вместе."
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_14",
+   "key": "a353d053",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nН-н-н-р-р... Рыбалка ― это трудно! Все\nрыбки съедают наживку и не ловятся."
   },
   {
    "n": 297,
@@ -30,6 +835,111 @@
    "ru": "Не просить помощи."
   },
   {
+   "n": 302,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_00",
+   "key": "eff6876b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЯ хочу играть с тобой и мамой\nмно-о-ого-мно-о-ого!\n<PAGE>\nМожет, все вместе скоро пойдём гулять?\nПожа-а-алуйста! Я буду много помогать по\nдому!"
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_01",
+   "key": "6c9c3720",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЧто я о тебе думаю, папа? Хм-м-м...\n<PAGE>\n<FACE_LAUGH>По-моему, ты самый крутой, умный, сильный\nи добрый папа на свете! Я тебя очень люблю. ♪"
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_03",
+   "key": "1ef2d02f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСлушай, папа? Можно я сделаю тебе массаж\nплеч?\n<PAGE>\nПонимаешь, э-э, мама говорит, что ты всегда\nочень много работаешь, чтобы содержать\nсемью.\n<PAGE>\n<FACE_LAUGH>Так что хочу сделать тебе массаж в\nблагодарность! Я тебя очень люблю, папа.\nСпасибо, что так трудишься для нас."
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_00",
+   "key": "2b933bf6",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЯ хочу играть с тобой и папой\nмно-о-ого-мно-о-ого!\n<PAGE>\nМожет, все вместе скоро пойдём гулять?\nПожа-а-алуйста! Я буду много помогать по\nдому!"
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_01",
+   "key": "8b09b91c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЧто я о тебе думаю, мама? Хм-м-м...\n<PAGE>\n<FACE_LAUGH>По-моему, ты самая красивая, умная, добрая и\nлучшая мама на свете! Я тебя очень люблю. ♪"
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_03",
+   "key": "0cde7556",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСлушай, мама? Можно я сделаю тебе массаж\nплеч?\n<PAGE>\nПонимаешь, э-э, папа говорит, что ты всегда\nочень много работаешь, чтобы содержать\nсемью.\n<PAGE>\n<FACE_LAUGH>Так что хочу сделать тебе массаж в\nблагодарность! Я тебя очень люблю, мама.\nСпасибо, что так трудишься для нас."
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_04",
+   "key": "e2a9844d",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЭ-э, мама? А знаешь что. Я тебя люблю. <RED>∀</RED>\n<PAGE>\nКогда вырасту, женюсь на ком-нибудь, кто\nсовсем как ты! ♪"
+  },
+  {
+   "n": 434,
+   "f": 2,
+   "id": "MES_MAN_PLAYER_BIRTHDAY_00",
+   "key": "6ecd54d7",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЭ-э, сегодня ведь твой день рождения, папа? С\nднём рождения!"
+  },
+  {
+   "n": 435,
+   "f": 2,
+   "id": "MES_MAN_PLAYER_BIRTHDAY_01",
+   "key": "2001ee91",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЭ-э, сегодня ведь твой день рождения, папа? А\nзнаешь что? У меня для тебя подарок! ♪ С днём\nрождения, папа!"
+  },
+  {
+   "n": 436,
+   "f": 2,
+   "id": "MES_WOMAN_PLAYER_BIRTHDAY_00",
+   "key": "a991635d",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЭ-э, сегодня ведь твой день рождения, мама? С\nднём рождения!"
+  },
+  {
+   "n": 437,
+   "f": 2,
+   "id": "MES_WOMAN_PLAYER_BIRTHDAY_01",
+   "key": "4713cc4b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЭ-э, сегодня ведь твой день рождения, мама?\nА знаешь что? У меня для тебя подарок! ♪ С\nднём рождения, мама!"
+  },
+  {
+   "n": 440,
+   "f": 2,
+   "id": "MES_NO_EMPTY_BIRTHDAY",
+   "key": "77314c27",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА? Ой-ой! У тебя сумка полная. Тогда отдам\nпотом."
+  },
+  {
+   "n": 441,
+   "f": 2,
+   "id": "MES_FORGET_BIRTHDAY",
+   "key": "ff34e995",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nАга! <PARENT>! Сумка уже не полная? Ура! Держи. С\nднём рождения! ♪"
+  },
+  {
+   "n": 443,
+   "f": 2,
+   "id": "MES_BLUE_SHUTTLECOCK",
+   "key": "2c75a617",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nО-о! Это кольцо со свадьбы? Ого-о, какое\nкрасивое!"
+  },
+  {
+   "n": 451,
+   "f": 2,
+   "id": "MES_PENDANT",
+   "key": "5826f2dc",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nО-о! Этот кулон ― твоя памятная вещь, <PARENT>?\nОго-о, какой красивый."
+  },
+  {
    "n": 462,
    "f": 2,
    "id": "MES_PRESENT_CANNOT_00",
@@ -42,6 +952,678 @@
    "id": "MES_PRESENT_CANNOT_01",
    "key": "334cd70a",
    "ru": "(Ей сегодня уже был подарок. Лучше\nприберечь это до завтра.)"
+  },
+  {
+   "n": 464,
+   "f": 2,
+   "id": "MES_WRAPPING_FLOWER",
+   "key": "01fd555c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Это особая упаковка с Цветочной\nярмарки! Ура-а-а! Такая красивая! ♪ Можно\nоткрыть сейчас?"
+  },
+  {
+   "n": 465,
+   "f": 2,
+   "id": "MES_WRAPPING_RICE_GRUEL",
+   "key": "65a2ffea",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Это особая упаковка к Празднику\nдолголетия! Ура-а-а! Такая красивая! ♪\nМожно открыть сейчас?"
+  },
+  {
+   "n": 466,
+   "f": 2,
+   "id": "MES_WRAPPING_FRUIT",
+   "key": "e07f9f56",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Это особая упаковка к Фруктовой фиесте!\nУра-а-а! Такая красивая! ♪ Можно открыть\nсейчас?"
+  },
+  {
+   "n": 467,
+   "f": 2,
+   "id": "MES_WRAPPING_LIKE",
+   "key": "db2d0389",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Мне очень нравится эта обёртка!\nСуперкрасивая! Спасибо, <PARENT>! ♪ Интересно, что\nвнутри..."
+  },
+  {
+   "n": 468,
+   "f": 2,
+   "id": "MES_WRAPPING_NORMAL",
+   "key": "e4e3c776",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! В упаковке! Как здорово! Что внутри, что\nвнутри! ♪ *трясёт* *трясёт*"
+  },
+  {
+   "n": 469,
+   "f": 2,
+   "id": "MES_PRESENT_BEST",
+   "key": "29bf2dc1",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУра-а-а!! <BLUE><____ITEMNAME0____></BLUE> ― моё самое-самое любимое!!\n<PAGE>\nСпасибо, <PARENT>!! Я тебя люблю! <RED>∀</RED>"
+  },
+  {
+   "n": 470,
+   "f": 2,
+   "id": "MES_PRESENT_VERY",
+   "key": "52a2d9f0",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУра! <BLUE><____ITEMNAME0____></BLUE>! Мне такое очень нравится. ♪ Спасибо, <PARENT>."
+  },
+  {
+   "n": 472,
+   "f": 2,
+   "id": "MES_PRESENT_NORMAL",
+   "key": "1c105350",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА! <BLUE><____ITEMNAME0____></BLUE>! Спасибо, <PARENT>."
+  },
+  {
+   "n": 473,
+   "f": 2,
+   "id": "MES_PRESENT_DISLIKE",
+   "key": "83876b48",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nУ-у-у... <BLUE><____ITEMNAME0____></BLUE>? Но я такое не очень люблю..."
+  },
+  {
+   "n": 474,
+   "f": 2,
+   "id": "MES_PRESENT_HATE",
+   "key": "78bec24d",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\n<BLUE><____ITEMNAME0____></BLUE>...? Но я такое терпеть не могу. Зачем ты мне\nэто даришь, <PARENT>? Это нечестно.\n<PAGE>\nУ-у... Тихонько отнесу дяде Фрэнку и отдам\nему."
+  },
+  {
+   "n": 476,
+   "f": 2,
+   "id": "MES_PRESENT_HUGE_VERY",
+   "key": "55dbaaf1",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>!! Ого! Ух ты, смотри, какое большое!\nОгромное! Гигантское! Громадное! Спасибо, <PARENT>!\n<PAGE>\nРаз ты такое выращиваешь, ты точно\nсамый-пресамый лучший фермер на всём свете!\n♪"
+  },
+  {
+   "n": 477,
+   "f": 2,
+   "id": "MES_PRESENT_HUGE_LIKE",
+   "key": "d2b951d2",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>!! Ого, смотри, какое большое! Огромное!\nГигантское! Громадное! Спасибо, <PARENT>!"
+  },
+  {
+   "n": 478,
+   "f": 2,
+   "id": "MES_PRESENT_GOLD_VERY",
+   "key": "2fa8a4da",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>!! Ого! Смотри, какое красивое! ♪ Спасибо, <PARENT>!\n<PAGE>\nРаз ты такое выращиваешь, ты точно\nсамый-пресамый лучший фермер на всём свете!\n♪"
+  },
+  {
+   "n": 479,
+   "f": 2,
+   "id": "MES_PRESENT_GOLD_LIKE",
+   "key": "e7ea914a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>!! Ого! Смотри, какое красивое и блестящее! ♪\nСпасибо, <PARENT>!"
+  },
+  {
+   "n": 480,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_BEST",
+   "key": "2fb215c9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУра-а-а!! <BLUE><____ITEMNAME0____></BLUE> ― моё самое-самое любимое!!\n<PAGE>\nЭто самый-самый лучший подарок на день\nрождения! Спасибо, <PARENT>!! Я тебя люблю! <RED>∀</RED>"
+  },
+  {
+   "n": 481,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_VERY",
+   "key": "5256f2d0",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУра! <BLUE><____ITEMNAME0____></BLUE>! Мне такое очень нравится. ♪ Спасибо за\nсуперпотрясающий подарок на день рождения, <PARENT>.\n♪"
+  },
+  {
+   "n": 482,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_LIKE",
+   "key": "071f8a44",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nА! Подарок мне на день рождения? О, это <BLUE><____ITEMNAME0____></BLUE>! ♪\nСпасибо, <PARENT>."
+  },
+  {
+   "n": 483,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_NORMAL",
+   "key": "7f39b927",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о, подарок мне на день рождения? Ура-а-а!\nМне такое нравится. Спасибо, <PARENT>."
+  },
+  {
+   "n": 484,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_DISLIKE",
+   "key": "39af80a2",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nЭто мой подарок на день рождения? Но я такое\nне люблю. Ты вредина, <PARENT>. *шмыг*"
+  },
+  {
+   "n": 485,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HATE",
+   "key": "859da326",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\n<BLUE><____ITEMNAME0____></BLUE>...? Но сегодня же мой день рождения.\n<PAGE>\nРазве на день рождения не дарят то, что я\nлюблю? А не то, что ненавижу?\n<PAGE>\nТихонько отнесу дяде Фрэнку и отдам ему.\nХмф."
+  },
+  {
+   "n": 487,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HUGE_VERY",
+   "key": "4adbe7ca",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>!! Ого! Ух ты, смотри, какое большое! Это мой\nподарок на день рождения? Спасибо, <PARENT>!\n<PAGE>\nРаз ты такое выращиваешь, ты точно\nсамый-пресамый лучший фермер на всём свете!\n♪"
+  },
+  {
+   "n": 488,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HUGE_LIKE",
+   "key": "c069f0d9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>!! Ого, смотри, какое большое! Это мой\nподарок на день рождения? Спасибо, <PARENT>!"
+  },
+  {
+   "n": 489,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_GOLD_VERY",
+   "key": "daeded5c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>!! Ого! Смотри, какое красивое и блестящее! ♪\nЭто мой подарок на день рождения? Спасибо, <PARENT>!\n<PAGE>\nРаз ты такое выращиваешь, ты точно\nсамый-пресамый лучший фермер на всём свете!\n♪"
+  },
+  {
+   "n": 490,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_GOLD_LIKE",
+   "key": "d7915bce",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>!! Ого! Смотри, какое красивое и блестящее! ♪\n<PAGE>\nХи-хи! Суперпотрясный подарок на день\nрождения. Спасибо, <PARENT>!"
+  },
+  {
+   "n": 494,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL_RETURN",
+   "key": "dddc39a2",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nА знаешь что! У меня тоже для тебя цветок, <PARENT>!\nТа-да-а-ам! Держи! Спасибо, что ты у меня\nесть, <PARENT>. <RED>∀</RED>"
+  },
+  {
+   "n": 497,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL",
+   "key": "17957cc0",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nО! Это к Празднику долголетия, да? Это\nпожелание быть, э-э... кровь с молоком? Ровь\nс моловом?\n<PAGE>\n<FACE_LAUGH>Ну и ладно! Как бы там ни было, это значит,\nчто ты желаешь любимым быть здоровыми и\nне болеть, да? Спасибо, <PARENT>!"
+  },
+  {
+   "n": 500,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "03dee4e5",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА знаешь что! Я тоже сварил для тебя кашу, <PARENT>!\n<PAGE>\n<FACE_LAUGH>Та-да-а-ам! Держи! Здоровья тебе и счастья\nдолго-долго, <PARENT>."
+  },
+  {
+   "n": 503,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL",
+   "key": "289ffd8a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nА? Фрукты к Фруктовой фиесте? И это мне?\nУра! На вид очень вкусно! Спасибо, <PARENT>. ♪"
+  },
+  {
+   "n": 506,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL_RETURN",
+   "key": "44752d3d",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nА знаешь что! У меня тоже для тебя фрукт, <PARENT>!\nТа-да-а-ам! Держи! Спасибо, что ты у меня\nесть, <PARENT>. <RED>∀</RED>"
+  },
+  {
+   "n": 509,
+   "f": 2,
+   "id": "MES_NO_EMPTY_FESTIVAL",
+   "key": "77314c27",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА? Ой-ой! У тебя сумка полная. Тогда отдам\nпотом."
+  },
+  {
+   "n": 510,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_HARVEST",
+   "key": "799c8dc9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, спасибо за вчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE>! Я его\nмигом слопал на полдник.\n<PAGE>\n<FACE_LAUGH>Было супер-пупер вкусно! Ты готовишь лучше\nвсех на всём белом свете, <PARENT>!"
+  },
+  {
+   "n": 511,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_COOKING",
+   "key": "6624a3c9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, спасибо за вчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE>! Было\nочень вкусно. ♪"
+  },
+  {
+   "n": 513,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_PRODUCT",
+   "key": "f9a54779",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСмотри, <PARENT>! Смотри! ♪\n<PAGE>\nВидишь эти носки? Их сделали для меня из\nвчерашнего подарка ― <BLUE><____ITEMNAME0____></BLUE>!\n<PAGE>\nТакие супер-пупер мягкие и удобные. Спасибо,\n<PARENT>!"
+  },
+  {
+   "n": 516,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_OTHER",
+   "key": "ef2770e2",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, спасибо за вчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE>! Я положил\nего в шкатулку с сокровищами.\n<PAGE>\n<FACE_LAUGH>Это суперпотрясный подарок от тебя, <PARENT>. Хочу,\nчтобы он никогда не потерялся."
+  },
+  {
+   "n": 517,
+   "f": 2,
+   "id": "MES_RETURN_PRESENT",
+   "key": "0c9a96e4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, <PARENT>? Мне всегда так радостно, когда ты\nдаришь мне подарки.\n<PAGE>\nТеперь я хочу порадовать тебя. Так что у меня\nдля тебя подарок. Надеюсь, понравится."
+  },
+  {
+   "n": 546,
+   "f": 2,
+   "id": "MES_KapibaraA",
+   "key": "63916442",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nХи-хи! Капибары такие милые. ♪ Они любят\nплавать и купаться, да? Можно взять её с\nсобой, когда буду купаться вечером?"
+  },
+  {
+   "n": 547,
+   "f": 2,
+   "id": "MES_KapibaraB",
+   "key": "63916442",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nХи-хи! Капибары такие милые. ♪ Они любят\nплавать и купаться, да? Можно взять её с\nсобой, когда буду купаться вечером?"
+  },
+  {
+   "n": 568,
+   "f": 2,
+   "id": "MES_AngoraRabbitA_Huge",
+   "key": "9aab37d5",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nОго! Какой большой! <PARENT>, как думаешь, кто\nбольше, я или он?"
+  },
+  {
+   "n": 574,
+   "f": 2,
+   "id": "MES_TALK_2",
+   "key": "845b10fa",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, кого ты больше любишь? Кошек или собак?\n<PAGE>\n<FACE_LAUGH>А я люблю их ровно одинаково! Они все такие\nмилые, что не выбрать!"
+  },
+  {
+   "n": 575,
+   "f": 2,
+   "id": "MES_TALK_3",
+   "key": "ae1921b1",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>? А как вы поженились? Хочу послушать\nисторию! ♪"
+  },
+  {
+   "n": 577,
+   "f": 2,
+   "id": "MES_TALK_5",
+   "key": "72ba2e55",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, я есть хочу. Можно вкусняшку? Хочу\nчего-нибудь сладенького!"
+  },
+  {
+   "n": 580,
+   "f": 2,
+   "id": "MES_TALK_8",
+   "key": "638a1adb",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСемейное правило номер три! “Не бери\nконфеты у незнакомцев и никогда-никогда не\nдавай им себя никуда увести!”\n<PAGE>\n<FACE_SAD>Если бы я дал себя увести, меня бы наверняка\nувели далеко-далеко, и я бы больше никогда\nтебя не увидел, <PARENT>. Не хочу так!"
+  },
+  {
+   "n": 581,
+   "f": 2,
+   "id": "MES_TALK_9",
+   "key": "1f5f679c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты и урожай выращиваешь, и за животными\nухаживаешь, а мне сказали, что некоторые\nфермеры делают только что-то одно.\n<PAGE>\nНо животные такие милые, а смотреть, как\nпосаженный урожай растёт и спеет, так весело.\nБез одного из них столько всего упускаешь!"
+  },
+  {
+   "n": 583,
+   "f": 2,
+   "id": "MES_TALK_11",
+   "key": "0519ff49",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, а знаешь что? Сегодня мне сказали, что я\nнаивный и простодушный! А что значит\n“на-ив-ный”?\n<PAGE>\n<FACE_LAUGH>Это значит, что я на иве живу? Как птичка?"
+  },
+  {
+   "n": 584,
+   "f": 2,
+   "id": "MES_TALK_12",
+   "key": "abd7045c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nПо-моему, рыбьи глаза немножко страшные.\n<PAGE>\nЯ люблю рыбачить, но не очень люблю\nдержать рыбу в руках и есть её, потому что\nона всё время на меня смотрит."
+  },
+  {
+   "n": 585,
+   "f": 2,
+   "id": "MES_TALK_13",
+   "key": "97a01d6a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, а знаешь что? У меня для тебя загадка! Что\nлежит в шкатулке с сокровищами у тануки?\n<PAGE>\n<FACE_LAUGH>Ответ? Ничего! Потому что сокровище ―\n“такара”, а “тануки” значит “убери слог та”.\nОстаётся “кара”, а это значит “пусто”!"
+  },
+  {
+   "n": 586,
+   "f": 2,
+   "id": "MES_TALK_14",
+   "key": "5fcb7e33",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСемейное правило номер четыре! “Если сделал\nчто-то плохое, признайся и извинись. Не прячь\nи не ври.”\n<PAGE>\n<FACE_SAD>Э-э... <PARENT>? Я на днях случайно разбил вазу для\nцветов и не сказал тебе. Прости."
+  },
+  {
+   "n": 587,
+   "f": 2,
+   "id": "MES_TALK_15",
+   "key": "b8342321",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, мне скучно. Расскажи сказку!"
+  },
+  {
+   "n": 588,
+   "f": 2,
+   "id": "MES_TALK_16",
+   "key": "611fefc4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГоворят, если долго смотреть на узоры на\nстене, увидишь в них человеческие лица.\n<PAGE>\n<FACE_LAUGH>Глупости! Стена как стена. Узоры как узоры.\nНикаких лиц там...\n<PAGE>\n<FACE_SAD>АЙ! Я... кажется, я только что увидел! Оно на\nменя смотрело! <PARENT>, м-можно мне сегодня спать с\nтобой? Пожа-а-алуйста!"
+  },
+  {
+   "n": 590,
+   "f": 2,
+   "id": "MES_TALK_18",
+   "key": "eac500e3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКак-то странно звать тётю Линн “тётей”.\n<PAGE>\nОна скорее как старшая сестра, а не какая-то\nстарая “тётя”.\n<PAGE>\nНо... но она ведь правда моя тётя, значит, так и\nнадо звать, да? Я совсем запутался..."
+  },
+  {
+   "n": 591,
+   "f": 2,
+   "id": "MES_TALK_19",
+   "key": "f84a2a3d",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСемейное правило номер пять! “Дружи с\nдрузьями. Даже если поспоришь, успокойся,\nпоговорите и помиритесь.”\n<PAGE>\n<FACE_SAD>Э-э, <PARENT>? Я на днях сильно поссорился с другом.\nНо, э-э, мы поговорили, и я был отчасти\nвиноват...\n<PAGE>\n<FACE_NORMAL>Так что я сказал, что прошу прощения. И он\nсказал, что тоже просит. Потом мы помирились\nи снова дружим!"
+  },
+  {
+   "n": 592,
+   "f": 2,
+   "id": "MES_TALK_20",
+   "key": "3bfaad2b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, а знаешь что! Дедушка на днях подарил мне\nновые игрушки и огромный десерт! ♪\n<PAGE>\n<FACE_SAD>Ой. Погоди. Дедушка сказал держать это от\nтебя в секрете. Ой-ой!!\n<PAGE>\nЭ-э, <PARENT>? Можешь сделать вид, что я ничего не\nговорил, пожалуйста? Это был секрет."
+  },
+  {
+   "n": 593,
+   "f": 2,
+   "id": "MES_TALK_21",
+   "key": "a747c2b7",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nАга! Попался, <PARENT>! <PARENT>, я тебя ви-и-ику!\n<PAGE>\n<FACE_SAD>Ой. Язык заплёлся. Я хотел сказать “я тебя\nвижу”. Честно-честно."
+  },
+  {
+   "n": 594,
+   "f": 2,
+   "id": "MES_TALK_22",
+   "key": "1a94bf40",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСлушай, <PARENT>? Какой я был, когда был совсем\nмалышом?\n<PAGE>\nЯ ничего не помню о том, как был малышом.\nТак странно думать, что я им был."
+  },
+  {
+   "n": 595,
+   "f": 2,
+   "id": "MES_TALK_23",
+   "key": "015fb05d",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСемейное правило номер шесть! “Если что-то\nне понимаешь или не знаешь, что делать, не\nсиди сложа руки. Попроси помощи.”\n<PAGE>\n<FACE_NORMAL><PARENT>, почему небо голубое? Я не понимаю!\n<PAGE>\n<FACE_SAD>А? Оно не голубое, просто так кажется...?\nТеперь я запутался ещё больше..."
+  },
+  {
+   "n": 596,
+   "f": 2,
+   "id": "MES_TALK_24",
+   "key": "bd0b5022",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКажется, в каждом городе свои истории о\nбожествах. Они все про одно и то же? Или их\nмного разных?\n<PAGE>\nЕсли разных, интересно, сколько их? Десять?\nМожет, сто?"
+  },
+  {
+   "n": 597,
+   "f": 2,
+   "id": "MES_TALK_25",
+   "key": "c9d8e0e6",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, как думаешь, я смогу быть как ты, когда\nвырасту? Я хочу быть как ты."
+  },
+  {
+   "n": 600,
+   "f": 2,
+   "id": "MES_TALK_28",
+   "key": "448983ac",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nВсе взрослые говорят, что у Яити “каменное\nлицо”, но это не так. Оно же совсем не из\nкамня.\n<PAGE>\nИ он улыбается, когда рад, и хмурится, когда\nгрустно. Только не зли его. Когда он злится, он\nсуперстрашный."
+  },
+  {
+   "n": 601,
+   "f": 2,
+   "id": "MES_TALK_29",
+   "key": "f287c2ae",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nМы с Шальком устроим состязание, кто поймает\nсамую большую рыбу.\n<PAGE>\nА есть какой-то секрет, как ловить большую\nрыбу, <PARENT>? Если есть, научи, пожалуйста! Хочу\nзнать!"
+  },
+  {
+   "n": 602,
+   "f": 2,
+   "id": "MES_TALK_30",
+   "key": "aed14b50",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСемейное правило номер семь! “Когда\nрадуешься, веселишься или очень кого-то\nлюбишь, так и скажи! Облеки чувства в слова.”\n<PAGE>\n“Нехорошо держать чувства внутри, так что,\nдаже если стыдно, говори, что чувствуешь.”\n<PAGE>\n<FACE_LAUGH>Мама. Папа. А знаете что? Мне так весело с\nвами. Я вас обоих очень-очень-очень люблю.\n<RED>∀</RED>\n<PAGE>\nНадеюсь, мы будем вместе всегда-всегда. ♪"
+  },
+  {
+   "n": 635,
+   "f": 2,
+   "id": "MES_FASHION_NOT_MATCH_COOL",
+   "key": "94c6f503",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\n<PARENT>, тебе не холодно? Хочешь, отдам свою\nкуртку?"
+  },
+  {
+   "n": 650,
+   "f": 2,
+   "id": "MES_FASHION_WORKINGWEAR",
+   "key": "a5a7f329",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМне очень нравится этот наряд, потому что в\nнём ты так круто выглядишь, когда работаешь\nна ферме, <PARENT>."
+  },
+  {
+   "n": 894,
+   "f": 2,
+   "id": "MES_FASHION_SETCOWGIRL",
+   "key": "68c968a2",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nАга! Шляпа-корова! Как здорово! Хочу такую,\nхочу!"
+  },
+  {
+   "n": 909,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMECOWBODY",
+   "key": "b265db27",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nА-ха-ха! <PARENT>, у тебя наряд коровы! Не волнуйся,\nкоровка-<PARENT>, я тебя почищу щёткой, будет\nчистенькая коровка!"
+  },
+  {
+   "n": 914,
+   "f": 2,
+   "id": "MES_FASHION_SETWAGASHIWEAR",
+   "key": "986dc0b1",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nСлушай, <PARENT>? А данго у тебя на спине можно\nсъесть? Нет? Эх... А выглядят так вкусно."
+  },
+  {
+   "n": 915,
+   "f": 2,
+   "id": "MES_FASHION_SETFRUITSPARLORMAN",
+   "key": "973f222d",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Фруктовый наряд! Как круто! Хочу такой\nпримерить! ♪"
+  },
+  {
+   "n": 916,
+   "f": 2,
+   "id": "MES_FASHION_SETFRUITSPARLORLADY",
+   "key": "5a611003",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nО-о! Фруктовый наряд! Как мило! Все фрукты\nна нём такие вкусные на вид."
+  },
+  {
+   "n": 924,
+   "f": 2,
+   "id": "MES_FASHION_SETPUMPKINSTYE",
+   "key": "0b8a60d8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nТыквенный наряд очень классный! А\nкартофельные и капустные наряды тоже\nбывают? Было бы весело."
+  },
+  {
+   "n": 942,
+   "f": 2,
+   "id": "MES_MISSION_START",
+   "key": "af7421ce",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nАга. <_____MYNAME_____>.\n<PAGE>\nКак раз вовремя. Я хотел с тобой поговорить.\n<PAGE>\nМожно тебя на минутку?"
+  },
+  {
+   "n": 943,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKD_BRIDGE",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 944,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_BELLTOWER",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 945,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_COLLABO_MENU1",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 946,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_BRONZE",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 947,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_COLLABO_PERFUME",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 948,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_GODDESS",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 949,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_COLLABO_MENU2",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 950,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKD_FARMBRIDGE",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 951,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_SPA",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 952,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_COLLABO_MENU",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 953,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_PARK",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 954,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_COLLABO_KANZASHI",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 955,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_INARI",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 956,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_COLLABO_SPA",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 957,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 958,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_FIRE",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 959,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 960,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_INNAROUND",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 961,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_COLLABO_AVATAR",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 962,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_PIER",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 963,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_COLLABO_MENU",
+   "key": "7d0cf010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 964,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_00",
+   "key": "86436245",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nОтдать материалы."
+  },
+  {
+   "n": 965,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_01",
+   "key": "76061d4c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nНе отдавать материалы."
+  },
+  {
+   "n": 966,
+   "f": 2,
+   "id": "MES_MISSION_NG",
+   "key": "63303a47",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nНу ладно. Ничего. Не спеши. Принесёшь, как\nсоберёшь все."
+  },
+  {
+   "n": 967,
+   "f": 2,
+   "id": "MES_MISSION_OK",
+   "key": "555a9bb3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Спасибо, что всё собрали."
+  },
+  {
+   "n": 968,
+   "f": 2,
+   "id": "MES_MISSION_CANNOT",
+   "key": "db691af0",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХм... Похоже, пока не всё.\n<PAGE>\nНу ладно. Ничего. Не спеши. Принесёшь, как\nсоберёшь все."
+  },
+  {
+   "n": 969,
+   "f": 2,
+   "id": "MES_MISSION_CLEAR",
+   "key": "ff8fa2c6",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nДа, это всё. Отлично!\n<PAGE>\nМатериалы есть, так что начнём, как только все\nбудут готовы.\n<PAGE>\nПока всё. Я зайду за тобой, когда всё будет\nготово, хорошо?"
   },
   {
    "n": 970,
@@ -63,6 +1645,13 @@
    "id": "MES_MISSION_RESULT_02",
    "key": "ec856f16",
    "ru": "Отдано:\n<MOJI0> ×<MOJI1>...\n<PAGE>\n...<MOJI2> ×<MOJI3> и <MOJI4> ×<MOJI5>!"
+  },
+  {
+   "n": 975,
+   "f": 2,
+   "id": "MES_PENDANT_INARI",
+   "key": "4519a1af",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nОго, какой красивый кулон!"
   }
  ]
 }
