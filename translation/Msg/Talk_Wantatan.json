@@ -2,6 +2,671 @@
  "file": "Talk_Wantatan",
  "entries": [
   {
+   "n": 6,
+   "f": 2,
+   "id": "WORKING_REQUEST_000",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "WORKING_REQUEST_001",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "WORKING_DELIVERY_000",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "WORKING_DELIVERY_001",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRIDGE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BELL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRONZE_STATUE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_GODDESS_STATUE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_PERFUME",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BRIDGE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BATHSHOP",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_RELIEF",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_SHRINE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_TEA",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_BATH",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_ACCESSORY",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SPRING",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SPRING",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_SPRING",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SUMMER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SUMMER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_SUMMER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_AUTUMN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_AUTUMN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_AUTUMN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_WINTER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_WINTER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_WINTER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SPRING",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SPRING",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_SPRING",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SUMMER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SUMMER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_SUMMER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_AUTUMN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_AUTUMN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_AUTUMN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_WINTER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_WINTER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_WINTER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_WEATHER_TYPHOON",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_WEATHER_HEAVYSNOW",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_0",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_1",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_2",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_GOOD_TALK_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_GOOD_TALK_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_TIRED_TALK_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_TIRED_TALK_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_GOOD",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_BAD",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_TODAY_GODDESS",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_TODAY_RICE_EAR",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FLOWER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FLOWER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER_NOT",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_FORGET_FLOWER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_FLOWER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_FLOWER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_GRUEL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_GRUEL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL_NOT",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_FORGET_GRUEL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_GRUEL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_GRUEL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_01",
+   "key": "e6031af2",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
    "n": 172,
    "f": 2,
    "id": "MES_CAMPAIGN_WITCH_SELECT_00",
@@ -30,6 +695,601 @@
    "ru": "Надуть губы"
   },
   {
+   "n": 176,
+   "f": 2,
+   "id": "MES_CAMPAIGN_FINISH",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_CAMPAIGN_1_MORE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_CAMPAIGN_2_MORE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_CAMPAIGN_3_MORE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_CAMPAIGN_4_MORE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_CAMPAIGN_5_MORE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_CAMPAIGN_6_MORE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_04",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_05",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_04",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_05",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_04",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_05",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_MAP_SHOOTING_STAR",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_MAP_WINDMILL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_A",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_MAP_SNOWMAN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_MAP_TREE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_MAP_WIND_BELL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_J",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_MAP_FIREFLY",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_MAP_MORNING_GRLORY",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_MAP_SILVER_GRASS",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_MAP_DRAGONFLY",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_MAP_STRAW",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_MAP_DRIED_PERSIMMON",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_MAP_THUNDERHEAD",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_MAP_NOCTILUCA",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_S",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_S",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_MAP_GULL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_MY_HOUSE_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_MY_HOUSE_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_FRIEND_HOUSE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_04",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_05",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_06",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_07",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_08",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_09",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_04",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_06",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_08",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_09",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_05",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_07",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_08",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_09",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_OPEN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SHOP_OPEN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SICK",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MES_MEAL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MES_LOVER_MEAL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_MEAL_RESTAURANT",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MES_MEAL_JAPANESE_TEA",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MES_MEAL_SOUTH_TEA",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_MEAL_WITH_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_MEAL_WITH_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_MEAL_WITH_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
    "n": 276,
    "f": 2,
    "id": "MES_MEAL_SELECT_00",
@@ -42,6 +1302,118 @@
    "id": "MES_MEAL_SELECT_01",
    "key": "0eb1312c",
    "ru": "Гав? Что такое, гав?"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_04",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_05",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_06",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_07",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_08",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_09",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_10",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_11",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_12",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_13",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_14",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_15",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
   },
   {
    "n": 295,
@@ -58,6 +1430,475 @@
    "ru": "Пока не нужно. Но спасибо!"
   },
   {
+   "n": 310,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_04",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_05",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 347,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 352,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 353,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 354,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 355,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 356,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 357,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 358,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 359,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 360,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 361,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 362,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 366,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 367,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 368,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 369,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 370,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 371,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 372,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 373,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 374,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 375,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 377,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 378,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 379,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 380,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 381,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 382,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_03",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 383,
+   "f": 2,
+   "id": "MES_PROPOSAL_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
    "n": 384,
    "f": 2,
    "id": "MES_PROPOSAL_SELECT_00",
@@ -72,6 +1913,27 @@
    "ru": "Гав? Что такое, гав?"
   },
   {
+   "n": 386,
+   "f": 2,
+   "id": "MES_PROPOSAL_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 387,
+   "f": 2,
+   "id": "MES_PROPOSAL_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_CONFESSION_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
    "n": 389,
    "f": 2,
    "id": "MES_CONFESSION_SELECT_00",
@@ -84,6 +1946,20 @@
    "id": "MES_CONFESSION_SELECT_01",
    "key": "0eb1312c",
    "ru": "Гав? Что такое, гав?"
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "MES_CONFESSION_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 392,
+   "f": 2,
+   "id": "MES_CONFESSION_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
   },
   {
    "n": 393,
@@ -107,6 +1983,104 @@
    "ru": "Гав? Что такое, гав?"
   },
   {
+   "n": 396,
+   "f": 2,
+   "id": "MES_LOVE_CANCEL_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 397,
+   "f": 2,
+   "id": "MES_LOVERS_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "MES_LOVERS_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 399,
+   "f": 2,
+   "id": "MES_LOVERS_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 400,
+   "f": 2,
+   "id": "MES_ENGAGEMENT",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 411,
+   "f": 2,
+   "id": "MES_BLESSING_LOVER_FAMILY",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 415,
+   "f": 2,
+   "id": "MES_BLESSING_ENGAGEMENT_FAMILY",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 426,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 427,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY_PRESENT",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 430,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_00",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 431,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 432,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_02",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 444,
+   "f": 2,
+   "id": "MES_TOWN_BIRTHDAY_PARTY",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 446,
+   "f": 2,
+   "id": "MES_LOVER_BLUE_SHUTTLECOCK",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
    "n": 447,
    "f": 2,
    "id": "MES_EVENT_BLUE_SHUTTLECOCK_00",
@@ -114,11 +2088,53 @@
    "ru": "Гав? Что такое, гав?"
   },
   {
+   "n": 450,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 451,
+   "f": 2,
+   "id": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
    "n": 454,
    "f": 2,
    "id": "MES_EVENT_PENDANT_00",
    "key": "0eb1312c",
    "ru": "Гав? Что такое, гав?"
+  },
+  {
+   "n": 457,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_01",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 458,
+   "f": 2,
+   "id": "MES_LOVER_PENDANT",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_BLUE_SHUTTLECOCK",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 462,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_PENDANT",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
   },
   {
    "n": 464,
@@ -135,6 +2151,286 @@
    "ru": "(Ему сегодня уже был подарок. Лучше\nприберечь это до завтра.)"
   },
   {
+   "n": 466,
+   "f": 2,
+   "id": "MES_WRAPPING_FLOWER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 467,
+   "f": 2,
+   "id": "MES_WRAPPING_RICE_GRUEL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 493,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 494,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 495,
+   "f": 2,
+   "id": "MES_MARRIAGE_FLOWER_FESTIVAL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 496,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL_RETURN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 497,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL_RETURN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 498,
+   "f": 2,
+   "id": "MES_MARRIAGE_FLOWER_FESTIVAL_RETURN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 499,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 500,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 501,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 502,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 503,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 504,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 506,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 509,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL_RETURN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 513,
+   "f": 2,
+   "id": "MES_LOVER_THANKS_FESTIVAL",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 525,
+   "f": 2,
+   "id": "MES_LOVER_RETURN_PRESENT",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 955,
+   "f": 2,
+   "id": "MES_MISSION_START",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 956,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKD_BRIDGE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 957,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_BELLTOWER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 958,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_COLLABO_MENU1",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 959,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_BRONZE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 960,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_COLLABO_PERFUME",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 961,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_GODDESS",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 962,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_COLLABO_MENU2",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 963,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKD_FARMBRIDGE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 964,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_SPA",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 965,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_COLLABO_MENU",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 966,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_PARK",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 967,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_COLLABO_KANZASHI",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 968,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_INARI",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 969,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_COLLABO_SPA",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 970,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 971,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_FIRE",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 972,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 973,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_INNAROUND",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 974,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_COLLABO_AVATAR",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 975,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_PIER",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 976,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_COLLABO_MENU",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
    "n": 977,
    "f": 2,
    "id": "MES_MISSION_CHOICE_00",
@@ -147,6 +2443,34 @@
    "id": "MES_MISSION_CHOICE_01",
    "key": "9ebbc757",
    "ru": "Не отдавать ему."
+  },
+  {
+   "n": 979,
+   "f": 2,
+   "id": "MES_MISSION_NG",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 980,
+   "f": 2,
+   "id": "MES_MISSION_OK",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 981,
+   "f": 2,
+   "id": "MES_MISSION_CANNOT",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
+  },
+  {
+   "n": 982,
+   "f": 2,
+   "id": "MES_MISSION_CLEAR",
+   "key": "de4b2ce6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав? Что такое, гав?"
   },
   {
    "n": 983,

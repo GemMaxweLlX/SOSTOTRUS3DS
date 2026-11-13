@@ -2,6 +2,419 @@
  "file": "Talk_Presenter",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_MAN_FIRST_MEETING",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_WOMAN_FIRST_MEETING",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_LOVER_LONG_INTERVAL",
+   "key": "f2907796",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nЧто такое?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "WORKING_REQUEST_000",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "WORKING_REQUEST_001",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "WORKING_DELIVERY_000",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "WORKING_DELIVERY_001",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BRIDGE",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BATHSHOP",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_RELIEF",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_SHRINE",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_TEA",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_BATH",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_ACCESSORY",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_KITCHEN",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_BONFIRE",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_INN",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_LANDING",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_FOOD",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_TEA",
+   "key": "d442d285",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\nЧто такое?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_DRESS",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_WEATHER_TYPHOON",
+   "key": "f2907796",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nЧто такое?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_WEATHER_HEAVYSNOW",
+   "key": "f2907796",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nЧто такое?"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_0",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_1",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_2",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_GOOD",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_BAD",
+   "key": "f2907796",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nЧто такое?"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_GRUEL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_GRUEL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL_NOT",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_FORGET_GRUEL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_GRUEL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_GRUEL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FRUIT",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FRUIT",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT_NOT",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_FORGET_FRUIT",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_FRUIT",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_FRUIT",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_01",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
    "n": 172,
    "f": 2,
    "id": "MES_CAMPAIGN_WITCH_SELECT_00",
@@ -30,6 +443,489 @@
    "ru": "Что такое?"
   },
   {
+   "n": 176,
+   "f": 2,
+   "id": "MES_CAMPAIGN_FINISH",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_CAMPAIGN_1_MORE",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_CAMPAIGN_2_MORE",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_CAMPAIGN_3_MORE",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_CAMPAIGN_4_MORE",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_CAMPAIGN_5_MORE",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_CAMPAIGN_6_MORE",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_04",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_05",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_04",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_05",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_04",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_05",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_MAP_SHOOTING_STAR",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_MAP_WINDMILL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_A",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_MAP_SNOWMAN",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_MAP_TREE",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_MAP_WIND_BELL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_J",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_MAP_FIREFLY",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_MAP_MORNING_GRLORY",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_MAP_SILVER_GRASS",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_MAP_DRAGONFLY",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_MAP_STRAW",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_MAP_DRIED_PERSIMMON",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_MAP_THUNDERHEAD",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_MAP_NOCTILUCA",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_S",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_S",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_MAP_GULL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_FRIEND_HOUSE",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_04",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_05",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_06",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_07",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_08",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_09",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_04",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_06",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_08",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_09",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_05",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_07",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_08",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_09",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_OPEN",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SHOP_OPEN",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_MEAL_WITH_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_MEAL_WITH_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_MEAL_WITH_02",
+   "key": "d442d285",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\nЧто такое?"
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_01",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_02",
+   "key": "d442d285",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\nЧто такое?"
+  },
+  {
    "n": 276,
    "f": 2,
    "id": "MES_MEAL_SELECT_00",
@@ -42,6 +938,118 @@
    "id": "MES_MEAL_SELECT_01",
    "key": "93efdefa",
    "ru": "Не сегодня"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_04",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_05",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_06",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_07",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_08",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_09",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_10",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_11",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_12",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_13",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_14",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_15",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
   },
   {
    "n": 295,
@@ -58,6 +1066,475 @@
    "ru": "Пока не нужно. Но спасибо!"
   },
   {
+   "n": 310,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_00",
+   "key": "f2907796",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nЧто такое?"
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_02",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_04",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_05",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 347,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 352,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 353,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 354,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 355,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 356,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 357,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 358,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 359,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 360,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 361,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 362,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 366,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 367,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 368,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 369,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 370,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 371,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 372,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 373,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 374,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 375,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 377,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 378,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 379,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 380,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 381,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 382,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_03",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 383,
+   "f": 2,
+   "id": "MES_PROPOSAL_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
    "n": 384,
    "f": 2,
    "id": "MES_PROPOSAL_SELECT_00",
@@ -72,6 +1549,27 @@
    "ru": "Что такое?"
   },
   {
+   "n": 386,
+   "f": 2,
+   "id": "MES_PROPOSAL_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 387,
+   "f": 2,
+   "id": "MES_PROPOSAL_02",
+   "key": "d442d285",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\nЧто такое?"
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_CONFESSION_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
    "n": 389,
    "f": 2,
    "id": "MES_CONFESSION_SELECT_00",
@@ -84,6 +1582,20 @@
    "id": "MES_CONFESSION_SELECT_01",
    "key": "df05040d",
    "ru": "Что такое?"
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "MES_CONFESSION_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 392,
+   "f": 2,
+   "id": "MES_CONFESSION_02",
+   "key": "d442d285",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\nЧто такое?"
   },
   {
    "n": 393,
@@ -107,6 +1619,111 @@
    "ru": "Что такое?"
   },
   {
+   "n": 396,
+   "f": 2,
+   "id": "MES_LOVE_CANCEL_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 397,
+   "f": 2,
+   "id": "MES_LOVERS_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "MES_LOVERS_01",
+   "key": "d442d285",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\nЧто такое?"
+  },
+  {
+   "n": 399,
+   "f": 2,
+   "id": "MES_LOVERS_02",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 400,
+   "f": 2,
+   "id": "MES_ENGAGEMENT",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 411,
+   "f": 2,
+   "id": "MES_BLESSING_LOVER_FAMILY",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 415,
+   "f": 2,
+   "id": "MES_BLESSING_ENGAGEMENT_FAMILY",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 426,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 427,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY_PRESENT",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 430,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_00",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 431,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 432,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_02",
+   "key": "f2907796",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nЧто такое?"
+  },
+  {
+   "n": 440,
+   "f": 2,
+   "id": "MES_LOVER_PLAYER_BIRTHDAY",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 444,
+   "f": 2,
+   "id": "MES_TOWN_BIRTHDAY_PARTY",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 446,
+   "f": 2,
+   "id": "MES_LOVER_BLUE_SHUTTLECOCK",
+   "key": "d442d285",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\nЧто такое?"
+  },
+  {
    "n": 447,
    "f": 2,
    "id": "MES_EVENT_BLUE_SHUTTLECOCK_00",
@@ -114,11 +1731,53 @@
    "ru": "Что такое?"
   },
   {
+   "n": 450,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 451,
+   "f": 2,
+   "id": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
    "n": 454,
    "f": 2,
    "id": "MES_EVENT_PENDANT_00",
    "key": "df05040d",
    "ru": "Что такое?"
+  },
+  {
+   "n": 457,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_01",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 458,
+   "f": 2,
+   "id": "MES_LOVER_PENDANT",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_BLUE_SHUTTLECOCK",
+   "key": "f2907796",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nЧто такое?"
+  },
+  {
+   "n": 462,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_PENDANT",
+   "key": "f2907796",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nЧто такое?"
   },
   {
    "n": 464,
@@ -133,6 +1792,125 @@
    "id": "MES_PRESENT_CANNOT_01",
    "key": "2287dbba",
    "ru": "(Ей сегодня уже был подарок. Лучше\nприберечь это до завтра.)"
+  },
+  {
+   "n": 467,
+   "f": 2,
+   "id": "MES_WRAPPING_RICE_GRUEL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 468,
+   "f": 2,
+   "id": "MES_WRAPPING_FRUIT",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 494,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 497,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL_RETURN",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 499,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 500,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 501,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 502,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 503,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 504,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 505,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 506,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 507,
+   "f": 2,
+   "id": "MES_MARRIAGE_FRUIT_FESTIVAL",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 508,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL_RETURN",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 509,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL_RETURN",
+   "key": "69180b06",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое?"
+  },
+  {
+   "n": 510,
+   "f": 2,
+   "id": "MES_MARRIAGE_FRUIT_FESTIVAL_RETURN",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
+  },
+  {
+   "n": 513,
+   "f": 2,
+   "id": "MES_LOVER_THANKS_FESTIVAL",
+   "key": "c46569da",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧто такое?"
   },
   {
    "n": 977,
