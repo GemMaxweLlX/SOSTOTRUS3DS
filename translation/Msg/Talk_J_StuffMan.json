@@ -2,6 +2,1161 @@
  "file": "Talk_J_StuffMan",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_MAN_FIRST_MEETING",
+   "key": "6cee9455",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПривет. Ты новый фермер? Я Иттэцу. Работаю\nв “Ра Мане”. Рад знакомству."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_WOMAN_FIRST_MEETING",
+   "key": "6cee9455",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПривет. Ты новый фермер? Я Иттэцу. Работаю\nв “Ра Мане”. Рад знакомству."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_LONG_INTERVAL",
+   "key": "641f5e9e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПривет. Давно не виделись. Ферма много\nвремени отнимает?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_LOVER_LONG_INTERVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_MARRIAGE_LONG_INTERVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PLAYER_DOWN",
+   "key": "862f3317",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСлышал, вчера тебе стало плохо. Береги себя.\nЕсли перегружать тело, рано или поздно оно\nответит тем же."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "WORKING_REQUEST_000",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "WORKING_REQUEST_001",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "WORKING_DELIVERY_000",
+   "key": "86d84fd5",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПосылка мне?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "WORKING_DELIVERY_001",
+   "key": "c2fd6aa1",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nА. Подрабатываешь доставкой? Спасибо."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRIDGE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BELL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRONZE_STATUE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_GODDESS_STATUE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_PERFUME",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BRIDGE",
+   "key": "93d866b1",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nПосле починки моста все только и улыбаются.\nЧто может быть лучше."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BATHSHOP",
+   "key": "e369e5a7",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nОткрывшаяся заново купальня ― это хорошо.\nИногда беру с собой Тацуми и Яити. Им\nнравятся большие купели."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_RELIEF",
+   "key": "b5c1a1be",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТеперь, когда парк привели в порядок, я часто\nвижу там Умэкити и Омиё.\n<PAGE>\n<FACE_LAUGH>...Надеюсь, мы с Сидзу в старости будем\nтакими же."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_SHRINE",
+   "key": "b6d21dcb",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВ последнее время город стал живее и богаче.\nМожет, хранитель благословил нас за уборку\nсвятилища.\n<PAGE>\nКонечно, в этом большая заслуга и твоя, <_____MYNAME_____>."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_TEA",
+   "key": "5828fef2",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЯити очень полюбил дораяки, которые\nпридумали вы с Гиндзиро.\n<PAGE>\nГоворят, на днях он даже выпросил одну у\nОмиё, как ни стыдно."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_BATH",
+   "key": "42292324",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nОсобые ванны ― отличная идея. Ванна с сисо\n― любимая у всей нашей семьи."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_ACCESSORY",
+   "key": "047b69d1",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСидзу купила одно из украшений для волос, что\nсделали вы с Юдзуки. Работа и правда\nкачественная."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_KITCHEN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_BONFIRE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_INN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_LANDING",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_FOOD",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_TEA",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_DRESS",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SPRING",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SPRING",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_SPRING",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SUMMER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SUMMER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_SUMMER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_AUTUMN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_AUTUMN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_AUTUMN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_WINTER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_WINTER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_WINTER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SPRING",
+   "key": "ffa54a15",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nХороший день. Думаю, самое то для\nфермерства."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SPRING",
+   "key": "4aba5606",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nУ фермера работа не прекращается из-за\nдождя."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_SPRING",
+   "key": "d97e151f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Снег, значит? Почи его обожает. Только\nвыпусти его туда ― и с ним не совладать."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SUMMER",
+   "key": "cdabb3b8",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nРаботать в такую жару ― нужно много\nвыносливости. Не забывай отдыхать."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SUMMER",
+   "key": "9678153f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nДождь, значит? Долго было жарко, так что\nурожай, наверное, рад воде."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_SUMMER",
+   "key": "d97e151f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Снег, значит? Почи его обожает. Только\nвыпусти его туда ― и с ним не совладать."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_AUTUMN",
+   "key": "6d4bc4e6",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНебо сегодня совсем ясное. И кажется больше и\nсинее."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_AUTUMN",
+   "key": "372fff6a",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСидзу всегда ворчит, если я не обсохну, прежде\nчем войти в дом."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_AUTUMN",
+   "key": "d97e151f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Снег, значит? Почи его обожает. Только\nвыпусти его туда ― и с ним не совладать."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_WINTER",
+   "key": "e4402c71",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nРаботать на ферме в такой холод, наверное,\nтяжко."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_WINTER",
+   "key": "372fff6a",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСидзу всегда ворчит, если я не обсохну, прежде\nчем войти в дом."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_WINTER",
+   "key": "d97e151f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Снег, значит? Почи его обожает. Только\nвыпусти его туда ― и с ним не совладать."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_SPRING",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_SPRING",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_SPRING",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_SUMMER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_SUMMER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_SUMMER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_AUTUMN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_AUTUMN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_AUTUMN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_WINTER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_WINTER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_WINTER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_WEATHER_TYPHOON",
+   "key": "e16e314f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_SAD>\r\nУдивительно, что тебе вообще пришло в\nголову выйти в такую погоду.\n<PAGE>\n<FACE_NORMAL>Раз уж ты здесь, располагайся, пока снаружи не\nутихнет."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_WEATHER_HEAVYSNOW",
+   "key": "de83b157",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nДойти сюда в такую метель? Смелости тебе не\nзанимать, признаю. Может, отдохнёшь и\nсогреешься?"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_MARRIAGE_WEATHER_TYPHOON",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_MAN_MORNING_TALK_00",
+   "key": "8034803e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nА. Похоже, и у тебя утро начинается рано."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_MAN_MORNING_TALK_01",
+   "key": "9e59af4d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nРаботаешь в такую рань? Ну, как говорится,\nкто рано встаёт..."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_WOMAN_MORNING_TALK_00",
+   "key": "8034803e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nА. Похоже, и у тебя утро начинается рано."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_WOMAN_MORNING_TALK_01",
+   "key": "9e59af4d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nРаботаешь в такую рань? Ну, как говорится,\nкто рано встаёт..."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_MAN_AFTERNOON_TALK_00",
+   "key": "0622bad6",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВ это время дня обычно тянет вздремнуть. С\nтобой такое бывает?"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_MAN_AFTERNOON_TALK_01",
+   "key": "caa1bcfb",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПривет, как дела? Трудишься?"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_WOMAN_AFTERNOON_TALK_00",
+   "key": "0622bad6",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВ это время дня обычно тянет вздремнуть. С\nтобой такое бывает?"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_WOMAN_AFTERNOON_TALK_01",
+   "key": "8f560d13",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПривет, как дела? Помни, перерабатывать\nвредно."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_MAN_EVENING_TALK_00",
+   "key": "aabba5db",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nДобрый вечер. Не ожидал увидеть тебя в\nтакой час. Похоже, дни у тебя насыщенные и\nплодотворные."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_MAN_EVENING_TALK_01",
+   "key": "1e604e43",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nРаботаешь так поздно? Тяжко. Закругляйся\nпоскорее, а то завтра проспишь."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_WOMAN_EVENING_TALK_00",
+   "key": "aabba5db",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nДобрый вечер. Не ожидал увидеть тебя в\nтакой час. Похоже, дни у тебя насыщенные и\nплодотворные."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_WOMAN_EVENING_TALK_01",
+   "key": "1e604e43",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nРаботаешь так поздно? Тяжко. Закругляйся\nпоскорее, а то завтра проспишь."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_0",
+   "key": "98224426",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНадо выложить товары, подходящие к\nсегодняшней погоде.\n<PAGE>\n...Это один из моих маленьких секретов, чтобы\nтовар не залёживался."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_1",
+   "key": "2d3bf7a3",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nРабота окончена. Наконец-то можно\nотдохнуть."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_2",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_FEERING_GOOD_TALK_00",
+   "key": "e379cb4d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nРабота сегодня спорится. Жаловаться не на что."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_FEERING_GOOD_TALK_01",
+   "key": "427ee8fb",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nЧаинки в утреннем чае сложились в добрый\nзнак.\n<PAGE>\nМожешь звать меня суеверным, но мне хочется\nверить, что сегодня и правда случится что-то\nхорошее."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_GOOD_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_GOOD_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_GOOD_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_GOOD_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_FEERING_TIRED_TALK_00",
+   "key": "2fbaf824",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_SAD>\r\nСегодня на работе суматоха. Похоже, один из\nтех дней, когда ничего не ладится."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_FEERING_TIRED_TALK_01",
+   "key": "bde39976",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_SAD>\r\n...А. <_____MYNAME_____>. Прости. Кажется, я на миг задремал."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_TIRED_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_TIRED_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_TIRED_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_TIRED_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_MAN_CHANGE_FEELING_GOOD",
+   "key": "c34db87d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\n...Сегодня хороший день. И, думаю, благодаря\nтебе, <_____MYNAME_____>. Спасибо."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_WOMAN_CHANGE_FEELING_GOOD",
+   "key": "c34db87d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\n...Сегодня хороший день. И, думаю, благодаря\nтебе, <_____MYNAME_____>. Спасибо."
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_GOOD",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_MARRIAGE_CHANGE_FEELING_GOOD",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_MAN_CHANGE_FEELING_BAD",
+   "key": "57054e11",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_SAD>\r\nСегодня что-то не моё. Пожалуй, лягу\nпораньше."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_WOMAN_CHANGE_FEELING_BAD",
+   "key": "57054e11",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_SAD>\r\nСегодня что-то не моё. Пожалуй, лягу\nпораньше."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_BAD",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_MARRIAGE_CHANGE_FEELING_BAD",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_TODAY_GODDESS",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_TODAY_RICE_EAR",
+   "key": "d493dd22",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНадеюсь, на сегодняшнем празднике всем будет\nвесело."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_TODAY_WITCH",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_TODAY_GAME",
+   "key": "1974f218",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня, значит... Трилимпиада? Ну... Если\nрешишь участвовать, буду за тебя болеть."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_TODAY_DRINK",
+   "key": "36974e9a",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nУже Праздник напитков? Надеюсь, в этом году\nпридумают что-нибудь съедобное."
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_MAN_TODAY_FRIENDSHIP",
+   "key": "5fcb1d84",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПраздник звёзд, значит? Звучит странно от\nменя, но связь с другими людьми ― это\nхорошо.\n<PAGE>\nСидзу мне в этом всегда помогает. Уверен, и\nдля тебя где-то есть такой человек."
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_WOMAN_TODAY_FRIENDSHIP",
+   "key": "46278b24",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПраздник звёзд, значит? Звучит странно от\nменя, но связь с другими людьми ― это\nхорошо."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FRIENDSHIP",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FRIENDSHIP",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_TODAY_NEW_YEAR",
+   "key": "407fe6b0",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВ каждом городе Новый год встречают\nпо-своему. Встречай так, как тебе больше по\nдуше."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FLOWER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FLOWER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER_NOT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_FORGET_FLOWER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_FLOWER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_FLOWER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL",
+   "key": "f115d5cf",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Привет, <_____MYNAME_____>. Я сварил тебе кашу. Здоровья тебе\nв новом году."
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_GRUEL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_GRUEL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL_NOT",
+   "key": "73af36c4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nО. Похоже, сумка полна. Освободи немного. Я\nпока подержу."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_FORGET_GRUEL",
+   "key": "e71187b5",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсть место в сумке? Отлично. Тогда вот твоя\nкаша."
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_GRUEL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_GRUEL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FRUIT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FRUIT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT_NOT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_FORGET_FRUIT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_FRUIT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_FRUIT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_00",
+   "key": "f0a9946d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПожертвования на Праздник изобилия? Тацуми\nи Яити в этом году очень его ждут."
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_01",
+   "key": "1daa0d8f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНу... Если для тебя это так важно, причин\nотказывать у меня нет. Вот."
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_02",
+   "key": "5cf632e4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВот, столько хватит?"
+  },
+  {
    "n": 165,
    "f": 2,
    "id": "MES_CAMPAIGN_RICE_EAR_SELECT_00",
@@ -30,6 +1185,755 @@
    "ru": "Надуть губы"
   },
   {
+   "n": 169,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_CAMPAIGN_FINISH",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_CAMPAIGN_1_MORE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_CAMPAIGN_2_MORE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_CAMPAIGN_3_MORE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_CAMPAIGN_4_MORE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_CAMPAIGN_5_MORE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_CAMPAIGN_6_MORE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_MAP_FARM_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_MAP_FARM_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_MAP_THREE_FORKED_ROAD_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_MAP_THREE_FORKED_ROAD_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_04",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_05",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_00",
+   "key": "b0210a2e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдесь всегда людно."
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_01",
+   "key": "baf24394",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВсегда приятно видеть, как родной город\nпроцветает."
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_02",
+   "key": "bf9d8129",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПо-моему, работа на ферме успокаивает,\nправда?"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_03",
+   "key": "aee49609",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nИногда приятно просто остановиться и\nпослушать пение птиц."
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_04",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_05",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_04",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_05",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_MAP_SHOOTING_STAR",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_MAP_WINDMILL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_A",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_MAP_SNOWMAN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_MAP_TREE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_MAP_WIND_BELL",
+   "key": "47a9951c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nГромких звуков я не люблю... но ветряные\nколокольчики ― исключение."
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_J",
+   "key": "62ea80f3",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКогда работа на ферме выматывает, обычно\nхватает охлаждённых овощей, чтобы\nвзбодриться.\n<PAGE>\nНа удивление освежают."
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_MAP_FIREFLY",
+   "key": "aada7203",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСветлячки, значит? Сидзу обожает смотреть,\nкак они порхают."
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_MAP_MORNING_GRLORY",
+   "key": "70e40021",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПочему-то при виде вьюнка кажется, что надо\nвставать пораньше."
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_MAP_SILVER_GRASS",
+   "key": "419e91b8",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПри виде мисканта хочется данго. Сидзу делает\nочень вкусные."
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_MAP_DRAGONFLY",
+   "key": "dd46099b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТут часто стоят дети с вытянутыми пальцами,\nнадеясь поймать стрекозу.\n<PAGE>\nТацуми и Яити тоже всё время так делают."
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_MAP_STRAW",
+   "key": "2ea7d6f1",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nИз соломы можно сделать много всего. У нас\nдома много соломенных вещей."
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_MAP_DRIED_PERSIMMON",
+   "key": "8e3b7830",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nДумаю и в этом году заготовить соленья и\nсушёные продукты. А ты, <_____MYNAME_____>?"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_MAP_THUNDERHEAD",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_MAP_NOCTILUCA",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_S",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_S",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_MAP_GULL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_PLAYER_HOUSE_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_PLAYER_HOUSE_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_MY_HOUSE_00",
+   "key": "eec41a2f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСкромно у нас, но располагайся."
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_MY_HOUSE_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_FRIEND_HOUSE",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_04",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_05",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_06",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_07",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_08",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_09",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_04",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_06",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_08",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_09",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_05",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_07",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_08",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_09",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_OPEN",
+   "key": "442aea18",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать. Смотри, что нравится."
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SHOP_OPEN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_00",
+   "key": "a969be45",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЕщё думаешь? Не спеши, времени сколько\nугодно. Надеюсь, найдёшь что-нибудь по вкусу."
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_01",
+   "key": "a57ae2dc",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсли будут вопросы, спрашивай."
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_02",
+   "key": "d8287800",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНашлось что-нибудь интересное?"
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "MES_SCHEDULE_SLEEP",
+   "key": "8ce3b56d",
+   "ru": "<FACE_STUFFMAN>\r\nЧто, Яити... опять на плечи...? Но до облаков\nвсё равно не достанешь..."
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SLEEP",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SLEEP",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MES_SCHEDULE_SICK",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SICK",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SICK",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MES_MEAL",
+   "key": "50e2e5fa",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПрости, можешь зайти, когда я доем?"
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MES_LOVER_MEAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_MEAL_RESTAURANT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MES_MEAL_JAPANESE_TEA",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MES_MEAL_SOUTH_TEA",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_MEAL_WITH_00",
+   "key": "21090874",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Тоже хочешь, <_____MYNAME_____>? Сидзу отлично готовит."
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_MEAL_WITH_01",
+   "key": "bdcb33c2",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nЛадно. Садись, сейчас дам тарелку."
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_MEAL_WITH_02",
+   "key": "1bb58438",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Заходи в другой раз."
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
    "n": 276,
    "f": 2,
    "id": "MES_MEAL_SELECT_00",
@@ -42,6 +1946,125 @@
    "id": "MES_MEAL_SELECT_01",
    "key": "93efdefa",
    "ru": "Не сегодня"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_04",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_05",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_06",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_07",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_08",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_09",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_10",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_11",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_12",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_13",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_14",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_15",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
   },
   {
    "n": 295,
@@ -58,6 +2081,1147 @@
    "ru": "Не просить помощи."
   },
   {
+   "n": 297,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_CANCEL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_OK",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_RESULT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_00",
+   "key": "0c7a251c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Прости, собеседник из меня неважный.\nГоворят, я скуп на слова."
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_01",
+   "key": "b6784f4c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nНу, раз тебе нравится."
+  },
+  {
+   "n": 302,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_02",
+   "key": "bbdbb0b2",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНе знаю, говорил ли я тебе, но с тобой очень\nлегко разговаривать, <_____MYNAME_____>.\n<PAGE>\n...Это мне на руку, потому что поддерживать\nразговор я совсем не умею."
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_03",
+   "key": "baacaa09",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Ты мне очень во многом помогаешь, <_____MYNAME_____>.\n<PAGE>\nЯ не из тех, кто оставляет добро без ответа.\nЕсли что-нибудь понадобится, всегда\nобращайся."
+  },
+  {
+   "n": 304,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_04",
+   "key": "f79d9f2d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНе знаю, что думаешь ты, но я считаю тебя\nдругом.\n<PAGE>\nЯ не очень общительный, так что друзей у меня\nнемного.\n<PAGE>\n<FACE_LAUGH>Буду рад, если мы и дальше будем так\nразговаривать."
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_00",
+   "key": "0c7a251c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Прости, собеседник из меня неважный.\nГоворят, я скуп на слова."
+  },
+  {
+   "n": 306,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_01",
+   "key": "b6784f4c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nНу, раз тебе нравится."
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_02",
+   "key": "bbdbb0b2",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНе знаю, говорил ли я тебе, но с тобой очень\nлегко разговаривать, <_____MYNAME_____>.\n<PAGE>\n...Это мне на руку, потому что поддерживать\nразговор я совсем не умею."
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_03",
+   "key": "0bba813e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Ты мне очень во многом помогаешь, <_____MYNAME_____>.\n<PAGE>\nЯ не из тех, кто оставляет добро без ответа.\nЕсли что-нибудь понадобится, я рядом."
+  },
+  {
+   "n": 309,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_04",
+   "key": "360c729a",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНе знаю, что думаешь ты, но я считаю тебя\nдругом.\n<PAGE>\n...Знаешь, кроме Сидзу, мало какая женщина\nчувствует себя со мной свободно. Ты\nособенная.\n<PAGE>\n<FACE_LAUGH>Буду рад, если мы и дальше будем так\nразговаривать."
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_04",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_05",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 316,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 317,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 318,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 319,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 320,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_04",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 321,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_05",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 322,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_06",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 347,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 352,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 353,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 354,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 355,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 356,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 357,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 358,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 359,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 360,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 361,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 362,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 366,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 367,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 368,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 369,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 370,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 371,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 372,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 373,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 374,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 375,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 377,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 378,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 379,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 380,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 381,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 382,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 383,
+   "f": 2,
+   "id": "MES_PROPOSAL_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 384,
+   "f": 2,
+   "id": "MES_PROPOSAL_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 385,
+   "f": 2,
+   "id": "MES_PROPOSAL_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 386,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 387,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_CONFESSION_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_CONFESSION_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 390,
+   "f": 2,
+   "id": "MES_CONFESSION_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 392,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 393,
+   "f": 2,
+   "id": "MES_LOVERS_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "MES_LOVERS_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "MES_LOVERS_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 396,
+   "f": 2,
+   "id": "MES_ENGAGEMENT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 397,
+   "f": 2,
+   "id": "MES_MARRIAGE_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "MES_MARRIAGE_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 399,
+   "f": 2,
+   "id": "MES_MARRIAGE_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 400,
+   "f": 2,
+   "id": "MES_MARRIAGE_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 401,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 402,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 403,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 404,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_LOVER",
+   "key": "aead56cb",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСидзу говорит, ты начинаешь встречаться с <CHARANAME0>.\n<PAGE>\nНас с Сидзу познакомила сваха, так что совета\nнасчёт свиданий не дам... Но надеюсь, у вас всё\nсложится."
+  },
+  {
+   "n": 405,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_LOVER",
+   "key": "e7a17d5c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСидзу говорит, ты начинаешь встречаться с <CHARANAME0>.\n<PAGE>\nТо-то у <CHARANAME0> в последнее время такой счастливый\nвид."
+  },
+  {
+   "n": 406,
+   "f": 2,
+   "id": "MES_BLESSING_LOVER_OTHER",
+   "key": "694505e4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСлышал, ты с кем-то встречаешься. Хорошая\nновость, поздравляю."
+  },
+  {
+   "n": 407,
+   "f": 2,
+   "id": "MES_BLESSING_LOVER_FAMILY",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 408,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_ENGAGEMENT",
+   "key": "238a1afe",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЗначит, у тебя помолвка? ...Да, слух уже по\nвсему городу. В общем, поздравляю."
+  },
+  {
+   "n": 409,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_ENGAGEMENT",
+   "key": "688255a9",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHARANAME0> говорит, что у вас помолвка. Поздравляю."
+  },
+  {
+   "n": 410,
+   "f": 2,
+   "id": "MES_BLESSING_ENGAGEMENT_OTHER",
+   "key": "8252807e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСидзу говорит, у тебя помолвка. Поздравляю.\n<PAGE>\nУверен, вдвоём вы справитесь с любыми\nтрудностями."
+  },
+  {
+   "n": 411,
+   "f": 2,
+   "id": "MES_BLESSING_ENGAGEMENT_FAMILY",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 412,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_MARRIAGE",
+   "key": "501a9cb6",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю со свадьбой. Желаю вам обоим\nвсего наилучшего.\n<PAGE>\nИ не забывай свадебный обет: в болезни и\nздравии. Береги <CHARANAME0>."
+  },
+  {
+   "n": 413,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_MARRIAGE",
+   "key": "a4bb91c7",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю со свадьбой. Желаю всего\nнаилучшего тебе и <CHARANAME0>.\n<PAGE>\n<FACE_NORMAL>У нас всё немного иначе, нас с Сидзу свела\nсваха, но...\n<PAGE>\nЧем смогу, помогу советом. Так что спрашивай,\nне стесняйся."
+  },
+  {
+   "n": 414,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_OTHER",
+   "key": "6c3b3ca5",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nЗначит, я правильно слышал? У тебя теперь\nсемья? Поздравляю.\n<PAGE>\nТы человек деятельный. Уверен, в семейной\nжизни всё будет хорошо."
+  },
+  {
+   "n": 415,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_PRESENT",
+   "key": "119b90f0",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nУ меня для тебя и свадебный подарок.\nНадеюсь, пригодится."
+  },
+  {
+   "n": 416,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_FAMILY",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 417,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_FAMILY_PRESENT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 418,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_CHILD_BIRTH",
+   "key": "40b640eb",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nСлышал, у тебя родился ребёнок. Поздравляю.\n<PAGE>\n<FACE_NORMAL>Уверен, тебе не нужно напоминать, но\nобязательно дай <CHARANAME0> понять, как ты её ценишь."
+  },
+  {
+   "n": 419,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_CHILD_BIRTH",
+   "key": "51766f9c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с рождением ребёнка. Или\nправильнее сказать “молодец”? Ведь рожать\nпришлось тебе.\n<PAGE>\nЯ давно знаю <CHARANAME0>, но, кажется, ни разу не видел у\nнего такого счастливого лица."
+  },
+  {
+   "n": 420,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_OTHER",
+   "key": "98de23b4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nСлышал, у тебя родился ребёнок. Поздравляю.\n<PAGE>\nНадеюсь, он возьмёт лучшее от вас обоих."
+  },
+  {
+   "n": 421,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_PRESENT",
+   "key": "e04379cc",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nВот. Подарок в честь рождения ребёнка.\n<PAGE>\nКогда родились мои дети, Умэкити и Омиё\nочень нам помогли, и теперь пора передать эту\nдоброту дальше.\n<PAGE>\nТак что не забывай: если что-нибудь\nпонадобится, мы с Сидзу рядом."
+  },
+  {
+   "n": 422,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 423,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY_PRESENT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 424,
+   "f": 2,
+   "id": "MES_COMING_SYSTER_00",
+   "key": "79042d88",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСлышал, к тебе приехала сестра. Почему бы не\nпоказать ей город?"
+  },
+  {
+   "n": 425,
+   "f": 2,
+   "id": "MES_COMING_MOTHER_00",
+   "key": "df734d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСлышал, к тебе издалека приехала мама.\nМожет, стоит проводить с ней побольше\nвремени?"
+  },
+  {
+   "n": 426,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 427,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 428,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 429,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 430,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 431,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 432,
+   "f": 2,
+   "id": "MES_MAN_PLAYER_BIRTHDAY_00",
+   "key": "14e41b1b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nС днём рождения. Пусть он будет хорошим."
+  },
+  {
+   "n": 433,
+   "f": 2,
+   "id": "MES_MAN_PLAYER_BIRTHDAY_01",
+   "key": "9329132f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <_____MYNAME_____>. У меня для тебя подарок.\nНадеюсь, пригодится."
+  },
+  {
+   "n": 434,
+   "f": 2,
+   "id": "MES_WOMAN_PLAYER_BIRTHDAY_00",
+   "key": "14e41b1b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nС днём рождения. Пусть он будет хорошим."
+  },
+  {
+   "n": 435,
+   "f": 2,
+   "id": "MES_WOMAN_PLAYER_BIRTHDAY_01",
+   "key": "62878e6c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <_____MYNAME_____>. У меня для тебя подарок.\n<PAGE>\nНу, если честно, помогла выбрать Сидзу. В\nобщем, надеюсь, понравится."
+  },
+  {
+   "n": 436,
+   "f": 2,
+   "id": "MES_LOVER_PLAYER_BIRTHDAY",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 437,
+   "f": 2,
+   "id": "MES_MARRIAGE_PLAYER_BIRTHDAY",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 438,
+   "f": 2,
+   "id": "MES_NO_EMPTY_BIRTHDAY",
+   "key": "48794599",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, сумка полна. Отдам, как место\nпоявится."
+  },
+  {
+   "n": 439,
+   "f": 2,
+   "id": "MES_FORGET_BIRTHDAY",
+   "key": "cad3206f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nОсвободилось место? Хорошо. Попробуем ещё\nраз."
+  },
+  {
+   "n": 440,
+   "f": 2,
+   "id": "MES_TOWN_BIRTHDAY_PARTY",
+   "key": "dc7d6175",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nА, и Гиндзиро просил передать...\n<PAGE>\nОн ждёт тебя в <GREEN>чайной</GREEN> в <BLUE>13:00</BLUE>. Не забудь."
+  },
+  {
+   "n": 441,
+   "f": 2,
+   "id": "MES_BLUE_SHUTTLECOCK",
+   "key": "50a1d696",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Зачем ты мне это показываешь? Не знаю, что\nи сказать."
+  },
+  {
+   "n": 442,
+   "f": 2,
+   "id": "MES_LOVER_BLUE_SHUTTLECOCK",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 443,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 444,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 445,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 446,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 447,
+   "f": 2,
+   "id": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 448,
+   "f": 2,
+   "id": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 449,
+   "f": 2,
+   "id": "MES_PENDANT",
+   "key": "1e4b2219",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Кулон? Ну, и что с ним?"
+  },
+  {
+   "n": 450,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 451,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_SELECT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 452,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_SELECT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 453,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 454,
+   "f": 2,
+   "id": "MES_LOVER_PENDANT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 455,
+   "f": 2,
+   "id": "MES_MARRIAGE_PENDANT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 456,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_BLUE_SHUTTLECOCK",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 457,
+   "f": 2,
+   "id": "MES_MARRIAGE_ANGER_BLUE_SHUTTLECOCK",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 458,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_PENDANT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 459,
+   "f": 2,
+   "id": "MES_MARRIAGE_ANGER_PENDANT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
    "n": 460,
    "f": 2,
    "id": "MES_PRESENT_CANNOT_00",
@@ -70,6 +3234,3576 @@
    "id": "MES_PRESENT_CANNOT_01",
    "key": "311ec593",
    "ru": "(Ему сегодня уже был подарок. Лучше\nприберечь это на другой день.)"
+  },
+  {
+   "n": 462,
+   "f": 2,
+   "id": "MES_WRAPPING_FLOWER",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 463,
+   "f": 2,
+   "id": "MES_WRAPPING_RICE_GRUEL",
+   "key": "e7152916",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\n...Это ведь упаковка к Празднику долголетия?\nВидно, сколько души вложено."
+  },
+  {
+   "n": 464,
+   "f": 2,
+   "id": "MES_WRAPPING_FRUIT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 465,
+   "f": 2,
+   "id": "MES_WRAPPING_LIKE",
+   "key": "6be96f0d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nЯ никогда особо не обращал внимания на\nкоробку, но приятно, когда подарок в любимом\nцвете.\n<PAGE>\nНадо запомнить этот приём."
+  },
+  {
+   "n": 466,
+   "f": 2,
+   "id": "MES_WRAPPING_NORMAL",
+   "key": "32bb6b0e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПодарок в упаковке? Очень предусмотрительно."
+  },
+  {
+   "n": 467,
+   "f": 2,
+   "id": "MES_PRESENT_BEST",
+   "key": "5c620b70",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\n...<BLUE><____ITEMNAME0____></BLUE>? Люблю это больше всего. Знаю, что\nпросто, но простота ― в этом и прелесть.\n<PAGE>\nСпасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 468,
+   "f": 2,
+   "id": "MES_PRESENT_VERY",
+   "key": "bb3eae60",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>, значит? Удивительно, что ты знаешь, как я\nтакое люблю. Спасибо."
+  },
+  {
+   "n": 469,
+   "f": 2,
+   "id": "MES_PRESENT_LIKE",
+   "key": "ab0ec694",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>, значит? Спасибо."
+  },
+  {
+   "n": 470,
+   "f": 2,
+   "id": "MES_PRESENT_NORMAL",
+   "key": "ff303a24",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЭто мне? А. Спасибо."
+  },
+  {
+   "n": 471,
+   "f": 2,
+   "id": "MES_PRESENT_DISLIKE",
+   "key": "00f4be8d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...<BLUE><____ITEMNAME0____></BLUE>, значит? Э-э... нет. Ничего. Возьму."
+  },
+  {
+   "n": 472,
+   "f": 2,
+   "id": "MES_PRESENT_HATE",
+   "key": "c2d6a81d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_SAD>\r\nПо правде, я такое не очень люблю. Что, всё\nравно хочешь, чтобы я взял? ...Ладно, так и\nбыть."
+  },
+  {
+   "n": 473,
+   "f": 2,
+   "id": "MES_PRESENT_WORST",
+   "key": "2345504b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_ANGRY>\r\n...Прости, но <BLUE><____ITEMNAME0____></BLUE> ― единственное, что я не\nвыношу. Может, лучше отдать Тацуми?\n<PAGE>\n<FACE_NORMAL>В этот раз возьму, но больше так не делай,\nпожалуйста."
+  },
+  {
+   "n": 474,
+   "f": 2,
+   "id": "MES_PRESENT_HUGE_VERY",
+   "key": "e59790b8",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nОтличный экземпляр ― <BLUE><____ITEMNAME0____></BLUE>. Удивительно, что ты\nзнаешь, как я такое люблю.\n<PAGE>\nСпасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 475,
+   "f": 2,
+   "id": "MES_PRESENT_HUGE_LIKE",
+   "key": "91038200",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nВпечатляет ― <BLUE><____ITEMNAME0____></BLUE>. Спасибо."
+  },
+  {
+   "n": 476,
+   "f": 2,
+   "id": "MES_PRESENT_GOLD_VERY",
+   "key": "a0d50965",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nЗолотой? <BLUE><____ITEMNAME0____></BLUE> ― и правда шикарно. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 477,
+   "f": 2,
+   "id": "MES_PRESENT_GOLD_LIKE",
+   "key": "ca97b1c2",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nУх ты, как блестит ― <BLUE><____ITEMNAME0____></BLUE>. Спасибо."
+  },
+  {
+   "n": 478,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_BEST",
+   "key": "1fb7c5da",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\n...<BLUE><____ITEMNAME0____></BLUE>? Люблю это больше всего. Знаю, что\nпросто, но простота ― в этом и прелесть.\n<PAGE>\nА в подарок на день рождения ― тем более\nприятно. Очень благодарен, <_____MYNAME_____>."
+  },
+  {
+   "n": 479,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_VERY",
+   "key": "dc5d3075",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЭто мне? А, точно. Сегодня ведь мой день\nрождения?\n<PAGE>\n<FACE_LAUGH>Очень мило ― такой хороший подарок на день\nрождения. Благодарю."
+  },
+  {
+   "n": 480,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_LIKE",
+   "key": "ac9fa3e0",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЭто мне? А, точно. Сегодня ведь мой день\nрождения? Спасибо, хорошая вещь."
+  },
+  {
+   "n": 481,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_NORMAL",
+   "key": "c01d9b2a",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЭто мне? А, точно. День рождения. Спасибо."
+  },
+  {
+   "n": 482,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_DISLIKE",
+   "key": "b71826f7",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...<BLUE><____ITEMNAME0____></BLUE>, значит? Э-э... неважно. Возьму. ...А, точно.\nСегодня ведь мой день рождения?"
+  },
+  {
+   "n": 483,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HATE",
+   "key": "7e097e9d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_SAD>\r\nПо правде, я такое не очень люблю. Что, всё\nравно хочешь, чтобы я взял?\n<PAGE>\nА, постой, это же подарок на день рождения?\n*вздох* Тогда, пожалуй, надо взять."
+  },
+  {
+   "n": 484,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_WORST",
+   "key": "3555ff38",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_ANGRY>\r\n...Прости, но <BLUE><____ITEMNAME0____></BLUE> ― единственное, что я не\nвыношу. Может, лучше отдать Тацуми?\n<PAGE>\n<FACE_NORMAL>Возвращать подарок на день рождения\nневежливо, так что возьму, но больше так не\nделай, пожалуйста."
+  },
+  {
+   "n": 485,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HUGE_VERY",
+   "key": "283edb24",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nУх ты, какой отличный ― <BLUE><____ITEMNAME0____></BLUE>. Удивительно, что\nты знаешь, как я такое люблю.\n<PAGE>\nРад получить такое на день рождения. Спасибо,\n<_____MYNAME_____>."
+  },
+  {
+   "n": 486,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HUGE_LIKE",
+   "key": "f10ddb6d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nВпечатляет ― <BLUE><____ITEMNAME0____></BLUE>. А, это подарок на день\nрождения? Спасибо."
+  },
+  {
+   "n": 487,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_GOLD_VERY",
+   "key": "6f01838d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nЗолотой? <BLUE><____ITEMNAME0____></BLUE> ― и правда шикарно.\n<PAGE>\nА, это подарок на день рождения? Очень мило,\n<_____MYNAME_____>, спасибо."
+  },
+  {
+   "n": 488,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_GOLD_LIKE",
+   "key": "c6740870",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nУх ты, как блестит ― <BLUE><____ITEMNAME0____></BLUE>. А, точно. Сегодня мой\nдень рождения. Спасибо."
+  },
+  {
+   "n": 489,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 490,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 491,
+   "f": 2,
+   "id": "MES_MARRIAGE_FLOWER_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 492,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL_RETURN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 493,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL_RETURN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 494,
+   "f": 2,
+   "id": "MES_MARRIAGE_FLOWER_FESTIVAL_RETURN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 495,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL",
+   "key": "a65af4ac",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо. Ценю, что ради меня столько хлопот."
+  },
+  {
+   "n": 496,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 497,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 498,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "332710cb",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВот твоя каша. Пусть этот год будет здоровым\nдля нас обоих."
+  },
+  {
+   "n": 499,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 500,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 501,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 502,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 503,
+   "f": 2,
+   "id": "MES_MARRIAGE_FRUIT_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 504,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL_RETURN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 505,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL_RETURN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 506,
+   "f": 2,
+   "id": "MES_MARRIAGE_FRUIT_FESTIVAL_RETURN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 507,
+   "f": 2,
+   "id": "MES_THANKS_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 508,
+   "f": 2,
+   "id": "MES_THANKS_FESTIVAL_RETURN",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 509,
+   "f": 2,
+   "id": "MES_LOVER_THANKS_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 510,
+   "f": 2,
+   "id": "MES_MARRIAGE_THANKS_FESTIVAL",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 511,
+   "f": 2,
+   "id": "MES_PUMPKIN_FESTIVAL",
+   "key": "c7ef6376",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПудинг к Тыквенному празднику? Отдать его\nТацуми и Яити?\n<PAGE>\nЭто мне? ...Что ж, сегодня можно и побаловать\nсебя.\n<PAGE>\nСпасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 512,
+   "f": 2,
+   "id": "MES_NO_EMPTY_FESTIVAL",
+   "key": "419ce1e8",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nА. Похоже, сумка полна. Тогда подержу у себя\nи отдам потом."
+  },
+  {
+   "n": 513,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_HARVEST",
+   "key": "63af7134",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nВчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE> ― был очень вкусным.\n<PAGE>\nНаверное, много труда ушло, чтобы такое\nвырастить."
+  },
+  {
+   "n": 514,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_COOKING",
+   "key": "2ced9568",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE> ― был вкусным.\nСпасибо.\n<PAGE>\n<FACE_LAUGH>Готовишь почти как Сидзу."
+  },
+  {
+   "n": 515,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FLOWER",
+   "key": "208128c4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ в цветах мало понимаю, но Сидзу очень\nпонравился вчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\n<FACE_LAUGH>Она без ума от цветов, так что если ей\nпонравилось, значит, точно хорошее. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 516,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_PRODUCT",
+   "key": "353191cd",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE> ― был очень высокого\nкачества, верно?\n<PAGE>\n<FACE_LAUGH>Даже в магазин такое редко привозят. Спасибо\nза щедрость."
+  },
+  {
+   "n": 517,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FOOD",
+   "key": "c6ca2ea5",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nВчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE> ― был очень вкусным.\nСпасибо."
+  },
+  {
+   "n": 518,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FLOWER",
+   "key": "4a9b251e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nЯ в цветах мало понимаю, но Сидзу очень\nпонравился вчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\n<FACE_LAUGH>Она без ума от цветов, так что если ей\nпонравилось, значит, точно хорошее. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 519,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_OTHER",
+   "key": "ff668681",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за вчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE>. Очень\nприятно."
+  },
+  {
+   "n": 520,
+   "f": 2,
+   "id": "MES_RETURN_PRESENT",
+   "key": "686620f9",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nВот. В благодарность за всё, что ты мне\nдаришь. Надеюсь, пригодится."
+  },
+  {
+   "n": 521,
+   "f": 2,
+   "id": "MES_LOVER_RETURN_PRESENT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 522,
+   "f": 2,
+   "id": "MES_MARRIAGE_RETURN_PRESENT",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 523,
+   "f": 2,
+   "id": "MES_Tosa",
+   "key": "cfce5527",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\n...Хороший у тебя тоса-ину."
+  },
+  {
+   "n": 524,
+   "f": 2,
+   "id": "MES_Great_Pyrenees",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 525,
+   "f": 2,
+   "id": "MES_Bernese",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 526,
+   "f": 2,
+   "id": "MES_Weimaraner",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 527,
+   "f": 2,
+   "id": "MES_Husky",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 528,
+   "f": 2,
+   "id": "MES_Doberman",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 529,
+   "f": 2,
+   "id": "MES_Shepherd",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 530,
+   "f": 2,
+   "id": "MES_Bull_Terrier",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 531,
+   "f": 2,
+   "id": "MES_Tibetan",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 532,
+   "f": 2,
+   "id": "MES_Border_Collie",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 533,
+   "f": 2,
+   "id": "MES_Jack_Russell_Terrier",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 534,
+   "f": 2,
+   "id": "MES_Dachshund",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 535,
+   "f": 2,
+   "id": "MES_Beagle",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 536,
+   "f": 2,
+   "id": "MES_Shiba",
+   "key": "fd3a624e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nУ нас тоже есть сиба. Его зовут Почи. Он очень\nдружелюбный, уверен, вы бы поладили."
+  },
+  {
+   "n": 537,
+   "f": 2,
+   "id": "MES_Chihuahua",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 538,
+   "f": 2,
+   "id": "MES_Poodle",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 539,
+   "f": 2,
+   "id": "MES_CatA",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 540,
+   "f": 2,
+   "id": "MES_CatB",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 541,
+   "f": 2,
+   "id": "MES_CatC",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 542,
+   "f": 2,
+   "id": "MES_CatD",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 543,
+   "f": 2,
+   "id": "MES_CatE",
+   "key": "b82bc67c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nЧёрный кот, значит? Совсем как Дайкоку, кот\nхозяина.\n<PAGE>\nЯ привык к чёрным котам, так что, признаюсь,\nмалыш мне уже нравится."
+  },
+  {
+   "n": 544,
+   "f": 2,
+   "id": "MES_CatLongHairA",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 545,
+   "f": 2,
+   "id": "MES_CatLongHairB",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 546,
+   "f": 2,
+   "id": "MES_CatLongHairC",
+   "key": "5183c6bc",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nРедкая для этих мест порода кошек. В ней есть\nдостоинство, хозяину бы понравилось."
+  },
+  {
+   "n": 547,
+   "f": 2,
+   "id": "MES_CatLongHairD",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 548,
+   "f": 2,
+   "id": "MES_CatLongHairE",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 549,
+   "f": 2,
+   "id": "MES_KapibaraA",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 550,
+   "f": 2,
+   "id": "MES_KapibaraB",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 551,
+   "f": 2,
+   "id": "MES_Cacatua",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 552,
+   "f": 2,
+   "id": "MES_Turtle",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 553,
+   "f": 2,
+   "id": "MES_Shoebill",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 554,
+   "f": 2,
+   "id": "MES_Eagle",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 555,
+   "f": 2,
+   "id": "MES_Kiji",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 556,
+   "f": 2,
+   "id": "MES_RainbowBird",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 557,
+   "f": 2,
+   "id": "MES_Monkey",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 558,
+   "f": 2,
+   "id": "MES_Verreauxi",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 559,
+   "f": 2,
+   "id": "MES_RacoonDog",
+   "key": "cf4ed4ca",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТануки, значит? Говорят, глиняные статуэтки\nтануки приносят удачу и процветание в\nторговле.\n<PAGE>\nХозяин рассказывал, что всё из-за игры слов:\nих имя можно понять как “вынести всё\nостальное”.\n<PAGE>\nТо есть вынести неудачу, оставить удачу."
+  },
+  {
+   "n": 560,
+   "f": 2,
+   "id": "MES_Grizzly",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 561,
+   "f": 2,
+   "id": "MES_Ermine",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 562,
+   "f": 2,
+   "id": "MES_Fox",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 563,
+   "f": 2,
+   "id": "MES_Sparrow",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 564,
+   "f": 2,
+   "id": "MES_Chicken",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 565,
+   "f": 2,
+   "id": "MES_Chicken_Huge",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 566,
+   "f": 2,
+   "id": "MES_Silky",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 567,
+   "f": 2,
+   "id": "MES_Silky_Huge",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 568,
+   "f": 2,
+   "id": "MES_Quail",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 569,
+   "f": 2,
+   "id": "MES_Quail_Huge",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 570,
+   "f": 2,
+   "id": "MES_AngoraRabbitA",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 571,
+   "f": 2,
+   "id": "MES_AngoraRabbitA_Huge",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 572,
+   "f": 2,
+   "id": "MES_AngoraRabbitB",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 573,
+   "f": 2,
+   "id": "MES_AngoraRabbitB_Huge",
+   "key": "fcbd5d7b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, этот пёс тебя очень любит."
+  },
+  {
+   "n": 574,
+   "f": 2,
+   "id": "MES_TALK_0",
+   "key": "cd5cea79",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...Я очень тихий? Да, верно...\n<PAGE>\nНе то чтобы я не любил бывать с людьми.\nПросто никогда не знаю, о чём говорить.\n<PAGE>\nНаверное, большинству моих собеседников со\nмной смертельно скучно."
+  },
+  {
+   "n": 575,
+   "f": 2,
+   "id": "MES_TALK_1",
+   "key": "db194375",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ работаю на хозяина уже 12 лет.\n<PAGE>\nПризнаю, понять его трудно даже спустя\nстолько лет, но он вовсе не холодный и\nбессердечный, как о нём говорят."
+  },
+  {
+   "n": 576,
+   "f": 2,
+   "id": "MES_TALK_2",
+   "key": "143ee3bb",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nС Сумомо ещё хлопот хватает. Ей многому\nнадо научиться в торговле.\n<PAGE>\nНа счётах она считает неплохо. Беда не столько\nв счёте, сколько... во всём остальном.\n<PAGE>\nНо она трудится и старается. Неудивительно,\nчто её все любят. Она мне почти как дочь."
+  },
+  {
+   "n": 577,
+   "f": 2,
+   "id": "MES_TALK_3",
+   "key": "423d94c9",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nГиндзиро очень разговорчивый. Говорит с кем\nугодно, даже со мной.\n<PAGE>\nА я никак не могу найти, что ответить.\nНаверное, он считает меня скучным."
+  },
+  {
+   "n": 578,
+   "f": 2,
+   "id": "MES_TALK_4",
+   "key": "90c7fc83",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nХината заражает своей жизнерадостностью.\nБольшинство покупателей его обожают.\n<PAGE>\nПоначалу с ним было непросто, а теперь ему\nможно доверить почти что угодно."
+  },
+  {
+   "n": 579,
+   "f": 2,
+   "id": "MES_TALK_5",
+   "key": "9e602927",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСразу видно, что Комари хорошая дочь.\nГиндзиро, наверное, ею гордится."
+  },
+  {
+   "n": 580,
+   "f": 2,
+   "id": "MES_TALK_6",
+   "key": "2a3d9879",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nХината хочет стать актёром и ездит\nрепетировать в театр в другом городе.\nСовмещать это с работой непросто."
+  },
+  {
+   "n": 581,
+   "f": 2,
+   "id": "MES_TALK_7",
+   "key": "b7742ccf",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ не мастер говорить, так что Сидзу всегда\nвыручает, когда у меня кончаются слова."
+  },
+  {
+   "n": 582,
+   "f": 2,
+   "id": "MES_TALK_8",
+   "key": "4a7ede1f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТацуми довольно беззаботный, но с\nобязанностями всегда справляется.\n<PAGE>\n...Из-за этого мне труднее отругать его, когда\nнадо."
+  },
+  {
+   "n": 583,
+   "f": 2,
+   "id": "MES_TALK_9",
+   "key": "9748f5c8",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТацуми уже в том возрасте, когда пора\nотдавать в ученики в лавку. ...Я ещё думаю."
+  },
+  {
+   "n": 584,
+   "f": 2,
+   "id": "MES_TALK_10",
+   "key": "6637b689",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЯити пошёл в меня ― мало говорит. И лицо у\nнего не очень выразительное."
+  },
+  {
+   "n": 585,
+   "f": 2,
+   "id": "MES_TALK_11",
+   "key": "fcf8d7d3",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЯити редко улыбается, но когда я сажаю его на\nплечи, знаю, что он счастлив."
+  },
+  {
+   "n": 586,
+   "f": 2,
+   "id": "MES_TALK_12",
+   "key": "52237b07",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНас с Сидзу познакомила сваха.\n<PAGE>\nЯ благодарен, что она решила остаться со мной\nи всё время улыбается."
+  },
+  {
+   "n": 587,
+   "f": 2,
+   "id": "MES_TALK_13",
+   "key": "a2635c45",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТацуми родился, когда мы уже переехали в\nэтот город.\n<PAGE>\nНам с Сидзу повезло ― помогали Умэкити и\nОмиё."
+  },
+  {
+   "n": 588,
+   "f": 2,
+   "id": "MES_TALK_14",
+   "key": "c1525cab",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nУмэкити выращивает отличный урожай. Он\nдаёт мне много советов, но у меня всё равно и\nблизко так не выходит."
+  },
+  {
+   "n": 589,
+   "f": 2,
+   "id": "MES_TALK_15",
+   "key": "ba00cd98",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПочи я нашёл раненым где-то в поле.\n<PAGE>\nПринёс домой, выходил... и он ко мне\nпривязался.\n<PAGE>\nОстальным в семье он тоже понравился, вот и\nрешили оставить."
+  },
+  {
+   "n": 590,
+   "f": 2,
+   "id": "MES_TALK_16",
+   "key": "3c2174df",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nИнтересно смотреть на старинные вещи и\nдумать, как их делали и как ими пользовались."
+  },
+  {
+   "n": 591,
+   "f": 2,
+   "id": "MES_TALK_17",
+   "key": "cc9f3161",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЗаметил, что Сидзу в последнее время часто\nразглядывает картины тушью с растениями и\nцветами. Может, купить ей одну?"
+  },
+  {
+   "n": 592,
+   "f": 2,
+   "id": "MES_TALK_18",
+   "key": "60f99936",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВ чайной очень вкусно готовят...\n<PAGE>\n<FACE_LAUGH>...Просто мне больше нравится еда Сидзу."
+  },
+  {
+   "n": 593,
+   "f": 2,
+   "id": "MES_TALK_19",
+   "key": "68feb91e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто я люблю? Хм. Тушёное и восточные блюда,\nпожалуй..."
+  },
+  {
+   "n": 594,
+   "f": 2,
+   "id": "MES_TALK_20",
+   "key": "30320dc6",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ не особо интересуюсь модой. Неряхой перед\nпокупателями быть не хочу, конечно, но такие\nвещи оставляю Сидзу."
+  },
+  {
+   "n": 595,
+   "f": 2,
+   "id": "MES_TALK_21",
+   "key": "77b4f136",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_SAD>\r\nЯ не умею обращаться с детьми. Никогда не\nзнаю, что делать рядом с ними.\n<PAGE>\n<FACE_NORMAL>Со своими сыновьями, конечно, не так, но\nчужие дети ко мне не подходят."
+  },
+  {
+   "n": 596,
+   "f": 2,
+   "id": "MES_TALK_22",
+   "key": "b3745d21",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНа днях Хината сказал мне, что... берёт с меня\nпример.\n<PAGE>\nСказал, что хотел бы быть таким же\nмужественным, как я... и всякое такое. Не могу\nсогласиться...\n<PAGE>\nПо-моему, это он куда достойнее."
+  },
+  {
+   "n": 597,
+   "f": 2,
+   "id": "MES_TALK_23",
+   "key": "e99e6594",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПочи очень ко мне привязан. Да, это я его\nвыходил, но не уверен, что заслуживаю такого."
+  },
+  {
+   "n": 598,
+   "f": 2,
+   "id": "MES_TALK_24",
+   "key": "a935365e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТацуми и Хината научили Почи давать лапу. Он\nочень быстро схватил. Собаки умные.\n<PAGE>\nКажется, теперь они учат его другим трюкам."
+  },
+  {
+   "n": 599,
+   "f": 2,
+   "id": "MES_TALK_25",
+   "key": "9891e9df",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nГоворят, в здешнем святилище живёт какой-то\nдух. В деревне, откуда я родом, тоже было\nтакое место.\n<PAGE>\nГоворили, если поднести урожай, то будет\nбогатый урожай.\n<PAGE>\nВеришь ты в духов или нет, оказать почтение\nникогда не помешает."
+  },
+  {
+   "n": 600,
+   "f": 2,
+   "id": "MES_TALK_26",
+   "key": "be111732",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЮдзуки живёт в доме прямо к северу от моего.\n<PAGE>\nЯ знаю его с детства, и ни разу не видел, чтобы\nон злился.\n<PAGE>\nВ этом он, наверное, пошёл в Умэкити."
+  },
+  {
+   "n": 601,
+   "f": 2,
+   "id": "MES_TALK_27",
+   "key": "d0b3bc61",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЮдзуки ― постоянный покупатель “Ра Мана”.\nОбычно приходит за материалами для своих\nподелок."
+  },
+  {
+   "n": 602,
+   "f": 2,
+   "id": "MES_TALK_28",
+   "key": "6ef0201b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nС Касуми мы пару раз здоровались, и только.\nТацуми прав, она недолюбливает мужчин.\n<PAGE>\nНе помню, как и почему, но однажды мы\nслучайно остались поговорить наедине.\n<PAGE>\n...Это было самое неловкое молчание за всю\nмою жизнь."
+  },
+  {
+   "n": 603,
+   "f": 2,
+   "id": "MES_TALK_29",
+   "key": "541c7ce0",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nГоворят, Касуми очень любят дети.\n<PAGE>\nДаже Тацуми, который терпеть не может\nучиться, говорит о ней только хорошее."
+  },
+  {
+   "n": 604,
+   "f": 2,
+   "id": "MES_TALK_30",
+   "key": "a8e81c8e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКаждый месяц я покупаю Сидзу маленький\nподарок. Обычно одно из украшений Юдзуки.\n<PAGE>\n<FACE_LAUGH>У него очень тонкая работа. Понимаю, почему\nони так нравятся Сидзу."
+  },
+  {
+   "n": 605,
+   "f": 2,
+   "id": "MES_TALK_31",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 606,
+   "f": 2,
+   "id": "MES_TALK_32",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 607,
+   "f": 2,
+   "id": "MES_TALK_33",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 608,
+   "f": 2,
+   "id": "MES_TALK_34",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 609,
+   "f": 2,
+   "id": "MES_TALK_35",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 610,
+   "f": 2,
+   "id": "MES_TALK_36",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 611,
+   "f": 2,
+   "id": "MES_TALK_37",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 612,
+   "f": 2,
+   "id": "MES_TALK_38",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 613,
+   "f": 2,
+   "id": "MES_TALK_39",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 614,
+   "f": 2,
+   "id": "MES_TALK_40",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 615,
+   "f": 2,
+   "id": "MES_TALK_41",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 616,
+   "f": 2,
+   "id": "MES_TALK_42",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 617,
+   "f": 2,
+   "id": "MES_TALK_43",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 618,
+   "f": 2,
+   "id": "MES_TALK_44",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 619,
+   "f": 2,
+   "id": "MES_TALK_45",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 620,
+   "f": 2,
+   "id": "MES_TALK_46",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 621,
+   "f": 2,
+   "id": "MES_TALK_47",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 622,
+   "f": 2,
+   "id": "MES_TALK_48",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 623,
+   "f": 2,
+   "id": "MES_TALK_49",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 624,
+   "f": 2,
+   "id": "MES_TALK_50",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 625,
+   "f": 2,
+   "id": "MES_TALK_51",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 626,
+   "f": 2,
+   "id": "MES_TALK_52",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 627,
+   "f": 2,
+   "id": "MES_TALK_53",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 628,
+   "f": 2,
+   "id": "MES_TALK_54",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 629,
+   "f": 2,
+   "id": "MES_TALK_55",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 630,
+   "f": 2,
+   "id": "MES_TALK_56",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 631,
+   "f": 2,
+   "id": "MES_TALK_57",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 632,
+   "f": 2,
+   "id": "MES_TALK_58",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 633,
+   "f": 2,
+   "id": "MES_TALK_59",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 634,
+   "f": 2,
+   "id": "MES_TALK_60",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 635,
+   "f": 2,
+   "id": "MES_TALK_61",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 636,
+   "f": 2,
+   "id": "MES_FASHION_NOT_MATCH_HOT",
+   "key": "6fe4e388",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе не жарко в этом? Или простуда? ...Ну, как\nзнаешь."
+  },
+  {
+   "n": 637,
+   "f": 2,
+   "id": "MES_FASHION_NOT_MATCH_COOL",
+   "key": "82d4264b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе не холодно в этом? Или сейчас так\nмодно? ...Ну, как знаешь."
+  },
+  {
+   "n": 638,
+   "f": 2,
+   "id": "MES_FASHION_BASICBOYWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 639,
+   "f": 2,
+   "id": "MES_FASHION_BASICGIRLWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 640,
+   "f": 2,
+   "id": "MES_FASHION_SALOPETTEBOY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 641,
+   "f": 2,
+   "id": "MES_FASHION_SALOPETTEGIRL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 642,
+   "f": 2,
+   "id": "MES_FASHION_SUSPENDERS",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 643,
+   "f": 2,
+   "id": "MES_FASHION_OVERALL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 644,
+   "f": 2,
+   "id": "MES_FASHION_JINBEIBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 645,
+   "f": 2,
+   "id": "MES_FASHION_JINBEIBLACK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 646,
+   "f": 2,
+   "id": "MES_FASHION_MATABIKI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 647,
+   "f": 2,
+   "id": "MES_FASHION_MINO",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 648,
+   "f": 2,
+   "id": "MES_FASHION_SIMPLENORAGI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 649,
+   "f": 2,
+   "id": "MES_FASHION_SAOTOME",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 650,
+   "f": 2,
+   "id": "MES_FASHION_KAPPOUGI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 651,
+   "f": 2,
+   "id": "MES_FASHION_WILDFARMER",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 652,
+   "f": 2,
+   "id": "MES_FASHION_WORKINGWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 653,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 654,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 655,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPCASUAL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 656,
+   "f": 2,
+   "id": "MES_FASHION_WORKINGSHORTPANTS",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 657,
+   "f": 2,
+   "id": "MES_FASHION_CAPECASUAL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 658,
+   "f": 2,
+   "id": "MES_FASHION_KONOHANAWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 659,
+   "f": 2,
+   "id": "MES_FASHION_KUNGFUFARMER",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 660,
+   "f": 2,
+   "id": "MES_FASHION_BLUEBELLWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 661,
+   "f": 2,
+   "id": "MES_FASHION_WARKINGCHINA",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 662,
+   "f": 2,
+   "id": "MES_FASHION_DOTCULOTTEBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 663,
+   "f": 2,
+   "id": "MES_FASHION_DOTCULOTTERED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 664,
+   "f": 2,
+   "id": "MES_FASHION_GUNMAN",
+   "key": "9650e57f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nХм. Не каждый день здесь видишь такую\nодежду. Но строгие цвета мне нравятся."
+  },
+  {
+   "n": 665,
+   "f": 2,
+   "id": "MES_FASHION_COWBOYSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 666,
+   "f": 2,
+   "id": "MES_FASHION_COWSPOTCOWBOY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 667,
+   "f": 2,
+   "id": "MES_FASHION_COWGIRL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 668,
+   "f": 2,
+   "id": "MES_FASHION_FRINGECASUAL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 669,
+   "f": 2,
+   "id": "MES_FASHION_KNICKERBOCKERS",
+   "key": "6d7860e6",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЭти штаны, похоже, свободные и удобные."
+  },
+  {
+   "n": 670,
+   "f": 2,
+   "id": "MES_FASHION_CHECKVEST",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 671,
+   "f": 2,
+   "id": "MES_FASHION_GREENCARDIGAN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 672,
+   "f": 2,
+   "id": "MES_FASHION_GILLETVEST",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 673,
+   "f": 2,
+   "id": "MES_FASHION_POLOSHIRTSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 674,
+   "f": 2,
+   "id": "MES_FASHION_SPRINGAPRONSKIRT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 675,
+   "f": 2,
+   "id": "MES_FASHION_COUNTRYONEPIECE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 676,
+   "f": 2,
+   "id": "MES_FASHION_APRONDRESS",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 677,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERAPRONDRESS",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 678,
+   "f": 2,
+   "id": "MES_FASHION_MAXIAPRONDRESS",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 679,
+   "f": 2,
+   "id": "MES_FASHION_YUKATABOYBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 680,
+   "f": 2,
+   "id": "MES_FASHION_YUKATABOYRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 681,
+   "f": 2,
+   "id": "MES_FASHION_OKAPPIKI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 682,
+   "f": 2,
+   "id": "MES_FASHION_KABUKIFASHION",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 683,
+   "f": 2,
+   "id": "MES_FASHION_HAIKARASANRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 684,
+   "f": 2,
+   "id": "MES_FASHION_HAIKARASANGREEN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 685,
+   "f": 2,
+   "id": "MES_FASHION_YUKATAGIRLBLUE",
+   "key": "d6b85da7",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКрасивый узор с гортензиями на юкате. И\nсдержанный синий тоже нравится."
+  },
+  {
+   "n": 686,
+   "f": 2,
+   "id": "MES_FASHION_YUKATAGIRLRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 687,
+   "f": 2,
+   "id": "MES_FASHION_OLDTOWNSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 688,
+   "f": 2,
+   "id": "MES_FASHION_NADESHIKOSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 689,
+   "f": 2,
+   "id": "MES_FASHION_KYUDOWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 690,
+   "f": 2,
+   "id": "MES_FASHION_FARMERTSHIRT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 691,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNTANKTOP",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 692,
+   "f": 2,
+   "id": "MES_FASHION_WHITEPONCHO",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 693,
+   "f": 2,
+   "id": "MES_FASHION_ARABIANSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 694,
+   "f": 2,
+   "id": "MES_FASHION_RESORTCASUAL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 695,
+   "f": 2,
+   "id": "MES_FASHION_HULADANCEBOY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 696,
+   "f": 2,
+   "id": "MES_FASHION_TUBETOP",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 697,
+   "f": 2,
+   "id": "MES_FASHION_HULADANCEGIRL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 698,
+   "f": 2,
+   "id": "MES_FASHION_REDPONCHO",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 699,
+   "f": 2,
+   "id": "MES_FASHION_TUNICGOLD",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 700,
+   "f": 2,
+   "id": "MES_FASHION_TUNICSILVER",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 701,
+   "f": 2,
+   "id": "MES_FASHION_BLUEWHITENOSLEEVE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 702,
+   "f": 2,
+   "id": "MES_FASHION_QUILTWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 703,
+   "f": 2,
+   "id": "MES_FASHION_YELLOWSWEATER",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 704,
+   "f": 2,
+   "id": "MES_FASHION_COOLVESTWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 705,
+   "f": 2,
+   "id": "MES_FASHION_WHITEJACKET",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 706,
+   "f": 2,
+   "id": "MES_FASHION_AQUACOAT",
+   "key": "b0522153",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСолидный наряд. ...Только сам я такой не\nнадел бы."
+  },
+  {
+   "n": 707,
+   "f": 2,
+   "id": "MES_FASHION_RIDINGCLOTHESBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 708,
+   "f": 2,
+   "id": "MES_FASHION_RIDINGCLOTHESRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 709,
+   "f": 2,
+   "id": "MES_FASHION_SCHWARZCOAT",
+   "key": "3fbd7550",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошее пальто. Мода ― не моё, но за годы\nторговли я научился видеть качество."
+  },
+  {
+   "n": 710,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKCOAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 711,
+   "f": 2,
+   "id": "MES_FASHION_NOBLEJACKET",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 712,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERSKIRT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 713,
+   "f": 2,
+   "id": "MES_FASHION_DOTSKIRT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 714,
+   "f": 2,
+   "id": "MES_FASHION_CLASSICSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 715,
+   "f": 2,
+   "id": "MES_FASHION_ELEGANTONEPIECE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 716,
+   "f": 2,
+   "id": "MES_FASHION_CREAMONEPIECE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 717,
+   "f": 2,
+   "id": "MES_FASHION_RAINCOAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 718,
+   "f": 2,
+   "id": "MES_FASHION_BUTTONDRESS",
+   "key": "14503505",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nНравятся цвета твоего наряда. Спокойные и\nсдержанные."
+  },
+  {
+   "n": 719,
+   "f": 2,
+   "id": "MES_FASHION_HIGHWAISTSKIRT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 720,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKDRESS",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 721,
+   "f": 2,
+   "id": "MES_FASHION_MODERNKIMONO",
+   "key": "ac16d70e",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНеобычный наряд. Это какая-то новая мода?"
+  },
+  {
+   "n": 722,
+   "f": 2,
+   "id": "MES_FASHION_AKINDOAOTAKE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 723,
+   "f": 2,
+   "id": "MES_FASHION_AKINDOYANAGI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 724,
+   "f": 2,
+   "id": "MES_FASHION_SAMURAISTYLE",
+   "key": "42299725",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nВ твоём наряде есть торжественная серьёзность,\nнемного напоминает хозяина."
+  },
+  {
+   "n": 725,
+   "f": 2,
+   "id": "MES_FASHION_PLAYBOYSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 726,
+   "f": 2,
+   "id": "MES_FASHION_OMMYOJI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 727,
+   "f": 2,
+   "id": "MES_FASHION_SNOWKIMONO",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 728,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERKIMONO",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 729,
+   "f": 2,
+   "id": "MES_FASHION_UROKOKIMONO",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 730,
+   "f": 2,
+   "id": "MES_FASHION_KIMONODRESS",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 731,
+   "f": 2,
+   "id": "MES_FASHION_KNEEHIGHKIMONO",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 732,
+   "f": 2,
+   "id": "MES_FASHION_MICHIYUKICOAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 733,
+   "f": 2,
+   "id": "MES_FASHION_GREENHOODIE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 734,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 735,
+   "f": 2,
+   "id": "MES_FASHION_RESORTFORMAL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 736,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 737,
+   "f": 2,
+   "id": "MES_FASHION_ASYMMETRYSKIRT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 738,
+   "f": 2,
+   "id": "MES_FASHION_FRILLSKIRT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 739,
+   "f": 2,
+   "id": "MES_FASHION_RESORTONEPIECEGREEN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 740,
+   "f": 2,
+   "id": "MES_FASHION_RESORTONEPIECERED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 741,
+   "f": 2,
+   "id": "MES_FASHION_SARIBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 742,
+   "f": 2,
+   "id": "MES_FASHION_SARIYELLOW",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 743,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICJADE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 744,
+   "f": 2,
+   "id": "MES_FASHION_WILDROCKER",
+   "key": "80821c10",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЭтот шарф у тебя на шее... что это?\n<PAGE>\n“Галстук”? Похоже на петлю на шее. Удобно?"
+  },
+  {
+   "n": 745,
+   "f": 2,
+   "id": "MES_FASHION_HUIPIL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 746,
+   "f": 2,
+   "id": "MES_FASHION_NORDICDRESSPINK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 747,
+   "f": 2,
+   "id": "MES_FASHION_NORDICDRESSBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 748,
+   "f": 2,
+   "id": "MES_FASHION_ALPSSKIRT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 749,
+   "f": 2,
+   "id": "MES_FASHION_GOTHICSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 750,
+   "f": 2,
+   "id": "MES_FASHION_RUBYREDCHINA",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 751,
+   "f": 2,
+   "id": "MES_FASHION_SAPPHIRECHINA",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 752,
+   "f": 2,
+   "id": "MES_FASHION_SNOWCOAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 753,
+   "f": 2,
+   "id": "MES_FASHION_DRACULACLOAK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 754,
+   "f": 2,
+   "id": "MES_FASHION_PUMPKINSTYE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 755,
+   "f": 2,
+   "id": "MES_FASHION_EUROPEANARMOR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 756,
+   "f": 2,
+   "id": "MES_FASHION_CLOWNWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 757,
+   "f": 2,
+   "id": "MES_FASHION_COCKWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 758,
+   "f": 2,
+   "id": "MES_FASHION_BUTLERWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 759,
+   "f": 2,
+   "id": "MES_FASHION_MAIDROYAL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 760,
+   "f": 2,
+   "id": "MES_FASHION_KUNOICHI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 761,
+   "f": 2,
+   "id": "MES_FASHION_NINJASTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 762,
+   "f": 2,
+   "id": "MES_FASHION_HIBAKAMA",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 763,
+   "f": 2,
+   "id": "MES_FASHION_SMITHWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 764,
+   "f": 2,
+   "id": "MES_FASHION_HAPPI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 765,
+   "f": 2,
+   "id": "MES_FASHION_HAPPIGIRL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 766,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTTUXEDO",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 767,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTDRESS",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 768,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIHAORI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 769,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 770,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORMAN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 771,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORLADY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 772,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKITOWNBOY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 773,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKITOWNGIRL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 774,
+   "f": 2,
+   "id": "MES_FASHION_REGERWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 775,
+   "f": 2,
+   "id": "MES_FASHION_MENOUWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 776,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECATBODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 777,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEDOGBODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 778,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEBEARBODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 779,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPANDABODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 780,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPENGUINBODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 781,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECOWBODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 782,
+   "f": 2,
+   "id": "MES_FASHION_POSTMANWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 783,
+   "f": 2,
+   "id": "MES_FASHION_DOCTORWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 784,
+   "f": 2,
+   "id": "MES_FASHION_CHASERWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 785,
+   "f": 2,
+   "id": "MES_FASHION_APPRENTICEWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 786,
+   "f": 2,
+   "id": "MES_FASHION_CRAFTMANWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 787,
+   "f": 2,
+   "id": "MES_FASHION_FLORISTWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 788,
+   "f": 2,
+   "id": "MES_FASHION_TEAGIRLWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 789,
+   "f": 2,
+   "id": "MES_FASHION_TEACHERWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 790,
+   "f": 2,
+   "id": "MES_FASHION_TWIN1WEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 791,
+   "f": 2,
+   "id": "MES_FASHION_TWIN2WEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 792,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGMAN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 793,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGLADY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 794,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGLADY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 795,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGMAN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 796,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGMAN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 797,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGLADY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 798,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBROWN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 799,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBLACK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 800,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEWHITE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 801,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 802,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBROWN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 803,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBLACK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 804,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 805,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 806,
+   "f": 2,
+   "id": "MES_FASHION_COWGIRLHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 807,
+   "f": 2,
+   "id": "MES_FASHION_STRAWHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 808,
+   "f": 2,
+   "id": "MES_FASHION_KASAHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 809,
+   "f": 2,
+   "id": "MES_FASHION_HOKKAMURI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 810,
+   "f": 2,
+   "id": "MES_FASHION_HACHIMAKI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 811,
+   "f": 2,
+   "id": "MES_FASHION_TROPICAL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 812,
+   "f": 2,
+   "id": "MES_FASHION_KANKANHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 813,
+   "f": 2,
+   "id": "MES_FASHION_KANKANHATWHITE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 814,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNSTRAWHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 815,
+   "f": 2,
+   "id": "MES_FASHION_DARKBROWNSTRAWHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 816,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERCROWNWHITE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 817,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERCROWNRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 818,
+   "f": 2,
+   "id": "MES_FASHION_ORNAMENTFEATHER",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 819,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICHEADBAND",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 820,
+   "f": 2,
+   "id": "MES_FASHION_KOSAKHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 821,
+   "f": 2,
+   "id": "MES_FASHION_BERET",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 822,
+   "f": 2,
+   "id": "MES_FASHION_KNITCAP",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 823,
+   "f": 2,
+   "id": "MES_FASHION_TOPHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 824,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 825,
+   "f": 2,
+   "id": "MES_FASHION_GOGGLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 826,
+   "f": 2,
+   "id": "MES_FASHION_GOTHICHEADBAND",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 827,
+   "f": 2,
+   "id": "MES_FASHION_GORGEOUSHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 828,
+   "f": 2,
+   "id": "MES_FASHION_ELEGANTHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 829,
+   "f": 2,
+   "id": "MES_FASHION_RIBBONPURPLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 830,
+   "f": 2,
+   "id": "MES_FASHION_RIBBONRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 831,
+   "f": 2,
+   "id": "MES_FASHION_BONNET",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 832,
+   "f": 2,
+   "id": "MES_FASHION_BENIKANZASHI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 833,
+   "f": 2,
+   "id": "MES_FASHION_FUJIKANZASHI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 834,
+   "f": 2,
+   "id": "MES_FASHION_BEKKOUKANZASHI",
+   "key": "1515852d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nМолодёжь любит украшения для волос с кучей\nцветов.\n<PAGE>\n<FACE_LAUGH>А мне нравятся простые, как это. Так сразу\nвидно мастерство."
+  },
+  {
+   "n": 835,
+   "f": 2,
+   "id": "MES_FASHION_GORGEOUSKANZASHI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 836,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGYELLOW",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 837,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 838,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGWHITE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 839,
+   "f": 2,
+   "id": "MES_FASHION_MAIDHEADBAND",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 840,
+   "f": 2,
+   "id": "MES_FASHION_CROWNHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 841,
+   "f": 2,
+   "id": "MES_FASHION_ONIMASK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 842,
+   "f": 2,
+   "id": "MES_FASHION_FOXMASK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 843,
+   "f": 2,
+   "id": "MES_FASHION_NINJAHOOD",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 844,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 845,
+   "f": 2,
+   "id": "MES_FASHION_SOFTTOYCAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 846,
+   "f": 2,
+   "id": "MES_FASHION_WITCHHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 847,
+   "f": 2,
+   "id": "MES_FASHION_MONSTERMASK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 848,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 849,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTSILKHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 850,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKIHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 851,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKIBANDANA",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 852,
+   "f": 2,
+   "id": "MES_FASHION_ROYALCROWN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 853,
+   "f": 2,
+   "id": "MES_FASHION_COCKCAP",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 854,
+   "f": 2,
+   "id": "MES_FASHION_CATHEADBAND",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 855,
+   "f": 2,
+   "id": "MES_FASHION_DOGHEADBAND",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 856,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECATHEAD",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 857,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEDOGHEAD",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 858,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEBEARHEAD",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 859,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPANDAHEAD",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 860,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPENGUINHEAD",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 861,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECOWHEAD",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 862,
+   "f": 2,
+   "id": "MES_FASHION_MENOUHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 863,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGLADYHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 864,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGLADYHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 865,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGLADYHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 866,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGMANHAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 867,
+   "f": 2,
+   "id": "MES_FASHION_EUROPEANHELM",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 868,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEBLACK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 869,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 870,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMERED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 871,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEYELLOW",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 872,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEGREEN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 873,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEBLACK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 874,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 875,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMERED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 876,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEYELLOW",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 877,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEGREEN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 878,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEBLACK",
+   "key": "773c756c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nКрепкие на вид очки. Неплохой дизайн."
+  },
+  {
+   "n": 879,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEBLUE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 880,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMERED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 881,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEYELLOW",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 882,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEGREEN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 883,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEWHITE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 884,
+   "f": 2,
+   "id": "MES_FASHION_SUNGLASSES",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 885,
+   "f": 2,
+   "id": "MES_FASHION_ROUNDSUNGLASSES",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 886,
+   "f": 2,
+   "id": "MES_FASHION_ROUNDGLASSES",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 887,
+   "f": 2,
+   "id": "MES_FASHION_MONOCLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 888,
+   "f": 2,
+   "id": "MES_FASHION_EYEPATCHBLACK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 889,
+   "f": 2,
+   "id": "MES_FASHION_EYEPATCHWHITE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 890,
+   "f": 2,
+   "id": "MES_FASHION_BUTTERFLYMASK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 891,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEGLASSES",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 892,
+   "f": 2,
+   "id": "MES_FASHION_STEAMGOGGLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 893,
+   "f": 2,
+   "id": "MES_FASHION_SETMINO",
+   "key": "2c8cd65c",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nОдежда как для путешествия. Уезжаешь\nкуда-то?\n<PAGE>\nНет? А. Хорошо. А то мы бы скучали... кхм..."
+  },
+  {
+   "n": 894,
+   "f": 2,
+   "id": "MES_FASHION_SETSAOTOME",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 895,
+   "f": 2,
+   "id": "MES_FASHION_SETKAPPOUGI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 896,
+   "f": 2,
+   "id": "MES_FASHION_SETCOWGIRL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 897,
+   "f": 2,
+   "id": "MES_FASHION_SETSTEAMPUNKCOAT",
+   "key": "3b64f179",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nЭто... шестерёнки на наряде? Интересно. Наряд\nи правда необычный."
+  },
+  {
+   "n": 898,
+   "f": 2,
+   "id": "MES_FASHION_SETSTEAMPUNKDRESS",
+   "key": "3b64f179",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nЭто... шестерёнки на наряде? Интересно. Наряд\nи правда необычный."
+  },
+  {
+   "n": 899,
+   "f": 2,
+   "id": "MES_FASHION_SETGOTHICSTYLE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 900,
+   "f": 2,
+   "id": "MES_FASHION_SETCLOWNWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 901,
+   "f": 2,
+   "id": "MES_FASHION_SETEUROPEANARMOR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 902,
+   "f": 2,
+   "id": "MES_FASHION_SETHAPPI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 903,
+   "f": 2,
+   "id": "MES_FASHION_SETHAPPIGIRL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 904,
+   "f": 2,
+   "id": "MES_FASHION_SETCOCKWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 905,
+   "f": 2,
+   "id": "MES_FASHION_SETMAIDROYAL",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 906,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMECATBODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 907,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEDOGBODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 908,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEBEARBODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 909,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEPANDABODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 910,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEPENGUINBODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 911,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMECOWBODY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 912,
+   "f": 2,
+   "id": "MES_FASHION_SETMENOUWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 913,
+   "f": 2,
+   "id": "MES_FASHION_SETDESSERTTUXEDO",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 914,
+   "f": 2,
+   "id": "MES_FASHION_SETDESSERTDRESS",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 915,
+   "f": 2,
+   "id": "MES_FASHION_SETWAGASHIHAORI",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 916,
+   "f": 2,
+   "id": "MES_FASHION_SETWAGASHIWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 917,
+   "f": 2,
+   "id": "MES_FASHION_SETFRUITSPARLORMAN",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 918,
+   "f": 2,
+   "id": "MES_FASHION_SETFRUITSPARLORLADY",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 919,
+   "f": 2,
+   "id": "MES_FASHION_SETNINJASTYLE",
+   "key": "1ec6aade",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nХех. Прямо ниндзя. Тацуми и Яити были бы в\nвосторге, если бы увидели."
+  },
+  {
+   "n": 920,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEBOYWHITE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 921,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEBOYRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 922,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEGIRLWHITE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 923,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEGIRLRED",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 924,
+   "f": 2,
+   "id": "MES_FASHION_SETSNOWCOAT",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 925,
+   "f": 2,
+   "id": "MES_FASHION_SETDRACULACLOAK",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 926,
+   "f": 2,
+   "id": "MES_FASHION_SETPUMPKINSTYE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 927,
+   "f": 2,
+   "id": "MES_FASHION_SETBUTLERWEAR",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 928,
+   "f": 2,
+   "id": "MES_FASHION_SETELEGANTONEPIECE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 929,
+   "f": 2,
+   "id": "MES_FASHION_SETCREAMONEPIECE",
+   "key": "f4c018f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе идёт."
+  },
+  {
+   "n": 930,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_00",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 931,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_01",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 932,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_02",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 933,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_03",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 934,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_04",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 935,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_05",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 936,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_06",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 937,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_07",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 938,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_08",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 939,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_09",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 940,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_10",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 941,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_11",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 942,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_12",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 943,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_13",
+   "key": "48cb2f04",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе правда так интересно со мной говорить?\nХм. Чудно как-то."
+  },
+  {
+   "n": 944,
+   "f": 2,
+   "id": "MES_MISSION_START",
+   "key": "2b625a9f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nАга. <_____MYNAME_____>.\n<PAGE>\nТы как раз вовремя. Я хотел с тобой\nпоговорить.\n<PAGE>\nМожно тебя на минутку?"
+  },
+  {
+   "n": 945,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKD_BRIDGE",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 946,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_BELLTOWER",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 947,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_COLLABO_MENU1",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 948,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_BRONZE",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 949,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_COLLABO_PERFUME",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 950,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_GODDESS",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 951,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_COLLABO_MENU2",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 952,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKD_FARMBRIDGE",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 953,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_SPA",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 954,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_COLLABO_MENU",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 955,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_PARK",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 956,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_COLLABO_KANZASHI",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 957,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_INARI",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 958,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_COLLABO_SPA",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 959,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 960,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_FIRE",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 961,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 962,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_INNAROUND",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 963,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_COLLABO_AVATAR",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 964,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_PIER",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 965,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_COLLABO_MENU",
+   "key": "5ee16c49",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 966,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_00",
+   "key": "e2a7ea8a",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nОтдать материалы."
+  },
+  {
+   "n": 967,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_01",
+   "key": "01edffed",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНе отдавать материалы."
+  },
+  {
+   "n": 968,
+   "f": 2,
+   "id": "MES_MISSION_NG",
+   "key": "bbfd5942",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nНу что ж. Ничего. Не спеши. Принесёшь, как\nсоберёшь все."
+  },
+  {
+   "n": 969,
+   "f": 2,
+   "id": "MES_MISSION_OK",
+   "key": "93deb998",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Спасибо, что всё собрали."
+  },
+  {
+   "n": 970,
+   "f": 2,
+   "id": "MES_MISSION_CANNOT",
+   "key": "01f7ab63",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nХм... Похоже, пока не всё.\n<PAGE>\nНу что ж. Ничего. Не спеши. Принесёшь, как\nсоберёшь все."
+  },
+  {
+   "n": 971,
+   "f": 2,
+   "id": "MES_MISSION_CLEAR",
+   "key": "8bb79129",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nДа, это всё. Отлично!\n<PAGE>\nМатериалы есть, так что начнём, как только все\nбудут готовы.\n<PAGE>\nПока всё. Я зайду за тобой, когда всё будет\nготово, хорошо?"
   },
   {
    "n": 972,
