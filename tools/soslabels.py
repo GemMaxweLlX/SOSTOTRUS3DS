@@ -17,7 +17,8 @@ without a "_0"/"_1" suffix applies to every state of that button. The key
 or "edge" for the outline colour of the original word), "_size" the font
 size in pixels and "_stroke" the outline width. With "box": [x0, y0, x1, y1] a word inside a
 bigger picture is replaced: the box is painted with its corner colour and
-the new word is drawn there in "fill" colour, without an outline. A label may also be an object such as
+the new word is drawn there in "fill" colour, without an outline
+("align": "center" centres it in the box). "dx"/"dy" shift a word by pixels. A label may also be an object such as
 {"text": "Весна", "fill": "#ff4f8f"} to override the style for one image.
 "keep_box": true keeps the new word inside the area of the original one,
 for pictures of which the game shows only that part.
@@ -78,7 +79,7 @@ def parse_colour(value, edge):
 
 
 def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12, stroke=2,
-            keep_box=False):
+            keep_box=False, dx=0, dy=0):
     """Replace the word in an image.
 
     fill, ring: "#rrggbb", or "edge" for the outline colour of the original
@@ -132,11 +133,13 @@ def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12,
         pos = left - 2
     else:
         pos = left - 2 if icon else round((img.width - width) / 2) - 2
-    out.alpha_composite(layer, (max(pos, 0), 0))
+    out.alpha_composite(layer, (max(pos + dx, 0), dy) if dy >= 0 else (max(pos + dx, 0), 0),
+                        (0, 0) if dy >= 0 else (0, -dy))
     return out
 
 
-def relabel_box(img, text, ttf_path, box, fill="#ffffff", size=12, **_ignored):
+def relabel_box(img, text, ttf_path, box, fill="#ffffff", size=12, align="left",
+                dx=0, dy=0, **_ignored):
     """Replace a word that sits inside a bigger picture.
 
     box = [x0, y0, x1, y1]: the area of the old word. It is painted over with
@@ -155,7 +158,8 @@ def relabel_box(img, text, ttf_path, box, fill="#ffffff", size=12, **_ignored):
             break
         size -= 1
     caps = font.getbbox("Н")
-    origin = (x0 - bbox[0], round((y0 + y1) / 2 - (caps[1] + caps[3]) / 2))
+    left = x0 if align == "left" else round((x0 + x1 - (bbox[2] - bbox[0])) / 2)
+    origin = (left - bbox[0] + dx, round((y0 + y1) / 2 - (caps[1] + caps[3]) / 2) + dy)
     ImageDraw.Draw(out).text(origin, text, font=font, fill=colour)
     return out
 

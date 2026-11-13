@@ -158,7 +158,9 @@
     40
    ],
    "fill": "#225555",
-   "size": 14
+   "size": 14,
+   "align": "center",
+   "dx": 2
   }
  },
  "StockUpper.arc": {
@@ -246,7 +248,10 @@
   "_icon": true,
   "_fill": "#ffffff",
   "_size": 12,
-  "timg/kettei": "Принять",
+  "timg/kettei": {
+   "text": "Принять",
+   "dy": -2
+  },
   "timg/modoru": "Назад",
   "timg/a_yes": "Да",
   "timg/b_no": "Нет",
