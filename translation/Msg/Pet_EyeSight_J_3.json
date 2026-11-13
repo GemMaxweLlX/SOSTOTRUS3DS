@@ -1,0 +1,82 @@
+{
+ "file": "Pet_EyeSight_J_3",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_00",
+   "key": "fd330bde",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Воробей."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_01",
+   "key": "c3838a23",
+   "ru": "<NAME_SPARROW>\r\n(Ч-что такое? Тебе что-то от меня нужно?)"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_02",
+   "key": "7a33affe",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_LAUGH>\r\n...Ты такой милый."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_03",
+   "key": "47602d4f",
+   "ru": "<NAME_SPARROW>\r\n(Ну и льстец! Что ж, я не против. Давай,\nпродолжай комплименты!)"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_04",
+   "key": "fbc11d8a",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>\r\nИди сюда."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_05",
+   "key": "46e3c12c",
+   "ru": "<NAME_SPARROW>\r\n(Хм? Ох, что же делать? Хоть ты и человек, но\nкое-какие задатки у тебя есть...)\n<PAGE>\n(Но я не прилечу только потому, что ты так\nсказал, понял?)"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_09",
+   "key": "5122e5eb",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>\r\nХочешь риса?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_10",
+   "key": "3396bc3d",
+   "ru": "<NAME_SPARROW>\r\n(Ещё бы!)"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_06",
+   "key": "359882a6",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>\r\nВкусно?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_07",
+   "key": "3ae00ca9",
+   "ru": "<NAME_SPARROW>\r\n(Объедение! Для человека ты очень даже\nничего. Знаешь, ты мне нравишься! ♪)\n<PAGE>\n(В благодарность за рис разрешаю подержать\nменя на ладони.)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_3_08",
+   "key": "e2d255c8",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_LAUGH>\r\n...У меня новый друг."
+  }
+ ]
+}

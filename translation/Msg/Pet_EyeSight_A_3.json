@@ -1,0 +1,75 @@
+{
+ "file": "Pet_EyeSight_A_3",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_A_1_00",
+   "key": "2f419a04",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОх! Она забыла свой подарок!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_A_1_01",
+   "key": "2fb95e17",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nГектор, не найдёшь её и не отдашь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_A_1_02",
+   "key": "456d65a9",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n...Ладно."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_A_1_03",
+   "key": "29815d87",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_SAD>\r\nЭто что ещё за тон?\n<PAGE>\n<FACE_NORMAL>Ну же, Гектор, милый... Знаю, ты стесняешься\nдевушек, но это надо преодолеть.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>...Вряд ли я когда-нибудь смогу нормально\nговорить с женщиной, кроме жены, мам."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_A_1_04",
+   "key": "e9f7d9d7",
+   "ru": "<NAME_BUDDY>\r\n(Эй, Меган. Я смогу! Предоставь это мне.)"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_A_1_05",
+   "key": "65aa3191",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nО? Что такое? Хочешь отнести вместо нас,\nБадди?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_A_1_06",
+   "key": "767d96cf",
+   "ru": "<NAME_BUDDY>\r\n(Я отдал!)"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_A_1_07",
+   "key": "b3218357",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nТы нас выручил, Бадди! Кто у нас хороший\nмальчик?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_A_1_08",
+   "key": "b0e211dd",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_SAD>\r\nМой сын совершенно не умеет разговаривать с\nженщинами."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_A_1_09",
+   "key": "8dd2a03d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nХорошо, что у меня есть ты, правда?"
+  }
+ ]
+}
