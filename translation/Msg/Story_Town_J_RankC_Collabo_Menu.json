@@ -1,0 +1,54 @@
+{
+ "file": "Story_Town_J_RankC_Collabo_Menu",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_00",
+   "key": "facfff57",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, я хотела попросить у тебя совета.\n<PAGE>\nНасчёт меню нашей чайной."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_01",
+   "key": "bc9872e8",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНедавно папа дал мне “домашнее задание” ―\nпридумать новое блюдо для меню.\n<PAGE>\nЯ подумала-подумала и наконец придумала\nблюдо, которое, по-моему, будет просто\nбомба!\n<PAGE>\nТы ведь... выращиваешь на ферме кучу всего\nразного, да?\n<PAGE>\nЯ подумала, если наша чайная объединится с\nтвоей фермой, у нас выйдет что-то, что будут\nсметать с прилавка!\n<PAGE>\nЧто скажешь, <_____MYNAME_____>? Договорились?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_02",
+   "key": "3a898883",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак и знала! Знала, что ты согласишься! ♪"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_03",
+   "key": "2861c7e8",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nХм? Что за рецепт?\n<PAGE>\n<FACE_LAUGH>Хи-хи! Пока секрет. Но рецепт у меня уже\nпродуман! Надеюсь только, что получится...\n<PAGE>\n<FACE_NORMAL>В общем! Без ингредиентов ничего не начнётся.\nМожно попросить тебя их достать?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_04",
+   "key": "d9750ec1",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак, мне нужно...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE> и <BLUE><____ITEMNAME2____></BLUE> <BLUE>x<MOJI4></BLUE>.\n<PAGE>\nСможешь достать?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_05",
+   "key": "82ba34bf",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Здорово! Огромное спасибо!\n<PAGE>\nЕсли всё получится, сразу внесу его в меню как\nновое фирменное блюдо чайной!\n<PAGE>\nИ покажу тебе, как готовить его дома! Жди,\nладно? ♪"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_06",
+   "key": "0eb6cbb7",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Тогда первая часть за тобой.\n<PAGE>\nКак достанешь всё, о чём я просила, приноси\nмне. Буду ждать. ♪"
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "file": "Story_Sleep_2day",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SLEEP_2DAY_00",
+   "key": "4c45d648",
+   "ru": "<FACE_UNCLE>\r\nС возвращением, <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SLEEP_2DAY_01",
+   "key": "b0cbe1db",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nНу что, прогулка удалась?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SLEEP_2DAY_02",
+   "key": "98e794c5",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nНебось уже с ног валишься. Давай приготовим\nужин и на сегодня закончим."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SLEEP_2DAY_03",
+   "key": "11db1a6f",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nФух! Кажется, после такого ужина меня сейчас\nсморит. Может, готовиться ко сну?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SLEEP_2DAY_04",
+   "key": "45efc111",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЧто? Когда будет готова твоя ферма?\nВообще-то мне сегодня помогли и всё\nуладили.\n<PAGE>\nЗавтра отведу тебя туда."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_SLEEP_2DAY_05",
+   "key": "bbcccac7",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nДавай на боковую. Утром всё расскажу про\nтвою ферму.\n<PAGE>\nА, и обязательно запиши всё в дневник перед\nсном, слышишь? Спокойной ночи."
+  }
+ ]
+}

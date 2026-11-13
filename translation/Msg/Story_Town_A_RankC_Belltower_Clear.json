@@ -1,0 +1,40 @@
+{
+ "file": "Story_Town_A_RankC_Belltower_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_BELLTOWER_CLEAR_00",
+   "key": "97401950",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\n<_____MYNAME_____>! Ты уже не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_BELLTOWER_CLEAR_01",
+   "key": "eaa3fd5c",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nПрости, что беспокою так рано утром.\n<PAGE>\nРешила зайти сказать: благодаря твоим\nматериалам у нас есть всё для колокольни.\n<PAGE>\nОсталось только всем городом собраться и\nпостроить её.\n<PAGE>\nЕсли сегодня найдётся время, не поможешь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_BELLTOWER_CLEAR_02",
+   "key": "a404009a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nПоможешь? Чудесно!\n<PAGE>\nТогда нечего сидеть сложа руки. За мной!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_BELLTOWER_CLEAR_03",
+   "key": "7717a31f",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nВсе молодцы! Наконец-то у нас есть\nколокольня!\n<PAGE>\nБез вашей общей помощи мы бы не\nсправились, так что похлопайте себя по плечу!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_BELLTOWER_CLEAR_04",
+   "key": "ec5afc80",
+   "ru": "(Весь Уэстаун вместе достроил колокольню!\nТеперь есть колокол, который слышат все!)"
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "file": "Story_Town_S_RankC_Fire",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_FIRE_00",
+   "key": "790195b4",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nИтак, насчёт этого костра...\n<PAGE>\nОн ведь очень бросается в глаза посреди\nдеревни, правда?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_FIRE_01",
+   "key": "062c1833",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_SAD>\r\nЭто потому, что он своего рода символ нашей\nдеревни."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_FIRE_02",
+   "key": "8566eda0",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nНо он так выглядит с тех пор, как мы с сестрой\nбыли маленькими.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Он горит всё это вре-е-емя. И его аура с\nкаждым днём всё слабее."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_FIRE_03",
+   "key": "1eb896d8",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n...Вот, в общем, и всё.\n<PAGE>\nРаз наша деревня стала процветать, мы\nподумали обустроить место вокруг костра как\nследует.\n<PAGE>\nТы, наверное, уже догадываешься, зачем я тебя\nпозвала...\n<PAGE>\nМожно снова попросить тебя о помощи?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_FIRE_04",
+   "key": "95cd4d74",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВот и славно. Рада это слышать. Махало, <_____MYNAME_____>.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>О, так ты нам поможешь? Правильный ответ!\nБудто знаешь, что мы хотим услышать.\n<PAGE>\nВ общем, дизайн оставь нам. Мы придумаем\nчто-нибудь идеальное.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>И деньги тоже на нас. <_____MYNAME_____>, а вы с Лудусом лучше\nзаймитесь материалами."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_FIRE_05",
+   "key": "b033682e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nИтак, вот что мне от тебя нужно...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE> и <BLUE><____ITEMNAME2____></BLUE> <BLUE>x<MOJI4></BLUE>.\n<PAGE>\nМогу я столько у тебя попросить?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_FIRE_06",
+   "key": "013e3a08",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nМахало! Тогда доверяю это тебе.\n<PAGE>\nКак соберёшь всё, приноси мне, как и в\nпрошлый раз."
+  }
+ ]
+}

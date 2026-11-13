@@ -1,0 +1,89 @@
+{
+ "file": "Story_Town_S_RankA_Collabo_Menu_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_00",
+   "key": "6aed2d62",
+   "ru": "<FACE_TWINOLDER>\r\n<_____MYNAME_____>. Эй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_01",
+   "key": "ede4e828",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nВот ты где. Наконец-то.\n<PAGE>\nНу же, пошли. Живо-живо."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_02",
+   "key": "02ac30e9",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nЧто ты так на меня смотришь? Уже из головы\nвылетело?\n<PAGE>\nИнгредиенты для нового блюда ведь теперь у\nнас. Помнишь?\n<PAGE>\nТак что пошевеливайся! Силука нас ждёт."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_03",
+   "key": "d68bc838",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЛадно, ладно. Хватит терять время. Начинаем!\n<PAGE>\nЯ буду официальным дегустатором. <_____MYNAME_____>, помогай\nСилуке готовить."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_04",
+   "key": "0dab9e84",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nВ этот раз точно получилось. Правда, <_____MYNAME_____>?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_05",
+   "key": "82dc46e2",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nМ-м! Да, это точно успех! Ты так хорошо\nготовишь, Силука.\n<PAGE>\nДа и у тебя неплохо вышло, <_____MYNAME_____>. Для новичка, по\nкрайней мере."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_06",
+   "key": "6c84bc2e",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nТебя одобрила Илука. Ну, вроде как.\n<PAGE>\nПоздравляю, <_____MYNAME_____>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_07",
+   "key": "67b23d9c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nХорошо поработали сегодня, вы двое.\n<PAGE>\nЭто блюдо точно станет отличным новым\nфирменным блюдом нашего кафе.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Я рада, что тебе нравится, Илука. Когда ты\nсчастлива, и я счастлива."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_08",
+   "key": "4c3d6041",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nАх, чуть не забыла."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_09",
+   "key": "338b16cd",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nДержи. Рецепт <BLUE>фо</BLUE>.\n<PAGE>\nБез твоей помощи не обошлось, так что...\n<PAGE>\nДумаю, он по праву твой."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_10",
+   "key": "f3e83cfc",
+   "ru": "Получен рецепт: <BLUE>“Фо”</BLUE>!\n<PAGE>\n(Пришлось постараться, но было весело\nработать вместе с близнецами!)"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_CLEAR_11",
+   "key": "3c50003d",
+   "ru": "Получен рецепт: <BLUE>“Фо”</BLUE>!\n<PAGE>\n(...Но без кухни его не приготовить. Надо\nпоскорее перестроить дом.)"
+  }
+ ]
+}

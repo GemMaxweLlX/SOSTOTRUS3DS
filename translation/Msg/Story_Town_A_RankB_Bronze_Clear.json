@@ -1,0 +1,40 @@
+{
+ "file": "Story_Town_A_RankB_Bronze_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_CLEAR_00",
+   "key": "97401950",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\n<_____MYNAME_____>! Ты уже не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_CLEAR_01",
+   "key": "560af8f9",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nПрости, что беспокою так рано утром.\n<PAGE>\nРешила зайти сказать: благодаря твоим\nденьгам у нас есть всё нужное.\n<PAGE>\nОсталось только всем городом собраться и\nотдраить статую как следует.\n<PAGE>\nЕсли сегодня найдётся время, не поможешь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_CLEAR_02",
+   "key": "a404009a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nПоможешь? Чудесно!\n<PAGE>\nТогда нечего сидеть сложа руки. За мной!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_CLEAR_03",
+   "key": "cf08b564",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nВсе молодцы! Символ нашего города снова\nблестит чистотой!\n<PAGE>\nБез вашей общей помощи мы бы не\nсправились, так что похлопайте себя по плечу!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_CLEAR_04",
+   "key": "979b966a",
+   "ru": "(Весь Уэстаун вместе отмыл статую бизона!\nДаже не верится, как она блестит!)\n<PAGE>\n(Оставайся подольше чистым, господин Бизон.)"
+  }
+ ]
+}

@@ -2,6 +2,48 @@
  "file": "Story_Sister_Quiz",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_00",
+   "key": "2ffd641a",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n<RELATIONSHIP>! <RELATIONSHIP>, ну же! Подъём!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_01",
+   "key": "21ea4635",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nЯ сегодня проснулась ужасно рано и заскучала,\nтак что прогулялась по твоей ферме!\n<PAGE>\nКое-что посчитала и посмотрела, что у тебя\nесть..."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_02",
+   "key": "fadf5ce2",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\nТак что угадай! Сейчас я устрою тебе\nвикторину! Ура-а! Здорово, правда?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_03",
+   "key": "b64bdbbb",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nОтветишь на всё правильно ― приготовлю свой\nсупервкусный завтрак! Только! Для! Тебя! ♪\n<PAGE>\n<FACE_LAUGH>Ну что, принимаешь вызов?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_04",
+   "key": "df234797",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\nУра-а!\n<PAGE>\n<FACE_NORMAL>Так, так. Начинаем. Вопрос номер один!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_05",
+   "key": "c921124b",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nСколько у тебя сейчас, в эту самую минуту,\nполей на ферме?"
+  },
+  {
    "n": 6,
    "f": 2,
    "id": "MES_EV_STORY_SISTAR_QUIZ_06",
@@ -16,6 +58,20 @@
    "ru": "<MOJI1>"
   },
   {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_08",
+   "key": "2b9e64f7",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nО-хо. Вот как ты думаешь? Ладно, следующий\nвопрос, номер два!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_09",
+   "key": "c4b0ceb3",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nСколько у тебя сейчас животных на ферме?\nВключая питомцев!"
+  },
+  {
    "n": 10,
    "f": 2,
    "id": "MES_EV_STORY_SISTAR_QUIZ_10",
@@ -28,6 +84,104 @@
    "id": "MES_EV_STORY_SISTAR_QUIZ_11",
    "key": "1714d27d",
    "ru": "<MOJI1>"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_12",
+   "key": "a34376cf",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nПравда? Ясно, ясно. Переходим к вопросу\nномер три!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_13",
+   "key": "45223b7d",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nПримерно сколько денег принесла тебе\nотгрузка за всё время?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_14",
+   "key": "15db48da",
+   "ru": "<MOJI0>G"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_15",
+   "key": "141922ed",
+   "ru": "<MOJI1>G"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_16",
+   "key": "165f9cb4",
+   "ru": "<MOJI2>G"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_17",
+   "key": "935c43a4",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, это твой ответ, да?\n<PAGE>\nЛадно. Время результатов! Барабанная дробь..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_18",
+   "key": "b6338424",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\nТА-ДА-А-АМ! Поздравляю! Всё правильно!\n<PAGE>\nХм. Может, я сделала вопросы слишком\nлёгкими."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_19",
+   "key": "0b3da93b",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nТак что, как обещала, приготовлю свой\nсуперособый супервкусный завтрак специально\nдля тебя!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_20",
+   "key": "efeac2b8",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nБз-з-з! Увы-ы-ы, проигрыш! Где-то\nошибочка!\n<PAGE>\nГде именно? Иди посчитай ― и узнаешь. ♪"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_21",
+   "key": "9abfad1c",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nХи-хи! Ну, не вешай нос.\n<PAGE>\nЯ всё равно приготовлю свой суперособый\nсупервкусный завтрак. ♪"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_22",
+   "key": "3c0830f0",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nВообще-то я собиралась его приготовить,\nдаже при неправильных ответах."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_23",
+   "key": "80291d3a",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nПонимаешь, когда я смотрю на твою ферму и\nдом...\n<PAGE>\nЯ вижу, как усердно ты трудишься, чтобы всего\nэтого добиться.\n<PAGE>\n<FACE_LAUGH>Я тебя теперь даже по-новому уважаю. А ты\nмолодец, <RELATIONSHIP>."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_24",
+   "key": "333be1c3",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nТак что садись вон на тот стул и жди, ладно?\n<PAGE>\nЯ приготовлю самый вкусный завтрак в твоей\nжизни! ♪\n<PAGE>\n<FACE_SAD>Ой, э-э, но если что-то не получится, не злись,\nладно?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_QUIZ_25",
+   "key": "7e9dc5cc",
+   "ru": "(Спасибо, Линн! Завтрак был очень вкусным!)"
   }
  ]
 }

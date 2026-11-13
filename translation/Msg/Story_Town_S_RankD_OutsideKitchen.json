@@ -1,0 +1,54 @@
+{
+ "file": "Story_Town_S_RankD_OutsideKitchen",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN_00",
+   "key": "161ee274",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, можно попросить тебя взглянуть вот на это?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN_01",
+   "key": "6095e8a0",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_SAD>\r\nЭто старое место ― ну, было ― нашей общей\nкухней.\n<PAGE>\nКогда-то все приходили сюда готовить, но\nпостепенно люди перестали ходить...\n<PAGE>\nИ вот теперь здесь можно встретить разве что\nпауков да клубки пыли.\n<PAGE>\nНо в последнее время деревня оживилась, и\nКаолила пришла спросить, нельзя ли снова её\nпривести в порядок."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN_02",
+   "key": "cff8b5d4",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nИменно.\n<PAGE>\nЕсли нужно приготовить много еды для\nбольшой компании, такая кухня ― самое то.\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_NORMAL>Ага! На такой большой кухне можно испечь\nторты сразу для всей деревни!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN_03",
+   "key": "bbac8fb3",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВот так. Мы все собрались и решили её\nпривести в порядок. Но для этого нужны\nденьги и материалы.\n<PAGE>\nПоэтому я и позвала тебя сюда, <_____MYNAME_____>. Поможешь\nсобрать нужные материалы?\n<PAGE>\nНе волнуйся, ничего редкого или экзотического\nне нужно.\n<PAGE>\nКак фермеру, тебе, наверное, достать их даже\nпроще, чем любому из нас."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN_04",
+   "key": "29dbe486",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВот и славно. Я так рада, что ты поможешь.\nМахало, <_____MYNAME_____>.\n<PAGE>\n<FACE_FISHERWIFE><POS_LEFT><FACE_NORMAL>О деньгах не беспокойся. Это мы возьмём на\nсебя.\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>Я тоже помогу! Я всегда помогаю маме. Я очень\nхорошо убираюсь!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN_05",
+   "key": "d13f2ac9",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nИтак, вот что мне от тебя нужно...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE> и <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE>.\n<PAGE>\nМогу я столько у тебя попросить?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN_06",
+   "key": "e1629048",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nМахало! Тогда доверяю это тебе.\n<PAGE>\nКак соберёшь всё, приноси мне."
+  }
+ ]
+}

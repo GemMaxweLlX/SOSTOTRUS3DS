@@ -1,0 +1,75 @@
+{
+ "file": "Story_RankS_Celebration_J",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_J_00",
+   "key": "70f4c610",
+   "ru": "<NAME_UNKNOWN>\r\nЕсть кто? <_____MYNAME_____>, ты дома? Прошу прощения!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_J_01",
+   "key": "5786d864",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>! Найдётся у тебя сегодня немного\nсвободного времени?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_J_02",
+   "key": "bf6c4de6",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nМожет, зайдёшь ко мне в чайную на ужин?\n<PAGE>\nЯ только что приготовил, скажу без ложной\nскромности, отменные блюда, и хотелось\nкого-нибудь угостить."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_J_03",
+   "key": "b12252f7",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nПридёшь? Отлично! Тогда нечего время терять.\nПошли."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_J_04",
+   "key": "40143839",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха-ха! Удивили тебя? Мы решили\nустроить сегодня банкет в твою честь!\n<PAGE>\nБлагодаря тебе наш городок так расцвёл,\nпонимаешь?\n<PAGE>\nВот мы и решили, что правильно будет\nсобраться всем вместе и выразить тебе\nпризнательность."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_J_05",
+   "key": "759cbd5f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nВидишь? Как я и говорил, мы наготовили кучу\nотменных блюд, и все для тебя.\n<PAGE>\nНу, давай. Ешь, ешь! Угощайся и веселись!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_J_06",
+   "key": "7264782e",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу что, <_____MYNAME_____>? Как прошёл вечер?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_J_07",
+   "key": "32850ab2",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Значит, вся подготовка того стоила.\n<PAGE>\nЗнаешь, <_____MYNAME_____>, не знаю точно, что ты чувствуешь, но\nвся Цуюкуса очень-очень тебе благодарна.\n<PAGE>\nМы все считаем тебя почётным жителем нашего\nгорода."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_J_08",
+   "key": "a97de513",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЭто букет, который мы сделали специально\nдля тебя.\n<PAGE>\nСчитай его знаком нашей благодарности и\nдружбы.\n<PAGE>\nПримешь?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_J_09",
+   "key": "f080ad5d",
+   "ru": "(Какой чудесный праздник! Теперь, когда я\nпочётный житель Цуюкусы, хочу ещё крепче\nдружить со всеми!)"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "file": "Story_Town_S_RankB_InnAround",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_INNAROUND_00",
+   "key": "38a59ecd",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nПозволь задать тебе вопрос, <_____MYNAME_____>.\n<PAGE>\nТолько честно: что ты думаешь о месте вокруг\nмоей гостиницы? Ничего... не бросается в\nглаза?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_INNAROUND_01",
+   "key": "19d7cab7",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_SAD>\r\nМ-хм. Значит, и ты считаешь, что тут бардак,\nда?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_INNAROUND_02",
+   "key": "570dcaa0",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nОтчасти тут ничего не поделаешь. Именно сюда\nвсе обычно складывают материалы для общих\nработ.\n<PAGE>\n<FACE_ANGLER><POS_LEFT><FACE_NORMAL>Батюшки. Я всего лишь мимоходом заметил,\nчто тут немного неопрятно...\n<PAGE>\n...а тут такой шум поднялся. Э кала маи, все.\n<PAGE>\n<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>Нет-нет, ты был прав. К тому же, как и\nкостёр, моя гостиница стоит в самом центре\nдеревни.\n<PAGE>\nРаз костёр обновили, разумно привести в\nпорядок и гостиницу."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_INNAROUND_03",
+   "key": "ba9ae382",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nЭ-э...\n<PAGE>\nКогда уберём все доски, можно будет украсить\nместо вокруг гостиницы цветами?\n<PAGE>\nДумаю, тогда это место будет больше похоже\nна настоящий центр деревни."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_INNAROUND_04",
+   "key": "586383d0",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nОтличная мысль, Тигре."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_INNAROUND_05",
+   "key": "b1921e4e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nИтак, <_____MYNAME_____>. Можно попросить тебя собрать часть\nматериалов для обновления?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_INNAROUND_06",
+   "key": "3f7b9021",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nМахало, <_____MYNAME_____>. Знаю, мы всё время просим тебя о\nтаком. Я благодарна, что ты так охотно\nпомогаешь.\n<PAGE>\n<FACE_ANGLER><POS_LEFT><FACE_LAUGH>Хо-хо! Должен сказать, мне нравится мысль о\nцветах и зелени в нашей деревушке.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>Свяжусь с друзьями насчёт остальных нужных\nматериалов.\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_LEFT><FACE_LAUGH>А я помогу с уборкой и украшением, когда всё\nсоберём."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_INNAROUND_07",
+   "key": "b033682e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nИтак, вот что мне от тебя нужно...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE> и <BLUE><____ITEMNAME2____></BLUE> <BLUE>x<MOJI4></BLUE>.\n<PAGE>\nМогу я столько у тебя попросить?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_INNAROUND_08",
+   "key": "23479691",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nМахало! Тогда доверяю это тебе.\n<PAGE>\nКак соберёшь всё, приноси мне, как обычно."
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "file": "Story_Town_J_RankA_Collabo_Spa",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_00",
+   "key": "0050d065",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nВидишь ли, <_____MYNAME_____>...\n<PAGE>\nКо мне обратилась с... просьбой\nсмотрительница купальни.\n<PAGE>\nТочнее, Тацуми и Сумомо предъявили ей\nнекие... чрезмерные требования, и она пришла\nко мне."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_01",
+   "key": "8c740fc4",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nКо мне обратились с... просьбой из купальни."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_02",
+   "key": "d655a400",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nТочнее, Тацуми и Сумомо предъявили\nсмотрителю некие... чрезмерные требования, и\nон пришёл ко мне."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_03",
+   "key": "e66b5c51",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL>\r\nОй, да ладно, учитель! Ничего такого не было!\nВы так говорите, будто мы закатили скандал.\n<PAGE>\nМы просто высказали своё мнение, понимаете?\n<PAGE>\n<FACE_LAUGH>Смотрительница подошла и спросила, какую\nванну я бы хотел, если бы можно было\nвыбрать любую.\n<PAGE>\n<FACE_NORMAL>Я подумал и сказал, что было бы здорово, если\nбы была ванна с ароматом сисо. Вот и всё.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>Ага. Я была рядом, и меня тоже спросили.\n<PAGE>\n<FACE_LAUGH>Вот я и сказала, что очень хочу какао-ванну, из\nкакао-бобов Лулукоко!\n<PAGE>\nУверена, это была бы нежная и супервкусная\nванна! ♪"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_04",
+   "key": "e3638bbf",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nУверена, смотрительница хотела узнать их\nмнение о чём-то более обыденном, вроде\nоборудования или температуры воды.\n<PAGE>\nА вместо этого получила такие... неожиданные\nответы."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_05",
+   "key": "5917d655",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nОднако, несмотря на всю странность,\nсмотрительница отнеслась к просьбам всерьёз.\n<PAGE>\nИ пришла ко мне за советом, как их\nосуществить.\n<PAGE>\nСисо в нашем городе хватает, а вот\nкакао-бобы ― другое дело.\n<PAGE>\nЯ ломала над этим голову, как вдруг вспомнила\nо тебе."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_06",
+   "key": "28cdc402",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЕсли не ошибаюсь, у тебя уже были совместные\nпроекты с Комари и Юдзуки над разными\nновинками, не так ли?\n<PAGE>\nПоэтому я и подумала, что если кто и может\nдостать такие экзотические продукты, то это\nты.\n<PAGE>\n<FACE_SAD>Ну как? Можно попросить тебя помочь?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_07",
+   "key": "32a7c85b",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>\r\nОтлично! Мы знали, что на тебя можно\nположиться, <_____MYNAME_____>!\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>Ура! Это так здорово с твоей стороны!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Спасибо. Мы очень благодарны за помощь.\n<PAGE>\nСообщу в купальню, что мы берёмся за дело."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_08",
+   "key": "dc2cb114",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nИтак, если не трудно, достань, пожалуйста, вот\nчто...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE> и <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE>.\n<PAGE>\n<FACE_LOVE>И... если это не слишком... ещё <BLUE><____ITEMNAME2____></BLUE> <BLUE>x<MOJI4></BLUE>."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_09",
+   "key": "eeb3ad4c",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nВино ― это моя идея.\n<PAGE>\nГоворят, в некоторых кругах модно добавлять\nв ванну красное вино ― “винная ванна”.\n<PAGE>\nТакие ванны, говорят, очень полезны:\nулучшают кровообращение и обновляют кожу.\n<PAGE>\nРаз уж будут ванна с сисо и какао-ванна,\nпочему бы не сделать и винную.\n<PAGE>\n<FACE_LOVE>Знаю, это ужасно эгоистично, но если окажешь\nмне эту маленькую услугу, я буду очень\nблагодарна."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_10",
+   "key": "d32eb274",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nОкажешь? Спасибо. Очень любезно с твоей\nстороны."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_11",
+   "key": "708cb118",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>\r\nСмотрительница сказала, что откроет новые\nванны для всех, как только всё будет готово.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>Тогда мы все сможем принимать какао-ванны!\nЗдорово же? Не терпится! ♪"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_12",
+   "key": "b04265ad",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nМатериалы в купальню передам я, так что,\nкогда всё достанешь, принеси, пожалуйста, мне.\n<PAGE>\nЕщё раз спасибо за помощь."
+  }
+ ]
+}

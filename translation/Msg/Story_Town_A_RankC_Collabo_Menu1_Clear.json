@@ -1,0 +1,82 @@
+{
+ "file": "Story_Town_A_RankC_Collabo_Menu1_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_00",
+   "key": "e5b0ba2f",
+   "ru": "<FACE_RESTAURANTHUSBUND>\r\n<_____MYNAME_____>! <_____MYNAME_____>, ты не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_01",
+   "key": "317ae5d5",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nПрости, что бужу так рано!\n<PAGE>\nНо раз все ингредиенты у меня, я не мог\nбольше ждать ни секунды, чтобы приготовить\nновое блюдо.\n<PAGE>\nЕсли хочешь, пойдём посмотришь? Я даже дам\nтебе честь попробовать раньше всех!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_02",
+   "key": "fa54b1d7",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>\r\nОтлично! Пошли скорее!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_03",
+   "key": "43da8b65",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nТак, начинаем!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_04",
+   "key": "21037f99",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nТак. А теперь попробуй вот это."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_05",
+   "key": "d8283480",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nВкусно? Правда?\n<PAGE>\nУра! Получилось!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_06",
+   "key": "2838004c",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nЯ твой должник, <_____MYNAME_____>.\n<PAGE>\nБез твоей помощи и советов я бы ни за что не\nпридумал такое потрясающее блюдо!\n<PAGE>\nВключу его в меню в следующий рабочий день.\nУверен, такая вкуснятина мигом станет\nпопулярной!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_07",
+   "key": "28e1f5b2",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nО, придумал!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_08",
+   "key": "360e782d",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nДержи. Это рецепт того блюда. Я назвал его\n<BLUE>“Батат в карамели”</BLUE>.\n<PAGE>\nБери, бери. Это меньшее, что я могу сделать\nпосле всей твоей помощи."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_09",
+   "key": "c33b9827",
+   "ru": "(Получен рецепт: <BLUE>“Батат в карамели”</BLUE>!)\n<PAGE>\n(Надо как-нибудь приготовить дома!)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_CLEAR_10",
+   "key": "79e7b7f5",
+   "ru": "(Получен рецепт: <BLUE>“Батат в карамели”</BLUE>!)\n<PAGE>\n\n<PAGE>\n(...Но без кухни его не приготовить. Надо\nпоскорее перестроить дом.)"
+  }
+ ]
+}

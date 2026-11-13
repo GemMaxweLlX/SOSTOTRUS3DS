@@ -1,0 +1,152 @@
+{
+ "file": "Story_Farm_Release",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_00",
+   "key": "2b24bf41",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>. Какой у тебя сегодня бодрый\nвид!\n<PAGE>\nНеудивительно. Мы ведь идём смотреть твою\nновую ферму. Кто угодно бы волновался!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_01",
+   "key": "ec3e131f",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНу-с. Не буду больше томить. Пошли."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_02",
+   "key": "5e136b00",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nТвоя ферма вон там, прямо по этой дороге, а\nпосле моста ещё немного прямо.\n<PAGE>\nНадеюсь, ты не против, идти придётся немало."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_03",
+   "key": "b0ab442a",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nА, ворота?\n<PAGE>\nЭти ворота ведут к двум другим городам в\nокруге.\n<PAGE>\nОбе дороги сейчас ремонтируют. Как закончат,\nсможешь ходить в другие города."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_04",
+   "key": "8ef35c67",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nВот дорога, что ведёт к твоей ферме."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_05",
+   "key": "d2920191",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nНу, вот мы и пришли. Это твоя ферма.\nБольшая, правда?\n<PAGE>\n<FACE_NORMAL>Здесь всегда была ферма, но последние пару\nдесятков лет за ней некому было ухаживать.\n<PAGE>\nЯ привёл её в порядок настолько, чтобы можно\nбыло жить, но не более того."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_06",
+   "key": "5d8c0050",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nНу что ж.\n<PAGE>\nСлушай, придумал. Раз это место теперь твоё,\nможет, дашь ему название?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_07",
+   "key": "bc52ef04",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_SAD>\r\nПрости, что не смог подготовить дом получше.\n<PAGE>\nПриводить в порядок ферму недёшево,\nпонимаешь? На сам дом осталось немного.\n<PAGE>\n<FACE_NORMAL>Но если будешь трудиться и копить, сможешь\nперестроить его как душе угодно."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_08",
+   "key": "c0444f94",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nВ общем, с сегодняшнего дня это твой новый\nдом.\n<PAGE>\nЯ поставил кое-какую простую мебель. Давай\nрасскажу о ней."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_09",
+   "key": "904c6f15",
+   "ru": "<FACE_UNCLE>\r\nЭто твоя <BLUE>кровать</BLUE>. Подойди к ней и нажми\n<BLUE>кнопку A</BLUE>, чтобы лечь спать. Проще простого,\nда?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_10",
+   "key": "65f1ab06",
+   "ru": "<FACE_UNCLE>\r\nЭто твоя <BLUE>книжная полка</BLUE>. В книгах на ней можно\nпочитать об основах фермерства.\n<PAGE>\nЕсли что-то будет непонятно, сначала загляни\nсюда."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_11",
+   "key": "b2601629",
+   "ru": "<FACE_UNCLE>\r\nА вот твой <BLUE>календарь</BLUE>. В нём расписание на\nнеделю и на месяц."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_12",
+   "key": "1d695658",
+   "ru": "<FACE_UNCLE>\r\nЭто твой <BLUE>сундук для хранения</BLUE>. Если рюкзак\nпереполнится, можешь складывать вещи сюда."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_13",
+   "key": "fc11e586",
+   "ru": "<FACE_UNCLE>\r\nИ последнее ― <BLUE>ящик для инструментов</BLUE>.\nИнструменты, которыми не пользуешься, клади\nсюда."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_14",
+   "key": "b745b1e9",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nНу, вот, в общем, и всё. Остальное потом\nпопробуешь.\n<PAGE>\nА пока пошли обратно на ферму."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_20",
+   "key": "339dd7fd",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nФерма <BLUE>“<__MYFARM__>”</BLUE>? Так и назовёшь?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_21",
+   "key": "a54d2497",
+   "ru": "<FACE_UNCLE>\r\nДа"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_22",
+   "key": "adade1fa",
+   "ru": "<FACE_UNCLE>\r\nНет"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_23",
+   "key": "cc98af8b",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nЛадно. Тогда подумай ещё."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_24",
+   "key": "0ad19440",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nФерма “<__MYFARM__>”, значит? Отличное название!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_STORY_FARM_RELEASE_25",
+   "key": "e4617388",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nРаз у фермы теперь есть название, пойдём\nпосмотрим дом?"
+  }
+ ]
+}

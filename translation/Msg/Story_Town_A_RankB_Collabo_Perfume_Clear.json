@@ -1,0 +1,96 @@
+{
+ "file": "Story_Town_A_RankB_Collabo_Perfume_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_00",
+   "key": "3711183f",
+   "ru": "<FACE_FLORIST>\r\nДоброе утро, <_____MYNAME_____>. Ты не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_01",
+   "key": "dd7d8f58",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nУжасно извиняюсь, что беспокою в такую\nрань...\n<PAGE>\nНо благодаря тебе у меня теперь есть всё,\nчтобы сделать духи.\n<PAGE>\nКогда дома лежат такие чудесные цветы, мне\nпросто не терпелось начать.\n<PAGE>\nИ вот я подумала, не хочешь ли ты посмотреть,\nкак делают духи."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_02",
+   "key": "a5d67d34",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nОх, чудесно! Тогда пойдём прямо ко мне\nдомой."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_03",
+   "key": "5c78a4c5",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nТак, начинаем! ♪\n<PAGE>\nДелать духи тебе не нужно, но не проверишь\nли их, когда будут готовы?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_04",
+   "key": "ae84afd8",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nА как тебе эти? Я добавила ещё тех цветов,\nчто от тебя."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_05",
+   "key": "2777700c",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Правда?\n<PAGE>\nОх, слава богу!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_06",
+   "key": "b5307cec",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nЯ так рада, что ты здесь и помогаешь, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOSS><WINDOW_SWEAT_L>Я в последнее время нанюхалась стольких\nароматов, что уже почти не различаю, что есть\nчто."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_07",
+   "key": "44ddfbd0",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nУ нас получилось, <_____MYNAME_____>. Мы сделали чудесные\nновые духи!\n<PAGE>\nТвоя роль во всём этом огромна. Я так\nблагодарна за помощь."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_08",
+   "key": "178432dc",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПожалуйста, возьми."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_09",
+   "key": "de9066ec",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЭто пробник духов, которые мы только что\nсделали. Это немного, но прими, пожалуйста, в\nзнак моей благодарности."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_10",
+   "key": "95e50c2d",
+   "ru": "Получено: духи <BLUE>“Девичья влюблённость”</BLUE>!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_11",
+   "key": "641cc9c6",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nКак следует всё обдумав...\n<PAGE>\nЯ решила принимать заказы на духи по одному,\nкак на букеты.\n<PAGE>\nТак я смогу не спеша делать качественные духи,\nа покупатель получит новый флакон, сделанный\nспециально для него.\n<PAGE>\nДумаю, это будут и чудесные подарки."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_CLEAR_12",
+   "key": "3ef1be0a",
+   "ru": "(Теперь в “Тысяче букетов” можно заказывать\nдухи!)\n<PAGE>\n(Лизетта сказала, что придумала и другие\nварианты. Надо будет как-нибудь посмотреть.)"
+  }
+ ]
+}

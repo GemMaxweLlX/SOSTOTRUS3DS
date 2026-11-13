@@ -7,6 +7,41 @@
    "id": "MES_EV_STORY_ADVICE_2_CLEAR_00",
    "key": "1d1f57dc",
    "ru": "<FACE_UNCLE>\r\n<_____MYNAME_____>, ты дома? Прошу прощения."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_ADVICE_2_CLEAR_01",
+   "key": "9d1e209b",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nТак-так. Похоже, всё из второго списка\nсоветов по ферме выполнено. Поздравляю!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_ADVICE_2_CLEAR_02",
+   "key": "6f524e30",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЯ дам знать твоему отцу.\n<PAGE>\nКак обычно, когда придёт следующий список,\nсразу же сообщу."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_ADVICE_2_CLEAR_03",
+   "key": "3fef1e35",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nА, и ещё кое-что. Я расчистил и привёл в\nпорядок участок к югу от твоей фермы.\n<PAGE>\nМожешь использовать его как захочешь.\nЗагляни, как будет минутка."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_ADVICE_2_CLEAR_04",
+   "key": "838e5f92",
+   "ru": "(Ура! Ферма стала больше! Пойду посмотрю на\nновый участок.)"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_ADVICE_2_CLEAR_05",
+   "key": "2f37fc90",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно, пойду-ка я домой. До встречи, <_____MYNAME_____>."
   }
  ]
 }

@@ -1,0 +1,54 @@
+{
+ "file": "Story_Town_A_RankB_Collabo_Perfume",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_00",
+   "key": "5eaefd60",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЕсли ты не против, я хотела поговорить о\nновом товаре для моего магазина."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_01",
+   "key": "759e8e2c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ давно думаю, как было бы здорово\nпредложить покупателям что-нибудь новое и\nинтересное.\n<PAGE>\n<FACE_LAUGH><WINDOW_JOY_R>И на днях мне пришла идея продавать духи!\n<PAGE>\nПодбирать разные цветы под тему и создавать\nновые, необычные ароматы ― звучит весело,\nправда?\n<PAGE>\nК тому же это совершенно новый способ\nработать с цветами, помимо выращивания и\nсоставления букетов."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_02",
+   "key": "1c5fdb22",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nЯ уже изучила, какие ароматные цветы хочу\nиспользовать, но почти ни один из них в\nУэстауне не найти.\n<PAGE>\nЯ как раз жаловалась на это Брэду, а он\nпосоветовал поговорить с тобой.\n<PAGE>\nОн сказал, что ты, может быть, выращиваешь\nна ферме цветы из разных краёв."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_03",
+   "key": "fc2cfc91",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nЗнаю, это неожиданно и, наверное, очень\nневежливо с моей стороны...\n<PAGE>\n<FACE_NORMAL>Но можно попросить тебя помочь мне сделать\nновые духи?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_04",
+   "key": "2eb7a368",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>Поможешь? Ох, огромное спасибо!\n<PAGE>\nЯ так рада, что ты согласился. Иначе я осталась\nбы ни с чем.\n<PAGE>\n<FACE_NORMAL><WINDOW_DEFAULT>Итак, вот какие цветы мне нужны...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE> и <BLUE><____ITEMNAME2____></BLUE> <BLUE>x<MOJI4></BLUE>.\n<PAGE>\nИз этих трёх цветов у меня точно получатся\nчудесные новые духи. Как думаешь, найдёшь?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_05",
+   "key": "23c98a69",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОх, да ничего такого. Просто... Я вдруг\nпопросила о большом одолжении, а ты так\nлюбезно согласился.\n<PAGE>\nБольшинство хотя бы выглядели бы\nнедовольными, а ты нет. Я так рада, что\nпришла за помощью к тебе, <_____MYNAME_____>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_COLLABO_PERFUME_06",
+   "key": "04eb38de",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nО-ох. Точно. Мы ведь ещё ничего толком не\nсделали, так что рановато осыпать тебя\nблагодарностями, да?\n<PAGE>\n<FACE_NORMAL>Что ж, тогда придётся подождать, пока ты\nнайдёшь те цветы.\n<PAGE>\nИ, когда соберёшь их все, принесёшь мне?\nСпасибо."
+  }
+ ]
+}

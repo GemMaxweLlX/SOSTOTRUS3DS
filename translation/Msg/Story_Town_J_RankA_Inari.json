@@ -1,0 +1,82 @@
+{
+ "file": "Story_Town_J_RankA_Inari",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_00",
+   "key": "e5f636d9",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, <_____MYNAME_____>...\n<PAGE>\nПо-моему, наш городок в последнее время\nздорово расцвёл.\n<PAGE>\nТы ведь тоже видишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_01",
+   "key": "6f5db777",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЕсли так подумать, ВОТ ЭТО теперь выглядит\nслишком уж обшарпанно."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_02",
+   "key": "54a49d63",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_SAD>\r\nЭто святилище божества-покровителя нашего\nгорода."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_03",
+   "key": "a5fcfb1a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nМы стараемся ухаживать за ним каждый день,\nно святилище очень старое. Годы и непогода\nберут своё.\n<PAGE>\nТеперь оно выглядит немного... ну ладно,\nсильно потрёпанным."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_04",
+   "key": "1ef2136d",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nНаш покровитель хранит не только город, но и\nвсех торговцев.\n<PAGE>\nПравильно, чтобы святилище столь\nвеликодушного божества выглядело достойно.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>Ага. Мы все, конечно, очень старались, чтобы\nгород процветал...\n<PAGE>\nНо, думаю, у нас вообще всё получилось\nотчасти благодаря благословению божества.\n<PAGE>\nХочу его за это отблагодарить."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_05",
+   "key": "1b367cd9",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПричины у всех разные, но вывод мы сделали\nодин.\n<PAGE>\nЭто святилище надо привести в вид, достойный\nбожества-покровителя!\n<PAGE>\nТак что почистим всё, что можно почистить, а\nто, что уже не починить, заменим.\n<PAGE>\nТакой у нас, в общем, план."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_06",
+   "key": "59408dc3",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНо для этого нужны и деньги, и материалы.\n<PAGE>\nВсё-таки это дом божества! Скупиться было\nбы неправильно.\n<PAGE>\n<_____MYNAME_____>. Можно попросить тебя внести вклад ещё раз?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_07",
+   "key": "88f4a1e5",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nВнесёшь? Фантастика! Мы очень признательны!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_08",
+   "key": "8a94dee4",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗнаю, по-хорошему этим стоило бы заняться\nнам самим...\n<PAGE>\nНо так спокойнее, когда знаешь, что ты нас\nподдерживаешь.\n<PAGE>\n<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>Это святилище нашего божества-покровителя.\nМы сделаем всё, что в наших силах, для его\nобновления."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_09",
+   "key": "644897af",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nТак, давай к делу.\n<PAGE>\nВ этот раз я буду очень благодарен, если\nпоможешь и с материалами, и с деньгами.\n<PAGE>\nНам нужно: <BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE> и <BLUE><MOJI4></BLUE>G.\n<PAGE>\nДумаешь, сможешь всё это собрать?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_10",
+   "key": "7e43a1dc",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Значит, решено!\n<PAGE>\nКак соберёшь и материалы, и деньги, неси всё\nмне, ладно?\n<PAGE>\nМы на тебя рассчитываем, <_____MYNAME_____>!"
+  }
+ ]
+}

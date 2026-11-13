@@ -1,0 +1,54 @@
+{
+ "file": "Story_Town_S_RankA_Pier",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_PIER_00",
+   "key": "2f0d2912",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>. Недавно ко мне обратился с просьбой Захау.\n<PAGE>\nКак видишь, хоть мы и деревня у моря, пирса,\nгде можно пришвартовать лодку, у нас нет.\n<PAGE>\nВот мы и поговорили о том, чтобы всей\nдеревней его построить."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_PIER_01",
+   "key": "33c59412",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_SAD>\r\nИменно.\n<PAGE>\nЯ уже много лет думаю, как было бы здорово\nиметь тут пирс...\n<PAGE>\nНо построить его сам на свои деньги я никак не\nмог, так что на время бросил эту мысль.\n<PAGE>\n<FACE_NORMAL>Но в последнее время наша деревня ведь вместе\nберётся за общие дела, правда?\n<PAGE>\nВот я и подумал, что пирс мы тоже могли бы\nпостроить все вместе."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_PIER_02",
+   "key": "93c5a4f6",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_NORMAL>\r\nА ты знаешь, что с пирса здорово рыбачить?\n<PAGE>\n<FACE_LAUGH>Уверен, когда его построят, он тебе очень\nпригодится!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_PIER_03",
+   "key": "d2b3d391",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_SAD>\r\nНо построить пирс с нуля ― это много денег и\nматериалов.\n<PAGE>\nЗнаю, мы к тебе уже столько раз обращались,\nно можно попросить помочь нам ещё разок?\n<PAGE>\nЧто скажешь?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_PIER_04",
+   "key": "b164d714",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nПревосходно, превосходно. Я так рада это\nслышать. Махало, <_____MYNAME_____>.\n<PAGE>\nТы всегда так охотно нам помогаешь. Мы\nискренне и глубоко благодарны.\n<PAGE>\n<FACE_FISHER><POS_LEFT><FACE_LAUGH>Махало, <_____MYNAME_____>! С твоей помощью моя давняя мечта,\nпохоже, наконец сбудется!\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH><_____MYNAME_____>, ты лучше всех!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_PIER_05",
+   "key": "d13f2ac9",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nИтак, вот что мне от тебя нужно...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE> и <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE>.\n<PAGE>\nМогу я столько у тебя попросить?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_PIER_06",
+   "key": "03e70af6",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nМахало! Тогда доверяю это тебе.\n<PAGE>\nКак соберёшь всё нужное, приноси мне, как\nобычно."
+  }
+ ]
+}

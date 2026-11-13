@@ -1,0 +1,61 @@
+{
+ "file": "Story_Town_A_RankA_Collabo_Menu2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_00",
+   "key": "268fde2e",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nИтак, <_____MYNAME_____>.\n<PAGE>\nПомнишь, как вы с моим внуком вместе\nпридумали новый рецепт для ресторана?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_01",
+   "key": "f4ca719d",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nА, хорошо.\n<PAGE>\nБлюдо оказалось очень популярным у всего\nгорода. Я так горжусь вами обоими.\n<PAGE>\nС тех пор Брэд загорелся готовкой как никогда,\nкаждый день что-то изучает.\n<PAGE>\nНе знаю, как тебя и благодарить, <_____MYNAME_____>."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_02",
+   "key": "95d0afe4",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nИ вот, э-э... глядя, как внук с таким\nудовольствием колдует на кухне...\n<PAGE>\nВо мне, старике, тоже снова огонь разгорелся,\nпонимаешь?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_03",
+   "key": "2c8ddff0",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nКороче говоря...\n<PAGE>\nХочу попробовать вместе с тобой придумать\nсвой новый рецепт.\n<PAGE>\nНу как? Поддержишь безумную затею старика?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_04",
+   "key": "24ebb75e",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо, <_____MYNAME_____>.\n<PAGE>\nТогда не против, если я попрошу тебя достать\nмне фруктов?\n<PAGE>\nВидишь ли, хочу по-новому взглянуть на\nтрадиционный десерт.\n<PAGE>\nДумаю использовать ингредиенты, которых в\nнаших краях обычно не найдёшь."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_05",
+   "key": "7bb4d49a",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсли сможешь, достань мне три разных\nфрукта...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE> и <BLUE><____ITEMNAME2____></BLUE> <BLUE>x<MOJI4></BLUE>.\n<PAGE>\nСправишься?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_06",
+   "key": "efa3e156",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nИ спешить некуда. Можешь сначала собрать всё\nцеликом.\n<PAGE>\nЕсли рецепт удастся, может, попрошу Брэда\nвнести его в меню ресторана."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_07",
+   "key": "0c2928e3",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, тогда заранее спасибо за помощь, <_____MYNAME_____>."
+  }
+ ]
+}

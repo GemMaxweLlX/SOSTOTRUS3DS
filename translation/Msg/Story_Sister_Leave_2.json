@@ -1,0 +1,82 @@
+{
+ "file": "Story_Sister_Leave_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_00",
+   "key": "75decd4a",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nДоброе утро, <RELATIONSHIP>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_01",
+   "key": "2be2e667",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nКак ни жаль, пора нам снова прощаться."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_02",
+   "key": "924f5014",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nЯ тут вдоволь нагостилась, так что, думаю,\nпора перестать мешаться под ногами и ехать\nдомой.\n<PAGE>\nКак и в прошлый раз, поеду на дилижансе из\nУэстауна. Проводишь меня?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_03",
+   "key": "d33816be",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nА, и чемоданы заодно понесёшь!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_04",
+   "key": "f916f305",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nСпасибо, что пришли проводить, дядя Фрэнк!\nЗнаю, вы ведь тоже ужасно заняты.\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH>Пустяки, юная леди. Приезжай снова\nкак-нибудь, слышишь? Мы с <_____MYNAME_____> будем ждать."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_05",
+   "key": "bb7aeea5",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nНе сдавайся, <RELATIONSHIP>! Уверена, ещё немного ― и папа\nсдастся и признает поражение!\n<PAGE>\n<WINDOW_JOY_R>Только не опускай руки, ладно? Я за тебя\nболею!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_06",
+   "key": "d9325b00",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\nАх! Знаешь что? В благодарность за приют я\nоставила ЕЩЁ один подарок! Повезло тебе с\nтакой щедрой сестрой, да?\n<PAGE>\n<WINDOW_FUN_R>Он даже лучше прошлого. Поищи в комнате,\nнайдёшь ли. ♪"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_07",
+   "key": "208958b5",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>В общем, ещё увидимся! Пока-пока! ♪"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_08",
+   "key": "a5ff46a5",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНу вот и уехала."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_09",
+   "key": "8adf6ec6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНу-ну, <_____MYNAME_____>. Раз за тебя болеют и Марлена, и Линн,\nуверенности у тебя, должно быть, хоть\nотбавляй."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_10",
+   "key": "f7c2f20a",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nНу, давай-ка обратно за работу."
+  }
+ ]
+}

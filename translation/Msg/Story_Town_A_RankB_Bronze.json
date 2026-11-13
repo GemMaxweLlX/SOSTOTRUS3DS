@@ -1,0 +1,68 @@
+{
+ "file": "Story_Town_A_RankB_Bronze",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_00",
+   "key": "9b4166c1",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nХм. Эта статуя бизона...\n<PAGE>\nТы только посмотри, какая она грязная,\nбедняжка."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_01",
+   "key": "d4b68d66",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_SAD>\r\nКогда-то её начищали так, что она сияла как\nсолнце.\n<PAGE>\nА теперь посмотри на неё. Сплошное\nбезобразие."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_02",
+   "key": "3e5e3dfc",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nИ не говорите. Немного стыдно, что символ\nнашего города так обшарпан.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_SAD>Бедный господин Бизон. Ему, наверное, ужасно\nплохо столько времени быть грязным.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>Лично мне её нынешнее состояние настолько\nудручающе и неприятно, что я отвожу взгляд,\nпроходя мимо."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_03",
+   "key": "3441ca19",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_SAD>\r\nМы уже не раз пробовали отмыть бедолагу...\n<PAGE>\nНо крепкой тряпки, ведра мыльной воды и\nусердия не хватает, чтобы оттереть всю эту\nгрязь."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_04",
+   "key": "973fdbe4",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nРаз уж наш город так вырос, нельзя больше\nоставлять его символ таким, будто он только\nчто вывалялся в грязи.\n<PAGE>\nПоэтому мы все решили купить чистящих\nсредств и полироль для бронзы, чтобы снова\nего начистить.\n<PAGE>\nЕсли ты не против, мы будем благодарны, если\nты снова поможешь, <_____MYNAME_____>.\n<PAGE>\nНу как? Поможешь нам ещё раз?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_05",
+   "key": "bb7a9fbf",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nЧудесно! Рада слышать!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_06",
+   "key": "5b73ca2f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nВот это по-нашему, <_____MYNAME_____>! Всегда на помощь!\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>С тех пор как ты здесь, наш город стал больше\nи оживлённее...\n<PAGE>\nС твоей помощью всё точно получится.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>Если ты обеспечишь деньги на материалы, я с\nрадостью смешаю эффективный чистящий\nраствор."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_07",
+   "key": "e65ba149",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nПохоже, на этот раз всё упирается в деньги.\n<PAGE>\nЯ хотела бы попросить <BLUE><MOJI0></BLUE><MOJI1>. Как думаешь,\nсправишься?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKB_BRONZE_08",
+   "key": "e5f55d20",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nЧудесно! Значит, решено! Считай, что тебя\nофициально попросили, <_____MYNAME_____>!\n<PAGE>\nКак соберёшь все деньги, неси мне, слышишь?"
+  }
+ ]
+}
