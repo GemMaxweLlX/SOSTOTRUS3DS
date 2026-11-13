@@ -1,0 +1,201 @@
+{
+ "file": "Couple_S_Craftman_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_00",
+   "key": "bc55ca04",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>.\n<PAGE>\nМожет, это и не моё дело, но..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_01",
+   "key": "5cee851b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nЯ только что видела, как твой муж нёс кучу\nшерсти и брёвен.\n<PAGE>\nЧто-то случилось?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_02",
+   "key": "b73c5339",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЗначит, ты тоже не знаешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_03",
+   "key": "0528bcff",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nКуда шёл Лудус?\n<PAGE>\nКажется, в сторону Цуюкусы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_04",
+   "key": "75a1692c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nКак бы то ни было...\n<PAGE>\nИнтересно, что он собирается делать со всеми\nэтими материалами..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_05",
+   "key": "9e134600",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>.\n<PAGE>\nТвой муж недавно заходил. Ох и нагружен же\nбыл!\n<PAGE>\nКупил у меня ОЧЕНЬ много ткани.\n<PAGE>\nТак нагрузился, что я думал, Хинате придётся\nему помогать.\n<PAGE>\n<FACE_LAUGH>Благодаря ему я сегодня озолотился, хе-хе!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_06",
+   "key": "e7283de1",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nДа, он шёл в сторону Лулукоко."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_07",
+   "key": "4d4b044e",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nЕсли подумать, он и недавно скупил у меня кучу\nткани... Наверняка мастерит что-то большое.\n<PAGE>\n<FACE_LAUGH>Хе-хе-хе... Мне только на руку, раз товар\nрасходится!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_08",
+   "key": "a010683c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_09",
+   "key": "9b8944b6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nО, это?\n<PAGE>\nНеплохо выходит, да?\n<PAGE>\nЭто мягкая игрушка в натуральную величину!\n<PAGE>\n<FACE_NORMAL>Не волнуйся, <_____MYNAME_____>. Я не трогал твоих запасов. Все\nматериалы купил на свои деньги."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_10",
+   "key": "c338c859",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗачем сделал? Для нашего малыша, конечно!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_11",
+   "key": "070dd2c0",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nДумаю, когда <CHILD_NAME> подрастёт, с этим будет ужасно\nвесело играть."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_12",
+   "key": "0e2f51f9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nОднажды у нас может появиться ребёнок,\nпонимаешь?\n<PAGE>\nИгрушки для него никогда не рано начинать\nделать."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_13",
+   "key": "7a14cd81",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nИ смотри! Я сделал целую кучу для разных\nслучаев. Для игры в дочки-матери, для игры в\nрыцаря, понимаешь?\n<PAGE>\nИ они довольно подробные..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_14",
+   "key": "00aefd37",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nА? Думаешь, слишком много? Правда?\n<PAGE>\nЯ вообще-то собирался сделать маленькую\nлодку и выстроить их на ней, но..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_15",
+   "key": "f74d7475",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nКуда я собирался их ставить?\n<PAGE>\nНу, так...\n<PAGE>\nРаз уж ты спросила... понятия не имею."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_16",
+   "key": "b47a7aae",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nЕсли ставить некуда, думаешь, их продать?\n<PAGE>\nНу, можно, но... Эх, какая жалость!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_17",
+   "key": "60564d4d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\n...\n<PAGE>\nЛадно, так и быть.\n<PAGE>\nОставлю их у бабули."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_18",
+   "key": "1f55cc49",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\n*вздох* Прощай, мой шедевр...\n<PAGE>\nПожалуй, ты права, <_____MYNAME_____>.\n<PAGE>\n<FACE_NORMAL>Наверное, я немного перестарался."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_19",
+   "key": "cb027763",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу конечно!\n<PAGE>\n<FACE_LAUGH>Это для ребёнка, которого родила моя\nкрасавица жена. Конечно, для меня это важно."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_20",
+   "key": "15cf50e0",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу конечно!\n<PAGE>\n<FACE_LAUGH>Это для ребёнка, которого моя красавица жена\nоднажды родит. Хочу сделать всё идеально!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_21",
+   "key": "7cdb06ba",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nХм? Что такое?\n<PAGE>\nВид у тебя встревоженный.\n<PAGE>\n...\n<PAGE>\n<FACE_LOVE>Думал, это и так ясно, но, видно, нет. Не хочу,\nчтобы прошёл хоть один день...\n<PAGE>\n...когда ты не знала бы, как сильно я тебя\nлюблю."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_22",
+   "key": "2c18b3f2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nСкажу сколько угодно раз.\n<PAGE>\n<_____MYNAME_____>, ты для меня самый важный человек на свете.\nОбещаю сделать всё, чтобы ты была счастлива."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_23",
+   "key": "e6b6f4b1",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nИ для <CHILD_NAME> тоже. Хочу, чтобы наш ребёнок был\nсамым счастливым на свете.\n<PAGE>\nСделаю ради этого что угодно!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_24",
+   "key": "d39c97d9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nИ для нашего будущего ребёнка тоже. Хочу,\nчтобы он был самым счастливым на свете.\n<PAGE>\nСделаю ради этого что угодно!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_25",
+   "key": "a16ade93",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>..."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_26",
+   "key": "542a0086",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_ANGRY>\r\nПоверь, правда...\n<PAGE>\nДаже если я немного чудю, я всегда думаю о\nтебе, <_____MYNAME_____>. О том, как сделать тебя счастливой.\n<PAGE>\n<FACE_NORMAL>Помни это, ладно?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_CRAFTMAN_1_27",
+   "key": "d482e383",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nИ я постараюсь больше не перегибать палку..."
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "file": "Couple_S_TwinYounger_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_00",
+   "key": "13fe8782",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_01",
+   "key": "2f95caf8",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЯ как раз собиралась в Лулукоко за покупками."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_02",
+   "key": "1cdc745a",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nТы тоже хочешь пойти, <_____MYNAME_____>?\n<PAGE>\nНо ты ведь устал?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_03",
+   "key": "b8140f96",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...Понятно. Хорошо, пойдём."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_04",
+   "key": "2a76a19f",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nСначала купим фруктов.\n<PAGE>\nЭто мне на перекус."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_05",
+   "key": "9e5b094f",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nАлоха."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_06",
+   "key": "4ceaeb53",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nКомо май! Заходите, посмотрите!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_07",
+   "key": "4c7ae141",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nКакой фрукт тебе хочется, <_____MYNAME_____>?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_08",
+   "key": "82492ad7",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\n...Это для тропического сэндвича. Хотела\nсделать тебе из твоих любимых фруктов."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_09",
+   "key": "6d9b7098",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nОго, какая освежающая мысль!\n<PAGE>\nЗдорово!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_10",
+   "key": "e245acdd",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nВот вам подарок от меня ― такой чудесной\nпаре!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_11",
+   "key": "075a1928",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...!\n<PAGE>\n<FACE_LAUGH>...Очень любезно. Махало."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_12",
+   "key": "30042745",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nНе за что! Совершенно не за что!\n<PAGE>\nКто бы мог подумать, что та застенчивая\nдевочка однажды будет так улыбаться...\n<PAGE>\nЯ прямо растроган!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_13",
+   "key": "fca91417",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LOVE>\r\nД-дальше... пойдём к Каолиле за продуктами\nна ужин."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_14",
+   "key": "f303fe61",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nАлоха, Каолила.\n<PAGE>\nАлоха, бабуля."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_15",
+   "key": "a4c5d2a2",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо. Да это же Силука и <_____MYNAME_____>.\n<PAGE>\n<FACE_FISHERWIFE><POS_LEFT><FACE_NORMAL>Алоха! Вы сегодня за покупками?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>...Да.\n<PAGE>\n<_____MYNAME_____> сказал, что пойдёт со мной. Вот... мы и здесь."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_18",
+   "key": "7217dbe3",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nПонятно, понятно! Но знаешь...\n<PAGE>\n<FACE_NORMAL>Помню, как ты раньше просто молча смотрела\nна океан... А теперь стала женой...\n<PAGE>\n<FACE_NORMAL>Даже на душе тепло становится!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_19",
+   "key": "68932712",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LOSS>\r\nСтаричок в Санту-ду-Манго тоже сказал\nчто-то похожее."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_20",
+   "key": "80b96773",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу конечно.\n<PAGE>\nЯ давно живу с тобой, и даже я по пальцам\nодной руки могу пересчитать, сколько раз\nвидела твою настоящую улыбку.\n<PAGE>\n<FACE_LAUGH>Не успела оглянуться, а ты уже совсем\nвзрослая. Хо-хо..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_21",
+   "key": "ef83fb4d",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Цветок может распуститься, потому что ему\nпомогает солнце.\n<PAGE>\n...Солнце дарит цветку свет, и цветок отвечает\nтем же, распускаясь.\n<PAGE>\n<FACE_LAUGH>...Я тоже такая.\n<PAGE>\n<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>...\n<PAGE>\n<FACE_LAUGH>Понятно, понятно. Так оно и есть..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_23",
+   "key": "c324c540",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nПонимаешь, Каолила?\n<PAGE>\nСколько бы лет ни было, смотреть, как растёт\nребёнок, ― всегда радость.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Ха-ха.\n<PAGE>\nМахало вам обеим."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_25",
+   "key": "e6a00c80",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nКаолила тоже дала нам кучу всего бесплатно. Я\nсегодня почти ничего не потратила."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_26",
+   "key": "e36fcae5",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nНемного неловко, но... видно, как все за нас\nрады. Приятно."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_27",
+   "key": "55f5e5cc",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>.\n<PAGE>\nДо встречи с тобой я не знала, что значит быть\nпо-настоящему счастливой.\n<PAGE>\nЭто удивительно, но... и немного неловко\nговорить вслух."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_28",
+   "key": "f2083dba",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...Ты всегда учишь меня чему-то новому, <_____MYNAME_____>."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_29",
+   "key": "9d713eb2",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\n...<_____MYNAME_____>."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_COUPLE_S_TWINYOUNGER_1_30",
+   "key": "386f04dd",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...Цветок ничто без солнечного света.\n<PAGE>\nПоэтому я хочу, чтобы ты был рядом...\n<PAGE>\nНаучи меня ещё многому.\n<PAGE>\n...Мой чудесный муж."
+  }
+ ]
+}

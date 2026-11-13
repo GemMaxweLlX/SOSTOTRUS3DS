@@ -1,0 +1,222 @@
+{
+ "file": "Couple_J_TeaGirl_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_00",
+   "key": "31b57156",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nХорошо потрудился сегодня, <_____MYNAME_____>.\n<PAGE>\nТолько ты весь день таскал тяжести. Не устал?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_01",
+   "key": "d6b1e21f",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nОго, у тебя ещё столько сил, а? Мой муж ―\nнастоящий силач!\n<PAGE>\n<FACE_NORMAL>Тогда, может, сходишь со мной в чайную?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_02",
+   "key": "52ea7024",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nНу, я туда хожу почти каждый день на\nработу...\n<PAGE>\nНо вместе мы ни разу толком не заходили. Ну,\nпоздороваться с папой?\n<PAGE>\nВот я и подумала, если ты не против..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_03",
+   "key": "c0f62b98",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Отлично! Тогда пошли."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_04",
+   "key": "a5f80f32",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Пам-пам-пам! ♪ Ла-пам-пам! ♪\n<PAGE>\nФух, на сегодня всё. Умаялся."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_05",
+   "key": "b53cbd6b",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nПростите, мэм. На сегодня мы закрыты..."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_06",
+   "key": "48440d36",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nО, это ты, Комари. На секунду подумал, что\nпокупательница.\n<PAGE>\nГляди-ка! И <_____MYNAME_____> с тобой!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Ага, мы как раз говорили, что было бы\nздорово как-нибудь заглянуть вместе.\n<PAGE>\nКстати, пап. Ты уже ужинал?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_07",
+   "key": "5fff79cd",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nАга, мы как раз говорили, что было бы\nздорово иногда заглядывать вместе.\n<PAGE>\nКстати, пап. Ты уже ужинал?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_08",
+   "key": "5980f620",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nЕщё нет. Как раз закрывал лавку, когда вы\nзашли."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_09",
+   "key": "b25b0138",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Тогда я всем приготовлю ужин.\n<PAGE>\nЗайму кухню, пап!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_10",
+   "key": "64eea0a4",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nТы? Готовить? Откуда такая уверенность?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_11",
+   "key": "d316fdcb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\n<WINDOW_SWEAT_R>Ой. Ну, не уверена, что получится лучше, чем у\nтебя, пап.\n<PAGE>\n<FACE_ANGRY><WINDOW_DEFAULT>Но ты давно не пробовал мою стряпню, верно?\nПосидите пока вдвоём, а я займусь делом.\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>Ладно, ладно. Только многого не жду!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_12",
+   "key": "4fa68185",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nЛадно, ладно. Только многого не жду!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_13",
+   "key": "f41d6d61",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Слушай, <_____MYNAME_____>, пока Комари “занимается делом”,\nдавай научу тебя играть в сёги?\n<PAGE>\nХочется сыграть с кем-нибудь, кроме Мории!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_14",
+   "key": "0d6443e1",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nПриятного аппетита!\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>Ну и наготовила же ты..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_15",
+   "key": "c5424bd3",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\nНу и наготовила же ты..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_16",
+   "key": "987e7b7d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nХватит и на добавку, и на третью порцию, так\nчто налетайте! ♪\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>Непременно! Спасибо за ужин!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_17",
+   "key": "a866e512",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nНу, спасибо за угощение!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_18",
+   "key": "e59d14b2",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНу как, <_____MYNAME_____>?\n<PAGE>\n<FACE_LAUGH>Ха-ха, и по лицу видно, что нравится."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_19",
+   "key": "b2672524",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_EXCLAMATION_L>...Вкуснотища!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_20",
+   "key": "a20932d5",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Ну, ты и раньше на кухне была ничего. Но\nэто... Комари, это отлично!\n<PAGE>\n<FACE_NORMAL>Поражён. Видно, женщины и правда меняются\nпосле свадьбы."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_21",
+   "key": "2e2c91e7",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Ого, пап. Ты всегда был так строг к моей\nстряпне.\n<PAGE>\n<FACE_LAUGH>Не думала, что дождусь от тебя таких похвал!\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>Я не со зла. Просто говорил как есть!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_22",
+   "key": "434bea7a",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nЯ не со зла. Просто говорил как есть!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_23",
+   "key": "497fe9a9",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nПохоже, Комари на седьмом небе, <_____MYNAME_____>.\n<PAGE>\nВ общем, я рад, что вы так ладите даже после\nсвадьбы.\n<PAGE>\nХотя, честно говоря, я и не волновался.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>Пап... ты правда так думал?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_24",
+   "key": "9c95b597",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_KERAKERA_R>Ну конечно, мы ладим!\n<PAGE>\nНе недооценивай, какие мы голубки, пап!\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY><WINDOW_LINE_L>Ч-что ты сказала?! Даже не думай, что вы\nхоть сколько-то дотягиваете до нашей с мамой\nлюбви!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_25",
+   "key": "82477369",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Какой классный день! До сих пор не верится,\nчто папа похвалил мою стряпню.\n<PAGE>\n<FACE_NORMAL>Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_26",
+   "key": "614d02b7",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nБудь я прежней, мне, наверное, было бы всё\nравно, станет ли моя стряпня лучше.\n<PAGE>\nНо теперь у меня есть ты, кто ест мою еду.\n<PAGE>\n<FACE_LAUGH>Больше всего на свете хочу видеть тебя\nсчастливым. Так что когда ты с удовольствием\nешь... Это правда вдохновляет стараться.\n<PAGE>\nВот за это и “спасибо”. Всё благодаря тебе."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_27",
+   "key": "7ea13d83",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOVE>\r\nН-ну, никого же вокруг нет, правда? Подумала,\nиногда можно...\n<PAGE>\nДо свадьбы мне было слишком неловко\nцеловать тебя первой, но...\n<PAGE>\nНо если так я увижу твою улыбку, <_____MYNAME_____>...\n<PAGE>\nИногда ведь можно, правда?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_28",
+   "key": "3a858dcc",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_HEART_L>...Ха-ха.\n<PAGE>\nЭй, <_____MYNAME_____>? Отныне буду кормить тебя своей стряпнёй\nещё больше!\n<PAGE>\n...Я люблю тебя."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_29",
+   "key": "a8c50613",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nПап...?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEAGIRL_1_30",
+   "key": "80467d51",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nХа-ха-ха! Папа разошёлся.\n<PAGE>\nЛадно, ладно. Если так пойдёт, еда остынет.\nДавайте есть!"
+  }
+ ]
+}

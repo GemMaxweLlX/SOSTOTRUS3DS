@@ -1,0 +1,166 @@
+{
+ "file": "Couple_J_Teacher_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_00",
+   "key": "22d41047",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nО, <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_01",
+   "key": "73e4efc0",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nС возвращением."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_02",
+   "key": "f583892b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nАх да, я как раз записывала правила для\nнашего дома.\n<PAGE>\n<FACE_NORMAL>Мы муж и жена, но выросли в разных семьях.\n<PAGE>\nРаз у каждого из нас были свои правила, порой\nнаши мнения будут расходиться.\n<PAGE>\nПоэтому я подумала: если установить основные\nправила сейчас, можно избежать ненужных ссор\nв будущем."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_03",
+   "key": "f6070a20",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, рада, что ты считаешь это хорошей\nмыслью."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_04",
+   "key": "7144c843",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЧто входит в правила?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_05",
+   "key": "dacef350",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, прочту некоторые...\n<PAGE>\nКаждый день мы здороваемся друг с другом\nхотя бы раз.\n<PAGE>\nМы не ссоримся без нужды.\n<PAGE>\nПеред едой мы всегда благодарим за пищу."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_06",
+   "key": "c72ffce0",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nА ещё вот эти...\n<PAGE>\nМы не носим странную одежду.\n<PAGE>\nМы не храним слишком много урожая.\n<PAGE>\nМы строго соблюдаем время возвращения\nдомой."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_07",
+   "key": "58f60d9b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nМы едим в условленное время.\n<PAGE>\n<SPEED_IMME>Мы не тратим больше 10 000G в день. Мы\nстараемся ладить с горожанами.\n<PAGE>\n<SPEED_IMME>Вернувшись домой, моем руки и полощем\nгорло.\n<PAGE>\n<SPEED_IMME>Чистим зубы три раза в день. Никогда не\nкашляем, не прикрыв рот.\n<PAGE>\n<SPEED_IMME>Стираем одежду после каждой носки.\nВстряхиваем бельё перед сушкой. Не надеваем\nнепросохшую одежду.\n<PAGE>\n<SPEED_IMME>Каждое утро расчёсываемся. Не ходим\nлохматыми после сна. Не красим волосы в\nстранные цвета.\n<PAGE>\n<SPEED_NORMAL>Так, что же ещё..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_08",
+   "key": "44fbf34a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_09",
+   "key": "0e8bab0c",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nСколько ещё осталось, спрашиваешь? Дай\nподумать...\n<PAGE>\nНа сегодня я составила всего тридцать с..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_10",
+   "key": "30dc67f0",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_SAD>\r\n...\n<PAGE>\nЭм... Неужели...\n<PAGE>\nМожет быть... я придумала слишком много\nправил?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_11",
+   "key": "12837166",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_SAD>\r\nЕ-если ты считаешь, что они не нужны, я могу\nостановиться..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_12",
+   "key": "aa46c401",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_SAD>\r\n...Кажется, я перестаралась, пытаясь сделать\nнашу жизнь идеальной.\n<PAGE>\nЯ хотела избежать ненужных ссор, но если\nиз-за этого они и начнутся, какой смысл...?\n<PAGE>\nТы, наверное, считаешь меня занудой. Как\nстыдно...\n<PAGE>\nПрости, пожалуйста."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_13",
+   "key": "622f5ea5",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n...Что? Ты постараешься не нарушать ни одного\nправила?\n<PAGE>\n<FACE_LAUGH>Х-хорошо! Огромное спасибо."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_14",
+   "key": "9c97f8fd",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nТы такой добрый.\n<PAGE>\nКак мне повезло с таким чудесным мужем."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_15",
+   "key": "b19d4eb3",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nТогда я не буду их вывешивать."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_16",
+   "key": "30ccfa03",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nАх да.\n<PAGE>\nРади нашего брака я придумала ещё несколько\nправил...\n<PAGE>\nВыслушаешь?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_17",
+   "key": "a73805a6",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Зачитаю.\n<PAGE>\nСпим мы всегда в одной постели. И ещё...\n<PAGE>\n<FACE_LOSS>Каждый день... хотя бы раз...\n<PAGE>\n<FACE_LOVE>Мне бы хотелось, чтобы ты... меня целовал."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_18",
+   "key": "d818eaa3",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\nТы можешь счесть меня бесстыдной, но...\n<PAGE>\n...если ты согласишься хотя бы на это, я буду\nпо-настоящему счастлива."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_19",
+   "key": "64c994ba",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\n...\n<PAGE>\nТы не против?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_20",
+   "key": "3b48f8c5",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\n...<_____MYNAME_____>."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_21",
+   "key": "816c37f7",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n...Ха-ха.\n<PAGE>\nУже хочешь опробовать новые правила? Какой\nнетерпеливый.\n<PAGE>\nНо помни. Это обещание. Каждый день, хотя\nбы раз..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_TEACHER_1_22",
+   "key": "8be619e6",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\n...Целуй меня. Хорошо?"
+  }
+ ]
+}
