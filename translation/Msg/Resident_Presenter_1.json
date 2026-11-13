@@ -1,0 +1,138 @@
+{
+ "file": "Resident_Presenter_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_00",
+   "key": "b63f5eac",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nТише-е-е... Ай!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_01",
+   "key": "ae21afe6",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nУ-ух..."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_02",
+   "key": "b87f23c9",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nЭ-э, приве-е-ет, <_____MYNAME_____>... Б-боюсь, я попалась тебе\nв неловкий момент!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_03",
+   "key": "18e9237e",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_SAD>\r\nПонимаешь, я пошла покупать подарки\nмладшим сёстрам и немного переборщила...\n<PAGE>\nПыталась сообразить, как дотащить всё это до\nпочты, и... тут появляешься ты."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_04",
+   "key": "3f0775df",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nА? Правда поможешь?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_05",
+   "key": "81ff2df5",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_SAD>\r\nОгромное спасибо!\n<PAGE>\nТы меня спасаешь!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_06",
+   "key": "ba7e9497",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПрости, что втянула тебя, но я правда очень\nблагодарна."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_07",
+   "key": "e04b7ce2",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nНет, прошу. Позволь мне как-то\nотблагодарить. Посмотрим..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_08",
+   "key": "fdaff217",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nА, знаю! Пойдём со мной поесть в ресторан? Я\nугощаю!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_09",
+   "key": "c98e9e36",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nНу пожалуйста. Я ХОЧУ что-нибудь для тебя\nсделать!\n<PAGE>\n<FACE_LOSS>Если у тебя дела, я вполне пойму, но... Что\nскажешь?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_10",
+   "key": "4244038c",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nОтлично! Тогда пойдём вместе. ♪"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_11",
+   "key": "7715207a",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nЕда здесь правда вкусная, да?\n<PAGE>\nЯ с самого детства езжу по всему миру по\nработе и перепробовала уйму разных кухонь,\nно...\n<PAGE>\nДолжна сказать, здешние повара не уступят\nлучшим!\n<PAGE>\nНе говоря уже о том, что все продукты свежие\nи местные."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_12",
+   "key": "272aaee8",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nА? Хочешь узнать, как я пришла к своей\nпрофессии?\n<PAGE>\nНу, я работаю с совсем малых лет, понимаешь?\n<PAGE>\nВообще-то я старшая из пятерых детей. У\nменя два младших брата и две младшие\nсестры.\n<PAGE>\nСемья у нас никогда не была особо зажиточной,\nно меня заметили и взяли в индустрию."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_13",
+   "key": "7b662951",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_SAD>\r\nОй, нет-нет-нет! Дела у нас шли не так плохо,\nчтобы нас жалеть.\n<PAGE>\n<FACE_NORMAL>В общем, поработав немного в шоу-бизнесе, я\nвступила в Ассоциацию ведущих и, по счастью,\nу меня оказался к этому талант.\n<PAGE>\nЯ путешествую по миру, ем вкусную еду,\nвстречаю первоклассных мастеров и вовсю\nвеселюсь.\n<PAGE>\nНи на что не променяю свою работу.\n<PAGE>\nК тому же я подружилась со всеми судьями."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_14",
+   "key": "14a1349d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nНам очень весело!\n<PAGE>\nМы всегда болтаем после каждого праздника, а\nв такой разношёрстной компании никогда не\nзнаешь, о чём зайдёт речь. Это отпад!\n<PAGE>\nОни и правда потрясающие."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_15",
+   "key": "0789df65",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nКакие они? Ну, посмотрим...\n<PAGE>\nЯ знаю людей, чей вкус может определить\nмодные цвета на весь год.\n<PAGE>\nА ещё знаю человека, который написал\nкулинарную книгу-бестселлер, до сих пор\nуверенно возглавляющую рейтинги.\n<PAGE>\nА ещё..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_16",
+   "key": "82edd4be",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nОго, как время пролетело, да? Прости, если я\nначну говорить, остановиться трудно!\n<PAGE>\n<FACE_LAUGH>Но знаешь, было интересно послушать, как ты\nстал(а) фермером, <_____MYNAME_____>!\n<PAGE>\n<FACE_NORMAL>Спасибо, что провёл(а) со мной время сегодня.\nНадо будет повторить."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_17",
+   "key": "49a175e9",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nТебе тоже было весело, <_____MYNAME_____>?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_PRESENTER_1_18",
+   "key": "0bfda40e",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nЯ ещё долго буду работать в этих краях, так\nчто надеюсь, наша дружба будет только\nкрепнуть. ♪"
+  }
+ ]
+}
