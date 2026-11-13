@@ -128,6 +128,20 @@
    "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Хотя для твоего уровня\nэто не было ли слишком легко?"
   },
   {
+   "n": 38,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_FASHION_LOSE_LEGEND",
+   "key": "015485cb",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЯ прекрасно знаю, как ты трудишься каждый\nдень. Но трудолюбие ― далеко не всё.\n<PAGE>\nТы правда выложилась полностью? Не\nсдерживалась? Ни о чём не жалеешь?\n<PAGE>\nЕсли можешь уверенно ответить “да”...\n<PAGE>\n...значит, судьям нужно проверить зрение.\nПодам официальную жалобу и назначу всем\nосмотр у окулиста."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_FASHION_LOSE_EXPERT",
+   "key": "49afca6e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПобеда в классе “Мастер” ― дело непростое.\nНе грусти так.\n<PAGE>\n<FACE_LOSS>Что? Если я погажу тебя по черепу, станет\nлегче? У этого так называемого “средства” нет\nнаучного обоснования.\n<PAGE>\n<FACE_LAUGH>Но на этот раз сделаю исключение. Если ты\nснова улыбнёшься, научная обоснованность меня\nничуть не волнует."
+  },
+  {
    "n": 41,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_Doctor_FASHION_LOSE_BEGINNER",
@@ -590,11 +604,32 @@
    "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! Ты был такой крутой,\nчто я влюбилась в тебя заново.\n<PAGE>\nТеперь бери ответственность за то, что я так к\nтебе отношусь!"
   },
   {
+   "n": 166,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_FASHION_WIN_VETERAN",
+   "key": "2feb7a60",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! <_____MYNAME_____>, когда вижу, как ты\nтам делаешь своё дело, понимаю, что и мне\nнужно усердно идти к своим целям.\n<PAGE>\nИ я их достигну! Каждый раз, глядя на тебя,\nчувствую страсть! ♪"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_FASHION_WIN_BEGINNER",
+   "key": "3690aa7f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>! Не верится, что ты победил! Ты\nтам был супер крутым. ♪"
+  },
+  {
    "n": 168,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_TeaGirl_FASHION_LOSE_LEGEND",
    "key": "34b6e648",
    "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nХорошая попытка, <_____MYNAME_____>. Хм? Расстроена ли я, что\nты не победил?\n<PAGE>\n<FACE_LAUGH>А-ха-ха! Конечно, нет! Я знаю, как ты всегда\nстараешься.\n<PAGE>\n<FACE_LOVE>И вообще, даже если не победил, ничего\nстрашного. Да хоть бы ты там был совсем не\nкрутым ― тоже ничего!\n<PAGE>\nЭто всё важные части тебя, и я люблю тебя\nтаким, какой ты есть!"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_FASHION_LOSE_EXPERT",
+   "key": "91156040",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nМожет, ты думаешь, что ты некрутой, раз не\nпобедил.\n<PAGE>\n<FACE_LAUGH>Но, по-моему, то, как ты борешься за свои\nцели несмотря ни на что, круче, чем кто-либо\nздесь!"
   },
   {
    "n": 170,
@@ -933,6 +968,13 @@
    "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНу вот и всё. Что сегодня случилось?\n<PAGE>\n<FACE_LOSS>Ты был сам не свой. Что-то не так?"
   },
   {
+   "n": 236,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_FASHION_WIN_VETERAN",
+   "key": "eb2a64a7",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПолучилось, <_____MYNAME_____>! Ты и правда в ладу с природой."
+  },
+  {
    "n": 237,
    "f": 2,
    "id": "MES_FREE_EVENT_TwinYounger_FASHION_WIN_BEGINNER",
@@ -959,6 +1001,13 @@
    "id": "MES_LOVER_FREE_EVENT_TwinYounger_FASHION_WIN_EXPERT",
    "key": "cfe1ddae",
    "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПолучилось! Все говорили, что ты крутой. И я\nполностью согласна!\n<PAGE>\n<FACE_LOSS>Но... мне как-то немного грустно. Может,\nпотому что хочу, чтобы ты был только мой?\n<PAGE>\n<FACE_LOVE>Наверное, я такая жадная, потому что мне не\nхватает <_____MYNAME_____> в жизни.\n<PAGE>\nОтныне нам придётся побольше нежничать.\nПрирода того требует!"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_FASHION_WIN_BEGINNER",
+   "key": "e8c5e366",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\nПолучилось, <_____MYNAME_____>. И я рада так, будто сама\nпобедила."
   },
   {
    "n": 246,

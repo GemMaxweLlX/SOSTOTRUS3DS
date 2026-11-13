@@ -163,6 +163,13 @@
    "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Хотя для твоего уровня\nэто не было ли слишком легко?"
   },
   {
+   "n": 42,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_PET_LOSE_LEGEND",
+   "key": "015485cb",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЯ прекрасно знаю, как ты трудишься каждый\nдень. Но трудолюбие ― далеко не всё.\n<PAGE>\nТы правда выложилась полностью? Не\nсдерживалась? Ни о чём не жалеешь?\n<PAGE>\nЕсли можешь уверенно ответить “да”...\n<PAGE>\n...значит, судьям нужно проверить зрение.\nПодам официальную жалобу и назначу всем\nосмотр у окулиста."
+  },
+  {
    "n": 45,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_Doctor_PET_LOSE_BEGINNER",
@@ -674,6 +681,20 @@
    "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! Ты был такой крутой,\nчто я влюбилась в тебя заново.\n<PAGE>\nТеперь бери ответственность за то, что я так к\nтебе отношусь!"
   },
   {
+   "n": 190,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_PET_WIN_VETERAN",
+   "key": "2feb7a60",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! <_____MYNAME_____>, когда вижу, как ты\nтам делаешь своё дело, понимаю, что и мне\nнужно усердно идти к своим целям.\n<PAGE>\nИ я их достигну! Каждый раз, глядя на тебя,\nчувствую страсть! ♪"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_PET_WIN_BEGINNER",
+   "key": "3690aa7f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>! Не верится, что ты победил! Ты\nтам был супер крутым. ♪"
+  },
+  {
    "n": 192,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_TeaGirl_PET_LOSE_LEGEND",
@@ -1106,6 +1127,13 @@
    "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_PET_LOSE_EXPERT",
    "key": "80616f08",
    "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЖаль, что не получилось победить. Но я знаю,\nв следующий раз ты будешь первым, <_____MYNAME_____>.\n<PAGE>\n<FACE_LAUGH>А даже если нет, я никогда не перестану в тебя\nверить, <_____MYNAME_____>.\n<PAGE>\nНикогда не забывай, что ты не один. Это очень\nважно."
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_PET_LOSE_VETERAN",
+   "key": "4d122b45",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_SAD>\r\nМне всё равно, какое у тебя место. Любое\nподойдёт. Мне не нравится, когда ты так\nгрустишь из-за проигрыша, <_____MYNAME_____>.\n<PAGE>\n<FACE_NORMAL>Я помогу тебе составить план, который точно\nприведёт к победе.\n<PAGE>\n<FACE_LAUGH>Давай вместе стремиться к вершине. Вдвоём мы\nбудем непобедимы!"
   },
   {
    "n": 293,

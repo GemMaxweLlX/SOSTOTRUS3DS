@@ -163,6 +163,13 @@
    "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Хотя для твоего уровня\nэто не было ли слишком легко?"
   },
   {
+   "n": 44,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_CROP_LOSE_LEGEND",
+   "key": "015485cb",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЯ прекрасно знаю, как ты трудишься каждый\nдень. Но трудолюбие ― далеко не всё.\n<PAGE>\nТы правда выложилась полностью? Не\nсдерживалась? Ни о чём не жалеешь?\n<PAGE>\nЕсли можешь уверенно ответить “да”...\n<PAGE>\n...значит, судьям нужно проверить зрение.\nПодам официальную жалобу и назначу всем\nосмотр у окулиста."
+  },
+  {
    "n": 47,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_Doctor_CROP_LOSE_BEGINNER",
@@ -674,11 +681,32 @@
    "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! Ты был такой крутой,\nчто я влюбилась в тебя заново.\n<PAGE>\nТеперь бери ответственность за то, что я так к\nтебе отношусь!"
   },
   {
+   "n": 202,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_CROP_WIN_VETERAN",
+   "key": "2feb7a60",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! <_____MYNAME_____>, когда вижу, как ты\nтам делаешь своё дело, понимаю, что и мне\nнужно усердно идти к своим целям.\n<PAGE>\nИ я их достигну! Каждый раз, глядя на тебя,\nчувствую страсть! ♪"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_CROP_WIN_BEGINNER",
+   "key": "3690aa7f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>! Не верится, что ты победил! Ты\nтам был супер крутым. ♪"
+  },
+  {
    "n": 204,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_TeaGirl_CROP_LOSE_LEGEND",
    "key": "34b6e648",
    "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nХорошая попытка, <_____MYNAME_____>. Хм? Расстроена ли я, что\nты не победил?\n<PAGE>\n<FACE_LAUGH>А-ха-ха! Конечно, нет! Я знаю, как ты всегда\nстараешься.\n<PAGE>\n<FACE_LOVE>И вообще, даже если не победил, ничего\nстрашного. Да хоть бы ты там был совсем не\nкрутым ― тоже ничего!\n<PAGE>\nЭто всё важные части тебя, и я люблю тебя\nтаким, какой ты есть!"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_CROP_LOSE_EXPERT",
+   "key": "91156040",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nМожет, ты думаешь, что ты некрутой, раз не\nпобедил.\n<PAGE>\n<FACE_LAUGH>Но, по-моему, то, как ты борешься за свои\nцели несмотря ни на что, круче, чем кто-либо\nздесь!"
   },
   {
    "n": 206,
@@ -1120,6 +1148,13 @@
    "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_CROP_LOSE_LEGEND",
    "key": "29c2ab41",
    "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, присядь.\n<PAGE>\n<FACE_LOSS>Эй, ты чего?\n<PAGE>\n<FACE_SAD>Не дразнись! Если не присядешь, я не дотянусь.\nНе смогу погладить тебя по голове.\n<PAGE>\n<FACE_ANGRY>Больше не буду тебя утешать, <_____MYNAME_____>. Вредина!\nИзвиняться уже поздно.\n<PAGE>\n<FACE_LOVE>М-м, попался.\n<PAGE>\nПоймала. Больше не дразни меня, ладно?"
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_CROP_LOSE_VETERAN",
+   "key": "4d122b45",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_SAD>\r\nМне всё равно, какое у тебя место. Любое\nподойдёт. Мне не нравится, когда ты так\nгрустишь из-за проигрыша, <_____MYNAME_____>.\n<PAGE>\n<FACE_NORMAL>Я помогу тебе составить план, который точно\nприведёт к победе.\n<PAGE>\n<FACE_LAUGH>Давай вместе стремиться к вершине. Вдвоём мы\nбудем непобедимы!"
   },
   {
    "n": 311,
