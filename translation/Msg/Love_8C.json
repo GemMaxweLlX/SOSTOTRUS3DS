@@ -9,11 +9,25 @@
    "ru": "(Как бы это сказать...?)"
   },
   {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_8C_PROPOSE_001",
+   "key": "8e1e827c",
+   "ru": "Хочу быть с тобой всегда!"
+  },
+  {
    "n": 10,
    "f": 2,
    "id": "MES_EV_LOVE_A_DOCTOR_8C_PROPOSE_000",
    "key": "1eb06b68",
    "ru": "(Как бы это сказать...?)"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_8C_PROPOSE_001",
+   "key": "8e1e827c",
+   "ru": "Хочу быть с тобой всегда!"
   },
   {
    "n": 19,
@@ -23,11 +37,74 @@
    "ru": "(Как бы это сказать...?)"
   },
   {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_8C_PROPOSE_001",
+   "key": "8e1e827c",
+   "ru": "Хочу быть с тобой всегда!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_8C_PROPOSE_005",
+   "key": "10dbac3b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R><_____MYNAME_____>, позволь мне сказать подробнее.\n<PAGE>\nОбещаю посвятить каждую минуту тому, чтобы\nты была счастлива. Я буду рядом и поддержу\nвсё, что ты делаешь.\n<PAGE>\nНет для меня большей чести, чем жениться на\nтебе.\n<PAGE>\nДавай жить вместе, смеяться вместе и любить\nдруг друга... пока смерть не разлучит нас."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_8C_REPORT_000",
+   "key": "dea98bcf",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nИтак, с кем первым поделимся радостной\nновостью? Уверен, дедушка с бабушкой будут в\nвосторге."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_8C_COMMENT_000",
+   "key": "0489f8ce",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТут, пожалуй, хорошо поговорить. Похоже, у\nтебя что-то важное, так что не хочу, чтобы\nнам мешали.\n<PAGE>\nТак что, <_____MYNAME_____>, что ты хотела мне сказать?"
+  },
+  {
    "n": 28,
    "f": 2,
    "id": "MES_EV_LOVE_J_APPRENTICE_8C_PROPOSE_000",
    "key": "1eb06b68",
    "ru": "(Как бы это сказать...?)"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_8C_PROPOSE_001",
+   "key": "8e1e827c",
+   "ru": "Хочу быть с тобой всегда!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_8C_PROPOSE_005",
+   "key": "032b236e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nА, и чтоб ты знала: взяв этот гребень, я его\nникогда не верну. Ладно?\n<PAGE>\nБуду носить его с собой везде. Это будет мой\nновый талисман на удачу!\n<PAGE>\nИ тебя я тоже никогда не отпущу.\nНикогда-никогда-НИКОГДА, ладно? Обещаю."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_8C_PROPOSE_006",
+   "key": "adf42f44",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Ты для меня особеннее всех и всего на свете. И\nвсегда будешь.\n<PAGE>\nЯ люблю тебя так сильно, что это почти\nсмешно. Больше всего на свете я хочу видеть\nтебя счастливой.\n<PAGE>\nТак что... если я ещё не ясно выразился... Хочу\nли я жениться? Ещё бы!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_8C_REPORT_000",
+   "key": "63e7558e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nОх, как я сейчас счастлив! Хочу рассказать\nвсему городу!\n<PAGE>\nХочу, чтобы все знали, что я женюсь на такой\nзамечательной девушке, как ты."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_8C_COMMENT_000",
+   "key": "8372202a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТут, кажется, можно спокойно поболтать, да?\n<PAGE>\nТак о чём ты хотела поговорить?"
   },
   {
    "n": 37,
@@ -37,11 +114,39 @@
    "ru": "(Как бы это сказать...?)"
   },
   {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_8C_PROPOSE_001",
+   "key": "8e1e827c",
+   "ru": "Хочу быть с тобой всегда!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_8C_PROPOSE_003",
+   "key": "5198a95e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы хочешь быть со мной всегда...?\n<PAGE>\nТак, э-э...\n<PAGE>\nВидимо, это ты так делаешь мне предложение,\nда?"
+  },
+  {
    "n": 46,
    "f": 2,
    "id": "MES_EV_LOVE_A_FLORIST_8C_PROPOSE_000",
    "key": "1eb06b68",
    "ru": "(Как бы это сказать...?)"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_8C_PROPOSE_001",
+   "key": "8e1e827c",
+   "ru": "Хочу быть с тобой всегда!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_8C_REPORT_000",
+   "key": "1e5e07ba",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_HEART_R>Наверное, надо рассказать всем радостную\nновость, да?\n<PAGE>\nОх! Не терпится сообщить всем друзьям, что\nмы женимся! <RED>∀</RED>"
   },
   {
    "n": 55,
@@ -51,11 +156,39 @@
    "ru": "(Как бы это сказать...?)"
   },
   {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_8C_PROPOSE_001",
+   "key": "8e1e827c",
+   "ru": "Хочу быть с тобой всегда!"
+  },
+  {
    "n": 64,
    "f": 2,
    "id": "MES_EV_LOVE_J_TEACHER_8C_PROPOSE_000",
    "key": "1eb06b68",
    "ru": "(Как бы это сказать...?)"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_8C_PROPOSE_001",
+   "key": "8e1e827c",
+   "ru": "Хочу быть с тобой всегда!"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_8C_REPORT_000",
+   "key": "c8aa68cb",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nНам следует сообщить о нашем решении\nжителям, не так ли?\n<PAGE>\nПойдём? Хотя почему-то это волнует меня\nкуда сильнее, чем само предложение..."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_8C_COMMENT_000",
+   "key": "8649b06d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЭй, так в чём дело? Давай, выкладывай."
   },
   {
    "n": 73,
@@ -65,11 +198,46 @@
    "ru": "(Как бы это сказать...?)"
   },
   {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_8C_PROPOSE_001",
+   "key": "8e1e827c",
+   "ru": "Хочу быть с тобой всегда!"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_8C_REPORT_000",
+   "key": "a29bf4e1",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nАх да. Надо рассказать бабуле и Силуке.\n<PAGE>\nИ твоему дяде тоже.\n<PAGE>\nНас ждёт большая церемония, и нам\nпонадобится помощь всех, чтобы\nподготовиться!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_8C_COMMENT_000",
+   "key": "e59ff2da",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНу... Что ты хотел сказать?"
+  },
+  {
    "n": 82,
    "f": 2,
    "id": "MES_EV_LOVE_S_TWINYOUNGER_8C_PROPOSE_000",
    "key": "1eb06b68",
    "ru": "(Как бы это сказать...?)"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_8C_PROPOSE_001",
+   "key": "8e1e827c",
+   "ru": "Хочу быть с тобой всегда!"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_8C_PROPOSE_003",
+   "key": "dafe7b3b",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nВсегда...?\n<PAGE>\nТо есть... ты хочешь по-настоящему стать\nмоей оханой?"
   }
  ]
 }
