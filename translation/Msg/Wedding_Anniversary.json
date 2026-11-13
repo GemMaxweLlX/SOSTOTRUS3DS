@@ -1,0 +1,677 @@
+{
+ "file": "Wedding_Anniversary",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_Postman",
+   "key": "e05cedd7",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>. Я тебя ждал.\n<PAGE>\nСегодня ведь годовщина нашей свадьбы? В\nчесть этого я приготовил огромный ужин.\nДавай поедим вместе.\n<PAGE>\nИди сюда, скорее."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_Postman",
+   "key": "4d6b4f35",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nРаз сегодня годовщина, было бы жалко не\nустроить пир на весь мир.\n<PAGE>\nЕшь сколько хочешь. Налетаем."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_Postman",
+   "key": "8114567e",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME> уже крепко спит. Видно, после сытного ужина\nсморил сон."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_Postman",
+   "key": "a925b560",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nКак хорошо, что ты так славно поела, <_____MYNAME_____>.\n<PAGE>\nБыло так мило, когда у тебя вокруг рта был\nсоус, а глаза так и смеялись.\n<PAGE>\nХм... Не хочешь ненадолго выйти? Сегодня\nведь особый день."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_Postman",
+   "key": "8ad05ffb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nОтлично. Тогда пойдём."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_Postman",
+   "key": "bdd5dee1",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nСколько бы я сюда ни приходил, мне никогда\nне надоедает. Звёзды будто совсем рядом.\nПотрясающий вид.\n<PAGE>\nС тех пор как я женился на тебе, <_____MYNAME_____>, каждый день\n― праздник.\n<PAGE>\nНе то чтобы раньше мне не было весело. Но...\n<PAGE>\n<FACE_LAUGH>...я и не думал, что жить под одной крышей с\nлюбимым человеком так чудесно."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_Postman",
+   "key": "2dc0bfef",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Я люблю тебя, <_____MYNAME_____>.\n<PAGE>\nЗа ещё много таких годовщин, как сегодня.\n<PAGE>\nХочу и дальше беречь этот особый день.\n<PAGE>\nИ с каждой годовщиной моя любовь к тебе\nбудет становиться всё глубже, <_____MYNAME_____>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_Doctor",
+   "key": "165c0901",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>. Я тебя ждал.\n<PAGE>\n<FACE_LAUGH>Сегодня ведь годовщина нашей свадьбы. Я\nприготовил пир! Иди мой руки и садись."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_Doctor",
+   "key": "ed5a87e4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nЧересчур роскошно? Да, пожалуй. Я старался,\nчтобы ужин был достоин нашей годовщины.\n<PAGE>\n<FACE_NORMAL>...Хотя, если подумать, возможно, я немного\nперестарался. Как бы то ни было, надеюсь,\nтебе понравится.\n<PAGE>\n<FACE_LAUGH>Ну же, ешь, пока не остыло. Приступим."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_Doctor",
+   "key": "cc566304",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПохоже, от волнения у <CHILD_NAME> совсем не осталось сил.\n<PAGE>\nЕдва глаза закрылись ― сразу сон."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_Doctor",
+   "key": "c78cbc03",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nСегодня был отличный день. Рад, что тебе так\nпонравилась еда.\n<PAGE>\n<FACE_LOVE>...Кхм. Кстати, <_____MYNAME_____>. У тебя есть планы после\nужина?\n<PAGE>\nЕсли нет, я хотел пригласить тебя на\nсвидание... Что скажешь?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_Doctor",
+   "key": "92e53d1b",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПравда? Превосходно. Пойдём, пока не стало\nслишком поздно. Идём."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_Doctor",
+   "key": "78270fee",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n...Какое прекрасное звёздное небо.\n<PAGE>\n<FACE_NORMAL>До встречи с тобой я никогда так не смотрел на\nзвёзды и не говорил, как они красивы.\n<PAGE>\nВстреча с тобой, любовь, свадьба... За то\nвремя, что мы вместе, ты меня изменила.\n<PAGE>\n<FACE_LAUGH>И я... Тот новый я, которого ты создала...\n<PAGE>\nТот, кто так глубоко тебя любит и научился\nчувствовать красоту вокруг? Я пришёл к\nвыводу, что он не так уж плох."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_Doctor",
+   "key": "c45bf0ca",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PALPITATION_R><_____MYNAME_____>, словами не передать, как я благодарен, что\nты вышла за меня. Благодаря тебе каждый\nдень ― благословение.\n<PAGE>\nПоэтому я хочу, чтобы и ты чувствовала ту же\nрадость... Нет, хочу, чтобы ты чувствовала её\nещё сильнее, чем я.\n<PAGE>\nСделаю всё, что в моих силах, ради этого.\nПоэтому надеюсь, ты останешься рядом такой,\nкакая ты есть.\n<PAGE>\n...<_____MYNAME_____>, я люблю тебя."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_Chaser",
+   "key": "a98cb51e",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>. Устала, наверное, после\nработы.\n<PAGE>\nРаз сегодня годовщина нашей свадьбы, я\nприготовил для нас пир.\n<PAGE>\nНу же, иди сюда."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_Chaser",
+   "key": "cd56939e",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЭто ведь особый день и для тебя, и для меня. Я\nвложил в него всю душу.\n<PAGE>\n<FACE_LAUGH>Еды хватит и на добавку, так что давай\nпоедим, пока не остыло. Приятного аппетита."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_Chaser",
+   "key": "bc5e2d9a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПохоже, <CHILD_NAME> крепко спит.\n<PAGE>\nПомощь с готовкой, да ещё столько волнения.\nНеудивительно, что сил не осталось."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_Chaser",
+   "key": "ea3b76b0",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nСегодня был чудесный вечер.\n<PAGE>\nЯ в восторге, что тебе понравилась еда.\n<PAGE>\n<FACE_NORMAL>Но как подумаю, что этот чудесный вечер\nподходит к концу, становится немного грустно.\n<PAGE>\n<FACE_LAUGH>Ах, как насчёт такого? Если ты не против,\nможет, выйдем ненадолго?\n<PAGE>\nПродлим этот вечер ещё чуть-чуть."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_Chaser",
+   "key": "c5fbc53b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, отлично. Пойдём."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_Chaser",
+   "key": "54ded08c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n...Как красиво.\n<PAGE>\nЭто одно из моих любимых мест с самого\nдетства.\n<PAGE>\nКогда я хорошо себя чувствовал, приходил\nсюда на весь день и просто любовался\nдеревьями и цветами.\n<PAGE>\n<FACE_LAUGH>Но теперь здесь есть то, чем мне любоваться\nхочется больше.\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_R>...Конечно, я о тебе, <_____MYNAME_____>."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_Chaser",
+   "key": "2d219dd8",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Твоя милая улыбка прекраснее любого цветка.\n<PAGE>\nКогда любимая женщина так часто мне\nулыбается... Я самый счастливый муж на свете.\n<PAGE>\n<_____MYNAME_____>, я люблю тебя больше всего и всех на свете.\n<PAGE>\nПозволь и дальше быть рядом с твоей\nулыбкой."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_Apprentice",
+   "key": "d0a04b35",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>! Я тебя заждался!\n<PAGE>\nСегодня годовщина нашей свадьбы, так что я\nвыложился и приготовил огромный ужин!\n<PAGE>\nНу же, иди сюда."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_Apprentice",
+   "key": "729d74ec",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nПока готовил, всё вспоминал нашу свадьбу и,\nэм... Ну...\n<PAGE>\n<FACE_LOVE>И меня так понесло-о-о! В общем, наготовил\nлишнего. Бери добавку!\n<PAGE>\n<FACE_LAUGH>Налетаем!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_Apprentice",
+   "key": "2e4b00f5",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nПохоже, <CHILD_NAME> совсем без сил. Крепко спит."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_Apprentice",
+   "key": "8fccb413",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nРад, что тебе понравилось. Не зря старался.\n<PAGE>\n<FACE_NORMAL>...Ах да! Эй, <_____MYNAME_____>. Пойдём погуляем!\n<PAGE>\n<FACE_LAUGH>Жалко же просто лечь спать, правда? Такой\nдень бывает раз в году!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_Apprentice",
+   "key": "7d7a695a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nКласс! Пойдём!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_Apprentice",
+   "key": "c72cba31",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗдесь правда спокойно, да?\n<PAGE>\n...Раньше я приходил сюда каждый раз, когда\nошибался и падал духом.\n<PAGE>\nА теперь почти не прихожу сюда за этим. Ведь\nты рядом.\n<PAGE>\nКак бы тяжело ни было, я знаю: приду домой,\nа ты встретишь меня с улыбкой.\n<PAGE>\nТы меня поддерживаешь. Поэтому мне незачем\nприходить сюда и хандрить."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_Apprentice",
+   "key": "221a26fd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Теперь моё сердце держит не это место... А\nдом, где мы живём.\n<PAGE>\nТак что и ты не бойся на меня опереться, <_____MYNAME_____>!\n<PAGE>\nХочу быть для тебя таким же человеком.\n<PAGE>\n<FACE_LAUGH>Хе-хе-хе. <_____MYNAME_____>, я люблю тебя! Сейчас и всегда!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_Craftman",
+   "key": "90f7809e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>. Я ждал!\n<PAGE>\nВ честь годовщины свадьбы приготовил\nбольшой ужин.\n<PAGE>\nИди помой руки и возвращайся."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_Craftman",
+   "key": "a20c19de",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПока готовил, вспомнил кое-что о нашей\nсвадьбе.\n<PAGE>\nНу, знаешь, как ты тогда...\n<PAGE>\n<FACE_LAUGH>Ха-ха, ты права. Прости. Обещал же больше\nне вспоминать.\n<PAGE>\nЛадно, может, начнём? Приятного аппетита!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_Craftman",
+   "key": "461ac46e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПохоже, <CHILD_NAME> крепко спит. Неудивительно, после\nтакого волнения."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_Craftman",
+   "key": "f5cedc67",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nСегодня я так много видел твою широкую\nулыбку, <_____MYNAME_____>. Отличный был день.\n<PAGE>\nЖалко было бы вот так всё закончить, правда?\n<PAGE>\n<FACE_LOSS>...Прости, не стоило так говорить.\n<PAGE>\nЯ имею в виду, не хочу, чтобы этот особый\nвечер с тобой кончался.\n<PAGE>\n<FACE_LAUGH>...Так что, может, выйдем ненадолго, <_____MYNAME_____>? Пойдём\nна свидание!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_Craftman",
+   "key": "09043b26",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nОтлично. Раз решили, пойдём, пока не поздно."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_Craftman",
+   "key": "fb52810b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКакой вид. Я всегда любил океан...\n<PAGE>\n<FACE_LAUGH>А когда ты рядом, он кажется ещё лучше.\n<PAGE>\nНет, дело не только в виде. Неважно, на что\nмы смотрим. Если вместе с тобой, всё будто\nсияет.\n<PAGE>\nС тобой просто всё правильно. Я всегда это\nзнал, но после свадьбы прочувствовал\nпо-настоящему."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_Craftman",
+   "key": "5fc173c7",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n...Что бы ни случилось дальше, вряд ли я\nкогда-нибудь смогу тебя отпустить.\n<PAGE>\n<FACE_LOSS>Помнишь, я говорил, что, если будем жить\nвместе, я, наверное, не буду таким\nприлипчивым?\n<PAGE>\nНаивно было. Чем лучше я тебя узнаю, тем\nбольше хочу, чтобы ты была только моей.\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_LOVE><_____MYNAME_____>, я люблю тебя.\n<PAGE>\nЗнаю, я бываю тем ещё растяпой, но обещаю\nделать тебя счастливой всю жизнь.\n<PAGE>\n<FACE_LAUGH>...Теперь тебе от меня никуда не деться!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_Florist",
+   "key": "f9cd835d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! С возвращением. Устал, наверное, после\nработы.\n<PAGE>\nПомнишь? Сегодня годовщина нашей свадьбы!\n♪\n<PAGE>\nПоэтому я приготовила большой ужин. Иди\nсюда."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_Florist",
+   "key": "cfdc8a0a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЭто особый день для нас обоих, так что я\nвыложилась на 120%. ♪\n<PAGE>\nЕшь сколько хочешь, ладно? Приятного\nаппетита!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_Florist",
+   "key": "adf5c6e9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, у <CHILD_NAME> от волнения совсем не осталось сил.\n<PAGE>\nКрепко спит."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_Florist",
+   "key": "754c9aae",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nКак я рада, что тебе так понравилась моя\nстряпня.\n<PAGE>\nКогда ты берёшь добавку, я чувствую, что\nготовила не зря.\n<PAGE>\n...<_____MYNAME_____>, не выйдешь со мной на улицу?\n<PAGE>\nУ нас нечасто бывает такая возможность..."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_Florist",
+   "key": "3a520d8f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЯ так рада!\n<PAGE>\nТогда пойдём, пока не стало поздно."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_Florist",
+   "key": "22c18f65",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nСегодня такие красивые звёзды. Здесь\nлюбоваться ими как-то по-особенному.\n<PAGE>\nКаждый день с тех пор, как я вышла за тебя,\nпотрясающий.\n<PAGE>\nКак твоя жена, я первой и последней вижу твоё\nлицо каждый день.\n<PAGE>\nБлагодарю богиню за то, что встретила тебя, <_____MYNAME_____>.\n<PAGE>\n...Это было слишком?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_Florist",
+   "key": "8fe1c8ad",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Давай снова отметим годовщину вместе в\nследующем году, и через год, и ещё через год.\nВсегда.\n<PAGE>\nЯ никогда не забуду день нашей свадьбы. Он\nслишком для меня важен.\n<PAGE>\nЯ люблю тебя, <_____MYNAME_____>. С нетерпением жду, что\nпринесёт нам вся жизнь."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_TeaGirl",
+   "key": "52275a4b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>. Хорошо потрудился!\n<PAGE>\nСегодня ведь годовщина нашей свадьбы?\n<PAGE>\nЯ наготовила кучу еды. Ну же! Скорее, скорее!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_TeaGirl",
+   "key": "db5e834f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЭто особый день для нас.\n<PAGE>\nРешила, что хоть сегодня стоит поесть\nчего-нибудь вкусного.\n<PAGE>\nНаготовила много, так что бери сколько\nхочешь! Давай, налетай!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_TeaGirl",
+   "key": "c4169a6e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУ <CHILD_NAME> был усталый вид, так что я уложила\nмалыша спать.\n<PAGE>\nСтолько волнения и столько еды,\nнеудивительно, что сморило."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_TeaGirl",
+   "key": "52bb357c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЯ думала, что наготовила лишнего, а ты всё\nсъел, <_____MYNAME_____>.\n<PAGE>\nТы всегда ешь мою стряпню так, будто это\nсамое вкусное на свете. Ради такого и стоит\nготовить.\n<PAGE>\nКстати, <_____MYNAME_____>... хочешь ненадолго выйти?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_TeaGirl",
+   "key": "2b057c65",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПравда? Тогда пошли!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_TeaGirl",
+   "key": "437877c5",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЗдесь всегда красиво. В каждый сезон видишь\nчто-то новое. Никогда не надоедает.\n<PAGE>\nСегодня мне хотелось прийти сюда с тобой.\n<PAGE>\nДля других сегодня ничего не значит, но...\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_R>...для нас этот день особенный.\n<PAGE>\nДень, когда мы встретились, начали\nвстречаться и поженились.\n<PAGE>\nЯ так рада, что у нас есть особый день помимо\nдней рождения."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_TeaGirl",
+   "key": "e90ef2ec",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Я всё время думаю, как счастлива жить с тобой.\n<PAGE>\nНаверное... это и значит, когда любимый\nчеловек рядом.\n<PAGE>\n<FACE_LAUGH><WINDOW_DEFAULT><_____MYNAME_____>, я в твоих руках!\n<PAGE>\nДавай и в следующем году отметим\nгодовщину!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_Teacher",
+   "key": "75c2582f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>. Ты, наверное, совсем устал\nот трудов.\n<PAGE>\nРаз сегодня годовщина нашей свадьбы, я\nприготовила большой ужин. Проходи сюда."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_Teacher",
+   "key": "74ac0217",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n...Кажется, я приготовила слишком много.\n<PAGE>\nПока готовила, вспомнила нашу свадьбу и...\n<PAGE>\nВ общем, ешь, пока не остыло. Приятного\nаппетита."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_Teacher",
+   "key": "12b796ee",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME> уже крепко спит. Наверное, от волнения сил не\nосталось."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_Teacher",
+   "key": "1d0c9f8b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nТы всегда ешь мою стряпню так, будто ничего\nвкуснее в жизни не пробовал.\n<PAGE>\nПросто смотреть, как тебе нравится, ― уже\nприятно. Ради этого стоит трудиться.\n<PAGE>\n<FACE_LOVE>...Кстати, <_____MYNAME_____>.\n<PAGE>\nЕсли ты не против, не... прогуляешься со мной?"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_Teacher",
+   "key": "8e8cef20",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n...Я рада. Пойдём?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_Teacher",
+   "key": "a5b74a33",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nГоворят, эта сакура ― священное дерево\nИнари.\n<PAGE>\nГоворят, святилище Инари построено из частей\nэтого дерева.\n<PAGE>\n<FACE_LAUGH>Мне, которой с мужчинами всегда было\nнепросто, пришлось преодолеть много преград,\nчтобы быть с тобой вот так.\n<PAGE>\nКогда я впервые осознала свои чувства, я\nрастерялась... Мне не с кем было поговорить, и\nя...\n<PAGE>\nПриходила к святилищу Инари и выплёскивала\nвсё, что чувствовала. Теперь это хорошие\nвоспоминания."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_Teacher",
+   "key": "0710606c",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nНо я больше не теряюсь и не путаюсь.\n<PAGE>\nМне нечего скрывать... Я поистине счастлива.\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_LOVE>Теперь у меня есть ты, кто принимает чувства\nмоего сердца.\n<PAGE>\n...Я обожаю тебя всем сердцем, <_____MYNAME_____>.\n<PAGE>\n<FACE_LAUGH>Опыта у меня немного, но я на тебя\nрассчитываю."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_TwinOlder",
+   "key": "0df4284e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nС возвращением. И спасибо за труды.\n<PAGE>\nПомнишь, какой сегодня день? Да, годовщина\nнашей свадьбы.\n<PAGE>\nЯ приготовила большой ужин, так что садись.\n♪"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_TwinOlder",
+   "key": "284081aa",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nРаз сегодня особый день, я решила, что\nменьшим не обойтись.\n<PAGE>\nХватит и на добавку. Ну же, ешь, пока не\nостыло! Приятного аппетита."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_TwinOlder",
+   "key": "6d449d4f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nОх, <CHILD_NAME>. Пускает слюнки во сне.\n<PAGE>\n<FACE_LAUGH>Ха-ха, праздника тут ждали не меньше всех,\nвот сон и сморил."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_TwinOlder",
+   "key": "6df51116",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЯ рада, что тебе понравилась моя стряпня.\n<PAGE>\n<FACE_LOVE>...Эй, <_____MYNAME_____>. Э-эм, если ты... не против, может,\nвыйдем ненадолго?\n<PAGE>\nНу то есть... Эм... После свадьбы у нас толком\nне было такой возможности... Понимаешь?\n<PAGE>\n...Ах, да что ж такое! Я приглашаю тебя на\nсвидание!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_TwinOlder",
+   "key": "d43f16b4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n...Как всегда, в некоторых вещах ты такой\nнепонятливый. Пойдём."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_TwinOlder",
+   "key": "3efddfb2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nОкеан... Красиво. Ха-ха, от шума волн так и\nхочется танцевать.\n<PAGE>\n...Но танцевать не буду. Не сейчас.\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_R>...Если я сейчас затанцую, то потрачу время,\nкогда могу смотреть на тебя.\n<PAGE>\n...Н-ну, если ты правда хочешь посмотреть,\nкак я танцую, для тебя могу сделать\nисключение."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_TwinOlder",
+   "key": "76bf6007",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PALPITATION_R>...Да и не обязательно танец.\n<PAGE>\nЕсли хочешь, чтобы я что-то сделала, просто\nскажи ― и сделаю.\n<PAGE>\nТы всегда с улыбкой слушаешь мои капризы.\n<PAGE>\nВот и я хочу так же для тебя. Я всё время об\nэтом думаю.\n<PAGE>\n<FACE_LAUGH>Ч-что за удивлённое лицо? Разве не ясно, что я\nтак думаю, потому что люблю тебя?\n...Дурачок."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_TwinYounger",
+   "key": "5dd7c1f3",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>... Я ждала. С возвращением. Устал, наверное,\nпосле работы.\n<PAGE>\nСегодня годовщина нашей свадьбы, так что...\nхотелось отпраздновать. Я приготовила много\nеды.\n<PAGE>\nСкорее мой руки и иди сюда."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_TwinYounger",
+   "key": "b4ee8fab",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПока готовила, вспоминала нашу свадьбу... и\nприготовила слишком много.\n<PAGE>\n<FACE_LAUGH>Хватит и на добавку... Приятного аппетита."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_TwinYounger",
+   "key": "6210ff98",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>... крепко спит. Наверное, сил не осталось.\nСтолько волнения, пока мы готовили."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_TwinYounger",
+   "key": "5515701a",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЯ приготовила слишком много... а ты всё съел.\nМахало, <_____MYNAME_____>.\n<PAGE>\nВечер был чудесный... Немного грустно просто\nдать ему кончиться...\n<PAGE>\n<FACE_LOVE>Ой! Придумала. <_____MYNAME_____>... Пойдём на свидание."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_TwinYounger",
+   "key": "7cbee07a",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nХорошо. Тогда... пойдём, пока не поздно."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_TwinYounger",
+   "key": "9c2b02b2",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМорской ветер приятный... Здесь вспоминается\nто утро.\n<PAGE>\nДа, утро, когда мы вместе видели зелёный луч,\n<_____MYNAME_____>.\n<PAGE>\nМожет, я так счастлива сейчас благодаря тому\nзелёному лучу..."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_TwinYounger",
+   "key": "339121e3",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...Никогда в жизни я ни к кому, кроме Илуки,\nне была так привязана.\n<PAGE>\nВо сне и наяву я думала только о тебе, <_____MYNAME_____>... И это\nне изменилось.\n<PAGE>\n<FACE_LOVE>Но теперь мне не нужно столько о тебе думать,\nведь ты прямо передо мной. Я очень счастлива.\n<PAGE>\nЕсли и ты чувствуешь то же, <_____MYNAME_____>, большего счастья\nмне не нужно... Я люблю тебя."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_Inari",
+   "key": "91a5100a",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>. Как долго тянулось\nожидание!\n<PAGE>\nСегодня ведь годовщина того дня, когда мы\nобменялись клятвами?\n<PAGE>\nСвятилище пока под присмотром наставника.\nХочется провести этот особый вечер с тобой.\n<PAGE>\nПраздничный ужин, достойный такого дня,\nготов.\n<PAGE>\nИди сюда, садись! ♪"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_Inari",
+   "key": "9b519278",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nВся душа вложена в него, пока вспоминался тот\nособый день.\n<PAGE>\n...О чём именно вспоминалось, спрашиваешь?\n<PAGE>\nО том о сём. Долгая история, так что расскажу\nза едой.\n<PAGE>\nПриятного аппетита!"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_Inari",
+   "key": "a6482117",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n..."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_Inari",
+   "key": "1d6a64ed",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nВремя за весельем и правда летит. Больно\nговорить, но, пожалуй, мне пора в святилище.\n<PAGE>\n...Знаю, что надо, но так не хочется уходить.\n<PAGE>\nБудь мы в Цуюкусе, могли бы проводить\nвместе сколько угодно времени...\n<PAGE>\nНо не могу же я из-за своей прихоти\nзаставлять тебя ехать в такую даль."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_Inari",
+   "key": "a20fd714",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LOVE>\r\nТы тоже хочешь побыть со мной подольше...?\n<PAGE>\nХм, тогда приму предложение и задержу тебя\nещё ненадолго."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_Inari",
+   "key": "1c888255",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЭто место полно особых воспоминаний для нас\nс тобой.\n<PAGE>\nИменно здесь мы наконец открыли друг другу\nсвои чувства.\n<PAGE>\nКогда с меня только сняли печать, и\nпредставить не получалось, что однажды мы\nобменяемся клятвами...\n<PAGE>\nТакую встречу вы, люди, называете судьбой,\nда?"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_Inari",
+   "key": "59299498",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n...По сравнению с другими парами, времени\nвместе у нас куда меньше.\n<PAGE>\nНо именно потому, что его меньше, каждое\nмгновение, каждое слово так много значат.\n<PAGE>\nМне никогда не быть рядом с тобой столько,\nсколько другим, но...\n<PAGE>\n<FACE_LAUGH>Каждое твоё слово, твои чувства, всё в тебе...\n<PAGE>\nЯ люблю всё это больше всех на свете.\n<PAGE>\nПросто помни это... Я люблю тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_Wantatan",
+   "key": "d2db00be",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nС возвращением, <_____MYNAME_____>.\n<PAGE>\n<FACE_NORMAL>Угадаешь, какой сегодня особый день? Верно,\nгодовщина нашей свадьбы.\n<PAGE>\nТакой день бывает раз в году, вот и захотелось\nотпраздновать. Я сварганил большой пир.\n<PAGE>\nПомой руки, и давай наслаждаться вместе."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_Wantatan",
+   "key": "eaa06ac8",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПока готовил, всё вспоминал тот день. Не успел\nоглянуться ― наготовил слишком много. Не\nуверен, что мы всё осилим.\n<PAGE>\n<FACE_SPECIAL>Даже если наедимся до отвала, останется на\nнесколько дней, так что налетаем!"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_03_Wantatan",
+   "key": "87b664e2",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\n..."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_Wantatan",
+   "key": "0eb7734d",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nБоялся, что наготовил слишком много, а мы\nпочти дочиста вылизали тарелки.\n<PAGE>\nТебе явно понравилось угощение.\n<PAGE>\nОпыта в готовке у меня немного, так что хочу\nсовершенствоваться в кулинарии.\n<PAGE>\n<FACE_SPECIAL>Ах... какой чудесный вечер. Вот бы он длился\nвечно.\n<PAGE>\n<FACE_NORMAL>Кстати, после такого ужина хочется\nпрогуляться. А тебе?"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_Wantatan",
+   "key": "55e94b71",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nХорошо. Тогда пойдём, пока не поздно."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_Wantatan",
+   "key": "47458314",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nА-ах, ветерок приятный.\n<PAGE>\nДля меня это особенный день. День, когда вся\nмоя жизнь изменилась.\n<PAGE>\n<FACE_NORMAL>После десятилетий в облике собачьего костюма\nя наконец снова стал человеком.\n<PAGE>\nА потом мне впервые в жизни сделали\nпредложение, И я женился. Всё в один день!\n<PAGE>\nЕсли поставить всё это рядом, правда\nудивительно, да? Никогда не знаешь, что\nприготовила жизнь."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_Wantatan",
+   "key": "e1b95087",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nДаже когда мы с тобой состаримся и\nпоседеем...\n<PAGE>\n...думаю, тот день я буду помнить как\nвчерашний.\n<PAGE>\nА сегодня мне довольно просто смотреть на\nокеан рядом с тобой.\n<PAGE>\nДля меня нет радости больше. Я люблю тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_00_Presenter",
+   "key": "d0412d4c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>.\n<PAGE>\nТы ведь помнишь, что сегодня годовщина\nнашей свадьбы? Так вот, я приготовила\nбольшой пир в честь праздника! ♪"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_01_Presenter",
+   "key": "a8b71858",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nНаверное, я приготовила слишком много. Так\nувлеклась, думая, как весело готовить\nпраздничный ужин, что не успела оглянуться...\n<PAGE>\nНо неважно! Наверняка всё вкусно, так что ешь\nсколько хочешь, ладно?\n<PAGE>\nНалетаем! ♪"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_04_Presenter",
+   "key": "d2c2dbf1",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nНу как еда? Вкусно? Здорово. Не зря я так\nстаралась.\n<PAGE>\nЭм... <_____MYNAME_____>?\n<PAGE>\nКак самочувствие? Готов к маленькому\nвнезапному свиданию?\n<PAGE>\nМы нечасто гуляем вместе. Как насчёт?"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_05_Presenter",
+   "key": "c40032e6",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOVE>\r\nОтлично. Пойдём."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_06_Presenter",
+   "key": "c06a8875",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЗдесь я вспоминаю день нашей свадьбы.\n<PAGE>\nИногда до сих пор кажется, что всё это было\nкаким-то сном.\n<PAGE>\nНу то есть внезапный полёт на воздушном шаре,\nидеальное платье...\n<PAGE>\n...и главное ― любимый человек рядом,\nготовый пожениться прямо здесь и сейчас...\n<PAGE>\nЕсли оглянуться, это кажется немного\nневероятным, как из фэнтези-романа."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_07_Presenter",
+   "key": "bdcf2812",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nНо, проводя с тобой каждый день вот так, я\nпонимаю...\n<PAGE>\nДаже если это БЫЛ сон, клятвы, которыми мы\nобменялись, настоящие.\n<PAGE>\nИ благодаря им теперь мы вместе на всю\nжизнь.\n<PAGE>\nЯ до сих пор не понимаю, что случилось в тот\nдень, но загадка добавляет пикантности.\n<PAGE>\n<_____MYNAME_____>, давай и в следующем году отметим\nгодовщину вот так.\n<PAGE>\nХочу проводить этот драгоценный день с тобой\nвсю жизнь."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_02_Child_Boy",
+   "key": "cae4ff92",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nПапа, мама, поздравляю!\n<PAGE>\nБудьте всегда моими добрыми папой и мамой.\n<PAGE>\nЕда выглядит супер-вкусно! Давайте есть!"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_02_Child_Girl",
+   "key": "cae4ff92",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nПапа, мама, поздравляю!\n<PAGE>\nБудьте всегда моими добрыми папой и мамой.\n<PAGE>\nЕда выглядит супер-вкусно! Давайте есть!"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_08",
+   "key": "45653aba",
+   "ru": "(<CHARANAME0>, я люблю тебя сейчас и всегда. Отпразднуем\nснова в следующем году!)"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_08_Inari",
+   "key": "36e3aa2b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nАх, вспомнилось. Хочу кое-что показать.\nПодожди здесь, пожалуйста."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_09_Inari",
+   "key": "dfc6ad2c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_WEDDING>\r\nНу, как тебе мой новый наряд? Хо-хо, просто\nшучу.\n<PAGE>\nНа нашей свадьбе на мне было обычное\nодеяние лисьего духа.\n<PAGE>\nБожества не различают парадную и\nповседневную одежду, так что тогда это\nпрошло незамеченным...\n<PAGE>\nНо на тебе ведь был особый свадебный наряд\nсмертных, не так ли?\n<PAGE>\nХотелось и тебе показаться в таком\nторжественном наряде.\n<PAGE>\nПришлось присмотреться к одеждам смертных\nи преобразить наряд для этого особого случая.\n<PAGE>\nН-ну как? Мне идёт?\n<PAGE>\nИдёт? Вот... как. Приятно слышать, что\nнравится.\n<PAGE>\nВпервые так внимательно присматриваюсь к\nпарадной моде смертных. Неплохой опыт.\n<PAGE>\nОтныне на нашу годовщину буду одеваться так.\n<PAGE>\nХочу и в следующем году провести годовщину\nс тобой, <_____MYNAME_____>. Ты не против?"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_WEDDING_ANNIVERSARY_10_Inari",
+   "key": "e146080b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_WEDDING>\r\nНу как? Мне идёт?\n<PAGE>\nКак и в прошлом году, к этому случаю особый\nторжественный наряд.\n<PAGE>\nНемного неловко, но, вспоминая нашу свадьбу,\nчувствую, как сжимается сердце.\n<PAGE>\nУдивительно, но этот ежегодный обычай мне\nвесьма по душе.\n<PAGE>\n<_____MYNAME_____>, давай проводить дни вместе, насколько это\nвозможно."
+  }
+ ]
+}
