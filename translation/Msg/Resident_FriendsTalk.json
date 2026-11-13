@@ -2,6 +2,216 @@
  "file": "Resident_FriendsTalk",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_FIRST_00",
+   "key": "64b7c690",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>. Привет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_FIRST_01",
+   "key": "fdfc2f0e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЯ тут случайно столкнулась с этими двумя, вот\nмы и болтаем!\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Мы ведь нечасто выбираемся из своих городов,\nверно?\n<PAGE>\nТак что когда встречаемся, есть о чём\nпоговорить."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_FIRST_02",
+   "key": "5312c42a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nЧестно говоря, мне бы очень хотелось устроить\nпосиделки со всеми девушками нашего\nвозраста, но...\n<PAGE>\n...так трудно найти подходящее место. Если\nсобраться в лавке или ещё где, будем только\nмешать другим посетителям."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_FIRST_03",
+   "key": "3f263a24",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nМожно собраться у тебя, <_____MYNAME_____>? Ты уверена?\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>А ты заботливее, чем кажешься! ♪"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_FIRST_04",
+   "key": "3aa3ce13",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nБатюшки, если ты не против, <_____MYNAME_____>, мы с радостью\nпримем твоё любезное предложение.\n<PAGE>\nА мы взамен принесём напитки и закуски?\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Ага, звучит отлично! Попрошу папу что-нибудь\nприготовить! Ой, и надо сказать Касуми!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Тогда я схожу за Силукой. И принесу\nчто-нибудь из кафе.\n<PAGE>\n<_____MYNAME_____>, освободи на столе место для всего, что мы\nпринесём."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_FIRST_05",
+   "key": "8199c68b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУра-а-а! Не терпится начать вечеринку! До\nскорого, <_____MYNAME_____>!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_SECOND_00",
+   "key": "7981baac",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>. Как раз вовремя.\n<PAGE>\nМы как раз собирались к тебе."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_SECOND_01",
+   "key": "daa6c70e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nМы втроём тут столкнулись и заговорили о\nтом, как здорово было бы снова собраться у\nтебя.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Конечно, это твой дом, <_____MYNAME_____>. Если занята, просто\nсоберёмся в другой раз!\n<PAGE>\n<FACE_NORMAL>...Ну, э-э, что скажешь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_SECOND_02",
+   "key": "bf5105e5",
+   "ru": "Да, приходите!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_SECOND_03",
+   "key": "723b1e55",
+   "ru": "Прости, я сейчас очень занята..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_SECOND_04",
+   "key": "ab053472",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПравда? Ура! Ты лучшая, <_____MYNAME_____>!\n<PAGE>\nТогда я сбегаю за Касуми! И прихвачу у папы\nвкусняшек.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Тогда я приведу Силуку и принесу напитки.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>А я схожу в ресторан Брэда и возьму лёгких\nзакусок.\n<PAGE>\nСкоро вернёмся, <_____MYNAME_____>."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_PROLOG_SECOND_05",
+   "key": "2333acd8",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nА, ты занята? Ничего страшного!\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Пожалуй, мы спросили ни с того ни с сего.\nНичего страшного.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Всегда можно собраться в другой день. До\nвстречи, <_____MYNAME_____>."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_CHEERS_00",
+   "key": "435bd583",
+   "ru": "<FONT_SIZE_L>За нас!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_WELCOME_FIRST_00",
+   "key": "b072df03",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что пригласила, <_____MYNAME_____>.\n<PAGE>\nВ Вестауне не так много девушек моего\nвозраста, так что мне очень весело!\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Ха-ха, мне тоже! К тому же все вечно заняты\nработой, работой, работой, в другие города не\nвыберешься.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Такие встречи ― поистине ценный опыт.\n<PAGE>\nИ всё благодаря твоей доброте, ведь ты\nпустила нас в свой дом, <_____MYNAME_____>. Мы тебе благодарны.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>Дом и правда классный! ♪ И вкус в обстановке\nу тебя неплохой.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>...Здесь свежий воздух. Я рада, что пришла."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_AMERICA_00",
+   "key": "06accbfb",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nДом у тебя такой опрятный, <_____MYNAME_____>. Вообще-то он\nнемного напоминает дом в Вестауне.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Все эти яркие цвета прямо поднимают\nнастроение! Люблю такие дома.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Верно. Я не привыкла к такой гамме, но тёплые\nцвета и интерьер прелестны."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_JAPAN_00",
+   "key": "c29932c2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЭти штуки на полу называются татами, да?\n<PAGE>\nПлести покрытие для пола из травы ―\nхорошая мысль. В Лулукоко есть что-то\nпохожее.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>О? Правда?\n<PAGE>\nВ Вестауне почти ничего не делают из травы,\nвот мне сразу и бросилось в глаза.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Если подумать, в Вестауне я тоже не видела,\nчтобы так использовали траву.\n<PAGE>\nА здесь от этих матов пахнет травой. Так и\nхочется прилечь.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>Силука, очнись! Мы тут на вечеринке, а не с\nночёвкой."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_SOUTH_00",
+   "key": "7f3377bd",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nВ твоём доме мне будто слышится шум волн.\n<PAGE>\nА эти яркие узоры что-то значат?\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Это обереги от злых духов. Наверняка Лудус\nвзял их из традиций Лулукоко, когда\nпридумывал дом.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Вот как. Значит, это не просто для красоты...\nРазличия наших культур поразительны."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_JUNGLE_00",
+   "key": "cfb6752b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nВ твоём доме мне кажется, будто я забрела в\nнеизведанные джунгли...\n<PAGE>\nСтолько растений, каких я никогда не видела.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Очень похоже на руины в Лулукоко. Вплоть до\nстатуй птиц и всего прочего.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Лудус тот ещё перфекционист в мелочах..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_WANNYAN_00",
+   "key": "0c04ccec",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОго! Какой супермилый дом! Я бы с радостью\nжила в таком!\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>От такого дизайна любая девушка придёт в\nвосторг. ♪\n<PAGE>\n<FACE_NORMAL>А ещё он так напоминает <_____MYNAME_____>.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Всё это ведь сделал Лудус, верно?\n<PAGE>\nОн... Э-э... Наверняка очень искусен и... с\nбогатым воображением.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Если хочется над ним посмеяться, смейтесь.\nУверена, мы все думаем одно и то же."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_MAGICIAN_00",
+   "key": "3b23dbd7",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМне нравится этот дизайн. Колдовской,\nзагадочный и какой-то волнующий.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Правда? Мне кажется, я уйду отсюда проклятой\nили вроде того. Не думаю, что смогла бы жить\nв таком доме.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Мне любопытен странный узор на полу в\nсоседней комнате...\n<PAGE>\n<FACE_NORMAL>Я видела такой символ в книге по астрономии,\nно не могу вспомнить, что он значит..."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_ELDORADO_00",
+   "key": "01ccc22f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nДаже не знаю, как сказать, <_____MYNAME_____>. Дом у тебя,\nконечно, чудесный и роскошный...\n<PAGE>\n...Но такой яркий, что голова кружится.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>Чтобы построить такой дом, нужны серьёзные\nденьги. Значит, ты богачка, а?\n<PAGE>\nБудь ты мужчиной, <_____MYNAME_____>, мне бы одного этого\nхватило, чтобы захотеть за тебя замуж.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>...Осторожнее, <_____MYNAME_____>, а то не одна ты тут будешь\nкопать золото.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>Когда-то давно я видела храм, покрытый\nсусальным золотом, но...\n<PAGE>\nИнтерьер этого дома ― совсем другой уровень.\nТого и гляди, скоро к тебе потянутся туристы.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Она права! С таким домом можно брать плату\nпросто за показ. Может, неплохое дело!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_SEA_00",
+   "key": "b2facc75",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЭтот дом будто под водой... Как чудесно.\n<PAGE>\nОн напоминает замок из книжки с картинками\n“Замок русалки”.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>В детстве мы с Силукой верили, что глубоко в\nокеане правда есть замок русалки.\n<PAGE>\nМожет, эта сказка и вдохновила этот дом.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>В Лулукоко есть такая сказка?\n<PAGE>\nВ Цуюкусе есть легенда о Дворце Морского\nДракона, где, говорят, живёт принцесса...\n<PAGE>\n<FACE_LAUGH>Что ж, видно, в каждом городе есть похожая\nлегенда!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_LIVEHOUSE_00",
+   "key": "9a5041ef",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nВот это шикарный дом! Прямо место, где\nживёт изысканная дама.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Даже пианино есть! При желании можно\nустроить концерт. Как чудесно! ♪\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Атмосфера определённо особенная. Но совсем\nне плохая.\n<PAGE>\n<FACE_LAUGH>Вообще-то мне нравится такая изысканная\nобстановка."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_HEIAN_00",
+   "key": "e8b8797a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЧёрный стол на простом деревянном полу...\nСдержанно, но изысканно. Чудесный дом, <_____MYNAME_____>.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Конечно, Касуми понравился бы именно такой\nдом...\n<PAGE>\nПо-моему, он больше похож на святилище,\nчем на дом.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>От этого дома исходит очень хорошая аура.\n<PAGE>\nТихая и добрая... Как аура дерева... Этот дом,\nможет, благословлён духами."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_WESTERN_00",
+   "key": "7eaa715b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nОх, кажется, вот-вот прокатится\nперекати-поле... Но дом стильный, признаю.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_NORMAL>Говорят, раньше в Вестауне было много таких\nдомов.\n<PAGE>\n<FACE_LAUGH>Вообще-то он напоминает мне дом дедушки.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Дом твоего дедушки был похож на этот? Это...\nнеожиданно.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_NORMAL>Да.\n<PAGE>\nДедушка любил вино, так что украшал кухню\nбутылками, прямо как здесь."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_INTERIOR_JAPANESEMODERN_00",
+   "key": "fee870ad",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nКакой шикарный современный дом. Я так\nзавидую!\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Если когда-нибудь съеду и выйду замуж,\nхотела бы жить в точно таком доме.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>К этому дому подойдёт и восточная, и западная\nодежда. Здесь какая-то загадочная гармония.\n<PAGE>\nНесомненно, идеальный дом для <_____MYNAME_____>, ведь она так\nтесно связана со всеми тремя нашими городами."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_00",
+   "key": "b40e123a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nСлушайте, девчонки...\n<PAGE>\nВам не кажется странным, что здесь столько\nкрасавиц, а ни одна из нас ещё не нашла себе\nпару?\n<PAGE>\n<FACE_ANGRY>В смысле, у парней в наших городах, видно,\nужасный вкус на женщин.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Тебе, я смотрю, не трудно себя\nрасхваливать...?\n<PAGE>\n<FACE_LAUGH>Но, пожалуй, соглашусь. Здешние мужчины\nпонятия не имеют, что теряют."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_01",
+   "key": "77674224",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n...Романтика меня не интересует, так что для\nменя это не проблема.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Мне тоже всё равно. Мне хорошо просто со\nвсеми.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>Батюшки, какие вы обе независимые!\n<PAGE>\n<FACE_LOSS>Не то чтобы я не хотела романтики, но...\n<PAGE>\nТрудно начать, когда не знаешь, с каким парнем\nвообще хотелось бы встречаться.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Жаль! Ты такая женственная и красивая.\nСпорим, ты была бы жутко популярна!\n<PAGE>\n<FACE_LAUGH>Видно, придётся <_____MYNAME_____> стараться за всех нас, она\nведь всех знает!\n<PAGE>\nКстати, а как у тебя?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_02",
+   "key": "a90ff04b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТы что, правда не слушала? Мы хотим знать,\nположила ли ты на кого-нибудь глаз!\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Или хотя бы кто-то произвёл на тебя хорошее\nвпечатление. Есть кто-нибудь?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_CHOICE_00",
+   "key": "e87f4702",
+   "ru": "(Что ответить?)"
+  },
+  {
    "n": 30,
    "f": 2,
    "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_CHOICE_01",
@@ -37,11 +247,459 @@
    "ru": "Лудус"
   },
   {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_POSTMAN_00",
+   "key": "a8635529",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nУэйн? Он и правда красавчик. И очень милый.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LOSS>Правда? Мне всегда казалось, что женщинам\nлучше держаться от него подальше...\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>Ну, аура плейбоя у него точно есть. Кажется,\nподойдёшь слишком близко ― пожалеешь.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Лично мне больше нравятся добрые парни, а не\nте, что дразнят!\n<PAGE>\nХотя он довольно милый, так что устоять\nперед его обаянием, наверное, трудно.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Уэйн ― как Лудус, только с чувствами.\nВнимательный и всем нравится.\n<PAGE>\n<WINDOW_KERAKERA_L><FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>И то верно. У них на удивление много общего,\nправда?\n<PAGE>\n<WINDOW_DEFAULT><FACE_LAUGH>Только у Уэйна есть ещё кое-что сверху."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_DOCTOR_00",
+   "key": "12262a88",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nФорд? Что тебе нравится в этом сухаре?\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Форд хороший человек. У тебя хороший вкус,\n<_____MYNAME_____>.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Безусловно, Форд эрудирован и умеет\nсоблюдать почтительную дистанцию с людьми.\n<PAGE>\nЯ бы сказала, он куда лучший вариант, чем\nбольшинство мужчин.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LOSS>Но я как-то не вижу в Форде парня, который\nчасто ходит на свидания.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>Часто? Да хоть когда-нибудь?\n<PAGE>\n<FACE_NORMAL>По мне, он скорее отлично впишется к Мории,\nмоему папе или старичкам.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>Ну, если мы что-то и узнали, так это что <_____MYNAME_____>\nнравятся мужчины постарше.\n<PAGE>\nОн чудак, но, судя по ауре, вроде не плохой\nпарень.\n<PAGE>\nА если подумать, ты и сама довольно странная.\nМожет, вы и правда хорошая пара.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Форд живёт верным себе. Если на то пошло,\nбольше всех на него похожа ты, Илука.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>..."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_APPRENTICE_00",
+   "key": "a501c905",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nХината, значит? Он определённо хороший\nпарень!\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>Правда? Мне он всегда казался ребячливым...\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Порой может так показаться, но он очень\nвнимателен к детям нашего города. Похоже,\nпривык с ними обращаться.\n<PAGE>\n<FACE_LOSS>Хотя с личным пространством у него\nпроблемы...\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Кстати, Сидзу говорила, что в выходные он\nпомогает ей с детьми.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Мне кажется, рядом с Хинатой просто тепло и\nрадостно. Понятно, почему дети его любят.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>С Хинатой легко разговаривать, он говорит за\nтебя. Это... приятно."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_CHASER_00",
+   "key": "a78968da",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЮдзуки? Среди мужчин он определённо умеет\nсебя держать...\n<PAGE>\nНе могу сказать, что не понимаю, почему ты\nвыбрала его, <_____MYNAME_____>.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Погоди. Понимаешь или нет...?\n<PAGE>\n<FACE_NORMAL>Ну, как бы то ни было, он точно хороший\nпарень! Он же внук Умэкити и Омиё!\n<PAGE>\nПросто... Если спросить, вижу ли я в нём\nбольше, чем друга, ну, не знаю...\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Знаете, Юдзуки частый покупатель в моей\nлавке.\n<PAGE>\nОн потрясающе разбирается в растениях, даже\nя порой удивляюсь.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Он любит сладкое, так что часто заходит и к\nнам... По-моему, хороший парень.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Ну, он кажется рассеянным, но на самом деле\nочень талантлив."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_SINGLE_CRAFTMAN_00",
+   "key": "a41f9612",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nЛудус...? Что в нём хорошего?\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>Правда? <_____MYNAME_____>, у тебя ужасный вкус на мужчин.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>Ну-ну. Вы так считаете только потому, что\nдружите с ним с детства.\n<PAGE>\n<FACE_LAUGH>А мне со стороны даже завидно, что рядом с\nвами всегда такой надёжный, добрый и умелый\nчеловек.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Точно! Я всегда считала Лудуса очень\nзаботливым парнем!\n<PAGE>\nКогда Тототара уйдёт на покой, представляю,\nкак он легко займёт её место.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Если на то пошло, он кажется слишком\nидеальным, аж подозрительно..."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_COUPLE_00",
+   "key": "027a5ccb",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nСлушай, <_____MYNAME_____>...\n<PAGE>\n<FACE_LOVE>Немного неловко спрашивать, но... как у тебя в\nпоследнее время дела с парнем?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_COUPLE_01",
+   "key": "67a440ee",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nА! Точно! Надо выведать все пикантные\nподробности!\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>Да, выкладывай.\n<PAGE>\nТы первая из нас в серьёзных отношениях, так\nчто твоя обязанность ― рассказать нам всё!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Не уверена, как отношусь к тому, чтобы совать\nнос в чужую личную жизнь...\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Мне всё равно, но... Илука, наверное, не\nотстанет, пока не расскажешь."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_COUPLE_02",
+   "key": "fdc52c66",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nНу? Ну? Кто кому признался? Что он сказал? А\nчто сказала ТЫ?!\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>Когда вы успели так сблизиться? НАСКОЛЬКО\nвы близки?\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_ANGRY>Комари, это грубо.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LOSS>Ты тоже, Илука. Слишком напираешь.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH><_____MYNAME_____>, я никогда не встречалась с мужчиной, так что\nбуду благодарна, если расскажешь...\n<PAGE>\nТы сейчас счастливее, чем когда была одна?"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_LOVE_COUPLE_03",
+   "key": "7a933d3e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nОх, батюшки, я-я уже смущаюсь, просто\nслушая!\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOVE>Ох, ну! Я даже смотреть на тебя сейчас не могу!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Меня никогда особо не интересовали разговоры\nо романтике, но когда речь о личной жизни\nподруги? Это супервесело!\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>По твоему лицу видно, как ты счастлива, <_____MYNAME_____>. Я за\nтебя рада.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Любовь так сильно меняет людей? Как\nстрашно..."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_JOB_00",
+   "key": "821fe6f3",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\n*вздо-о-ох*...\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Хм? Что такое, Илука?\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>Ах, прости. Просто вспомнила кое-что\nужасное, что случилось на днях.\n<PAGE>\n<FACE_NORMAL>В общем, работаю я в кафе, так? А улыбаться\nпосетителям, как вы знаете, вроде как часть\nработы.\n<PAGE>\n<FACE_LOSS>Но один тип всё понял слишком уж по-своему.\n<PAGE>\nОбычно я легко отшиваю таких, но этот был\nтакой настырный, что стало настоящей\nпроблемой."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_JOB_01",
+   "key": "725f174d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_ANGRY>\r\nОх. Досадно. Скажи ты мне, я бы с радостью\nвзяла нагинату и стала твоим телохранителем.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LOSS>К-Касуми, это уже чересчур...\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Не волнуйтесь. В итоге Илука прогнала его\nвместе с его чёрной аурой."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_JOB_02",
+   "key": "f0c78c6c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\n...Чёрная аура? Это что? Звучит жутко...\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Честно, лучше не знать. Важнее другое.\nЛизетта, Комари, вы ведь тоже работаете с\nлюдьми?\n<PAGE>\nУ вас бывали такие проблемы?\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>Ой, ещё бы! Постоянно!\n<PAGE>\n<FACE_NORMAL>Но у меня за всем следит папа.\n<PAGE>\nЕсли какой посетитель заходит слишком\nдалеко, он его выгоняет.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Как это мило с его стороны! ♪\n<PAGE>\n<FACE_NORMAL>Я обслуживаю покупателей сама, но ничего\nтакого со мной толком не случалось.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Правда? Ты кажешься доброй, так что... я\nдумала, тебе хуже всех.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>Ты само воплощение женской красоты. Я бы не\nудивилась, если бы за тобой часто\nухаживали...\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Нет-нет, ничего подобного! Мои постоянные\nпокупатели все настоящие джентльмены.\n<PAGE>\n<FACE_NORMAL>Ах, хотя на днях заходил один надоедливый\nпокупатель.\n<PAGE>\nНо мои постоянные покупатели схватили его и\nвышвырнули!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_JOB_03",
+   "key": "9801d463",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>В-вот как...\n<PAGE>\n<WINDOW_SWEAT_L><FACE_TWINOLDER><POS_LEFT><FACE_LOSS>Значит, её покупатели, по сути, её\nтелохранители..."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_FAMILY_00",
+   "key": "e9706fc6",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\n*зева-а-аю*\n<PAGE>\n<FACE_NORMAL>Ох, прости. Зевать посреди весёлых посиделок\nкак-то невежливо.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LOSS>Это вполне понятно, Комари. Ты ведь в\nпоследнее время недосыпаешь."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_FAMILY_01",
+   "key": "b277ad61",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nЧто такое? Аура твоего тела не очень\nхорошего цвета.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Ну, по правде... это всё папа виноват.\n<PAGE>\n<FACE_ANGRY>Представляете: он разговаривает во сне! Много!\n<PAGE>\nПробовала и беруши, и уходить от него\nподальше, всё без толку.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_ANGRY>Я бы такого не вынесла. Что он вообще\nговорит?\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Смотря по дню, но...\n<PAGE>\nТо посреди ночи расхохочется, то устроит\nсольный юмористический номер, то становится\nсамураем...\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Насколько я понимаю, это... громко.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>А разбудить его нельзя?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_ANGRY>Я бы разбудила. В мгновение ока."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_FAMILY_02",
+   "key": "ae057096",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nВ том-то и беда. Можно пнуть папу, а он всё\nравно не проснётся...\n<PAGE>\nНу, хоть утешает, что он болтает только\nсмешное.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_NORMAL>Э-э... Его разговоры во сне правда так\nмешают?\n<PAGE>\n<FACE_LOSS>В моей семье никто не разговаривал во сне, так\nчто я никогда такого не слышала.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Тогда тебе повезло, Лизетта.\n<PAGE>\n<FACE_LOSS>Однажды я ночевала у Комари, и тогда\nвпервые услышала, как разговаривают во сне...\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_ANGRY>...Я бы никогда-никогда не простила того, кто\nмешает мне спать. Даже родного отца.\n<PAGE>\nНе волнуйся, Комари. Я сделаю так, что отныне\nему будут сниться лишь кошмары, от которых\nон онемеет...\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>Эй-эй-эй. Это уже перебор, не находишь?\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>...Думаешь?"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_FAMILY_03",
+   "key": "236927cd",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nА если ложиться спать раньше Гиндзиро,\nКомари?\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>А, хорошая мысль! Сплю я довольно крепко.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>А ещё я могу заварить тебе травяной чай,\nчтобы расслабиться.\n<PAGE>\nЕсли выпить его перед сном, наверняка мигом\nуснёшь.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Чудесный жест. Как прекрасно, что все о тебе\nзаботятся, Комари.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Ха-ха-ха! Огромное спасибо всем! Вы лучшие\nподруги на свете!"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_WEDDING_00",
+   "key": "43023a6b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nЗнаешь, мне до сих пор иногда не верится, что\nты уже жена, <_____MYNAME_____>, хотя мы ровесницы...\n<PAGE>\n<FACE_LAUGH>Я так завидую! Вредина!\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LOVE>Жить с любимым человеком... Звучит просто\nчудесно! <RED>∀</RED>\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>И подумать только, что этим человеком\nоказался <CHARANAME0>. Вот что удивительнее всего.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>Чем сегодня занят твой муж?"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_WEDDING_01",
+   "key": "19f77542",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nВот как... Значит, он не против, что мы сегодня\nзаняли дом?\n<PAGE>\nНадо будет потом написать ему\nблагодарственное письмо.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Уверена, он сделал это специально для тебя.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Ну и муж у тебя, <_____MYNAME_____>!\n<PAGE>\nКстати, как тебе семейная жизнь? Отлично?\nОтлично ведь, да? По лицу вижу! ♪"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_WEDDING_02",
+   "key": "8c576a71",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\n*вздо-о-ох* Я тоже хочу поскорее создать\nтакую идеальную семью, как у тебя...\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_SAD>Мне муж НЕ НУЖЕН, но если выходить замуж,\nто за того, кто будет приносить в дом деньги.\n<PAGE>\n<FACE_LAUGH>И кто купит мне всё, что захочу. ♪\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>Муж ведь не для... З-знаешь что? Неважно.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Комари, тебе ведь нужен тот, кто поддержит\nдушевно, а не деньгами, да?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Ясно. Тогда в браке есть смысл. Не то что “мне\nнужен ходячий кошелёк”.\n<PAGE>\n<FACE_LOSS>Только... у меня тоже никого нет.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>У-уверена, однажды в нашей жизни появится\nкто-то чудесный!"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_TALK_WEDDING_03",
+   "key": "aebc1a66",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nРазговор 4 о героине после свадьбы"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_END_00",
+   "key": "175f5c00",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\nА!\n<PAGE>\n<FACE_NORMAL>Мы так заболтались, что совсем забыли про\nеду!\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>И правда. Мы всё принесли свежим. Будет\nжалко, если пропадёт."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_WOMAN_END_01",
+   "key": "65449f10",
+   "ru": "(Как весело было болтать с девчонками весь\nдень! Надо будет повторить!)"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_POSTMAN_NOCHILD",
+   "key": "cf026998",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь устроить посиделки с девчонками?\n<PAGE>\n<FACE_LAUGH>Ха-ха, конечно, я не против! Уверен, есть о\nчём поговорить без парней.\n<PAGE>\nПока что пойду потусуюсь с Брэдом, так что за\nменя не волнуйся."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_POSTMAN_CHILD",
+   "key": "08a5958a",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь устроить посиделки с девчонками?\n<PAGE>\n<FACE_LAUGH>Ха-ха, конечно, я не против! Уверен, есть о\nчём поговорить без парней.\n<PAGE>\nВозьму <CHILD_NAME> с собой на почту, так что за нас не\nволнуйся."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_DOCTOR_NOCHILD",
+   "key": "fa67fd5f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...Хочешь устроить посиделки с девушками?\n<PAGE>\n<FACE_LAUGH>Я, разумеется, не против, но... я бы, наверное,\nтолько мешал.\n<PAGE>\nАх, знаю. Вернусь пока в клинику и поработаю."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_DOCTOR_CHILD",
+   "key": "36e8b226",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...Хочешь устроить посиделки с девушками?\n<PAGE>\n<FACE_LAUGH>Я, разумеется, не против, но... при мне,\nнаверное, трудно будет разговаривать.\n<PAGE>\nПолагаю, лучше всего взять <CHILD_NAME> с собой в клинику."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_APPRENTICE_NOCHILD",
+   "key": "7168f222",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n...Что? Хочешь устроить посиделки с\nдевчонками?\n<PAGE>\n<FACE_LAUGH>Да! Конечно, без проблем! Помогу всё\nподготовить.\n<PAGE>\nА пока поиграю с детьми в городе."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_APPRENTICE_CHILD",
+   "key": "4a2098fa",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n...Что? Хочешь устроить посиделки с\nдевчонками?\n<PAGE>\n<FACE_LAUGH>Да! Конечно, без проблем! Помогу всё\nподготовить.\n<PAGE>\nА пока возьму <CHILD_NAME> с собой к Ра Ману."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_CHASER_NOCHILD",
+   "key": "8e036dfc",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n...Что? Хочешь устроить посиделки с\nдевушками?\n<PAGE>\n<FACE_LAUGH>Да, конечно, можно.\n<PAGE>\nЯ тогда схожу к Хинате, побуду у него,\nхорошо?"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_CHASER_CHILD",
+   "key": "946dd8ca",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n...Что? Хочешь устроить посиделки с\nдевушками?\n<PAGE>\n<FACE_LAUGH>Да, конечно, можно.\n<PAGE>\nВозьму <CHILD_NAME> и навещу бабушку с дедушкой."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_CRAFTMAN_NOCHILD",
+   "key": "b39d424b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь устроить посиделки с девчонками?\n<PAGE>\n<FACE_LAUGH>Да, конечно, можно. Уверен, вам есть о чём\nпоговорить.\n<PAGE>\nПока что побуду у Захау."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_CRAFTMAN_CHILD",
+   "key": "2d6b160a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь устроить посиделки с девчонками?\n<PAGE>\n<FACE_LAUGH>Да, конечно, можно. Уверен, вам есть о чём\nпоговорить.\n<PAGE>\nА пока возьму <CHILD_NAME> и составлю компанию бабуле, а?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_WANTATAN_NOCHILD",
+   "key": "da9a2c56",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nЧто? Хочешь устроить посиделки с девушками?\n<PAGE>\n<FACE_LAUGH>Конечно, я не против! Важно проводить время с\nдрузьями.\n<PAGE>\nА я пока составлю компанию диким животным."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_WANTATAN_CHILD",
+   "key": "e39df9f1",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nЧто? Хочешь устроить посиделки с девушками?\n<PAGE>\n<FACE_LAUGH>Конечно, я не против! Важно проводить время с\nдрузьями.\n<PAGE>\nПросто возьму <CHILD_NAME> и пока составлю компанию\nдиким животным."
+  },
+  {
    "n": 70,
    "f": 2,
    "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_FIRST_00",
    "key": "7cd34d75",
    "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдорово, <_____MYNAME_____>."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_FIRST_01",
+   "key": "6cf6899e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nМы тут случайно столкнулись, вот и болтаем\nнемножко.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>В отличие от Уэйна, мы двое нечасто\nвыбираемся из своих городов.\n<PAGE>\nТак что когда встречаемся, есть о чём\nпоговорить, а?"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_FIRST_02",
+   "key": "c6d2a127",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nЧестно говоря, хотелось бы место, где мы,\nпарни, могли бы просто посидеть, но...\n<PAGE>\nТакое место трудно найти. Если собраться в\nкакой-нибудь лавке, будем только мешать\nпосетителям, понимаешь?"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_FIRST_03",
+   "key": "6d4535a3",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nМожно собраться у тебя, <_____MYNAME_____>? Правда?!\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Это классно, но... ты уверен?"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_FIRST_04",
+   "key": "a86e4519",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТогда с радостью принимаем твоё\nпредложение.\n<PAGE>\nСлушайте, парни, раз <_____MYNAME_____> пускает нас к себе в дом,\nдумаю, нам всем надо принести что-нибудь\nпоесть.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Ага, хорошая мысль! О, и я приведу Юдзуки!\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Тогда я приведу Форда.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>А я принесу, э-э, напитки. Ха-ха.\n<PAGE>\nНе возьмёшь на себя остальную подготовку, <_____MYNAME_____>?"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_FIRST_05",
+   "key": "650ea5ce",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nТогда решено! До скорого, <_____MYNAME_____>."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_SECOND_00",
+   "key": "98178058",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>.\n<PAGE>\nКак раз вовремя. Хотели тебя кое о чём\nспросить."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_SECOND_01",
+   "key": "d0ec3f46",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nМы тут втроём говорили и, э-э, что скажешь,\nесли снова собраться у тебя мужской\nкомпанией?\n<PAGE>\nКонечно, если занят, можно в другой раз, а?\n<PAGE>\n...Ты с нами?"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_SECOND_02",
+   "key": "67d76040",
+   "ru": "Я в деле!"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_SECOND_03",
+   "key": "723b1e55",
+   "ru": "Прости, я сейчас очень занят..."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_SECOND_04",
+   "key": "2e5d7711",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nКласс! Спасибо, <_____MYNAME_____>!\n<PAGE>\nТогда я сбегаю за Юдзуки.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Я схожу за Фордом. И загляну к Брэду заказать\nеды.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Тогда напитки снова на мне.\n<PAGE>\nДо скорого, <_____MYNAME_____>."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_PROLOG_SECOND_05",
+   "key": "9dfa5bc3",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЭх. Ну, раз занят, ничего страшного.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Ага, не переживай. Мы ведь спросили ни с того\nни с сего.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>Но давай соберёмся при следующем случае.\nАлоха, <_____MYNAME_____>."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_CHEERS_00",
+   "key": "435bd583",
+   "ru": "<FONT_SIZE_L>За нас!"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WELCOME_FIRST_00",
+   "key": "fecaaa29",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что предложил свой дом, <_____MYNAME_____>.\n<PAGE>\nМы, молодые парни, впервые вот так\nсобрались.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Не уверен, что меня ещё можно назвать\n“молодым парнем”.\n<PAGE>\n<FACE_LAUGH>Как бы то ни было, должен похвалить твоё\nжилище, <_____MYNAME_____>. Так просторно.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Каждый раз, как приношу сюда почту, думаю\nто же самое. Это ведь ты строил, Лудус?\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Да, но...\n<PAGE>\nУ меня бы не вышло, если бы <_____MYNAME_____> не собрал все\nматериалы.\n<PAGE>\nИ дизайн тоже выбрал он.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>О? Так это твой выбор, <_____MYNAME_____>? У тебя хороший\nвкус."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_AMERICA_00",
+   "key": "e58186ec",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nДом у тебя, как всегда, красивый. Вообще-то\nон очень напоминает Вестаун. Такое\nпоп-кантри.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>Ну, интерьер основан на домах Вестауна. Раз\nтебе так кажется, значит, я справился.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Я привык к интерьерам на основе текстуры\nдерева, но это вполне в духе <_____MYNAME_____>...\n<PAGE>\n<FACE_LAUGH>Вкусы в интерьере и правда у всех разные.\nПоразительно."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_JAPAN_00",
+   "key": "11d30d8d",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЭтот дом очень напоминает дома в Цуюкусе.\nТёплый и уютный, даже футон расстелен.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Правда? Я как раз об этом подумал!\n<PAGE>\nЧувствую себя ближе к <_____MYNAME_____>, зная, что у него\nпохожие на наши вкусы!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Интерьер и правда отличный. Так уютно, что\nхоть проводи здесь перерывы на работе."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_SOUTH_00",
+   "key": "faaec2be",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм-м-м... Повсюду яркие узоры, они что-то\nзначат?\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>А, эти? Да, я позаимствовал узоры, которые\nиспользуют в Лулукоко.\n<PAGE>\nИх наносят на стены или крышу дома как\nоберег от злых духов.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Вот как. Значит, у такого яркого интерьера\nесть причина. Как весело, что всё такое\nразноцветное."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_JUNGLE_00",
+   "key": "2cc13ffb",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nНу и ну, вот это дом! Даже не знаю, как\nописать... Вроде джунглей?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Вся эта растительность ведь искусственная,\nверно? Иначе страшно подумать, сколько было\nбы насекомых.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Но в каком-то смысле это было бы даже\nвесело. Осенними ночами можно слушать их\nпение.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LOSS>В-весело?!\n<PAGE>\n...Если подумать, жители Цуюкусы и правда\nладят с насекомыми, да?\n<PAGE>\n<FACE_LAUGH><WINDOW_SWEAT_L>Ха-ха... Не думаю, что вынес бы насекомых в\nдоме..."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_WANNYAN_00",
+   "key": "71ccfdfd",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКакой очаровательный дом. Всюду отпечатки\nсобачьих лап.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Точно дом в духе <_____MYNAME_____>! Он так любит животных.\n<PAGE>\nНо как подумаю, что Лудус придумал розовый\nинтерьер и даже назвал всё “Райский особняк\nпитомцев”...\n<PAGE>\n<FACE_LAUGH><WINDOW_KERAKERA_L>Ох, не могу... сдержать... смех...\n<PAGE>\n<WINDOW_DEFAULT><FACE_CRAFTMAN><POS_RIGHT><FACE_LOVE>Ух... Ну, ребята, я просто делал свою работу!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Не унывай, Лудус. Лично я одобряю название.\n<PAGE>\nВажно, чтобы названия были броскими и легко\nзапоминались, не так ли?"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_MAGICIAN_00",
+   "key": "df94c9b8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм, в этом доме что-то сверхъестественное.\nНам считать это знаком, что ты занялся\nтайными искусствами, <_____MYNAME_____>?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LOSS>Скажи ты мне, что варишь тут зелья опаснее\nлекарств Форда, я бы поверил...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>...Что-что, Уэйн?\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Поживи я в таком месте подольше, наверное,\nповерил бы в магию и проклятия.\n<PAGE>\nВ нём есть что-то загадочное, что мне\nнравится."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_ELDORADO_00",
+   "key": "c807adc8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nПотрясный дом! Всё такое блестящее и\nзолотое.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>Я добавил этот вариант просто так, но... не\nдумал, что настанет день, когда кто-то\nПРАВДА его закажет.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Тут так ярко, что глазам больно, но... этот\nблеск ― итог всех трудов <_____MYNAME_____>.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Можно и так сказать. Но не могу отделаться от\nощущения, что это чересчур напоказ.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>А представьте: через тысячу лет...\n<PAGE>\n...этот дом всё ещё стоит, и кто-то его\nнаходит. Разве это не романтично?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Своеобразный у тебя взгляд на вещи, Юдзуки.\n<PAGE>\nЕсли хорошенько подумать, в доме из золота,\nможет, и правда есть ценность."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_SEA_00",
+   "key": "ad7217e9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗнаю, что сам его построил, но меня до сих пор\nпоражает, как хорошо этот дом передаёт суть\nокеана.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Ещё бы! Маленькие, супердетальные украшения\nповсюду всё объединяют. Свежо и романтично.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Я никогда не видел дно океана, но, наверное,\nоно выглядит очень похоже.\n<PAGE>\nЗдесь так и хочется увидеть настоящее."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_LIVEHOUSE_00",
+   "key": "269bff1f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\n...Должен спросить, что это за кричащий\nинтерьер?\n<PAGE>\nУ меня в ушах прямо гитары и барабаны. Как\nвообще можно спать в таком месте?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Не знаю, мне лично нравится. Похоже на дом\nискушённого мужчины.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Я в музыке мало смыслю, но, по-моему, очень\nклассно.\n<PAGE>\nДумаю, любой парень хотел бы такой дом. Вот\nбы моя комната была такой крутой!"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_HEIAN_00",
+   "key": "1a1e9e46",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКакой тихий, спокойный дом. Чудесно.\n<PAGE>\n<FACE_LAUGH>Невероятно, что этот дизайн получился так\nестественно. Мне ещё учиться и учиться.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Спасибо. И согласен, в нём есть загадочная\nатмосфера, располагающая к тихим раздумьям.\n<PAGE>\nСкажи мне, что здесь живут духи, ― поверю.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>Глядя на этот дом, чувствую себя перед\nмаленьким святилищем в Цуюкусе..."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_WESTERN_00",
+   "key": "2f8bce5a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nИз всех домов, что я построил, этот у меня в\nличном списке на одном из первых мест.\n<PAGE>\nНадеюсь, ты думаешь так же, <_____MYNAME_____>.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Мне этот дизайн тоже по душе. Напоминает\nстарый Вестаун.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Определённо очень ковбойский дом. Знаете, я\nвсегда мечтал проскакать на коне по Дикому\nЗападу."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_INTERIOR_JAPANESEMODERN_00",
+   "key": "132cbafe",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nОго, вот это шикарный дом. Даже камин есть!\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>Это дизайн, сочетающий мотивы Цуюкусы с\nдругими культурами в нечто совершенно\nсовременное.\n<PAGE>\nДля наших краёв стиль довольно редкий, но\nхарактеру <_____MYNAME_____> подходит, а?\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Мне особенно нравятся окна.\n<PAGE>\nВыглядят как бумажные раздвижные двери, а\nвнутри стекло... Какое чудесное мастерство."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_00",
+   "key": "0520a1cb",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nХм-м-м..."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_01",
+   "key": "93493531",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЧто такое, Хината?\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>Ничего... Просто здесь столько парней, и ни у\nкого нет пары. Грустно как-то, нет...?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>А, если подумать...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>По-твоему, грустно не иметь пары? Что за\nвздор...\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Ну же, Форд. Не нужно расстраиваться.\n<PAGE>\nЯ понимаю тебя, Хината. Мы все в таком\nвозрасте, неудивительно, что об этом\nдумается.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Не ожидал услышать такое от тебя, Юдзуки.\nУдивлён.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Ах... Нет. Не то чтобы я кого-то искал.\n<PAGE>\nПросто, по-моему, чувства Хинаты понятны.\nТолько и всего.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>Уэйн, ты же безумно популярен! Почему у тебя\nнет девушки?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Ну... Я бы хотел однажды завести семью.\n<PAGE>\n<FACE_LAUGH>Но пока не встречу девушку, от которой\nпо-настоящему перехватит дыхание, не думаю,\nчто смогу выбрать кого-то одну.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>Нелепый ловелас, как всегда..."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_02",
+   "key": "8b414a9c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nНу-ну, у каждого свой взгляд на это...\n<PAGE>\n<FACE_LAUGH>...Кстати, <_____MYNAME_____>, ты всё это время что-то притих.\n<PAGE>\nТы здесь меньше всех, но есть кто-то, с кем ты\nособенно близок?"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_CHOICE_00",
+   "key": "e87f4702",
+   "ru": "(Что ответить?)"
   },
   {
    "n": 100,
@@ -77,6 +735,251 @@
    "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_CHOICE_05",
    "key": "308ccf64",
    "ru": "Силука"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_FLORIST_00",
+   "key": "ecf170eb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nА, да, она чертовски милая, скажу я вам.\n<PAGE>\nИ такая трудяга, держит цветочную лавку в\nодиночку.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>Мне она всегда казалась не моего полёта. Как\nотличница и двоечник, вроде того.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Я довольно часто использую цветы из лавки\nЛизетты в работе.\n<PAGE>\nНасколько могу судить, она исключительно\nвежливая и добрая девушка.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Склонен согласиться с этой оценкой.\n<PAGE>\n<FACE_SAD>...Но время от времени она смотрит на меня\nкак-то нервно. Или мне кажется?\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Наверняка кажется.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>Мне вот с такими девушками толком\nпоговорить не доводится.\n<PAGE>\nВсё боюсь что-нибудь сказать и задеть их\nчувства.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>А, ну да. Лудус рядом с Лизеттой ― это как\nлев рядом с котёнком или вроде того.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>...Лев?"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_TEAGIRL_00",
+   "key": "8a35a5ab",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nКомари? О да, она очень хороший человек.\n<PAGE>\nПонимаю, почему вы поладили, <_____MYNAME_____>.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>Это точно. Жизнерадостные люди без задних\nмыслей ― важно, чтобы такие были рядом.\n<PAGE>\n<FACE_LOSS>Только... не представляю, чтобы её отец\nпромолчал, если у неё появится парень.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>Не говоря уже о том, что она такая же\nгромкая, как отец...\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Эй, ну. На праздниках никто не оживляет\nобстановку так, как она!\n<PAGE>\nОбаятельная, энергичная и милая. Таких\nдевушек немного.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Она самая беззаботная девушка из всех, кого я\nзнаю! Будь вы вместе, наверное, каждый день\nбыл бы отпадным.\n<PAGE>\n<FACE_SAD>Хотя язык у неё на удивление острый. Иногда\nкак скажет..."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_TEACHER_00",
+   "key": "da854e8b",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nКасуми?! Ты близок с Касуми?! Как?!\n<PAGE>\nТы потрясающий, <_____MYNAME_____>. Мало того что она\nненавидит парней, так ещё и красива до жути...\n<PAGE>\nМне к ней точно не подобраться, если только\nне близко-близко к её нагинате.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Но она и правда красавица, а? Каждое\nдвижение такое изящное.\n<PAGE>\n<FACE_LAUGH>Она ведь школьная учительница? Я бы не прочь\nполучить от неё выговор...\n<PAGE>\nНо вряд ли она удостоит меня хоть взгляда...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>Тут винить, кроме себя, тебе некого, Уэйн.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Если держаться достойно, думаю, она из тех,\nкто выслушает.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>...\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Что такое, Лудус?\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>Ничего, просто...\n<PAGE>\nПонял, что никогда толком с ней не\nразговаривал."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_TWINOLDER_00",
+   "key": "92fe83a6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nИлука...?\n<PAGE>\nТы уверен, <_____MYNAME_____>? Она же настоящая королева.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Правда же? У Илуки потрясающая фигура и\nпрямо королевское изящество.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>Что? Нет, я про характер...\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS><WINDOW_INCOMPREHENSIBLE_L>Она производит впечатление внимательной и\nвесёлой... Что не так с её характером?\n<PAGE>\n<WINDOW_DEFAULT><FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>А, точно. Ты не знаешь эту её сторону, Форд.\nХотя, по-моему, эта скрытая сторона тоже\nдовольно привлекательна.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>Ага, меня она тоже сначала полностью провела.\n<PAGE>\nЧерез месяц после знакомства её характер\nсовсем изменился. Она даже прямо в лицо\nсказала, что меня “весело дразнить”.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LOSS>До появления Хинаты я тоже считал её\nвежливой.\n<PAGE>\nНо однажды, когда мы с Хинатой ели в её\nкафе, я был поражён, как непринуждённо она с\nним держится.\n<PAGE>\n<FACE_NORMAL>Она увидела моё лицо, и по её лицу было ясно,\nчто она поняла: маскировка раскрыта.\n<PAGE>\nПосле этого она, похоже, просто махнула\nрукой.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>У неё, по сути, есть кто-то вроде своего\nсемейного врача. Наверное, поэтому ты и не\nузнал, Форд.\n<PAGE>\nЕсли честно, Илука в целом довольно честный\nчеловек. Как своего рода старший брат, я рад,\nчто ты видишь в ней хорошее.\n<PAGE>\nПросто... ты, может, такой же любитель\nстраданий, как я, <_____MYNAME_____>..."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_SINGLE_TWINYOUNGER_00",
+   "key": "1fca1e91",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nСилука, хм...? Она потрясающе разбирается в\nлекарственных травах.\n<PAGE>\nНе говоря уже о том, что очень точно ставит\nдиагнозы.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>Ага, она не раз меня выручала.\n<PAGE>\nОна часто всё делает в своём темпе, но в целом\nдобрый человек.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>И у неё прелестное сонное личико.\n<PAGE>\n<FACE_NORMAL>Вообще-то у неё всегда сонное лицо... Иногда\nони с Илукой даже не похожи на близнецов,\nтак разнятся выражения.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>Ага, серьёзно. Илука определённо выглядит\nболее... ну... страшной.\n<PAGE>\nО Силуке у меня одно впечатление ― что она\nдобрее. Хотя я с ней толком и не разговаривал.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LOSS>Это правда. Когда её ни увидишь, она готовит\nв кафе у моря.\n<PAGE>\nСколько раз мы разговаривали, можно,\nнаверное, по пальцам одной руки пересчитать...\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Если подумать, в её письмах ко мне почти нет\nразговорной части.\n<PAGE>\nЕсли спрошу о какой-нибудь траве, она\nответит точным объяснением, почти как\nчертёж.\n<PAGE>\nХотя мои письма, наверное, не лучше."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_COUPLE_00",
+   "key": "9ecf673d",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nО да, <_____MYNAME_____>! Как у тебя дела с <CHARANAME0>?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>А, я тоже хотел спросить."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_COUPLE_01",
+   "key": "eb6c2509",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nНе думаю, что стоит так совать нос в чужие\nличные дела...\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Если бы вы вернулись в прошлое, когда <_____MYNAME_____>\nтолько переехал, и сказали мне, что он будет\nвстречаться с <CHARANAME0>...\n<PAGE>\n...честно, вряд ли бы я поверил. Для всех нас\nэто стало таким потрясением.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Ну, даже как парень я считаю, что <_____MYNAME_____> отличный.\nСпорим, женщины от него не отстают.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Даже у меня было чувство, что из всех нас ты\nпервым найдёшь себе пару.\n<PAGE>\nСколько вы уже встречаетесь?"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_COUPLE_02",
+   "key": "00d16796",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nПравда, уже так долго?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Не забывай, это значит, что и у нас прошло\nстолько же...\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Ну, значит, и нам надо постараться в личной\nжизни, как <_____MYNAME_____>!\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Верно, верно. Хотя сначала мне надо найти ту,\nв кого влюблюсь по уши.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>Ну, если появится добрая и заботливая\nдевушка, может, я и влюблюсь.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Я тоже хотел бы встретить человека, с\nкоторым разделю жизнь.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>...Какие вы все молодые. А меня вполне\nустраивает быть холостым до конца жизни."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_LOVE_COUPLE_03",
+   "key": "6b8c69e0",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nРазговор о возлюбленной героя, если она есть.\n4"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_JOB_00",
+   "key": "8a3d32cb",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nФух, я сегодня помогал с рыбалкой, так что\nпорядком вымотался. И плечи как каменные.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_SAD>Я тоже с утра мастерю, так что глаза\nслипаются.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>Вы оба? Ну, мне ли говорить...\n<PAGE>\nЯ чинил украшение для оби, которое сломала\nСумомо, и провозился всю ночь..."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_JOB_01",
+   "key": "7c0e600e",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсли подумать, почти все вы по работе что-то\nделаете своими руками.\n<PAGE>\nДаже <_____MYNAME_____> фермер, а Форд делает лекарства.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>И правда!\n<PAGE>\nУэйн, а ты никогда не думал что-нибудь\nсделать сам?\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Да, мне кажется, у тебя бы получилось.\n<PAGE>\nПопробуй ― может, сделаешь что-то\nневероятное.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LOSS>П-правда...? Но у меня в таком мало опыта.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>В таком случае, может, прописать тебе моё\nособое лекарство для пробуждения\nтворчества?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Не. Нет, спасибо.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Что ж, как знаешь. Тебе же хуже.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Погоди, Уэйн, разве не ты делаешь почтовые\nоткрытки и бумагу?"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_JOB_02",
+   "key": "f777f096",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nО, если подумать... Но я их не столько делаю,\nсколько придумываю.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Вообще-то я видел, как Миранда говорила с\nтобой о фасонах одежды."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_JOB_03",
+   "key": "c9b6a6e7",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЗнаешь, это всё равно значит что-то делать!\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Погодите. Значит, мы все просто парни,\nкоторые любят мастерить своими руками!"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_FAMILY_00",
+   "key": "b31fbaa3",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТолько у Хинаты и <_____MYNAME_____> здесь есть братья и\nсёстры?\n<PAGE>\nЯ единственный ребёнок, так что всегда гадал,\nкаково иметь младшего брата или сестру.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Я третий из шестерых детей, так что у меня\nесть и старшие, и младшие.\n<PAGE>\nСемья большая, поэтому я уехал из дома\nработать и стараюсь им помогать деньгами.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Весьма похвально. Наверное, тяжело?\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>Не, не особо. Мория меня как следует натаскал,\nа теперь ещё и Сумомо есть.\n<PAGE>\nА как у остальных с семьями? Я мало что\nслышал.\n<PAGE>\nЗнаю, что Юдзуки живёт с Умэкити и Омиё, а\nЛудус с Тототарой, да?\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>Ну, она моя родная бабушка. Родители ушли из\nдома, когда я был маленьким.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Мои родители в порядке, но сейчас\nпутешествуют по миру. Я не видел их с тех пор,\nкак стал взрослым.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Я своих тоже не видел, по крайней мере с тех\nпор, как стал врачом. Хотя отец время от\nвремени пишет.\n<PAGE>\nМы и так всегда были семьёй, где мало\nразговаривают.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Меня оставили бабушке с дедушкой ещё\nмладенцем, так что родителей я не видел\nмного-много лет.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>Ч-чувак, ты меня до слёз доведёшь..."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_FAMILY_01",
+   "key": "d6d5c741",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nВсё в порядке. Прошлое в прошлом, а теперь я\nмогу вот так весело проводить время с\nдрузьями.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Именно! Важно не то, как тебя растили, а как\nты это принимаешь и идёшь дальше.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Даже без родителей у меня в деревне куча\nмладших братишек и сестрёнок, так что мне\nникогда не было одиноко.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Хорошо сказано."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_FAMILY_02",
+   "key": "3399f4cc",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nСемейные истории 3"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_FAMILY_03",
+   "key": "adfd616f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nСемейные истории 4"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_WEDDING_00",
+   "key": "daaa0355",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nВажнее другое, насчёт твоей жены... Мы ведь\nворвались так внезапно... Она...?"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_WEDDING_01",
+   "key": "1ad18062",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_SAD>\r\nАх, так я и боялся... Прошу прощения.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LOSS>Ага, прости. Мало того что ворвались в ваше\nлюбовное гнёздышко, так ещё и выгнали её...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>Уэйн, будь добр, воздержись от слов\n“любовное гнёздышко”. Это звучит...\nнеприлично.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_SAD>Для Уэйна любой дом женатой пары ―\nлюбовное гнёздышко, а?\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>Ну, оставим это пока... Как тебе семейная\nжизнь, <_____MYNAME_____>? Всё хорошо?"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_WEDDING_02",
+   "key": "b27a5ea1",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВот как. Рад слышать. Так и думал, раз речь о\nтебе, <_____MYNAME_____>.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Вид у тебя счастливый-пресчастливый. Тут и\nгадать нечего.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>...Муж и жена, хм? Глядя на тебя и Брэда,\nдаже я стал думать, что брак не так уж плох.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Удивительно слышать такое от тебя, Форд. Я\nдумал, тебе никогда не будет интересна\nженитьба, а?\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>Ну, я по-прежнему не собираюсь, просто\nподумал, что, может, пора избавиться от\nпредубеждений на этот счёт."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_TALK_WEDDING_03",
+   "key": "00119bf4",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nРазговор о семейной жизни героя 4 Не\nиспользуется"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_END_00",
+   "key": "1e190fce",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Ах, мы так увлеклись разговором, что даже\nне притронулись к еде.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>И правда. Раз уж всё купили, надо съесть."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_END_01",
+   "key": "99cd9db0",
+   "ru": "(Как весело было болтать с парнями весь день!\nНадо будет повторить!)"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_FLORIST_NOCHILD",
+   "key": "183d53e1",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nБатюшки. Хочешь собрать парней посидеть?\n<PAGE>\n<FACE_LAUGH>Конечно, можно! Я помогу прибраться в доме.\n<PAGE>\nА пока схожу к Кэрри, чтобы не мешать вам,\nмальчики."
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_FLORIST_CHILD",
+   "key": "c48495f2",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nБатюшки. Хочешь собрать парней посидеть?\n<PAGE>\n<FACE_LAUGH>Конечно, можно! Я помогу прибраться в доме.\n<PAGE>\nА потом мы с <CHILD_NAME> пока прогуляемся в Вестаун."
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_TEAGIRL_NOCHILD",
+   "key": "1c4943eb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nА? Хочешь собрать парней потусоваться?\n<PAGE>\n<FACE_LAUGH>Да, конечно! Зови всю компанию!\n<PAGE>\nЗа меня не волнуйся! Я схожу к Касуми!\nПовеселитесь!"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_TEAGIRL_CHILD",
+   "key": "bfadf519",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nА? Хочешь собрать парней потусоваться?\n<PAGE>\n<FACE_LAUGH>Да, конечно! Зови всю компанию!\n<PAGE>\nВозьму <CHILD_NAME> с собой к папе. Повеселитесь!"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_TEACHER_NOCHILD",
+   "key": "39aa0627",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nО? Хочешь собраться с другими парнями?\n<PAGE>\n<FACE_LAUGH>Разумеется, я не против.\n<PAGE>\nА я пока навещу Комари."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_TEACHER_CHILD",
+   "key": "612d4220",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nО? Хочешь собраться с другими парнями?\n<PAGE>\n<FACE_LAUGH>Разумеется, я не против.\n<PAGE>\nЯ возьму <CHILD_NAME> и схожу в свой старый дом."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_TWINOLDER_NOCHILD",
+   "key": "d8373a62",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nА? Хочешь собрать парней потусоваться?\n<PAGE>\n<FACE_LAUGH>Ну, не вижу проблем. Уверена, вам есть о чём\nпоговорить.\n<PAGE>\nТогда я схожу к Силуке."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_TWINOLDER_CHILD",
+   "key": "11a11c56",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nА? Хочешь собрать парней потусоваться?\n<PAGE>\n<FACE_LAUGH>Ну, не вижу проблем. Уверена, вам есть о чём\nпоговорить.\n<PAGE>\nПока вы сидите, я возьму <CHILD_NAME> и схожу к Силуке."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_TWINYOUNGER_NOCHILD",
+   "key": "ca7a70f5",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...Хочешь собрать парней?\n<PAGE>\n<FACE_LAUGH>М-м, можно. Дом для этого достаточно\nбольшой.\n<PAGE>\nТогда я схожу к Илуке."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_TWINYOUNGER_CHILD",
+   "key": "ff2719c0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...Хочешь собрать парней?\n<PAGE>\n<FACE_LAUGH>М-м, можно. Дом для этого достаточно\nбольшой.\n<PAGE>\nТогда я возьму <CHILD_NAME> и схожу к Илуке."
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_PRESENTER_NOCHILD",
+   "key": "1cba37d5",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто? Хочешь собраться с парнями?\n<PAGE>\n<FACE_LAUGH>Конечно! Я ничуть не против!\n<PAGE>\nТогда я схожу в “Гарден Гриль” перекусить!"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FRIENDS_MAN_WEDDING_PRESENTER_CHILD",
+   "key": "a04b5eaf",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто? Хочешь собраться с парнями?\n<PAGE>\n<FACE_LAUGH>Конечно! Я ничуть не против!\n<PAGE>\nЯ возьму <CHILD_NAME> на прогулку!"
   }
  ]
 }
