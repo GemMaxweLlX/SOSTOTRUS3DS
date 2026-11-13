@@ -1,0 +1,719 @@
+{
+ "file": "FreeEvent_Cooking",
+ "entries": [
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_COOKING_WIN_VETERAN",
+   "key": "d1d6a520",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТех, кто прошёл этот путь, называют\nзнатоками.\n<PAGE>\n<FACE_LAUGH>И твоё мастерство несомненно достойно этого\nзвания. Снимаю шляпу!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_COOKING_LOSE_EXPERT",
+   "key": "da2ef190",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nЗнаешь выражение “выше головы не\nпрыгнешь”?\n<PAGE>\n<FACE_NORMAL>Отказываюсь верить, что это про тебя. Просто\nтвои способности ещё не раскрылись в полной\nмере.\n<PAGE>\n<FACE_LAUGH>Твоя история на этом не заканчивается. Вот во\nчто я искренне верю. А ты?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_COOKING_LOSE_VETERAN",
+   "key": "d905a193",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПусть в этот раз не вышло, а в следующий? И\nчерез раз? И ещё через раз?\n<PAGE>\nТот, кто по-настоящему старается, в итоге\nбывает вознаграждён. Мыслить сиюминутно ―\nудел лишённых честолюбия."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_COOKING_WIN_LEGEND",
+   "key": "56807f68",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nСнимаю шляпу! Усердие и стойкость, что\nпривели тебя сюда, достойны восхищения даже\nчеловека науки вроде меня.\n<PAGE>\nКак человека я тебя искренне уважаю. Хм? А\nчто я думаю как твой возлюбленный?\n<PAGE>\n<FACE_LOVE>Ты знаешь ответ. Конечно, я это в тебе люблю.\nИначе мы бы не были вместе."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_COOKING_WIN_BEGINNER",
+   "key": "b66632b7",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Хотя для твоего уровня\nэто не было ли слишком легко?"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_COOKING_LOSE_VETERAN",
+   "key": "1733833a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТы не из тех, кто остановится на этом. Ты\nрасцветаешь в трудных условиях.\n<PAGE>\n<FACE_LAUGH>Иными словами, отныне верь в себя полностью.\nВ следующий раз покажи всем на конкурсе свои\nистинные способности."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_COOKING_LOSE_BEGINNER",
+   "key": "10645194",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nСчитать это простым поражением или нет ―\nрешать тебе. Однако я верю в твои\nспособности.\n<PAGE>\nЯ не хочу, чтобы ты сдавалась. Таковы мои\nистинные чувства на этот счёт."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_COOKING_WIN_VETERAN",
+   "key": "ec50cfbd",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nСнимаю шляпу! Мне очень нравится наблюдать,\nкак ты ставишь цели и добиваешься их.\n<PAGE>\nПочему-то это и меня ещё больше\nвдохновляет. Это ведь и есть связь между\nмужем и женой, верно?"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_COOKING_WIN_BEGINNER",
+   "key": "2cbcf223",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nКонечно, ты одержала верх над соперниками.\nКак муж, я всё это время видел, как ты\nтрудишься.\n<PAGE>\nЯ прекрасно знаю, на что ты способна. Поэтому\nничуть не удивлён."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_COOKING_LOSE_EXPERT",
+   "key": "a6871593",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nИнтересно, не могу ли я чем-нибудь помочь\nтебе на пути к вершине.\n<PAGE>\n<FACE_SAD>Разумеется, я считаю, что подобного следует\nдобиваться самостоятельно.\n<PAGE>\n<FACE_LAUGH>Однако как твой муж я обязан помогать."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_COOKING_LOSE_BEGINNER",
+   "key": "4f0cb66c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЛюди ― живые существа, и постоянное\nдвижение для нас не естественно.\n<PAGE>\nКогда вернёмся домой, приготовлю особый\nвитаминный напиток от усталости."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_COOKING_WIN_BEGINNER",
+   "key": "9d579242",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>. Это было великолепно."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_COOKING_WIN_VETERAN",
+   "key": "5d7457ee",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nПривет! Да это же сегодняшняя звезда! Я тебя\nждал!\n<PAGE>\nМожет, интервью для всех поклонников? ...Да\nшучу я!"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Apprentice_COOKING_WIN_EXPERT",
+   "key": "e9e65c93",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой, <_____MYNAME_____>! Но скажу кое-что\nофициально.\n<PAGE>\n<FACE_ANGRY>Эта улыбка, когда ты побеждаешь? Чтоб\nбольше такого не было!\n<PAGE>\nНет, стоп, я не о том! Улыбаться можно, но вот\nтак улыбаться нельзя, пока не придём домой!\n<PAGE>\n<FACE_SAD>В смысле, ты была такая милая... а я не хочу\nни с кем этим делиться!"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_COOKING_WIN_EXPERT",
+   "key": "a6ac0f1e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНеплохо, первое место. Сколько труда\nвложено, да? Молодец, <_____MYNAME_____>."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_COOKING_LOSE_BEGINNER",
+   "key": "b782f72b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nСегодня выступление было за тобой, а я\nсмотрел и отлично провёл время. Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_COOKING_WIN_EXPERT",
+   "key": "a92e84cc",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой в классе “Мастер”!\n<PAGE>\n<FACE_NORMAL>Хм... Похоже, для тебя это ерунда. Теперь мне\nнеловко, что я так разволновалась."
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_COOKING_LOSE_LEGEND",
+   "key": "6fb9d40e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОго-о-о! Вот на что стоило посмотреть.\nВидно, название “Легенда” не для красоты, а?\n<PAGE>\nБудь я судьёй, всем бы дала первое место!"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_COOKING_LOSE_EXPERT",
+   "key": "15cb7865",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nХорошая попытка, <_____MYNAME_____>. Ну как? Было весело?\n<PAGE>\n<FACE_LAUGH>Это конкурс и всё такое, так что, знаю,\nдумаешь о победе, но не забывай, что должно\nбыть и весело.\n<PAGE>\nА по-моему, настоящий победитель ― тот,\nкому веселее всех!"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_COOKING_LOSE_VETERAN",
+   "key": "4740d082",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nОх, так не пойдёт! Если так вздыхать, всё\nсчастье улетучится!\n<PAGE>\n<FACE_NORMAL>Ужасно жалко растерять всю радость из-за\nодного поражения. Ну-ка, давай вернём эти\nвздохи обратно! Живо!"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_COOKING_WIN_LEGEND",
+   "key": "64119921",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой, <_____MYNAME_____>! Я знала, что мой\nпарень справится! Мой! Мой парень!\n<PAGE>\n<FACE_NORMAL>Хм? Почему я дважды сказала? Ну, знаешь. У\nменя о-о-очень важная причина!\n<PAGE>\n<FACE_SAD>Ведь все трещат о том, какой ты крутой!\n<PAGE>\nВот я и решила подчеркнуть, что ты МОЙ\nпарень.\n<PAGE>\nХм? Ты не против?\n<PAGE>\n<FACE_LOVE>Дурачок."
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_COOKING_WIN_EXPERT",
+   "key": "1151136a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! Ты был такой крутой,\nчто я влюбилась в тебя заново.\n<PAGE>\nТеперь бери ответственность за то, что я так к\nтебе отношусь!"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_COOKING_LOSE_LEGEND",
+   "key": "34b6e648",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nХорошая попытка, <_____MYNAME_____>. Хм? Расстроена ли я, что\nты не победил?\n<PAGE>\n<FACE_LAUGH>А-ха-ха! Конечно, нет! Я знаю, как ты всегда\nстараешься.\n<PAGE>\n<FACE_LOVE>И вообще, даже если не победил, ничего\nстрашного. Да хоть бы ты там был совсем не\nкрутым ― тоже ничего!\n<PAGE>\nЭто всё важные части тебя, и я люблю тебя\nтаким, какой ты есть!"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_COOKING_LOSE_VETERAN",
+   "key": "38ac1359",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nХорошая попытка. Эй, чего такой надутый? Не\nкисни из-за одного-двух проигрышей!\n<PAGE>\n<FACE_LAUGH>Сколько раз надо проиграть, чтобы можно\nбыло расстраиваться? Ну, посмотрим...\nПроиграй хотя бы раз тридцать, тогда можно!\n<PAGE>\n<FACE_SAD>Стоп, что я вообще несу! Какая разница\nсколько раз?! Не в этом дело!\n<PAGE>\n<FACE_LAUGH>Ну, раз я ещё могу так дурачиться, видно, всё\nбудет нормально."
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_COOKING_WIN_EXPERT",
+   "key": "82ab81a8",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! Эй, все! Мой муж ―\nсамый крутой парень на свете! ♪\n<PAGE>\n<FACE_NORMAL>Стоп, раз это класс “Мастер”, а не “Легенда”,\nзначит, ты НЕ лучший в мире?\n<PAGE>\n<FACE_LOSS>Ох, не надо понимать всё буквально! Я не об\nэтом. Я о том, что для меня ты самый крутой...\nчто бы ни было!\n<PAGE>\n<FACE_LOVE>Ох! И не заставляй меня повторять, а то я\nсовсем смущусь!"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_COOKING_WIN_VETERAN",
+   "key": "19c94172",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! Сегодня будем\nпраздновать. ♪\n<PAGE>\nПриготовлю все твои любимые блюда, так что\nготовься гулять!"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_COOKING_WIN_BEGINNER",
+   "key": "f4a06703",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! <_____MYNAME_____>, ты так стараешься.\n<PAGE>\nРада, что все эти люди это видят. Потому что\nя-то точно вижу!"
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_COOKING_LOSE_LEGEND",
+   "key": "bdcacb5e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nСейчас во мне борется материнский инстинкт.\n<PAGE>\n<FACE_LOSS>У нас будет ребёнок? Нет! Я не об этом.\nПросто ты вернулся ко мне с таким унылым\nлицом.\n<PAGE>\nИ мне вдруг захотелось крепко тебя обнять и\nутешить.\n<PAGE>\n<FACE_LOVE>Стоп, почему это ты меня обнимаешь?! Должно\nже быть наоборот, правда?!\n<PAGE>\nОх, ладно! Делай что хочешь! Я вовсе не\nпротив!"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_COOKING_LOSE_EXPERT",
+   "key": "a786f7eb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nДля меня ты лучший муж на свете.\nСамый-самый. Вершина горы!\n<PAGE>\n<FACE_NORMAL>Так что, знаю, тебе, может, грустно, что не\nпервое место, но пока довольствуйся тем, что\nты мой бессменный номер один!\n<PAGE>\n<FACE_LAUGH>Всё будет хорошо. Рано или поздно ты будешь\nвсё время занимать первое место. Так часто\nбудешь побеждать, что надоест! ♪"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_COOKING_LOSE_VETERAN",
+   "key": "9b942db0",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nХорошая попытка! Дома приготовлю все твои\nлюбимые блюда. Это моя особая “Награда\nтрудяге”. ♪\n<PAGE>\nЕсли хочешь, чтобы я ещё что-нибудь для тебя\nсделала, только скажи!"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_COOKING_LOSE_BEGINNER",
+   "key": "681030a8",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nУ-у-ух, как обидно. Ты так старался... Что\nпошло не так...?\n<PAGE>\n<FACE_LAUGH>Ладно, давай до следующего конкурса\nразберёмся, что нужно, чтобы победить!"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_COOKING_WIN_LEGEND",
+   "key": "d7b3f6fc",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПобеда в таком высоком классе требует\nнезаурядных усилий.\n<PAGE>\nПоздравляю с победой, <_____MYNAME_____>."
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_COOKING_WIN_EXPERT",
+   "key": "fb12ebe8",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nТвоя победа ― итог неустанного труда и\nстараний.\n<PAGE>\nПоздравляю с победой, <_____MYNAME_____>."
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_COOKING_WIN_VETERAN",
+   "key": "a9ec801a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЯ безмерно рада, что все твои старания\nпризнаны."
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_COOKING_WIN_BEGINNER",
+   "key": "08818bec",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Это было великолепно."
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_COOKING_LOSE_LEGEND",
+   "key": "6c133efc",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nКапля камень точит. Есть у нас такая\nпословица.\n<PAGE>\nПусть на это уходят годы, но даже капли\nдождя в конце концов пробивают в камне\nотверстие.\n<PAGE>\nИными словами, мастерство ― ещё не всё. Если\nупорствовать, в конце концов упорство будет\nвознаграждено.\n<PAGE>\nПрими мои слова близко к сердцу. Никогда не\nсдавайся перед поражением."
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_COOKING_LOSE_EXPERT",
+   "key": "e7d1addc",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nКакой бы ни был путь, овладеть им никогда не\nбывает легко.\n<PAGE>\nВажно учиться на поражениях."
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_COOKING_LOSE_VETERAN",
+   "key": "7006972c",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, к победе в этом классе пока не всё\nготово. Исправить это можно лишь одним\nспособом: тщательными тренировками!"
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_COOKING_LOSE_BEGINNER",
+   "key": "7791936e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПоражение лишь из-за недостатка опыта и\nусилий. Упорная практика в итоге окупится."
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_COOKING_WIN_LEGEND",
+   "key": "3cd845e4",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Я безмерно рада, что\nвсе твои старания признаны.\n<PAGE>\n<FACE_LOSS>Что? Хочешь награду? Только не говори, что\nты всё это делал в надежде что-то от меня\nполучить даром?\n<PAGE>\n<FACE_NORMAL>Что ж, полагаю, это допустимо. Если это не\nчто-то непристойное, я постараюсь исполнить.\n<PAGE>\n<FACE_LOVE>...ЧТО?! Э-это непристойная просьба! Батюшки,\nо чём ты только думаешь?!"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_COOKING_WIN_VETERAN",
+   "key": "a351096e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Я не отрывала глаз от\nтвоей доблестной фигуры до самого конца.\n<PAGE>\n<FACE_LOVE>Сегодня ты сиял ещё ярче обычного. Ты был\nвеликолепен."
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_COOKING_WIN_BEGINNER",
+   "key": "a2759ebb",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Хотя, учитывая твои\nталанты, результат не так уж удивителен.\n<PAGE>\nИ всё же твоя победа весьма трогательна!"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_COOKING_LOSE_LEGEND",
+   "key": "6e82a18d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХорошая работа. Похоже, победить в этом\nклассе будет не так просто.\n<PAGE>\n<FACE_LAUGH>Однако я знаю, что со временем ты выйдешь на\nпервое место. Почему я так думаю?\n<PAGE>\n<FACE_LOVE>Приведу пример. Ты сумел завоевать моё\nсердце, терпеливо разговаривая со мной,\nнесмотря на мои трудности с мужчинами.\n<PAGE>\nТак что я уже знаю: если ты будешь терпелив и\nусерден, у тебя хватит сил добиться\nзадуманного.\n<PAGE>\n<FACE_LAUGH>Если не сдашься, непременно победишь.\nДокажи, что я права!"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_COOKING_LOSE_EXPERT",
+   "key": "1252803d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nХорошо. Ты старался изо всех сил.\n<PAGE>\n<FACE_LOSS>...А?!\n<PAGE>\n<FACE_LOVE>П-прости! Видимо, я всё ещё в “учительском\nрежиме” с работы.\n<PAGE>\nГладить тебя по голове, как ребёнка... ужасно\nгрубо по отношению к взрослому мужчине!\nПриношу глубочайшие извинения!"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_COOKING_LOSE_VETERAN",
+   "key": "2d287482",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nУ меня немного пересохло в горле.\n<PAGE>\n<FACE_LAUGH>Если потом будет время, не хочешь зайти ко\nмне на чай?\n<PAGE>\nУ меня как раз есть чудесный успокаивающий\nчай, и мне хотелось, чтобы ты его попробовал."
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_COOKING_LOSE_BEGINNER",
+   "key": "59ae6b85",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nКак жаль в этот раз. Однако от поражений\nбывает на удивление много пользы.\n<PAGE>\nИспользуй этот опыт и усердно готовься к\nследующему конкурсу."
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_COOKING_WIN_LEGEND",
+   "key": "752f89b9",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПоздравляю с побе... И-и-и-и-и!\n<PAGE>\n<FACE_LOVE>Я-я понимаю, что ты рад, но о чём ты\nдумаешь, хватая меня так?!\n<PAGE>\nПотом я с радостью тебя побалую, так дай\nхотя бы выполнить долг и произнести\nположенные поздравления!\n<PAGE>\n<FACE_LAUGH>Поздравляю с победой. Как жена я глубоко\nрада, что твои старания принесли плоды."
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_COOKING_WIN_EXPERT",
+   "key": "df072056",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Что? Хочешь осязаемую\nнаграду за своё поведение?\n<PAGE>\nХм, верно. Я ведь видела, как ты трудился.\nХорошо. Чего ты хочешь?\n<PAGE>\n<FACE_LOVE>...ЧТО?! Э-это... Нет, э-э... Ну, я... Да, поняла.\nНе нужно подробностей. Приму к сведению."
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_COOKING_WIN_VETERAN",
+   "key": "0e5447ee",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Полагаю, больше тут и\nсказать нечего, верно?\n<PAGE>\nДома я устрою настоящее празднование.\n<PAGE>\nЕсли хочешь чего-нибудь отведать в честь\nпобеды, не стесняйся сказать."
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_COOKING_WIN_BEGINNER",
+   "key": "e99b3cdc",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Как жене мне приятно\nвидеть, что твоё мастерство по достоинству\nпризнано."
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_COOKING_LOSE_LEGEND",
+   "key": "ef778217",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_SAD>\r\nЖаль, что победа ускользнула. Мне тоже\nобидно. Хм? Тебя это не волнует?\n<PAGE>\n<FACE_NORMAL>Порой в такие моменты ты надеваешь маску и\nделаешь вид, что всё в порядке, чтобы не\nтревожить окружающих.\n<PAGE>\nЯ наблюдаю за тобой днём и ночью, куда\nбольше, чем до того, как стала твоей женой, и\nменя не проведёшь.\n<PAGE>\n<FACE_LOVE>Э-э, насчёт н-наблюдения днём и ночью... Я-я\nэтого не говорила! Пожалуйста, сотри эти\nслова из памяти!"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_COOKING_LOSE_EXPERT",
+   "key": "3d4c4347",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nОтличные старания. Жаль, что победы не\nбыло. Но у всех бывают такие дни.\n<PAGE>\n<FACE_LAUGH>Дома заварю тебе вкусного чаю. Передохни и\nрасслабься. Ты это заслужил."
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_COOKING_LOSE_VETERAN",
+   "key": "eea0c034",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_SAD>\r\nМогу ли я что-нибудь для тебя сделать?\n<PAGE>\n<FACE_NORMAL>Если я могу чем-то помочь, как жена я хочу\nбыть рядом."
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_COOKING_LOSE_BEGINNER",
+   "key": "961dd0a2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nКак бы ты ни трудился и как бы ни был готов,\nиногда просто не везёт с соперниками.\n<PAGE>\n<FACE_LAUGH>Не будь к себе так строг. Я знаю, как ты\nстараешься."
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_COOKING_WIN_LEGEND",
+   "key": "7e4185fb",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nМолодец, победа твоя. Класс “Легенда” ― не\nшутки.\n<PAGE>\nВечно ты такой тугодум, но когда надо, умеешь\nсделать дело, а?"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_COOKING_WIN_EXPERT",
+   "key": "7ffa7c6e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nМолодец, победа в классе “Мастер”! ♪\n<PAGE>\nЭй, что за лицо? Тебя хвалит сама я! Это\nредкость!"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_COOKING_WIN_BEGINNER",
+   "key": "d6bc7ccd",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nМолодец, победа твоя. Только не понимаю, как\nтак вышло."
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_COOKING_LOSE_VETERAN",
+   "key": "06c1f080",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nХватит строить эту раздражающую мину!\nРезультат уже не изменишь.\n<PAGE>\nЕсли есть время хандрить, может, лучше\nпотратить его на подготовку к следующему\nконкурсу?"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_COOKING_LOSE_BEGINNER",
+   "key": "b5920dab",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nНе победа? Соберись и тренируйся."
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_COOKING_WIN_LEGEND",
+   "key": "1c111e80",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nМолодец, победа твоя. Эй, <_____MYNAME_____>? Мне сегодня\nкак-то странно.\n<PAGE>\n<FACE_LOVE>В смысле, у меня сердце колотится, просто\nкогда на тебя смотрю.\n<PAGE>\nНе могу объяснить, почему ты так на меня\nдействуешь."
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_COOKING_WIN_EXPERT",
+   "key": "7af10565",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nМолодец, победа твоя. Твоя аура сегодня ярко\nсияет.\n<PAGE>\n<FACE_LOVE>Может, поэтому ты показался мне там самую\nчуточку крутым. Ой, только держи это при\nсебе, ладно?"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_COOKING_WIN_VETERAN",
+   "key": "20c41bab",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nМолодец, победа твоя. Я знала, что ты\nвыйдешь на первое место.\n<PAGE>\n<FACE_LOVE>Н-но не то чтобы я в тебя верила или что-то\nтакое, ясно? Это интуиция! Да, шестое чувство!"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_COOKING_WIN_BEGINNER",
+   "key": "ad814103",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nМолодец, <_____MYNAME_____>. ♪ Но раз ты мой парень, от тебя\nдругого и не жду.\n<PAGE>\nИ я знаю, что в следующий раз ты тоже\nпобедишь! ♪"
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_COOKING_LOSE_VETERAN",
+   "key": "3a908e1e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nУ тебя есть планы после этого, <_____MYNAME_____>? Нет, да?\nТогда пошли ко мне.\n<PAGE>\n<FACE_LOSS>Когда ты так подавлен, меня это выбивает из\nколеи.\n<PAGE>\n<FACE_LAUGH>Даже чаю налью, чтобы ты расслабился.\nНечего хандрить!"
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_COOKING_LOSE_BEGINNER",
+   "key": "f39a3435",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nХорошая попытка, <_____MYNAME_____>. Жаль с конкурсом, но, эй,\nбудет и следующий раз.\n<PAGE>\n<FACE_LOSS>Тебе странно, когда я такая искренняя? Что?!\nКак грубо!\n<PAGE>\n<FACE_NORMAL>Даже мне хочется подбодрить своего парня,\nкогда ему плохо!"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_COOKING_WIN_EXPERT",
+   "key": "6850b48e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТы потрясающий! Молодец, <_____MYNAME_____>!\n<PAGE>\n<FACE_NORMAL>Что? Думаешь, у меня слёзы на глазах?\n<PAGE>\n<FACE_LOVE>Тебе кажется! Вовсе я не растрогалась до слёз\nот твоей победы!"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_COOKING_WIN_VETERAN",
+   "key": "b5619900",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! А ты талантливый, знаешь? ♪\n<PAGE>\nСегодня приготовлю твоё любимое блюдо, <_____MYNAME_____>. ♪\nОтпразднуем на полную. ♪"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_COOKING_WIN_BEGINNER",
+   "key": "6c81a4b8",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nМолодец! Ты так хорошо справился, <_____MYNAME_____>! Как я\nгоржусь своим потрясающим мужем! ♪"
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_COOKING_LOSE_LEGEND",
+   "key": "69547118",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nПо-моему, это твоё лицо ― просто нечестно.\n<PAGE>\nКогда ты так смотришь, мне хочется сделать\nвсё, чтобы тебе стало лучше.\n<PAGE>\n<FACE_NORMAL>Ч-чего хихикаешь? Так рад, что у тебя такая\nдобрая, прелестная жена?\n<PAGE>\n<FACE_LOVE>Д-дурачок! Я всерьёз думаю, как тебя утешить!"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_COOKING_LOSE_EXPERT",
+   "key": "f9994ba2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧего хочешь сегодня на ужин? Приготовлю что\nзахочешь.\n<PAGE>\nА потом... потру тебе спину, почищу уши и\nдаже разрешу обнимать меня, пока спим.\n<PAGE>\nЯ ведь нечасто такое для тебя делаю, да?\nИногда проиграть не так уж плохо, а?\n<PAGE>\nЭто ведь куда лучше награды, которую ты\nполучил бы за победу!"
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_COOKING_LOSE_VETERAN",
+   "key": "d81dda42",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНа сегодня всё. Пошли скорее домой\nготовиться к следующему конкурсу!\n<PAGE>\nМне нельзя показываться на людях с мужем,\nкоторый вечно проигрывает!"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_COOKING_LOSE_BEGINNER",
+   "key": "f312b515",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНу вот и всё. Что сегодня случилось?\n<PAGE>\n<FACE_LOSS>Ты был сам не свой. Что-то не так?"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_COOKING_WIN_BEGINNER",
+   "key": "95c03dd3",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПолучилось! Все старания окупились."
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_COOKING_LOSE_LEGEND",
+   "key": "09f531ab",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nТы ближе к природе, чем победитель, <_____MYNAME_____>.\n<PAGE>\nПоэтому однажды победишь! По крайней мере,\nтак я предвижу."
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_COOKING_WIN_LEGEND",
+   "key": "ddd44808",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, подними руки, как будто ликуешь.\n<PAGE>\nПодержи три секунды, опусти, потом сомкни\nобе руки кольцом. Три... Два... Один...\n<PAGE>\n<FACE_LOVE>...Обнимашки!\n<PAGE>\nТы победил, <_____MYNAME_____>. А это праздничные объятия!"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_COOKING_WIN_EXPERT",
+   "key": "cfe1ddae",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПолучилось! Все говорили, что ты крутой. И я\nполностью согласна!\n<PAGE>\n<FACE_LOSS>Но... мне как-то немного грустно. Может,\nпотому что хочу, чтобы ты был только мой?\n<PAGE>\n<FACE_LOVE>Наверное, я такая жадная, потому что мне не\nхватает <_____MYNAME_____> в жизни.\n<PAGE>\nОтныне нам придётся побольше нежничать.\nПрирода того требует!"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_COOKING_LOSE_LEGEND",
+   "key": "5d72ff63",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_SAD>\r\nТы доблестно боролся. Жаль, что не\nполучилось победить.\n<PAGE>\n<FACE_LAUGH>Но раз ты не победил, я сразу пришла\nпоговорить, и никто не мешает.\n<PAGE>\nХочу быть с тобой как можно больше, <_____MYNAME_____>. Без\nтебя мне... одиноко.\n<PAGE>\n<FACE_LOVE>Поэтому я рада, что можно поговорить\nподольше. Знаю, ты проиграл, и не стоило бы\nтакое говорить... но это так правильно!"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_COOKING_LOSE_EXPERT",
+   "key": "303ec136",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПрисядь, <_____MYNAME_____>.\n<PAGE>\n<FACE_LAUGH>Ну-ну.\n<PAGE>\nПолегчало? Хорошо."
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_COOKING_LOSE_VETERAN",
+   "key": "a1c1c3b3",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nХорошая работа. Может, потом поедим\nвместе? <_____MYNAME_____>, можно?\n<PAGE>\n<FACE_LAUGH>У тебя такой грустный вид, <_____MYNAME_____>. Не могу оставить\nтебя одного. К тому же хочу побыть с тобой\nподольше!"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_COOKING_LOSE_BEGINNER",
+   "key": "a391aafb",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_SAD>\r\nКак тебя подбодрить, <_____MYNAME_____>? Если я что-то могу\nсделать, пожалуйста, скажи.\n<PAGE>\nКогда тебе грустно, мне тоже грустно, <_____MYNAME_____>!\n*вздох*"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_COOKING_WIN_LEGEND",
+   "key": "57743c00",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nТы так старался, что заслужил награду! Что\nтебя порадует, <_____MYNAME_____>?\n<PAGE>\nПраздничный поцелуй в щёку? Поняла. Закрой\nглаза. Поздравляю, <_____MYNAME_____>!\n<PAGE>\n<FACE_LOVE>Думаешь, это было не в щёку? Э, наверняка\nтебе показалось."
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_COOKING_WIN_EXPERT",
+   "key": "f14c7d31",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПолучилось, <_____MYNAME_____>! Сегодня приготовлю твоё\nлюбимое блюдо.\n<PAGE>\n<FACE_LOVE>Ты так старался, <_____MYNAME_____>, хочу наградить тебя как\nтолько могу!"
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_COOKING_WIN_VETERAN",
+   "key": "e21aa7d0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПолучилось, <_____MYNAME_____>. Ты так ликовал, что и мне стало\nрадостно.\n<PAGE>\n<FACE_LOVE>Видно, теперь мы одно тело и одна душа. Хочу\nделить с тобой ещё больше чувств, <_____MYNAME_____>."
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_COOKING_WIN_BEGINNER",
+   "key": "fb6c25b4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПолучилось! Я знала, что ты сможешь, <_____MYNAME_____>.\n<PAGE>\nТвои старания окупились. Ты это заслужил!"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_COOKING_LOSE_LEGEND",
+   "key": "29c2ab41",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, присядь.\n<PAGE>\n<FACE_LOSS>Эй, ты чего?\n<PAGE>\n<FACE_SAD>Не дразнись! Если не присядешь, я не дотянусь.\nНе смогу погладить тебя по голове.\n<PAGE>\n<FACE_ANGRY>Больше не буду тебя утешать, <_____MYNAME_____>. Вредина!\nИзвиняться уже поздно.\n<PAGE>\n<FACE_LOVE>М-м, попался.\n<PAGE>\nПоймала. Больше не дразни меня, ладно?"
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_COOKING_LOSE_BEGINNER",
+   "key": "ee434790",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nТы проиграл, <_____MYNAME_____>. Но природа, как всегда, тебя\nлюбит.\n<PAGE>\n<FACE_LAUGH>Так что, если не сдашься, <_____MYNAME_____>, день победы\nобязательно настанет."
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_COOKING_WIN_VETERAN",
+   "key": "de2c4235",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nХочу поздравить тебя от всей души с таким\nчудесным результатом."
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_COOKING_WIN_BEGINNER",
+   "key": "18ed2ef9",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nВидела тебя в деле. Поздравляю с победой."
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_COOKING_LOSE_BEGINNER",
+   "key": "44e77715",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nЛюди судят невероятно строго и точно. Глядя\nна это состязание, не могу не восхищаться."
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_COOKING_WIN_VETERAN",
+   "key": "9f37f370",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nТакая победа... Хочу поздравить тебя от всей\nдуши с таким чудесным результатом."
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_COOKING_WIN_BEGINNER",
+   "key": "18ed2ef9",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nВидела тебя в деле. Поздравляю с победой."
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_COOKING_LOSE_LEGEND",
+   "key": "d85854a6",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nПобеда без роста лишь порождает самомнение.\n<PAGE>\n<FACE_LAUGH>Проигрывать тяжело, но, по-моему, иметь\nсоперника, с которым стремишься к общей\nцели, ― это хорошо."
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_COOKING_LOSE_EXPERT",
+   "key": "d3a65b46",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nВот как. Люди совершенствуются, соревнуясь\nдруг с другом и тянясь к новым высотам.\n<PAGE>\n<FACE_LAUGH>Хм, как трогательно! С нетерпением жду, как\nты вырастешь после этого."
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_COOKING_LOSE_BEGINNER",
+   "key": "44e77715",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nЛюди судят невероятно строго и точно. Глядя\nна это состязание, не могу не восхищаться."
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_COOKING_WIN_LEGEND",
+   "key": "211de553",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, можешь присесть передо мной?\n<PAGE>\n...М-м. Это поцелуй-благословение.\n<PAGE>\nМне нельзя давать волшебные благословения из\nличных чувств.\n<PAGE>\nТак что особой силы, как у обычного оберега,\nв нём нет, но в него вложены мои чувства к\nтебе. Поздравляю."
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_COOKING_WIN_BEGINNER",
+   "key": "a7edf211",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nВидела тебя, <_____MYNAME_____>! Как я рада, что все твои\nстарания принесли плоды.\n<PAGE>\nПоздравляю с победой, <_____MYNAME_____>."
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_COOKING_LOSE_LEGEND",
+   "key": "8d5923cf",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>! М-мои... Можешь потрогать мои ушки!\n<PAGE>\nНевыносимо видеть тебя таким грустным. Не\nлюблю, когда трогают уши, но если тебе станет\nлегче...\n<PAGE>\n<FACE_SAD>Ва-а-а-а-а?!\n<PAGE>\nЯ разрешила, но мог(ла) бы хоть чуточку\nподождать! Эй, постой!\n<PAGE>\n*ах* Тебе... вовсе не грустно, да?! Не стоило\nза тебя переживать, нахальное создание!"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_COOKING_LOSE_EXPERT",
+   "key": "74b4dd52",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nСлышала, в такие времена люди подставляют\nдруг другу плечо. Так что, если не против...\n<PAGE>\n<FACE_SAD>М-моё плечо далековато? Хм. Хочешь сказать,\nчто я маленькая?! Задире полагается...\n<PAGE>\n<FACE_LAUGH>...наказание объятиями!\n<PAGE>\nВ наказание тебе не двинуться. А ещё я тебя\nподбадриваю. Двух зайцев одним выстрелом!"
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_COOKING_LOSE_LEGEND",
+   "key": "035c5ef3",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nСтарания были, верно? Тогда с этого конкурса\nты унесёшь кое-что поважнее победы.\n<PAGE>\nЯ и все в городе видим, как ты трудишься, <_____MYNAME_____>.\n<PAGE>\nЖаль, что не победа, но будет и следующий\nраз."
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_COOKING_LOSE_EXPERT",
+   "key": "cd9da14b",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nТы выложился по полной. Больше ничего и не\nсделаешь!\n<PAGE>\nХочется верить, что я знаю, как ты трудишься,\n<_____MYNAME_____>.\n<PAGE>\nЖаль, что не победа, но будет и следующий\nраз."
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_COOKING_LOSE_VETERAN",
+   "key": "148c679f",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nНу? Как конкурс? Жаль, что не победа, но ты\nотдал(а) всё, что мог(ла)!\n<PAGE>\nНичего страшного. Ты ещё молод! Шансов\nбудет полно."
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_COOKING_LOSE_BEGINNER",
+   "key": "c2c74c37",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, старания налицо!\n<PAGE>\nА конкурс-то понравился? Это самое главное."
+  }
+ ]
+}
