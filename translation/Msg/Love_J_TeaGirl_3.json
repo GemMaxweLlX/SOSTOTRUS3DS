@@ -1,0 +1,173 @@
+{
+ "file": "Love_J_TeaGirl_3",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_00",
+   "key": "e15c81d6",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_SAD>\r\nКомари в беде."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_01",
+   "key": "a0faeef1",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_SAD>\r\nИди за мной."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_02",
+   "key": "35396b0e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_R>..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_03",
+   "key": "cf92ba05",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_R>О. Привет, <_____MYNAME_____>.\n<PAGE>\nПрости. Вдруг живот... ой, больно."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_04",
+   "key": "40c1e7c0",
+   "ru": "(Ой-ой. Комари совсем плохо. Надо скорее\nотнести её домой!)"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_05",
+   "key": "e45916ea",
+   "ru": "<FACE_TEAGIRL>\r\nА? Ты что...?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_06",
+   "key": "fbfb4e57",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nП-погоди! Поставь меня. Пожалуйста! Это, э-э,\nкак-то неловко."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_07",
+   "key": "590e74bf",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nЯ серьёзно. Поставь меня. Я могу идти, если\nкто-нибудь подставит плечо. Пожалуйста, <_____MYNAME_____>?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_08",
+   "key": "99640f24",
+   "ru": "Поставить Комари"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_09",
+   "key": "94ffde6b",
+   "ru": "Нести её дальше"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_10",
+   "key": "d41e914f",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nФух...\n<PAGE>\nСпасибо, <_____MYNAME_____>. Яити. Я вам обоим должна."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_11",
+   "key": "23bbeceb",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nОчень ценю вашу помощь. А теперь простите,\nно я, пожалуй, прилягу. Немного вздремну ― и\nвсё пройдёт.\n<PAGE>\n<FACE_SAD>Знаю, у вас двоих были свои дела. Простите,\nчто так вас отвлекла.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>Комари. Выздоравливай."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_12",
+   "key": "7fc02a8b",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nВот. Мне гораздо лучше. Хорошо, что боль так\nбыстро прошла."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_13",
+   "key": "9191e537",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>...! Ты вернулся только чтобы меня проведать?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_14",
+   "key": "96b0b076",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nСпасибо. Мне правда приятно. О! Не волнуйся.\nЯ уже в порядке.\n<PAGE>\n<FACE_NORMAL>Ага... в порядке...\n<PAGE>\n<FACE_SAD>..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_15",
+   "key": "b7305822",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_SAD>\r\nОчень ценю, что ты подставил мне плечо,\nчтобы дойти сюда.\n<PAGE>\n<FACE_LOVE>И эм... До этого. Ты, эм... нёс меня на руках.\nДа?\n<PAGE>\nЭто, э-э... так ведь обычно все делают... да?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_16",
+   "key": "463107f0",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOVE>\r\nЭм!! Неважно!! Ох, что я несу? Что-то на меня\nнашло.\n<PAGE>\nЗабудь, что я сказала. Ладно?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_17",
+   "key": "50a219e4",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nАга! Забудь всё! Ага. Ничего я не говорила.\nА-ха-ха-ха-ха!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_18",
+   "key": "38935083",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nЕщё раз спасибо. Заходи как-нибудь в чайную.\nУвидимся там."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_19",
+   "key": "7409b9b0",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_SAD>\r\nОх, какая я дура. Зачем я такое сказала?\n<PAGE>\n<FACE_ANGRY>Тут отчасти и <_____MYNAME_____> виноват! По мне не скажешь, но\nя довольно наивная! Я это знаю!\n<PAGE>\n<WINDOW_PALPITATION_L><FACE_LOVE>Когда тебя так поднимают на руки... конечно,\nэто для меня слишком!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_20",
+   "key": "52697198",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nД-да ладно! Это... это нести как принцессу ―\nдля меня уже слишком!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_21",
+   "key": "7552b7e8",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nЕщё раз спасибо за помощь. Я правда тебе\nдолжна.\n<PAGE>\n<FACE_LOVE>И, эм... н-насчёт того, что ты, э-э... нёс меня\nвот так.\n<PAGE>\nМожет, по мне не скажешь, но я довольно\nнаивная во всём, э-э, таком...\n<PAGE>\nТак что мне было ужасно неловко, но... и в то\nже время я чувствовала себя... не знаю... в\nбезопасности.\n<PAGE>\nЯ и тогда так подумала, когда ты помогал мне\nтренироваться обслуживать посетителей, но...\n<PAGE>\n<WINDOW_PALPITATION_L>Мне не так уж и плохо, когда ты, ну...\nобращаешься со мной как с леди."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_22",
+   "key": "07b483a0",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nО, э-э. Ничего. Не обращай внимания на\nпоследнее. Это я сама с собой."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_3_23",
+   "key": "cada443f",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_HEART_L>Хи-хи... Он нёс меня как принцессу. От одной\nмысли улыбаюсь как дурочка."
+  }
+ ]
+}

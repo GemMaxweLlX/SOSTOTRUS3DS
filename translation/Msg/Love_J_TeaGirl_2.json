@@ -1,0 +1,166 @@
+{
+ "file": "Love_J_TeaGirl_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_00",
+   "key": "73972307",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nТак не годится. Попробуй ещё раз с начала.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Ладно...\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Добро пожаловать!\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Позвольте проводить вас к столику.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Ну чё, выбрали... ОЙ!\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>“Вы уже определились с заказом?”, Комари.\nЕщё раз.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS><WINDOW_SWEAT_L>Д-да."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_01",
+   "key": "ec79008d",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\nАх! <_____MYNAME_____>.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>Здравствуй. Пришёл навестить Комари?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_02",
+   "key": "e8768988",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nМы отрабатываем правильное обслуживание\nпосетителей. Гиндзиро попросил меня помочь\nей с вежливой речью.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Ох! Ага. Эм, вежливо разговаривать у меня не\nочень получается. Слишком фамильярничаю с\nпосетителями и веду себя как мальчишка.\n<PAGE>\nНу, как тогда, когда я прогнала тех двух\nпридурков. Можно было и повежливее, чем\nорать на них.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>Лично я считаю, что ты отлично обслуживаешь,\nно Гиндзиро, похоже, хотел бы, чтобы ты хоть\nнемного освоила женственные манеры.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Ага. Вот я и здесь. Прости, но мне ещё надо\nпотренироваться. Зайдёшь попозже?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_03",
+   "key": "0d8199d5",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\nЧто? Хочешь помочь?! Правда?\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>О, чудесная мысль, <_____MYNAME_____>. Мы будем рады твоей\nпомощи.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Ага. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_04",
+   "key": "004c0b88",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНе надо так широко и тяжело шагать, Комари.\nСтупай легче. Представь, что ты изящная ива."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_05",
+   "key": "b5ba9ba6",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nЛадно.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>Хорошо. Попробуй ещё раз пронести поднос\nоттуда сюда."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_06",
+   "key": "03e88c3e",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nСпасибо за терпение. Вот блюдо дня.\nПриятного аппетита.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>Не так сурово, Комари. Улыбнись.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>...!! Д-да.\n<PAGE>\n<FACE_LAUGH>Спасибо за терпение. Вот блюдо дня.\nПриятного аппетита."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_07",
+   "key": "c1bd5610",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОчень хорошо. Никогда не бегай. Даже если\nспешишь, помни: ходить нужно изящно.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Да..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_08",
+   "key": "5e99f3db",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДумаю, на сегодня хватит. Комари, у тебя\nхорошие успехи.\n<PAGE>\n<FACE_LAUGH><WINDOW_JOY_R>Продолжай так же усердно, и, уверена, скоро\nвсё освоишь. Не волнуйся.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS><WINDOW_DEFAULT>Д-да. Буду стараться. Большое спасибо.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>Что ж, до встречи. Вы оба сегодня молодцы."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_09",
+   "key": "146cddca",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\n<WINDOW_DISCOURAGEMENT_L>У-у-ух, как я устала. Пошевелиться не могу.\nСидзу говорила по-доброму, но мне кажется, у\nменя совсем ничего не выходит.\n<PAGE>\n<FACE_ANGRY><WINDOW_MOJA_L>К тому же мне всё равно никогда не стать\n“девчачьей” и “женственной”!\n<PAGE>\n<FACE_SAD>Когда же папа это поймёт? Хоть бы он уже\nотстал с этим."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_10",
+   "key": "22fccf49",
+   "ru": "(Похоже, Комари совсем выбилась из сил! Что\nей сказать?)"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_11",
+   "key": "3ac464f7",
+   "ru": "Ты и так очень женственная"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_12",
+   "key": "3868ac0c",
+   "ru": "Да, хоть бы он отстал"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_13",
+   "key": "c2f00611",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Не надо мне льстить и привирать. Я знаю, какая\nя. От этого мне только хуже."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_14",
+   "key": "5c448b1b",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_ANGER_L>Нет, я не ошибаюсь! Я совсем не женственная!!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_15",
+   "key": "bd5309f2",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOVE>\r\n<WINDOW_EXCLAMATION_L>Чего...?! Т-ты меня любишь?! С чего это\nвдруг?!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_16",
+   "key": "41e6b3ca",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\n<WINDOW_MOJA_L>О-ох. Так ты просто хотел сказать, что я тебе\nнравлюсь такой, какая есть. Ох! Чуть до\nинфаркта не довёл."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_17",
+   "key": "783c6aef",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOVE>\r\nДа ладно! Не надо меня столько хвалить!\n<PAGE>\n<FACE_LAUGH>Ох! Я уже собиралась захандрить, а ты всё\nиспортил."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_18",
+   "key": "64ca3f2c",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Хех. Спасибо. Я уже была готова совсем\nраскиснуть.\n<PAGE>\nВидно, я и так достаточно женственная, какая\nесть. Но всё равно попробую ещё немного эту\n“благовоспитанность”."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_19",
+   "key": "20417270",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Ага, передохнуть ― отличная мысль.\n<PAGE>\nПогоди. Тут где-то остались остатки папиного\nнового рецепта. Можем пожевать и поболтать."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_20",
+   "key": "4ee6bd8a",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nАга! Пусть отстанет! Вся эта “девчачья” фигня\n― совсем не моё."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_21",
+   "key": "056ddc6b",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_SAD>\r\nВ общем, пойду-ка я немного отдохну. Сил\nнет.\n<PAGE>\nПрости, <_____MYNAME_____>, может, поболтаем в другой раз? У\nменя просто... нет настроения."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_2_22",
+   "key": "c7607363",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Похоже, даже <_____MYNAME_____> не считает меня женственной.\n<PAGE>\n...\n<PAGE>\n<WINDOW_EXCLAMATION_L><FACE_LOSS>Стоп, о чём это я вообще?!\n<PAGE>\nОх. Видно, я так устала, что мозги\nпревратились в кисель. Не буду пока ни о чём\nдумать..."
+  }
+ ]
+}
