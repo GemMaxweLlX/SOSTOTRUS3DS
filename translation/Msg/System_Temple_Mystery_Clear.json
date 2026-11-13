@@ -1,0 +1,166 @@
+{
+ "file": "System_Temple_Mystery_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_000",
+   "key": "bba689f3",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nИтак, хочешь мне что-то показать?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_01",
+   "key": "7fd63ee2",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Три жёлтых полумесяца,\nсоединённых концами. Поднеси это алтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Три жёлтых полумесяца, соединённых\nконцами.” Теперь понятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_02",
+   "key": "87119419",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Горько-сладкое сокровище,\nзарытое в тропической земле. Поднеси это\nалтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Горько-сладкое сокровище, зарытое в\nтропической земле.” Теперь понятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_03",
+   "key": "2575ca8c",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Ножны из игл охраняют золотые\nкольца. Поднеси это алтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Ножны из игл охраняют золотые кольца.”\nТеперь понятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_04",
+   "key": "01141443",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Его кусочки могли бы осветить\nсамую тёмную ночь. Поднеси это алтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Его кусочки могли бы осветить самую тёмную\nночь.” Теперь понятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_05",
+   "key": "fafd72d3",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Горькая коричневая пилюля со\nсладкой душой. Поднеси это алтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Горькая коричневая пилюля со сладкой\nдушой.” Теперь понятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_06",
+   "key": "0492825d",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Нечто освежающее, как\nпрохладный тропический рассвет. Поднеси это\nалтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Нечто освежающее, как прохладный\nтропический рассвет.” Теперь понятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_07",
+   "key": "07e430b6",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Воплощение пламени, что жжёт\nболью всё, к чему прикоснётся. Поднеси это\nалтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Воплощение пламени, что жжёт болью всё, к\nчему прикоснётся.” Теперь понятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_08",
+   "key": "2ed48a35",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Золотой шар, что запечатывает\nуста. Поднеси это алтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Золотой шар, что запечатывает уста.” Теперь\nпонятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_09",
+   "key": "566af1ac",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Благородная пища, достойная\nкоролевы. Поднеси это алтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Благородная пища, достойная королевы.”\nТеперь понятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_10",
+   "key": "e04e44f1",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Самоцветы, что тонут в кислых\nволнах. Поднеси это алтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Самоцветы, что тонут в кислых волнах.”\nТеперь понятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_001_11",
+   "key": "e2012b10",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>? Да-да, очень мило...\n<PAGE>\nПогоди-ка... “Тонкие белые змеи купаются в\nбледном океане. Поднеси это алтарю.”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>“Тонкие белые змеи купаются в бледном\nокеане.” Теперь понятно!\n<PAGE>\nЗагадка гравюры разгадана!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_002",
+   "key": "8ef8c2d3",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляет, <_____MYNAME_____>! Из тебя вышел бы\nпотрясающий исследователь!\n<PAGE>\nМожет, бросишь фермерство и станешь моим\nассистентом?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_003",
+   "key": "06ae9387",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nХа-ха-ха. Шучу.\n<PAGE>\nЛучше позовём Лотуса.\n<PAGE>\nПора провести ритуал и открыть дверь!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_004",
+   "key": "36d2d72a",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nТак! <_____MYNAME_____>, подержи <BLUE><____ITEMNAME0____></BLUE>..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_005",
+   "key": "bcea915a",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nПо моему сигналу положи это на алтарь!\n<PAGE>\nНу что ж! Раз, два, три!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_006",
+   "key": "9d11dbbe",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nЗ-звучит так, будто движется что-то большое\nи тяжёлое..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_007",
+   "key": "7b7a61f9",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nКажется, на этот раз ты прав, Лотус! Идём!\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>Х-хорошо..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_008",
+   "key": "37bc3fac",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nВсё, что имеет научную ценность, я уже\nзабрала...\n<PAGE>\nНо если найдёшь что-то ещё, всё твоё. Мне не\nнужно.\n<PAGE>\nНу, мне пора. Исследования не ждут!\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>Д-до встречи...\n<PAGE>\n<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>Ах! Чуть не забыла! Надо забрать гравюру,\nперед тем как уйти."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_009",
+   "key": "28d485b4",
+   "ru": "Получено: <BLUE><____ITEMNAME1____></BLUE> × <MOJI0>!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_010",
+   "key": "e0bfba03",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nАх да, точно."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_011",
+   "key": "4bb7f680",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nРаз это добыто тобой, тебе и забирать домой."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_TEMPLE_MYSTERY_CLEAR_012",
+   "key": "79f81faf",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nНу вот, с этим покончено, мне пора. Надо\nписать отчёт."
+  }
+ ]
+}

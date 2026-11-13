@@ -1,0 +1,180 @@
+{
+ "file": "Celebration_Birthday_J",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_00",
+   "key": "c91019ce",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nО, вот и ты! Стой-ка вот тут."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_01",
+   "key": "07f923ed",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЭто займёт пару секунд..."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_02",
+   "key": "1c3bb83a",
+   "ru": "<FACE_TEAOWNER>\r\nПрости, что так внезапно завязали тебе глаза.\n<PAGE>\nВот, держись за руку и иди за мной. Сюда."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_03",
+   "key": "787975a8",
+   "ru": "<FACE_TEAOWNER>\r\n...Так. Можешь открыть глаза."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_04",
+   "key": "e13b536a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nСюрприз!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_05",
+   "key": "73bd4f21",
+   "ru": "<FONT_SIZE_L>С днём рождения, <_____MYNAME_____>!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_06",
+   "key": "e17b5217",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nМы решили устроить тебе большой праздник,\nведь ты нам столько помогаешь.\n<PAGE>\nВ Цуюкусе принято отмечать такие события\nтрадиционными блюдами.\n<PAGE>\nКаждая семья отвечала за одно блюдо, и\nвместе мы приготовили для тебя особый пир!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_07",
+   "key": "1bcf6678",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nКаждое из этих блюд ― в знак нашей\nблагодарности. Надеюсь, понравятся все!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_08",
+   "key": "85a92e98",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nНу, ладно, пора закругляться.\n<PAGE>\nНо прежде чем закончим... <_____MYNAME_____>, скажи-ка... Какое\nблюдо понравилось больше всего?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_09",
+   "key": "600a9d3f",
+   "ru": "Тушёная курица"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_10",
+   "key": "393012ab",
+   "ru": "Пюре из батата с каштанами"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_11",
+   "key": "db81c998",
+   "ru": "Чёрная соя"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_12",
+   "key": "6fa26897",
+   "ru": "Рулетики из комбу"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_13",
+   "key": "2ff25d94",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх, чудесно! Тушёную курицу готовила наша\nсемья. Так рада, что понравилось.\n<PAGE>\n<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>Раз у тебя день рождения, <_____MYNAME_____>, пришлось достать\nсвоё секретное оружие.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Мы готовили втроём, так что я рад, что тебе\nпонравилось."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_14",
+   "key": "1f95518e",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nНу вот! На этом праздник в честь дня рождения\nофициально окончен! Спасибо всем, что\nпришли!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_15",
+   "key": "fd85cb6c",
+   "ru": "(Какой чудесный день рождения. Огромное\nспасибо всем!)"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_16",
+   "key": "b7b179d5",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nУра-а! ♪ Пюре из батата мы делали вместе с\nгосподином Морией и Хинатой.\n<PAGE>\nКак здорово, что это оказалось твоё любимое\nблюдо!\n<PAGE>\n<FACE_WOLESALER><POS_RIGHT><FACE_LAUGH>Разумеется! Я специально раздобыл к этому\nдню лучший батат.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Эй, сладкие каштаны, что я принёс из дома,\nтоже важны! Знаешь, как непросто их достать?\nС ума сойти!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_17",
+   "key": "1f95518e",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nНу вот! На этом праздник в честь дня рождения\nофициально окончен! Спасибо всем, что\nпришли!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_18",
+   "key": "fd85cb6c",
+   "ru": "(Какой чудесный день рождения. Огромное\nспасибо всем!)"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_19",
+   "key": "aab70ea9",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nО, это было наше блюдо. Старый рецепт моей\nматушки... Рад, что понравилось.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>Его обожает вся наша семья, так что для нас\nчесть, что вам тоже понравилось, <_____MYNAME_____>.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>...Я помогал. Следил, чтобы было вкусно.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>Это наш способ сказать спасибо за всё, <_____MYNAME_____>! ♪"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_20",
+   "key": "7d3b2603",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nТак, ребята. Праздник окончен. Спасибо, что\nзаглянули!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_21",
+   "key": "fd85cb6c",
+   "ru": "(Какой чудесный день рождения. Огромное\nспасибо всем!)"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_22",
+   "key": "0b47b232",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nЕщё бы! Для нас честь, что победило наше\nблюдо!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>П-полегче, пап. Успокойся.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Хотя понимаю, чего ты так радуешься. Ты в\nнего столько сил вложил.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Мы несколько дней пробовали разные рулетики\nиз комбу.\n<PAGE>\nРаз тебе так понравилось, значит, все старания\nтого стоили."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_23",
+   "key": "73a7b6b6",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nНу вот! На этом праздник в честь дня рождения\nокончен! Спасибо всем!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_BIRTHDAY_24",
+   "key": "fd85cb6c",
+   "ru": "(Какой чудесный день рождения. Огромное\nспасибо всем!)"
+  }
+ ]
+}

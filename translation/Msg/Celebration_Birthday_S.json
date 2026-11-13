@@ -1,0 +1,152 @@
+{
+ "file": "Celebration_Birthday_S",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_00",
+   "key": "cb24874d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nА, вот и ты. Мы тебя ждали."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_01",
+   "key": "81f0917a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНа ближайшие пару часов у нас запланировано\nнебольшое представление, так что надеюсь,\nбудет весело.\n<PAGE>\n<FACE_LAUGH>Все готовы?!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_02",
+   "key": "bdf02373",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\n3, 2, 1...!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_03",
+   "key": "a55d536a",
+   "ru": "<FONT_SIZE_L>С днём рождения, <_____MYNAME_____>!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_04",
+   "key": "cb144229",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nУдивили? Мы пришли отпраздновать твой день\nрождения!\n<PAGE>\nУ нас в Лулукоко принято отмечать день\nрождения, посыпая виновника торжества\nмукой.\n<PAGE>\n<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>Видишь ли, в старину мука была очень\nдорогой.\n<PAGE>\nПоэтому осыпать ею человека значит пожелать\nему здоровья и удачи."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_05",
+   "key": "3c059839",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nНо на этом праздник не кончается.\n<PAGE>\nКогда смоешь муку морской водой, увидишь\nособый традиционный танец... а потом ужин.\n<PAGE>\nНадеюсь, тебе будет весело."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_06",
+   "key": "218aebc4",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, пожалуй, пора завершать церемонию.\n<PAGE>\nНо прежде, может, виновник торжества скажет\nпару слов?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_07",
+   "key": "412244fa",
+   "ru": "(Что сказать всем друзьям и соседям?)"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_08",
+   "key": "a42fa7b3",
+   "ru": "Чудесный день рождения!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_09",
+   "key": "de9dcfdc",
+   "ru": "Вы все сделали меня счастливейшим человеком"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_10",
+   "key": "8f23d939",
+   "ru": "Этот день рождения я никогда не забуду"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_11",
+   "key": "b8a06cd4",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗдорово. Слышать такое от тебя очень много\nдля нас значит.\n<PAGE>\nЗначит, всё было не зря.\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_LAUGH>Нам тоже было весело.\n<PAGE>\n<FACE_FISHER><POS_RIGHT><FACE_LAUGH>У нас тут каждый день как праздник, но сегодня\nбыл особенный!\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>Все здесь о тебе очень высокого мнения, <_____MYNAME_____>. Так и\nзнай!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_12",
+   "key": "a5809767",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nНу что ж, все. Праздник окончен! Махало, что\nпришли отпраздновать особый день <_____MYNAME_____>."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_13",
+   "key": "f449671c",
+   "ru": "(Какой чудесный праздник. Спасибо всем!)"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_14",
+   "key": "9b6046e4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТы о чём? Энергии у тебя всегда через край.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>...Это правда, <_____MYNAME_____> никогда не сбивается с ритма.\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>Если на то пошло, это ты всегда заряжаешь нас\nэнергией!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>Если сил ещё полно, давай поиграем! Хочу\nиграть в дочки-матери! ♪"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_15",
+   "key": "187ce482",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, на этом, полагаю, праздник окончен?\nКакая увлекательная культура..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_16",
+   "key": "f449671c",
+   "ru": "(Какой чудесный праздник. Спасибо всем!)"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_17",
+   "key": "6d1ef9d3",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо. Рад, что тебе запомнилось.\n<PAGE>\n<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>Сначала меня немного раздражало, что это\nотнимает драгоценное время исследований...\nно, пожалуй, мне тоже было весело.\n<PAGE>\n<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>Ха-ха, не стоит так! И потом, пусть ты живёшь\nнемного за городом, мы все как одна семья,\nправда?\n<PAGE>\n<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>Каолила права! В нашей деревушке тебе всегда\nрады!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_18",
+   "key": "a5809767",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nНу что ж, все. Праздник окончен! Махало, что\nпришли отпраздновать особый день <_____MYNAME_____>."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_19",
+   "key": "f449671c",
+   "ru": "(Какой чудесный праздник. Спасибо всем!)"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_BIRTHDAY_20",
+   "key": "bbe01eb9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nУ тебя ведь сегодня день рождения? Весь город\nхочет его отпраздновать.\n<PAGE>\nУстроим тебе большой праздник, так что\nвеселись!"
+  }
+ ]
+}
