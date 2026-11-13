@@ -7,6 +7,335 @@
    "id": "MES_EV_LOVE_WANTATAN_3_00",
    "key": "a6ef6085",
    "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_01",
+   "key": "31bbe223",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nПрости, что заставила ждать, <_____MYNAME_____>."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_02",
+   "key": "6d2f8476",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_ANGRY>\r\nЧто значит “а”? Ты уже забыла, о чём мы\nговорили? О парне, застрявшем в странном\nсобачьем костюме?\n<PAGE>\nЯ же сказала, что попробую снять с него\nзаклятие."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_03",
+   "key": "8d78e22f",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_SAD>\r\nНу, пока непонятно, получится ли что-нибудь\nисправить, но...\n<PAGE>\n<FACE_NORMAL>Я попросила помочь Десси и Инари.\n<PAGE>\nА ТЕБЕ нужно взять мистера Гава, или как там\nего, и привести к древним руинам. Поняла?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_04",
+   "key": "201deeee",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\n...Теперь остаётся только выложиться по\nполной и надеяться на лучшее."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_05",
+   "key": "3a669cd5",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nТы сказала, тебе что-то от меня нужно, <_____MYNAME_____>? Чем\nмогу помочь?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_06",
+   "key": "db8e4a92",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nНе двигаться? Ну, не очень понимаю, что\nпроисходит, но ладно."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_07",
+   "key": "8256a59e",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nНу-ка! Делаем ровно как договаривались!\n<PAGE>\n<FACE_GODDES><POS_LEFT><FACE_NORMAL>Х-хорошо...!\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>Понятно!\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_ANGRY>Хья-а-а!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_08",
+   "key": "7d86c275",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nЭтот свет сейчас..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_09",
+   "key": "3e56a005",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, стал ли я снова человеком?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_10",
+   "key": "685bcf92",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nНет... К сожалению, я всё ещё просто костюм,\nгав."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_11",
+   "key": "1b1378d1",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_SAD>\r\nЧёрт. Совсем не подействовало.\n<PAGE>\nНаверное, со времени заклятия прошло\nслишком много времени.\n<PAGE>\nЕсли запутанную нитку долго не трогать,\nраспутать её только сложнее..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_12",
+   "key": "abaf6fa1",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЕсли бы на него взглянула моя тётя, может,\nчто-нибудь и вышло бы, но...\n<PAGE>\n...понятия не имею, где она сейчас. И нет\nгарантии, что я найду её, пока мистер Гав ещё\nжив...\n<PAGE>\n<FACE_INARI><POS_LEFT><FACE_SAD>Говорят, в чарах ведьм нет ни логики, ни\nсистемы, поэтому их крайне трудно снять.\n<PAGE>\n...Покорнейше прошу прощения, что помочь не\nудалось.\n<PAGE>\n<FACE_GODDES><POS_RIGHT><FACE_SAD>У-а-а. Мне так-так жаль..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_13",
+   "key": "6ffb8441",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПостой... Неужели вы пытались снять с меня\nзаклятие?\n<PAGE>\n...Понятно.\n<PAGE>\nСпасибо, <_____MYNAME_____>. Я правда очень благодарен."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_46",
+   "key": "7eefa727",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nНо, похоже... мне пора покинуть эти места.\n<PAGE>\nНе могу больше смотреть, как ты всё время\nделаешь такое лицо."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_14",
+   "key": "4c9471f2",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nПрощай, <_____MYNAME_____>. Спасибо, что ты была лучиком\nдоброты в моей жизни.\n<PAGE>\nБудь моя воля, я бы обнял тебя в знак\nблагодарности, но...\n<PAGE>\n...эти руки никогда не станут настоящими,\nчтобы тебя обнять."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_15",
+   "key": "a6d4b2cd",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LOSS>\r\nО-ой, больно..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_16",
+   "key": "ec71333b",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\n...Больно."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_17",
+   "key": "30239846",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nНет-нет. Я не о том, что больно уходить.\n<PAGE>\n...Я о том, что чувствую физическую боль.\n<PAGE>\nИ... трудно дышать."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_18",
+   "key": "30f4d204",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\n...Не может быть. Я сплю?\n<PAGE>\nЯ чувствую, как колотится сердце.\n<PAGE>\nМоё... сердце бьётся."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_19",
+   "key": "0acb0881",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nСмотри! Руки тёплые. У меня есть тепло тела!\n<PAGE>\n...Ты ведь тоже чувствуешь?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_47",
+   "key": "2dc6992c",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nНевероятно...\n<PAGE>\n<_____MYNAME_____>...!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_20",
+   "key": "b8c8b2c7",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_ANGRY>\r\nПостойте... Ч-что тут происходит?\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_SAD>Хм-м, ни малейшего понятия...\n<PAGE>\n<FACE_GODDES><POS_LEFT><FACE_NORMAL>Ну, один фактор мы не учли.\n<PAGE>\n...Среди людей <_____MYNAME_____> особенная.\n<PAGE>\nТак что, может, эм... скрытые силы <_____MYNAME_____> как-то\nповлияли на старое заклятие... или запустили\nнаше контрзаклятие?\n<PAGE>\n<FACE_SAD>Хотелось бы знать, как это сработало, но... я и\nсама совсем не понимаю."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_21",
+   "key": "6d8d6e44",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_SAD>\r\nПохоже, ты всё дальше уходишь от того, что\nлюди назвали бы обычным человеком, <_____MYNAME_____>."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_22",
+   "key": "7510e214",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n...Э-э, ну, <_____MYNAME_____>."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_23",
+   "key": "13d14453",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_SAD>\r\n*кхм* В о-о-общем, может, пойдёте со\nсвоими нежностями куда-нибудь ещё? Я уже не\nзнаю, куда глаза девать."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_24",
+   "key": "0ace278b",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nХа-а... Двигаться ещё немного странно, но\nошибки нет... Вот каково быть человеком.\n<PAGE>\nПонятия не имею, как это случилось, но...\n<PAGE>\n...честно говоря, какая разница почему?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_25",
+   "key": "d95fae24",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nМы ведь здесь уже были, правда?\n<PAGE>\n...Прости, что тогда тебя оттолкнул.\n<PAGE>\nТвои слова тогда очень меня обрадовали,\nзнаешь? Но...\n<PAGE>\nДо сих пор я всю жизнь старался, чтобы мой\nсекрет не раскрылся.\n<PAGE>\nДержался от всех на почтительном расстоянии.\n<PAGE>\nА потом появилась ты и изо всех сил старалась\nсблизить наши сердца. Мне стало страшно.\n<PAGE>\n...Видно, в какой-то момент я потерял нечто\nценнее, чем просто тело."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_26",
+   "key": "5afec94e",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\n...<_____MYNAME_____>, ты меня спасла. Ты вернула мне\nчеловечность.\n<PAGE>\nИ не только тело. Ты помогла вернуть и\nсердце.\n<PAGE>\nСловами не описать, как я благодарен. Понятия\nне имею, как отплатить тебе за всё.\n<PAGE>\nЕсли есть что-то, что угодно, что я могу для\nтебя сделать, не стесняйся просить.\n<PAGE>\nНеважно что. Я хочу вернуть этот долг\nблагодарности."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_27",
+   "key": "6bafe7ca",
+   "ru": "(Что же ответить...?)"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_28",
+   "key": "595ee388",
+   "ru": "Хочу, чтобы ты всегда был рядом"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_29",
+   "key": "961956c9",
+   "ru": "Я поступила как любой друг"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_30",
+   "key": "ebb94252",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nХочешь, чтобы я был рядом...? Ха-ха...\n<PAGE>\nАх, нет, прости. Просто... Ты так двусмысленно\nэто сказала, а?\n<PAGE>\nВ смысле, если так сказать...\n<PAGE>\nЗвучит почти так, будто ты делаешь мне\nпредложение или вроде того."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_31",
+   "key": "8fe905f5",
+   "ru": "Именно это я и делаю"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_32",
+   "key": "61a0fa23",
+   "ru": "Ой, я не это имела в виду"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_33",
+   "key": "e29592ff",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nАх, прости, прости.\n<PAGE>\nНет, я всё понимаю. Ну, не делай такое лицо."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_34",
+   "key": "b066a9a0",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nЗначит, можно мне быть рядом как другу?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_35",
+   "key": "9da40e64",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nСпасибо. Кажется, у меня наконец появился\nпервый настоящий, самый что ни на есть друг.\n<PAGE>\nНу, кроме всех моих друзей-зверей."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_36",
+   "key": "d726be0d",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nА-а, точно. Наверное, теперь я наконец могу\nснять костюм, а?\n<PAGE>\nНо, ну... как бы сказать?\n<PAGE>\nЯ почти всю жизнь прожил в костюме, так\nчто...\n<PAGE>\n...мне даже как-то неловко показывать своё\nнастоящее лицо."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_37",
+   "key": "2383b695",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nН-ну, подумай сама! Этот костюм теперь\nпрактически часть меня.\n<PAGE>\nТо, что я снова человек, не значит, что я\nсобираюсь его выбросить."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_38",
+   "key": "5ebd08d2",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\n...Но, как бы то ни было, спасибо, что ты мой\nдруг, <_____MYNAME_____>."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_39",
+   "key": "a5312c3d",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\n...Понятно. Ты серьёзно.\n<PAGE>\nЧестно... ты что-то с чем-то."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_40",
+   "key": "d5104479",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\n...А-ха-ха.\n<PAGE>\nЯ тут подумал, что даже рад, что сейчас в\nкостюме.\n<PAGE>\n...Я столько лет не плакал настоящими слезами."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_41",
+   "key": "b1e12b65",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\n... <_____MYNAME_____>.\n<PAGE>\n...Я никогда не собирался этого говорить.\n<PAGE>\nНо раз ты настолько всерьёз сказала всё это, я\nбольше не могу молчать.\n<PAGE>\nЯ так долго прожил в лесу, что с людьми мне\nговорить даже труднее, чем со зверями.\n<PAGE>\nТак что, может, прозвучит не очень красиво и\nпоэтично, но...\n<PAGE>\n...я-я, я люблю тебя, <_____MYNAME_____>.\n<PAGE>\nТы... выйдешь за меня?"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_42",
+   "key": "319af2be",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nГоворишь, я дрожу? А-ха-ха, от тебя ничего\nне скроешь.\n<PAGE>\nЧестно говоря, открываться и делиться своими\nнастоящими чувствами вот так...\n<PAGE>\n...всё ещё страшно."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_43",
+   "key": "d726be0d",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nА-а, точно. Наверное, теперь я наконец могу\nснять костюм, а?\n<PAGE>\nНо, ну... как бы сказать?\n<PAGE>\nЯ почти всю жизнь прожил в костюме, так\nчто...\n<PAGE>\n...мне даже как-то неловко показывать своё\nнастоящее лицо."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_44",
+   "key": "169bfc69",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nАх, прости! Я обязательно когда-нибудь\nпокажу тебе лицо, клянусь!\n<PAGE>\nМы ведь станем мужем и женой. Хочу, чтобы\nты увидела меня всего."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_3_45",
+   "key": "bc3b162a",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nЗнаешь... кажется, я впервые в жизни так\nсчастлив.\n<PAGE>\nЯ так рад, что встретил тебя. Словами не\nпередать.\n<PAGE>\n...Спасибо, <_____MYNAME_____>."
   }
  ]
 }
