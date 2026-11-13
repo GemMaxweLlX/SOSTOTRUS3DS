@@ -1,0 +1,292 @@
+{
+ "file": "Resident_J_MigrantGirl",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_00",
+   "key": "228242d3",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nСпасибо за сегодня, господин Гиндзиро!\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>Говорю же, не за что! Удачи, Сумомо!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_02",
+   "key": "4d0fc13e",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nАх! <_____MYNAME_____>! Здравствуй!\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>Йо, <_____MYNAME_____>! Добро пожаловать!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_04",
+   "key": "349feb31",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nЭй, Сумомо. То, о чём мы только что\nговорили... Может, спросить <_____MYNAME_____>?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_05",
+   "key": "f1353104",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nЭ-это отличная мысль, господин Гиндзиро!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_06",
+   "key": "ab987bfc",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, в общем, я хотела сделать что-нибудь\nприятное господину Мории, он ведь всегда обо\nмне заботится.\n<PAGE>\nДумала купить ему подарок на карманные\nденьги, но никак не могла найти ничего\nдостойного..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_07",
+   "key": "ad93527b",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\nДа, Мория очень придирчив к качеству.\n<PAGE>\nУже представляю его лицо, если ему подарить\nкакую-нибудь безделушку..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_08",
+   "key": "fd0ad571",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nДенег у меня не так много, и я понятия не\nимею, что ему нравится...\n<PAGE>\n<FACE_SAD>Так мучилась, что казалось, у меня из головы\nуже дым идёт..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_09",
+   "key": "27d0b3cc",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nА вкусы у него такие же чудные, как он сам.\nВыбрать подарок Мории ― дело не для\nслабонервных."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_10",
+   "key": "dd878128",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nНо тут я кое-что вспомнила.\n<PAGE>\nГосподин Мория всё время ест у господина\nГиндзиро.\n<PAGE>\n<FACE_LAUGH>Если подарить ему сладости отсюда, ему\nнаверняка понравится! И карманных денег\nхватит!\n<PAGE>\n<FACE_NORMAL>Поэтому я и пришла поговорить с господином\nГиндзиро."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_11",
+   "key": "90d61152",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nЯ сказал Сумомо, что с радостью сделаю всё за\nсчёт заведения, но она и слышать не хотела.\n<PAGE>\nВ итоге чуть ли не силой впихнула мне деньги."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_12",
+   "key": "0199c575",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nКонечно! К тому же вы мне ещё и кусочек\nторта с собой дали.\n<PAGE>\nВы такой щедрый, господин Гиндзиро. ♪\n<PAGE>\nПравда можно мне столько?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_13",
+   "key": "99b1887f",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nГоворю же, можно, можно! Ты ведь помогала\nготовить.\n<PAGE>\nК тому же печенье пекла ты. Надеюсь, вкус\nполучился!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_14",
+   "key": "500aa74c",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nАга! ♪ Я впервые пекла печенье на соевом\nмолоке, господин Гиндзиро меня научил!\n<PAGE>\nТолько печенье я сделала для себя. А господину\nМории подарю кастеллу, которую испёк\nгосподин Гиндзиро!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_15",
+   "key": "9afb36e8",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nГоворит, я научил, а на самом деле она просто\nповторяла за мной, пока я работал.\n<PAGE>\nНемного волнуюсь, правда: в лавке бывало\nлюдно, и я не всегда мог за ней присмотреть.\n<PAGE>\nНу, если она не перепутала порядок и ничего не\nзабыла, всё должно быть в порядке."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_16",
+   "key": "7e1a869d",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nАх! Мы совсем отвлеклись. <_____MYNAME_____>, хочу попросить об\nодолжении, если ты не против."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_17",
+   "key": "835d7262",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nЯ сейчас пойду дарить подарок господину\nМории, но немного нервничаю... А ты знаешь,\nкакая я неуклюжая.\n<PAGE>\nПойдёшь со мной, чтобы я не споткнулась или\nчто-нибудь такое?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_18",
+   "key": "6a2f03cb",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nУ меня лавка, так что положиться можно\nтолько на тебя, <_____MYNAME_____>.\n<PAGE>\nНе хочу отпускать Сумомо одну, поможешь ей?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_19",
+   "key": "4d9421d1",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nПравда?! Спасибо!\n<PAGE>\nС тобой мне уже не так страшно, <_____MYNAME_____>!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_20",
+   "key": "bcd36d70",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nМолодец, Сумомо! Надеюсь, всё получится!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_21",
+   "key": "3adedabf",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nТак, <_____MYNAME_____>. Дальше всё в твоих руках!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_22",
+   "key": "33a9c3b7",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, господин Мория, у вас есть минутка? Я\nхочу вам кое-что подарить..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_23",
+   "key": "c9e2957d",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nСейчас? Что такое? Затеваешь что-то?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_24",
+   "key": "a0b41a81",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nН-нет, что вы!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_25",
+   "key": "ded6c13b",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nЭ-э, ну, вы всегда так обо мне заботитесь, вот\nя и хотела сделать вам приятное...\n<PAGE>\nЯ принесла сладости, которые сделал господин\nГиндзиро. Надеюсь, вам понравится!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_26",
+   "key": "2a0ba6c5",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\n...! Вот как. Похоже, ты немного повзрослела.\nНаконец научилась думать о своём\nработодателе.\n<PAGE>\nЭто правильный настрой. Не забывай о нём."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_27",
+   "key": "baf93926",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nД-да, господин! Обязательно!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_28",
+   "key": "c14f6dd9",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nЯ как раз немного проголодался. Пожалуй,\nпопробую сейчас."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_29",
+   "key": "9593371e",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_ANGRY>\r\nЧто за чертовщина?! На вкус как картон!\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>Ах! Э-это же...!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_30",
+   "key": "bb720886",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\n...Хм? Что такое, Дайкоку?\n<PAGE>\nТолько не говори, что тебе это нравится?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_31",
+   "key": "47faad75",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>, ч-что мне делать?\n<PAGE>\nЯ по ошибке отдала ему соевое печенье,\nкоторое пекла для себя!\n<PAGE>\nИ оно совсем безвкусное... Так и знала! Я всё\nиспортила!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_32",
+   "key": "682e2975",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_SAD>\r\nПростите, господин Мория! Я ошиблась и\nотдала вам лакомство для Дайкоку!\n<PAGE>\n<FACE_NORMAL>Вообще-то я хотела подарить вам вот эту\nкастеллу!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_33",
+   "key": "452afd7a",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nВ-вот как. Не ожидал, что ты и для Дайкоку\nчто-то принесёшь.\n<PAGE>\n...Это ведь для меня, а не для неё?\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>К-конечно! Это точно для людей!\n<PAGE>\nКогда я думала, что вам подарить, попросила\nпомощи у господина Гиндзиро."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_34",
+   "key": "1b21b72d",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nК-конечно! Всё должно быть в порядке!\n<PAGE>\nКогда я думала, что вам подарить, попросила\nпомощи у Гиндзиро."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_35",
+   "key": "acd07b2d",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nХм, весьма недурно.\n<PAGE>\nЧто ж, неудивительно. Это ведь работа\nГиндзиро."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_36",
+   "key": "4c0e3b72",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nДайкоку обычно не ест то, что дают люди, но,\nпохоже, печенье ей очень понравилось.\n<PAGE>\nС учётом этого прощаю тебе ошибку.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>С-спасибо, господин!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_37",
+   "key": "fff282f3",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nС-спасибо большое, хозяин!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_38",
+   "key": "a8d93414",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\nДайкоку меня просто спасла! Она всегда так\nменя выручает.\n<PAGE>\nНапример, когда я уговаривала господина\nМорию разрешить мне оставить Микэ, она меня\nподдерживала.\n<PAGE>\nОна очень хороший человек... то есть кошка. ♪\nНадо как-то её отблагодарить."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_39",
+   "key": "4486bc73",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\nИ спасибо, что помог(ла) мне сегодня, <_____MYNAME_____>.\n<PAGE>\nХорошо, что я позвала тебя с собой."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_40",
+   "key": "23e3e308",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\nЖаль, что соевое печенье так ужасно не\nудалось. Видно, я забыла положить сахар...\n<PAGE>\n*вздох* Однажды хочу с гордо поднятой\nголовой подарить господину Мории свои\nсобственные сладости."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_41",
+   "key": "7716caf5",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\nИнтересно, когда этот день настанет, смогу ли я\nобойтись без того, чтобы просить тебя\nприсмотреть за мной.\n<PAGE>\n<FACE_SAD>У-у, кажется, это ещё так нескоро..."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_RESIDENT_J_MigrantGirl_42",
+   "key": "f08c86f8",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\nД-да, точно! Надо не унывать!\n<PAGE>\nСпасибо, <_____MYNAME_____>! Я постараюсь!"
+  }
+ ]
+}
