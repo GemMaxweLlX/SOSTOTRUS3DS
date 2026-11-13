@@ -1,0 +1,306 @@
+{
+ "file": "Resident_S_TwinYounger_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_00",
+   "key": "7062f278",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nАх, <_____MYNAME_____>.\n<PAGE>\nМы сейчас немного заняты..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_01",
+   "key": "7fc9acaf",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Илука. Думаю, <_____MYNAME_____> тоже стоит рассказать.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Правда? ...Да, пожалуй. Может, <_____MYNAME_____> что-нибудь\nпридумает."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_02",
+   "key": "6d60d5b3",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Сегодня утром я проснулась и больше не\nчувствую аур."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_03",
+   "key": "e946cdee",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_SAD>\r\nМы пытаемся понять, почему я потеряла силу."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_04",
+   "key": "29dd268d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nТакого раньше никогда не было. Мы просто не\nзнаем, что делать...\n<PAGE>\nПока остаётся только повторить всё, что\nСилука делала перед этим."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_05",
+   "key": "60b0fc04",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nХм-м. Самое заметное вчера было...\n<PAGE>\nЯ решила вздремнуть не там, где обычно, и\nуснула у водопада в Вестауне.\n<PAGE>\n<FACE_SAD>...А потом случайно скатилась в реку... И\nпромокла насквозь."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_06",
+   "key": "784f9454",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\n<WINDOW_SWEAT_R>Т-ты упала в реку? Силука, ты неисправима...\n<PAGE>\n<WINDOW_DEFAULT><FACE_NORMAL>Но... раз уж ты сказала, я слышала легенды\nпро эту реку.\n<PAGE>\nГоворят, там живёт богиня."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_07",
+   "key": "0a4a3ab7",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nЯ точно чувствовала там что-то. ...Может, я\nразгневала богиню, и она в наказание отняла\nмою силу?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_08",
+   "key": "3b88b488",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nБогиня никогда бы так не поступила,\nговоришь?\n<PAGE>\n<FACE_ANGRY>Ты что, с божествами на короткой ноге?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_09",
+   "key": "745a137c",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_SAD>\r\nЕсли богиня не сердится, может, моя сила\nрастворилась в воде реки.\n<PAGE>\n...Она ведь священная."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_10",
+   "key": "3dc264e7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗначит... если повторить то, что ты сделала,\nсила может вернуться!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_11",
+   "key": "815de56d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n...Стоит попробовать.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_12",
+   "key": "fc47f834",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>Силука... Зачем ты спишь в таких местах?\n<PAGE>\nКакое там \"у водопада\" ― это же прямо под\nним!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_13",
+   "key": "a23843c7",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nАга. Я жалею о своём решении."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_14",
+   "key": "0ed3ac81",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЛ-ладно, неважно."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_15",
+   "key": "5ffe6586",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТак, Силука. Прыгай.\n<PAGE>\nМожет, река, которая, может, отняла твою\nсилу, может, её и вернёт!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_16",
+   "key": "a23fbd24",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то много у тебя \"может\".\n<PAGE>\nНо ладно. Попробую."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_17",
+   "key": "1db6a44a",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_SAD>\r\n...Бр-р-р."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_18",
+   "key": "02d79e51",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nПохоже, дело не в богине..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_19",
+   "key": "917b315d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nХм-м. И если река тут тоже ни при чём...\n<PAGE>\nМожет... ты съела что-то странное?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_20",
+   "key": "e0ba1b77",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Ах.\n<PAGE>\nДа, раз уж ты сказала, Каолила дала мне\nкленовый сироп.\n<PAGE>\nОн был такой вкусный, что я выпила целую\nкучу. Больше, чем когда-либо."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_21",
+   "key": "1405c81c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nВот оно! Точно!\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Но... проверить это никак."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_22",
+   "key": "f74ca155",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nТогда выбора нет...\n<PAGE>\nМне тоже придётся выпить кучу кленового\nсиропа."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_23",
+   "key": "f32d4962",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nЕсли и я потеряю силу, значит, точно виноват\nсироп.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL> Илука...\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>Мне страшно, но это ради тебя, Силука. Я\nсделаю это!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_24",
+   "key": "d1a1e277",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_LINE_R>Так, <_____MYNAME_____>! Мне срочно нужен кленовый сироп!\n<PAGE>\nБыстрее в Вестаун за ним!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_25",
+   "key": "5a331792",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nБыстро."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_26",
+   "key": "e995f3b1",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nЕсли выпить всю банку, этого должно хватить с\nлихвой...\n<PAGE>\n*глоть* Н-ну, начали...!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_27",
+   "key": "5c30a458",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_R>Уф-ф... Всё. Больше не могу. Не лезет.\n<PAGE>\nНе лезет, но...\n<PAGE>\nауры я по-прежнему отлично вижу."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_28",
+   "key": "881c7b5f",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_SAD>\r\nИными словами... сироп тоже ни при чём."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_29",
+   "key": "e849483f",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nMahalo, Илука, что ты ради меня на это\nпошла. И тебе, <_____MYNAME_____>.\n<PAGE>\nНо... не надо."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_30",
+   "key": "f9f3ff21",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nЧто значит \"не надо\"?!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_31",
+   "key": "9798f748",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Ничего страшного, если у меня больше нет\nсилы.\n<PAGE>\nМне больнее смотреть, как ты мучаешься ради\nменя, Илука.\n<PAGE>\n...Я устала. Пойду посплю."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_32",
+   "key": "121daae3",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nП-подожди, Силука!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_33",
+   "key": "ba5b50a2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\n<WINDOW_MOJA_R>Есть нелюбимую еду бесполезно... Стоять под\nводопадом бесполезно...\n<PAGE>\nГорькие травы не помогли. Лекарство доктора\nиз Вестауна тоже.\n<PAGE>\nЯ больше ничего не могу сделать... Ничего...\n<PAGE>\nСилука... Я никчёмная... Прости меня..."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_34",
+   "key": "e51614b2",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nА-ах, хорошо поспала."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_35",
+   "key": "9ea6d667",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\nВы всё ещё ищете причину?\n<PAGE>\n...Вид у вас совсем измотанный. И от вас так и\nвеет негативной аурой."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_36",
+   "key": "55461b7a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nС-с-с-с-с-с-с...\n<PAGE>\n<WINDOW_LINE_R>Силука! Твоя сила вернулась?!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_37",
+   "key": "85e2c0bc",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nДа... Похоже на то.\n<PAGE>\nНеужели...\n<PAGE>\nВчера... когда я во сне упала в реку...\n<PAGE>\nя толком не выспалась.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Значит, причина всего этого...\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Недосып?"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_38",
+   "key": "3ab9ac61",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nЭ-э... Как бы это сказать...?\n<PAGE>\n...Простите?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_39",
+   "key": "9c26a894",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nЗавтра, может, уже я потеряю силу..."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_40",
+   "key": "1b6cd3d7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nСилука, ты не делала ничего необычного?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_41",
+   "key": "f2039912",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\n...Блин, она уже спит."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_2_42",
+   "key": "b250d58e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nПохоже, придётся нам самим искать причину, <_____MYNAME_____>!"
+  }
+ ]
+}
