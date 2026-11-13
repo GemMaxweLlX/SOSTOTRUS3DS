@@ -1,0 +1,68 @@
+{
+ "file": "Festival_Pumpkin",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_PUMPKIN_00",
+   "key": "9e1b4542",
+   "ru": "<FACE_UNCLE>\r\n<_____MYNAME_____>, ты дома? Я вхожу!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_PUMPKIN_01",
+   "key": "72906f55",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nТы о чём? Сегодня же Тыквенный праздник,\nверно? Я пришёл вот это тебе отдать."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_PUMPKIN_02",
+   "key": "fcdb2102",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nТы ж мой славный племянник.\n<PAGE>\nКак я могу ничего тебе не подарить?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_PUMPKIN_03",
+   "key": "5ee017d1",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nТы ж моя славная племянница.\n<PAGE>\nКак я могу ничего тебе не подарить?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_PUMPKIN_04",
+   "key": "4213f713",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВот, держи <BLUE>тыквенный пудинг</BLUE>. Аппетитный,\nправда?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_PUMPKIN_05",
+   "key": "f59b30df",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nДавай, бери!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_PUMPKIN_06",
+   "key": "b95534b8",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nНу-ну, не смотри так.\n<PAGE>\nЭто была шутка. Вот настоящий подарок."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_PUMPKIN_07",
+   "key": "ae61c948",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\n...Слышал, пудинг достался детям? Молодец.\n<PAGE>\nИ дети, и родители очень обрадовались.\nБольшое спасибо.\n<PAGE>\nВот тебе <BLUE>яблочный пирог</BLUE> в благодарность.\nНебось пришлось обойти весь город? Съешь и\nпередохни."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_PUMPKIN_08",
+   "key": "e4eb4565",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nХа-ха-ха! Благодарить не надо.\n<PAGE>\nНу, я пошёл. До встречи!"
+  }
+ ]
+}

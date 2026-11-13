@@ -2,6 +2,174 @@
  "file": "Festival_A_NewYear",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_00",
+   "key": "43f6a998",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВсе в сборе?\n<PAGE>\nТогда не будем тянуть: начинаем Новогодний\nпраздник Уэстауна!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_01",
+   "key": "b2d3cfb9",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nМногое случилось в этом году, но...\n<PAGE>\nС гордостью скажу: обошлось без серьёзных\nтравм и болезней, и все прожили год счастливо\nи в здравии.\n<PAGE>\nТем, у кого год выдался отличным, желаю,\nчтобы и следующий был не хуже.\n<PAGE>\nА тем, кто где-то споткнулся, желаю начать с\nчистого листа и встретить новый год с\nширокой улыбкой...\n<PAGE>\n<FACE_LAUGH>Давайте шумно и весело проведём время\nвместе!\n<PAGE>\nИтак, до нового года осталось всего несколько\nчасов.\n<PAGE>\nА пока налетаем на вкусную еду и вспоминаем\nпрошедший год."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_02",
+   "key": "c86f64ca",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСкоро обратный отсчёт! Собирайтесь все\nвместе."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_03",
+   "key": "eb7df10b",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nНачинаем обратный отсчёт! Внимание...!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_04",
+   "key": "a852f067",
+   "ru": "5!\n<PAGE>\n4!\n<PAGE>\n3!\n<PAGE>\n2!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_05",
+   "key": "6f33ccbe",
+   "ru": "1...!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_06",
+   "key": "b638e515",
+   "ru": "<RED>С НОВЫМ ГОДОМ!!</RED>"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_07",
+   "key": "d3e91f4c",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nС Новым годом, все! Год только начинается.\nВеселимся до самого рассвета!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_08",
+   "key": "a7a22166",
+   "ru": "Начался новый год. Пусть он будет ещё веселее\nпрошлого!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_TALK_C",
+   "key": "9bb002bc",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЛизетта, как тебе праздник?\n<PAGE>\nС <_____MYNAME_____> тебе, кажется, веселее, чем обычно.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Да, но дело не только в <_____MYNAME_____>. Я рада быть вместе\nсо всеми.\n<PAGE>\nМожно вот так со всеми поговорить. Я каждый\nгод жду этого.\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>Ты и правда славная девушка, Лизетта.\nНеудивительно, что в цветочном столько\nпокупателей.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Какое отношение “славная девушка” имеет к\n“стольким покупателям”? Совершенно\nненаучно.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>Вот такой уж он, Форд. Прости, Лизетта.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Нет-нет. Я тоже не очень поняла, так что...\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_SAD>Оба непробиваемые, и я уже не знаю, где\nкончается “мило” и начинается “бесит”...\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_SAD>Да уж...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>...Почему вы смотрите на меня, как на раненого\nзверька? <_____MYNAME_____>, скажи им что-нибудь."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_TALK_D",
+   "key": "923aeab6",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nНу и много же у нас было посетителей в\nресторане в этом году.\n<PAGE>\n<FACE_LAUGH>Так! Надо подтянуть мастерство, чтобы в\nследующем году к нам приходило ещё больше\nнароду!\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>Ха-ха, для этого придётся превзойти дедушку!\nЭто ведь твоя цель, да?\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>Хм? Кэрри, откуда ты знаешь?\n<PAGE>\n<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>Ну, это же твоя цель каждый год, Брэд.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>Ха-ха, разве? Так или иначе, до деда мне ещё\nдалеко...\n<PAGE>\n<FACE_NORMAL>...Наверное, это будет моей целью ещё лет\nдесять, а то и больше.\n<PAGE>\n<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>Неправда! Ты с каждым днём готовишь всё\nлучше.\n<PAGE>\nСкоро я оставлю ресторан на тебя. Верно,\nКэрри?\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>...Верно, дедушка. Давайте сделаем его\nлучшим!\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>...Ага, обязательно!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_TALK_E",
+   "key": "1d3511d3",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПойду-ка перекушу, пока не начался отсчёт.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>...Мам, ты здорово всё организовала.\n<PAGE>\n<FACE_AMERICAFARMSON><POS_LEFT><FACE_LAUGH>Молодец, бабушка. Брэд в этом году вкусно\nготовит.\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>Спасибо вам обоим. Если подумать... я уже не\nмолода.\n<PAGE>\nПожалуй, пора подумать о том, чтобы\nпередать эту обязанность кому-то помоложе.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>Твой преемник, значит? Фрэнк?\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>Ты о чём? Конечно же, это будешь ты, сынок!\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_LEFT><FACE_ANGRY>Погоди, что?!\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>А после тебя ― Колин. Фух! Теперь о\nНовогоднем празднике можно надолго не\nбеспокоиться.\n<PAGE>\n<FACE_AMERICAFARMSON><POS_LEFT><FACE_SAD>У-у-у... Серьёзно? У меня уже живот заболел."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_TALK_F",
+   "key": "091ee209",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nУх ты, как вкусно! Еда на Новогоднем\nпразднике ― это что-то!\n<PAGE>\n<FACE_NORMAL>Ноэль, год почти закончился. Есть у тебя цели\nна следующий год?\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_LAUGH>Цели? Дай подумать... В следующем году я\nбуду вовсю атаковать Колина!\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>Ха-ха-ха, какая прелесть.\n<PAGE>\nИнтересно, в кого ты такая не по годам\nшустрая.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_NORMAL>В тебя, мама, конечно! А у тебя, мама? Есть\nцель?\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>У меня? Ну...\n<PAGE>\n...\n<PAGE>\n<FACE_LAUGH>Думаю, у меня цель вроде твоей, Ноэль.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_NORMAL>Это как?\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>Ха-ха-ха! Это секрет, милая.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_ANGRY>Эй! Так нече-е-естно!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_COUNTDOWN_ODD_00",
+   "key": "bf377010",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nВот и закончился год... Спасибо вам за всё. Жду\nне дождусь следующего.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>И я! ♪ Благодаря всем у меня был чудесный\nгод. Надеюсь, следующий будет ещё лучше.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>...Завтра будет таким же, как всегда. Не\nпонимаю, зачем вам всё это...\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Думаю, именно в такие моменты важно как\nследует выразить благодарность.\n<PAGE>\nЗнаешь, как говорят: и между друзьями нужна\nвежливость, верно? Ты ведь тоже так думаешь,\n<_____MYNAME_____>?\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>...Пожалуй, в этом есть смысл. Что ж, в\nследующем году я на вас рассчитываю.\n<PAGE>\nХотя как врач надеюсь, что видеться с\nбольшинством из вас по работе мне не\nпридётся."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_COUNTDOWN_ODD_01",
+   "key": "9249537d",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nФейерверк, как всегда, сногсшибательный.\nСмотреть ― одно удовольствие.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Это точно... Ах, этот был похож на георгин!\nКакая красота. ♪\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>...Это был натрий... А это... кальций...? Хм,\nэтот цвет ― барий...\n<PAGE>\nС такой точки зрения смотреть фейерверк\nочень увлекательно.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LOSS>П-похоже, будто ты читаешь какое-то\nзаклинание...\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Как бы там ни было, я рад, что тебе весело,\nФорд. Правда, <_____MYNAME_____>?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_COUNTDOWN_EVEN_00",
+   "key": "bc13515a",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nСкоро начнётся отсчёт. Это моя самая любимая\nчасть вечера.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Не только твоя. ♪ ...Но в то же время мне\nнемного грустно.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Просто заканчивается ещё один день. Смена\nгода не вызывает у меня никаких чувств.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_SAD>...Эх, Форд, ты совсем не умеешь читать\nатмосферу, да? Как его друг, приношу вам\nобоим извинения.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>Я лишь сказал, что чувствую. Что, мне\nпритворяться, будто я шумно радуюсь всему\nэтому?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>...Вот это само по себе было бы довольно\nзабавно..."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_COUNTDOWN_EVEN_01",
+   "key": "d567f232",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nУх ты... Какая красота! Смотрю каждый год, и\nкаждый раз дух захватывает. ♪\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Разве? Фейерверк ― всего лишь результат\nхимической реакции, которая...\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Та-а-ак, стоп! Больше ни слова не дам сказать.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Ха-ха. ♪ Вам двоим всегда так весело.\n<PAGE>\nНадеюсь, в следующем году мы снова будем\nвместе.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Ага, согласен. И ты тоже, да, Форд?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>...\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Что ж, пожалуй. Провести с вами время раз в\nгоду не так уж плохо."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_COUNTDOWN_DLC_00",
+   "key": "80b37ad8",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nО, <_____MYNAME_____>. Есть к тебе разговор.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Мы тут подумали после праздника собраться с\nдрузьями из других городов и сходить по их\nзнаменитым местам.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Мы каждый год бываем на Новогоднем\nпразднике...\n<PAGE>\n...но ни разу не ходили в другие города\nпосмотреть на их обычаи. Это упущение надо\nсрочно исправить.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_NORMAL>Стефани и Вуфио тоже присоединятся, когда\nзакончат с работой.\n<PAGE>\nА ты как, <_____MYNAME_____>?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_COUNTDOWN_DLC_05",
+   "key": "8f6ecfac",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nО, <_____MYNAME_____>, кстати...\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Мы снова собираемся провести время после\nпраздника с друзьями из других городов.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Пойдёшь с нами, <_____MYNAME_____>?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_COUNTDOWN_DLC_01",
+   "key": "eb9d1344",
+   "ru": "Я с вами!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_COUNTDOWN_DLC_02",
+   "key": "7933edf2",
+   "ru": "Может, в следующем году..."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_COUNTDOWN_DLC_03",
+   "key": "8967384a",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nОтлично.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>После праздника встречаемся на перекрёстке.\nПойдём вместе."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_COUNTDOWN_DLC_04",
+   "key": "7c8a6d3b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nПонятно. Ну да, тебе ведь рано вставать, <_____MYNAME_____>.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_SAD>Жаль, но заставлять мы не будем.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Да, конечно. В конце концов, всегда есть\nследующий год. Мы скажем остальным."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
+  },
+  {
    "n": 28,
    "f": 2,
    "id": "MES_EV_FES_A_NEWYEAR_GO_HOME_01",
@@ -14,6 +182,13 @@
    "id": "MES_EV_FES_A_NEWYEAR_GO_HOME_02",
    "key": "f22e0cbd",
    "ru": "Нет"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_A_NEWYEAR_GO_CROSSROAD_00",
+   "key": "3c611803",
+   "ru": "(Все ведь собирались на перекрёстке? Пойти\nтуда сейчас?)"
   }
  ]
 }

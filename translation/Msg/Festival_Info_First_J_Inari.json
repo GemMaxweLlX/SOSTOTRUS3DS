@@ -1,0 +1,82 @@
+{
+ "file": "Festival_Info_First_J_Inari",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_00",
+   "key": "6a23a16c",
+   "ru": "<FACE_TEAOWNER>\r\n<_____MYNAME_____>, это я, Гиндзиро! Вхожу."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_01",
+   "key": "548d8720",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>. Энергии в тебе сегодня хоть\nотбавляй!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_02",
+   "key": "bc7b6238",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЯ пришёл рассказать о празднике, который\nскоро будет в городе.\n<PAGE>\nЕсли интересно, будем рады, если ты придёшь."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_03",
+   "key": "dd1434d8",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, раз у тебя так глаза загорелись, значит,\nне зря я зашёл. Ладно, объясняю.\n<PAGE>\nПраздник называется <RED>Праздник изобилия</RED>.\nКаждый год он проходит <BLUE>15 осени</BLUE>.\n<PAGE>\nМы чтим Инари, божество-покровителя, что\nхранит наш город с самого основания...\n<PAGE>\nВ день праздника мы благодарим Инари: едим\nрис из котла и танцуем."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_04",
+   "key": "9299a53b",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЕсли хочешь участвовать, подойди ко мне в\nдень праздника <BLUE>с 10:00 до 13:00</BLUE>.\n<PAGE>\nЯ буду ждать на <GREEN>перекрёстке</GREEN>, так что найти\nменя будет легко."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_05",
+   "key": "afebd7a8",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nО! Хочешь помочь с подготовкой праздника?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_06",
+   "key": "d3becc08",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Золотой ты человек.\n<PAGE>\nЗнаешь, пожалуй, приму предложение.\n<PAGE>\nХм, посмотрим... Что бы тебе подошло..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_07",
+   "key": "dd2d31e9",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПридумал! Поможешь собрать деньги на\nпраздник?\n<PAGE>\nКаждый год средства на Праздник изобилия мы\nсобираем с жителей. Справишься?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_08",
+   "key": "25a98774",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСобрать нужно у...\n<PAGE>\n<BLUE>Хинаты</BLUE>, <BLUE>Комари</BLUE>, <BLUE>Мории</BLUE>, <BLUE>Умэкити</BLUE>, <BLUE>Сидзу</BLUE> и\n<BLUE>Яити</BLUE>. Только у этих шестерых.\n<PAGE>\nТам есть и дети, но это давний обычай, так что\nне волнуйся.\n<PAGE>\nРодители всё знают и перед праздником всегда\nдают детям немного денег.\n<PAGE>\n<FACE_NORMAL>Собери деньги и принеси мне до <BLUE>вечера 14-го</BLUE>."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_09",
+   "key": "3b235313",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЕсли забудешь, у кого собирать, просто\nподойди ко мне.\n<PAGE>\nЯ постараюсь, чтобы праздник удался, так что\nдавай вместе!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_INARI_10",
+   "key": "3abde452",
+   "ru": "(Так, мне нужно собрать деньги у...)\n<PAGE>\n(<BLUE>Хинаты</BLUE>, <BLUE>Комари</BLUE>, <BLUE>Мории</BLUE>, <BLUE>Умэкити</BLUE>, <BLUE>Сидзу</BLUE> и\n<BLUE>Яити</BLUE>. Понятно!)"
+  }
+ ]
+}

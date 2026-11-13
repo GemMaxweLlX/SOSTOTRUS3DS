@@ -2,6 +2,244 @@
  "file": "Festival_CROPS",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_OPENING_00",
+   "key": "9befce41",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть: начинаем\nПраздник урожая (<MOJI0>) в классе Новичок!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_OPENING_01",
+   "key": "ada63b1c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть: начинаем\nПраздник урожая (<MOJI0>) в классе Знаток!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_OPENING_02",
+   "key": "74fef303",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть: начинаем\nПраздник урожая (<MOJI0>) в классе Мастер!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_OPENING_03",
+   "key": "5685880a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть: начинаем\nПраздник урожая (<MOJI0>) в классе Легенда!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_OPENING_INTRODUCTION_00",
+   "key": "4997dff1",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПервый участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_OPENING_INTRODUCTION_01",
+   "key": "f929f628",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПродолжаем: второй участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_OPENING_INTRODUCTION_02",
+   "key": "f402dcfe",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЗа ним третий участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_OPENING_INTRODUCTION_03",
+   "key": "09988997",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nИ последний участник ― <MOJI1> ― <MOJI0><MOJI4>!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_INTRO_JUDGE_00",
+   "key": "83abece5",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nВсе участники в сборе, и я представляю нашего\nсудью!\n<PAGE>\n<FACE_LAUGH>Овощной сомелье Мацуба!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_INTRO_JUDGE_01",
+   "key": "1b9dec5a",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_NORMAL>\r\nЯ Мацуба. Сегодня я оцениваю урожай. Буду\nследить за каждым вашим движением!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_INTRO_JUDGE_02",
+   "key": "c15075df",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСразу переходим к оценке урожая!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_JUDGE_00",
+   "key": "461872af",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_NORMAL>\r\nХм? Хм... Да, понятно. Понятно... Хм..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_JUDGE_01",
+   "key": "906193ba",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_NORMAL>\r\nО, что это? Понятно... Да, это... О-ХО!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_JUDGE_02",
+   "key": "b93cce0d",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_LAUGH>\r\nСовсем неплохо. Чем дольше смотрю, тем\nбольше восхищаюсь!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_JUDGE_03",
+   "key": "ac99950f",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_LAUGH>\r\nО, просто великолепно! Ради таких моментов я\nи стал судьёй!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_JUDGE_04",
+   "key": "9ecceb34",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_SAD>\r\nХм... Я немного разочарован."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_JUDGE_05",
+   "key": "dfb4c6d9",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_ANGRY>\r\nКакая жалость. Явно приложено слишком мало\nусилий!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_RESULT_JUDGE_00",
+   "key": "aa215344",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПохоже, оценка окончена, а значит, настал\nмомент, которого все ждали!\n<PAGE>\nДа-да! Пора объявить победителя!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_RESULT_JUDGE_01",
+   "key": "b2e83fb3",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nИтак, победитель Праздника урожая (<MOJI0>) в классе\n<MOJI1>..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_RESULT_JUDGE_02",
+   "key": "7f9ae46d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nПоздравляем: <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_RESULT_JUDGE_03",
+   "key": "ebaf220b",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВторое место ― <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_RESULT_JUDGE_04",
+   "key": "f7257043",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nТретье место ― <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_RESULT_JUDGE_05",
+   "key": "35de77fe",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nЧетвёртое место ― <CHARANAME0> ― <MOJI0><MOJI1>! На этом результаты\nвсё!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_RESULT_JUDGE_06",
+   "key": "513df11d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВсе сегодня поработали на славу!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_CEREMONY_ANNOUNCE",
+   "key": "df4bf91d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nА теперь ― церемония награждения!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_INTRO_WINNER_00",
+   "key": "0a46a499",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nПобедитель, <CHARANAME0>, выйдите, пожалуйста, вперёд!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_CEREMONY_PRESENT",
+   "key": "ae966c7a",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! Ваше мастерство меня впечатлило.\n<PAGE>\nВручаю вам приз за первое место: <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\nУдачи вам и дальше!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_CEREMONY_PRESENT_AVATAR_SET",
+   "key": "58d611d7",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! Ваше мастерство меня впечатлило.\n<PAGE>\nВручаю вам приз за первое место: <BLUE>набор “<____ITEMNAME0____>”</BLUE>.\n<PAGE>\nУдачи вам и дальше!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_ITEM_BRAND_UP_00",
+   "key": "b40f53c5",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_NORMAL>\r\nА ещё благодаря победе ваш бренд вырос, <_____MYNAME_____>.\n<PAGE>\nБренд “<BLUE><MOJI4></BLUE>” поднялся до уровня <RED><MOJI5></RED>!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_ITEM_BRAND_UP_01",
+   "key": "25c9590f",
+   "ru": "<FACE_MATUBA><POS_RIGHT><FACE_NORMAL>\r\nТеперь “<BLUE><MOJI4></BLUE>” будет постепенно отгружаться\nдороже.\n<PAGE>\nПродолжайте продавать свой чудесный\nурожай!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_ENDING",
+   "key": "f977e064",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nНа этом <RED>Праздник урожая (<MOJI0>)</RED> завершён. До\nновых встреч, друзья!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_LITHOGRAPH",
+   "key": "832deb22",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nОй, а это что?! Н-не может быть, у нас\nдополнительный приз!\n<PAGE>\n<FACE_LAUGH>Загадочная гравюра! Наверняка редкая!\nПоздравляем!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_FARM_NAME",
+   "key": "de83787e",
+   "ru": "(ферма)"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_CROPS_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
+  },
+  {
    "n": 34,
    "f": 2,
    "id": "MES_EV_FES_CROPS_GO_HOME_01",

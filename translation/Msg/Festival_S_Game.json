@@ -1,0 +1,495 @@
+{
+ "file": "Festival_S_Game",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_00",
+   "key": "f6b0904d",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nПростите, что заставила ждать. Не будем\nтянуть: начинаем Трилимпиаду в Лулукоко!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_01",
+   "key": "22b0634e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nОбъясню правила игры.\n<PAGE>\nПобеждает команда, которая наловит больше\nвсего рыбы за отведённое время.\n<PAGE>\nУлов каждого идёт в общий счёт команды.\n<PAGE>\n<FACE_LAUGH>Призы получат команда-победитель и тот, кто\nпоймает самую большую рыбу. Удачи."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_02",
+   "key": "c4a17c80",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманды определим жеребьёвкой.\n<PAGE>\nИтак, подходите все и тяните жребий."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_03",
+   "key": "1279b4e3",
+   "ru": "(Интересно, с кем я окажусь в команде. Не\nтерпится узнать!)"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_04",
+   "key": "3ec7119f",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nПрежде чем начать, представлю команды."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_05",
+   "key": "df4310d6",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Коралл”: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_06",
+   "key": "8c4907da",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Дельфин”: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_07",
+   "key": "a3929084",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Кит”: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_08",
+   "key": "40bb0b8e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Морская звезда”: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_09",
+   "key": "73d11f53",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Косатка”: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_10",
+   "key": "55878344",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВремя ― до <BLUE>17:00</BLUE>. Если кончатся силы и вы\nупадёте, это засчитают как поражение, так что\nбудьте осторожны.\n<PAGE>\nА теперь подождите, пока мы всё подготовим."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_11",
+   "key": "f28fe491",
+   "ru": "(С этой командой я нацелюсь на победу!)"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_12",
+   "key": "9f96b80d",
+   "ru": "(Сказать что-нибудь команде?)"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_13",
+   "key": "69890b1f",
+   "ru": "Мы точно победим!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_14",
+   "key": "bcbcfc30",
+   "ru": "Я всё беру на себя!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_15",
+   "key": "bcf164f9",
+   "ru": "Я на вас рассчитываю!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_16",
+   "key": "79541481",
+   "ru": "Давайте постараемся!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_17",
+   "key": "dbe8fed5",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nИтак, всё готово. Начинаем!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_20",
+   "key": "d6e85591",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nИгра окончена! Сейчас мы посчитаем рыбу."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_21",
+   "key": "6ff93da0",
+   "ru": "Надеюсь, мы победим... Подожду результатов."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_22",
+   "key": "dabbaa6a",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nПростите, что заставила ждать! Результаты\nвсех команд готовы, объявляем.\n<PAGE>\nСначала личный приз. Самую большую рыбу\nпоймал участник..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_23",
+   "key": "009bd117",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\n<CHARANAME0>: рыба длиной <MOJI0> см! Поздравляем!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_24",
+   "key": "f336b7fd",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nВот ваш приз, <CHARANAME0>: <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_25",
+   "key": "823b6312",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nХорошо. А теперь объявим победителей\nкомандного зачёта.\n<PAGE>\nБольше всего рыбы на Трилимпиаде в этом\nгоду наловила команда..."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_26",
+   "key": "eb765c87",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\n“<MOJI4>”! Поздравляем: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_27",
+   "key": "a09c0cac",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nДля победителей, команды “<MOJI4>”, мы приготовили\nприз: <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_28",
+   "key": "068c23dd",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nНа этом Трилимпиада в Лулукоко завершена.\n<PAGE>\nМахало всем за участие! До встречи на\nследующем празднике!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_TEAMNAME_A",
+   "key": "d5a3f97a",
+   "ru": "Коралл"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_TEAMNAME_B",
+   "key": "bb860f62",
+   "ru": "Дельфин"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_TEAMNAME_C",
+   "key": "0f062b41",
+   "ru": "Кит"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_TEAMNAME_D",
+   "key": "f8262b0b",
+   "ru": "Морская звезда"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_TEAMNAME_E",
+   "key": "c12342e3",
+   "ru": "Косатка"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Craftman_GREETING",
+   "key": "fa089980",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nВсем привет."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Craftman_COMMENT_00",
+   "key": "f5d59d82",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nВсе молодцы. У меня улов: <MOJI0>. Осталось\nдождаться результатов."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_TwinOlder_GREETING",
+   "key": "01835107",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что приняли в команду."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_TwinOlder_COMMENT_00",
+   "key": "5c69107b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nФух... Все молодцы. У меня улов: <MOJI0>. Надеюсь,\nмы победим."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_TwinYounger_GREETING",
+   "key": "bad9146c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПривет. Я постараюсь."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_TwinYounger_COMMENT_00",
+   "key": "bf057ec9",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nУ меня улов: <MOJI0>. Все молодцы... Хр-р..."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Fisher_GREETING",
+   "key": "a5978a0f",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nОтлично! В рыбалке на меня можно\nположиться!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Fisher_COMMENT_00",
+   "key": "b0c0fe45",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nУ меня улов: <MOJI0>! Все молодцы! Вот бы победить!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_FisherWife_GREETING",
+   "key": "2742677c",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nДавайте постараемся, все!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_FisherWife_COMMENT_00",
+   "key": "b201ec4c",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nТак, рыб: <MOJI0>. Да, это и правда не боевые\nискусства. Остаётся надеяться на победу!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_FisherSon_GREETING",
+   "key": "2002fea6",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nСо мной в команде у остальных нет шансов!\nВперёд!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_FisherSon_COMMENT_00",
+   "key": "ddf6a3a5",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nКак, уже всё?! У меня всего <MOJI0>! Я бы точно\nналовил больше!"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_FisherDaughter_GREETING",
+   "key": "833059ce",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nВсе-ем приве-ет. ♪"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_FisherDaughter_COMMENT_00",
+   "key": "16522cf4",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nМолодцы. ♪ У меня рыб: <MOJI0>. Надеюсь, мы\nпобедим."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Historian_GREETING",
+   "key": "574378c4",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nПобеда или поражение мне не так уж важны,\nно... приз меня интересует."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Historian_COMMENT_00",
+   "key": "ea8dbf6e",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nХм, у меня улов: <MOJI0>, но... какой смысл считать?"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Assistant_GREETING",
+   "key": "72338ef4",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nВ-все, давайте постараемся."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Assistant_COMMENT_00",
+   "key": "446638d3",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nВ-все молодцы. У меня улов: <MOJI0>. Мы... мы\nсможем победить...?"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Angler_GREETING",
+   "key": "9ba7b5cc",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо. Всем привет."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Angler_COMMENT_00",
+   "key": "4833e467",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо... Молодцы. У меня улов: <MOJI0>. Осталось\nдождаться результатов."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_AnglerGrandson_GREETING",
+   "key": "e8a30366",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_LAUGH>\r\nДавайте постараемся, все."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_AnglerGrandson_COMMENT_00",
+   "key": "4227fcec",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_LAUGH>\r\nФух... Молодцы! У меня улов: <MOJI0>. Надеюсь, этого\nхватит для победы."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Uncle_GREETING",
+   "key": "3b1b069e",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nЭй, все! Рыба так и скачет, а мне не терпится\nначать."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Uncle_COMMENT_00",
+   "key": "6c356e26",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nВсе молодцы! Так-с... у меня улов: <MOJI0>. Надеюсь,\nпобедим!"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_AmericaFarmMan_GREETING",
+   "key": "9464463d",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nРассчитываю на вас всех."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_AmericaFarmMan_COMMENT_00",
+   "key": "6a462233",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\nХм. Похоже, у меня улов: <MOJI0>. Надеюсь, победим."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_AmericaFarmSon_GREETING",
+   "key": "1aa1a574",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nВсе, э-э... Здравствуйте!"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_AmericaFarmSon_COMMENT_00",
+   "key": "d9d71637",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nВсе молодцы. Похоже, у меня улов: <MOJI0>. Было бы\nздорово победить..."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_MigrantGirl_GREETING",
+   "key": "d23af46d",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nЭ-э... З-здравствуйте, в-все!"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_MigrantGirl_COMMENT_00",
+   "key": "6ddfa16d",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nФух! Все молодцы! У меня улов: <MOJI0>. Надеюсь, мы\nпобедим!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Wolesaler_GREETING",
+   "key": "3eb7f6eb",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nНадеюсь лишь, что мы победим."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Wolesaler_COMMENT_00",
+   "key": "bd5fceb7",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_LAUGH>\r\nМолодцы. У меня улов: <MOJI0>. Порыбачить иногда\n― отличный отдых."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Apprentice_GREETING",
+   "key": "9e72697c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nВсем привет!"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Apprentice_COMMENT_00",
+   "key": "8a61dc8c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nФух. Как бы то ни было, молодцы! У меня\nулов: <MOJI0>. Интересно, как там другие команды."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Child_Boy_GREETING",
+   "key": "4f949cdf",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nВсем привет!"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Child_Boy_COMMENT_00",
+   "key": "549818f9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКак, уже всё? У меня улов: <MOJI0>! <PARENT>, надеюсь, мы\nпобедим!"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Child_Girl_GREETING",
+   "key": "ea12c99b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЗдравствуйте, все. ♪"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_FES_S_GAME_Child_Girl_COMMENT_00",
+   "key": "f6312665",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nХи-хи, было весело. ♪ Похоже, у меня улов: <MOJI0>.\n<PARENT>, надеюсь, мы победим."
+  }
+ ]
+}

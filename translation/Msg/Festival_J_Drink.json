@@ -2,6 +2,41 @@
  "file": "Festival_J_Drink",
  "entries": [
   {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_J_DRINK_TEAMNAME_A",
+   "key": "cacf72ac",
+   "ru": "Слива"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_J_DRINK_TEAMNAME_B",
+   "key": "b6654ffe",
+   "ru": "Персик"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_J_DRINK_TEAMNAME_D",
+   "key": "af1f1ccc",
+   "ru": "Хурма"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_J_DRINK_TEAMNAME_E",
+   "key": "3f16f564",
+   "ru": "Каштан"
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_EV_FES_J_DRINK_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
+  },
+  {
    "n": 315,
    "f": 2,
    "id": "MES_EV_FES_J_DRINK_GO_HOME_01",

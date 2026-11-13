@@ -2,6 +2,83 @@
  "file": "Festival_A_Goddess",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_00",
+   "key": "3337208a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВсе в сборе?\n<PAGE>\nТогда начинаем Праздник богини!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_01",
+   "key": "53372ce9",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nНачнём с огромной пиццы, испечённой\nспециально к сегодняшнему дню!\n<PAGE>\nЭта пицца ― подношение богине.\n<PAGE>\nТак мы благодарим её за щедрый урожай\nпрошлого года и просим удачи в этом.\n<PAGE>\nВ пиццу мы положили местные деликатесы.\n<PAGE>\nКстати, отдельное спасибо нашему Фрэнку,\nнынешнему президенту Всемирной ассоциации\nлюбителей пиццы!\n<PAGE>\nОн проследил, чтобы в пицце всё, от муки до\nначинки, было на высшем уровне.\n<PAGE>\nНу, все, едим, пока горячая!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_02",
+   "key": "ee865880",
+   "ru": "Раз уж все здесь, хочется поесть с кем-то\nвместе?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_03",
+   "key": "5e003187",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nА теперь главное событие ― танец!\n<PAGE>\nМы показываем богине наш танец, чтобы она\nпорадовалась нашей дружбе.\n<PAGE>\nНо для этого нам и самим нужно получать от\nтанца удовольствие!\n<PAGE>\nТанцуйте все до упаду, чтобы получить\nблагословение богини!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_04",
+   "key": "fe86d10f",
+   "ru": "Время танцевать! Похоже, партнёра можно\nвыбрать любого."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_05",
+   "key": "cee6d62a",
+   "ru": "С кем танцевать?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_06",
+   "key": "9f3fd4c5",
+   "ru": "Танцевать с мужчиной"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_07",
+   "key": "68cfe8f6",
+   "ru": "Танцевать с женщиной"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_08",
+   "key": "f2097d60",
+   "ru": "Танцевать с ребёнком"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_09",
+   "key": "c500fd8d",
+   "ru": "Пригласить: <CHARANAME0>?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_009",
+   "key": "98b46004",
+   "ru": "Пригласить: <CHILD_NAME>?"
+  },
+  {
    "n": 11,
    "f": 2,
    "id": "MES_EV_FES_A_GODDESS_10",
@@ -14,6 +91,62 @@
    "id": "MES_EV_FES_A_GODDESS_11",
    "key": "f22e0cbd",
    "ru": "Нет"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_CANCEL",
+   "key": "a0323a39",
+   "ru": "Назад"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_12",
+   "key": "4a70490b",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПраздник богини подходит к концу. Всем было\nвесело?\n<PAGE>\nЗавтра всё вернётся на круги своя, но не\nзабывайте о благодарности нашей богине!\n<PAGE>\nАх да, оставшуюся пиццу мы раздаём в\nподарок! Берите домой.\n<PAGE>\n<FACE_LAUGH>Ну что ж, сегодня было здорово. А в\nследующем году праздник будет ещё лучше!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_13",
+   "key": "3e80d6b4",
+   "ru": "<FACE_GODDES>\r\nПодожди, <_____MYNAME_____>."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_14",
+   "key": "3abba7d2",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nСегодня было чудесно. Я так растрогана!\n<PAGE>\nПоблагодарить всех я не могу, так что хотя бы\nтебе скажу, <_____MYNAME_____>. Огро-о-омное спасибо! ♪"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_15",
+   "key": "13b6dc4b",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nКстати, я слышала, ты помогаешь со сбором\nденег? По крайней мере, так все говорят.\n<PAGE>\nЖители тебя очень поддерживают, <_____MYNAME_____>. Я\nужа-а-асно за тебя рада!\n<PAGE>\nЖду не дождусь следующего Праздника богини.\nИ ты, уверена, тоже."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_16",
+   "key": "13b6dc4b",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nКстати, я слышала, ты помогаешь со сбором\nденег? По крайней мере, так все говорят.\n<PAGE>\nЖители тебя очень поддерживают, <_____MYNAME_____>. Я\nужа-а-асно за тебя рада!\n<PAGE>\nЖду не дождусь следующего Праздника богини.\nИ ты, уверена, тоже."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_17",
+   "key": "084cc4af",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nЖду не дождусь следующего Праздника богини.\nИ ты, уверена, тоже."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_18",
+   "key": "f3472f44",
+   "ru": "(Праздник богини удался. В следующем году\nтоже надо прийти!)"
   },
   {
    "n": 21,
@@ -30,6 +163,41 @@
    "ru": "Форд"
   },
   {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_SELECT_02",
+   "key": "21730310",
+   "ru": "Марко"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_SELECT_03",
+   "key": "71150c33",
+   "ru": "Брэд"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_SELECT_04",
+   "key": "251e2e86",
+   "ru": "Гектор"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_SELECT_05",
+   "key": "e5cc9c24",
+   "ru": "Колин"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_SELECT_06",
+   "key": "b8ac6d0d",
+   "ru": "Фрэнк"
+  },
+  {
    "n": 28,
    "f": 2,
    "id": "MES_EV_FES_A_GODDESS_SELECT_07",
@@ -37,11 +205,326 @@
    "ru": "Лизетта"
   },
   {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_SELECT_08",
+   "key": "83f8168c",
+   "ru": "Кэрри"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_SELECT_09",
+   "key": "f1cda7c8",
+   "ru": "Меган"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_SELECT_10",
+   "key": "eeaeafdb",
+   "ru": "Миранда"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_SELECT_11",
+   "key": "458ace9e",
+   "ru": "Ноэль"
+  },
+  {
    "n": 33,
    "f": 2,
    "id": "MES_EV_FES_A_GODDESS_SELECT_12",
    "key": "19e86dee",
    "ru": "<CHILD_NAME>"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_PIZZA_A_01",
+   "key": "93db143c",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n*вздох* Подносить богине пиццу? Крайне\nвредно для здоровья!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>Да ладно тебе. Недавно доказали, что пицца\nпрямо-таки творит чудеса для здоровья.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>Что? Мои тщательные исследования ни о чём\nподобном не говорят. Да и вообще, эта пицца\nникак не может быть полезной.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>А? Ты не слышал, Форд? Говорят, сочетание\nпомидоров, сыра и базилика защищает от\nболезней. Серьёзно!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>Я человек науки! Гордый человек науки! И\nничему не поверю без двойного слепого\nисследования!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>Ну, Фрэнк ест пиццу постоянно и ни разу не\nпростужался.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Раз ты упомянул... иммунитет у Фрэнка и\nправда крепкий.\n<PAGE>\nХм... Возможно, почтальоны научнее, чем я\nдумал.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Хе! Ну ты и доверчивый. Я тебя разыгрываю,\nФорд!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>Проклятье! Ты снова меня провёл!\n<PAGE>\nОтныне не верю ни единому твоему слову без\nпроверки научным методом!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Ха-ха, прости, прости. Больше не буду тебя\nразыгрывать. Хотя бы какое-то время."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_PIZZA_B_01",
+   "key": "80848ec8",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОх, как же весело проводить праздник с тобой,\n<_____MYNAME_____>.\n<PAGE>\n<FACE_NORMAL>Ой, <_____MYNAME_____>! У тебя соус вокруг рта! Что, у меня тоже?\n<PAGE>\n<FACE_LAUGH>У нас одинаковые пятна! Значит, мы идеально\nподходим друг другу.\n<PAGE>\nМожет, устроим как-нибудь пицца-вечеринку у\nменя дома?\n<PAGE>\nМне кажется, печь и есть пиццу с тобой было\nбы здорово. ♪"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_PIZZA_C_01",
+   "key": "1661fc43",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n*фу-у-у* Не могу есть эту пиццу, пока ещё не\nподую.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>Если пицца остынет, будет уже не так вкусно.\n<PAGE>\nЗнаю, ты не любишь горячее, Гектор, но пиццу\nнадо есть, пока она тёплая! Правда, <_____MYNAME_____>?\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>Не недооценивай горячий сыр на пицце, Брэд.\nДаже ты можешь обжечься.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>Да понял я, понял! Я в ресторане кучу пицц\nиспёк. Дважды повторять не надо!\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_ANGRY>Горячо-горячо-горячо! Язык гори-и-ит!\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>Пицца огромная. Она горячее обычной.\nПодожди, пока остынет.\n<PAGE>\nБрэд каждый год обжигает язык. Осторожнее.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>Ай-ай-ай! Вот гад! Да, я дурак, что обжигаюсь\nкаждый год, но предупредить-то можно\nбыло?!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_PIZZA_D_01",
+   "key": "a3fe1a05",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nМ-м... Пицца Фрэнка о-о-очень вкусная! ♪\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>Вкусная-то вкусная, но, по-моему, калорий в\nней слишком много!\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>Ха! Ничего страшного, если не объедаться.\nХотя кто бы говорил!\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>Ничего страшного, если добрать полезного\nчем-то ещё. У нас есть суп! ♪\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>Ох. Как заботливо. Налей мне.\n<PAGE>\nХм? Этот суп... Цвет у него какой-то\nстранный...\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>Правда? Я лишь кое-что немного изменила.\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_SAD>Погоди, “изменила”?\n<PAGE>\n<FACE_ANGRY>Миранда! <_____MYNAME_____>! Надо срочно сказать Брэду!\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>О, я ему уже сказала! Он так обрадовался, что\nрасплакался.\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_SAD>Вот как? Ну, тогда... можно выдохнуть.\n<PAGE>\n<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>Хорошо, что ты ему сказала..."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_PIZZA_E_01",
+   "key": "d24b9c51",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\n*фу-фу* *ням-ням*\n<PAGE>\n<FACE_SAD>Горячо-горячо-горячо!\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_LAUGH>Ну же, Колин! Подожди, пока остынет!\n<PAGE>\n<FACE_NORMAL>Держи! Холодный напиток. Охладись!\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_SAD>*глоть-глоть-глоть* А-а-ах! Спасибо, Ноэль!\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_LAUGH>Ха! ♪ Что бы ты без меня делал, Колин?\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>Э-эй, я и сам справлюсь!\n<PAGE>\nНоэль! У тебя сыр на губах.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_SAD>Что?! Ой, и правда!\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>Хе! Похоже, за тобой тоже нужен глаз да глаз,\nНоэль!\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_ANGRY>Х-хватит дразниться!\n<PAGE>\nИ ты, <_____MYNAME_____>! Не смотри на меня!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_PIZZA_F_01",
+   "key": "e6b74daf",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nМ-м... Вкусно! Фрэнк, пицца в этом году\nбезупречна!\n<PAGE>\nТебе ведь тоже нравится, <_____MYNAME_____>?\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_NORMAL>Хе! Рад слышать! Вы только гляньте! Даже\nстрогому критику Марко нравится!\n<PAGE>\n<FACE_LAUGH>Вот и задумался я! Какую пиццу испечь вам в\nследующем году?\n<PAGE>\n<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>Ещё эту не доели, а он уже о следующей!\n<PAGE>\n<FACE_LAUGH>Фрэнк не из болтливых. Но заведи его о пицце\n― и не остановишь!"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_Postman_00",
+   "key": "863ec442",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nПотанцевать с тобой? С радостью. С парнем как\nраз потренируюсь!\n<PAGE>\nВперёд, <_____MYNAME_____>!"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_Postman_00",
+   "key": "5f3f5eff",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nПринять приглашение от такой прелестной\nдевушки ― честь для меня.\n<PAGE>\nС радостью буду твоим партнёром. Просто\nследуй за мной."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_LOVER_Postman_00",
+   "key": "7680ecfe",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЯ рад, что ты пригласила меня на танец.\nПросто следуй за мной!\n<PAGE>\n...Так я хотел бы сказать, но, честно говоря, от\nмысли о танце с тобой я волнуюсь.\n<PAGE>\nПостараюсь показать всё, на что способен, <_____MYNAME_____>."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MARRIAGE_Postman_00",
+   "key": "6ee7a618",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНи слова больше. Это я должен был тебя\nпригласить.\n<PAGE>\nПотанцуешь со мной, моя принцесса?"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_Doctor_00",
+   "key": "bb5d5773",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nСтранный ты человек, раз приглашаешь меня на\nтанец.\n<PAGE>\n<FACE_NORMAL>Но нет, я не против. Почтительно принимаю\nприглашение."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_Doctor_00",
+   "key": "0d11da95",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nСтранный ты человек, раз приглашаешь меня на\nтанец.\n<PAGE>\n<FACE_NORMAL>Но нет, я не против. Почтительно принимаю\nприглашение. Впрочем, тебе придётся простить\nмою неуклюжесть.\n<PAGE>\nЕсли тебя это устраивает, буду рад составить\nтебе пару."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_LOVER_Doctor_00",
+   "key": "fa0b4979",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOVE>\r\nНе думал, что пригласишь меня ты. Впрочем,\nраз мы пара, в этом есть определённая логика.\n<PAGE>\nДолжно быть, я заставил тебя волноваться, <_____MYNAME_____>.\nЭто мне следовало тебя пригласить. Возьми\nменя под руку..."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MARRIAGE_Doctor_00",
+   "key": "7c640a18",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOVE>\r\nЯ рад, что ты меня пригласила, но я бы ничуть\nне обиделся, если бы ты не захотела составить\nмне компанию.\n<PAGE>\n<FACE_LAUGH>...Понятно. Раз ты настаиваешь, подчиняюсь, <_____MYNAME_____>!"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_Florist_00",
+   "key": "27f57e7c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОх! Ты потанцуешь со мной?! Правда?\n<PAGE>\n<FACE_LOVE>Ох, <_____MYNAME_____>, с удовольствием. Давай повеселимся. ♪"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_Florist_00",
+   "key": "01ba229d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nА? Ты потанцуешь со мной?\n<PAGE>\nЯ согласна! Спасибо, <_____MYNAME_____>! ♪"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_LOVER_Florist_00",
+   "key": "9403a5b9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nХе-хе! <RED>∀</RED> Как мне повезло, что я танцую с\nтобой. Вести доверяю тебе."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MARRIAGE_Florist_00",
+   "key": "4fa048c6",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОх, как я рада быть твоей парой.\n<PAGE>\nХе-хе! Не терпится. <RED>∀</RED> Давай не будем спешить\nи насладимся моментом, ладно? ♪"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_RestaurantOldman_00",
+   "key": "9f839f0d",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>? Хочешь потанцевать со мной?\n<PAGE>\n<FACE_LAUGH>Хо-хо! Не думал, что и у меня будет партнёр.\nВеди, будь любезен!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_RestaurantOldman_00",
+   "key": "13c047f4",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nТы потанцуешь со мной, <_____MYNAME_____>?\n<PAGE>\n<FACE_LAUGH>Конечно. Я хоть и стар, но покажу этим юнцам,\nкак надо отплясывать!"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_RestaurantHusbund_00",
+   "key": "de7ae729",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nХочешь потанцевать со мной?\n<PAGE>\nКонечно, почему бы нет! Покажем всем наш\nэлитный танец!"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_RestaurantHusbund_00",
+   "key": "d6aa8803",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nСо мной?! Ого, не ожидал, что ты пригласишь.\n<PAGE>\nЛадно, давай! Главное ― не споткнуться и не\nупасть."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_RestaurantWife_00",
+   "key": "29146169",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nОх! Хочешь потанцевать со мной? Хе. От\nприглашения <_____MYNAME_____> не откажешься.\n<PAGE>\nТанцую я не лучше всех, но давай всё равно\nповеселимся!"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_RestaurantWife_00",
+   "key": "5274867f",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nХочешь потанцевать со мной, <_____MYNAME_____>?\n<PAGE>\nКонечно, покажем остальным дамам, кто тут\nкоролевы танцпола! ♪"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_AmericaFarmOldwoman_00",
+   "key": "15155923",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>? Хочешь потанцевать со мной?\n<PAGE>\n<FACE_LAUGH>Знаешь, вместо того чтобы тратить время на\nстарушку вроде меня, лучше потанцуй с\nкем-нибудь своего возраста!\n<PAGE>\nНо раз уж пригласил, буду твоей партнёршей!"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_AmericaFarmOldwoman_00",
+   "key": "ef7e9fbf",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nХе! Ты уверена? Думаю, с парнем твоего\nвозраста тебе было бы веселее.\n<PAGE>\n<FACE_LAUGH>Но я польщена. У этих старых костей ещё есть\nпара ловких движений!"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_AmericaFarmMan_00",
+   "key": "90defc17",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь потанцевать со мной?\n<PAGE>\nЛадно, давай. Но танцую я не очень."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_AmericaFarmMan_00",
+   "key": "d63d0090",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь потанцевать со мной?\n<PAGE>\nУверена? Ладно, будем парой."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_AmericaFarmSon_00",
+   "key": "c0f1daf9",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nТанцевать со мной? Но... я же мальчик!\n<PAGE>\nЗнаешь? А, ну да. Конечно, знаешь. Ладно, если\nтебе нормально, <_____MYNAME_____>, то и мне тоже!"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_AmericaFarmSon_00",
+   "key": "d1f60aa9",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nЧто? Хочешь потанцевать со мной? Понятно.\nЯ-я немного волнуюсь.\n<PAGE>\nНо раз ты так говоришь, <_____MYNAME_____>! Я согласен!"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_Uncle_00",
+   "key": "cc1955c6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nА? Хочешь танцевать со мной? Да на что тебе\nтакой старый пень, сынок!\n<PAGE>\n<FACE_LAUGH>А, была не была! Я ещё кое-что умею. Сейчас\nпокажу!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_Uncle_00",
+   "key": "8b7c5bc6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nХочешь танцевать со мной? Шла бы ты к\nмолодёжи, <_____MYNAME_____>!\n<PAGE>\n<FACE_LAUGH>Хотя я как раз думал растрясти пиццу в танце.\nВперёд, на танцпол!"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_StoreWoman_00",
+   "key": "ce7c0b2d",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОх, <_____MYNAME_____>! Ты приглашаешь меня на танец?\n<PAGE>\nМне лестно. С радостью принимаю\nприглашение. И постараюсь на тебя не\nнаступить!"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_StoreWoman_00",
+   "key": "14cfefd8",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nХе! Ты приглашаешь меня на танец, <_____MYNAME_____>?\n<PAGE>\nБольшая честь. Покажем им, на что мы\nспособны! ♪"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_StoreDaughter_00",
+   "key": "3701ab22",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nХочешь быть моим партнёром по танцам, <_____MYNAME_____>?\n<PAGE>\nХа-ха! Танцуем. ♪"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_StoreDaughter_00",
+   "key": "ce97af34",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nТы потанцуешь со мной, <_____MYNAME_____>?\n<PAGE>\nКонечно! Не терпится показать свои движения!\n♪"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_ChildBoy_00",
+   "key": "90c19901",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты потанцуешь со мной?\n<PAGE>\n<FACE_LAUGH>Ура! Ну же, пошли! ♪"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_ChildBoy_00",
+   "key": "378ec08b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты потанцуешь со мной?\n<PAGE>\n<FACE_LAUGH>Конечно! ♪"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_MAN_ChildGirl_00",
+   "key": "0b93bbd0",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты потанцуешь со мной?\n<PAGE>\n<FACE_LAUGH>Конечно, не терпится! ♪"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_DANCE_WOMAN_ChildGirl_00",
+   "key": "2b639054",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты потанцуешь со мной?\n<PAGE>\n<FACE_LAUGH>Хе-хе-хе! Ну же, пошли! ♪"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_FES_A_GODDESS_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
   },
   {
    "n": 95,

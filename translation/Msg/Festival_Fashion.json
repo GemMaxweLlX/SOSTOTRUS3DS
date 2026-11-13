@@ -2,6 +2,314 @@
  "file": "Festival_Fashion",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_OPENING_00",
+   "key": "8bf6400a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть: начинаем\nПоказ мод в классе Новичок!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_OPENING_01",
+   "key": "48099bf0",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть: начинаем\nПоказ мод в классе Знаток!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_OPENING_02",
+   "key": "8eecebaf",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть: начинаем\nПоказ мод в классе Мастер!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_OPENING_03",
+   "key": "f7122870",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть: начинаем\nПоказ мод в классе Легенда!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_OPENING_INTRODUCTION_00",
+   "key": "4997dff1",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПервый участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_OPENING_INTRODUCTION_01",
+   "key": "f929f628",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПродолжаем: второй участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_OPENING_INTRODUCTION_02",
+   "key": "a8aa395c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nДалее ― участник от <MOJI0>!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_OPENING_INTRODUCTION_03",
+   "key": "16a6ab50",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nИ последний участник ― <MOJI1> ― <MOJI0><MOJI4>!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_INTRO_JUDGE_00",
+   "key": "73b64cd3",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nВсе участники в сборе, и я представляю нашего\nсудью!\n<PAGE>\n<FACE_LAUGH>Законодатель мировой моды, искусствовед\nДель Коса!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_INTRO_JUDGE_01",
+   "key": "4abd9b5d",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_NORMAL>\r\nМоё имя... Дель Коса! Очень приятно."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_INTRO_JUDGE_02",
+   "key": "223b0544",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nИтак, похоже, всё готово, начинаем показ!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_SHOW_00",
+   "key": "852d4699",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВыход номер 1: <CHARANAME0> (<MOJI0>)! Прошу!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_SHOW_01",
+   "key": "cd1e69a1",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВыход номер 2: <CHARANAME1> (<MOJI0>)! Прошу!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_SHOW_02",
+   "key": "631f57b5",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВыход номер 3: <CHARANAME2> (<MOJI0>)! Прошу!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_SHOW_03",
+   "key": "4016beaf",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВыход номер 4: <CHARANAME3> с фермы “<MOJI0>”! Прошу!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_SHOW_04",
+   "key": "e72d9157",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВыход номер <MOJI3>: образ от <CHARANAME3>! Прошу!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_00",
+   "key": "f0694a05",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_NORMAL>\r\nО! <MOJI1> отлично сочетается с <MOJI2>."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_01",
+   "key": "eeda59a7",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_NORMAL>\r\nФи. Видел такое сто раз. Надоело!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_02",
+   "key": "281cca66",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_LAUGH>\r\nХм... Искра фантазии здесь видна. Но лишь\nискра!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_03",
+   "key": "ca1758b1",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_LAUGH>\r\nСенсационно. Совершенно. Смело. Три сильных\nслова. Один незабываемый образ!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_04",
+   "key": "b9411e83",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_NORMAL>\r\nСочетание цветов “<MOJI1>” и акцент “<MOJI2>” весьма\nнедурны..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_05",
+   "key": "883fb47b",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_ANGRY>\r\nХм... Как бы выразиться? А, знаю. СКУЧНО."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_06",
+   "key": "cd208cc8",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_LAUGH>\r\nПотрясающее сочетание. Работа настоящего\nтворца."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_07",
+   "key": "be80866a",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_SAD>\r\nЭто... Чувство, что растёт в груди, чем дольше\nя смотрю... Это... голод!!\n<PAGE>\n<FACE_LAUGH>Слияние красоты и вкуса... Вот это искусство!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_08",
+   "key": "83b4b91d",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_LAUGH>\r\nХм, меньше цветов ― и форма с линиями\nвидны куда лучше. Азы моды. Классика!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_09",
+   "key": "1cccd260",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_LAUGH>\r\nА, перед нами блистательная палитра в\nизысканном стиле. Превосходно."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_10",
+   "key": "560bb5bc",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_LAUGH>\r\nЕдиный образ с головы до пят. Безупречно,\nскажу я вам!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_MARIO",
+   "key": "90f3802a",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_LAUGH>\r\nО, какой редкий наряд. Красный и синий\nидеальны. С таким сочетанием хочется бежать\nсо всех ног."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_LUIJI",
+   "key": "363724a8",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_LAUGH>\r\nО, какой редкий наряд. Всё объединяет синий.\nВ таком хорошо рыбачить."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_PEACH",
+   "key": "cdc5d907",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_LAUGH>\r\nСловно наряд принцессы. Чудесный образ: класс\nи утончённость в одном."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_JUDGE_KINOPIO",
+   "key": "ad77fef6",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_LAUGH>\r\nАх, как смело и необычно! Это человек или\nгриб?\n<PAGE>\nНе скажу, что дизайн мне нравится, но\nхрабрости ему не занимать!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_RESULT_JUDGE_00",
+   "key": "f91640d0",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nНа этом сегодняшний Показ мод завершён. Все\nмолодцы! Переходим к объявлению\nрезультатов."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_RESULT_JUDGE_01",
+   "key": "9f051ea6",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПобедитель Показа мод (<MOJI0>) в классе <MOJI1>..."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_RESULT_JUDGE_02",
+   "key": "7f9ae46d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nПоздравляем: <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_RESULT_JUDGE_03",
+   "key": "ebaf220b",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВторое место ― <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_RESULT_JUDGE_04",
+   "key": "f7257043",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nТретье место ― <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_RESULT_JUDGE_05",
+   "key": "1f9ca7e6",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nИ четвёртое место ― <CHARANAME0> ― <MOJI0><MOJI1>! Вот и все\nрезультаты."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_RESULT_JUDGE_06",
+   "key": "5a173ba6",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПоздравляю всех участников ― вы отлично\nсправились."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_CEREMONY_ANNOUNCE",
+   "key": "25d5e736",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nА теперь ― церемония награждения!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_INTRO_WINNER_00",
+   "key": "0a46a499",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nПобедитель, <CHARANAME0>, выйдите, пожалуйста, вперёд!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_CEREMONY_PRESENT",
+   "key": "f51a17d2",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_NORMAL>\r\nВаше чувство стиля вызвало у меня скупую\nслезу. Грандиозно. Захватывающе. МОДА.\n<PAGE>\nВаш приз! <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\n<FACE_LAUGH>Идеальная награда для столь модной персоны!"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_CEREMONY_PRESENT_AVATAR_SET",
+   "key": "eaef1e13",
+   "ru": "<FACE_DELCOSSA><POS_RIGHT><FACE_NORMAL>\r\nВаше чувство стиля вызвало у меня скупую\nслезу. Грандиозно. Захватывающе. МОДА.\n<PAGE>\nВаш приз! <BLUE>Набор “<____ITEMNAME0____>”</BLUE>.\n<PAGE>\n<FACE_LAUGH>Идеальная награда для столь модной персоны!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_ENDING",
+   "key": "33443457",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nНа этом <RED>Показ мод (<MOJI0>)</RED> завершён. Приходите на\nследующий, друзья!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_FES_FASHION_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
+  },
+  {
    "n": 44,
    "f": 2,
    "id": "MES_EV_FES_FASHION_GO_HOME_01",

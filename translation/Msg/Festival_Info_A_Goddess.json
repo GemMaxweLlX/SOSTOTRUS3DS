@@ -1,0 +1,96 @@
+{
+ "file": "Festival_Info_A_Goddess",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_00",
+   "key": "9920a293",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\n<_____MYNAME_____>? Это я, Меган. Простите за вторжение!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_01",
+   "key": "2a40074f",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>. Выглядишь сегодня бодро!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_02",
+   "key": "98cd76eb",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСкоро снова Праздник богини, вот я и зашла\nнапомнить.\n<PAGE>\nПраздник богини пройдёт в тот же день, что и\nв прошлом году, ― <BLUE>27 весны</BLUE>.\n<PAGE>\nЕсли хочешь участвовать, подойди ко мне в\nэтот день <BLUE>с 10:00 до 13:00</BLUE>, хорошо?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_03",
+   "key": "1fa145ab",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nАх да, если ты не против, не поможешь ли\nснова собрать деньги?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_04",
+   "key": "746b61ed",
+   "ru": "Конечно, помогу!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_05",
+   "key": "75e5f696",
+   "ru": "Простите, мне некогда"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_06",
+   "key": "3c04b945",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо! Как это мило с твоей стороны!\nСобрать нужно у...\n<PAGE>\n<BLUE>Уэйна</BLUE>, <BLUE>Лизетты</BLUE>, <BLUE>Марко</BLUE>, <BLUE>Кэрри</BLUE>, <BLUE>Колина</BLUE> и\n<BLUE>Миранды</BLUE>. Только у этих шестерых.\n<PAGE>\nСобери деньги и принеси мне до <BLUE>вечера 26-го</BLUE>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_07",
+   "key": "5a37814a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо! Ты меня просто спасаешь.\nСобрать нужно у...\n<PAGE>\n<BLUE>Форда</BLUE>, <BLUE>Брэда</BLUE>, <BLUE>Гектора</BLUE>, <BLUE>Фрэнка</BLUE>, <BLUE>Миранды</BLUE> и\n<BLUE>Ноэля</BLUE>. Только у этих шестерых.\n<PAGE>\nСобери деньги и принеси мне до <BLUE>вечера 26-го</BLUE>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_08",
+   "key": "7aed407f",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсли забудешь, у кого собирать, просто\nподойди ко мне.\n<PAGE>\nДавай вместе сделаем этот праздник\nзамечательным!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_09",
+   "key": "5a1ed36d",
+   "ru": "(Так, мне нужно собрать деньги у...)\n<PAGE>\n(<BLUE>Уэйна</BLUE>, <BLUE>Лизетты</BLUE>, <BLUE>Марко</BLUE>, <BLUE>Кэрри</BLUE>, <BLUE>Колина</BLUE> и\n<BLUE>Миранды</BLUE>. Понятно!)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_10",
+   "key": "a36b518b",
+   "ru": "(Так, мне нужно собрать деньги у...)\n<PAGE>\n(<BLUE>Форда</BLUE>, <BLUE>Брэда</BLUE>, <BLUE>Гектора</BLUE>, <BLUE>Фрэнка</BLUE>, <BLUE>Миранды</BLUE> и\n<BLUE>Ноэля</BLUE>. Понятно!)"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_11",
+   "key": "cabb936c",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОй, что ты, дорогуша, ничего страшного. Раз\nнекогда ― значит, некогда!\n<PAGE>\nНо на праздник всё равно приходи\nповеселиться. Не пропадай!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_A_GODDESS_12",
+   "key": "6e8cc7f3",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, это всё. Ещё увидимся, <_____MYNAME_____>."
+  }
+ ]
+}

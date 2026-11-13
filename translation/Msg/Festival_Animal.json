@@ -2,6 +2,237 @@
  "file": "Festival_Animal",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_OPENING_00",
+   "key": "e3e7fafe",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\n...Начинаем Праздник животных в классе\nНовичок!\n<PAGE>\nПриглашаем участников!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_OPENING_01",
+   "key": "50b4c37b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\n...Начинаем Праздник животных в классе\nЗнаток!\n<PAGE>\nПриглашаем участников!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_OPENING_02",
+   "key": "acdb20f5",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\n...Начинаем Праздник животных в классе\nМастер!\n<PAGE>\nПриглашаем участников!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_OPENING_03",
+   "key": "dc9f2e4f",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\n...Начинаем Праздник животных в классе\nЛегенда!\n<PAGE>\nПриглашаем участников!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_OPENING_INTRODUCTION_00",
+   "key": "4997dff1",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПервый участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_OPENING_INTRODUCTION_01",
+   "key": "bbbd2b18",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПродолжаем: второй участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_OPENING_INTRODUCTION_02",
+   "key": "a13e1794",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nТретий участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_OPENING_INTRODUCTION_03",
+   "key": "16a6ab50",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nИ последний участник ― <MOJI1> ― <MOJI0><MOJI4>!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_INTRO_JUDGE_00",
+   "key": "c02faa66",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nВсе участники в сборе, и я приглашаю судью. В\nэтом году судит не кто иной, как...\n<PAGE>\n<FACE_LAUGH>Дрессировщик Вуфио!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_INTRO_JUDGE_01",
+   "key": "26c84ab8",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nВсем привет! Я Вуфио, и сегодня я ваш судья,\nгав. Рад до самого хвоста, что я здесь."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_INTRO_JUDGE_02",
+   "key": "2fc1bacd",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nИтак, начинаем оценку."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_JUDGE_00",
+   "key": "ead373d5",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nМ-м-м... Так, так. В этом что-то есть, гав."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_JUDGE_01",
+   "key": "1e1c85ca",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nКто тут хорошее животное? Ты!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_JUDGE_02",
+   "key": "2eca223a",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_LAUGH>\r\nО-хо! Это просто лапочка."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_JUDGE_03",
+   "key": "200d5788",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_LAUGH>\r\nГав! Вот этого я не ожидал."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_JUDGE_04",
+   "key": "9650265c",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nХм-м... Ну, не совсем пропащее дело."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_JUDGE_05",
+   "key": "803852df",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_SAD>\r\nХм-м... Выглядит уставшим, как пёс после\nохоты."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_RESULT_JUDGE_00",
+   "key": "00d15fad",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nОценка, похоже, окончена, и настал момент,\nкоторого все ждали! Объявление результатов!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_RESULT_JUDGE_01",
+   "key": "6b4e2210",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nИтак, победитель Праздника животных (<MOJI0>) в\nклассе <MOJI1>..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_RESULT_JUDGE_02",
+   "key": "7f9ae46d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nПоздравляем: <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_RESULT_JUDGE_03",
+   "key": "ebaf220b",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВторое место ― <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_RESULT_JUDGE_04",
+   "key": "f7257043",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nТретье место ― <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_RESULT_JUDGE_05",
+   "key": "43559649",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nИ четвёртое место ― <CHARANAME0> ― <MOJI0><MOJI1>! Вот и все\nрезультаты!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_RESULT_JUDGE_06",
+   "key": "cb983700",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПоздравляю всех, кто сегодня участвовал!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_CEREMONY_ANNOUNCE",
+   "key": "c8b5e018",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nА теперь ― церемония награждения!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_INTRO_WINNER_00",
+   "key": "0a46a499",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nПобедитель, <CHARANAME0>, выйдите, пожалуйста, вперёд!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_CEREMONY_PRESENT",
+   "key": "162ee971",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! На этот раз вы вожак стаи! Вот\nваш приз: <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\nТак держать."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_CEREMONY_PRESENT_AVATAR_SET",
+   "key": "b4b7d419",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! На этот раз вы вожак стаи! Вот\nваш приз: <BLUE>набор “<____ITEMNAME0____>”</BLUE>, гав.\n<PAGE>\nТак держать."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_ITEM_BRAND_UP_00",
+   "key": "e1887386",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nБлагодаря победе бренд “<BLUE><MOJI4></BLUE>” поднялся до уровня\n<RED><MOJI5></RED>."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_ITEM_BRAND_UP_01",
+   "key": "969b99fb",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nТеперь продукция “<BLUE><MOJI4></BLUE>” будет отгружаться чуть\nдороже. Старайтесь и отгружайте побольше."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_ENDING",
+   "key": "c2b49371",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nНа этом <RED>Праздник животных (<MOJI0>)</RED> завершён! До\nновых встреч!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_LITHOGRAPH",
+   "key": "9fd6ffef",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nОй, а это что?! На этот раз у нас особый\nдополнительный приз!\n<PAGE>\n<FACE_LAUGH>Загадочная гравюра! Может, даже редкая!\nПоздравляем!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_ANIMAL_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
+  },
+  {
    "n": 33,
    "f": 2,
    "id": "MES_EV_FES_ANIMAL_GO_HOME_01",

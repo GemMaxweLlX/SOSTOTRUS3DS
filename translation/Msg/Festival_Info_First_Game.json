@@ -1,0 +1,61 @@
+{
+ "file": "Festival_Info_First_Game",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_GAME_00",
+   "key": "b125703a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nДоброе утро, <_____MYNAME_____>. Простите за вторжение."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_GAME_01",
+   "key": "67013a22",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>. Ну и жара с каждым днём, а?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_GAME_02",
+   "key": "2c7c55be",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nМы пришли сегодня рассказать о предстоящей\n<RED>Трилимпиаде</RED>."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_GAME_03",
+   "key": "8522a448",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nТрилимпиада ― это состязание, где участники\nсобираются в команды и соревнуются в разных\nиграх."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_GAME_04",
+   "key": "4a76c3c2",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nИгры зависят от того, какой город устраивает\nпраздник.\n<PAGE>\nВ Уэстауне ищут яйца, в Цуюкусе ― кукол\nдарума, а в Лулукоко проходит рыбалка."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_GAME_05",
+   "key": "3fcc5bd8",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСледующую Трилимпиаду устраивает Лулукоко,\nтак что, надеюсь, удочка у тебя есть.\n<PAGE>\nЕсли нет, обязательно купи накануне.\n<PAGE>\nКоманду-победительницу ждут призы, так что\nвыложись!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_GAME_06",
+   "key": "7e43a441",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЗапись на Трилимпиаду ― <BLUE>с 10:00 до 13:00</BLUE>.\n<PAGE>\nЕсли хочешь участвовать, подойди ко мне на\nперекрёстке."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_GAME_07",
+   "key": "aab9f563",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, это всё. Простите за вторжение.\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>Ещё увидимся, <_____MYNAME_____>."
+  }
+ ]
+}

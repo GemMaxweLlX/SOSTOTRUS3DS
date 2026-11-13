@@ -1,0 +1,68 @@
+{
+ "file": "Festival_Info_First_J_Friendship",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_FRIENDSHIP_00",
+   "key": "f39c5243",
+   "ru": "<FACE_TEAOWNER>\r\n<_____MYNAME_____>, ты дома? Вхожу."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_FRIENDSHIP_01",
+   "key": "eaa61b57",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nУх, ну и жара сегодня, а?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_FRIENDSHIP_02",
+   "key": "bfebbab2",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЗавтра в Цуюкусе будем праздновать <RED>Праздник\nзвёзд</RED>.\n<PAGE>\nМы будем рады видеть тебя, вот я и решил\nзаскочить сказать."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_FRIENDSHIP_03",
+   "key": "cbfab170",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nПраздник звёзд ― старая традиция Цуюкусы.\n<PAGE>\nНа празднике мы пишем желания на тонких\nполосках бумаги, привязываем их к бамбуку и\nсмотрим на Шёлковый путь в небе.\n<PAGE>\nА ещё в этот день, единственный раз в году, на\nнебесах встречаются Ткачиха и Пастух ―\nвлюблённые, превращённые в звёзды.\n<PAGE>\nПовелось проводить праздник с дорогим тебе\nчеловеком противоположного пола."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_FRIENDSHIP_04",
+   "key": "cf40e722",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nЕсли в Цуюкусе есть кто-то, кто тебе\nнравится...\n<PAGE>\nЭто хороший шанс сблизиться, а?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_FRIENDSHIP_05",
+   "key": "7766d8a0",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\n...Может, это твой шанс провести вечер\nнаедине с <CHARANAME0>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_FRIENDSHIP_06",
+   "key": "4b55ca06",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНо у тебя ведь уже есть <CHARANAME0>, так что с кем-то\nдругим вечер проводить, наверное, не\nзахочется, да?\n<PAGE>\nЕсли всё же пойдёшь, можно провести время с\nхорошим другом своего пола."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_FRIENDSHIP_07",
+   "key": "dcb8425c",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nЗапись на Праздник звёзд ― на перекрёстке, <BLUE>с\n20:00 до 23:00</BLUE>.\n<PAGE>\nЗахочешь поучаствовать ― приходи."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_J_FRIENDSHIP_08",
+   "key": "28bc0241",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nВот и всё. До встречи."
+  }
+ ]
+}
