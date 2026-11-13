@@ -1,0 +1,222 @@
+{
+ "file": "Marriage_AddChara",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_00",
+   "key": "b7cd8512",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\r\nДля той, кто якобы смущается при виде\nмилующихся парочек, ты уж очень любишь\nподслушивать.\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_NORMAL>Это другое. В этот раз я из кожи вон лезла, так\nчто заслужила награду, верно?\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>...Скорее уж ты просто искупила проступок\nдругой ведьмы, не так ли?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_01",
+   "key": "2aa9c2fd",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_ANGRY>\r\nА-а-а, ну вас! Вы обе такие вредные!\n<PAGE>\n<FACE_SAD>Но, ну... не поспоришь.\n<PAGE>\n<FACE_GODDES><POS_RIGHT><FACE_NORMAL>Эм..."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_02",
+   "key": "33c2ea21",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЭти двое сказали, что поженятся, но... как же\nони устроят церемонию?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_03",
+   "key": "471c2894",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_SAD>\r\nХм... пожалуй, ты права. Он годами никому не\nпоказывался, так что для него это огромный\nшаг.\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_SAD>Согласна. Раз он не хочет показываться людям,\nвозможно, им лучше обойтись без\nтрадиционной церемонии."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_04",
+   "key": "cb779c39",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\n...Раз так, может, мы сами устроим им\nсвадьбу? Ну, в подарок!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_05",
+   "key": "7820863b",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_LAUGH>\r\nАх, гениальная мысль, Десси! ♪\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_LAUGH>Согласна."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_06",
+   "key": "787a9ff0",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nТогда начнём, пока настроение подходящее. Я\nподготовлю наряды.\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_NORMAL>А я, так... сделаю океан и небо\nсуперромантичными.\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_LAUGH>А я перенесу их над океаном, чтобы никакие\nлюбопытные глаза не увидели.\n<PAGE>\n<FACE_NORMAL>Начинаю! Хя!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_07",
+   "key": "74c8211b",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_08",
+   "key": "d6eaa864",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_WEDDING>\r\nА-ах, <_____MYNAME_____>."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_12",
+   "key": "2e531251",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nХорошие новости. Мы решили с помощью\nмагии устроить вам суперромантичную свадьбу\nмечты!\n<PAGE>\n...Вообще-то у нас всё готово.\n<PAGE>\nПусть он закроет глаза на десять секунд, ладно?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_13",
+   "key": "46885df7",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nЧто это за свет...?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_14",
+   "key": "428b61be",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nА? Хочешь, чтобы я закрыл глаза на десять\nсекунд?\n<PAGE>\n...Что? У нас будет свадьба над океаном?\nПрямо сейчас?\n<PAGE>\nО чём ты вдруг?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_15",
+   "key": "5a5b4a4d",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\n...Ладно. Просто закрыть глаза, да?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_09",
+   "key": "20e3d26f",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_WEDDING>\r\n!!!\n<PAGE>\nЧ-что происходит...?\n<PAGE>\nСегодня же не Ночь морских огней, а океан\nмерцает. И эти наряды...\n<PAGE>\nДа кто ты ТАКАЯ?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_10",
+   "key": "cb3ace33",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_WEDDING>\r\n!!!\n<PAGE>\nЧ-что происходит...?\n<PAGE>\nВ это время года море не должно светиться, а\nокеан мерцает. И эти наряды...\n<PAGE>\nДа кто ты ТАКАЯ?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_WANTATAN_11",
+   "key": "1cce8bde",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_WEDDING>\r\n...Хотя неважно, в конце концов.\n<PAGE>\nТы приняла меня таким, какой я есть. Ты\nлюбишь меня таким, какой я есть.\n<PAGE>\nДля меня нет ничего важнее.\n<PAGE>\n<_____MYNAME_____>, если это наша свадьба...\n<PAGE>\n...то здесь и сейчас я обещаю тебе.\n<PAGE>\nВ болезни и здравии я всегда буду любить и\nпочитать тебя.\n<PAGE>\nНе знаю, достоин ли такой, как я, стоять рядом\nс тобой, но...\n<PAGE>\n...сегодня ты подарила мне совершенно новую\nжизнь.\n<PAGE>\nПочти всю жизнь я прожил вдали от людей, так\nчто порой могу невольно доставлять тебе\nхлопоты...\n<PAGE>\nНо... пока ты со мной, мне кажется, я правда\nсмогу вернуть то, что потерял как человек.\n<PAGE>\nПоэтому прошу... <_____MYNAME_____>, стань моей женой. Давай\nстанем семьёй.\n<PAGE>\nЯ знаю, вместе мы создадим самую счастливую\nсемью на свете.\n<PAGE>\nМожет, я говорю это поздновато, да и выгляжу\nвсё ещё так, но...\n<PAGE>\nТы самая красивая женщина на свете. Я люблю\nтебя."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_00",
+   "key": "a0a3f175",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_SAD>\r\n...Решила заглянуть, раз давно не была, а тут\nтакое зрелище."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_01",
+   "key": "299e66c7",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nОна так счастлива! ♪\n<PAGE>\n<FACE_NORMAL>Я присматриваю за этими двумя с тех пор, как\nувидела, как они милуются.\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_SAD>Но отказываться от настоящей свадьбы как-то\nнеправильно.\n<PAGE>\nПохоже, девушка всегда мечтала о ней. Можно\nли оставить всё как есть?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_02",
+   "key": "f5effb6d",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nДержитесь, у меня ИДЕЯ! Вся их проблема в\nтом, что о церемонии никто не должен узнать,\nтак?\n<PAGE>\n...Если дело только в этом, может, МЫ\nустроим им свадьбу? Ну, в подарок!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_03",
+   "key": "5b333fb0",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_LAUGH>\r\nЭй, а это и правда классная мысль, Десси! ♪\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_LAUGH>Согласна. Превосходное предложение."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_04",
+   "key": "ba33e3ba",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_LAUGH>\r\nНу что, чего ждём? Я подготовлю наряды.\n<PAGE>\n<FACE_GODDES><POS_LEFT><FACE_LAUGH>А я сделаю небо су-у-упер романтичным! ♪\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_LAUGH>А я подниму их в небо, подальше от\nлюбопытных глаз.\n<PAGE>\n<FACE_NORMAL>Начинаю! Хя!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_10",
+   "key": "74c8211b",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_11",
+   "key": "41566cbb",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nХорошие новости. Мы решили с помощью\nмагии устроить вам суперромантичную свадьбу\nмечты!\n<PAGE>\n...Вообще-то у нас всё готово.\n<PAGE>\nПусть она закроет глаза на десять секунд,\nладно?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_12",
+   "key": "528a6a1c",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nЧто это за свет...?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_13",
+   "key": "fb736836",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nА? Хочешь, чтобы я закрыла глаза на десять\nсекунд?\n<PAGE>\n...У нас будет свадьба? Прямо... сейчас?\n<PAGE>\nО чём ты вдруг?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_14",
+   "key": "a6be8a7b",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\n...Ладно. Просто закрыть глаза, да?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_05",
+   "key": "c7e65717",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\n...Что происходит?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_06",
+   "key": "d5bb66c2",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_WEDDING>\r\nЭто же...\n<PAGE>\n...! Что-о-о?! Мы высоко в небе?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_07",
+   "key": "1159acd1",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_WEDDING>\r\n!!!\n<PAGE>\nКогда мы вообще успели сесть на воздушный\nшар? И этот вид...\n<PAGE>\nПрямо как Звёздный бал, о котором я столько\nслышала, но... он же не сегодня?\n<PAGE>\n...И какие чудесные наряды. Я-я что, сплю?\n<PAGE>\nДа кто ты ТАКОЙ?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_08",
+   "key": "304523f6",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_WEDDING>\r\n!!!\n<PAGE>\nКогда мы вообще успели сесть на воздушный\nшар? И этот вид...\n<PAGE>\nОткуда снег? Сейчас ведь совсем не тот сезон...\n<PAGE>\n...И какие чудесные наряды. Я-я что, сплю?\n<PAGE>\nДа кто ты ТАКОЙ?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_MARRIAGE_PRESENTER_09",
+   "key": "015d5538",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_WEDDING>\r\n...\n<PAGE>\nТы и правда загадка, знаешь?\n<PAGE>\nС тех пор как я тебя встретила, со мной\nстолько всего случилось.\n<PAGE>\nВпервые провалилась на работе, а вскоре\nнаставник наконец признал меня настоящим\nпрофи...\n<PAGE>\nА теперь посмотри на меня: я в небе в красивом\nплатье рядом с любовью всей жизни.\n<PAGE>\nБудто все важные события, что я откладывала\nна потом, решили случиться одно за другим.\n<PAGE>\nНо теперь мне кажется, что всё это вело меня\nсюда, к этому мгновению.\n<PAGE>\n<_____MYNAME_____>, здесь нет свидетелей, но я хочу дать тебе\nобещание прямо здесь и сейчас.\n<PAGE>\nОбещаю, что в радости и в горе, в плохие и\nхорошие времена...\n<PAGE>\n...буду уважать тебя, почитать и любить всю\nжизнь.\n<PAGE>\nЯ пока понятия не имею, какая у нас будет\nсемья, но...\n<PAGE>\n...с тобой в мужьях я точно стану отличной\nженой. Я уверена.\n<PAGE>\n...<_____MYNAME_____>. Это... самый счастливый день в моей жизни."
+  }
+ ]
+}

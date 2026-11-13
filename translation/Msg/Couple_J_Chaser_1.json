@@ -1,0 +1,215 @@
+{
+ "file": "Couple_J_Chaser_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_00",
+   "key": "8a4fb132",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nО, <_____MYNAME_____>, ты ещё работаешь в такой поздний час?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_01",
+   "key": "08b63b56",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nМне никак не уснуть, вот я и подумал\nпрогуляться при луне."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_02",
+   "key": "109760f9",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nКонечно. Пойдём вместе, <_____MYNAME_____>.\n<PAGE>\n<FACE_NORMAL>Кстати... Помнишь тот раз?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_03",
+   "key": "85147d22",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nКогда мы только встречались, на этом самом\nместе я упал без сил."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_04",
+   "key": "419b521d",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LOVE>\r\nТак ностальгично. Если подумать, именно в тот\nдень я и начал всерьёз думать о свадьбе."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_05",
+   "key": "e3e7bf6b",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nХа-ха. Может, приятно будет вспомнить всё на\nпрогулке. Пойдём?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_06",
+   "key": "776cfed9",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПохоже, далеко от моего дома уходить не\nнужно, чтобы найти места, полные важных для\nнас воспоминаний..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_07",
+   "key": "37193dfd",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nКогда мы были просто друзьями, мы вместе\nгрелись на солнце на веранде.\n<PAGE>\nТы так устала, что уснула, пока я говорил...\nКажется, это было так давно."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_08",
+   "key": "96126211",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nКонечно, помню. Здесь я подарил тебе духи,\nверно?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_09",
+   "key": "483a1465",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nХината сказал, что я, кажется, к тебе\nнеравнодушен?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_10",
+   "key": "4be764e0",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЯ и не знал, что он так сказал. Хотя на него\nпохоже ― мне не говорить.\n<PAGE>\n<FACE_NORMAL>Мне любопытно. Что ты подумала, когда он\nэто сказал?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_11",
+   "key": "799c6a19",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\n...Вот как. Мне немного неловко это слышать.\n<PAGE>\n<WINDOW_PALPITATION_R>Тогда я ещё о многом не мог как следует тебе\nсказать.\n<PAGE>\nПринести те духи и надеяться, что ты поймёшь\nмои чувства, ― больше я ничего не сумел."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_12",
+   "key": "73091ab9",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nНо теперь я решил, что могу восполнить все\nнесказанные чувства, крепко обнимая тебя."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_13",
+   "key": "405cc5ca",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n...Продолжим прогулку?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_14",
+   "key": "aea80214",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЗдесь гадалка проверяла нашу совместимость и\nпредсказывала будущее."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_15",
+   "key": "57636118",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nХочешь, чтобы она погадала нам сейчас?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_16",
+   "key": "770b310e",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nНичего особенного не хочешь?\n<PAGE>\n<FACE_LAUGH><WINDOW_JOY_R>Похоже, значит, я делаю тебя счастливой. Как\nмуж, большего и не прошу."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_17",
+   "key": "c33733e3",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nДа, верно. Однажды мы помогали в мастерской\nСяраку...\n<PAGE>\n<FACE_LOVE>Ты нарядилась, а я надел шпильку. Ты была\nвеликолепна."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_18",
+   "key": "21f65cb2",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВ следующий раз надо попросить её нарядить\nнас обоих и куда-нибудь сходить.\n<PAGE>\nМожно посмотреть спектакль Хинаты в\nсоседнем городе."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_19",
+   "key": "9a21d96d",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЭто место важно не только для нас обоих, но и\nлично для меня.\n<PAGE>\nКогда я ещё болел и не мог уснуть, тайком\nуходил из дома и приходил сюда."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_20",
+   "key": "8539e52c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nНочью здесь никого нет, и в детстве я думал,\nчто так желания сбываются легче.\n<PAGE>\nЯ всегда желал, чтобы тело окрепло. Чтобы\nпоправиться."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_21",
+   "key": "afd663c8",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЯ и сейчас прихожу сюда, когда не спится.\n<PAGE>\n<FACE_LAUGH>...Может, в гадания я и не верю, но желаний\nзагадал много."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_22",
+   "key": "313bee0e",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЖелаю, чтобы бабушка поправилась. Желаю\nпоскорее стать первоклассным мастером\nукрашений для волос.\n<PAGE>\n<FACE_LAUGH><WINDOW_HEART_R>И... желаю быть рядом с тобой как можно\nдольше.\n<PAGE>\nЖелаю, чтобы ты была здорова. Желаю тебе\nпобед на всех праздниках.\n<PAGE>\n<FACE_LOVE>После встречи с тобой желаний о тебе\nстановится всё больше."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_23",
+   "key": "5e33c5fb",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКонечно, не всё, что я загадывал, сбылось...\n<PAGE>\n<FACE_LAUGH>Но хочется думать, что многое сбылось!\n<PAGE>\nПоэтому я решил прийти и поблагодарить."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_24",
+   "key": "86ead014",
+   "ru": "<FACE_CHASER>\r\nСпасибо, что выслушивали мои просьбы всё это\nвремя.\n<PAGE>\nИ я вечно благодарен, что вы продолжаете\nприсматривать за <_____MYNAME_____> и мной.\n<PAGE>\nБлагодаря вам я соединился с человеком,\nкоторого люблю больше всех на свете. Каждый\nдень ― радость."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_25",
+   "key": "d9ca7919",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nОгромное вам спасибо."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_26",
+   "key": "a16eac12",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_R>...<_____MYNAME_____>?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_27",
+   "key": "8d25b0d8",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_JOY_R>Ты благодаришь вместе со мной. Как я\nсчастлив."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_28",
+   "key": "6d5e7b1c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R><_____MYNAME_____>... Огромное спасибо, что стала моей женой.\n<PAGE>\nЯ люблю тебя сейчас и всегда. Никогда этого\nне забывай."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_COUPLE_J_CHASER_1_29",
+   "key": "5cdf1d20",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nКажется, я наконец устал настолько, чтобы\nуснуть, так что, может, вернёмся домой?\n<PAGE>\nЧувствую, сегодня мне приснится что-то\nхорошее."
+  }
+ ]
+}
