@@ -1,0 +1,110 @@
+{
+ "file": "Resident_Wantatan_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_00",
+   "key": "18ed01fc",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>. Как жизнь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_01",
+   "key": "f57510d1",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nЯ как раз собирался начать тренировку, чтобы\nстать ещё лучшим дрессировщиком.\n<PAGE>\nТолько начал распеваться, чтобы отрабатывать\nкоманды!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_02",
+   "key": "61863e97",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nО, придумал! Тренируйся со мной! Обещаю,\nбудет не слишком гав-ко."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_03",
+   "key": "fe96bc68",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nГав-восхитительно. Вот это я люблю слышать.\n<PAGE>\nНу, без лишнего ав-ва, начнём!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_04",
+   "key": "7dd141d8",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nЧтобы стать мастером-дрессировщиком,\nсперва нужно научиться понимать чувства\nживотных.\n<PAGE>\nЭтот принцип моей философии я называю\n\"Стань единым с животным\".\n<PAGE>\nВ общем, продолжу с того места, где\nостановился. Поехали."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_05",
+   "key": "db07ca36",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nКак я это делаю? Всё лап-сто, правда. Смотри,\nстарый пёс покажет тебе новый трюк!\n<PAGE>\nБудем петь вместе с попугаями. Слейся с\nптицами. Пусть музыка передаст твои чувства."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_14",
+   "key": "8a02f106",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nТак! Теперь ты, гав!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_06",
+   "key": "cf1a1f92",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nХм... К концу внимание рассеялось, но для\nпервого раза совсем неплохо. У тебя есть\nпотенциал.\n<PAGE>\n<FACE_SPECIAL>Может, даже самый большой из всех людей, с\nкем я работал!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_07",
+   "key": "b2067642",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nТак, теперь начнём тренировку для получения\nвременной лицензии дрессировщика."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_08",
+   "key": "defc5d49",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nО, не волнуйся. Это не слишком гав-ко.\n<PAGE>\nДальше мы примем облик моллюска."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_09",
+   "key": "a23b01ac",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nСмотри, как это делается. Встаёшь вот в такую\nпозу...\n<PAGE>\nА потом просто погружаешься на дно океана."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_10",
+   "key": "598cf95e",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nНе освоишь это ― никогда не станешь\nнастоящим дрессировщиком.\n<PAGE>\nНе волнуйся. У тебя всё получится! Ты же\nфермер, с животными опыта полно.\n<PAGE>\n<FACE_SPECIAL>Давай, <_____MYNAME_____>! Раскрой свой потенциал и ныряй в\nокеан!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_11",
+   "key": "5a6bf98b",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>? На тебе лица нет."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_12",
+   "key": "1955aaa4",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LOSS>\r\nАх да... Совсем из головы вылетело.\n<PAGE>\nЕсли могу я, это не значит, что можешь и ты.\n<PAGE>\nОбычный человек не выживет в глубинах\nокеана. Я не хотел требовать от тебя\nневозможного."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_WANTATAN_1_13",
+   "key": "956c0b4c",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LOVE>\r\nПохоже, при всём моём умении с животными\nтренировать мне надо общение с людьми.\n<PAGE>\n<FACE_NORMAL>Прости, что заставил через всё это пройти, <_____MYNAME_____>.\n<PAGE>\nИ всё же сегодня было весело. Надеюсь, скоро\nпотренируемся снова."
+  }
+ ]
+}
