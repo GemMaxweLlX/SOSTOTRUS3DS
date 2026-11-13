@@ -27,7 +27,7 @@
    "f": 2,
    "id": "MES_EV_RESIDENT_TRIP_A_03",
    "key": "4807826d",
-   "ru": "\"☆Волшебное задание☆\n<PAGE>\nСледующим жителям Вестауна: Уэйну, Форду и\nЛизетт.\n<PAGE>\nНемедленно отправляйтесь в Лулукоко и до\nконца дня выполните задания. А не то!\n<PAGE>\n1. Исполните чудесный танец перед руинами! <RED>∀</RED>\n<PAGE>\n2. Отведайте суперсочных фруктов в\n\"Карузелло\"! ☆\n<PAGE>\n3. Порыбачьте на пляже! ♪\n<PAGE>\nВыполните всё это ― и вас ждёт щедрая\nнаграда...\n<PAGE>\nПрисматривать за вами будет <_____MYNAME_____>.\""
+   "ru": "“☆Волшебное задание☆\n<PAGE>\nСледующим жителям Вестауна: Уэйну, Форду и\nЛизетт.\n<PAGE>\nНемедленно отправляйтесь в Лулукоко и до\nконца дня выполните задания. А не то!\n<PAGE>\n1. Исполните чудесный танец перед руинами! <RED>∀</RED>\n<PAGE>\n2. Отведайте суперсочных фруктов в\nКарозелло! ☆\n<PAGE>\n3. Порыбачьте на пляже! ♪\n<PAGE>\nВыполните всё это ― и вас ждёт щедрая\nнаграда...\n<PAGE>\nПрисматривать за вами будет <_____MYNAME_____>.”"
   },
   {
    "n": 4,
@@ -97,14 +97,14 @@
    "f": 2,
    "id": "MES_EV_RESIDENT_TRIP_A_13",
    "key": "3359ccdb",
-   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\n...Это ещё что?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\"Волшебное задание\"?"
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\n...Это ещё что?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>“Волшебное задание”?"
   },
   {
    "n": 14,
    "f": 2,
    "id": "MES_EV_RESIDENT_TRIP_A_14",
    "key": "253b7312",
-   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЭто было в утренней почте.\n<PAGE>\nВнутри письмо, велящее нам всем отправиться в\nЛулукоко.\n<PAGE>\nПонятия не имею, кто это устроил, но мы\nрешили подыграть.\n<PAGE>\nВ общем, помогите нам с первым заданием:\n\"танец перед руинами\"."
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЭто было в утренней почте.\n<PAGE>\nВнутри письмо, велящее нам всем отправиться в\nЛулукоко.\n<PAGE>\nПонятия не имею, кто это устроил, но мы\nрешили подыграть.\n<PAGE>\nВ общем, помогите нам с первым заданием:\n“танец перед руинами”."
   },
   {
    "n": 15,
@@ -153,7 +153,7 @@
    "f": 2,
    "id": "MES_EV_RESIDENT_TRIP_A_21",
    "key": "a0f1ff86",
-   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nВот вы и протанцевали целую песню. Молодцы.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Спасибо за помощь!\n<PAGE>\nЗначит, одно задание выполнено, верно?\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>А какое следующее?\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>Дальше... \"отведать вкусных фруктов в\n\"Карузелло\"\"."
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nВот вы и протанцевали целую песню. Молодцы.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Спасибо за помощь!\n<PAGE>\nЗначит, одно задание выполнено, верно?\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>А какое следующее?\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>Дальше... “отведать вкусных фруктов в\nКарозелло”."
   },
   {
    "n": 22,
@@ -188,7 +188,7 @@
    "f": 2,
    "id": "MES_EV_RESIDENT_TRIP_A_26",
    "key": "6701ebfa",
-   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nРады, что вам понравилась наша деревня...\n<PAGE>\n...Но при чём тут какое-то задание?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LOSS>Раз уж ты сказал, для розыгрыша эти \"задания\"\nоказались очень весёлыми.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LOSS>Да, скорее похоже, будто нас отправили в\nотпуск...\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Розыгрыш или нет, мне было так весело, что\nхочется сказать спасибо тому, кто это затеял."
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nРады, что вам понравилась наша деревня...\n<PAGE>\n...Но при чём тут какое-то задание?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LOSS>Раз уж ты сказал, для розыгрыша эти\n“задания” оказались очень весёлыми.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LOSS>Да, скорее похоже, будто нас отправили в\nотпуск...\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Розыгрыш или нет, мне было так весело, что\nхочется сказать спасибо тому, кто это затеял."
   },
   {
    "n": 27,
@@ -265,7 +265,7 @@
    "f": 2,
    "id": "MES_EV_RESIDENT_TRIP_A_37",
    "key": "43b3fa8f",
-   "ru": "\"Па-па-ба-а-ам! Все задания выполнены!\n<PAGE>\nВ награду можете забрать домой эти подарки.\""
+   "ru": "“Па-па-ба-а-ам! Все задания выполнены!\n<PAGE>\nВ награду можете забрать домой эти подарки.”"
   },
   {
    "n": 38,
@@ -335,7 +335,7 @@
    "f": 2,
    "id": "MES_EV_RESIDENT_TRIP_A_46",
    "key": "0c7bc2f6",
-   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНам было приятно. Рад, что вы\nпрочувствовали, чем хорош Лулукоко.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Может, автор письма с самого начала этого и\nхотел.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\"Вы соседи, так познакомьтесь поближе...\"\nКак-то так."
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНам было приятно. Рад, что вы\nпрочувствовали, чем хорош Лулукоко.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Может, автор письма с самого начала этого и\nхотел.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>“Вы соседи, так познакомьтесь поближе...”\nКак-то так."
   },
   {
    "n": 48,
