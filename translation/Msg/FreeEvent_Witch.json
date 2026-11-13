@@ -2,6 +2,664 @@
  "file": "FreeEvent_Witch",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_WITCH_DANCE_00",
+   "key": "f92cd906",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nУдивлён, как хорошо я танцую? Ну...\n<PAGE>\nС самого детства я смотрел, как бабуля учит\nтанцевать Илуку и Силуку.\n<PAGE>\nВ итоге выучил всю женскую партию. Но и ты\nнеплох. Чувство ритма хорошее, а?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_WITCH_DANCE_01",
+   "key": "d4e1d704",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nУдивлена, как хорошо я танцую?\n<PAGE>\n<FACE_LAUGH>Ха-ха! Ну, махало. Рад, что тебе понравилось."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_WITCH_00",
+   "key": "5613f953",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНу как? Совсем не похоже на праздники других\nгородов, но тоже здорово, правда?\n<PAGE>\nУчаствуй ещё. Тебя встретят с распростёртыми\nобъятиями."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_WITCH_01",
+   "key": "eb6dc189",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКаждый год я помогаю готовить еду, но бабуля\nникогда не учит меня рецептам.\n<PAGE>\nХотя, если бы научила и я стал готовить это\nкаждый день, было бы уже не так особенно."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_WITCH_02",
+   "key": "d1c293d9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПраздничные украшения все делают вместе.\nПо-моему, в этом году все отличные.\n<PAGE>\nДа что там, в своих я уверен. Надо же быть\nуверенным, а?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Craftman_WITCH_DANCE_00",
+   "key": "8fdedad0",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКак я и ожидал, танцевать с любимой ―\nсовсем не то же самое, что с Илукой или\nСилукой...\n<PAGE>\nЧем отличается, спрашиваешь? Правда хочешь,\nчтобы я это сказал? Ну...\n<PAGE>\n<FACE_LAUGH>Весь танец я думал о том, как хочу, чтобы он\nдлился вечно."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Craftman_WITCH_00",
+   "key": "8e0220e7",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, дашь мне руку?\n<PAGE>\n<FACE_LAUGH>М-м. Махало.\n<PAGE>\nКогда видел, как ты танцуешь, так и хотелось\nпротянуть руку и взять твою.\n<PAGE>\nТеперь не хочу отпускать. Можно проводить\nтебя домой вот так?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Craftman_WITCH_01",
+   "key": "8ef1890f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nТы словно сияла красотой, пока танцевала.\n<PAGE>\n<FACE_LOSS>Часть меня хочет, чтобы твоя красота была\nтолько моей, но я знаю, что не могу запретить\nтебе танцевать при других."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Craftman_WITCH_DANCE_00",
+   "key": "e761eb19",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе хочу, чтобы ты танцевала с другими\nмужчинами.\n<PAGE>\n<FACE_LOSS>Но бабуля всегда говорила, что мужчина,\nкоторый командует женщиной, вовсе не\nмужчина, а?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Craftman_WITCH_00",
+   "key": "f207dac4",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЯ участвую в празднике с детства, но веселее\nвсего проводить его с тобой.\n<PAGE>\nСтоит знать, что ты рядом, и всё вокруг будто\nсветится."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Craftman_WITCH_01",
+   "key": "330b9589",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nОбожаю смотреть, как ты с удовольствием\nуплетаешь рядом со мной.\n<PAGE>\nЧто бы ты ни делала, мне, наверное, всё в тебе\nнравится. Я у тебя в руках, а?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_WITCH_DANCE_00",
+   "key": "3ff9651a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНадеюсь, ты понимаешь, какая честь ―\nтанцевать с такой жрицей, как я.\n<PAGE>\nЧто ж, было неплохо. Кхм! Это комплимент!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_WITCH_DANCE_01",
+   "key": "f14a3107",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНадеюсь, ты понимаешь, какая честь ―\nтанцевать с такой жрицей, как я.\n<PAGE>\nЧто ж, танцуешь ты на удивление хорошо.\nКхм! Я говорю, что мне было весело!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_WITCH_00",
+   "key": "566829db",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТы неуклюжий человек, так что, если не\nбудешь осторожно обходить украшения,\nпридётся тебя наказать.\n<PAGE>\n<FACE_ANGRY>Ох, ну и тугодум. Говорю же, осторожнее!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_WITCH_01",
+   "key": "be02a50d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВсе блюда здесь ― старинные рецепты,\nпередающиеся из уст в уста. Мы с бабулей и\nСилукой всё воссоздали.\n<PAGE>\nВон то сделала Силука, так что, конечно,\nвкусно.\n<PAGE>\nЯ? Я отвечала за напитки. Понятное дело!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_WITCH_02",
+   "key": "09532d68",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nИ в этом году прояснилось. Это ведь праздник\nдля духов. Ветер, наверное, был деликатен."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_WITCH_DANCE_00",
+   "key": "56c7b31c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nГордись, что танцевал с такой красавицей, как\nя!\n<PAGE>\n<FACE_LOVE>...М-мы ведь пара. Конечно. Если не\nпригласишь меня в следующем году, никогда не\nпрощу."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_WITCH_00",
+   "key": "ec821c9d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nКак-то раздражает смотреть, как ты\nнабиваешь рот.\n<PAGE>\n<FACE_LOVE>Н-не то чтобы я ревную! И вовсе я не думаю о\nтом, как хочу, чтобы ты ел МОЮ стряпню!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_WITCH_01",
+   "key": "f7988988",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nКак подумаю, что ты танцуешь с кем-то\nдругим, аж закипаю. Ради собственного блага\nдержись подальше от танцев."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_WITCH_DANCE_00",
+   "key": "6cf23c1d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nА ты на удивление хорошо танцуешь. Но от\nмужчины, которого я выбрала в мужья,\nменьшего и не ждала.\n<PAGE>\n<FACE_LOVE>Что? Я тебя хвалю! Просто прими и радуйся."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_WITCH_00",
+   "key": "de266dc0",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТы, похоже, веселился. Хорошо.\n<PAGE>\nУ тебя такое глуповато-счастливое лицо, когда\nешь. Даже стыдно, что я такая вредная."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_WITCH_01",
+   "key": "f5dce49d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nОх, кажется, я переела. Домой добираться\nбудет тяжко!\n<PAGE>\nЭй! Ты и правда тугодум, а?! Я говорю, чтобы\nты отвёл меня домой!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_WITCH_DANCE_00",
+   "key": "7a0580f0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМожет, будет весело потанцевать с тобой\nвместо Илуки, <_____MYNAME_____>."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_WITCH_DANCE_01",
+   "key": "6dd6fd5c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМожет, будет весело потанцевать с тобой\nвместо Илуки, <_____MYNAME_____>.\n<PAGE>\nМеня учила танцевать сама бабуля, так что\nможешь повторять за мной."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_WITCH_00",
+   "key": "fb38ce19",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМы вместе готовили еду для праздника. Тебе\nпонравилось?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_WITCH_01",
+   "key": "14892d3a",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nРецепты для праздника ― секрет, бабуля\nпередаёт их из уст в уста."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_WITCH_02",
+   "key": "e4f2486d",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nИнтересно, любит ли великий дух выпечку...\nНадеюсь, он доволен."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_WITCH_DANCE_00",
+   "key": "5b713ef2",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\nКогда я танцую с тобой, <_____MYNAME_____>, сердце бьётся... так\nбыстро. Лицо горит. Не смотри на меня."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_WITCH_00",
+   "key": "cf16e975",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nИнгредиенты, которые выбрала Каолила, с\nхорошей аурой. Поэтому я так старалась.\n<PAGE>\n<FACE_LOVE>Если тебе понравилось, <_____MYNAME_____>, я буду очень рада."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_WITCH_01",
+   "key": "c604f237",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nКажется, мне нравится смотреть, как ты ешь, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOVE>Кажется, могла бы смотреть так каждый день."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_WITCH_DANCE_00",
+   "key": "8ee45876",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nТанцевать вместе весело. Кажется, будто ты\nсмотришь только на меня, <_____MYNAME_____>.\n<PAGE>\nХи-хи... Мне нравится, что ты весь мой, <_____MYNAME_____>."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_WITCH_00",
+   "key": "f10a113b",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nИногда я смотрю, как танцуют другие.\n<PAGE>\nИ вспоминаю, какой ты некрутой, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOVE>Шучу. Не недооценивай чувство юмора своей\nжены."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_WITCH_01",
+   "key": "83a76f69",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nТы наелся? Наешься досыта ― и завтра\nвыкладывайся по полной.\n<PAGE>\nПраздничная еда даже питательнее обычной."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_WITCH_DANCE_00",
+   "key": "373859b6",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nКак я танцевала? Особенно очаровательно,\nправда? Ха! Можешь влюбиться в меня по уши!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_WITCH_DANCE_01",
+   "key": "32bb9c89",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nВ танцах я в другой лиге! Надеюсь, глядя на\nменя, ты чему-то научился(ась).\n<PAGE>\nХе! Но и ты не так уж плох(а), а?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_WITCH_00",
+   "key": "18d0b2a6",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу, как тебе первый Праздник духа? Надеюсь,\nвеликому духу тоже понравилось.\n<PAGE>\nПусть и в этом году великий дух нас\nблагословит."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_WITCH_01",
+   "key": "6f831a69",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВсе праздничные украшения самодельные, так\nчто в каждом виден характер мастера.\n<PAGE>\nЛудус отлично постарался, а?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_WITCH_02",
+   "key": "3865948f",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nВ этом году мы смогли поднести великому духу\nчудесную еду и танец.\n<PAGE>\nВсё благодаря горам и океану вокруг нас."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_WITCH_DANCE_00",
+   "key": "d41681fe",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Протанцевал без единой ошибки!\n<PAGE>\nДавно я не танцевал женскую партию, так что\nбыло отпадно!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_WITCH_DANCE_01",
+   "key": "cf393e98",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Протанцевала без единой ошибки!\n<PAGE>\nЗдорово танцевать с кем-то таким энергичным!\nИногда потанцевать не с Каолилой не так уж\nплохо!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_WITCH_00",
+   "key": "0d7fd084",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nМахало, что пришёл(шла), <_____MYNAME_____>! Ну как? Было\nвесело, а?\n<PAGE>\nУ нас много такого, чего нет в других городах.\nХочу, чтобы побольше людей приезжали\nпосмотреть!"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_WITCH_01",
+   "key": "d09cf4cf",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nОх, рыба на празднике и правда вкуснее\nобычного!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_WITCH_02",
+   "key": "a4ff3261",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nКонечно, это раз в год, но эти овощи я есть\nсовсем не хочу.\n<PAGE>\nНо это часть праздника, так что жаловаться не\nприходится."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_WITCH_DANCE_00",
+   "key": "f0665ddb",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nБыло весело, <_____MYNAME_____>! Да ты в танце смотрелся почти\nтаким же мужественным, как Захау!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_WITCH_DANCE_01",
+   "key": "28f31540",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nБыло весело, <_____MYNAME_____>! Мужская партия связана с\nбоевыми искусствами, так что неплохая\nзарядка!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_WITCH_00",
+   "key": "a5bb6ef1",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nМы с Захау готовили все ингредиенты для\nсегодняшнего праздника.\n<PAGE>\n<FACE_LAUGH>Выбрали только лучшее! Ну как? Было оно, а?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_WITCH_01",
+   "key": "a6ce793c",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nМожет, дух где-то незримо наблюдает за\nпраздником.\n<PAGE>\nНет-нет. Это просто легенда. Но надо следить,\nчтобы не сделать и не сказать ничего грубого,\nдаже если я так думаю!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_WITCH_02",
+   "key": "9586a80f",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_ANGRY>\r\nХм? Захау всё ещё мнётся?\n<PAGE>\nОх, ведёт себя по-мужски, кроме как в такие\nмоменты! Пойду вправлю ему мозги!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_WITCH_DANCE_00",
+   "key": "61ab8e98",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nКакой ты большой! Не как папа, но шея всё\nравно немного затекла!\n<PAGE>\n<FACE_LAUGH>Шу-у-учу! Мне было ужасно весело! Надеюсь,\nв следующем году снова потанцуешь со мной!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_WITCH_DANCE_01",
+   "key": "47806daa",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nМне было очень весело танцевать с тобой, <_____MYNAME_____>!\n<PAGE>\nТы была суперкрасивая, как старшая сестрёнка!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_WITCH_00",
+   "key": "ee15bd3a",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nЕда была такая оно, а? Рыба на Празднике духа\nлучше всех!\n<PAGE>\nОй! Только не овощи!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_WITCH_01",
+   "key": "fca4d5a5",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nМахало, великий дух! Мой розыгрыш прошёл\nбез сучка без задоринки!\n<PAGE>\nВообще, кажется, розыгрыши у меня\nполучаются даже лучше обычного!"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_WITCH_02",
+   "key": "ff08fcf5",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nКстати, где ты был(а) перед праздником? Во\nвремя подготовки тебя не было видно.\n<PAGE>\nВ следующий раз давай готовиться вместе!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_WITCH_DANCE_00",
+   "key": "f4d8de07",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nХи-хи. ♪ Сегодня я принцесса! А ты, конечно,\nмой принц, <_____MYNAME_____>."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_WITCH_DANCE_01",
+   "key": "a45683a8",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nХи-хи. ♪ Было так весело. ♪\n<PAGE>\nТы хорошо танцуешь, <_____MYNAME_____>! Интересно, если бы у\nменя была старшая сестра, было бы так же?"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_WITCH_00",
+   "key": "ee77964e",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nУра-а-а! ♪ В этом году я с <_____MYNAME_____>. ♪\n<PAGE>\nНу? Ну? Всё су-у-упер яркое и красивое,\nправда? ♪"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_WITCH_01",
+   "key": "edfa4e6a",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nКогда я была совсем маленькая, боялась\nпраздничных украшений.\n<PAGE>\nНо теперь не боюсь. Значит, я уже совсем\nбольшая!"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_WITCH_02",
+   "key": "4c9b5434",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nЯ наелась! ♪ Пойду возьму супер-сла-а-адкий\nфрукт! Эй, пошли со мной, <_____MYNAME_____>. ♪"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_WITCH_DANCE_00",
+   "key": "0deb7a7d",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nБлагодарю, <_____MYNAME_____>. Благодаря тебе я получила\nхороший опыт.\n<PAGE>\nТеперь, думаю, немного осмотрюсь. Если тебе\nтак уж надо, я не против потанцевать с тобой и\nв следующий раз."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_WITCH_DANCE_01",
+   "key": "0deb7a7d",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nБлагодарю, <_____MYNAME_____>. Благодаря тебе я получила\nхороший опыт.\n<PAGE>\nТеперь, думаю, немного осмотрюсь. Если тебе\nтак уж надо, я не против потанцевать с тобой и\nв следующий раз."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_WITCH_00",
+   "key": "40e16646",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nНу как, <_____MYNAME_____>? Эти украшения! Эта еда! Тебе не\nинтересно?"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_WITCH_01",
+   "key": "6614336d",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nВ этом году их много, а?\n<PAGE>\nХм? Тебе что-то нужно? Я изучала разные\nвиды украшений."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_WITCH_02",
+   "key": "ed7e4052",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nТебе не кажется, что многие украшения этого\nгорода какие-то шаткие? Конечно, важно,\nчтобы красиво выглядели, но..."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_WITCH_DANCE_00",
+   "key": "156368e4",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\n*пых* *пых* А, <_____MYNAME_____>.\n<PAGE>\nЯ просто немного запыхался! Спортсмен из меня\nникакой.\n<PAGE>\n<FACE_LAUGH>Н-но танцевать было весело. Спасибо, что\nбыл(а) моим партнёром."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_WITCH_DANCE_01",
+   "key": "89d528d4",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\n*пых* *пых* А, <_____MYNAME_____>. Немного запыхался.\n<PAGE>\n<FACE_LAUGH>Фух, теперь в порядке. Мне было очень весело\nтанцевать с тобой сегодня.\n<PAGE>\nНо надо взять себя в руки... и научиться\nтанцевать как следует."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_WITCH_00",
+   "key": "1806772a",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nЭто ведь твой первый Праздник духа? Шумное\nвремя! Честно говоря, для меня даже слишком\nшумное."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_WITCH_01",
+   "key": "94f12d20",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nБлюдо, которое ты только что ел(а),\nназывается лонтонг. Это прессованный рис,\nзавёрнутый в банановый лист.\n<PAGE>\nВ других краях его почти не встретишь, так что\nэто довольно интересно."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_WITCH_02",
+   "key": "7c85bd8e",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nФух... Профессор любит носиться повсюду, так\nчто поспевать за ней ― то ещё испытание."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_WITCH_DANCE_00",
+   "key": "d67435ec",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХорош ли я в роли партнёра для тренировки?\nХо-хо-хо!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_WITCH_DANCE_01",
+   "key": "6f39a7b8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Давненько я не танцевал с\nженщиной.\n<PAGE>\nБлагодаря тебе я хорошо провёл время.\nМахало."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_WITCH_00",
+   "key": "1b3bdadc",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nГоворят, наших предков спас великий дух.\n<PAGE>\nУ меня на родине тоже есть сказания о духах.\nИнтересно, не родственники ли они?"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_WITCH_01",
+   "key": "ab917128",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nРаз я всё время рыбачу, должен выражать\nблагодарность жизни и природе."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_WITCH_02",
+   "key": "d8241bb1",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСколько бы лет мне ни было, есть вместе со\nвсеми всегда весело.\n<PAGE>\nИ танцевал(а) ты чудесно, <_____MYNAME_____>."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_WITCH_DANCE_00",
+   "key": "83418c25",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nТанец заставляет думать о том, как двигаешься,\nтак что это хорошее упражнение.\n<PAGE>\nМахало. Было очень интересно."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_WITCH_DANCE_01",
+   "key": "189a3999",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nЯ немного нервничаю, танцуя с девушкой. У\nменя получилось?"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_WITCH_00",
+   "key": "6bb16af1",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nИнтересно, какой он, великий дух. Если он\nпомог основателям этого города, значит,\nдобрый, да?\n<PAGE>\nО нём ходит много слухов, так что правду\nузнать трудно."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_WITCH_01",
+   "key": "2406874f",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nГоворят, если порадовать великого духа,\nслучится что-то хорошее. Интересно, доволен\nли он в этом году..."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_WITCH_02",
+   "key": "d8da86cd",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nВсе украшения Праздника духа самодельные.\n<PAGE>\nКогда праздник, семьи собираются вместе и\nделают украшения, чтобы выставить их у дома."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_WITCH_DANCE_00",
+   "key": "21c7b5e2",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЧего тебе? Что-то нужно?"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_WITCH_DANCE_01",
+   "key": "21c7b5e2",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЧего тебе? Что-то нужно?"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_WITCH_00",
+   "key": "b61d1d38",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nДа, кстати. Это ведь твой первый Праздник\nдуха?\n<PAGE>\nЧтоб ты знал(а), великие духи, о которых\nговорят жители, ― мои предки.\n<PAGE>\nИными словами, по сути вы поклоняетесь мне.\n<PAGE>\nОтныне раз в год тебе позволено поклоняться\nмне!\n<PAGE>\n<FACE_LAUGH>Теперь, после праздника, понимаешь, как я\nмогущественна и всесильна? Хи-хи-хи. ♪"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_WITCH_01",
+   "key": "5ead8e77",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nВ этом году отлично убила время. Если в\nследующем году буду свободна, снова\nпоучаствую.\n<PAGE>\n<FACE_ANGRY>Что? Я разве не всегда свободна, говоришь?\n<PAGE>\n<FACE_SAD>Может, тебе так кажется, но я на самом деле\nочень занята!\n<PAGE>\nПрактикую магию! Проваливаюсь! Приходится\nубирать! Играю!\n<PAGE>\n<FACE_NORMAL>Теперь понятно? Быть ведьмой непросто. Так\nчто будь мне куда благодарнее! Эй, что за\nлицо?"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_WITCH_02",
+   "key": "fc29fe0d",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЕсли думаешь, что такого праздника хватит,\nчтобы убедить меня что-то для тебя сделать,\nты сильно ошибаешься!\n<PAGE>\nЯ просто продолжу колдовать, чтобы на город\nне обрушилась беда, как и раньше. Только и\nвсего!\n<PAGE>\nЧто, думаешь, это более чем достаточно? Ну,\nесли бы горожане исчезли, как бы я\nпрактиковала магию?"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Sister_WITCH_DANCE_00",
+   "key": "52e78f58",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nБыло весело!"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Sister_WITCH_DANCE_01",
+   "key": "52e78f58",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nБыло весело!"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Sister_WITCH_00",
+   "key": "52e78f58",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nБыло весело!"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Sister_WITCH_01",
+   "key": "52e78f58",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nБыло весело!"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Sister_WITCH_02",
+   "key": "52e78f58",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nБыло весело!"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Mother_WITCH_DANCE_00",
+   "key": "e1146b98",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nКак же было весело."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Mother_WITCH_DANCE_01",
+   "key": "e1146b98",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nКак же было весело."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Sister_WITCH_00",
+   "key": "e1146b98",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nКак же было весело."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Mother_WITCH_00",
+   "key": "e1146b98",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nКак же было весело."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Mother_WITCH_01",
+   "key": "e1146b98",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nКак же было весело."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Mother_WITCH_02",
+   "key": "e1146b98",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nКак же было весело."
+  },
+  {
    "n": 94,
    "f": 2,
    "id": "MES_FREE_EVENT_Child_Boy_WITCH_DANCE_00",
@@ -9,11 +667,67 @@
    "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал со мной, папа!\n<PAGE>\nНо в следующий раз дай мне танцевать за\nмальчика, ладно?"
   },
   {
+   "n": 95,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_WITCH_DANCE_01",
+   "key": "6f15d31e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, мама!\n<PAGE>\n<FACE_NORMAL>Хм? В следующий раз пригласить девочку,\nкоторая нравится? Ладно! Как найду ―\nприглашу!\n<PAGE>\n<FACE_LAUGH>Хотя не рано ли?\n<PAGE>\nК тому же я люблю тебя, мама! Потанцуй со\nмной ещё, ладно?"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_WITCH_00",
+   "key": "e2c63555",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>! Это был мой первый праздник, и мне было\nужасно весело!\n<PAGE>\nДавай придём и в следующем году!"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_WITCH_01",
+   "key": "01ceaa8c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nВыпечка была весьма вкусной! Надеюсь,\nвеликий дух доволен!\n<PAGE>\nХе-хе-хе, я пытаюсь подражать тому, как\nговорят в этом городе."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_WITCH_02",
+   "key": "14a45edb",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПраздник духа в этом году был весёлым! <PARENT>, мне\nуже говорили, что великий дух ― ребёнок,\nда?\n<PAGE>\nЖаль, что он не может хотя бы в день\nпраздника выйти и поиграть, да!"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_WITCH_DANCE_00",
+   "key": "210f1250",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал со мной, папа!\n<PAGE>\n<FACE_NORMAL>В следующий раз пригласить мальчика,\nкоторый нравится? Если найду ― приглашу!\n<PAGE>\n<FACE_LAUGH>Но сейчас больше всех мне нравится папочка!\n<PAGE>\nМожно? Давай ещё потанцуем! ♪"
+  },
+  {
    "n": 100,
    "f": 2,
    "id": "MES_FREE_EVENT_Child_Girl_WITCH_DANCE_01",
    "key": "b092544f",
    "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, мама!\n<PAGE>\nНо в следующий раз дай мне танцевать за\nдевочку, ладно?"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_WITCH_00",
+   "key": "e2c63555",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>! Это был мой первый праздник, и мне было\nужасно весело!\n<PAGE>\nДавай придём и в следующем году!"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_WITCH_01",
+   "key": "01ceaa8c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nВыпечка была весьма вкусной! Надеюсь,\nвеликий дух доволен!\n<PAGE>\nХе-хе-хе, я пытаюсь подражать тому, как\nговорят в этом городе."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_WITCH_02",
+   "key": "fa7f24fc",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПраздник духа в этом году был весёлым! <PARENT>,\nвеликий дух ведь ребёнок, верно?\n<PAGE>\nЖаль, что он не может хотя бы в день\nпраздника выйти и поиграть."
   }
  ]
 }
