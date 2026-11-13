@@ -1,0 +1,201 @@
+{
+ "file": "Resident_S_Angler",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_00",
+   "key": "e93c5466",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nО, <_____MYNAME_____>. Алоха."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_01",
+   "key": "0e9e9654",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_02",
+   "key": "c13c85dd",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nЯ как раз обучал Тигре владению мечом.\n<PAGE>\nЕсли только рыбачить каждый день, навыки\nвладения мечом начнут ослабевать.\n<PAGE>\nПоэтому время от времени нужно вот так\nупражнять тело.\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>Он так говорит, но дедушка постоянно ныряет в\nокеан за жемчугом. По-моему, он и так в\nотличной форме.\n<PAGE>\n<FACE_ANGLER><POS_LEFT><FACE_NORMAL>Хо-хо-хо... Нельзя успокаиваться, Тигре.\n<PAGE>\nГотовности много не бывает.\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>...Понял, дедушка."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_03",
+   "key": "25caf98c",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nДа, но помимо рыбалки ты постоянно ныряешь\nв океан за жемчугом. По-моему, ты и так в\nотличной форме."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_04",
+   "key": "cadb5e17",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nХо-хо-хо... Какая разница. Нельзя терять\nбдительность, Тигре.\n<PAGE>\nГотовности много не бывает."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_05",
+   "key": "dcaec44b",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nПонял, дедушка."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_06",
+   "key": "3b32ca67",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nСлушай, <_____MYNAME_____>, не хочешь потренироваться с нами?\n<PAGE>\nНет ничего лучше бодрой утренней разминки."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_07",
+   "key": "75989e42",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nХо-хо-хо, хороший ответ!\n<PAGE>\nНачнём с разминочных упражнений. Просто\nповторяй мои движения."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_08",
+   "key": "1e72ca35",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nА-а-ах. Как же приятно подвигаться.\n<PAGE>\nКак держишься, <_____MYNAME_____>? Сил ещё много?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_09",
+   "key": "9b7665a5",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_LAUGH>\r\nЧто ж, хорошо, но не заставляй себя.\n<PAGE>\nА у тебя талант, <_____MYNAME_____>. Учить тебя было весело.\n<PAGE>\nПоследний раз так приятно было учить кого-то\nТигре и Каолилу."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_10",
+   "key": "0ea9ed75",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nОго. В фехтовании дедушка очень строг.\n<PAGE>\nИ он почти никого не хвалит. Видно, видит в\nтебе большой потенциал."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_11",
+   "key": "a6f8cb09",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nХотя работа на ферме ведь требует много\nфизического труда.\n<PAGE>\nДаже мне было видно, что у тебя хорошее\nчувство равновесия."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_12",
+   "key": "6a153937",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nИменно. Тяжёлый труд каждый день, видно,\nдержит тебя в отличной форме.\n<PAGE>\nЗнаешь... из тебя вышел бы толк, если всерьёз\nвзяться за меч.\n<PAGE>\nНе хочешь изучать боевые искусства, <_____MYNAME_____>?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_13",
+   "key": "df9c5d74",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_SAD>\r\nДедушка, это уже немного..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_14",
+   "key": "beba7db0",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nНе волнуйся, научу только основам.\n<PAGE>\nДаже поддамся и буду мягок. Хо-хо.\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>Недавно куча молодых людей из-за границы\nприехала, прослышав о тебе, и ты их в пух и\nпрах разнёс.\n<PAGE>\nТы уже забыл, как за один день распугал целую\nтолпу?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_15",
+   "key": "4a67010f",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nНедавно куча молодых людей из-за границы\nприехала, прослышав о тебе, и ты их в пух и\nпрах разнёс.\n<PAGE>\nТы уже забыл, как за один день распугал целую\nтолпу?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_16",
+   "key": "ad8c133e",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nХо-хо-хо, им просто не хватило того, что\nнужно для успеха.\n<PAGE>\nЧтобы идти путём боевых искусств, нужна\nсильная воля.\n<PAGE>\nРаз их это отпугнуло, они изначально для этого\nне годились.\n<PAGE>\nК тому же у меня нет терпения на тех, кто\nсчитает боевые искусства игрой."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_17",
+   "key": "36b7377d",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nНу, да, но... ты с самого начала собирался их\nпрогнать.\n<PAGE>\nИм ни за что было не одолеть тебя в таком\nпоединке один на один."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_18",
+   "key": "90c090f1",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nО, вот как было?\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>Как ни посмотри, не верится, что ты правда\nсобирался их учить."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_19",
+   "key": "fc5e77c4",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nКак ни посмотри, не верится, что ты правда\nсобирался их учить."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_20",
+   "key": "d567dea4",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nТы ведь не собираешься идти путём воина,\nверно?\n<PAGE>\nЯ говорю лишь о том, чтобы научить тебя\nпостоять за себя. Самооборона ― ценный\nнавык для людей любого занятия."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_21",
+   "key": "baf35473",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, надеюсь, так и есть.\n<PAGE>\n<FACE_ANGLER><POS_LEFT><FACE_NORMAL>Ты слишком волнуешься, Тигре. Я\nкогда-нибудь в таком врал?\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>Нет, но...\n<PAGE>\n<FACE_ANGLER><POS_LEFT><FACE_NORMAL>Вот видишь? Это же я. Всё будет хорошо."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_22",
+   "key": "e90cfce8",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nТы слишком волнуешься, Тигре. Я\nкогда-нибудь в таком врал?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_23",
+   "key": "4a84619f",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nНет, но..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_24",
+   "key": "e7a7c96d",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nВот видишь? Это же я. Всё будет хорошо."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_25",
+   "key": "245a15d5",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nТы ведь не жалуешься на фермерскую жизнь, <_____MYNAME_____>?\n<PAGE>\nРаз этот путь выбран тобой самим и ты к нему\nидёшь, решимость у тебя уже есть.\n<PAGE>\nТак что мне незачем быть с тобой строгим."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_26",
+   "key": "d97ba6ca",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nИ даже если учиться не хочешь, всегда рады\nвидеть тебя на утренней разминке.\n<PAGE>\nНадеюсь, ещё повторим, <_____MYNAME_____>."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_S_Angler_27",
+   "key": "764ed8fc",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nЧто ж, мне пора на рыбалку.\n<PAGE>\nДавай оба сегодня потрудимся, а?"
+  }
+ ]
+}
