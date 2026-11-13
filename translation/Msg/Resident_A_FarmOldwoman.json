@@ -1,0 +1,348 @@
+{
+ "file": "Resident_A_FarmOldwoman",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_00",
+   "key": "fe9cadec",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_01",
+   "key": "43d6efc3",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКакая встреча! Как поживаешь? На сегодня с\nработой покончено?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_02",
+   "key": "dd2f454a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВот как, молодец. Я тоже только что всё\nзакончила.\n<PAGE>\n<FACE_SAD>...Ох, ох. Фермерская работа так и бьёт по\nспине, правда?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_03",
+   "key": "b9da229f",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОх, не хотела тебя тревожить, милок. Но\nспасибо за заботу.\n<PAGE>\nА-ха-ха, похоже, в моём возрасте надо быть\nпоосторожнее.\n<PAGE>\nВ последнее время пробую всякие\nоздоровительные средства, но так и не нашла\nничего, что правда работает."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_04",
+   "key": "7d141d6d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОздоровительные средства? Их довольно легко\nдостать, если знаешь, что ищешь.\n<PAGE>\n<FACE_SAD>Я перепробовала кучу, но, как и сказала...\nбывает, что они совсем не помогают.\n<PAGE>\nКак было бы здорово, если бы существовал\nпростой способ стать здоровее...?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_05",
+   "key": "81778b17",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\n...А? Почему бы не спросить у Форда, как\nсохранить здоровье?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_06",
+   "key": "6dbc06fc",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nИ то верно... Он врач, у него наверняка\nнайдётся хороший совет.\n<PAGE>\nДа это же великолепная мысль!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_07",
+   "key": "004d5697",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, не будем терять времени! Пойду прямо\nв клинику и спрошу."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_08",
+   "key": "be64ee17",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТак, все записанные пациенты разошлись. Пора\nнемного передохнуть..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_09",
+   "key": "ccd7fe69",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...О, Меган. И <_____MYNAME_____> тоже. Что вас обоих сюда\nпривело?\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>Здравствуй, Форд. Прости, что ввалилась вот\nтак, но хотела кое о чём с тобой поговорить.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>И о чём же...?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_10",
+   "key": "a533a705",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуй, Форд. Прости, что ввалилась, но\nхотела сегодня кое о чём с тобой поговорить."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_11",
+   "key": "e9e5b617",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nО чём же...?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_12",
+   "key": "33ef9333",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВот как, новый способ сохранить здоровье, хм?\n<PAGE>\n...Меган, лично я считаю, что вы и так более\nчем здоровы.\n<PAGE>\nУверен, даже <_____MYNAME_____> это видит. Верно, <_____MYNAME_____>?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_13",
+   "key": "1e5371a7",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nХо-хо-хо, умеешь ты польстить старушке.\n<PAGE>\n<FACE_NORMAL>Но я спрашиваю, потому что надеялась на\nпомощь.\n<PAGE>\nНичего особенного не нужно. Если знаешь\nкакой-нибудь хороший способ сохранить\nздоровье, хоть что-то...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Скорее уж мне хочется понять, как вы так\nздоровы в вашем возрасте. Настолько вы в\nформе, но...\n<PAGE>\nЧто ж, посмотрим..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_14",
+   "key": "8ae5aae3",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\n...Скорее уж мне хочется понять, почему вы так\nздоровы в вашем возрасте. Настолько вы в\nформе, но...\n<PAGE>\nПосмотрим..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_15",
+   "key": "bc162382",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\n...Придумал что-нибудь?\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Меган, вы и так ведёте здоровый образ жизни,\nно...\n<PAGE>\nРазве что... вы не думали пересмотреть\nрацион?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_16",
+   "key": "7e67c350",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nМеган, вы и так ведёте здоровую жизнь, но...\n<PAGE>\nРазве что... Что ж, вы не думали пересмотреть\nрацион?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_17",
+   "key": "27b425eb",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nРацион?\n<PAGE>\nНо я всегда слежу за тем, что ем, и\nобязательно ем много овощей.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Есть овощи, безусловно, важно, да...\n<PAGE>\nНо и у рыбы огромная пищевая ценность."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_18",
+   "key": "dc6fd64c",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЕсть овощи, безусловно, важно, но...\n<PAGE>\nИ у рыбы огромная пищевая ценность."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_19",
+   "key": "400d5d2b",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_ANGRY>\r\n...Рыба?!\n<PAGE>\nЯ-я не ем рыбу! Поэтому и восполняю всё\nрецептами на основе овощей...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Да, овощами, безусловно, можно восполнить,\nно рыба позволит достичь ещё лучшего баланса\nпитательных веществ.\n<PAGE>\nВ рыбе много белка и кальция, а также разных\nвитаминов, полезных для регуляции организма.\n<PAGE>\nА ещё она богата таурином, который полезен и\nдля глаз, и для снятия усталости."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_20",
+   "key": "2d8d3eb1",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nДа, можно восполнить овощами, но если есть\nрыбу, удастся достичь ещё лучшего баланса\nпитательных веществ.\n<PAGE>\nВ рыбе много белка и кальция, а также разных\nвитаминов, полезных для регуляции организма.\n<PAGE>\nА ещё в ней есть таурин, полезный и для глаз,\nи для снятия утомления..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_21",
+   "key": "e8ed9772",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_ANGRY>\r\nЯ-я, пожалуй, наслушалась, спасибо!\n<PAGE>\n<FACE_SAD>...<_____MYNAME_____>. А ты что думаешь?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_22",
+   "key": "4021fb8e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_SAD>\r\nИ ты туда же, а? Хм, вот так обижать\nстариков...\n<PAGE>\nЗнаю, что рыба питательная, но я её\nна-а-аправду терпеть не могу..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_23",
+   "key": "ebda6b77",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nЧто? Ты приготовишь мне рыбу, <_____MYNAME_____>?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_24",
+   "key": "d778383b",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПонятно... Если приготовить так, как Меган не\nзнакома, может, она и сможет поесть."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_25",
+   "key": "45abfe10",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_SAD>\r\nОх... Значит, час настал...\n<PAGE>\nЛадно. Я решилась.\n<PAGE>\nЕсли ты правда не против, <_____MYNAME_____>, приготовишь мне\nблюдо из рыбы?\n<PAGE>\n<FACE_NORMAL>Я всегда избегала рыбы, но хочу бросить себе\nвызов. Это ведь ради моего же здоровья."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_26",
+   "key": "bb5b5dbe",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nМне любопытно, чем всё кончится, но клинику\nбез присмотра оставить не могу.\n<PAGE>\nЖду твоего отчёта о результатах, <_____MYNAME_____>."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_27",
+   "key": "5e4bf311",
+   "ru": "(Пойдём к Меган и начнём готовить!)"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_28",
+   "key": "01042031",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nОго, всё выглядит так вкусно! И ни одного из\nэтих блюд я раньше не видел. Ты потрясающе\nготовишь, <_____MYNAME_____>!\n<PAGE>\n<FACE_NORMAL>Ну как, бабушка? Думаешь, сможешь это\nсъесть?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_29",
+   "key": "efaac22a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nПахнет всё очень вкусно... но я ничего такого\nраньше не ела."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_30",
+   "key": "8cdbd061",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nКонечно, попробую! Ты ведь специально для\nменя всё это приготовил(а).\n<PAGE>\nБатюшки. Сколько же лет я не ела рыбы?\n<PAGE>\n<FACE_ANGRY>Если что случится, я за это не в ответе,\nслышите?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_31",
+   "key": "f6f8a543",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n...Ма, не слишком ли ты драматизируешь?\n<PAGE>\nКстати, <_____MYNAME_____>, спасибо, что наготовил(а) и на нас с\nКолином. Давайте есть, пока не остыло.\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>Д-да..."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_32",
+   "key": "9f307818",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nД-да... Давайте есть."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_33",
+   "key": "51c51664",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nОго! Очень вкусно! Ты потрясающе всё умеешь,\n<_____MYNAME_____>! И с фермой, И с готовкой!\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>...Соглашусь с Колином. Такой еды мы раньше\nне видели, но всё отлично."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_34",
+   "key": "da581c49",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>\r\n...Отлично. Такой еды мы раньше не видели, но\nвсё отлично."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_35",
+   "key": "51a51f9b",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nХа-ха-ха-ха-ха-ха! ♪"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_36",
+   "key": "91ffac24",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nХа-ха, ва-а-ау, как же вкусно. ♪ И чего я так\nдолго сторонилась рыбы? ♪\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_ANGRY>М-ма, что с тобой? Ты ведёшь себя как-то...\n<PAGE>\nДа что там странно, у тебя весь характер\nпоменялся!\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>Что такое, Гектор? У тебя такое лицо, будто\nты привидение увидел. ♪"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_37",
+   "key": "fa061a75",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_ANGRY>\r\nМ-мам... Что с тобой? Ты ведёшь себя\nкак-то...\n<PAGE>\nДа что там странно, ты и говоришь\nпо-другому..."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_38",
+   "key": "6f625128",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nОй-ой-ой, что такое, Гектор? У тебя такое\nлицо, будто ты привидение увидел. ♪"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_39",
+   "key": "f288bddc",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_SAD>\r\nБабушка, ты в порядке?!\n<PAGE>\nМожет, ей стало плохо от рыбы...\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>А-а-ах, хочется прогуляться. ♪\n<PAGE>\nПойду подышу свежим воздухом! Пока-пока! ♪"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_40",
+   "key": "d820af3a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nА-а-ах, хочется прогуляться. ♪\n<PAGE>\nПойду подышу свежим воздухом! Пока-пока! ♪"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_41",
+   "key": "95f90947",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nДа что творится...? Никогда не видел, чтобы\nма так себя вела...\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_SAD>Может, поэтому она и перестала есть рыбу?\n<PAGE>\nВ-в общем, надо скорее её найти!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_42",
+   "key": "52c05520",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_SAD>\r\nМ-может... она растерялась, впервые поев\nрыбы...?\n<PAGE>\nАх, надо скорее найти бабушку...!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_43",
+   "key": "13ddb846",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nСлава богу, вернулась.\n<PAGE>\nТы в порядке, ма...?\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_SAD>Кажется... Очнулась почему-то на улице, лёжа\nперед амбаром.\n<PAGE>\nКак только положила рыбу в рот, всё будто в\nтумане..."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_44",
+   "key": "d28dd5ae",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_SAD>\r\nДа... Очнулась почему-то на улице, лёжа перед\nкурятником.\n<PAGE>\nНе помню, что было после еды..."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_45",
+   "key": "125434c2",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\n...О?! А ведь я смогла откусить кусочек!\n<PAGE>\nА значит...\n<PAGE>\nЕсли потихоньку привыкать, может, я всё-таки\nсмогу есть рыбу!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_46",
+   "key": "108004c6",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_SAD>\r\nЯ немного испугался, бабушка так странно себя\nвела, но...\n<PAGE>\nХорошо, что ничего серьёзного. Фух...\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>...Ты прав. Но давай впредь держать её\nподальше от рыбы."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_47",
+   "key": "101c462c",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n...Ты прав. Но давай впредь держать её\nподальше от рыбы.\n<PAGE>\nПонятия не имею, что с ней такой делать, да\nи...\n<PAGE>\nУ меня мурашки бегут, когда мама ведёт себя\nкак девчонка."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_FarmOldwoman_48",
+   "key": "0eec8f69",
+   "ru": "Кажется, вы увидели Меган с новой стороны."
+  }
+ ]
+}
