@@ -2,6 +2,13 @@
  "file": "Talk_S_TwinOlder",
  "entries": [
   {
+   "n": 277,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_01",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
    "n": 384,
    "f": 2,
    "id": "MES_PROPOSAL_SELECT_00",
@@ -14,6 +21,27 @@
    "id": "MES_CONFESSION_SELECT_00",
    "key": "f38e20c8",
    "ru": "Хорошо"
+  },
+  {
+   "n": 393,
+   "f": 2,
+   "id": "MES_LOVE_CANCEL_00",
+   "key": "b4ceb06b",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Илукой... Сказать ей, что нам\nстоит расстаться?)"
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "MES_LOVE_CANCEL_SELECT_00",
+   "key": "b7985e81",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "MES_LOVE_CANCEL_SELECT_01",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
   }
  ]
 }

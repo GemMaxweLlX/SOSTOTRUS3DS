@@ -1,0 +1,495 @@
+{
+ "file": "Love_Cancel",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_CANCEL_COMMENT_000",
+   "key": "5b2b8928",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Уэйном... Сказать ему, что нам\nстоит расстаться?)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_CANCEL_COMMENT_001",
+   "key": "7ab28d23",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_CANCEL_COMMENT_002",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_CANCEL_COMMENT_003",
+   "key": "06e0e8ed",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nДа, пожалуй, стоит. Может, пойдём к тебе?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_CANCEL_COMMENT_004",
+   "key": "79d97d12",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_SAD>\r\nДа, понимаю, о чём ты...\n<PAGE>\nИ, думаю, ты права.\n<PAGE>\nНам надо расстаться.\n<PAGE>\n<ACTION_HEART_BREAK>Если продолжать эти отношения, будет только\nхуже нам обоим."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_CANCEL_COMMENT_005",
+   "key": "d96e9412",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_SAD>\r\nНо одно я очень хочу, чтобы ты поняла.\n<PAGE>\nТы правда была мне дорога. Дороже всего на\nсвете.\n<PAGE>\n<FACE_ANGRY>Злюсь на себя, что не смог дать тебе это\nпонять.\n<PAGE>\n<FACE_SAD>Прости, что не старался сильнее сделать тебя\nсчастливой.\n<PAGE>\n...\n<PAGE>\n<FACE_NORMAL>Наверное, после всего это эгоистично, но у\nменя есть одна просьба.\n<PAGE>\nПусть парой мы быть не смогли, я бы хотел\nостаться друзьями.\n<PAGE>\nМеньше всего хочу, чтобы при встрече было\nнеловко. Что скажешь?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_CANCEL_COMMENT_006",
+   "key": "3b677527",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ рад.\n<PAGE>\nНу, э-э... Тогда я пойду.\n<PAGE>\n<FACE_LAUGH>Было здорово, пока длилось... Спасибо."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_CANCEL_COMMENT_000",
+   "key": "cb9f5695",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Фордом... Сказать ему, что нам\nстоит расстаться?)"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_CANCEL_COMMENT_001",
+   "key": "7ab28d23",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_CANCEL_COMMENT_002",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_CANCEL_COMMENT_003",
+   "key": "e996d176",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nДа, полагаю, нам следует поговорить. Пойдём\nк тебе домой."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_CANCEL_COMMENT_004",
+   "key": "89221940",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\n...\n<PAGE>\n<ACTION_HEART_BREAK>Хм. Да. Полагаю, ты права.\n<PAGE>\nЯ и сам некоторое время об этом размышлял.\n<PAGE>\nЯ чувствовал, что между нами трещина, но не\nмог определить, в чём именно проблема.\n<PAGE>\nИскать её было всё равно что беспорядочно\nметаться в тёмной пустой комнате.\n<PAGE>\nХоть мне досадно и горько, что дошло до\nэтого...\n<PAGE>\n...оглядываясь назад, я понимаю, что\nвероятность провала наших отношений была\nвесьма высока."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_CANCEL_COMMENT_005",
+   "key": "e0c89528",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nКак я отчасти и опасался, мне оказалось не по\nсилам сделать тебя счастливой.\n<PAGE>\n<FACE_SAD>Возможно, для тебя было бы лучше, если бы я\nосвободил тебя от себя раньше.\n<PAGE>\nМне искренне, искренне жаль.\n<PAGE>\n<FACE_NORMAL>...\n<PAGE>\nУ меня есть... просьба, если ты не против.\n<PAGE>\n<FACE_SAD>Хоть наши отношения сегодня заканчиваются,\nможет, мы останемся знакомыми?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_CANCEL_COMMENT_006",
+   "key": "29b6ebc9",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Я рад.\n<PAGE>\nЧто ж, мне пора...\n<PAGE>\nХоть наше время вместе было недолгим, ты\nсделала меня весьма счастливым. За это\nблагодарю.\n<PAGE>\n<FACE_LAUGH>Ах да. Когда найдёшь свою настоящую\nлюбовь...\n<PAGE>\n...надеюсь, это будет человек здоровый,\nактивный и без вредных привычек.\n<PAGE>\n<FACE_SAD>А главное ― добрый, внимательный и\nдостойный твоей преданности.\n<PAGE>\nПрощай."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_CANCEL_COMMENT_000",
+   "key": "4d0f5f41",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Юдзуки... Сказать ему, что нам\nстоит расстаться?)"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_CANCEL_COMMENT_001",
+   "key": "7ab28d23",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_CANCEL_COMMENT_002",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_CANCEL_COMMENT_003",
+   "key": "ba984648",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКонечно. Пойдём к тебе, чтобы поговорить\nнаедине."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_CANCEL_COMMENT_004",
+   "key": "c4c3ac1a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПонятно... Раз ты так чувствуешь, я не могу\nотказать.\n<PAGE>\nНаши отношения начались с такой нежности.\nЖаль, что они подходят к концу, но по пути\nлюбви нельзя идти в одиночку.\n<PAGE>\n<ACTION_HEART_BREAK>Я всё ещё люблю тебя и твою искренность. Но\nесли ты так хочешь, я уважаю твоё решение.\n<PAGE>\nСпасибо, что была со мной честна и\nоткровенна."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_CANCEL_COMMENT_005",
+   "key": "c73d2c07",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nНадеюсь, впредь ты позволишь мне остаться\nтвоим другом и поддерживать тебя, что бы ни\nслучилось."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_CANCEL_COMMENT_006",
+   "key": "ae90c147",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nДни, что мы провели вместе как пара, я\nникогда не забуду. Я был... счастлив.\n<PAGE>\nНадеюсь, однажды и ты оглянешься назад и\nпочувствуешь то же самое.\n<PAGE>\nПрощай."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_CANCEL_COMMENT_000",
+   "key": "134abbcc",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Хинатой... Сказать ему, что нам\nстоит расстаться?)"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_CANCEL_COMMENT_001",
+   "key": "7ab28d23",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_CANCEL_COMMENT_002",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_CANCEL_COMMENT_003",
+   "key": "12974c23",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nДа... Наверное, нужно, а? Пойдём к тебе."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_CANCEL_COMMENT_004",
+   "key": "82ded402",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nТак... ты правда думаешь, что нам надо\nрасстаться? Нет, я понимаю. Ты права.\n<PAGE>\n<FACE_NORMAL>Это из-за меня наши отношения вот так\nразвалились.\n<PAGE>\n<ACTION_HEART_BREAK>Наверное... нам просто не суждено было быть\nвместе.\n<PAGE>\n<FACE_LAUGH>Давай расстанемся по-хорошему, ладно? Если\nэто конец, давай хотя бы разойдёмся с\nулыбкой."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_CANCEL_COMMENT_005",
+   "key": "3fbd14bd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nБыть с тобой было здорово. Ты заставляла\nменя улыбаться, смеяться, и с тобой каждый\nдень был лучше.\n<PAGE>\nМогу честно сказать: я рад, что ты была моей\nпервой любовью.\n<PAGE>\nНо отныне давай просто снова будем друзьями,\nладно?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_CANCEL_COMMENT_006",
+   "key": "1e27fd3b",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nВот и всё, наверное, а? Тогда я... пойду.\nСпасибо за всё.\n<PAGE>\nО! И никаких сомнений и хандры, ладно? Будь\nсчастлива! Пока."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_CANCEL_COMMENT_000",
+   "key": "95cf3502",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Лудусом... Сказать ему, что нам\nстоит расстаться?)"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_CANCEL_COMMENT_001",
+   "key": "7ab28d23",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_CANCEL_COMMENT_002",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_CANCEL_COMMENT_003",
+   "key": "67c6431b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nДа. Да, пожалуй, стоит. Может, пойдём к\nтебе?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_CANCEL_COMMENT_004",
+   "key": "97eeab2b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nДумаю, ты права.\n<PAGE>\nНаверное, лучше нам расстаться.\n<PAGE>\nКажется, я уже давно понял, что мы идём в\nразные стороны, но не хотел этого признавать.\n<PAGE>\nЭто как сцепить две неподходящие шестерёнки.\nРано или поздно что-нибудь сломается, да?\n<PAGE>\n<FACE_LOSS>Лучше разъединить их, пока не случилось\nбеды.\n<PAGE>\n<ACTION_HEART_BREAK>Э кала маи. Жаль, что из-за меня тебе\nпришлось опустить занавес."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_CANCEL_COMMENT_005",
+   "key": "ffd4a1ee",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nМожет, хотя бы останемся друзьями? Как\nраньше? Не думаю, что ты снова станешь мне\nмладшей сестрёнкой, но всё же..."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_CANCEL_COMMENT_006",
+   "key": "c00a4560",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nМахало.\n<PAGE>\n<FACE_LOSS>Да... Я буду рад снова видеть, как ты\nулыбаешься.\n<PAGE>\nПоследние дни у тебя было такое\nстрадальческое лицо, будто ты о чём-то\nтревожилась.\n<PAGE>\nЭто ведь из-за меня, да?\n<PAGE>\nЯ обещал сделать тебя счастливой, но в итоге\nнарушил обещание. Э кала маи.\n<PAGE>\n<FACE_NORMAL>Было здорово, пока длилось... Махало."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_CANCEL_COMMENT_000",
+   "key": "27a28dca",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Лизеттой... Сказать ей, что нам\nстоит расстаться?)"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_CANCEL_COMMENT_001",
+   "key": "b7985e81",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_CANCEL_COMMENT_002",
+   "key": "7e7cdf0c",
+   "ru": "Не стоит"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_CANCEL_COMMENT_003",
+   "key": "c38b37ae",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХ-хорошо.\n<PAGE>\nПойдём к тебе, чтобы как следует об этом\nпоговорить."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_CANCEL_COMMENT_004",
+   "key": "625a8494",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПонимаю, что ты хочешь сказать...\n<PAGE>\nИ... раз уж ты заговорил, во многом мы и\nправда перестали понимать друг друга.\n<PAGE>\n<ACTION_HEART_BREAK>Нам... нам нужно расстаться. Наверное, так\nбудет лучше для нас обоих."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_CANCEL_COMMENT_005",
+   "key": "8b6bcc6b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЯ очень рада, что мы были парой, пусть и\nнедолго.\n<PAGE>\n<FACE_NORMAL>Я не так хотела, чтобы всё закончилось, но это\nне значит, что наше время вместе для меня\nменее важно.\n<PAGE>\nЯ всегда буду вспоминать дни с тобой как\nчудесное время, полное счастья.\n<PAGE>\nОх... Надеюсь, это не прозвучит эгоистично,\nно...\n<PAGE>\nМожем ли мы всё равно болтать и проводить\nвремя вместе как друзья?\n<PAGE>\nМне бы не хотелось, чтобы между нами\nнавсегда осталась неловкость. Ты не против?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_CANCEL_COMMENT_006",
+   "key": "78687559",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОх, какое облегчение.\n<PAGE>\nА теперь, с твоего позволения, мне правда\nпора.\n<PAGE>\nСпасибо за всё, <_____MYNAME_____>. Я рада, что мы можем\nостаться друзьями."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_CANCEL_COMMENT_000",
+   "key": "02933c4a",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Комари... Сказать ей, что нам\nстоит расстаться?)"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_CANCEL_COMMENT_001",
+   "key": "b7985e81",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_CANCEL_COMMENT_002",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_CANCEL_COMMENT_003",
+   "key": "21817b42",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nДа... наверное, надо. Можно пока пойти к\nтебе?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_CANCEL_COMMENT_004",
+   "key": "4d59ee95",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nТак... думаю, нам надо расстаться.\n<PAGE>\nНе то чтобы я хотела, но...\n<PAGE>\n<FACE_NORMAL>Это... Так, наверное, будет лучше. У меня\nдавно было чувство, что между нами что-то не\nтак.\n<PAGE>\nНаверное, я, ну, расслабилась или что-то\nтакое. Может, если бы я больше старалась\nсделать тебя счастливым, всё вышло бы иначе.\n<PAGE>\nОх. Если начну думать обо всех этих “а если\nбы”, никогда не остановлюсь.\n<PAGE>\nВ общем, уверена, ты тоже это понял. Я\nрешила, что лучше сказать первой, пока тебе не\nпришлось, понимаешь?\n<PAGE>\n<ACTION_HEART_BREAK>Прости, <_____MYNAME_____>."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_CANCEL_COMMENT_005",
+   "key": "5fcd5e92",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОх, до этого я понятия не имела, как вообще\nустроены отношения. Так что, можно сказать,\nмногому научилась!\n<PAGE>\nСпасибо и за все хорошие моменты.\n<PAGE>\n<FACE_NORMAL>Мы ведь можем остаться друзьями?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_CANCEL_COMMENT_006",
+   "key": "d8bc1e56",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nКласс. Ох, если бы ты сказал “нет”, я бы\nужасно расстроилась.\n<PAGE>\n<FACE_NORMAL>В общем, э-э... мне, наверное, пора обратно.\n<PAGE>\nДаже если мы не пара, заходи поболтать\nпо-дружески когда угодно."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_CANCEL_COMMENT_000",
+   "key": "a3e830c3",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Касуми... Сказать ей, что нам стоит\nрасстаться?)"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_CANCEL_COMMENT_001",
+   "key": "b7985e81",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_CANCEL_COMMENT_002",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_CANCEL_COMMENT_003",
+   "key": "5623a827",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПонимаю. Пойдём к тебе домой."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_CANCEL_COMMENT_004",
+   "key": "75169f65",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЗначит... ты хочешь прекратить наши\nотношения?\n<PAGE>\n<ACTION_HEART_BREAK>Понятно. Тогда покончим с этим.\n<PAGE>\nХм? Ну, конечно, мне грустно.\n<PAGE>\n...\n<PAGE>\n<FACE_LAUGH>Давным-давно я решила, что при любых\nобстоятельствах буду сохранять достоинство и\nсамообладание. Хныкать и ныть я не стану.\n<PAGE>\nХотя если бы я думала, что слёзы и мольбы\nубедят тебя остаться, я бы тут же так и\nсделала.\n<PAGE>\nОднако подозреваю, что этого не хватит,\nчтобы залечить раны наших сердец.\n<PAGE>\n<ACTION_HEART_BREAK>В конечном счёте нам остаётся только\nрасстаться."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_CANCEL_COMMENT_005",
+   "key": "301d0bea",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЕсли бы я боялась боли отказа, я бы вообще не\nпризналась тебе в чувствах.\n<PAGE>\nДля меня будет честью, если впредь мы снова\nстанем просто хорошими соседями."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_CANCEL_COMMENT_006",
+   "key": "34273d54",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПрощай, <_____MYNAME_____>. Ты позволил мне испытать чувство,\nкоторого я никогда прежде не знала.\n<PAGE>\nТы научил меня, что, возможно, не всех мужчин\nстоит ненавидеть и что я ещё могу найти\nутешение в чьих-то объятиях.\n<PAGE>\nНе могу сказать, какой путь ты выберешь\nдальше...\n<PAGE>\n...но я тихонько помолюсь, чтобы он был\nполон радости и благополучия."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_CANCEL_COMMENT_000",
+   "key": "b4ceb06b",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Илукой... Сказать ей, что нам\nстоит расстаться?)"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_CANCEL_COMMENT_001",
+   "key": "b7985e81",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_CANCEL_COMMENT_002",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_CANCEL_COMMENT_003",
+   "key": "10db7f14",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНадо поговорить, да?\n<PAGE>\nЛадно. Я... догадываюсь, о чём."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_CANCEL_COMMENT_004",
+   "key": "63736dbc",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nТак вот оно что? Хочешь со мной расстаться...?\n<PAGE>\n...\n<PAGE>\n<ACTION_HEART_BREAK><FACE_SAD>Я знала, что ты скажешь что-то такое.\n<PAGE>\nПоняла по глазам, как только ты ко мне\nподошёл."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_CANCEL_COMMENT_005",
+   "key": "489807f5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\n...\n<PAGE>\nЯ-я не буду плакать.\n<PAGE>\nТ-ты не стоишь моих слёз. И вообще, не ты\nменя бросаешь, ясно?\n<PAGE>\n<FACE_ANGRY>В-вот именно. Это Я тебя бросаю... потому что\nты недостаточно хорош для МЕНЯ!\n<PAGE>\nЯ ведь потрясающая, знаешь ли!\n<PAGE>\nУмею предсказывать погоду. Я приветливая. Я\nкрасивая. Я вижу ауры. И чай завариваю лучше\nвсех!\n<PAGE>\n<FACE_SAD>В-вот так!\n<PAGE>\nЯ-я могу выбрать любого парня, какого\nзахочу.\n<PAGE>\nИ я не такая слабая, чтобы из-за этого впасть в\nжуткую тоску! Н-наоборот, я буду счастливее,\nчем когда-либо!\n<PAGE>\nОтныне ты для меня просто ещё одно лицо в\nтолпе. Понял?"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_CANCEL_COMMENT_006",
+   "key": "4f02216e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nТ-так что... прощай!\n<PAGE>\n<FACE_SAD>Да... мне... мне уже лучше..."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_CANCEL_COMMENT_000",
+   "key": "dd9a0ceb",
+   "ru": "(Пожалуй, пора подумать о том, чтобы\nрасстаться с Силукой... Сказать ей, что нам\nстоит расстаться?)"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_CANCEL_COMMENT_001",
+   "key": "b7985e81",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_CANCEL_COMMENT_002",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_CANCEL_COMMENT_003",
+   "key": "5817c9eb",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nХорошо... Пойдём к тебе."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_CANCEL_COMMENT_004",
+   "key": "b2eb1eb2",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nТы... думаешь, нам надо расстаться?\n<PAGE>\n<ACTION_HEART_BREAK>Ох. Хорошо.\n<PAGE>\n...\n<PAGE>\n<FACE_NORMAL>Хм? Да, я в порядке.\n<PAGE>\nТы хотел закончить наши отношения. Теперь\nони закончены.\n<PAGE>\nНаш разговор окончен. И наши отношения\nтоже.\n<PAGE>\nТо, что было важнее всего для меня...\n<PAGE>\n...не было важно для тебя. Мне от этого\nгрустно.\n<PAGE>\n<ACTION_HEART_BREAK>Но этого уже не исправить."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_CANCEL_COMMENT_005",
+   "key": "e93b57d1",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПрощай, <_____MYNAME_____>.\n<PAGE>\nОтныне я буду относиться к тебе как к любому\nдругому другу.\n<PAGE>\n<FACE_LAUGH>Не волнуйся. Я не заплачу.\n<PAGE>\nЭто конец для нас, но концу не нужны слёзы.\nДавай попрощаемся с улыбкой..."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_CANCEL_COMMENT_006",
+   "key": "40deca2b",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПрощай."
+  }
+ ]
+}
