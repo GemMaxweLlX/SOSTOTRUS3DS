@@ -2,6 +2,20 @@
  "file": "Festival_J_Friendship",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_00",
+   "key": "ad0e3a6e",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nТа-а-ак! Все в сборе!\n<PAGE>\nТогда начинаем Праздник звёзд!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_01",
+   "key": "77b0303c",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПолоски бумаги готовы, так что, как напишете\nжелание, привязывайте его к бамбуку.\n<PAGE>\n<FACE_LAUGH>А потом делайте что хотите. Любуйтесь\nШёлковым путём и болтайте с друзьями.\n<PAGE>\nНу, я говорю “с друзьями”, но сегодня ведь\nПраздник звёзд, так что...\n<PAGE>\nМожет, последуете примеру Ткачихи и Пастуха,\nзвёзд, которым суждено встречаться на небесах\nлишь раз в году...\n<PAGE>\n...И проведёте время с кем-то\nпротивоположного пола. Веселитесь, народ!"
+  },
+  {
    "n": 2,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_02",
@@ -37,6 +51,41 @@
    "ru": "Касуми"
   },
   {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_07",
+   "key": "de649996",
+   "ru": "(Не хочу огорчать <CHARANAME0>, так что приглашу кого-то\nсвоего пола. С кем бы пойти?)"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_08",
+   "key": "118e7da9",
+   "ru": "(Желание, значит... Что бы загадать?)"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_09",
+   "key": "b3a11c03",
+   "ru": "Хочу больше зарабатывать"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_10",
+   "key": "ec85b0c8",
+   "ru": "Хочу понравиться особенному человеку"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_11",
+   "key": "6074e504",
+   "ru": "Хочу со всеми ладить"
+  },
+  {
    "n": 12,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_12",
@@ -44,11 +93,144 @@
    "ru": "..."
   },
   {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_13",
+   "key": "6ce7efb2",
+   "ru": "(Раз уж я здесь, может, пригласить Хинату.)"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_14",
+   "key": "9dd1465c",
+   "ru": "(Не хочу огорчать <CHARANAME0>, так что приглашу Хинату.)"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_00",
+   "key": "16abb437",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_01",
+   "key": "7ef9fae5",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что пригласила. С радостью составлю\nтебе компанию.\n<PAGE>\nСначала давай привяжем полоски бумаги к\nбамбуку."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_00",
+   "key": "7ec2c87b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\n<_____MYNAME_____>.\n<PAGE>\nВесь вчерашний день я ходил из угла в угол,\nдумая, как это сказать.\n<PAGE>\nНо скажу прямо. Проведёшь со мной Праздник\nзвёзд?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_MARRIAGE_00",
+   "key": "28bfbbd9",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, <_____MYNAME_____>. Проведём вечер вместе.\n<PAGE>\nДавай скорее напишем желания, моя прекрасная\nТкачиха."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_00",
+   "key": "16abb437",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_01",
+   "key": "6d50acca",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nСо мной? Конечно, я не против.\n<PAGE>\n<FACE_LAUGH>Сначала давай привяжем полоски бумаги."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_STAR_00",
+   "key": "02d612a0",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗдесь хорошо. Народу немного. Привяжем\nжелания здесь.\n<PAGE>\nЗнаешь, как это делается? Напиши желание на\nбумаге. Ха-ха, не торопись."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_STAR_01",
+   "key": "77c04108",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, ты написала. Я тоже закончил, так что\nдавай привяжем их к бамбуку.\n<PAGE>\nСхожу одолжу лестницу у Гиндзиро."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_STAR_02",
+   "key": "5fa32eae",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВот и всё... Надеюсь, у всех исполнятся\nжелания.\n<PAGE>\nМожет, найдём местечко, чтобы полюбоваться\nШёлковым путём?\n<PAGE>\nВ этом году ясно, наверняка будет видно много\nзвёзд. Давай не спеша насладимся вечером."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_STAR_03",
+   "key": "501ccbfc",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nШелест бамбука... Звёздное небо... Как всё\nкрасиво. У меня нет слов."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_STAR_04",
+   "key": "2cb92a0a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТам, где я живу, мало огней, так что звёзды на\nнебе видно.\n<PAGE>\nНо их можно было видеть каждый день, и\nчего-то не хватало. Я забыл, как прекрасны\nсами звёзды.\n<PAGE>\n<FACE_LAUGH>Но звёзды, что я вижу здесь сегодня, прекрасны\nдо невозможности.\n<PAGE>\n<FACE_LOVE>Ха-ха. Почему-то мне радостно слышать, что\nты чувствуешь то же самое.\n<PAGE>\nЯ уверен: меня окутывает твоё присутствие, <_____MYNAME_____>."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_STAR_09",
+   "key": "99fe9471",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТам становится шумно. Пора закругляться.\n<PAGE>\nХотелось бы остаться и ещё посмотреть, но...\nчто поделать."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_STAR_10",
+   "key": "f866ce4e",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nМне сегодня было очень весело. Буду рад, если\nи тебе тоже.\n<PAGE>\nЕсли ты не против, я бы с удовольствием снова\nпосмотрел с тобой на звёзды."
+  },
+  {
    "n": 28,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_MONOLOGUE",
    "key": "c7713da3",
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_00",
+   "key": "615a2f6c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗдесь хорошо. Народу немного. Привяжем\nжелания здесь.\n<PAGE>\nСначала напиши желание на бумаге, вот здесь...\n<PAGE>\nШучу. Знаю, тебе помощь не нужна. Просто\nзахотелось немного о тебе позаботиться."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_01",
+   "key": "77c04108",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, ты написала. Я тоже закончил, так что\nдавай привяжем их к бамбуку.\n<PAGE>\nСхожу одолжу лестницу у Гиндзиро."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_02",
+   "key": "5fa32eae",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВот и всё... Надеюсь, у всех исполнятся\nжелания.\n<PAGE>\nМожет, найдём местечко, чтобы полюбоваться\nШёлковым путём?\n<PAGE>\nВ этом году ясно, наверняка будет видно много\nзвёзд. Давай не спеша насладимся вечером."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_03",
+   "key": "501ccbfc",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nШелест бамбука... Звёздное небо... Как всё\nкрасиво. У меня нет слов."
   },
   {
    "n": 33,
@@ -65,6 +247,272 @@
    "ru": "Нежно взять его за руку"
   },
   {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_06",
+   "key": "54262551",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nАх, не смотри на меня, когда я так глупо\nулыбаюсь. Ты прекрасна в свете звёзд, <_____MYNAME_____>.\n<PAGE>\n<FACE_LAUGH>Полюбив тебя, я стал замечать красоту в новых\nместах.\n<PAGE>\nЗвёзды в небе, крошечные цветы в поле, тихое\nстрекотание насекомых ночью...\n<PAGE>\nТолько потому, что ты рядом, я стал замечать\nвсе эти маленькие чудеса.\n<PAGE>\n<FACE_LOVE>Спасибо, <_____MYNAME_____>. Встреча с тобой изменила весь мой\nмир."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_07",
+   "key": "cf63f15b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\n...Какая маленькая у тебя рука. Сожму покрепче\n― и, кажется, сломается.\n<PAGE>\nПодумать только, такая маленькая рука\nпринесла столько радости в мою жизнь. Держу\nеё и понимаю, как мне повезло.\n<PAGE>\n<FACE_LAUGH>Больше, чем смотреть на звёзды, меня радует,\nчто я могу разделить твоё тепло.\n<PAGE>\n...Ха-ха, знаю. Я обязательно посмотрю на\nзвёзды.\n<PAGE>\n<FACE_LOVE>Но совсем недолго, пожалуйста, позволь мне\nсмотреть на тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_08",
+   "key": "de4a3ef3",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\n<_____MYNAME_____>, любовь моя. Никогда не покидай меня."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_09",
+   "key": "3ffde7d0",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nПохоже, там становится шумно... Пора\nрасходиться.\n<PAGE>\nПо правде, не хочу тебя отпускать... Но, видно,\nвыбора нет. Пойдём обратно."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_10",
+   "key": "be2a8c83",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nМне сегодня было очень весело, и всё\nблагодаря тебе, <_____MYNAME_____>. Спасибо.\n<PAGE>\n<FACE_LOVE>В следующем году давай придём сюда снова\nвместе... По-другому я и представить не могу."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_MONOLOGUE",
+   "key": "9e5aa325",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_MARRIAGE_STAR_00",
+   "key": "615a2f6c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗдесь хорошо. Народу немного. Привяжем\nжелания здесь.\n<PAGE>\nСначала напиши желание на бумаге, вот здесь...\n<PAGE>\nШучу. Знаю, тебе помощь не нужна. Просто\nзахотелось немного о тебе позаботиться."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_MARRIAGE_STAR_01",
+   "key": "77c04108",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, ты написала. Я тоже закончил, так что\nдавай привяжем их к бамбуку.\n<PAGE>\nСхожу одолжу лестницу у Гиндзиро."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_MARRIAGE_STAR_02",
+   "key": "5fa32eae",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВот и всё... Надеюсь, у всех исполнятся\nжелания.\n<PAGE>\nМожет, найдём местечко, чтобы полюбоваться\nШёлковым путём?\n<PAGE>\nВ этом году ясно, наверняка будет видно много\nзвёзд. Давай не спеша насладимся вечером."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_MARRIAGE_STAR_03",
+   "key": "501ccbfc",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nШелест бамбука... Звёздное небо... Как всё\nкрасиво. У меня нет слов."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_MARRIAGE_STAR_04",
+   "key": "8caffd89",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nХа-ха, от такой красоты и тебе есть\nзахотелось? ...Вообще-то я взял с собой\nугощение.\n<PAGE>\n<FACE_LAUGH>Вот, кастелла. Она одна, так что разделим\nпополам... Держи.\n<PAGE>\n*вздох* Под звёздным небом угощение ещё\nвкуснее... О? Не шевелись.\n<PAGE>\nВот, так лучше. У тебя были крошки у рта. Ты\nвсё такая же неуклюжая.\n<PAGE>\n...Ой, теперь вокруг рта всё липкое. Как бы это\nисправить...\n<PAGE>\nЧто? Я делаю это нарочно? Ха-ха. О чём это\nты?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_MARRIAGE_STAR_08",
+   "key": "34b1d8e7",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nМоя любимая <_____MYNAME_____>. Хотя бы сейчас позволь\nпожелать, чтобы этот миг длился вечно..."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_MARRIAGE_STAR_09",
+   "key": "d12c46f3",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nТам становится шумно... Видно, пора\nрасходиться.\n<PAGE>\nНо, по правде, не хочу тебя отпускать...\nВпрочем, выбора нет. Пойдём обратно."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_MARRIAGE_STAR_10",
+   "key": "508a5f4c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nСегодня было очень весело, и всё благодаря\nтебе, <_____MYNAME_____>. Спасибо.\n<PAGE>\n<FACE_LOVE>Давай придём сюда вместе и в следующем\nгоду... По-другому я и представить не могу."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_MARRIAGE_MONOLOGUE",
+   "key": "9e5aa325",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_B_STAR_00",
+   "key": "46b7bb0f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗдесь хорошо. Народу немного. Привяжем\nжелания здесь.\n<PAGE>\n<FACE_LAUGH>Так, <CHILD_NAME>, пиши желание вместе со мной.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_B_STAR_01",
+   "key": "3e5810bf",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗакончила, <_____MYNAME_____>? Мы тоже, так что давай привяжем\nих к бамбуку.\n<PAGE>\nСхожу одолжу лестницу у Гиндзиро."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_B_STAR_02",
+   "key": "199baf74",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВот и всё... Надеюсь, у всех исполнятся\nжелания.\n<PAGE>\nМожет, найдём местечко, чтобы полюбоваться\nШёлковым путём?\n<PAGE>\nВ этом году ясно, наверняка будет видно много\nкрасивых звёзд. Насладимся ими всей семьёй."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_B_STAR_03",
+   "key": "501ccbfc",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nШелест бамбука... Звёздное небо... Как всё\nкрасиво. У меня нет слов."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_B_STAR_04",
+   "key": "95dd8ba0",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПапа, мама, вы сегодня не будете нежничать?\nВы всегда держитесь за руки, а сегодня нет?\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>А ты, <CHILD_NAME>, не против, если папа с мамой ненадолго\nуйдут вдвоём?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>Э-э, ни за что! Я хочу с вами обоими!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Ха-ха... Шучу. Иди сюда. Придвигайся,\nобнимемся все вместе.\n<PAGE>\nНе бойся испачкаться о землю, одежду потом\nпостираем. Ну же, сидеть так приятно!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ура! Ух ты! Как красиво. ♪\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Ещё бы... Если я усну, обязательно разбуди\nменя, ладно, <_____MYNAME_____>?"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_B_STAR_09",
+   "key": "420c1faa",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\n...<_____MYNAME_____>?\n<PAGE>\nОх. И правда уснул. Спасибо, что дала\nподремать.\n<PAGE>\n<FACE_NORMAL>Похоже, там становится шумно. Значит, пора\nобратно?"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_B_STAR_10",
+   "key": "3eae5530",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nМне было весело с вами сегодня. Давайте\nпридём сюда снова, втроём."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_B_MONOLOGUE",
+   "key": "a987f8b6",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_G_STAR_00",
+   "key": "46b7bb0f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗдесь хорошо. Народу немного. Привяжем\nжелания здесь.\n<PAGE>\n<FACE_LAUGH>Так, <CHILD_NAME>, пиши желание вместе со мной.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага!"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_G_STAR_01",
+   "key": "3e5810bf",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗакончила, <_____MYNAME_____>? Мы тоже, так что давай привяжем\nих к бамбуку.\n<PAGE>\nСхожу одолжу лестницу у Гиндзиро."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_G_STAR_02",
+   "key": "199baf74",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВот и всё... Надеюсь, у всех исполнятся\nжелания.\n<PAGE>\nМожет, найдём местечко, чтобы полюбоваться\nШёлковым путём?\n<PAGE>\nВ этом году ясно, наверняка будет видно много\nкрасивых звёзд. Насладимся ими всей семьёй."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_G_STAR_03",
+   "key": "501ccbfc",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nШелест бамбука... Звёздное небо... Как всё\nкрасиво. У меня нет слов."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_G_STAR_04",
+   "key": "95dd8ba0",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПапа, мама, вы сегодня не будете нежничать?\nВы всегда держитесь за руки, а сегодня нет?\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>А ты, <CHILD_NAME>, не против, если папа с мамой ненадолго\nуйдут вдвоём?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>Э-э, ни за что! Я хочу с вами обоими!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Ха-ха... Шучу. Иди сюда. Придвигайся,\nобнимемся все вместе.\n<PAGE>\nНе бойся испачкаться о землю, одежду потом\nпостираем. Ну же, сидеть так приятно!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ура! Ух ты! Как красиво. ♪\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Ещё бы... Если я усну, обязательно разбуди\nменя, ладно, <_____MYNAME_____>?"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_G_STAR_09",
+   "key": "420c1faa",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\n...<_____MYNAME_____>?\n<PAGE>\nОх. И правда уснул. Спасибо, что дала\nподремать.\n<PAGE>\n<FACE_NORMAL>Похоже, там становится шумно. Значит, пора\nобратно?"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_G_STAR_10",
+   "key": "3eae5530",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nМне было весело с вами сегодня. Давайте\nпридём сюда снова, втроём."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_CHILD_G_MONOLOGUE",
+   "key": "a987f8b6",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_STAR_00",
+   "key": "acd5bf60",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗдесь хорошо. Народу немного. Привяжем\nжелания здесь.\n<PAGE>\nЗнаешь, как это делается? Напиши желание на\nбумаге. Ха-ха, спешить некуда."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_STAR_01",
+   "key": "3e5810bf",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗакончил, <_____MYNAME_____>? Я тоже, так что давай привяжем их\nк бамбуку.\n<PAGE>\nСхожу одолжу лестницу у Гиндзиро."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_STAR_02",
+   "key": "d5faf2d2",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВот и всё... Надеюсь, у всех исполнятся\nжелания.\n<PAGE>\nМожет, найдём местечко, чтобы полюбоваться\nШёлковым путём?\n<PAGE>\nВ этом году ясно, наверняка будет видно много\nкрасивых звёзд. Давай не спеша насладимся\nвечером."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_STAR_03",
+   "key": "501ccbfc",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nШелест бамбука... Звёздное небо... Как всё\nкрасиво. У меня нет слов."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_STAR_04",
+   "key": "64de5c54",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТам, где я живу, мало огней, так что звёзды на\nнебе видно.\n<PAGE>\nНо их можно было видеть каждый день, и\nчего-то не хватало. Я забыл, как прекрасны\nсами звёзды.\n<PAGE>\n<FACE_LAUGH>Но звёзды, что я вижу здесь сегодня, прекрасны\nдо невозможности.\n<PAGE>\nХа-ха. Почему-то мне радостно слышать, что\nты чувствуешь то же самое.\n<PAGE>\nЯ уверен: меня окутывает твоё присутствие, <_____MYNAME_____>."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_STAR_09",
+   "key": "99fe9471",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТам становится шумно. Пора закругляться.\n<PAGE>\nХотелось бы остаться и ещё посмотреть, но...\nчто поделать."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_STAR_10",
+   "key": "f866ce4e",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nМне сегодня было очень весело. Буду рад, если\nи тебе тоже.\n<PAGE>\nЕсли ты не против, я бы с удовольствием снова\nпосмотрел с тобой на звёзды."
+  },
+  {
    "n": 73,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_MONOLOGUE",
@@ -72,11 +520,130 @@
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_00",
+   "key": "2d61e381",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_01",
+   "key": "c34aa4e8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nО! Давай! Вместе будет здорово.\n<PAGE>\nНу, тогда начнём с того, что напишем желания."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_00",
+   "key": "bc4fb446",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>. Проведём вечер вместе.\n<PAGE>\nПошли. Сегодня ты вся моя, да?"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_MARRIAGE_00",
+   "key": "da60486a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>. Проведём вечер вместе.\n<PAGE>\nСейчас тут все, но потом мы останемся совсем\nодни. Надеюсь, ты готова!"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_00",
+   "key": "2d61e381",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_01",
+   "key": "09754e8e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nО! Давай. Посидим чисто мужской компанией.\n<PAGE>\nНу, тогда начнём писать желания."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_STAR_00",
+   "key": "d402157e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗдесь, пожалуй, хорошо. Знаешь, как это\nделается? Пишешь желание на полоске бумаги.\n<PAGE>\nЯ тоже напишу своё, так что скажи, когда\nзакончишь, <_____MYNAME_____>."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_STAR_01",
+   "key": "841c78b6",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак! Я закончил. Схожу за лестницей, подожди\nздесь.\n<PAGE>\n<FACE_ANGRY>Эй, ты сейчас подумала, какой я низкий, да?! Я\nвсё равно выше тебя!\n<PAGE>\n<FACE_LOSS>Ох, просто подожди тут спокойно. Поняла?"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_STAR_02",
+   "key": "63228699",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nГотово. Закончили раньше, чем я думал.\n<PAGE>\nКласс! Можно не спеша смотреть на звёзды и\nШёлковый путь.\n<PAGE>\nЧестно говоря, этого я ждал больше всего.\nДавай!"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_STAR_03",
+   "key": "05b70ffd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЗвёздное небо и правда красивое. Ах! Только\nчто упала звезда!"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_STAR_04",
+   "key": "dc9d4fef",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТы видела, <_____MYNAME_____>?! Длинная такая.\n<PAGE>\n<FACE_SAD>...Понятно, пропустила, да? Тогда подождём\nследующую. А пока расскажу тебе одну\nздешнюю примету на удачу.\n<PAGE>\n<FACE_NORMAL>Когда видишь падающую звезду, надо трижды\nповторить желание... Можно и про себя.\n<PAGE>\nЕсли успеешь, желание сбудется... Ах!\nПадающая звезда!\n<PAGE>\n...Так. Еле успел. А ты? Успела повторить\nжелание?\n<PAGE>\n<FACE_LAUGH>Что? Не вышло? ...Тогда попробуем ещё раз! У\nтебя получится!"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_STAR_09",
+   "key": "de0ee4bb",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nХм? Похоже, пора закругляться. Жаль, но надо\nвозвращаться."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_STAR_10",
+   "key": "2d3c077d",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nБлагодаря тебе мне сегодня было отлично.\nСпасибо, <_____MYNAME_____>.\n<PAGE>\nБыло бы здорово снова так посидеть... Если\nзахочешь, приходи и в следующем году."
+  },
+  {
    "n": 87,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_MONOLOGUE",
    "key": "e3b0f57d",
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_00",
+   "key": "d402157e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗдесь, пожалуй, хорошо. Знаешь, как это\nделается? Пишешь желание на полоске бумаги.\n<PAGE>\nЯ тоже напишу своё, так что скажи, когда\nзакончишь, <_____MYNAME_____>."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_01",
+   "key": "841c78b6",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак! Я закончил. Схожу за лестницей, подожди\nздесь.\n<PAGE>\n<FACE_ANGRY>Эй, ты сейчас подумала, какой я низкий, да?! Я\nвсё равно выше тебя!\n<PAGE>\n<FACE_LOSS>Ох, просто подожди тут спокойно. Поняла?"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_02",
+   "key": "63228699",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nГотово. Закончили раньше, чем я думал.\n<PAGE>\nКласс! Можно не спеша смотреть на звёзды и\nШёлковый путь.\n<PAGE>\nЧестно говоря, этого я ждал больше всего.\nДавай!"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_03",
+   "key": "05b70ffd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЗвёздное небо и правда красивое. Ах! Только\nчто упала звезда!"
   },
   {
    "n": 92,
@@ -93,11 +660,102 @@
    "ru": "Нежно взять его за руку"
   },
   {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_06",
+   "key": "6d8ed0d0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nВидела сейчас, <_____MYNAME_____>?! Длинная была звезда.\n<PAGE>\n...Что такое? Так засмотрелась на мою красоту,\nчто глаз не отвести?\n<PAGE>\nХа-ха, шучу! На самом деле всё наоборот...\n<PAGE>\n<FACE_NORMAL>Я делал вид, что смотрю на Шёлковый путь, а\nсам всё время смотрел на тебя. Ты ведь не\nзаметила?\n<PAGE>\n<FACE_LOVE>...Когда ты так говоришь, даже немного\nобидно... Я хочу, чтобы и ты смотрела только\nна меня."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_07",
+   "key": "21fa4707",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЧто такое? Хочешь почувствовать моё тепло?\nБез проблем. Буду держать тебя за руку\nсколько захочешь.\n<PAGE>\nУ меня много братьев и сестёр, и младшие\nвсегда такое обожали.\n<PAGE>\n<FACE_NORMAL>А? Думаю ли я о тебе как о младшей сестре?\n...Не глупи. Как я вообще мог бы?\n<PAGE>\nКогда держу их за руки, ничего не чувствую, а\nс тобой сердце так и колотится.\n<PAGE>\n<FACE_LOVE>...Я люблю тебя, <_____MYNAME_____>. Я смотрю только на тебя и\nхочу, чтобы ты смотрела только на меня."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_08",
+   "key": "a2717d68",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nТы моя, и я никому тебя не отдам."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_09",
+   "key": "51d356c8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nПохоже, все собираются вместе. Жаль, но,\nвидно, это конец.\n<PAGE>\n<FACE_NORMAL>Пойдём обратно, <_____MYNAME_____>."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_10",
+   "key": "bb1c6f27",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЯ так рад, что мы провели этот день вместе.\nСпасибо, что пришла.\n<PAGE>\nВ следующем году тоже придёшь, да? Я буду\nждать."
+  },
+  {
    "n": 99,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_MONOLOGUE",
    "key": "e3b0f57d",
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_MARRIAGE_STAR_00",
+   "key": "f2a50c51",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗдесь, пожалуй, хорошо. Давай скорее\nнапишем желания и привяжем.\n<PAGE>\nЯ напишу своё, так что скажи, когда закончишь,\n<_____MYNAME_____>."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_MARRIAGE_STAR_01",
+   "key": "a624f1ef",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак! Я закончил. Схожу за лестницей, подожди\nздесь.\n<PAGE>\n<FACE_NORMAL>Только не вздумай привязывать желание без\nменя, ладно? Знаю я, какая ты бываешь\nнетерпеливая."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_MARRIAGE_STAR_02",
+   "key": "63228699",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nГотово. Закончили раньше, чем я думал.\n<PAGE>\nКласс! Можно не спеша смотреть на звёзды и\nШёлковый путь.\n<PAGE>\nЧестно говоря, этого я ждал больше всего.\nДавай!"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_MARRIAGE_STAR_03",
+   "key": "05b70ffd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЗвёздное небо и правда красивое. Ах! Только\nчто упала звезда!"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_MARRIAGE_STAR_04",
+   "key": "73954da8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nУспела загадать желание, <_____MYNAME_____>? ...Так я и знал, не\nуспела.\n<PAGE>\nЕсли подумать, ты до сих пор ни разу не успела\nзагадать желание на звезду. Такая\nнетерпеливая, а всё никак.\n<PAGE>\n<FACE_LAUGH>Именно в такие моменты ты витаешь в\nоблаках. Мы уже женаты, а я всё никак не\nпойму эту твою черту.\n<PAGE>\nБудто с тебя и правда глаз нельзя спускать...\n<PAGE>\n<FACE_LOVE>Не то чтобы ты мне надоела. Просто думаю,\nчто должен присматривать за тобой всегда."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_MARRIAGE_STAR_08",
+   "key": "827d7db4",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nЯ люблю тебя, <_____MYNAME_____>. Всем сердцем. Никогда не\nуходи от меня."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_MARRIAGE_STAR_09",
+   "key": "51d356c8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nПохоже, все собираются вместе. Жаль, но,\nвидно, это конец.\n<PAGE>\n<FACE_NORMAL>Пойдём обратно, <_____MYNAME_____>."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_MARRIAGE_STAR_10",
+   "key": "2c5e4798",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЯ так рад, что мы провели этот день вместе.\nСпасибо, что пришла.\n<PAGE>\nМне нравится, что мы можем вот так быть\nвместе, как муж и жена. Буду очень рад, если\nты придёшь и в следующем году."
   },
   {
    "n": 108,
@@ -107,11 +765,109 @@
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_B_STAR_00",
+   "key": "f31194bc",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗдесь, пожалуй, хорошо. Давай скорее\nнапишем желания и привяжем.\n<PAGE>\nМы напишем свои, так что скажи, когда\nзакончишь, <_____MYNAME_____>."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_B_STAR_01",
+   "key": "0f9f5a83",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак! Мы вдвоём закончили. Схожу за\nлестницей, подожди здесь.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Я тоже хочу помочь с лестницей!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Спасибо, <CHILD_NAME>. Тогда пойдём вместе! Осторожно, не\nушибись, ладно?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хоро-о-ошо!"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_B_STAR_02",
+   "key": "63228699",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nГотово. Закончили раньше, чем я думал.\n<PAGE>\nКласс! Можно не спеша смотреть на звёзды и\nШёлковый путь.\n<PAGE>\nЧестно говоря, этого я ждал больше всего.\nДавай!"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_B_STAR_03",
+   "key": "05b70ffd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЗвёздное небо и правда красивое. Ах! Только\nчто упала звезда!"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_B_STAR_04",
+   "key": "2a2277e3",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nЛя-ля-ля-ля-ля, ля-ля-ля! ♪\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>О? Что такое, <CHILD_NAME>? У тебя сегодня хорошее\nнастроение!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага! Ой, папа, иди сюда!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Хм? Что такое? ...Хм... Хо-хо... Отлично!\n<PAGE>\nЭй, <_____MYNAME_____>... Приготовься. Раз-два! Попалась!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Попалась!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Ха-ха-ха! Удивилась? Ты одна смотрела на\nзвёзды, и нам с <CHILD_NAME> стало одиноко.\n<PAGE>\nНу же, <_____MYNAME_____>. Присоединяйся! Ха-ха... Я самый\nсчастливый парень на свете."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_B_STAR_09",
+   "key": "82812d1a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nХа-ха-ха-ха... Похоже, все собираются\nвместе. Жаль, но пора закругляться.\n<PAGE>\nВам двоим было весело? ...Отлично, пошли\nдомой!"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_B_STAR_10",
+   "key": "256fa79a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nСегодня было весело! Давайте снова придём,\nвтроём."
+  },
+  {
    "n": 116,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_B_MONOLOGUE",
    "key": "e3b0f57d",
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_G_STAR_00",
+   "key": "f31194bc",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗдесь, пожалуй, хорошо. Давай скорее\nнапишем желания и привяжем.\n<PAGE>\nМы напишем свои, так что скажи, когда\nзакончишь, <_____MYNAME_____>."
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_G_STAR_01",
+   "key": "0f9f5a83",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак! Мы вдвоём закончили. Схожу за\nлестницей, подожди здесь.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Я тоже хочу помочь с лестницей!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Спасибо, <CHILD_NAME>. Тогда пойдём вместе! Осторожно, не\nушибись, ладно?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хоро-о-ошо!"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_G_STAR_02",
+   "key": "63228699",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nГотово. Закончили раньше, чем я думал.\n<PAGE>\nКласс! Можно не спеша смотреть на звёзды и\nШёлковый путь.\n<PAGE>\nЧестно говоря, этого я ждал больше всего.\nДавай!"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_G_STAR_03",
+   "key": "05b70ffd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЗвёздное небо и правда красивое. Ах! Только\nчто упала звезда!"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_G_STAR_04",
+   "key": "2a2277e3",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nЛя-ля-ля-ля-ля, ля-ля-ля! ♪\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>О? Что такое, <CHILD_NAME>? У тебя сегодня хорошее\nнастроение!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага! Ой, папа, иди сюда!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Хм? Что такое? ...Хм... Хо-хо... Отлично!\n<PAGE>\nЭй, <_____MYNAME_____>... Приготовься. Раз-два! Попалась!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Попалась!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Ха-ха-ха! Удивилась? Ты одна смотрела на\nзвёзды, и нам с <CHILD_NAME> стало одиноко.\n<PAGE>\nНу же, <_____MYNAME_____>. Присоединяйся! Ха-ха... Я самый\nсчастливый парень на свете."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_G_STAR_09",
+   "key": "82812d1a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nХа-ха-ха-ха... Похоже, все собираются\nвместе. Жаль, но пора закругляться.\n<PAGE>\nВам двоим было весело? ...Отлично, пошли\nдомой!"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_G_STAR_10",
+   "key": "256fa79a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nСегодня было весело! Давайте снова придём,\nвтроём."
   },
   {
    "n": 124,
@@ -121,6 +877,55 @@
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
+   "n": 125,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_STAR_00",
+   "key": "d402157e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗдесь, пожалуй, хорошо. Знаешь, как это\nделается? Пишешь желание на полоске бумаги.\n<PAGE>\nЯ тоже напишу своё, так что скажи, когда\nзакончишь, <_____MYNAME_____>."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_STAR_01",
+   "key": "7b153396",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак! Я закончил. Схожу за лестницей, подожди\nздесь.\n<PAGE>\n<FACE_ANGRY>Эй, ты сейчас подумал, какой я мелкий, да?! Я\nвсё равно выше тебя!\n<PAGE>\n<FACE_LOSS>Ох, просто подожди тут спокойно. Понял?"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_STAR_02",
+   "key": "63228699",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nГотово. Закончили раньше, чем я думал.\n<PAGE>\nКласс! Можно не спеша смотреть на звёзды и\nШёлковый путь.\n<PAGE>\nЧестно говоря, этого я ждал больше всего.\nДавай!"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_STAR_03",
+   "key": "05b70ffd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЗвёздное небо и правда красивое. Ах! Только\nчто упала звезда!"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_STAR_04",
+   "key": "7accb902",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nТы видел, <_____MYNAME_____>?! Длинная такая.\n<PAGE>\n<FACE_SAD>...Понятно, пропустил, да? Тогда подождём\nследующую. А пока расскажу тебе одну\nздешнюю примету на удачу.\n<PAGE>\n<FACE_NORMAL>Когда видишь падающую звезду, надо трижды\nповторить желание... Можно и про себя.\n<PAGE>\nЕсли успеешь, желание сбудется... Ах!\nПадающая звезда!\n<PAGE>\n...Так. Еле успел. А ты? Успел повторить\nжелание?\n<PAGE>\n<FACE_LAUGH>Что? Не вышло? ...Тогда попробуем ещё раз! У\nтебя получится!"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_STAR_09",
+   "key": "de0ee4bb",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nХм? Похоже, пора закругляться. Жаль, но надо\nвозвращаться."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_STAR_10",
+   "key": "41c139c3",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nБлагодаря тебе мне сегодня было отлично.\nСпасибо, <_____MYNAME_____>.\n<PAGE>\nЗдорово вот так провести вечер с другом."
+  },
+  {
    "n": 132,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_MONOLOGUE",
@@ -128,11 +933,130 @@
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_00",
+   "key": "6df0d7b4",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНу надо же, <_____MYNAME_____>. Чего тебе?"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_01",
+   "key": "4506dc7d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nА? Со мной? Конечно, я не против, но... ты\nточно хочешь со мной?\n<PAGE>\n<FACE_LAUGH>Понятно. Ладно, спасибо. Пошли привязывать\nжелания."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_00",
+   "key": "01f94d5f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\n<_____MYNAME_____>... Проведёшь этот день со мной...?\n<PAGE>\nМы ведь пара, как-никак. Ну как?"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_MARRIAGE_00",
+   "key": "b636b94a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Нам никто не помешает, так что давай вместе\nсмотреть на звёзды!\n<PAGE>\n<FACE_LOVE>Хи-хи... Здорово ведь, да? Вот такое. Ну,\nзаймёмся желаниями."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_00",
+   "key": "6df0d7b4",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНу надо же, <_____MYNAME_____>. Чего тебе?"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_01",
+   "key": "d2118caa",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОтличная мысль! Болтать с тобой весь вечер\nбудет весело.\n<PAGE>\n<FACE_LAUGH>Тогда сначала займёмся желаниями."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_STAR_00",
+   "key": "e492d148",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОтлично, тут никого, самое место, чтобы\nнаписать и повесить желания.\n<PAGE>\nАх да, пиши желание вот здесь. Как закончишь,\nскажи."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_STAR_01",
+   "key": "ebbc6002",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТоже закончил? Пусть духи хорошо разберут\nтвоё желание.\n<PAGE>\n<FACE_LOSS>Моё? Э-это секрет! Если кому-то скажешь, не\nсбудется!\n<PAGE>\n<FACE_LOVE>И потом, женщина с секретами\nпривлекательнее, правда?\n<PAGE>\n<FACE_LAUGH>Шучу! Привязывай к бамбуку. Смотри руку не\nпорежь."
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_STAR_02",
+   "key": "bfec906e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак! Желания висят. Духи, теперь всё в ваших\nруках.\n<PAGE>\nА теперь, может, посмотрим на Шёлковый\nпуть? В такую погоду его должно быть отлично\nвидно!"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_STAR_03",
+   "key": "fbad691f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Какие красивые звёзды! Это вон там\nТкачиха и Пастух?"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_STAR_04",
+   "key": "4b48d773",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЭй, погоди! Ты вообще на звёзды смотришь?\nМногое упускаешь!\n<PAGE>\n<FACE_LOSS>...! ...\n<PAGE>\n<FACE_LOVE>...Я немного удивилась. Будто твоё лицо сияло.\nЭто всё Шёлковый путь, точно.\n<PAGE>\n<FACE_LAUGH>Красивые звёзды над головой и прохладный\nветерок. А рядом ещё и милая девушка. Тебе\nздорово повезло, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOVE>Ну же... Если ты ничего не скажешь, мне станет\nнеловко..."
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_STAR_09",
+   "key": "04b3808d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nС-смотри! Все начинают собираться!\n<PAGE>\n<FACE_NORMAL>Пора закругляться. Надо вернуться к\nостальным."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_STAR_10",
+   "key": "7655f4f0",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nСегодня правда было здорово. Спасибо, что\nпригласил.\n<PAGE>\n...Было бы здорово повторить... вместе.\nШ-шучу! Осторожнее по дороге домой!"
+  },
+  {
    "n": 146,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_MONOLOGUE",
    "key": "e3b0f57d",
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_00",
+   "key": "e492d148",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОтлично, тут никого, самое место, чтобы\nнаписать и повесить желания.\n<PAGE>\nАх да, пиши желание вот здесь. Как закончишь,\nскажи."
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_01",
+   "key": "71fac7f6",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТоже закончил? Пусть духи хорошо разберут\nтвоё желание.\n<PAGE>\nХочу привязать своё, но не дотягиваюсь...\nСделаешь за меня, <_____MYNAME_____>?"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_02",
+   "key": "70782b9b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nСпасибо. Духи, теперь всё в ваших руках.\n<PAGE>\nА теперь, может, посмотрим на Шёлковый\nпуть? В такую погоду его должно быть отлично\nвидно!"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_03",
+   "key": "fbad691f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Какие красивые звёзды! Это вон там\nТкачиха и Пастух?"
   },
   {
    "n": 151,
@@ -149,11 +1073,214 @@
    "ru": "Нежно взять её за руку"
   },
   {
+   "n": 153,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_06",
+   "key": "68b8b8cc",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЭй, погоди! Ты вообще на звёзды смотришь?\nМногое упускаешь!\n<PAGE>\n<FACE_NORMAL>Что такое? Только на меня и смотришь.\n<PAGE>\nЗалюбовался моей красотой? ...Ну вот, ты\nскучный. Мог бы хоть сказать, что я как ангел,\nспустившийся на землю.\n<PAGE>\n<FACE_LOVE>...Т-ты правда это сказал... Дурак...\n<PAGE>\n...Это я дура... Не смотри на меня. У меня\nсейчас точно глупое лицо."
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_07",
+   "key": "4885e162",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nОй-ой?! Ну, не пугай меня так. Ох...\n<PAGE>\n<FACE_LAUGH>...Твоя рука напоминает папину. Большая и\nтёплая...\n<PAGE>\nНемного шершавая, как руки работяги. Но\nчто-то в ней другое.\n<PAGE>\n<FACE_LOVE>Когда ты меня касаешься, сердце так и\nколотится в груди.\n<PAGE>\nХочешь узнать, как быстро? ...Дурак."
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_08",
+   "key": "50809425",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nНу что с тобой поделаешь? Неужели правда не\nскажешь, чего хочешь...?"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_09",
+   "key": "8d068f33",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nТам становится шумно. Видно, пора\nзакругляться...\n<PAGE>\nХочу побыть тут ещё немного, но пора домой."
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_10",
+   "key": "5df70efa",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nСпасибо за сегодня. Мне было здорово, и всё\nблагодаря тебе!\n<PAGE>\nГрустно уходить от тебя, но в следующем году\nты ведь снова пойдёшь со мной, да?"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_MONOLOGUE",
+   "key": "287b231a",
+   "ru": "(Чудесный был праздник. Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_MARRIAGE_STAR_00",
+   "key": "3b648a86",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОтлично, тут никого, самое место, чтобы\nнаписать и повесить желания.\n<PAGE>\n<FACE_NORMAL>А? Забыл ручку? Безнадёжный ты. Держи! Как\nзакончишь, скажи."
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_MARRIAGE_STAR_01",
+   "key": "5e1a9485",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТоже закончил? Пусть духи как следует\nуслышат твоё желание.\n<PAGE>\nХочу привязать, но не дотягиваюсь... Сделаешь\nза меня, <_____MYNAME_____>?"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_MARRIAGE_STAR_02",
+   "key": "af91928c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nАга, спасибо. Духи, теперь всё в ваших руках.\n<PAGE>\nА теперь, может, посмотрим на Шёлковый\nпуть? В такую погоду его должно быть отлично\nвидно!"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_MARRIAGE_STAR_03",
+   "key": "fbad691f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Какие красивые звёзды! Это вон там\nТкачиха и Пастух?"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_MARRIAGE_STAR_04",
+   "key": "dd942896",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nА? Не знаешь, где они? Ох, ну ты и\nбезнадёжный.\n<PAGE>\nТак, встань вот здесь. А теперь смотри прямо\nвверх! ...Ну? Видишь?\n<PAGE>\n<FACE_LAUGH>Точно! По-моему, это Ткачиха и Пастух. Они\nвидятся только раз в году.\n<PAGE>\n<FACE_SAD>...Разве не одиноко видеть любимого только\nраз в году...? ...Наверняка!\n<PAGE>\nНе знаю почему, но иногда я очень тревожусь.\n<PAGE>\nЗнаю, ты бы так никогда не сделал, <_____MYNAME_____>, но мне\nстрашно, что однажды ты просто уйдёшь..."
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_MARRIAGE_STAR_08",
+   "key": "cd4e17b6",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nПотом я обещаю взять себя в руки, так что...\nтолько сейчас... можешь крепко меня обнять...?"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_MARRIAGE_STAR_09",
+   "key": "485fef30",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nТам становится шумно... Видно, пора\nзакругляться...\n<PAGE>\nХочу побыть тут ещё немного, но пора домой."
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_MARRIAGE_STAR_10",
+   "key": "c8b10069",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nПрости за сегодня... Я показала тебе свою\nстранную сторону...\n<PAGE>\n<FACE_LAUGH>Но мне было ужасно весело! К тому же вдвоём\nмы можем приходить сюда когда захотим.\nДавай повторим в следующем году."
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_MARRIAGE_MONOLOGUE",
+   "key": "287b231a",
+   "ru": "(Чудесный был праздник. Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_B_STAR_00",
+   "key": "30c00815",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОтлично. Тут никого, самое место, чтобы\nнаписать и повесить желания.\n<PAGE>\n<FACE_NORMAL>А? Забыл ручку? Безнадёжный ты. Держи! <CHILD_NAME>,\nиди пиши желание с мамой!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага!"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_B_STAR_01",
+   "key": "ee3ccdee",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nЯ всё, мама! Папа тоже!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Хочу привязать, но не дотягиваюсь... Сделаешь\nза меня, <_____MYNAME_____>?"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_B_STAR_02",
+   "key": "f1309596",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nСпасибо. Духи, теперь всё в ваших руках.\n<PAGE>\nА теперь, может, посмотрим на Шёлковый\nпуть? В такую погоду его должно быть отлично\nвидно!"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_B_STAR_03",
+   "key": "089be798",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Какие красивые звёзды! Это вон там\nТкачиха и Пастух?"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_B_STAR_04",
+   "key": "0c630aca",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_SAD>\r\nА?! Где, где?! Мама, где Ткачиха и Пастух?\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Не торопись. Никуда они не денутся! Они прямо\nнад нами. Ну-ка, встань вот здесь и смотри\nпрямо вверх.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Э-э-э... Ах! Вот они!\n<PAGE>\nСправа и слева от Шёлкового пути! Как\nхорошо! В этом году они тоже смогли\nувидеться!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Ага. Это благодаря тебе, <CHILD_NAME>, они нашлись и\nвстретились.\n<PAGE>\n<FACE_NORMAL>Хм? Что такое, <_____MYNAME_____>? Ты сегодня такой тихий.\n<PAGE>\n<FACE_LOVE>...Да, ты прав... Это так здорово. В такие\nмоменты понимаю, что я счастлива до испуга...\n<PAGE>\nДавайте снова придём смотреть на звёзды в\nследующем году, и через год, и через два."
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_B_STAR_09",
+   "key": "9aad7479",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак, народ, пора домой. К сожалению,\nпраздник окончен."
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_B_STAR_10",
+   "key": "2badcf35",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nМне сегодня было ужасно весело. Помнишь, что\nя говорила? Давайте снова придём сюда\nвтроём.\n<PAGE>\nНу, уже поздно, так что возьмёмся за руки и\nпойдём домой!"
+  },
+  {
    "n": 175,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_B_MONOLOGUE",
    "key": "e3b0f57d",
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_G_STAR_00",
+   "key": "30c00815",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОтлично. Тут никого, самое место, чтобы\nнаписать и повесить желания.\n<PAGE>\n<FACE_NORMAL>А? Забыл ручку? Безнадёжный ты. Держи! <CHILD_NAME>,\nиди пиши желание с мамой!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага!"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_G_STAR_01",
+   "key": "ee3ccdee",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nЯ всё, мама! Папа тоже!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Хочу привязать, но не дотягиваюсь... Сделаешь\nза меня, <_____MYNAME_____>?"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_G_STAR_02",
+   "key": "f1309596",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nСпасибо. Духи, теперь всё в ваших руках.\n<PAGE>\nА теперь, может, посмотрим на Шёлковый\nпуть? В такую погоду его должно быть отлично\nвидно!"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_G_STAR_03",
+   "key": "089be798",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Какие красивые звёзды! Это вон там\nТкачиха и Пастух?"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_G_STAR_04",
+   "key": "0c630aca",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_SAD>\r\nА?! Где, где?! Мама, где Ткачиха и Пастух?\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Не торопись. Никуда они не денутся! Они прямо\nнад нами. Ну-ка, встань вот здесь и смотри\nпрямо вверх.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Э-э-э... Ах! Вот они!\n<PAGE>\nСправа и слева от Шёлкового пути! Как\nхорошо! В этом году они тоже смогли\nувидеться!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Ага. Это благодаря тебе, <CHILD_NAME>, они нашлись и\nвстретились.\n<PAGE>\n<FACE_NORMAL>Хм? Что такое, <_____MYNAME_____>? Ты сегодня такой тихий.\n<PAGE>\n<FACE_LOVE>...Да, ты прав... Это так здорово. В такие\nмоменты понимаю, что я счастлива до испуга...\n<PAGE>\nДавайте снова придём смотреть на звёзды в\nследующем году, и через год, и через два."
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_G_STAR_09",
+   "key": "9aad7479",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак, народ, пора домой. К сожалению,\nпраздник окончен."
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_G_STAR_10",
+   "key": "2badcf35",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nМне сегодня было ужасно весело. Помнишь, что\nя говорила? Давайте снова придём сюда\nвтроём.\n<PAGE>\nНу, уже поздно, так что возьмёмся за руки и\nпойдём домой!"
   },
   {
    "n": 183,
@@ -163,11 +1290,151 @@
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
+   "n": 184,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_STAR_00",
+   "key": "e492d148",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОтлично, тут никого, самое место, чтобы\nнаписать и повесить желания.\n<PAGE>\nАх да, пиши желание вот здесь. Как закончишь,\nскажи."
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_STAR_01",
+   "key": "2d359aa5",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТоже закончила? Пусть духи хорошо разберут\nтвоё желание.\n<PAGE>\n<FACE_LAUGH>Пока не привязали, может, сравним? Это будет\nнаш девичий секрет!"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_STAR_02",
+   "key": "bfec906e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак! Желания висят. Духи, теперь всё в ваших\nруках.\n<PAGE>\nА теперь, может, посмотрим на Шёлковый\nпуть? В такую погоду его должно быть отлично\nвидно!"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_STAR_03",
+   "key": "fbad691f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Какие красивые звёзды! Это вон там\nТкачиха и Пастух?"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_STAR_04",
+   "key": "09d314f2",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nА? Не знаешь, где они? Ох, ну ты и\nбезнадёжная.\n<PAGE>\nТак, встань вот здесь. А теперь смотри прямо\nвверх! ...Ну? Видишь?\n<PAGE>\n<FACE_LAUGH>Точно! По-моему, это Ткачиха и Пастух. Они\nвидятся только раз в году.\n<PAGE>\n<FACE_NORMAL>Как хорошо, что мы сегодня отдохнули\nпо-девичьи. Звёзды красивые. Мне так\nздорово."
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_STAR_09",
+   "key": "8720c6b5",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nСмотри, похоже, все расходятся по домам.\nЗначит, конец."
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_STAR_10",
+   "key": "548365ed",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nСегодня правда было здорово. Спасибо, что\nпригласила.\n<PAGE>\nОсторожнее по дороге домой, ладно?"
+  },
+  {
    "n": 191,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_MONOLOGUE",
    "key": "e3b0f57d",
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_OTHERSEX_00",
+   "key": "c7ae5bbe",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЭто вы, <_____MYNAME_____>? Чем могу помочь?"
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_OTHERSEX_01",
+   "key": "04d5d8df",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nГиндзиро тоже советовал мне провести этот\nдень с кем-то противоположного пола...\n<PAGE>\n<FACE_NORMAL>Хорошо, я поняла. Лучше уж с тобой, чем с\nкаким-то другим мужчиной. Давай проведём\nдень вместе."
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_00",
+   "key": "5eea8ba7",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\nЭ-э, <_____MYNAME_____>...\n<PAGE>\nНе хочешь провести вечер со мной?\n<PAGE>\nУчитывая обстоятельства, я просто подумала...\nЕсли ты не против."
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_MARRIAGE_00",
+   "key": "c976928b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПойдём, <_____MYNAME_____>?\n<PAGE>\nНе понимаю, чему ты так удивляешься. Для\nмужа и жены это совершенно нормально, разве\nнет?"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_SAMESEX_00",
+   "key": "4c544024",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ты здесь делаешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_SAMESEX_01",
+   "key": "2baad055",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХочешь, чтобы я составила тебе компанию\nсегодня?\n<PAGE>\n<FACE_LAUGH>Поняла. Провести праздник с другой женщиной,\nдолжно быть, будет весело."
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_OTHERSEX_STAR_00",
+   "key": "02c8f490",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, давай напишем желания. Ты уже решил,\nкакое?"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_OTHERSEX_STAR_01",
+   "key": "8896af30",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, ты закончил. Где бы их повесить...\nМожет, вон там?\n<PAGE>\nПодожди здесь, я схожу одолжу лестницу.\n<PAGE>\n<FACE_LOSS>Нет, всё в порядке. Не могу же я просить тебя\nо помощи в таком...\n<PAGE>\n<FACE_NORMAL>...Что ж, раз ты настаиваешь. Большое спасибо."
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_OTHERSEX_STAR_02",
+   "key": "25e84074",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПривязал желание? Хорошо.\n<PAGE>\nЧто ж, пойдём любоваться Шёлковым путём?"
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_OTHERSEX_STAR_03",
+   "key": "10a19982",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nГоворят, летом Шёлковый путь очень хорошо\nвидно, но сегодня он, кажется, ещё ярче."
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_OTHERSEX_STAR_04",
+   "key": "4926d0bd",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n.........\n<PAGE>\n............ ..................\n<PAGE>\n<_____MYNAME_____>.\n<PAGE>\n...Тебе сейчас весело со мной, <_____MYNAME_____>?\n<PAGE>\nНет, просто я неуверенно себя чувствую с\nмужчинами и к таким ситуациям не привыкла...\n<PAGE>\n<FACE_LOSS>Даже не знаю, что сказать и о чём говорить.\n<PAGE>\n<FACE_NORMAL>...Вот как. Раз тебе весело, у меня нет\nпретензий."
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_OTHERSEX_STAR_09",
+   "key": "d9065427",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, наше время вышло. Вернёмся."
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_OTHERSEX_STAR_10",
+   "key": "cf65ef22",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо за сегодня. С тобой я смогла\nхоть немного насладиться этим особым днём."
   },
   {
    "n": 205,
@@ -177,11 +1444,144 @@
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
+   "n": 206,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_00",
+   "key": "02c8f490",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, давай напишем желания. Ты уже решил,\nкакое?"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_01",
+   "key": "4a15c909",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, ты закончил. Где бы их повесить...\nМожет, вон там?\n<PAGE>\nПодожди здесь, я схожу одолжу лестницу.\n<PAGE>\n<FACE_LOSS>Нет, всё в порядке. Не могу же я просить тебя\nо помощи в таком...\n<PAGE>\n<FACE_LOVE>...Что ж, раз ты настаиваешь. Большое спасибо."
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_02",
+   "key": "061d67bb",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что привязал и моё желание... Ты не\nподглядел, что я написала?\n<PAGE>\n<FACE_LOVE>...Если не читал, то и ладно. Забудь, что я\nсказала.\n<PAGE>\n<FACE_LAUGH>Что ж, пойдём любоваться Шёлковым путём?\nНайдём место, откуда хорошо видно и где\nможно отдохнуть."
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_03",
+   "key": "10a19982",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nГоворят, летом Шёлковый путь очень хорошо\nвидно, но сегодня он, кажется, ещё ярче."
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_04",
+   "key": "d2a20f82",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nМолча смотреть ей в лицо"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_05",
+   "key": "394c5420",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nНежно взять её за руку"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_06",
+   "key": "a53e55ed",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\nТак не годится. Нельзя терять голову...\n<PAGE>\nС тех пор как мы встретились, я сама не своя.\n<PAGE>\nРаньше мне ничего не стоило смотреть тебе в\nглаза и говорить с тобой, хоть ты и мужчина.\nА теперь...\n<PAGE>\nКогда ты так на меня смотришь, я совсем\nтеряюсь.\n<PAGE>\nМне ещё многому надо учиться. Так моя\nгувернантка меня засмеёт..."
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_07",
+   "key": "7a03ac86",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\n...О-отпусти, пожалуйста, мою руку!\nП-почему...? Ну...\n<PAGE>\n<FACE_LOSS>Мы пара, так что это естественно...? Т-так\nобычно бывает?\n<PAGE>\n<FACE_LOVE>Нет! Не может быть! Если мы пара, это не\nзначит, что надо держаться за руки!\n<PAGE>\nТы... не отпускаешь. Ладно, делай как знаешь..."
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_08",
+   "key": "8d99df84",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\n...Э-э, в такой момент надо закрыть глаза?"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_09",
+   "key": "b58c7044",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\nПохоже, пора возвращаться. Мне не особенно\nхочется, но пойдём."
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_STAR_10",
+   "key": "62a33ba0",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\nОгромное спасибо за сегодня. Не думала, что\nнастанет день, когда я буду радоваться этому\nпразднику с мужчиной."
+  },
+  {
    "n": 217,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_MONOLOGUE",
    "key": "e3b0f57d",
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_MARRIAGE_STAR_00",
+   "key": "02c8f490",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, давай напишем желания. Ты уже решил,\nкакое?"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_MARRIAGE_STAR_01",
+   "key": "83b57eb3",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, ты закончил. Где бы их повесить...\nМожет, вон там?\n<PAGE>\nПодожди здесь, я схожу одолжу лестницу.\n<PAGE>\n<FACE_LOSS>Нет, всё в порядке. Не могу же я просить тебя\nо помощи в таком...\n<PAGE>\n<FACE_LOVE>...Что ж, раз ты настаиваешь. Я благодарна."
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_MARRIAGE_STAR_02",
+   "key": "07d8f181",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что привязал и моё желание...\n<PAGE>\nХочешь знать, что я загадала?\n<PAGE>\nКонечно, моё желание касалось тебя. А\nподробности ― между мной и духами.\n<PAGE>\nЧто ж, пойдём любоваться Шёлковым путём?\nНайдём место, откуда хорошо видно и где\nможно отдохнуть."
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_MARRIAGE_STAR_03",
+   "key": "88552de1",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nГоворят, летом Шёлковый путь очень хорошо\nвидно, но сегодня он, кажется, ещё ярче."
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_MARRIAGE_STAR_04",
+   "key": "64cf1560",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПодумать только, я праздную Праздник звёзд с\nмужем... Никогда не знаешь, что преподнесёт\nжизнь.\n<PAGE>\nЧестно говоря, когда-то на Празднике звёзд я\nзагадала встретить хорошего спутника жизни.\n<PAGE>\nКогда я приехала в этот город, мне\nпредложили брак по сговору.\n<PAGE>\nОтказаться я не могла, так что загадала, чтобы\nэто был хотя бы хороший человек.\n<PAGE>\nВ итоге вмешалась Сидзу, и сватовство\nрасстроилось.\n<PAGE>\n<FACE_LAUGH>Раз я встретила тебя, может, моё желание\nвсё-таки сбылось."
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_MARRIAGE_STAR_08",
+   "key": "9cfb9f8d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\n...Позволишь мне ещё немного побыть вот так?"
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_MARRIAGE_STAR_09",
+   "key": "037d409d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\nПохоже, пора возвращаться. Не то чтобы мне\nхотелось, но надо."
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_MARRIAGE_STAR_10",
+   "key": "475268db",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо за сегодня. Я рада, что провела вечер с\nтобой."
   },
   {
    "n": 226,
@@ -191,11 +1591,109 @@
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
+   "n": 227,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_B_STAR_00",
+   "key": "cc5cffaf",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nА теперь напишем желания. Вы оба уже\nрешили, какие?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Помни: написать можно только одно желание.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага! Сначала было трудно выбрать, но в итоге\nвыбор сделан!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Рада слышать. Тогда пишем."
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_B_STAR_01",
+   "key": "83b57eb3",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, вы закончили. Где бы их повесить...\nМожет, вон там?\n<PAGE>\nПодождите здесь, я схожу одолжу лестницу.\n<PAGE>\n<FACE_LOSS>Нет, всё в порядке. Не могу же я просить тебя\nо помощи в таком...\n<PAGE>\n<FACE_LOVE>...Что ж, раз ты настаиваешь. Я благодарна."
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_B_STAR_02",
+   "key": "a527cab1",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПохоже, всё привязано. Надеюсь, духи\nисполнят наши молитвы.\n<PAGE>\nЧто ж, пойдём любоваться Шёлковым путём?\nНайдём место, откуда хорошо видно и где\nможно отдохнуть."
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_B_STAR_03",
+   "key": "7410ff18",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nГоворят, летом Шёлковый путь очень хорошо\nвидно, но сегодня он, кажется, ещё ярче.\n<PAGE>\n...Хорошо, что погода прояснилась."
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_B_STAR_04",
+   "key": "77310ef1",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nМожно спросить, что ты загадал, <CHILD_NAME>?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ага! Э-э, я загадал стать умнее!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Ох, знаний пожелал? А здоровья или чего-то\nтакого не хочешь?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ну, ты ведь это и написала, мама? Чтобы наша\nсемья была счастлива и здорова?\n<PAGE>\nЯ подумал: если буду здоров, то и играть\nсмогу, так что надо загадать про учёбу.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>...А у <CHILD_NAME> сильная воля. Интересно, в кого он\nтакой."
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_B_STAR_09",
+   "key": "ba9e0058",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, пора возвращаться. Не то чтобы мне\nхотелось, но надо."
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_B_STAR_10",
+   "key": "c9c746b2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nМне сегодня было весело. Праздник звёзд\nвместе ― это нечто особенное."
+  },
+  {
    "n": 234,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_B_MONOLOGUE",
    "key": "e3b0f57d",
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_G_STAR_00",
+   "key": "cc5cffaf",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nА теперь напишем желания. Вы оба уже\nрешили, какие?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Помни: написать можно только одно желание.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага! Сначала не могла выбрать, но в итоге\nвыбрала одно!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Рада слышать. Тогда пишем."
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_G_STAR_01",
+   "key": "83b57eb3",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, вы закончили. Где бы их повесить...\nМожет, вон там?\n<PAGE>\nПодождите здесь, я схожу одолжу лестницу.\n<PAGE>\n<FACE_LOSS>Нет, всё в порядке. Не могу же я просить тебя\nо помощи в таком...\n<PAGE>\n<FACE_LOVE>...Что ж, раз ты настаиваешь. Я благодарна."
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_G_STAR_02",
+   "key": "86db68ac",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, всё привязано. Надеюсь, духи\nисполнят наши молитвы.\n<PAGE>\nЧто ж, пойдём любоваться Шёлковым путём?\nНайдём место, откуда хорошо видно и где\nможно отдохнуть."
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_G_STAR_03",
+   "key": "7410ff18",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nГоворят, летом Шёлковый путь очень хорошо\nвидно, но сегодня он, кажется, ещё ярче.\n<PAGE>\n...Хорошо, что погода прояснилась."
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_G_STAR_04",
+   "key": "e6f79257",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nМожно спросить, что ты загадала, <CHILD_NAME>?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ага! Э-э, я загадала стать умнее!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Ох, знаний пожелала? А здоровья или чего-то\nтакого не хочешь?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ну, ты ведь это и написала, мама? Чтобы наша\nсемья была счастлива и здорова?\n<PAGE>\nЯ подумала: если буду здорова, то и играть\nсмогу, так что надо загадать про учёбу.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>...А у <CHILD_NAME> сильная воля. Интересно, в кого она\nтакая."
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_G_STAR_09",
+   "key": "ba9e0058",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, пора возвращаться. Не то чтобы мне\nхотелось, но надо."
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_G_STAR_10",
+   "key": "c9c746b2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nМне сегодня было весело. Праздник звёзд\nвместе ― это нечто особенное."
   },
   {
    "n": 242,
@@ -205,6 +1703,125 @@
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
+   "n": 243,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_SAMESEX_STAR_00",
+   "key": "02c8f490",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, давай напишем желания. Ты уже\nрешила, какое?"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_SAMESEX_STAR_01",
+   "key": "e53c84c1",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, ты закончила. Где бы их повесить...\nМожет, вон там?\n<PAGE>\nПодожди здесь, я схожу одолжу лестницу."
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_SAMESEX_STAR_02",
+   "key": "1309270e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПривязала желание? Хорошо.\n<PAGE>\nНадеюсь, оба наших желания дойдут до ушей\nдухов.\n<PAGE>\nЧто ж, пойдём любоваться Шёлковым путём?\nНайдём место, откуда хорошо видно и где\nможно отдохнуть."
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_SAMESEX_STAR_03",
+   "key": "10a19982",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nГоворят, летом Шёлковый путь очень хорошо\nвидно, но сегодня он, кажется, ещё ярче."
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_SAMESEX_STAR_04",
+   "key": "83b6020e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЗдесь просторно, небо хорошо видно.\nНапоминает мне о доме.\n<PAGE>\n...Тебе сейчас весело со мной, <_____MYNAME_____>?\n<PAGE>\n...Нет, просто у меня мало друзей, и к таким\nситуациям я не привыкла.\n<PAGE>\n<FACE_LOSS>Даже не знаю, о чём говорить.\n<PAGE>\n<FACE_NORMAL>...Вот как. Раз тебе весело, у меня нет\nпретензий."
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_SAMESEX_STAR_09",
+   "key": "a4df9ef6",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, наше время подошло к концу.\nВернёмся."
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_SAMESEX_STAR_10",
+   "key": "be15ae6a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nБольшое спасибо за сегодня. Благодаря тебе я\nсмогла насладиться праздником.\n<PAGE>\nЕсли выпадет случай, с удовольствием повторю\nэто с тобой."
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_SAMESEX_MONOLOGUE",
+   "key": "afe1a91d",
+   "ru": "Чудесный был праздник... Надеюсь, в\nследующем году снова приду."
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_00",
+   "key": "b956d428",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, не проведёшь ли со мной этот день?\n<PAGE>\nВедь сегодня Праздник звёзд. Мы нечасто\nбываем вместе, и мне хочется создать с тобой\nвоспоминания."
+  },
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_STAR_00",
+   "key": "54fa1bcd",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nВот твоя бумага, <_____MYNAME_____>. Напиши желание."
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_STAR_01",
+   "key": "631efb77",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nПохоже, всё готово. Тогда своей силой я\nпривяжу его на самую верхушку бамбука."
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_STAR_02",
+   "key": "a1d20289",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nИтак, <_____MYNAME_____>. Полюбуемся звёздами вместе. Сегодня\nони особенно прекрасны.\n<PAGE>\nНайдём место, где нет смертных. Кроме тебя,\nразумеется. Идём со мной."
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_STAR_03",
+   "key": "a313513b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nКакое чудесное зрелище. Будто мы попали в\nмир лишь для нас двоих."
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_STAR_04",
+   "key": "84f050bd",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n...Каждый раз, когда наступает ночь и я смотрю\nна звёзды и луну, я не могу не думать о тебе.\n<PAGE>\nВ одни дни мысль о твоём лице дарит мне\nсчастье, а в другие от одиночества болит в\nгруди.\n<PAGE>\nНо что бы ни было у меня на душе, всё\nсводится к тому, как сильно я тебя люблю.\n<PAGE>\nС каждой далёкой звездой, с каждым шелестом\nбамбука моя любовь к тебе растёт всё сильнее.\n<PAGE>\nДухи ― существа, которых любят все люди,\nзвери и растения, но...\n<PAGE>\n<FACE_LAUGH>Встретить того, чья любовь ко мне\nбезгранична, ― значит быть самым счастливым\nлисьим божеством на свете."
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_STAR_08",
+   "key": "0eee7bf1",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nНемного неловко обмениваться словами любви\nпод звёздным небом, но...\n<PAGE>\nТаковы мои истинные чувства. Без лжи, без\nобмана. Прошу, прими их.\n<PAGE>\nИ, если можно... закрой глаза и приблизь своё\nлицо к моему..."
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_STAR_09",
+   "key": "09e792eb",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nМне хотелось провести с тобой больше\nвремени, но... похоже, всё подходит к концу.\nВернёмся к остальным."
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_STAR_10",
+   "key": "b3683a5b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, позволь выразить благодарность за этот\nвечер вместе. Спасибо.\n<PAGE>\nЕсли ты не против, мне хотелось бы провести с\nтобой и праздник следующего года... Буду\nждать."
+  },
+  {
    "n": 285,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_MONOLOGUE",
@@ -212,11 +1829,109 @@
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
+   "n": 286,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_B_STAR_00",
+   "key": "55221b22",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH> Вот ваша бумага. Вы оба уже решили, что\nзагадать?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага!\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>О-хо, вот это мне по душе. Желание лишь\nодно, так что хорошенько подумайте.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Сначала было трудно, но в итоге\nвыбор сделан!\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>Превосходно. В таком случае пишите желание."
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_B_STAR_01",
+   "key": "11383e40",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH> Похоже, всё готово. Тогда своей силой я\nпривяжу его на самую верхушку бамбука."
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_B_STAR_02",
+   "key": "9c986a0e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH> Итак, <_____MYNAME_____>, <CHILD_NAME>.\n<PAGE>\nПолюбуемся звёздами вместе. Сегодня они\nособенно прекрасны.\n<PAGE>\nНайдём место, где нет смертных. Кроме вас\nдвоих, разумеется. Идёмте со мной."
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_B_STAR_03",
+   "key": "7f4c7917",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH> Какое чудесное зрелище. Будто мы попали в\nмир лишь для нас троих."
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_B_STAR_04",
+   "key": "97c62457",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH> Потрясающе! Будто небо ― это шёлковая\nрека!\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>Именно. Потому его и зовут Шёлковым путём.\n<PAGE>\nПо преданию, если в этот день пойдёт дождь,\nрека выйдет из берегов, и Ткачиха с Пастухом\nне смогут перейти её и встретиться.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Правда? Значит, если будет дождь, им\nпридётся ждать ещё целый год?\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_LAUGH>Не тревожься. В день Праздника звёзд всегда\nясно, чтобы такая беда не случилась.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Здорово!\n<PAGE>\nИнтересно, Ткачиха и Пастух сейчас смеются\nвместе на небесах, как мама с папой?\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>...!\n<PAGE>\n<FACE_LAUGH>...Да, без сомнения.\n<PAGE>\nХо-хо, дети порой говорят такие неожиданные\nвещи."
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_B_STAR_09",
+   "key": "f1e8cb1d",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH> Увы, похоже, наше время здесь вышло.\nВернёмся."
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_B_STAR_10",
+   "key": "635ed90e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH> Какое счастье провести этот вечер со своей\nсемьёй.\n<PAGE>\nНадеюсь, и вы чувствуете то же."
+  },
+  {
    "n": 293,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_B_MONOLOGUE",
    "key": "c7713da3",
    "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_G_STAR_00",
+   "key": "eee91904",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nВот ваша бумага. Вы оба уже решили, что\nзагадать?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага!\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>О-хо, вот это мне по душе. Желание лишь\nодно, так что хорошенько подумайте.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Сначала было трудно, но в итоге\nвыбор сделан!\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>Превосходно. В таком случае пишите желание."
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_G_STAR_01",
+   "key": "631efb77",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nПохоже, всё готово. Тогда своей силой я\nпривяжу его на самую верхушку бамбука."
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_G_STAR_02",
+   "key": "a3bd6df5",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nИтак, <_____MYNAME_____>, <CHILD_NAME>.\n<PAGE>\nПолюбуемся звёздами вместе. Сегодня они\nособенно прекрасны.\n<PAGE>\nНайдём место, где нет смертных. Кроме вас\nдвоих, разумеется. Идёмте со мной."
+  },
+  {
+   "n": 297,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_G_STAR_03",
+   "key": "149c0c2c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nКакое чудесное зрелище. Будто мы попали в\nмир лишь для нас троих."
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_G_STAR_04",
+   "key": "38d3f436",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nПотрясающе! Будто небо ― это шёлковая река!\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>Именно. Потому его и зовут Шёлковым путём.\n<PAGE>\nПо преданию, если в этот день пойдёт дождь,\nрека выйдет из берегов, и Ткачиха с Пастухом\nне смогут перейти её и встретиться.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Правда? Значит, если будет дождь, им\nпридётся ждать ещё целый год?\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_LAUGH>Не тревожься. В день Праздника звёзд всегда\nясно, чтобы такая беда не случилась.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Здорово!\n<PAGE>\nИнтересно, Ткачиха и Пастух сейчас смеются\nвместе на небесах, как мама с папой?\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>...!\n<PAGE>\n<FACE_LAUGH>...Да, без сомнения.\n<PAGE>\nХо-хо, дети порой говорят такие неожиданные\nвещи."
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_G_STAR_09",
+   "key": "89c8ca02",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nУвы, похоже, наше время здесь вышло.\nВернёмся."
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_G_STAR_10",
+   "key": "fccfa5ff",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nКакое счастье провести этот вечер со своей\nсемьёй.\n<PAGE>\nНадеюсь, и вы чувствуете то же."
   },
   {
    "n": 301,
