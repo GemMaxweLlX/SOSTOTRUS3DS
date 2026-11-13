@@ -2,6 +2,27 @@
  "file": "System_PartTime_Harvest",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_START_Doctor",
+   "key": "0ac9457b",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА, спасибо, что пришли, <_____MYNAME_____>. Готовы начать <BLUE>сбор\nурожая</BLUE>?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_RECEIVE_Doctor",
+   "key": "6313106e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nО, уже закончили? Тогда я заберу."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_MONEY_Doctor",
+   "key": "0ce34962",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВот вознаграждение за хорошую работу."
+  },
+  {
    "n": 3,
    "f": 2,
    "id": "MES_EV_PARTTIME_HARVEST_ITEM_Doctor",
@@ -16,6 +37,27 @@
    "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nБуду ждать следующего раза!"
   },
   {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_START_Uncle",
+   "key": "b09bf5d9",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за помощь! Давай сразу начнём\n<BLUE>собирать урожай</BLUE>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_RECEIVE_Uncle",
+   "key": "06027434",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВот это сбор что надо! Давай, заберу."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_MONEY_Uncle",
+   "key": "cc842633",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nСовсем неплохо, скажу я тебе. Держи плату."
+  },
+  {
    "n": 8,
    "f": 2,
    "id": "MES_EV_PARTTIME_HARVEST_ITEM_Uncle",
@@ -23,11 +65,67 @@
    "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nПремного благодарен. Хочу дать тебе ещё и\nэто. Считай знаком признательности."
   },
   {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_END_Uncle",
+   "key": "aff48eca",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nБудет возможность ― с радостью приму твою\nпомощь снова."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_START_AmericaFarmOldwoman",
+   "key": "96594a28",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОй, вы пришли! Не хочу торопить, но готовы\nначать <BLUE>собирать урожай</BLUE>?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_RECEIVE_AmericaFarmOldwoman",
+   "key": "e537396c",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОй, как быстро! Отдадите мне собранное?"
+  },
+  {
    "n": 12,
    "f": 2,
    "id": "MES_EV_PARTTIME_HARVEST_MONEY_AmericaFarmOldwoman",
    "key": "3e78fe99",
    "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Вот, держите плату."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_ITEM_AmericaFarmOldwoman",
+   "key": "f1d7628b",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да. Вот ещё кое-что за то, что всегда мне\nпомогаете."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_END_AmericaFarmOldwoman",
+   "key": "1d3f7ddc",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВы меня просто спасаете! Большое спасибо."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_START_StuffWoman",
+   "key": "0046ca5d",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуйте, <_____MYNAME_____>, готовы? Нужно <BLUE>собрать</BLUE> всё на\nэтом поле."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_RECEIVE_StuffWoman",
+   "key": "6945ee04",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОго, уже готово! Можете отдать всё прямо мне."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_MONEY_StuffWoman",
+   "key": "673563a5",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Вот ваша плата за сегодня."
   },
   {
    "n": 18,
@@ -42,6 +140,83 @@
    "id": "MES_EV_PARTTIME_HARVEST_END_StuffWoman",
    "key": "684aef13",
    "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо! До следующего раза,\nхорошо?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_START_JapanFarmOldman",
+   "key": "610bc20d",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что пришли. Сегодня очень нужна\nпомощь со <BLUE>сбором урожая</BLUE>. Начнём?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_RECEIVE_JapanFarmOldman",
+   "key": "bae3ad8c",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nУже закончено? Давайте, заберу."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_MONEY_JapanFarmOldman",
+   "key": "0f0bca14",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nЗдорово выручили сегодня. Немного, но вот\nплата."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_ITEM_JapanFarmOldman",
+   "key": "d548e291",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да, возьмите и это. В благодарность за\nпомощь."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_END_JapanFarmOldman",
+   "key": "630002c2",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Берегите себя!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_START_FisherWife",
+   "key": "66c68c9f",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что пришли, <_____MYNAME_____>. Очень благодарна за\nпомощь со <BLUE>сбором урожая</BLUE>."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_RECEIVE_FisherWife",
+   "key": "be39acdc",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nО, как быстро! Оставьте всё у меня, хорошо?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_MONEY_FisherWife",
+   "key": "643b8b29",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Вот оплата."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_ITEM_FisherWife",
+   "key": "721c45e5",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nО да! Вот вам ещё небольшая премия. Не\nстесняйтесь. Берите!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_END_FisherWife",
+   "key": "39dff605",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nУверена, мне ещё понадобится ваша помощь.\nМахало!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_HARVEST_FREE",
+   "key": "dcdb5404",
+   "ru": "Взята подработка: <BLUE>сбор урожая</BLUE>!"
   },
   {
    "n": 31,
