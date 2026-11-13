@@ -1,0 +1,257 @@
+{
+ "file": "Love_J_Teacher_5",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_00",
+   "key": "0c9f79ca",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nО. <_____MYNAME_____>.\n<PAGE>\nТы тоже пришёл насладиться купальнями?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_01",
+   "key": "11bd3790",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nПонятно. Что ж, в таком случае...\n<PAGE>\nНе хочешь после купания перекусить со мной?\nЕсли, конечно, есть время..."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_02",
+   "key": "cee1af19",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nЧудесно. Тогда встретимся здесь после купания."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_03",
+   "key": "b1a65d19",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nО, привет, <_____MYNAME_____>!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_04",
+   "key": "9f27c41d",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nТы тоже только пришёл?\n<PAGE>\nЕсли так, не хочешь присоединиться?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_05",
+   "key": "ebafbb6c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\nФух! Мы сидели там почти час. Кажется, у меня\nкружится голова."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_06",
+   "key": "30a6213f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_SAD>\r\nЭто потому, что ты настоял на соревновании\n“Кто дольше задержит дыхание под водой”.\n<PAGE>\nИ почему-то все остальные в купальне решили\nприсоединиться...\n<PAGE>\nЕсли бы <_____MYNAME_____> не сказал, что его ждёт Касуми, мы,\nможет, до сих пор сидели бы там."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_07",
+   "key": "23928ae3",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nПростите, простите! Так где Касуми?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_08",
+   "key": "294e9517",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nАга! О, и Комари с ней."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_09",
+   "key": "f078d462",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\n<_____MYNAME_____> что-то целую вечность.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Прости, что заставляю тебя ждать здесь,\nКомари."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_10",
+   "key": "47a41760",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nНе, я не против! Но, скажу я тебе, встречаться с\nкавалером в купальнях ― это уже как\nнастоящая парочка. ♪\n<PAGE>\nСерьёзно. Только посмотри на себя. Стоит на\nсекунду отвернуться, а ты уже воркуешь с\nпарнем.\n<PAGE>\n<FACE_LOVE>А-ах... Прежняя ты о таком и подумать бы не\nмогла.\n<PAGE>\n<FACE_LAUGH>А теперь? Спорим, ты совсем избавилась от\nсвоей нелюбви к парням!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_11",
+   "key": "6d2f94d6",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_SAD>\r\nЯ бы... не стала так утверждать."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_12",
+   "key": "85326b5e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nВидишь ли... на днях я разговаривала с Сидзу\nи..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_13",
+   "key": "877c0c24",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЗнаешь, Касуми...\n<PAGE>\nС тех пор как ты встречаешься, от тебя\nисходит такое тёплое и красивое сияние.\n<PAGE>\n<FACE_NORMAL>Видно, правду говорят, что любовь раскрывает\nв женщине настоящую красоту."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_14",
+   "key": "772142e6",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LOVE>\r\nПожалуйста, перестань. Ты меня смущаешь."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_15",
+   "key": "3cb94ad9",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nИ к тому же ты, похоже, совсем переборола\nсвою нелюбовь к мужчинам. Одни хорошие\nновости!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_16",
+   "key": "f5cdd6bd",
+   "ru": "Ого! Вижу красотку!\n<PAGE>\nПростите, прекрасная."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_17",
+   "key": "c0d8bcb8",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nЧто.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_SAD>Ой-ой..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_18",
+   "key": "059cbd2e",
+   "ru": "Не используется."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_19",
+   "key": "0ab27a1e",
+   "ru": "Может, сходим с тобой выпить чаю, а?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_20",
+   "key": "73437149",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_ANGRY>\r\n*испепеляющий взгляд*\n<PAGE>\n<WINDOW_LINE_L>ХА-А-А-ЙЯ-А-А-А!!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_21",
+   "key": "94327c0d",
+   "ru": "УФ...!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_22",
+   "key": "261ef41a",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_SAD>\r\nОх, батюшки...\n<PAGE>\nПохоже, с мужчинами у тебя всё-таки ещё не\nвсё решено."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_23",
+   "key": "352ff4e1",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LOSS>\r\n...Вот что случилось.\n<PAGE>\nПохоже, корень моей неприязни к мужчинам\nничуть не изменился.\n<PAGE>\n<FACE_NORMAL>Я вообще влюбилась только потому, что это <_____MYNAME_____>.\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_L>По какой-то необъяснимой причине <_____MYNAME_____>...\nособенный.\n<PAGE>\nОчень-очень особенный."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_24",
+   "key": "26f856f9",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nО-о-ох!\n<PAGE>\nВот везунчик этот <_____MYNAME_____>, раз ты так по уши в него\nвлюблена!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_25",
+   "key": "ff42df57",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\n...АХ!\n<PAGE>\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_26",
+   "key": "9623f617",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\n...\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LOVE> ..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_27",
+   "key": "86a08f86",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nВы чего, ребята?! Раз стоите тут, хоть бы\nслово сказали!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_28",
+   "key": "fb0424a6",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nНу, э-э, мы как-то не ожидали попасть прямо\nна то, как вы фонтаном изливаетесь о <_____MYNAME_____>.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Да, перебивать казалось довольно неловко."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_29",
+   "key": "059cbd2e",
+   "ru": "Не используется."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_30",
+   "key": "69610242",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nЭй-эй-эй! А о бедной Касуми кто подумает,\nраз тот, о ком она говорила, всё это услышал!\n<PAGE>\n<FACE_NORMAL>Правда, Касуми?! Эм... Касуми? Что такое?\nПочему ты молчишь?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_31",
+   "key": "675a77d1",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\nАХ!! Она красная как помидор!\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LOVE>...!\n<PAGE>\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_32",
+   "key": "059cbd2e",
+   "ru": "Не используется."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_33",
+   "key": "83abd20b",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_SAD>\r\nБ-боюсь, наш ужин придётся отложить. Прошу\nменя извинить!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_34",
+   "key": "4f797c99",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_SAD>\r\nОх, Касуми...\n<PAGE>\n<FACE_LOVE>Ох, какая же она иногда милая!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEACHER_5_35",
+   "key": "6580da63",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nНесмотря на укоренившуюся неприязнь к\nмужчинам, Касуми так тобой очарована.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL> Ты впечатляешь, <_____MYNAME_____>."
+  }
+ ]
+}
