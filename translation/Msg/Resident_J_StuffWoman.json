@@ -1,0 +1,215 @@
+{
+ "file": "Resident_J_StuffWoman",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_00",
+   "key": "92bae18e",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_NORMAL>\r\nО, <_____MYNAME_____>, здравствуй. Чудная сегодня погода, правда?\nГуляешь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_01",
+   "key": "66f1149d",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_NORMAL>\r\nЯ хотела заняться икебаной с Омиё, вот и\nпришла сюда поискать цветы.\n<PAGE>\nХотелось бы поискать вместе, но Омиё\nтрудновато ходить по улице."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_27",
+   "key": "9747ce87",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСлушай, не хочешь попробовать икебану, <_____MYNAME_____>?\n<PAGE>\nУверена, Омиё тоже будет рада тебя видеть."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_02",
+   "key": "f532590d",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_NORMAL>\r\nПравда? Отлично!\n<PAGE>\nСначала нужно поискать подходящие цветы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_03",
+   "key": "edbcb195",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_LAUGH>\r\nЭтого должно хватить с лихвой. Ох, вдвоём и\nправда всё спорится, правда?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_04",
+   "key": "ae25e289",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_NORMAL>\r\nС этим у нас есть всё нужное, так что пойдём к\nОмиё."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_05",
+   "key": "81b6e264",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что пригласила, Омиё. Очень рада\nбыть здесь.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>Хо-хо-хо. Нет-нет, это мне в радость."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_06",
+   "key": "12cee8e3",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nА-ха-ха, это мне в радость, Сидзу, <_____MYNAME_____>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_07",
+   "key": "eb8c4685",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nНу что ж, начнём?\n<PAGE>\nСначала выберем один цветок, который будет\nцентром композиции."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_08",
+   "key": "4dd1ada8",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nДа, да. Именно так. У тебя хорошо получается,\n<_____MYNAME_____>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_09",
+   "key": "74aea16b",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nТы впервые занимаешься икебаной?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_10",
+   "key": "5926069d",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nО? У тебя так хорошо выходит, что я\nподумала, может, есть опыт.\n<PAGE>\nЕсли подумать, Юдзуки тоже очень хорош в\nтаких вещах.\n<PAGE>\nПонимаешь, что есть люди с настоящим\nприродным талантом."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_11",
+   "key": "cf1c62a1",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДа, у тебя и правда к этому дар, <_____MYNAME_____>.\n<PAGE>\nНо ты ведь всё время что-то создаёшь на\nферме. Чего и ждать от фермера, а?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_12",
+   "key": "b45439a6",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНе скромничай. По-моему, это потрясающе!\n<PAGE>\nЗнаешь, в твоём возрасте стать фермером\nудаётся нечасто."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_13",
+   "key": "0989c5c3",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nПравда? Ты так усердно трудишься, <_____MYNAME_____>.\nПо-моему, похвала заслуженная."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_14",
+   "key": "d055aeb0",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nПохоже, за разговорами мы всё и закончили."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_15",
+   "key": "250f6425",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nА ещё ты всегда мне помогаешь, <_____MYNAME_____>.\n<PAGE>\nДаже при твоём плотном графике всегда\nнаходишь время поиграть с Тацуми и Яити."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_16",
+   "key": "1de3b2bd",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nИ даже для старушек вроде меня время\nнаходишь. Будто у меня появился ещё один\nвнук!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_17",
+   "key": "2fad34f9",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nА-ха-ха, спасибо.\n<PAGE>\n<FACE_LAUGH>...Так, осталось придать форму, и готово.\n<PAGE>\nЗа болтовнёй время так и пролетело, а?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_18",
+   "key": "ca55916a",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНу? Понравилось впервые заниматься\nикебаной?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_19",
+   "key": "07c1d080",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nРада слышать. Правда, Омиё?\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>Да, я очень рада, что тебе понравилось. О,\nдавайте я налью нам чаю?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_20",
+   "key": "903a5130",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nДа, я очень рада, что тебе понравилось. О,\nдавайте я налью нам чаю."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_21",
+   "key": "503addf2",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ уберу со стола.\n<PAGE>\nНе поможешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_22",
+   "key": "a412d74b",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nПрости, что гостя заставляем убирать, <_____MYNAME_____>."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_23",
+   "key": "b2482382",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nНо давайте теперь насладимся чаем. Пейте\nсколько хотите."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_24",
+   "key": "6e9a9bb7",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСколько ни пью, не перестаю удивляться, какой\nвкусный у тебя чай, Омиё. Понятно, почему\nТацуми его так любит.\n<PAGE>\nКстати, я знаю, что мальчик часто к тебе\nзаходит, он ведь не доставляет хлопот?\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>Батюшки, нет, никаких хлопот. Он милый\nмальчик и составляет мне компанию. Ему всегда\nрады.\n<PAGE>\nИ тебе тоже, <_____MYNAME_____>. Заходи на чай когда угодно."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_25",
+   "key": "ee57322c",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nНикаких хлопот. Он составляет мне компанию и\nхороший мальчик.\n<PAGE>\nИ ты заходи на чай, <_____MYNAME_____>."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_26",
+   "key": "c93782a2",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nО, подойдёшь сюда, <_____MYNAME_____>?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_28",
+   "key": "984eacb2",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ сделала букет из оставшихся цветов. Хочу\nподарить тебе."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffWoman_29",
+   "key": "074e5d13",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНадеюсь, понравится! Это скромный знак\nблагодарности за всё, что ты делаешь.\n<PAGE>\nОбычно я занимаюсь икебаной, но и букеты\nнеплохи.\n<PAGE>\nСпасибо за всё, <_____MYNAME_____>."
+  }
+ ]
+}

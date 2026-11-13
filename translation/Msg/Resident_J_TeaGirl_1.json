@@ -1,0 +1,110 @@
+{
+ "file": "Resident_J_TeaGirl_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_00",
+   "key": "afb22618",
+   "ru": "<FACE_TEAGIRL>\r\nЭ-э-эй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_02",
+   "key": "3d25ae00",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nО, вот ты где. А мы тебя искали."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_03",
+   "key": "ce4748a9",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nХотим тебе кое-что показать. Зайдёшь с нами\nна секундочку в чайную?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_04",
+   "key": "85160ad2",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nСпасибо огромное! Пошли."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_05",
+   "key": "10198b9c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nА-а-ах, дома хорошо! А вон то мы и хотели\nтебе показать!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_06",
+   "key": "15e32cd8",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nТы ведь победил(а) на прошлом празднике,\nпомнишь?\n<PAGE>\nНу вот, мы так впечатлились, что решили\nустроить праздник.\n<PAGE>\n<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>Ага, мы с Комари решили приготовить тебе\nпир в честь победы.\n<PAGE>\nНалетай!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_07",
+   "key": "525af386",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Вот это аппетит! Ради такого и вчерашние\nхлопоты того стоили.\n<PAGE>\n<WINDOW_FUN_R><FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>Ага, похоже, еда тебе по душе, <_____MYNAME_____>. Здорово, а,\nКомари?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_08",
+   "key": "40e85452",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Вот это аппетит. Ради такого и вчерашние\nхлопоты того стоили.\n<PAGE>\n<WINDOW_FUN_R><FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>Я боялся, что наготовил слишком много... но,\nвидно, такой молодой парень, как ты,\nсправится без проблем."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_09",
+   "key": "9195f943",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nА? Почему празднуем?\n<PAGE>\nТы что, не слушал(а)? Мы были под таким\nвпечатлением!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_10",
+   "key": "353f187a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКомари, кажется, <_____MYNAME_____> хочет знать, ПОЧЕМУ мы\nбыли под впечатлением.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>О-о-ох, поняла. Вот глупая! Я же не\nобъяснила."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_11",
+   "key": "33bc2a76",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nТвоя мечта ведь всегда была иметь свою\nферму, да?\n<PAGE>\nТы в одиночку приехал(а) в чужой край,\nкопил(а) деньги и потихоньку учился(ась) вести\nферму...\n<PAGE>\nМы прекрасно знаем, как ты трудишься.\n<PAGE>\n<FACE_LAUGH>Ты победил(а) на празднике, потому что весь\nтвой труд на ферме наконец окупился! И мы за\nтебя очень рады!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_12",
+   "key": "730ec70a",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nЯ была очень тронута, глядя, как ты идёшь к\nмечте.\n<PAGE>\nО, эй! Мне пришла отличная идея!\n<PAGE>\nНа следующем празднике я могу быть\nкапитаном твоей группы поддержки! Возьму\nпомпоны и буду за тебя болеть! Что скажешь?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_13",
+   "key": "6e116a4e",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_KERAKERA_R>Ха-ха-ха! А я-то гадал, что ты скажешь.\nКапитан группы поддержки, а?\n<PAGE>\n<WINDOW_MOJA_L><FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Ух... Т-теперь, когда сказала вслух, как-то\nнеловко. Видно, у меня язык впереди головы\nбежит."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_14",
+   "key": "6b1a7e48",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_JOY_R>Прости, что отняли у тебя время. Но провести\nего с тобой было отпадно!\n<PAGE>\n<WINDOW_JOY_L><FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>Ага, приятно было поболтать с молодёжью.\nБудет случай, давай снова соберёмся за едой."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_1_15",
+   "key": "96989172",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nЗнаю, дальше будет непросто, но...\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>Держись! Пока твоя страсть и решимость\nнаконец не дойдут до твоего папы!"
+  }
+ ]
+}
