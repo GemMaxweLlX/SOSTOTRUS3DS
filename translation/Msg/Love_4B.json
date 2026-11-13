@@ -2,11 +2,81 @@
  "file": "Love_4B",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_COMMENT_000",
+   "key": "ec03b7ab",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nСлушай, у тебя есть минутка?\n<PAGE>\nХочу кое о чём с тобой поговорить."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_COMMENT_003",
+   "key": "52c32998",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nА. Ничего страшного. Тогда, может, позже."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_COMMENT_004",
+   "key": "280c0163",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо. Может, найдём местечко поукромнее?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_ILOVEYOU_000",
+   "key": "8079d82d",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, помнишь ту ночь, когда мы вместе смотрели\nна звёзды?\n<PAGE>\nТы спросила, какое желание я загадал на\nпадающую звезду, а я сказал, что это секрет.\n<PAGE>\nПо правде говоря, я вообще ничего не\nзагадывал.\n<PAGE>\n<FACE_LAUGH>Это было скорее обещание себе и высшим\nсилам.\n<PAGE>\nЯ пообещал, что однажды признаюсь той, кого\nлюблю, в своих настоящих чувствах."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_ILOVEYOU_001",
+   "key": "06661944",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nСначала я считал тебя просто дружелюбной и\nтрудолюбивой девушкой.\n<PAGE>\nНо чем больше я смотрел, как ты работаешь,\nтем больше восхищался.\n<PAGE>\nВскоре я понял, что в каждую свободную\nминуту думаю о тебе.\n<PAGE>\nМне хотелось быть рядом, смотреть, как ты\nидёшь к своей мечте, с особого места ― ближе\nвсех к тебе.\n<PAGE>\nЕсли тебе понадобится помощь, я хотел\nпервым прийти на выручку.\n<PAGE>\nЯ никогда раньше такого не чувствовал и не\nзнал, что с этим делать. Не сразу набрался\nсмелости сказать."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_ILOVEYOU_002",
+   "key": "c2b63ee0",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_PALPITATION_R>Но держать эти чувства в себе я больше не\nмогу.\n<PAGE>\nТак что скажу, ладно?\n<PAGE>\n<_____MYNAME_____>. Я в тебя влюблён.\n<PAGE>\n<FACE_LAUGH>Хочу, чтобы ты была моей девушкой, стояла\nрядом и улыбалась своей чудесной улыбкой.\nСогласна?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_ANSWER_000",
+   "key": "73b010bc",
+   "ru": "(Что ему ответить?)"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_ANSWER_001",
+   "key": "ee978f82",
+   "ru": "Я тоже тебя люблю!"
+  },
+  {
    "n": 10,
    "f": 2,
    "id": "MES_EV_LOVE_A_POSTMAN_4B_ANSWER_002",
    "key": "b6bce93c",
    "ru": "Простите..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_YES_000",
+   "key": "cfa9f663",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOVE>\r\nФух! Кажется, какая-то часть меня боялась,\nчто ты не чувствуешь того же.\n<PAGE>\nВот это да!\n<PAGE>\nКто бы знал, как здорово услышать от\nлюбимой, что она тоже любит! Ха-ха! Сердце\nсейчас лопнет.\n<PAGE>\nЯ буду любить тебя и заботиться о тебе, как\nникто другой. Обещаю."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_NAME_INPUT_000",
+   "key": "e47e0af1",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\n<ACTION_RIBBON>Думаю, это начало нежных, заботливых,\nпрекрасных отношений.\n<PAGE>\nИ я сделаю всё, чтобы быть достойным твоей\nлюбви.\n<PAGE>\nТак... раз уж мы теперь пара, может,\nпридумаем тебе прозвище? По-моему, это\nбыло бы мило."
   },
   {
    "n": 13,
@@ -23,6 +93,13 @@
    "ru": "Прозвище не нужно"
   },
   {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_NAME_INPUT_OK_000",
+   "key": "c55d80f9",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗначит, называть тебя <BLUE><____NICKNAME____></BLUE>?"
+  },
+  {
    "n": 16,
    "f": 2,
    "id": "MES_EV_LOVE_A_POSTMAN_4B_NAME_INPUT_OK_001",
@@ -35,6 +112,125 @@
    "id": "MES_EV_LOVE_A_POSTMAN_4B_NAME_INPUT_OK_002",
    "key": "528ab024",
    "ru": "Хотя нет..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_NAME_CHANGE_000",
+   "key": "c362be92",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nБудет сделано. Отныне ты моя <____NICKNAME____>."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_NAME_CHANGE_001",
+   "key": "1ad7d032",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nПонял. Оставим всё как есть."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_GOODBYE_000",
+   "key": "3fbbae1b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, пожалуй, пора по домам. Не хочется с\nтобой расставаться... но у нас обоих наверняка\nещё есть дела.\n<PAGE>\nПойдём. Провожу тебя домой."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_GOODBYE_001",
+   "key": "b3645468",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LOSS>\r\nА? Мы уже пришли?\n<PAGE>\n<FACE_LAUGH>Ну, тогда до встречи. Жду не дождусь, когда\nмы будем проводить вместе гораздо больше\nвремени.\n<PAGE>\nОх. Надо что-то сделать с этой глупой\nулыбкой, пока все не решили, что я\nсвихнулся..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_NO_000",
+   "key": "46f50539",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nА.\n<PAGE>\nЧто ж... нет значит нет, верно? Выходит,\nвопрос решён."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4B_NO_001",
+   "key": "49548e36",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nНу, не грусти из-за меня. Ты добрее, чем я\nзаслуживаю.\n<PAGE>\n<FACE_NORMAL>Не люблю оставлять даму без провожатого, но,\nвидно, здесь наши пути расходятся.\n<PAGE>\nЯ... э-э... У меня есть кое-какие дела. Ещё\nувидимся."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_COMMENT_000",
+   "key": "0abd171e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКхм! Прошу прощения, можно отнять у тебя\nнемного времени?\n<PAGE>\nЯ хотел бы кое-что с тобой обсудить."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_COMMENT_003",
+   "key": "21fd9ea1",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА. Понятно. Что ж. Как-нибудь в другой раз."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_COMMENT_004",
+   "key": "7ec0fa33",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nОчень хорошо. В таком случае, может, пройдём\nкуда-нибудь, где поменьше людей?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_ILOVEYOU_000",
+   "key": "6248fe7d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nХм... С чего бы начать...?\n<PAGE>\nНекоторое время назад ты пришла ко мне\nдомой, спасаясь от внезапного ливня.\n<PAGE>\nМы проговорили почти час. Помнишь?\n<PAGE>\n<FACE_NORMAL>В тот день ты оказалась рядом по чистой\nслучайности...\n<PAGE>\n...но то, что ты решила зайти именно ко мне,\nменя очень обрадовало.\n<PAGE>\n<FACE_SAD>Но ещё сильнее радости от встречи было\nоблегчение.\n<PAGE>\nОблегчение от того, что ты не пошла к\nкому-то другому.\n<PAGE>\nТочнее, я глубоко вздохнул с облегчением,\nузнав, что ты пришла ко мне, а не к другому\nмужчине."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_ILOVEYOU_001",
+   "key": "b275880f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nЯ прекрасно понимаю, насколько эгоистична\nбыла эта мысль.\n<PAGE>\nТы никому не принадлежишь. Ты вольна идти\nкуда хочешь и когда хочешь. В этом нет\nсомнений.\n<PAGE>\nЯ был озадачен, почему у меня возникла такая\nмысль.\n<PAGE>\nЯ несколько раз прокрутил ситуацию в голове и\nвыдвинул несколько гипотез...\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_R>...пока меня не осенило, что моё поведение\nпоразительно похоже на поведение\nвлюблённого.\n<PAGE>\nТогда всё и встало на свои места.\n<PAGE>\n<FACE_NORMAL>Я понял, что чувствую к тебе именно любовь."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_ILOVEYOU_002",
+   "key": "cc27f8af",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\n<WINDOW_PALPITATION_R>Я понимаю, что нас разделяет немало лет. Ты\nещё очень молода.\n<PAGE>\nИ я уверен, в твоей жизни встретится ещё\nмного гораздо более подходящих кандидатов.\n<PAGE>\n<FACE_NORMAL>И всё же я не могу не спросить...\n<PAGE>\n<_____MYNAME_____>, полюбишь ли ты меня?\n<PAGE>\nПолюби меня и позволь мне любить тебя в\nответ."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_ANSWER_000",
+   "key": "73b010bc",
+   "ru": "(Что ему ответить?)"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_ANSWER_001",
+   "key": "5666027f",
+   "ru": "Конечно, я тебя люблю!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_ANSWER_002",
+   "key": "231ab85f",
+   "ru": "Боюсь, я не могу..."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_YES_000",
+   "key": "9a6754ff",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто...? Ты... чувствуешь то же самое?\nП-понятно.\n<PAGE>\n<FACE_LAUGH>Ты... любишь меня...\n<PAGE>\nВ таком случае обещаю быть рядом с тобой в\nгоре и в радости. Что бы ни случилось, я буду\nрядом."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_NAME_INPUT_000",
+   "key": "7018bed7",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n<ACTION_RIBBON>Итак.\n<PAGE>\nВ свете изменения статуса наших отношений,\nнет ли особого имени, которым ты хотела бы\nназываться?\n<PAGE>\nЭ-э... ласкового прозвища, если угодно."
   },
   {
    "n": 37,
@@ -51,6 +247,13 @@
    "ru": "Прозвище не нужно"
   },
   {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_NAME_INPUT_OK_000",
+   "key": "b9eaaebf",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЗначит, <BLUE><____NICKNAME____></BLUE> приемлемо?"
+  },
+  {
    "n": 40,
    "f": 2,
    "id": "MES_EV_LOVE_A_DOCTOR_4B_NAME_INPUT_OK_001",
@@ -65,11 +268,144 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_NAME_CHANGE_000",
+   "key": "4f3c74f3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВ таком случае отныне я буду звать тебя <____NICKNAME____>."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_NAME_CHANGE_001",
+   "key": "5b51252d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПонятно. Предпочитаешь статус-кво? Принято."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_GOODBYE_000",
+   "key": "49daff84",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nИтак... Пора возвращаться. Меня ждут дела.\n<PAGE>\nПозволь проводить тебя домой."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_GOODBYE_001",
+   "key": "aa21286d",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nМы уже пришли? С тобой время идёт гораздо\nбыстрее обычного.\n<PAGE>\n<FACE_LOVE>Так или иначе. С сегодняшнего дня... мы\nофициально пара.\n<PAGE>\nЯ, э-э... Я с нетерпением жду, когда мы снова\nпроведём время вместе."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_NO_000",
+   "key": "6765486e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nПонятно.\n<PAGE>\nЧто ж. Следовало ожидать такого ответа. Как\nя и говорил, ты ещё молода.\n<PAGE>\nУверен, такая, как ты, найдёт много достойных\nпартнёров, не опускаясь до мужчины постарше\nвроде меня.\n<PAGE>\nПрошу прощения, что поднял такую неловкую\nтему. Пожалуйста, забудь об этом."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4B_NO_001",
+   "key": "b5118ee6",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nНе нужно меня жалеть.\n<PAGE>\nПожалуйста, возвращайся.\n<PAGE>\nДумаю, мне не помешает немного подышать\nсвежим воздухом."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_COMMENT_000",
+   "key": "1ca8ae7f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПрошу прощения. Можно с тобой минутку\nпоговорить?\n<PAGE>\nЯ хотел бы кое-что тебе сказать."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_COMMENT_003",
+   "key": "84610156",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nА. Понятно. Может, поговорим, когда ты\nбудешь не так занята."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_COMMENT_004",
+   "key": "99123489",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nОтлично. Может, пройдём куда-нибудь, где\nпоменьше людей..."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_ILOVEYOU_000",
+   "key": "16a93959",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПрежде всего, спасибо за помощь с эскизами\nукрашений для волос.\n<PAGE>\nКогда я показал их начальнику, он сказал, что\nэто моя лучшая работа.\n<PAGE>\nБез твоего времени и терпения ничего бы не\nвышло. Большое спасибо."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_ILOVEYOU_001",
+   "key": "97c6ab8c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗа то время, что мы провели вместе, я не раз\nпоражался, насколько ты добра.\n<PAGE>\nМеня ослепляла твоя красота и то, как ты\nзаботишься о других...\n<PAGE>\n<FACE_LOVE>...и в конце концов пришлось признать, что моё\nсердце переполнено любовью к тебе."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_ILOVEYOU_002",
+   "key": "42b260e6",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nНикогда не думал, что могу испытывать такие\nсильные и искренние чувства.\n<PAGE>\n<_____MYNAME_____>, я люблю тебя. Примешь ли ты мои чувства и\nответишь ли мне взаимностью?\n<PAGE>\nЯ хочу быть твоей единственной любовью,\nстоять рядом и быть ближе к тебе, чем\nкто-либо."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_ANSWER_000",
+   "key": "73b010bc",
+   "ru": "(Что ему ответить?)"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_ANSWER_001",
+   "key": "0a49094d",
+   "ru": "Я тоже тебя люблю"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_ANSWER_002",
+   "key": "da60f893",
+   "ru": "Кажется, я не готова..."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_YES_000",
+   "key": "a29e1931",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо. Не описать, как я сейчас счастлив.\nХочу, чтобы эти чувства расцвели в\nпрекрасные, долгие отношения."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_NAME_INPUT_000",
+   "key": "2b9c100c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n<ACTION_RIBBON>Подумать только, а я боялся, что мои чувства\nостанутся без ответа...\n<PAGE>\nЯ сделаю всё, чтобы ты была счастлива.\n<PAGE>\n<FACE_NORMAL>О, придумал! В честь такого события, может, я\nпридумаю тебе прозвище? По-моему, это\nбыло бы чудесно."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_NAME_INPUT_001",
+   "key": "ca9266df",
+   "ru": "Прозвище ― это мило"
+  },
+  {
    "n": 62,
    "f": 2,
    "id": "MES_EV_LOVE_J_CHASER_4B_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_NAME_INPUT_OK_000",
+   "key": "1818a767",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, звать тебя <BLUE><____NICKNAME____></BLUE>?"
   },
   {
    "n": 64,
@@ -86,6 +422,125 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_NAME_CHANGE_000",
+   "key": "8206d2ae",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЧто ж. <____NICKNAME____>...\n<PAGE>\n<FACE_LOVE><WINDOW_HEART_R>Мы уже чувствуем себя парой, правда?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_NAME_CHANGE_001",
+   "key": "f6e968cd",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЗначит, оставить <_____MYNAME_____>? Конечно.\n<PAGE>\n<FACE_LOVE>Мне всегда казалось, что у тебя очень красивое\nимя.\n<PAGE>\n<WINDOW_HEART_R>С первой встречи какая-то часть меня, кажется,\nверила, что однажды мы будем вместе."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_GOODBYE_000",
+   "key": "48b13e81",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЧто ж... Полагаю, у нас ещё есть дела, верно?\n<PAGE>\nНо, прошу, позволь проводить тебя домой."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_GOODBYE_001",
+   "key": "1b769e2f",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nНе хочется с тобой расставаться, но, похоже,\nвыбора нет.\n<PAGE>\n<FACE_LAUGH>Давай скоро увидимся снова! Сегодня, завтра,\nпослезавтра и после-послезавтра... До встречи!"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_NO_000",
+   "key": "69bac9e4",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_SAD>\r\nПонятно... Как жаль. Для меня, по крайней\nмере.\n<PAGE>\nПохоже, моим чувствам суждено остаться без\nответа. Но я смог их выразить, так что ни о\nчём не жалею."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4B_NO_001",
+   "key": "dd86f614",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЕсли ты не против, я надеюсь, мы останемся\nдрузьями.\n<PAGE>\nСпасибо. А теперь прошу меня извинить, мне\nпора."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_COMMENT_000",
+   "key": "e825b42d",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЭй! Можно с тобой немного поговорить?\n<PAGE>\nХочу кое-что сказать, а то не даёт покоя."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_COMMENT_003",
+   "key": "5797ab66",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nА, ну ладно. Не бери в голову. Э-э... Может, в\nдругой раз."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_COMMENT_004",
+   "key": "d8a508a9",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Есть тут местечко поукромнее, где\nможно поговорить?"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_ILOVEYOU_000",
+   "key": "bf5931da",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТак вот, помнишь, как ты помогала мне\nрепетировать реплики для спектакля?\n<PAGE>\nТогда я списал всё на то, что слишком вжился в\nроль...\n<PAGE>\n<FACE_LOVE>Но если честно, я вовсе не играл. Я имел в виду\nкаждое слово.\n<PAGE>\nВ смысле, каждая реплика точно описывала то,\nчто я к тебе чувствую."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_ILOVEYOU_001",
+   "key": "fc412458",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nА потом, когда после страшилок ты боялась\nидти домой одна, мне хотелось тебя\nуспокоить.\n<PAGE>\nА когда ты сказала, что я круто выгляжу за\nработой, меня будто током зарядило ― весь\nдень был на седьмом небе.\n<PAGE>\nДа что там, даже сейчас, пока я с тобой\nговорю, сердце колотится как бешеное.\nСмотри! Руки трясутся!"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_ILOVEYOU_002",
+   "key": "ee058309",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nМожет, это не очень круто выглядит, но рядом\nс тобой я так волнуюсь, что ничего не могу\nподелать. Вот как сильно я тебя люблю.\n<PAGE>\nДа я люблю тебя больше всех! Так что,\nпожалуйста, будешь моей девушкой?"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_ANSWER_000",
+   "key": "73b010bc",
+   "ru": "(Что ему ответить?)"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_ANSWER_001",
+   "key": "0a49094d",
+   "ru": "Я тоже тебя люблю"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_ANSWER_002",
+   "key": "da60f893",
+   "ru": "Кажется, я не готова..."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_YES_000",
+   "key": "51b5cfaf",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nДа!! Да, да, да-а-а!! Ю-ху-у-у! Ох, как я\nсейчас счастлив!!\n<PAGE>\nЗначит, мы теперь пара, да?! Это так круто!\nХочу кричать об этом с крыш и всем\nрассказать!\n<PAGE>\nСпасибо, <_____MYNAME_____>. Ты даже не представляешь, как я\nсчастлив. Ну, может, представляешь... В\nобщем, я суперсчастлив!"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_NAME_INPUT_000",
+   "key": "2aefc813",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<ACTION_RIBBON>Обещаю, теперь я буду стараться ещё больше!\nНа работе, на репетициях... и ради тебя.\n<PAGE>\nХочу быть тем, кого ты с гордостью будешь\nназывать своим парнем!\n<PAGE>\nТак вот... Раз мы официально пара, я подумал,\nчто мог бы придумать тебе прозвище..."
+  },
+  {
    "n": 85,
    "f": 2,
    "id": "MES_EV_LOVE_J_APPRENTICE_4B_NAME_INPUT_001",
@@ -98,6 +553,13 @@
    "id": "MES_EV_LOVE_J_APPRENTICE_4B_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_NAME_INPUT_OK_000",
+   "key": "c07aee98",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗначит, звать тебя <BLUE><____NICKNAME____></BLUE>?"
   },
   {
    "n": 88,
@@ -114,6 +576,125 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_NAME_CHANGE_000",
+   "key": "450a6bb7",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nКласс! Отныне буду звать тебя <____NICKNAME____>.\n<PAGE>\n<FACE_LAUGH>И каждый раз, когда я так скажу, ты будешь\nзнать, как сильно я тебя люблю, ладно?"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_NAME_CHANGE_001",
+   "key": "83364f22",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nБез проблем! Для меня ты так и останешься <_____MYNAME_____>!\n<PAGE>\n<FACE_LOVE>Но теперь, когда я это говорю, для меня это\nбудет звучать по-особенному, ладно?"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_GOODBYE_000",
+   "key": "2c41e171",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nВ общем, у нас, наверное, есть дела, да?\nПойдём. Провожу тебя до дома.\n<PAGE>\nЕсли подумать, я не провожал тебя с той ночи\nсо страшилками.\n<PAGE>\n<FACE_LAUGH>Может, в этот раз будем идти подольше, чем\nтогда? Хочу побыть с тобой как можно\nдольше."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_GOODBYE_001",
+   "key": "bcd770d4",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nНу вот и пришли. Сегодня был нервный денёк,\nа? Если ты устала так же, как я, отдохни,\nладно?\n<PAGE>\n<FACE_LAUGH>Отныне я с радостью провожу тебя куда\nугодно. Да и вообще сделаю что угодно!"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_NO_000",
+   "key": "49808890",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nОх... Ладно. Я понимаю.\n<PAGE>\nПрости, что всё стало так неловко. Но... э-э...\nспасибо хотя бы, что выслушала."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4B_NO_001",
+   "key": "43d8b1f8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nВидно, придётся двигаться дальше, а?\n<PAGE>\nНадеюсь, мы останемся друзьями и будем\nвеселиться вместе, как раньше.\n<PAGE>\nНу, мне, пожалуй, пора. Пока."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_COMMENT_000",
+   "key": "740562f2",
+   "ru": "Алоха, <_____MYNAME_____>! Можно с тобой немного поговорить?\n<PAGE>\nМне кажется, я должен тебе кое-что сказать."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_COMMENT_003",
+   "key": "2b4a25c7",
+   "ru": "Ой, прости. Не вовремя я. Может, позже, а?"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_COMMENT_004",
+   "key": "1c0ed01a",
+   "ru": "Махало. Пойдём туда, где попросторнее,\nладно?"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_ILOVEYOU_000",
+   "key": "eb2d1254",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТак... Как бы объяснить?\n<PAGE>\nКогда мы познакомились, мне казалось, что у\nменя появилась новая младшая сестрёнка ―\nпополнение в моей охане.\n<PAGE>\nТо, что мне хотелось тебя опекать и что с\nтобой так легко говорить... я всё списывал на\nто, что ты охана.\n<PAGE>\n<FACE_LOSS>Но, э-э... Похоже, я ошибался."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_ILOVEYOU_001",
+   "key": "229f41db",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nПомнишь, что я сказал тебе тогда?\n<PAGE>\nТы зашла ко мне и простодушно наговорила\nвсякого, а я сказал быть осторожнее, а то\nпарень может что-то себе вообразить?\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_R>Так вот, к тому времени я уже был в тебя\nвлюблён.\n<PAGE>\nТы больше не была для меня оханой... ты\nбыла чудесной, прекрасной, привлекательной\nдевушкой."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_ILOVEYOU_002",
+   "key": "f731c0fe",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nИ всё же мои чувства не давали мне права так\nна тебя наседать.\n<PAGE>\nЗа это прошу прощения. Э кала маи.\n<PAGE>\n<FACE_NORMAL><WINDOW_PALPITATION_R>Но это не меняет того, что у меня на сердце...\n<PAGE>\n<_____MYNAME_____>, я тебя люблю. Пожалуйста, будь моей\nдевушкой."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_ANSWER_000",
+   "key": "73b010bc",
+   "ru": "(Что ему ответить?)"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_ANSWER_001",
+   "key": "0a49094d",
+   "ru": "Я тоже тебя люблю"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_ANSWER_002",
+   "key": "da60f893",
+   "ru": "Кажется, я не готова..."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_YES_000",
+   "key": "2a3ee6d1",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PALPITATION_R>Правда...? Я ведь не сплю?\n<PAGE>\nХвала духам. Я так рад.\n<PAGE>\nЗначит, мы теперь пара, да?\n<PAGE>\nМахало, <_____MYNAME_____>. Обещаю, я сделаю всё, чтобы ты\nбыла счастлива."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_NAME_INPUT_000",
+   "key": "fa4258cd",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<ACTION_RIBBON>О, знаешь что?\n<PAGE>\nМожет, прозвучит глупо, но что если у меня\nбудет для тебя особое прозвище? Которое\nмогу говорить только я?\n<PAGE>\nЧто скажешь?"
+  },
+  {
    "n": 109,
    "f": 2,
    "id": "MES_EV_LOVE_S_CRAFTMAN_4B_NAME_INPUT_001",
@@ -126,6 +707,13 @@
    "id": "MES_EV_LOVE_S_CRAFTMAN_4B_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_NAME_INPUT_OK_000",
+   "key": "b687d239",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗначит... тебе нравится <BLUE><____NICKNAME____></BLUE>, да?"
   },
   {
    "n": 112,
@@ -142,6 +730,139 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_NAME_CHANGE_000",
+   "key": "17fc4712",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nМне нравится. Теперь ты моя <____NICKNAME____>."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_NAME_CHANGE_001",
+   "key": "bf9a1c6e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПросто твоё обычное имя? Конечно."
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_GOODBYE_000",
+   "key": "f0ce020a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, как ни приятно было, пора, наверное,\nвозвращаться к делам, да? У меня ещё работа\nна сегодня.\n<PAGE>\nПойдём. Провожу тебя домой."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_GOODBYE_001",
+   "key": "6b4ac349",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>\r\nМы уже пришли. Клянусь, сегодня дорога\nпролетела быстрее обычного...\n<PAGE>\nОх. Отпускать тебя уже трудно. Может, я не\nтакой дисциплинированный, как думал!\n<PAGE>\n<FACE_LAUGH>В общем... С нетерпением жду новой встречи.\nАлоха вау иа оэ!"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_NO_000",
+   "key": "a389a1d1",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nА. Понимаю.\n<PAGE>\nЭ кала маи. Видно, такое мне стоило оставить\nпри себе, да? Просто... забудь, что я сказал,\nладно?"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4B_NO_001",
+   "key": "0cfa8343",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nЭй, только не жалей меня. Я в порядке.\n<PAGE>\nВ общем... иди-ка ты домой. У меня, э-э,\nдела. Ещё увидимся."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_COMMENT_000",
+   "key": "1ccfd284",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПривет. Прости, что вот так неожиданно, но\nмне нужно с тобой кое о чём поговорить.\n<PAGE>\nУ тебя... эм... найдётся пара минут?"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_COMMENT_001",
+   "key": "e6e6212a",
+   "ru": "Конечно!"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_COMMENT_002",
+   "key": "a5b54a58",
+   "ru": "Прости, сейчас много дел."
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_COMMENT_003",
+   "key": "32e4c907",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОй... Понятно. Прости, что побеспокоила."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_COMMENT_004",
+   "key": "bd0dc846",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОх, слава богу! Ты не против пройти туда, где\nпоменьше людей?"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_ILOVEYOU_000",
+   "key": "d3ff4134",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nДолжна сказать... я всегда немножко\nнервничаю, когда говорю с тобой.\n<PAGE>\nЯ нечасто общаюсь с приезжими, вот и думала,\nчто дело в этом и что всё пройдёт, когда я\nтебя узнаю.\n<PAGE>\nНо... я ошибалась. Я всюду провожаю тебя\nвзглядом, и даже сейчас сердце колотится как\nсумасшедшее.\n<PAGE>\nЭти чувства стали такими сильными, что стоит\nувидеть, как ты говоришь с другой девушкой,\n― будто шип вонзается в сердце."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_ILOVEYOU_001",
+   "key": "016d88b5",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nДля меня это всё так ново и непривычно.\nСначала я не понимала, что это за чувства.\n<PAGE>\nНо теперь я точно знаю.\n<PAGE>\nЯ долго гадала, скрыть их или сказать тебе\nправду... так что... Батюшки, ну, была не была."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_ILOVEYOU_002",
+   "key": "8db9fdf1",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, я тебя люблю.\n<PAGE>\nЯ хочу быть для тебя кем-то особенным.\n<PAGE>\nНе просто подругой. Хочу быть твоей\nдевушкой и всегда быть с тобой.\n<PAGE>\nЕсли ты, конечно, не против..."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_ANSWER_000",
+   "key": "2e1c4b49",
+   "ru": "(Что ей ответить?)"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_ANSWER_001",
+   "key": "ee978f82",
+   "ru": "Я тоже тебя люблю!"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_ANSWER_002",
+   "key": "da60f893",
+   "ru": "Кажется, я не готов..."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_YES_000",
+   "key": "54ee5e62",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nТы... чувствуешь ко мне то же самое?!\n<PAGE>\nОх, батюшки! Сердце так колотится...! Как я\nрада, что набралась смелости сказать тебе.\n<PAGE>\nЯ так счастлива, что мы сможем быть вместе.\nНе хочу никогда с тобой расставаться."
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_NAME_INPUT_000",
+   "key": "e790d205",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n<ACTION_RIBBON>Это правда только что случилось, да? Мы\nтеперь пара. Ох, батюшки, будто во сне!\n<PAGE>\n<FACE_LAUGH>Так... раз мы теперь пара, хочешь, я буду звать\nтебя по особому прозвищу?\n<PAGE>\n<FACE_NORMAL>Это ведь так... по-парному, правда?"
+  },
+  {
    "n": 133,
    "f": 2,
    "id": "MES_EV_LOVE_A_FLORIST_4B_NAME_INPUT_001",
@@ -154,6 +875,13 @@
    "id": "MES_EV_LOVE_A_FLORIST_4B_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_NAME_INPUT_OK_000",
+   "key": "2ab05374",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЗначит, тебе нравится <BLUE><____NICKNAME____></BLUE>?"
   },
   {
    "n": 136,
@@ -170,6 +898,139 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 138,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_NAME_CHANGE_000",
+   "key": "742b43a2",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nТеперь ты мой милый <____NICKNAME____>, хорошо?\n<PAGE>\n<FACE_LAUGH>Батюшки, от одной мысли, что я буду так тебя\nзвать, я ужасно краснею. Хи-хи."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_NAME_CHANGE_001",
+   "key": "c488726f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЗначит, оставим обычное имя? Хорошо.\n<PAGE>\n<FACE_LAUGH>Батюшки, пора бы уже привыкнуть произносить\nтвоё имя, но сейчас от одной мысли об этом я\nужасно краснею."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_GOODBYE_000",
+   "key": "b95ed89b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПожалуй, пора возвращаться в город, да?\n<PAGE>\nУ тебя наверняка ещё много дел на сегодня.\n<PAGE>\nНо я так рада, что ты нашёл время для этого\nразговора."
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_GOODBYE_001",
+   "key": "1d8a259a",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nСпасибо, что проводил меня.\n<PAGE>\nОх, батюшки, никак не могу перестать\nулыбаться. Всё ещё как во сне.\n<PAGE>\nИ... эм... в следующий раз давай устроим\nсвидание. Береги себя!"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_NO_000",
+   "key": "af60597d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<FACE_SAD>Ох...\n<PAGE>\nПонятно. Прости... Надеюсь, тебе было не\nслишком неловко."
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4B_NO_001",
+   "key": "da8c8141",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПожалуйста, не переживай, ладно? Надеюсь...\nнадеюсь, мои слова не будут тебя слишком\nтревожить.\n<PAGE>\nМожно попросить тебя вернуться без меня? Ты\nне из тех, кто оставляет даму одну, но...\n<PAGE>\n...мне хочется побыть здесь ещё немного...\nразобраться в своих чувствах. Ладно?"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_COMMENT_000",
+   "key": "24e2cc3b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЭй! Надеюсь, я не помешала. Есть минутка?\n<PAGE>\nЯ... э-э... хочу с тобой кое о чём поговорить."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_COMMENT_001",
+   "key": "e6e6212a",
+   "ru": "Конечно!"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_COMMENT_002",
+   "key": "a5b54a58",
+   "ru": "Прости, сейчас много дел."
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_COMMENT_003",
+   "key": "a623890d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nА, ну ладно. Видно, придётся подождать.\n<PAGE>\n<FACE_LAUGH>Поговорим, когда освободишься, ладно?"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_COMMENT_004",
+   "key": "e9bc52bb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nКласс! Пойдём. Найдём место, где никого нет."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_ILOVEYOU_000",
+   "key": "ad621a08",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nПомнишь, как Сидзу давала мне уроки, как\nбыть поженственнее?\n<PAGE>\nМогло бы, знаешь, пройти и получше, но тогда\nмне было как-то всё равно.\n<PAGE>\nА в последнее время я думаю, что хочу стать\nчуточку девчачьей... особенно для тебя.\n<PAGE>\nСтранно, да? Никто раньше не заставлял меня\nтак думать, и это ужасно сбивало с толку!"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_ILOVEYOU_001",
+   "key": "72b57baa",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nТогда я и начала понимать, что, когда ты\nрядом, сердце у меня бьётся чуточку быстрее.\n<PAGE>\nЯ, конечно, не мисс Утончённость, но даже я\nпоняла, что это значит.\n<PAGE>\n<FACE_NORMAL>Я всё думала, говорить тебе или нет...\n<PAGE>\n...но решила, что лучше выложу всё как есть,\nпока не пожалела."
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_ILOVEYOU_002",
+   "key": "c21946a9",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>... я тебя люблю! Знаю, я не самая женственная\nдевушка на свете...\n<PAGE>\n...но я знаю, что могу любить тебя и\nзаботиться о тебе больше всех.\n<PAGE>\nОтныне я не хочу быть просто другом, а хочу\nбыть твоей самой настоящей девушкой!\n<PAGE>\nБудешь со мной встречаться...?"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_ANSWER_000",
+   "key": "2e1c4b49",
+   "ru": "(Что ей ответить?)"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_ANSWER_001",
+   "key": "0a49094d",
+   "ru": "Я тоже тебя люблю"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_ANSWER_002",
+   "key": "da60f893",
+   "ru": "Кажется, я не готов..."
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_YES_000",
+   "key": "bf69e3fe",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nЧего-о-о?! Ты чувствуешь то же самое?!\n<PAGE>\nП-правда...? У-у-ух ты...!\n<PAGE>\nЗначит, это “да”, верно, <_____MYNAME_____>?\n<PAGE>\n<FACE_LAUGH>Ты был отличным другом, но отныне мы с\nтобой пара! Я буду о тебе хорошо заботиться,\nобещаю."
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_NAME_INPUT_000",
+   "key": "65259066",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\n<ACTION_RIBBON>Ой, э-э, <_____MYNAME_____>? Что скажешь, если я дам тебе\nпрозвище?\n<PAGE>\n<FACE_LOVE>Ну, случай-то особый... да и мне всегда\nнравилась эта идея. Ну как?"
+  },
+  {
    "n": 157,
    "f": 2,
    "id": "MES_EV_LOVE_J_TEAGIRL_4B_NAME_INPUT_001",
@@ -182,6 +1043,13 @@
    "id": "MES_EV_LOVE_J_TEAGIRL_4B_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_NAME_INPUT_OK_000",
+   "key": "d422b83f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак... тебе нравится <BLUE><____NICKNAME____></BLUE>?"
   },
   {
    "n": 160,
@@ -198,6 +1066,125 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 162,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_NAME_CHANGE_000",
+   "key": "4718efae",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nКласс! Отныне буду звать тебя <____NICKNAME____>!\n<PAGE>\n<FACE_LOVE>Ой... э-э... это имя только для меня, да?\nПроизносить его как-то... по-особенному."
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_NAME_CHANGE_001",
+   "key": "a3476dbd",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nБез проблем! Обычное имя так обычное имя!\n<PAGE>\n<FACE_LOVE>Мне и просто <_____MYNAME_____> будет трудно сказать, не\nпокраснев."
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_GOODBYE_000",
+   "key": "e886ca19",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНе хочется, чтобы этот момент кончался, но\nнадо бы возвращаться, а?\n<PAGE>\nУ тебя наверняка ещё дела. Но хотя бы\nобратно-то пойдём вместе, правда?"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_GOODBYE_001",
+   "key": "38b421e5",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\n<FACE_LOVE>Спасибо, что проводил. Честно говоря, я бы\nхотела, чтобы ты остался...\n<PAGE>\n<FACE_LAUGH>...но ты ведь не навсегда уходишь! Завтра\nснова увидимся.\n<PAGE>\nЯ... э-э... не терпится узнать тебя ещё лучше.\nХи-хи! Пока!"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_NO_000",
+   "key": "5c20c251",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОх. Кажется, я немножко поторопилась, да?\n<PAGE>\nПрости, что вывалила это на тебя ни с того ни\nс сего. Можешь просто забыть."
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4B_NO_001",
+   "key": "3793c2cc",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nДа ладно, <_____MYNAME_____>. Не грусти из-за меня. И спасибо\nхотя бы, что выслушал.\n<PAGE>\n<FACE_SAD>Прости, но... можешь оставить меня одну?\n<PAGE>\nМне надо немного успокоиться, прежде чем\nвозвращаться. Иди без меня."
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_COMMENT_000",
+   "key": "c7a3e40b",
+   "ru": "Прошу прощения, <_____MYNAME_____>. Я хотела бы кое-что с\nтобой обсудить.\n<PAGE>\nМожно поговорить?"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_COMMENT_003",
+   "key": "49107afa",
+   "ru": "Хм. Понятно. Прошу прощения за беспокойство."
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_COMMENT_004",
+   "key": "5c7f81c4",
+   "ru": "Очень хорошо. Ты не против поговорить\nгде-нибудь в более уединённом месте?"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_ILOVEYOU_000",
+   "key": "077d9ef1",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>.\n<PAGE>\nУверена, мне не нужно напоминать, но я не\nлюблю мужчин.\n<PAGE>\nДля меня мужчины всегда были грубыми,\nдикими, непостижимыми созданиями.\n<PAGE>\nЯ никогда не считала их достойными времени и\nсил, чтобы узнать поближе.\n<PAGE>\n<FACE_LAUGH>Но ты другой."
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_ILOVEYOU_001",
+   "key": "1dc6f901",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nКогда пропала Сумомо... Когда я потеряла\nсвою книгу хайку...\n<PAGE>\nТы бескорыстно пришёл мне на помощь, без\nединого грубого слова или скрытых мотивов.\n<PAGE>\nЯ давно велела себе не улыбаться при\nмужчинах, чтобы они ничего себе не\nвообразили...\n<PAGE>\n...но рядом с тобой мне правда хотелось\nулыбаться от чистой радости.\n<PAGE>\nДо встречи с тобой я ни разу не смеялась при\nмужчине, кроме отца.\n<PAGE>\nКогда я окончательно поверила, что ты\nдостоин моего доверия...\n<PAGE>\nНет. Достоин того, чтобы отдать тебе сердце...\n<PAGE>\n<FACE_LOVE>...тогда я и поняла, что влюблена."
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_ILOVEYOU_002",
+   "key": "e463ba3a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R><_____MYNAME_____>... я в тебя влюблена.\n<PAGE>\nНе мог бы ты принять меня как свою\nспутницу...\n<PAGE>\n...как свою девушку?\n<PAGE>\n<FACE_LAUGH>Твоя терпеливая доброта растопила глыбу\nльда, которой было моё сердце.\n<PAGE>\nТеперь я хочу быть рядом с тобой и вернуть\nтебе всё, что ты мне дал."
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_ANSWER_000",
+   "key": "2e1c4b49",
+   "ru": "(Что ей ответить?)"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_ANSWER_001",
+   "key": "0a49094d",
+   "ru": "Я тоже тебя люблю"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_ANSWER_002",
+   "key": "da60f893",
+   "ru": "Кажется, я не готов..."
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_YES_000",
+   "key": "00b3aa26",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЯ едва смела надеяться, что ты чувствуешь ко\nмне то же самое...\n<PAGE>\n...\n<PAGE>\nСтранно. Я столько раз представляла эту\nситуацию...\n<PAGE>\n<FACE_LOVE>...а теперь, когда этот момент настал, не могу\nподобрать слов.\n<PAGE>\nПолагаю, уместно сказать “спасибо”. Понимаю,\nсо мной порой... непросто, но я сделаю всё,\nчтобы не причинить тебе зла."
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_NAME_INPUT_000",
+   "key": "17c5d5a0",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n<ACTION_RIBBON>Однако признаюсь, в делах сердечных у меня\nсовершенно нет опыта.\n<PAGE>\nЯ совершенно серьёзно: я понятия не имею о\nправилах и формах поведения настоящей пары.\n<PAGE>\nОднако, думаю, было бы мило дать тебе\nособое прозвище."
+  },
+  {
    "n": 181,
    "f": 2,
    "id": "MES_EV_LOVE_J_TEACHER_4B_NAME_INPUT_001",
@@ -210,6 +1197,13 @@
    "id": "MES_EV_LOVE_J_TEACHER_4B_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_NAME_INPUT_OK_000",
+   "key": "77b11e97",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nТы хочешь, чтобы тебя звали <BLUE><____NICKNAME____></BLUE>, верно?"
   },
   {
    "n": 184,
@@ -226,6 +1220,125 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 186,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_NAME_CHANGE_000",
+   "key": "edd04b36",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Отныне я буду звать тебя <____NICKNAME____>."
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_NAME_CHANGE_001",
+   "key": "9f5d9c38",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПредпочитаешь, чтобы я звала тебя по имени?\nПоняла."
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_GOODBYE_000",
+   "key": "cc0a0403",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nИтак. Мне пора идти. У меня на сегодня ещё\nесть дела.\n<PAGE>\nХотя, признаюсь... расставаться с тобой не\nхочется."
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_GOODBYE_001",
+   "key": "f5331c75",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nБольшое спасибо, что проводил меня.\n<PAGE>\nВ последнее время я много ночей не спала,\nпытаясь разобраться в своих чувствах...\n<PAGE>\n<FACE_LOVE>...но сегодня, полагаю, мне не дадут уснуть\nсовсем другие причины."
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_NO_000",
+   "key": "fe3ec17e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nПонятно.\n<PAGE>\n<FACE_NORMAL>Пожалуй, мне не стоило надеяться."
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4B_NO_001",
+   "key": "fdda6ab4",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nНадеюсь, это не испортит твоего впечатления\nобо мне.\n<PAGE>\nЕсли вспомнить, как я к тебе относилась, такой\nответ вполне разумен.\n<PAGE>\n<FACE_SAD>Но... мне жаль.\n<PAGE>\nМожно попросить тебя оставить меня на\nминутку? Мне нужно собраться с мыслями."
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_COMMENT_000",
+   "key": "8bc9bcfa",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>! У тебя ведь найдётся для меня время?\n<PAGE>\nМне надо с тобой немного поговорить."
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_COMMENT_003",
+   "key": "51998821",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧто? Серьёзно?! Ну и ладно. Поговорим\nкак-нибудь в другой раз."
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_COMMENT_004",
+   "key": "a2bb469e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТак и знала! Тогда пойдём куда-нибудь, где\nникого нет, ладно?"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_ILOVEYOU_000",
+   "key": "7886d591",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nСкажу честно.\n<PAGE>\nТы меня бесишь."
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_ILOVEYOU_001",
+   "key": "b4aa59d5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nТы без предупреждения ворвался в мою\nспокойную, уютную жизнь и всё перевернул.\nВсё!\n<PAGE>\nТеперь из-за тебя я каждый день как на\nиголках, пока тебя не увижу!\n<PAGE>\n<FACE_SAD>Не могу спать по ночам, потому что думаю о\nтебе. Ты лезешь мне в голову, даже когда я\nмолюсь!\n<PAGE>\nИ это не прекращается! Из-за тебя моя жизнь\n― полная катастрофа. Катастрофа!\n<PAGE>\nА ты стоишь тут как ни в чём не бывало с этой\nдурацкой физиономией!\n<PAGE>\n<FACE_ANGRY>Это ты заставил меня в тебя влюбиться! Как ты\nсмеешь стоять и делать вид, что ничего не\nпонимаешь?!"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_ILOVEYOU_002",
+   "key": "40dda509",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nНеужели не понимаешь? Ты перевернул мою\nжизнь с ног на голову!\n<PAGE>\nТак что... эм... Т-ты должен взять\nответственность за то, что я по тебе с ума\nсхожу!\n<PAGE>\nЭм... Иными словами...\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_R>Ты должен стать моим парнем!"
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_ANSWER_000",
+   "key": "2e1c4b49",
+   "ru": "(Что ей ответить?)"
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_ANSWER_001",
+   "key": "ee978f82",
+   "ru": "Я тоже тебя люблю!"
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_ANSWER_002",
+   "key": "52366574",
+   "ru": "Я просто не готов..."
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_YES_000",
+   "key": "0f5ddfef",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nЧто?! Правда...?!\n<PAGE>\n<FACE_SAD>Н-но...\n<PAGE>\nТ-ты уверен? Не обещаю, что не буду тобой\nкомандовать, обзываться или снова рыть ямы,\nчтобы ты в них падал.\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_R>Тебе правда нужна такая девушка...?\n<PAGE>\nУх ты... Видно, ты и правда меня любишь, да?\nМахало, <_____MYNAME_____>."
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_NAME_INPUT_000",
+   "key": "3eae2765",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\n<ACTION_RIBBON>Будь со мной, ладно? Будь со мной и сделай\nменя счастливой.\n<PAGE>\nТогда и я сделаю всё, чтобы ты был счастлив.\nДаже если ты сводишь меня с ума.\n<PAGE>\n<FACE_LAUGH>В общем...\n<PAGE>\nМы ведь теперь пара, да?\n<PAGE>\nБыло бы, наверное, мило, если бы у тебя было\nособое прозвище. Как думаешь?"
+  },
+  {
    "n": 205,
    "f": 2,
    "id": "MES_EV_LOVE_S_TWINOLDER_4B_NAME_INPUT_001",
@@ -238,6 +1351,13 @@
    "id": "MES_EV_LOVE_S_TWINOLDER_4B_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_NAME_INPUT_OK_000",
+   "key": "c1719b07",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, <BLUE><____NICKNAME____></BLUE> тебя устраивает?"
   },
   {
    "n": 208,
@@ -254,6 +1374,125 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 210,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_NAME_CHANGE_000",
+   "key": "8301baf4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Теперь буду звать тебя <____NICKNAME____>. Хотя...\nговорить это немного неловко."
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_NAME_CHANGE_001",
+   "key": "f07bd597",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПросто обычное имя? Ну, пожалуй, я не\nпротив."
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_GOODBYE_000",
+   "key": "9beddbe0",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВ общем, пора, наверное, обратно, а? У меня\nвсё равно ещё дела сегодня.\n<PAGE>\nТы ведь меня проводишь, да? По дороге ещё\nпоговорим."
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_GOODBYE_001",
+   "key": "d50c6f2a",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nОй, мы уже вернулись?\n<PAGE>\nЧто ж, надо рассказать новость бабуле... Нет,\nсначала Силуке. Потом бабуле.\n<PAGE>\n<FACE_LOVE>Кстати... Даже если ты теперь мой парень... не\nзазнавайся.\n<PAGE>\nА, и не болтай об этом по всему городу. Это\nнеловко.\n<PAGE>\nДо встречи...!"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_NO_000",
+   "key": "232220a1",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\n...\n<PAGE>\n...\n<PAGE>\nХмф. Ладно."
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4B_NO_001",
+   "key": "c0cf0c32",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nЗнаешь, ты, наверное, единственный на\nпланете, у кого хватает наглости оставаться\nравнодушным после такого признания.\n<PAGE>\nНе хочу ничего слышать. Иди. Уходи. Кыш. Я\nтут побуду, и ты мне здесь не нужен."
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_COMMENT_000",
+   "key": "66de8407",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПрости, что беспокою. Можно поговорить?"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_COMMENT_003",
+   "key": "59d793dd",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nОх... Тогда, может, позже."
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_COMMENT_004",
+   "key": "055d648b",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМахало. Можно пойти туда, где никого нет?"
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_ILOVEYOU_000",
+   "key": "8e2a642f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>.\n<PAGE>\nЯ... не очень люблю разговаривать.\n<PAGE>\nОбычно рядом Илука, так что это неважно.\n<PAGE>\nЕсли кто-то хочет со мной поговорить, она\nможет поговорить вместо меня. Так было\nвсегда.\n<PAGE>\nДаже сейчас разговоры с незнакомыми людьми\nменя волнуют."
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_ILOVEYOU_001",
+   "key": "0eaacbf7",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nНо... с тобой я не против разговаривать. Даже\nкогда мы только познакомились, я не\nволновалась.\n<PAGE>\nС тобой можно было дремать, и мне было\nспокойно. Помогать тебе в лавке Каолилы\nбыло весело.\n<PAGE>\nЯ думала, почему так. Потом поняла.\n<PAGE>\nНаверное, потому что ты как солнце.\n<PAGE>\nРядом с тобой всем тепло и хорошо.\n<PAGE>\nПоэтому ты так нравишься людям.\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_R>И мне тоже."
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_ILOVEYOU_002",
+   "key": "d864d49b",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Не знаю, когда это случилось. Просто\nоднажды... я поняла, что влюблена.\n<PAGE>\nДремать вместе. Есть вместе.\n<PAGE>\nДаже разговаривать с незнакомцами, кажется,\nможет быть весело, если ты рядом.\n<PAGE>\nЯ мало знаю о любви, но знаю, что хочу быть с\nтобой.\n<PAGE>\nМожно?"
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_ANSWER_000",
+   "key": "2e1c4b49",
+   "ru": "(Что ей ответить?)"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_ANSWER_001",
+   "key": "ee978f82",
+   "ru": "Я тоже тебя люблю!"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_ANSWER_002",
+   "key": "da60f893",
+   "ru": "Кажется, я не готов..."
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_YES_000",
+   "key": "6bd0c7f8",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nП-правда...?\n<PAGE>\n<FACE_LAUGH>Ты... Правда...!\n<PAGE>\nЯ очень рада. Хорошо, что я набралась\nсмелости спросить.\n<PAGE>\nЯ выгляжу спокойной? Это не так.\n<PAGE>\nСердце колотится...\n<PAGE>\nКажется, я потеряла пару лет жизни. Хи-хи.\n<PAGE>\nЯ рада, что мы будем парой, <_____MYNAME_____>. Мне нравится\nбыть с тобой."
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_NAME_INPUT_000",
+   "key": "cccbcf15",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<ACTION_RIBBON>Значит... отныне... мы будем вместе. Всегда.\n<PAGE>\nКогда я с тобой, мне всегда тепло и хорошо.\n<PAGE>\nОй...\n<PAGE>\nИмена. Хочешь оставить прежнее?\n<PAGE>\nИли дать тебе новое, особенное имя?\n<PAGE>\nКак тебе больше нравится?"
+  },
+  {
    "n": 229,
    "f": 2,
    "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_NAME_INPUT_001",
@@ -268,6 +1507,13 @@
    "ru": "Прозвище не нужно"
   },
   {
+   "n": 231,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_NAME_INPUT_OK_000",
+   "key": "94ec336e",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЗначит... <BLUE><____NICKNAME____></BLUE>...?"
+  },
+  {
    "n": 232,
    "f": 2,
    "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_NAME_INPUT_OK_001",
@@ -280,6 +1526,48 @@
    "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_NAME_INPUT_OK_002",
    "key": "528ab024",
    "ru": "Хотя нет..."
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_NAME_CHANGE_000",
+   "key": "eca5d483",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Буду звать тебя <____NICKNAME____>.\n<PAGE>\nЭто особенное имя. Только я могу так\nговорить.\n<PAGE>\nОт него тоже тепло на душе."
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_NAME_CHANGE_001",
+   "key": "a6bdd162",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Тогда я по-прежнему буду звать тебя\n<_____MYNAME_____>..."
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_GOODBYE_000",
+   "key": "794bf8ff",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНам пора обратно. Илука будет волноваться.\n<PAGE>\nПроводишь меня...?"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_GOODBYE_001",
+   "key": "963d2222",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nМы вернулись.\n<PAGE>\nЯ рада, что мы шли вместе. Махало.\n<PAGE>\n<FACE_LOVE>Не хочу, чтобы ты уходил, но... наверное,\nнадо. Пока что.\n<PAGE>\n<_____MYNAME_____>... До скорой встречи...!"
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_NO_000",
+   "key": "12752285",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\n...\n<PAGE>\nОх... Хорошо."
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4B_NO_001",
+   "key": "8befd500",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nНичего. Это твоё решение.\n<PAGE>\nЯ останусь здесь. Можешь идти домой...\nПрощай..."
   }
  ]
 }

@@ -2,6 +2,20 @@
  "file": "Love_4D",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4D_COMMENT_000",
+   "key": "b375b72c",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу вот. Думаю, сюда никто случайно не\nзабредёт. Так... что у тебя на уме?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4D_ILOVEYOU_000",
+   "key": "1eb06b68",
+   "ru": "(Как бы это сказать...?)"
+  },
+  {
    "n": 8,
    "f": 2,
    "id": "MES_EV_LOVE_A_POSTMAN_4D_NAME_INPUT_001",
@@ -14,6 +28,13 @@
    "id": "MES_EV_LOVE_A_POSTMAN_4D_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_4D_NAME_INPUT_OK_000",
+   "key": "4c48f4f9",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗначит, называть тебя <BLUE><____NICKNAME____></BLUE>?"
   },
   {
    "n": 11,
@@ -30,6 +51,20 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4D_COMMENT_000",
+   "key": "2f9332e4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nДа... Думаю, здесь нам никто не помешает.\n<PAGE>\nИтак... что ты собиралась мне сказать?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4D_ILOVEYOU_000",
+   "key": "1eb06b68",
+   "ru": "(Как бы это сказать...?)"
+  },
+  {
    "n": 25,
    "f": 2,
    "id": "MES_EV_LOVE_A_DOCTOR_4D_NAME_INPUT_001",
@@ -42,6 +77,13 @@
    "id": "MES_EV_LOVE_A_DOCTOR_4D_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4D_NAME_INPUT_OK_000",
+   "key": "b9eaaebf",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЗначит, <BLUE><____NICKNAME____></BLUE> приемлемо?"
   },
   {
    "n": 28,
@@ -58,11 +100,53 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4D_NAME_CHANGE_000",
+   "key": "4f3c74f3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВ таком случае отныне я буду звать тебя <____NICKNAME____>."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_4D_NAME_CHANGE_001",
+   "key": "5b51252d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПонятно. Предпочитаешь статус-кво? Принято."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4D_COMMENT_000",
+   "key": "cfa1b49e",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nДумаю, здесь мы сможем спокойно поговорить.\nЧто ты хотела мне сказать?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4D_ILOVEYOU_000",
+   "key": "1eb06b68",
+   "ru": "(Как бы это сказать...?)"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4D_NAME_INPUT_001",
+   "key": "ca9266df",
+   "ru": "Прозвище ― это мило"
+  },
+  {
    "n": 43,
    "f": 2,
    "id": "MES_EV_LOVE_J_CHASER_4D_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4D_NAME_INPUT_OK_000",
+   "key": "1818a767",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, звать тебя <BLUE><____NICKNAME____></BLUE>?"
   },
   {
    "n": 45,
@@ -79,6 +163,27 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_4D_NAME_CHANGE_000",
+   "key": "8206d2ae",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЧто ж. <____NICKNAME____>...\n<PAGE>\n<FACE_LOVE><WINDOW_HEART_R>Мы уже чувствуем себя парой, правда?"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4D_COMMENT_000",
+   "key": "4c742531",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТут, пожалуй, хорошо. Похоже, ты хотела\nсказать что-то важное, так что не хочу, чтобы\nнам помешали...\n<PAGE>\nТак! Попробуем ещё раз. Что ты хотела мне\nсказать, <_____MYNAME_____>?"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4D_ILOVEYOU_000",
+   "key": "1eb06b68",
+   "ru": "(Как бы это сказать...?)"
+  },
+  {
    "n": 59,
    "f": 2,
    "id": "MES_EV_LOVE_J_APPRENTICE_4D_NAME_INPUT_001",
@@ -91,6 +196,13 @@
    "id": "MES_EV_LOVE_J_APPRENTICE_4D_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4D_NAME_INPUT_OK_000",
+   "key": "c07aee98",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗначит, звать тебя <BLUE><____NICKNAME____></BLUE>?"
   },
   {
    "n": 62,
@@ -107,6 +219,34 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4D_NAME_CHANGE_000",
+   "key": "450a6bb7",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nКласс! Отныне буду звать тебя <____NICKNAME____>.\n<PAGE>\n<FACE_LAUGH>И каждый раз, когда я так скажу, ты будешь\nзнать, как сильно я тебя люблю, ладно?"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_4D_NAME_CHANGE_001",
+   "key": "83364f22",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nБез проблем! Для меня ты так и останешься <_____MYNAME_____>!\n<PAGE>\n<FACE_LOVE>Но теперь, когда я это говорю, для меня это\nбудет звучать по-особенному, ладно?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4D_COMMENT_000",
+   "key": "957c9d24",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, здесь вроде можно поговорить, да?\n<PAGE>\nДавай ещё раз. Что ты собиралась мне сказать?"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4D_ILOVEYOU_000",
+   "key": "1eb06b68",
+   "ru": "(Как бы это сказать...?)"
+  },
+  {
    "n": 76,
    "f": 2,
    "id": "MES_EV_LOVE_S_CRAFTMAN_4D_NAME_INPUT_001",
@@ -119,6 +259,13 @@
    "id": "MES_EV_LOVE_S_CRAFTMAN_4D_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4D_NAME_INPUT_OK_000",
+   "key": "b687d239",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗначит... тебе нравится <BLUE><____NICKNAME____></BLUE>, да?"
   },
   {
    "n": 79,
@@ -135,6 +282,34 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4D_NAME_CHANGE_000",
+   "key": "17fc4712",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nМне нравится. Теперь ты моя <____NICKNAME____>."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_4D_NAME_CHANGE_001",
+   "key": "bf9a1c6e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПросто твоё обычное имя? Конечно."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4D_COMMENT_000",
+   "key": "3d549f26",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЗдесь, пожалуй, можно поговорить так, чтобы\nникто не мешал.\n<PAGE>\nИтак, что ты хотел сказать?"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4D_ILOVEYOU_000",
+   "key": "1eb06b68",
+   "ru": "(Как бы это сказать...?)"
+  },
+  {
    "n": 93,
    "f": 2,
    "id": "MES_EV_LOVE_A_FLORIST_4D_NAME_INPUT_001",
@@ -147,6 +322,13 @@
    "id": "MES_EV_LOVE_A_FLORIST_4D_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4D_NAME_INPUT_OK_000",
+   "key": "2ab05374",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЗначит, тебе нравится <BLUE><____NICKNAME____></BLUE>?"
   },
   {
    "n": 96,
@@ -163,6 +345,34 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4D_NAME_CHANGE_000",
+   "key": "742b43a2",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nТеперь ты мой милый <____NICKNAME____>, хорошо?\n<PAGE>\n<FACE_LAUGH>Батюшки, от одной мысли, что я буду так тебя\nзвать, я ужасно краснею. Хи-хи."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_4D_NAME_CHANGE_001",
+   "key": "6990e656",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЗначит, оставим обычное имя? Хорошо.\n<PAGE>\n<FACE_LAUGH>Батюшки, пора бы уже привыкнуть произносить\nтвоё имя, но сейчас от одной мысли об этом я\nужасно краснею."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4D_COMMENT_000",
+   "key": "21fc0238",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНу, вряд ли нам тут кто-то помешает.\n<PAGE>\nТак в чём дело?"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4D_ILOVEYOU_000",
+   "key": "1eb06b68",
+   "ru": "(Как бы это сказать...?)"
+  },
+  {
    "n": 110,
    "f": 2,
    "id": "MES_EV_LOVE_J_TEAGIRL_4D_NAME_INPUT_001",
@@ -175,6 +385,13 @@
    "id": "MES_EV_LOVE_J_TEAGIRL_4D_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEAGIRL_4D_NAME_INPUT_OK_000",
+   "key": "d422b83f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак... тебе нравится <BLUE><____NICKNAME____></BLUE>?"
   },
   {
    "n": 113,
@@ -191,6 +408,20 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4D_COMMENT_000",
+   "key": "d3559097",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПолагаю, это достаточно уединённое место.\n<PAGE>\nЕсли не возражаешь, продолжи, пожалуйста,\nто, что начал говорить."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4D_ILOVEYOU_000",
+   "key": "1eb06b68",
+   "ru": "(Как бы это сказать...?)"
+  },
+  {
    "n": 127,
    "f": 2,
    "id": "MES_EV_LOVE_J_TEACHER_4D_NAME_INPUT_001",
@@ -203,6 +434,13 @@
    "id": "MES_EV_LOVE_J_TEACHER_4D_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4D_NAME_INPUT_OK_000",
+   "key": "77b11e97",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nТы хочешь, чтобы тебя звали <BLUE><____NICKNAME____></BLUE>, верно?"
   },
   {
    "n": 130,
@@ -219,6 +457,34 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4D_NAME_CHANGE_000",
+   "key": "edd04b36",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Отныне я буду звать тебя <____NICKNAME____>."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_TEACHER_4D_NAME_CHANGE_001",
+   "key": "9f5d9c38",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПредпочитаешь, чтобы я звала тебя по имени?\nПоняла."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4D_COMMENT_000",
+   "key": "96e14c62",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНу, место не хуже любого другого.\n<PAGE>\nИ что такого важного, что пришлось тащить\nменя сюда?"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4D_ILOVEYOU_000",
+   "key": "1eb06b68",
+   "ru": "(Как бы это сказать...?)"
+  },
+  {
    "n": 144,
    "f": 2,
    "id": "MES_EV_LOVE_S_TWINOLDER_4D_NAME_INPUT_001",
@@ -231,6 +497,13 @@
    "id": "MES_EV_LOVE_S_TWINOLDER_4D_NAME_INPUT_002",
    "key": "b59e0ad2",
    "ru": "Прозвище не нужно"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4D_NAME_INPUT_OK_000",
+   "key": "c1719b07",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, <BLUE><____NICKNAME____></BLUE> тебя устраивает?"
   },
   {
    "n": 147,
@@ -247,6 +520,34 @@
    "ru": "Хотя нет..."
   },
   {
+   "n": 150,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4D_NAME_CHANGE_001",
+   "key": "f07bd597",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПросто обычное имя? Ну, пожалуй, я не\nпротив."
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_4D_GOODBYE_000",
+   "key": "1568f550",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВ общем, пора, наверное, обратно, а? У меня\nвсё равно ещё дела сегодня.\n<PAGE>\nТы ведь меня проводишь, конечно? По дороге\nещё поговорим."
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4D_COMMENT_000",
+   "key": "83e6c692",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nТут, кажется, хорошо.\n<PAGE>\nЧто ты хотел сказать...?"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4D_ILOVEYOU_000",
+   "key": "1eb06b68",
+   "ru": "(Как бы это сказать...?)"
+  },
+  {
    "n": 161,
    "f": 2,
    "id": "MES_EV_LOVE_S_TWINYOUNGER_4D_NAME_INPUT_001",
@@ -261,6 +562,13 @@
    "ru": "Прозвище не нужно"
   },
   {
+   "n": 163,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4D_NAME_INPUT_OK_000",
+   "key": "b355fdfb",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЗначит... <BLUE><____NICKNAME____></BLUE>...?"
+  },
+  {
    "n": 164,
    "f": 2,
    "id": "MES_EV_LOVE_S_TWINYOUNGER_4D_NAME_INPUT_OK_001",
@@ -273,6 +581,20 @@
    "id": "MES_EV_LOVE_S_TWINYOUNGER_4D_NAME_INPUT_OK_002",
    "key": "528ab024",
    "ru": "Хотя нет..."
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4D_NAME_CHANGE_001",
+   "key": "e04b515d",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nХорошо. Тогда я по-прежнему буду звать тебя\n<_____MYNAME_____>..."
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_4D_GOODBYE_000",
+   "key": "794bf8ff",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНам пора обратно. Илука будет волноваться.\n<PAGE>\nПроводишь меня...?"
   }
  ]
 }
