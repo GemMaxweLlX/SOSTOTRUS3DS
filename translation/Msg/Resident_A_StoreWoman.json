@@ -1,0 +1,103 @@
+{
+ "file": "Resident_A_StoreWoman",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_00",
+   "key": "63e984d3",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\n*вздох* А все так этого ждали. Не верится, что\nпридётся отменять...\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_SAD>Понимаю тебя, Миранда. Мне так же обидно,\nно тут уж ничего не поделаешь."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_01",
+   "key": "8595ff3b",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>.\n<PAGE>\nДа просто... концерт, назначенный на сегодня,\nвозможно, придётся отменить."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_02",
+   "key": "342573c7",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>\r\nОх, нет-нет. Это должен был быть не такой\nконцерт, как обычно у нас с Фрэнком.\n<PAGE>\nЯ пригласила друзей из своей старой труппы\nвыступить с нами. Должен был быть концерт\nпобольше.\n<PAGE>\n<FACE_SAD>...Но, похоже, из-за непогоды они не могут\nсюда добраться.\n<PAGE>\nВовремя они не успеют, а все уже так ждут\nконцерта.\n<PAGE>\nНе знаю, как прослышали, но даже люди из\nдругих городов едут сюда специально\nпосмотреть.\n<PAGE>\nИ теперь отменять..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_03",
+   "key": "76018be4",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>\r\nО! Знаю! Может, выступишь на сегодняшнем\nконцерте?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_04",
+   "key": "f51e923c",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>\r\nДаже если провести концерт, вряд ли публику\nустроит обычная программа.\n<PAGE>\nНо если выступишь ты, отменять не придётся.\nПой, играй на инструменте, что угодно!\nПожалуйста! Сделай мне одолжение!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_05",
+   "key": "ca0d9b69",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>\r\nПравда?! Храни тебя бог, <_____MYNAME_____>!\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>Ну всё! Выступающих будет меньше, чем\nпланировалось, так что придётся как можно\nискреннее извиниться перед зрителями...\n<PAGE>\n...а потом устроить им такое шоу, что\nзакачаешься!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_06",
+   "key": "dc913620",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\n...А? В такой ситуации ты пойдёшь искать ещё\nжелающих помочь?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_07",
+   "key": "363be45d",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\nН-но у нас не так много времени. И вряд ли\nмного кто согласится так внезапно...\n<PAGE>\nИ ты всё равно хочешь бегать по городу и\nискать людей?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_08",
+   "key": "c617ec08",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>\r\nНу... ладно. Раз ты так хочешь, я поверю и\nподожду.\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>Подготовку оставь нам. Рассчитываем на тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_09",
+   "key": "3df4f78f",
+   "ru": "(Я сделал(а) всё, что мог(ла)... Теперь время\nконцерта!)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_10",
+   "key": "fa552263",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>\r\nСпасибо, что пришли сегодня! Благодаря вам у\nнас вышло отличное шоу!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Нет, это вам спасибо! Было очень весело. ♪\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Рад был помочь. Если у вас концерты всегда\nтакие, зовите меня когда угодно!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>...Время от времени заниматься подобным не\nтак уж плохо.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_LAUGH>Было весело! Хочу скорее снова выступить со\nвсеми на концерте. ♪\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>Я-я ужасно нервничал на сцене, но... петь с\nпапой было очень весело.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_LEFT><FACE_LAUGH>Я просто рад, что не сфальшивил."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_11",
+   "key": "41b736d1",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nПодумать только, концерт, который хотели\nотменить, так удался...\n<PAGE>\nВсё хорошо, что хорошо кончается, а?\nОгромное спасибо, <_____MYNAME_____>. Отличная работа!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_12",
+   "key": "6199819b",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>\r\nДа, спасибо за помощь, <_____MYNAME_____>! Ты старался(ась)\nбольше всех.\n<PAGE>\nБлагодаря тебе концерт вышел даже лучше,\nчем мы ожидали. Не передать, как я\nблагодарна!\n<PAGE>\nНикогда не забуду сегодняшнее выступление. И\nуверена, все остальные тоже."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "Resident_A_STOREWOMAN_13",
+   "key": "2c193b73",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>\r\nА-ха-ха, видишь?\n<PAGE>\n...Ну что ж, как ни больно это говорить, пора\nзакругляться.\n<PAGE>\n<FACE_NORMAL>Но прежде чем мы все разбежимся...\n<PAGE>\nДавайте громко поаплодируем <_____MYNAME_____>, без кого этого\nконцерта никогда бы не было!\n<PAGE>\n<FACE_LAUGH>Похлопаем <_____MYNAME_____>!"
+  }
+ ]
+}
