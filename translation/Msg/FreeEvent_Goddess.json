@@ -1,0 +1,656 @@
+{
+ "file": "FreeEvent_Goddess",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_GODDESS_DANCE_00",
+   "key": "0a65830c",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nБыло отпадно танцевать с тобой, <_____MYNAME_____>. Как я в\nроли партнёра для тренировки?\n<PAGE>\nТеперь к главному событию всё готово.\nОсталось только пригласить кого надо!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_GODDESS_DANCE_01",
+   "key": "4a2bb42b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКак думаешь, хорошо я вёл? Ты там была\nпросто сногсшибательна, так зажигала!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_GODDESS_00",
+   "key": "3697a6ab",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭто ведь твой первый Праздник Богини?\n<PAGE>\nНу ты и уплетала пиццу, а? Фрэнк в этот раз\nпревзошёл себя!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_GODDESS_01",
+   "key": "47dcda9a",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nРаз ингредиенты выбирает Фрэнк, вкусно будет\nнаверняка.\n<PAGE>\nА когда уплетаешь со всеми, ещё вкуснее!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_GODDESS_02",
+   "key": "d9024162",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНе могу не восхищаться тем, как Богиня\nблагословляет нас на хороший урожай и всё\nтакое.\n<PAGE>\nХотел бы однажды встретить её и\nпоблагодарить."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Postman_GODDESS_DANCE_00",
+   "key": "63344a2a",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nВремя летит, когда весело, а?\n<PAGE>\nЯ был бы не против потанцевать с тобой ещё\nнемножко. Мне всё мало!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Postman_GODDESS_00",
+   "key": "f9cdf839",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПогоди, красавица. У тебя соус на губах.\n<PAGE>\nВсё. Теперь порядок. Чистенькая и красивая.\n<PAGE>\n<FACE_LAUGH>Будто у меня теперь особое разрешение на\nтакие штуки!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Postman_GODDESS_01",
+   "key": "b4227561",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nМеня восхищает, сколько ты работаешь в поле.\n<PAGE>\nФрэнк так старался над пиццей, может, съешь\nещё кусочек? Ах, я слишком навязчив, да?\n<PAGE>\n<FACE_LAUGH>Но если с тобой что-то случится, я не знаю,\nчто буду делать. Просто хочу, чтобы ты была\nсчастлива и здорова."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Postman_GODDESS_DANCE_00",
+   "key": "32b0e727",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nАх, прости. Немного замечтался.\n<PAGE>\n<FACE_LAUGH>Ты так красиво танцевала, что стоит закрыть\nглаза, и я снова тебя вижу!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Postman_GODDESS_00",
+   "key": "7464260d",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХм? Думаешь, я мало съел пиццы?\n<PAGE>\n<FACE_LAUGH>Ну, ты так аппетитно ела, что я наелся, просто\nглядя на тебя!\n<PAGE>\nЭто ведь ты работаешь в поле, так что и есть\nнадо тебе!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Postman_GODDESS_01",
+   "key": "41ad92dd",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы так чертовски красиво танцевала, словно\nцветок, мягко качающийся на ветру.\n<PAGE>\n<FACE_NORMAL>Говорят, Богиня ― настоящая красавица, но,\nспорим, ей до тебя далеко.\n<PAGE>\n<FACE_LOSS>Интересно, не рассердится ли Богиня на такие\nслова."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_GODDESS_DANCE_00",
+   "key": "eddc6448",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nУдовлетворительно. Ну? Извлечена ли польза\nиз танца со мной?\n<PAGE>\nВот как. Что ж, раз польза есть, проблем нет."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_GODDESS_DANCE_01",
+   "key": "febfd024",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nУдовлетворительно. Ну? Извлечена ли польза\nиз танца со мной?\n<PAGE>\n<FACE_LAUGH>Тебе было весело? Тем лучше.\n<PAGE>\nМне нечасто выпадает танцевать с\nпротивоположным полом. Было бы досадно,\nесли бы тебе не понравилось."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_GODDESS_00",
+   "key": "b3bb4f7d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nМой научный ум говорит, что богинь не\nсуществует.\n<PAGE>\nНо признаю: если людям весело на празднике в\nеё честь, научному методу это ничуть не\nвредит."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_GODDESS_01",
+   "key": "63ce1860",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЯкобы давным-давно человек действительно\nвстречал Богиню. Я не склонен в это верить,\nно... никогда не говори никогда.\n<PAGE>\nЧто такое, <_____MYNAME_____>? У тебя странное лицо."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_GODDESS_02",
+   "key": "76f176b0",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, ты ведь не думаешь нести пиццу домой после\nвсех этих калорий?\n<PAGE>\nСегодняшней нагрузки недостаточно, чтобы\nкомпенсировать такое потребление!\n<PAGE>\n<FACE_SAD>Я каждый год умоляю Фрэнка, но он никогда не\nслушает советов врача. *вздох*"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_GODDESS_DANCE_00",
+   "key": "e85f2dc1",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто? Думаешь, я выглядел непривычно\nуверенно?\n<PAGE>\n<FACE_SAD>Довольно грубо с твоей стороны говорить\n“непривычно”. Для меня это не проблема.\n<PAGE>\n<FACE_LAUGH>Хотя, честно говоря, танцевальные навыки\nпонадобились мне впервые. Рад, что они\nнаконец пригодились.\n<PAGE>\nВсе тренировки того стоили, чтобы увидеть\nтвою улыбку."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_GODDESS_00",
+   "key": "bd093245",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЦветочным оформлением занималась Лизетта.\nКаждый год она отлично справляется.\n<PAGE>\nЧто, ты не хочешь, чтобы я при тебе обсуждал\nдругих женщин?\n<PAGE>\n<FACE_SAD>Э, вот как... Приношу глубочайшие извинения.\n<PAGE>\n<FACE_LOVE>Неприятное чувство. Никогда не думал, что\nвызову у тебя ревность."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_GODDESS_01",
+   "key": "32008085",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOVE>\r\nЭ-э... Если я ошибаюсь, поправь меня.\n<PAGE>\nБыть возлюбленными значит... что я, э-э,\nх-хожу с тобой под руку, как с принцессой,\nверно?\n<PAGE>\n<FACE_ANGRY>Значит, неверно?! Будь ты неладен, Уэйн! Есть\nли конец твоей лжи?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_GODDESS_DANCE_00",
+   "key": "81ecd21e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nТы была поистине прекрасна в танце. Будто\nсама стала настоящей богиней.\n<PAGE>\n<FACE_LOVE>Я всё ещё немного смущаюсь, говоря такое.\n<PAGE>\nНо так я чувствую. Ты была самой прекрасной\nтанцовщицей."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_GODDESS_00",
+   "key": "eebda421",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nАх, украшения ― загляденье! Мне очень\nприятно видеть поля цветов, куда ни глянь.\n<PAGE>\n<FACE_LOVE>Когда ты рядом, весь мир купается в красоте."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_GODDESS_01",
+   "key": "776bafb0",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТы выглядела счастливейшей женщиной на\nсвете, когда ела пиццу.\n<PAGE>\n<FACE_SAD>Но много есть не стоит. Это вредно. Ох, не\nсмотри так грустно.\n<PAGE>\n<FACE_LAUGH>Если голодна, у меня с собой полезные напитки.\nВот, держи."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_GODDESS_DANCE_00",
+   "key": "ca6711e4",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nКаждый год я нервничаю во время танца.\nНикогда не умела танцевать.\n<PAGE>\n<FACE_LAUGH>Но, батюшки, танцевать с тобой было так\nвесело, <_____MYNAME_____>. Не могла перестать хихикать.\n<PAGE>\nСпасибо за танец! ♪ И приглашай ещё!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_GODDESS_DANCE_01",
+   "key": "87b838a0",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nБыло очень весело танцевать с тобой, <_____MYNAME_____>.\n<PAGE>\nЕсли ты не против, хотела бы потанцевать с\nтобой и в следующем году. ♪ ...Хотя хотелось\nбы пораньше!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_GODDESS_00",
+   "key": "4ab0d2c9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, ты ведь впервые на Празднике Богини? Ну\nкак? Было весело?\n<PAGE>\n<FACE_LAUGH>Тогда приходи и в следующем году. Будет ещё\nлучше, <_____MYNAME_____>!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_GODDESS_01",
+   "key": "86c04936",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nНа Празднике Богини используется много\nцветов, так что перед ним у меня завал работы.\n<PAGE>\nПоэтому так радостно слышать, что людям\nцветы понравились!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_GODDESS_02",
+   "key": "d0c73624",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nФрэнк каждый год превосходит себя с пиццей.\n<PAGE>\nИнтересно, как он переплюнет себя в\nследующем году... Цветочная пицца ведь\nисключена?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Florist_GODDESS_DANCE_00",
+   "key": "3d1d4b67",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nСпасибо, что вёл в последнем танце!\n<PAGE>\nТы был чудесен, <_____MYNAME_____>. Прямо как принц! У меня\nсердце колотилось! ♪"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Florist_GODDESS_00",
+   "key": "ac0674bc",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nПочему ты не потанцевал со мной? А я так\nждала."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Florist_GODDESS_01",
+   "key": "0c136aea",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nКак я была рада, что ты сегодня на Празднике\nБогини, <_____MYNAME_____>. Не могла оторвать от тебя глаз.\n<PAGE>\nВидеть, как тебе весело, ― такое счастье."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Florist_GODDESS_DANCE_00",
+   "key": "881fe2da",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nБыло так весело танцевать с тобой, <_____MYNAME_____>. Спасибо!\n<PAGE>\nЯ чувствовала себя принцессой из сказки,\nкоторую защищает статный, уверенный\nрыцарь. Разумеется, невероятно красивый!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Florist_GODDESS_00",
+   "key": "b51ec8e5",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЯ нервничала, танцуя не с тобой, <_____MYNAME_____>, но было\nвесело.\n<PAGE>\n<FACE_NORMAL>Но в следующем году, если можно... Думала,\nкак было бы хорошо потанцевать с тобой."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Florist_GODDESS_01",
+   "key": "d171f780",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ вдруг ужасно устала. Может, потому что всё\nнапряжение перед праздником ушло.\n<PAGE>\n<FACE_LOVE>Хочу поскорее домой, чтобы ты меня\nпобаловал, <_____MYNAME_____>. Как насчёт?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_GODDESS_DANCE_00",
+   "key": "177113da",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nВ последнее время я переживал, смогу ли ещё\nтанцевать, но, похоже, это всё так же весело.\n<PAGE>\nМне было очень приятно танцевать с тобой, <_____MYNAME_____>.\n<PAGE>\n<FACE_LAUGH>Но ты точно не жалеешь, что выбрал старика\nвроде меня? С молодой девушкой было бы\nвеселее."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_GODDESS_DANCE_01",
+   "key": "f8ab7ad5",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nВ последнее время я переживал, смогу ли ещё\nтанцевать, но, похоже, это всё так же весело.\n<PAGE>\nБлагодаря твоему приглашению я отлично\nпровёл время. Благодарю, <_____MYNAME_____>.\n<PAGE>\n<FACE_LAUGH>Но знаешь, моя старушка может приревновать,\nувидев, как я танцую с такой милой девушкой."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_GODDESS_00",
+   "key": "3c413799",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсли не ошибаюсь, это твой первый Праздник\nБогини, <_____MYNAME_____>?\n<PAGE>\n<FACE_LAUGH>Если было весело, большего и не надо. Не\nзабудь помолиться."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_GODDESS_01",
+   "key": "7deac763",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nРецепт пиццы у Фрэнка идеальный.\n<PAGE>\n<FACE_LAUGH>Не будь он фермером, наверное, преуспел бы\nкак пиццайоло!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_GODDESS_02",
+   "key": "c44014a6",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nПицца в этом году удалась, но интересно,\nдовольна ли Богиня.\n<PAGE>\nХм? Довольна?\n<PAGE>\n<FACE_LAUGH>Хе-хе, раз ты так говоришь, <_____MYNAME_____>, значит, так и\nесть."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_GODDESS_DANCE_00",
+   "key": "f1ae8724",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nТы повёл, вот я и пошёл в танец.\n<PAGE>\nЕсли подумать, с твоим ростом, <_____MYNAME_____>, тебе бы\nженскую партию танцевать, а?\n<PAGE>\n<FACE_LAUGH>Ну, неважно! Было весело! В следующем году\nдавай поменяемся ролями?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_GODDESS_DANCE_01",
+   "key": "ee40dfc7",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nФух, вот это волнение! Как тебе, <_____MYNAME_____>?\n<PAGE>\n<FACE_LAUGH>Никогда не знаю, что чувствовать, когда танцую\nне с Кэрри.\n<PAGE>\nС одной стороны, будто молодею, но... ну, не\nстоит злить Кэрри."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_GODDESS_00",
+   "key": "790e5c4e",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nКстати, <_____MYNAME_____>, это твой первый Праздник Богини?\n<PAGE>\nЗахватывающе, правда? Может, сама Богиня\nгде-то рядом и смотрит!"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_GODDESS_01",
+   "key": "25380e72",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nУх, пицца в этом году ― деликатес! А раз я\nпомогал её готовить, очень горжусь тем, что\nвышло.\n<PAGE>\nТолько на Празднике Богини и выпадает шанс\nсделать что-то настолько дурацки огромное!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_GODDESS_02",
+   "key": "9f52afcd",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nХе-хе! Видел(а) лицо Фрэнка, пока он ел?\n<PAGE>\nОн выглядел таким счастливым. Вечно\nсерьёзный, но где-то в глубине он всё ещё\nребёнок. Забавно."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_GODDESS_DANCE_00",
+   "key": "f8743309",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nСколько же лет я не танцевала ни с кем, кроме\nБрэда?\n<PAGE>\nА ты, молодой человек, был очень крут и\nчудесен! У меня сердце колотилось!\n<PAGE>\nХи-хи-хи, если я разволнуюсь ещё сильнее,\nБрэд рассердится. ♪"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_GODDESS_DANCE_01",
+   "key": "080402d7",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nТак весело вот так танцевать, только мы,\nдевчонки!\n<PAGE>\nТы была очаровательна, <_____MYNAME_____>.\n<PAGE>\nСпасибо за приглашение. Если не против, давай\nкак-нибудь ещё потанцуем! ♪"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_GODDESS_00",
+   "key": "c8b240fa",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nНу, <_____MYNAME_____>? Какие впечатления от первого Праздника\nБогини?\n<PAGE>\n<FACE_LAUGH>Было здорово, правда? О, если пицца осталась,\nобязательно возьми домой! ♪"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_GODDESS_01",
+   "key": "c827d218",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nПицца на Празднике Богини огромная, правда?\n<PAGE>\nПриготовить ингредиенты, испечь пиццу... На\nвсё уходит уйма времени!\n<PAGE>\n<FACE_LAUGH>Но стоит всем начать есть, она исчезает, будто\nеё и не было. В каком-то смысле даже жалко."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_GODDESS_02",
+   "key": "e54ae700",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nКаждый Праздник Богини я глубоко\nзадумываюсь кое о чём.\n<PAGE>\nЧто же Богиня за существо?\n<PAGE>\nНаверное, она так прекрасна, что, что бы ни\nделала, выглядит как на картине великого\nмастера.\n<PAGE>\n<FACE_NORMAL>А? Что такое? Почему у тебя такое лицо?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_GODDESS_DANCE_00",
+   "key": "783ad0eb",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНикогда не думала, что меня пригласит на\nтанец <_____MYNAME_____>, кто бы мог подумать!\n<PAGE>\n<FACE_LAUGH>А ты настоящий мужчина, раз сумел как\nследует вести такую старушку, как я!\n<PAGE>\nВ следующий раз пригласи кого-нибудь из\nдевушек помоложе. Уверена, они мигом в тебя\nвлюбятся!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_GODDESS_DANCE_01",
+   "key": "5f855965",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНе ожидала, что ты пригласишь меня на танец,\n<_____MYNAME_____>.\n<PAGE>\nМужскую партию я особо не репетировала, но\nкак? Хорошая была тренировка?\n<PAGE>\n<FACE_LAUGH>Что? Не понимаешь, о какой тренировке я?\nА-ха-ха, о тренировке перед тем, как\nпригласить молодого человека!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_GODDESS_00",
+   "key": "077bdb7d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНу как? Как тебе первый Праздник Богини?\n<PAGE>\nЗнаю, что ты думаешь. Просто праздник, где\nвсе едят пиццу и танцуют. Но ведь весело,\nправда?\n<PAGE>\nМы проводим его каждый год, так что\nучаствуй, если хочется.\n<PAGE>\n<FACE_LAUGH>Уверена, горожанам будет веселее, если ты\nпридёшь, <_____MYNAME_____>."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_GODDESS_01",
+   "key": "0dc285c8",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nПицца в этом году была лучшей! Ничто не\nсравнится с пиццей Фрэнка.\n<PAGE>\nНу, раз вы родня, ты и сам(а) прекрасно\nзнаешь. Передашь ему спасибо?"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_GODDESS_02",
+   "key": "dfe4e620",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nПраздник в этом году прошёл без сучка без\nзадоринки! Спасибо, что помогаешь сделать его\nвесёлым.\n<PAGE>\nУрожай в этом году должен быть отличным.\nНе забудь помолиться!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_GODDESS_DANCE_00",
+   "key": "771e8e33",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nИзвини. Танцую я неважно.\n<PAGE>\nНе говоря уж о том, что женская роль мне не\nподходит.\n<PAGE>\nНо было немного весело. Спасибо."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_GODDESS_DANCE_01",
+   "key": "eee79e31",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nИзвини. Танцую я неважно.\n<PAGE>\nНо танцевать с тобой весело, <_____MYNAME_____>.\n<PAGE>\n<FACE_LAUGH>Немного напомнило, что я чувствовал рядом с\nженой. Аж колени подкашиваются."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_GODDESS_00",
+   "key": "7ba95edf",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nКак тебе первый Праздник Богини? Пицца и\nтанцы, а?\n<PAGE>\nТанцую я ужасно, но праздник не ненавижу."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_GODDESS_01",
+   "key": "783189ad",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nКаждый год на празднике я молю Богиню о\nхорошем урожае. И о здоровье Колина.\n<PAGE>\nНе знаю, Богиню ли благодарить, но Колин\nрастёт крепким парнем."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_GODDESS_02",
+   "key": "194c6c0f",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nКаждый год Фрэнк делает пиццу из наших\nовощей.\n<PAGE>\nЕё все так любят, что жду не дождусь\nвырастить побольше овощей к следующему\nгоду."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_GODDESS_DANCE_00",
+   "key": "64bc1922",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал со мной, <_____MYNAME_____>!\n<PAGE>\nИнтересно, так ли было бы, будь у меня\nстарший брат.\n<PAGE>\nДевчачий танец был трудноват, но давай\nкак-нибудь ещё потанцуем."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_GODDESS_DANCE_01",
+   "key": "792cf187",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, <_____MYNAME_____>!\n<PAGE>\nИнтересно, так ли было бы, будь у меня\nстаршая сестра.\n<PAGE>\nБуду ещё усерднее учиться танцевать, чтобы\nнаучиться правильно вести девушку!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_GODDESS_00",
+   "key": "597339c5",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nЭто ведь твой первый Праздник Богини, <_____MYNAME_____>? Ну\nкак? Было весело?\n<PAGE>\nАга, пицца Фрэнка каждый год потрясная. И в\nней папины овощи!\n<PAGE>\nЭх, уже жду не дождусь следующего года!"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_GODDESS_01",
+   "key": "bce4c1ac",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nФух, Праздник Богини был весёлым, но теперь,\nкогда он кончился, я так устал!\n<PAGE>\nХм? А у тебя ещё полно сил? Вот это силища, <_____MYNAME_____>."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_GODDESS_02",
+   "key": "59af75a8",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nПицца в этом году была очень вкусной!\nКаждый год я её рисую, чтобы не забыть.\n<PAGE>\nЕсли бы унести остатки домой, рисовать было\nбы легче. Интересно, где-нибудь осталось..."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_GODDESS_DANCE_00",
+   "key": "9c8f9273",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nУма не приложу, с чего тебе захотелось\nтанцевать со старым хрычом вроде меня!\n<PAGE>\n<FACE_LAUGH>Но танцевать с тобой было ой как весело! И\nзарядка хорошая!\n<PAGE>\nТолько... женская партия мне не очень-то по\nфигуре!"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_GODDESS_DANCE_01",
+   "key": "eeed17d2",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_SAD>\r\nЭх, чёрт! Прости, <_____MYNAME_____>. Видно, у меня там обе ноги\nлевые были!\n<PAGE>\nЭто всё пицца, говорю тебе! Пицца! Она меня,\nстарого коня, замедлила!\n<PAGE>\n<FACE_LAUGH>Но признаю, было весело. Я готов ещё, если ты\nне против!"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_GODDESS_00",
+   "key": "f17b4b6e",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nЭто ведь твой первый Праздник Богини?\n<PAGE>\nНу как? Понравилось уплетать пиццу?"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_GODDESS_01",
+   "key": "aa928de0",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nФух, всё прошло без сучка без задоринки! С\nпраздниками так бывает нечасто!\n<PAGE>\n<FACE_LAUGH>Ну, пора мне помолиться Богине... Надо, чтобы\nследующий год был ещё лучше!"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_GODDESS_02",
+   "key": "143503aa",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nБрэд и компания вечно подтрунивают надо\nмной из-за того, как я уплетаю пиццу!\n<PAGE>\n<FACE_LAUGH>Но ну правда! Я ем пиццу с тем, что сам\nвырастил! Не могу удержаться!\n<PAGE>\nЭй, я хотя бы не ем пиццу в душе, так?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_GODDESS_DANCE_00",
+   "key": "68213f9a",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nНикогда не думала, что ты пригласишь меня на\nтанец!\n<PAGE>\nТы так хорошо вёл, что сердце у меня\nколотилось как бешеное. Но в следующий раз\nпригласи-ка кого из девушек?\n<PAGE>\nОй, да ладно! Со мной ты справился! Всё\nполучится!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_GODDESS_DANCE_01",
+   "key": "6649e18b",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nНикогда не думала, что ты пригласишь меня на\nтанец.\n<PAGE>\nНу как? Я про то, как я танцую. Надёжно, да?\n<PAGE>\nА-ха-ха! Прости, прости. Но я рада, что всё\nпрошло гладко!\n<PAGE>\nВ следующий раз пригласи кого-нибудь из\nмолодых людей. Уверена, всё получится!"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_GODDESS_00",
+   "key": "9d6a6718",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nПервый год, а? Было весело, но ты устал(а),\nда?\n<PAGE>\nАга, ага! Иди домой и ложись сегодня\nпораньше. И не забудь взять пиццы домой!"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_GODDESS_01",
+   "key": "7cf179e8",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nПицца огромная, но всё сложнее, чем кажется!\n<PAGE>\nСоус такой свежий, наверное, потому что\nпомидоры отличные. Вкусно даже дома!"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_GODDESS_02",
+   "key": "1171720d",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЕсли столько танцевать, я точно сброшу пару\nкило!\n<PAGE>\nШучу! После такой огромной пиццы ни за что\nне похудею! Хе-хе-хе!"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_GODDESS_DANCE_00",
+   "key": "8cfa29ba",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал со мной, <_____MYNAME_____>!\n<PAGE>\nТы так вёл, что я чувствовала себя принцессой.\n♪\n<PAGE>\nЕсли ты не против, <_____MYNAME_____>, давай как-нибудь ещё\nпотанцуем!"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_GODDESS_DANCE_01",
+   "key": "366fbf55",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, <_____MYNAME_____>!\n<PAGE>\nБыло весело танцевать за мальчика! В\nследующем году буду вести Колина!\n<PAGE>\n<FACE_NORMAL>А? Это разве странно?"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_GODDESS_00",
+   "key": "2c963394",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nЭто ведь твой первый Праздник Богини, <_____MYNAME_____>?\n<PAGE>\nТы так вписался(ась), что я даже не заметила!\n<PAGE>\nКак тебе пицца? Потрясная, правда?!"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_GODDESS_01",
+   "key": "e07f1333",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nБогиня правда существует, знаешь! Я иногда\nвижу её у пруда! Только выглядит она как\nмаленькая девочка.\n<PAGE>\nМожет, это новая богиня! Погоди, а? <_____MYNAME_____>, почему\nу тебя такое странное лицо?"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_GODDESS_02",
+   "key": "dbb420a4",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nПраздник в этом году был захватывающим!\n...Хотя иногда мне это кажется странным.\nПочему мы печём огромную пиццу?\n<PAGE>\nМожно было бы испечь огромный хлеб или\nдаже огромное печенье с карамелью и\nминдалём!\n<PAGE>\nМожет, Богиня любит пиццу!"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_GODDESS_DANCE_00",
+   "key": "7b9dee24",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал(а) со мной! Я\nсу-у-упер счастлива! ♪\n<PAGE>\n<FACE_SAD>Но... меня ведь никто не видит, так что\nказалось, будто ты танцуешь в одиночку, <_____MYNAME_____>.\n<PAGE>\nНемного боюсь, что тебя примут за какого-то\nчудака!"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_GODDESS_DANCE_01",
+   "key": "7b9dee24",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал(а) со мной! Я\nсу-у-упер счастлива! ♪\n<PAGE>\n<FACE_SAD>Но... меня ведь никто не видит, так что\nказалось, будто ты танцуешь в одиночку, <_____MYNAME_____>.\n<PAGE>\nНемного боюсь, что тебя примут за какого-то\nчудака!"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_GODDESS_00",
+   "key": "4b0bdf70",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nЭто ведь твой первый Праздник Богини?\nОбожаю его! Пиццу пекут специально для меня!\n<PAGE>\nРазвешивают цветы, танцуют, шумят! ♪\nПраздник Богини ― лучший!\n<PAGE>\nПосле такого праздника так и хочется\nпостараться ещё больше!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_GODDESS_01",
+   "key": "71535dad",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nКогда все супер счастливы, я тоже супер\nсчастлива!\n<PAGE>\nНо знаешь, иногда задумываюсь, почему\nподношением стала именно пицца!\n<PAGE>\nЕсли можно, не спросишь, нельзя ли вместо неё\nсделать грибной пирог?"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_GODDESS_02",
+   "key": "81e40bfd",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nСпасибо за суперпотрясающий Праздник Богини\nв этом году! Благодарю, <_____MYNAME_____>. ♪\n<PAGE>\nВ следующем году будет ещё лучше! Верь мне!\n♪"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_GODDESS_DANCE_00",
+   "key": "7afe04c1",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал со мной, папа!\n<PAGE>\nНо в следующий раз дай мне танцевать за\nмальчика, ладно?"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_GODDESS_DANCE_01",
+   "key": "17989e14",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, мама!\n<PAGE>\n<FACE_NORMAL>Хм? В следующий раз мне пригласить девочку,\nкоторая нравится?\n<PAGE>\n<FACE_LAUGH>Не рано ли?\n<PAGE>\nК тому же я люблю тебя, мама! Потанцуй со\nмной ещё, ладно?"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_GODDESS_00",
+   "key": "9929e60b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>! Это был самый-самый лучший праздник! А,\nточно, это был мой самый первый праздник...\n<PAGE>\nМожно придём и в следующем году? Ну\nпожалуйста! Пожалуйста!"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_GODDESS_01",
+   "key": "6b14a956",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПицца дяди Фрэнка была такая вкусная!\n<PAGE>\nПотом спрошу его, как он её делает!"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_GODDESS_02",
+   "key": "cf0a65e4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nФух. Праздник Богини был таким весёлым! <PARENT>,\nБогиня ведь ребёнок?\n<PAGE>\nТогда в день праздника надо поиграть вместе.\n♪"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_GODDESS_DANCE_00",
+   "key": "fe1b094f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал со мной, папа!\n<PAGE>\n<FACE_NORMAL>Хм? В следующий раз пригласить мальчика,\nкоторый нравится? Ладно! Как найду ―\nприглашу!\n<PAGE>\n<FACE_LAUGH>Но сейчас больше всех мне нравишься ты!\n<PAGE>\nПотанцуй со мной ещё, ладно? ♪"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_GODDESS_DANCE_01",
+   "key": "b092544f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, мама!\n<PAGE>\nНо в следующий раз дай мне танцевать за\nдевочку, ладно?"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_GODDESS_00",
+   "key": "128723ac",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>! Это был самый-самый лучший праздник! А,\nточно, это был мой самый первый праздник...\n<PAGE>\nМожно придём и в следующем году? Ну давай,\nобязательно!"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_GODDESS_01",
+   "key": "9713dc53",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПицца дяди Фрэнка была такая вкусная!\n<PAGE>\nЭй, <PARENT>. Спросишь у него, в чём секрет его пиццы?"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_GODDESS_02",
+   "key": "a28e2e4c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПраздник Богини был таким весёлым! <PARENT>, Богиня\nведь ребёнок?\n<PAGE>\nТогда в день праздника надо поиграть вместе.\n♪"
+  }
+ ]
+}

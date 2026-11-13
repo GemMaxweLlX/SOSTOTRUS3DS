@@ -1,0 +1,19 @@
+{
+ "file": "FreeEvent_RiceEar",
+ "entries": [
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_RICE_EAR_DANCE_01",
+   "key": "17989e14",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, мама!\n<PAGE>\n<FACE_NORMAL>Хм? В следующий раз мне пригласить девочку,\nкоторая нравится?\n<PAGE>\n<FACE_LAUGH>Не рано ли?\n<PAGE>\nК тому же я люблю тебя, мама! Потанцуй со\nмной ещё, ладно?"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_RICE_EAR_DANCE_01",
+   "key": "b092544f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, мама!\n<PAGE>\nНо в следующий раз дай мне танцевать за\nдевочку, ладно?"
+  }
+ ]
+}
