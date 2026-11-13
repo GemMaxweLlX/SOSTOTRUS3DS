@@ -15,7 +15,9 @@ without a "_0"/"_1" suffix applies to every state of that button. The key
 "_icon": true marks archives whose images start with a round button icon.
 "_fill" and "_ring" set the letter colour and an inner outline ("#rrggbb",
 or "edge" for the outline colour of the original word), "_size" the font
-size in pixels and "_stroke" the outline width. A label may also be an object such as
+size in pixels and "_stroke" the outline width. With "box": [x0, y0, x1, y1] a word inside a
+bigger picture is replaced: the box is painted with its corner colour and
+the new word is drawn there in "fill" colour, without an outline. A label may also be an object such as
 {"text": "Весна", "fill": "#ff4f8f"} to override the style for one image.
 "keep_box": true keeps the new word inside the area of the original one,
 for pictures of which the game shows only that part.
@@ -134,6 +136,30 @@ def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12,
     return out
 
 
+def relabel_box(img, text, ttf_path, box, fill="#ffffff", size=12, **_ignored):
+    """Replace a word that sits inside a bigger picture.
+
+    box = [x0, y0, x1, y1]: the area of the old word. It is painted over with
+    the colour found at its top-left corner, and the new word is drawn there
+    without an outline, centred vertically, starting at the left edge."""
+    img = img.convert("RGBA")
+    x0, y0, x1, y1 = box
+    background = img.getpixel((x0, y0))
+    colour = parse_colour(fill, background) or (0, 0, 0, 255)
+    out = img.copy()
+    out.paste(background, (x0, y0, x1, y1))
+    while True:
+        font = ImageFont.truetype(ttf_path, size)
+        bbox = font.getbbox(text)
+        if bbox[2] - bbox[0] <= x1 - x0 or size <= 8:
+            break
+        size -= 1
+    caps = font.getbbox("Н")
+    origin = (x0 - bbox[0], round((y0 + y1) / 2 - (caps[1] + caps[3]) / 2))
+    ImageDraw.Draw(out).text(origin, text, font=font, fill=colour)
+    return out
+
+
 def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
     if len(argv) != 4:
@@ -157,7 +183,10 @@ def main(argv=None):
                 if isinstance(text, dict):          # per-image overrides
                     word = text["text"]
                     options.update({k: v for k, v in text.items() if k != "text"})
-                relabel(Image.open(path), word, ttf_path, **options).save(path)
+                if "box" in options:
+                    relabel_box(Image.open(path), word, ttf_path, **options).save(path)
+                else:
+                    relabel(Image.open(path), word, ttf_path, **options).save(path)
                 done += 1
     print("%s: redrew %d images" % (arc_name, done))
     return 0

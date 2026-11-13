@@ -112,17 +112,17 @@
  },
  "ItemComment.arc": {
   "timg/s_title_00": "Сумка",
-  "timg/s_title_01": "Инструменты",
-  "timg/s_title_02": "Хранилище",
+  "timg/s_title_01": "Инстр.",
+  "timg/s_title_02": "Склад",
   "timg/s_title_03": "Силос",
   "timg/s_title_04": "Запас",
   "timg/s_title_05": "Взято",
   "timg/r_title_00": "Сумка",
-  "timg/r_title_03": "Инструменты",
+  "timg/r_title_03": "Инстр.",
   "_fill": "#ffd23c",
   "_size": 13,
-  "timg/r_title_08": "Ящик отправки",
-  "timg/r_title_09": "Хранилище",
+  "timg/r_title_08": "Отгрузка",
+  "timg/r_title_09": "Склад",
   "timg/r_title_10": "Силос",
   "timg/df_00": {
    "text": "Цвет",
@@ -148,6 +148,17 @@
    "text": "Аромат",
    "fill": "#ffffff",
    "size": 11
+  },
+  "timg/comment02": {
+   "text": "Кач.",
+   "box": [
+    27,
+    23,
+    72,
+    40
+   ],
+   "fill": "#225555",
+   "size": 14
   }
  },
  "StockUpper.arc": {
@@ -230,5 +241,29 @@
   "timg/ad_type_00": "Советы 1",
   "timg/ad_type_01": "Советы 2",
   "timg/ad_type_02": "Советы 3"
+ },
+ "CheckWindow.arc": {
+  "_icon": true,
+  "_fill": "#ffffff",
+  "_size": 12,
+  "timg/kettei": "Принять",
+  "timg/modoru": "Назад",
+  "timg/a_yes": "Да",
+  "timg/b_no": "Нет",
+  "timg/cancel": "Отмена"
+ },
+ "NumberselectShop.arc": {
+  "_icon": true,
+  "_fill": "#ffffff",
+  "_size": 12,
+  "timg/kettei": "Принять",
+  "timg/modoru": "Назад"
+ },
+ "NumberselectShop2.arc": {
+  "_icon": true,
+  "_fill": "#ffffff",
+  "_size": 12,
+  "timg/kettei": "Принять",
+  "timg/modoru": "Назад"
  }
 }
