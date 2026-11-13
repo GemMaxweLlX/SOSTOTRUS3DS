@@ -2,6 +2,699 @@
  "file": "FreeEvent_RiceEar",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_RICE_EAR_DANCE_00",
+   "key": "8ca62c4c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nА ты неплохо двигаешься, <_____MYNAME_____>. Танцевать с тобой\nбыло удовольствием."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_RICE_EAR_DANCE_01",
+   "key": "929b7df8",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nТы была загляденьем в танце, <_____MYNAME_____>.\n<PAGE>\nБлагодаря тебе мне пришла хорошая идея для\nновой заколки. Но главное, мне было весело.\n<PAGE>\nЕсли ты не против, хотел бы быть рядом с\nтобой и в следующем году."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_RICE_EAR_00",
+   "key": "11b4b180",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nС давних времён горожане почитают Инари как\nдуха, приносящего урожай и удачу.\n<PAGE>\nТа большая соломенная лиса как раз\nизображает Инари."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_RICE_EAR_01",
+   "key": "77434508",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nГранями по обе стороны пользуются уже сотни\nлет.\n<PAGE>\nКогда краска выцветает, их перекрашивают. В\nэтом году этим занимался я.\n<PAGE>\n<FACE_LOSS>Мне далеко до мастеров прошлого. Но я\nдолжен исполнить свой долг."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_RICE_EAR_02",
+   "key": "01b28181",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКонец Праздника изобилия знаменует приход\nзимы.\n<PAGE>\nСобираюсь начать готовиться к лютым\nхолодам."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Chaser_RICE_EAR_DANCE_00",
+   "key": "a2e4d321",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nТы была невероятно красива в танце, <_____MYNAME_____>.\n<PAGE>\nИ я понял, что никогда не хочу отводить от\nтебя глаз."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Chaser_RICE_EAR_00",
+   "key": "593112ea",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПраздники и так весёлые, но с тобой веселье\nумножается.\n<PAGE>\nЛюбимый человек ― поистине загадочная\nвещь."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Chaser_RICE_EAR_01",
+   "key": "9b66e624",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nТы была очаровательна... С такой чудесной\nулыбкой ела рис из котелка."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Chaser_RICE_EAR_DANCE_00",
+   "key": "d6748f81",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nЯ не мог отвести от тебя глаз, пока ты\nтанцевала.\n<PAGE>\nДо сих пор не верится, что ты полностью\nзавладела моим сердцем.\n<PAGE>\nНо по-другому я бы и не хотел."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Chaser_RICE_EAR_00",
+   "key": "ec15aa97",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nТвой танец был прекраснее всех. Будто ты ―\nвоплощение богини!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Chaser_RICE_EAR_01",
+   "key": "b9c561cd",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЖаль, что в этом году не довелось потанцевать\nс тобой.\n<PAGE>\nЕсли ты не против, подаришь мне танец сегодня\nвечером?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_RICE_EAR_DANCE_00",
+   "key": "8844a936",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТанцевать было отпадно! А ты и сам неплох, <_____MYNAME_____>."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_RICE_EAR_DANCE_01",
+   "key": "5ba00297",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nБыло потрясно, <_____MYNAME_____>! Ты танцуешь куда лучше, чем\nя думал.\n<PAGE>\nА раз я актёр, танцы ― хороший способ\nотточить сценические навыки. Спасибо!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_RICE_EAR_00",
+   "key": "2117a749",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nИнари ― дух удачи, но молиться можно о чём\nугодно. Так что помолюсь о театре!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_RICE_EAR_01",
+   "key": "fa8e7da1",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nХозяин говорил, что стоит помолиться и о\nлавке, но, думаю, не буду.\n<PAGE>\nЕсли просить слишком много, Инари не станет\nслушать, верно? Как-нибудь в другой раз."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_RICE_EAR_02",
+   "key": "ea2c7fe8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nФух! Наелся!\n<PAGE>\n<FACE_NORMAL>Кстати, я тут подумал... Если в рисовых зёрнах\nправда живут духи, то сейчас у меня в\nживоте...\n<PAGE>\n<FACE_SAD>...Нет, о таком не стоит слишком задумываться.\nНет. Больше об этом не думаю."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Apprentice_RICE_EAR_DANCE_00",
+   "key": "601e94af",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nУже всё? Мне было ужасно весело танцевать с\nтобой, <_____MYNAME_____>.\n<PAGE>\nЯ ещё хочу побыть с тобой, <_____MYNAME_____>. Ты ведь\nзадержишься ещё немножко?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Apprentice_RICE_EAR_00",
+   "key": "e3ebad06",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nПризнаюсь, мне не нравится, когда ты танцуешь\nне со мной.\n<PAGE>\nВ следующий раз просто пригласи меня, ладно?\nЯ сейчас ужасно ревную!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Apprentice_RICE_EAR_01",
+   "key": "b3dbd344",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nВ этом году я помолился за тебя.\n<PAGE>\nХочешь знать о чём? Прости, это совершенно\nсекретно."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Apprentice_RICE_EAR_DANCE_00",
+   "key": "b9d99e19",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nДаже на празднике мне удалось оставить <_____MYNAME_____>\nтолько себе.\n<PAGE>\nА когда пойдём домой, тоже будем вместе.\nНичто на свете не сделает меня счастливее."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Apprentice_RICE_EAR_00",
+   "key": "e7e38de0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nНу как, <_____MYNAME_____>? Весело было? Я всё время смотрел на\nтебя.\n<PAGE>\n<FACE_LOVE>Но обидно, что ты не пригласила меня на\nтанец! Готовься, потому что я тебя не отпущу!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Apprentice_RICE_EAR_01",
+   "key": "7c960c0e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЭ, думаешь, стоило пригласить на танец\nменя...?\n<PAGE>\n<FACE_LAUGH>Не, обычно ты и так вся моя!\n<PAGE>\nТанцуй с кем хочешь, <_____MYNAME_____>.\n<PAGE>\n<FACE_NORMAL>Но если выслушаешь мою эгоистичную\nпросьбу... Можно забронировать тебя на\nследующий год?\n<PAGE>\n<FACE_LOVE>В конце концов, если можно, я хочу видеть, как\nтебе весело танцевать, совсем рядом."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_RICE_EAR_DANCE_00",
+   "key": "904451e0",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nСпасибо огромное, что пригласил меня сегодня\nна танец! Ты меня прямо сразил!\n<PAGE>\n<FACE_NORMAL>Я никогда толком не танцевала с парнями, так\nчто немного нервничала.\n<PAGE>\nБыло куда веселее, чем я ожидала! Всё\nблагодаря тебе, <_____MYNAME_____>!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_RICE_EAR_DANCE_01",
+   "key": "f4d24676",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nТанцевать с тобой было весело! Я ведь неплохо\nсправилась, да?\n<PAGE>\nЯ с детства играла с мальчишками, так что не\nпривыкла, чтобы партнёром была девушка!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_RICE_EAR_00",
+   "key": "d578f81e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nХоть бы в чайную продолжали ходить...\n<PAGE>\n<FACE_NORMAL>А, это ты, <_____MYNAME_____>. Решила, что не помешает\nпомолиться Инари.\n<PAGE>\nВ качестве бонуса помолюсь и за твою ферму, <_____MYNAME_____>!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_RICE_EAR_01",
+   "key": "9082746b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nДля чайной посетители ― это всё.\n<PAGE>\nИ нельзя полагаться только на духов. Надо\nсамим стараться находить подход к\nпосетителям!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_RICE_EAR_02",
+   "key": "8eeeb15a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nРис из котелка в этом году был объедение,\nправда? Это потому, что его готовил папа!\n<PAGE>\nМне никогда не приготовить рис лучше него...\nно убираюсь-то я неплохо, а?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_RICE_EAR_DANCE_00",
+   "key": "7d5f8492",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nН-ну, должна сказать... Ты так супер круто\nтанцевал!\n<PAGE>\nКхм! Ох, ты меня совсем смутил!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_RICE_EAR_00",
+   "key": "73a2d363",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nТебе не кажется, что я стала чудачкой с тех\nпор, как начала проводить время с тобой?\n<PAGE>\nА, какая разница? Мне хорошо, и это главное!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_RICE_EAR_01",
+   "key": "4f862674",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nЕсли можно, хотела бы побыть с тобой\nподольше после этого... Шучу! Просто хотелось\nпопробовать так сказать."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_RICE_EAR_DANCE_00",
+   "key": "91dd924a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nХоть мы всё время вместе, танцевать нам\nдоводится нечасто.\n<PAGE>\n<FACE_LOVE>Не могу же я всё время вешаться на тебя у всех\nна глазах... но иногда ведь можно, правда?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_RICE_EAR_00",
+   "key": "5676704a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЯ долго думала, что этот праздник ― чтобы\nмолиться об удаче.\n<PAGE>\nНо теперь, когда я с тобой, я вижу, что\nпо-настоящему важно!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_RICE_EAR_01",
+   "key": "477c75d3",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЯ наелась. Так, глядишь, завтра и есть не\nпридётся.\n<PAGE>\nМожет, и двинуться не смогу... Если что,\nрассчитываю на тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_RICE_EAR_DANCE_00",
+   "key": "0c92feca",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nБлагодарю за сегодняшний танец. Весьма\nвпечатляюще."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_RICE_EAR_DANCE_01",
+   "key": "44fbcfe7",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nТанцевать с тобой сегодня было чрезвычайно\nприятно.\n<PAGE>\nБлагодарю за приглашение, <_____MYNAME_____>.\n<PAGE>\n<FACE_NORMAL>Ты весьма хорошо держишься. Есть какой-то\nопыт в танцах?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_RICE_EAR_00",
+   "key": "a108f204",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЖелать щедрого урожая и благодарить\nИнари... Важно выражать благодарность как\nподобает.\n<PAGE>\nРаз Инари ― дух урожая и добрых вестей,\nтебе тоже стоит помолиться."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_RICE_EAR_01",
+   "key": "a67a126f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nБез удачного урожая нам нечего есть.\n<PAGE>\nК счастью, Инари день за днём незримо\nподдерживает всех нас."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_RICE_EAR_02",
+   "key": "0ccf53d8",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ учу учеников, что важно быть добрыми к\nдрузьям и соседям.\n<PAGE>\nОднако благодарить за еду, пожалуй, важнее\nвсего."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_RICE_EAR_DANCE_00",
+   "key": "df7cc85b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nАх, прости! Раньше я бы и представить не\nмогла, что буду танцевать с противоположным\nполом.\n<PAGE>\nЯ-я тебя устроила?\n<PAGE>\n<FACE_LOVE>Я прекрасно чувствовала, как нервничаю."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_RICE_EAR_00",
+   "key": "efd0d32d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nКаждый раз на празднике я никак не могла\nуспокоиться.\n<PAGE>\n<FACE_LOVE>Но с тобой, не знаю, мне просто спокойно.\nРада, что пришла с тобой."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_RICE_EAR_01",
+   "key": "54b96876",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nРис из котелка Гиндзиро был вкусный, правда?\n<PAGE>\nНадеюсь, однажды и я смогу приготовить для\nтебя что-то столь же вкусное...\n<PAGE>\n<FACE_LOVE>...Н-ничего. Просто моё желание. Пожалуйста,\nзабудь, что я сказала."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_RICE_EAR_DANCE_00",
+   "key": "9b9f2fb6",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nТы чудесно смотрелся в танце.\n<PAGE>\n<FACE_LOVE>Кхм! Не смей делать вид, что не слышишь!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_RICE_EAR_00",
+   "key": "e7c427c2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, не переел ли ты? Живот выпирает.\n<PAGE>\n<FACE_LAUGH>...Что ж, раз праздник, удержусь от выговора.\nНо это лишь особое послабление. Понятно?"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_RICE_EAR_01",
+   "key": "2d6b156c",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nВсе прошлые годы я молила Инари об успехах\nдетей в учёбе, но...\n<PAGE>\nЗаметила, что сегодня молилась только о тебе.\n<PAGE>\nЧтобы на ферме всё шло хорошо и чтобы ты\nне поранился... Надеюсь, всё сбудется."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_RICE_EAR_DANCE_00",
+   "key": "b8ba4922",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nО, спасибо, что потанцевал со стариком. Брось,\nна празднике не надо жалеть старого хрыча!\n<PAGE>\nУ меня есть Омиё, мне не скучно. Не волнуйся."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_RICE_EAR_DANCE_01",
+   "key": "20a27dfd",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nДавно я не танцевал ни с какой женщиной,\nкроме Омиё.\n<PAGE>\nКакой бы ни был возраст, мне было хорошо.\nБудто помолодел!\n<PAGE>\nОмиё начнёт ревновать, так что на этом всё! Хе!\nСпасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_RICE_EAR_00",
+   "key": "24956cc9",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nРис из котелка готовили с моими овощами, так\nчто весь город отведал!\n<PAGE>\n<FACE_LAUGH>Видеть всех сытыми и улыбающимися... Это\nникогда не надоедает, скажу я тебе!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_RICE_EAR_01",
+   "key": "1d49b35e",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, как тебе рис из котелка в этом году?\n<PAGE>\n<FACE_LAUGH>Хо-хо... Рад слышать, что понравился, <_____MYNAME_____>!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_RICE_EAR_02",
+   "key": "bb01f69a",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nВ этом году я молил Инари о хорошем\nурожае... и о здоровье Омиё.\n<PAGE>\n<FACE_LAUGH>Знаю, может, это жадно, но мне нужно было и\nто, и другое!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_RICE_EAR_DANCE_00",
+   "key": "f9b99a7c",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал со мной! Давно я не\nтанцевала ни с каким мужчиной, кроме\nУмэкити.\n<PAGE>\nТы был со мной особенно бережен, правда?\nКакой же ты добрый юноша!\n<PAGE>\nУ меня уже есть Умэкити, так что в следующий\nраз смело приглашай молодую девушку. Она\nнаверняка оценит твоё обаяние!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_RICE_EAR_DANCE_01",
+   "key": "e66f8bf1",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nБыло очень приятно танцевать с тобой, <_____MYNAME_____>.\n<PAGE>\nБудто я играла с внучкой! Ох, не пойми\nнеправильно.\n<PAGE>\nВ следующий раз, может, пригласишь\nмолодого человека? Уверена, любой будет рад\nтвоему приглашению!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_RICE_EAR_00",
+   "key": "7df99f23",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nРис из котелка на Празднике изобилия готовят\nиз овощей Умэкити.\n<PAGE>\n<FACE_LAUGH>Все всегда говорят, как это вкусно. Мне\nприятно видеть горожан такими счастливыми."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_RICE_EAR_01",
+   "key": "9552ba17",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПраздник изобилия ― это молитвы об урожае\nи удаче, но у меня есть ещё одно желание.\n<PAGE>\nХочу, чтобы мы с Умэкити были вместе всегда.\n<PAGE>\nОт других желаний я могу отказаться, но от\nэтого ― ни за что."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_RICE_EAR_02",
+   "key": "8649067d",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nМория говорил, что желания загадывать\nможно, но полагаться на них не стоит.\n<PAGE>\nВсё дело в том, чтобы добиваться своего\nсобственными усилиями. Полностью согласна.\n<PAGE>\nИнтересно, не наблюдает ли Инари за нашими\nстараниями..."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_RICE_EAR_DANCE_00",
+   "key": "abd123d7",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nИ зачем мне танцевать с тобой?"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_RICE_EAR_DANCE_01",
+   "key": "fc8305ab",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nСтранно хотеть танцевать со мной. В\nследующем году пригласи кого-нибудь\nдругого."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_RICE_EAR_00",
+   "key": "c4e41926",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nЯ не верю в то, чего не вижу, но после участия\nв празднике продажи у меня выросли.\n<PAGE>\nЯ бы списал “силу” Инари на случайное везение."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_RICE_EAR_01",
+   "key": "7bbb55b3",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nЯ тоже помогал. Надеюсь, эта затея с удачей\nсработает."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_RICE_EAR_02",
+   "key": "4809af41",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nЕсли попросил(а) удачи, это не значит, что\nможно почивать на лаврах. Всё зависит от\nсобственного труда."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_RICE_EAR_DANCE_00",
+   "key": "040ed1d5",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_SAD>\r\nОх, ну вот. Прости-и-и, что наступила тебе на\nногу!\n<PAGE>\n<FACE_LAUGH>Но знаешь, мне было очень весело танцевать с\nтобой, <_____MYNAME_____>!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_RICE_EAR_DANCE_01",
+   "key": "1eee915e",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nЯ не могла оторвать глаз от твоих движений, <_____MYNAME_____>!\nНесколько раз ошиблась. Надеюсь, не слишком\nужасно!"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_RICE_EAR_00",
+   "key": "ae22eb53",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак здорово, что Инари приносит нам хороший\nурожай и удачу!"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_RICE_EAR_01",
+   "key": "14fc7d39",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nЯ помолилась Инари и пожелала много вкусных\nовощей в следующем году!"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_RICE_EAR_02",
+   "key": "5b7942d5",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nОго! Сколько ни смотрю, соломенная лиса\nсупермилая!"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_RICE_EAR_DANCE_00",
+   "key": "0b08789a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nХе, обычно я женскую партию не танцую, но,\nпризнаю, двигался я ничего!\n<PAGE>\nТы и сам там был неплох, <_____MYNAME_____>!"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_RICE_EAR_DANCE_01",
+   "key": "cf201670",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nТы уверена, что так лучше? Ну, танцевать со\nмной и всё такое!\n<PAGE>\nЗнал бы, надел бы туфли для танцев!\n<PAGE>\nЯ из тех, кто всё может, если возьмётся. Я\nтоже бываю крутым!"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_RICE_EAR_00",
+   "key": "dab09414",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу как, <_____MYNAME_____>? Это ведь твой первый Праздник\nизобилия?\n<PAGE>\nЕда, семья и друзья... Лучше не бывает. А в\nследующем году, знаю, и у тебя будут овощи!"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_RICE_EAR_01",
+   "key": "778bc4f8",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nНу всё, Праздник изобилия в этом году удался\nна славу!\n<PAGE>\n<FACE_NORMAL><_____MYNAME_____>, на твоей ферме столько всего вырастет, что\nне будешь знать, куда девать!"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_RICE_EAR_02",
+   "key": "e78055ff",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКонечно, для риса из котелка главное ― вкус,\nно и ингредиенты нужны хорошие!\n<PAGE>\nРис, вода, овощи... Последнее особенно важно,\nконечно!\n<PAGE>\n<FACE_LAUGH>Надо поблагодарить Умэкити и Иттэцу за то,\nчто всегда помогают!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_RICE_EAR_DANCE_00",
+   "key": "9c078089",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТебе было весело танцевать со мной? Если\nбыло весело, мне этого достаточно."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_RICE_EAR_DANCE_01",
+   "key": "98102977",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_SAD>\r\nПрости. Танцую я неважно. Только тянул тебя\nназад."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_RICE_EAR_00",
+   "key": "e821f4f4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nМоя работа связана и с урожаем, и с рынком,\nтак что я участвую в каждом Празднике\nизобилия."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_RICE_EAR_01",
+   "key": "55863900",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПраздник изобилия помогает мне собраться.\nЧувствую, что могу вложить все силы в работу\nв поле в новом году."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_RICE_EAR_02",
+   "key": "e4056acb",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nТа соломенная лиса сделана из соломы с моих\nполей. И с полей Умэкити.\n<PAGE>\nРад, что детям она так нравится."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_RICE_EAR_DANCE_00",
+   "key": "1ee086e6",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nТы прекрасно танцуешь, <_____MYNAME_____>.\n<PAGE>\nТы так хорошо вёл, будто мы танцуем вместе\nмного лет. Большое спасибо!"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_RICE_EAR_DANCE_01",
+   "key": "4cd01fdb",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЯ думала, ты пригласишь на танец парня своего\nвозраста.\n<PAGE>\nНо танцевать вот так, только нам, девушкам,\nтоже весело!"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_RICE_EAR_00",
+   "key": "4b02a755",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nС тех пор как переехала в этот город, участвую\nв Празднике изобилия каждый год.\n<PAGE>\nВ этом году пожелала хорошего урожая. Без\nеды жизнь не жизнь!"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_RICE_EAR_01",
+   "key": "79736eb2",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошая еда напрямую связана со здоровьем и\nсчастьем.\n<PAGE>\nНужно выражать благодарность урожаю,\nкоторый помог горожанам прожить счастливый\nи здоровый год.\n<PAGE>\nНадеюсь, и в следующем году соберём много\nвкусного урожая."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_RICE_EAR_02",
+   "key": "dacbf9aa",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВ городе, где я раньше жила, было что-то\nпохожее, но украшения на этом празднике ―\nэто что-то."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_RICE_EAR_DANCE_00",
+   "key": "b58826c4",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>! Танцевать было здорово.\n<PAGE>\nНо разве тебе не хочется потанцевать с\nдевушкой? И с кем-то твоего возраста?\n<PAGE>\nТы отлично танцуешь, так что найти партнёршу\nпроблем не будет."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_RICE_EAR_DANCE_01",
+   "key": "1d73ae39",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, <_____MYNAME_____>!\n<PAGE>\nЯ тебя не подвёл?\n<PAGE>\nИ, эй, если захочешь ещё потанцевать, я всегда\nготов!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_RICE_EAR_00",
+   "key": "33ebe9ff",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nТьфу! Стоит отвернуться, как Яити лезет на\nсоломенную лису!\n<PAGE>\nНельзя позволять ему так топтаться по\nзащитнику города!"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_RICE_EAR_01",
+   "key": "7f1ab18b",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nРис из котелка в этом году был потрясный!\n<PAGE>\nМама из риса, который мы приносим домой,\nделает рисовые шарики или суп!\n<PAGE>\n<FACE_NORMAL>Будто праздную праздник ещё раз в другой\nдень!"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_RICE_EAR_02",
+   "key": "7faf7660",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nПапины овощи лучше всех! Надеюсь, в этом\nгоду соберём кучу.\n<PAGE>\nО, только надо вежливо попросить Инари."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_RICE_EAR_DANCE_00",
+   "key": "c34924f3",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМы танцевали. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_RICE_EAR_DANCE_01",
+   "key": "d66424e9",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>...\n<PAGE>\nТебе было весело?"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_RICE_EAR_00",
+   "key": "662d6545",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nСмотри, лиса. Хочу на неё залезть!"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_RICE_EAR_01",
+   "key": "6e9a3417",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nРис был вкусный!"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_RICE_EAR_02",
+   "key": "1104d9a3",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПусть у тебя будет большой урожай, <_____MYNAME_____>."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_RICE_EAR_DANCE_00",
+   "key": "bc0097ac",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nКакой чудесный праздник."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_RICE_EAR_DANCE_01",
+   "key": "bc0097ac",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nКакой чудесный праздник."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_RICE_EAR_00",
+   "key": "4001af8e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nЭто ведь твой первый Праздник изобилия?\nБыло весело?\n<PAGE>\nЯ здесь новенькая, но жители города всё равно\nмне молятся.\n<PAGE>\nЧтобы откликаться на их зов, я должна быть\nначеку!"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_RICE_EAR_01",
+   "key": "f3e7ce5d",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nНе хочу, чтобы кто-то обжёгся рисом из\nкотелка.\n<PAGE>\nЯ всегда принимаю меры, чтобы на Празднике\nизобилия ничего не случилось, и в этом году\nвсё прошло без сучка без задоринки.\n<PAGE>\n<FACE_LAUGH>На празднике главное, чтобы всем было весело\nдо самого конца."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_RICE_EAR_02",
+   "key": "898a5f1a",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nИногда я думаю... А что, если бы все\nподношения были только жареным тофу?\n<PAGE>\n<FACE_SAD>Нет, нет! Нельзя поддаваться жадности.\nНикудышным бы я была духом!\n<PAGE>\n<FACE_NORMAL>Хотя жареный тофу пришёлся бы очень кстати.\nХе!"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_RICE_EAR_00",
+   "key": "28831bf4",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nОбычные люди меня не видят, так что\nтанцевать с тобой при других я не могу.\n<PAGE>\n<FACE_LAUGH>Но, просто видя, как тебе весело танцевать, и\nмне становится весело."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_RICE_EAR_01",
+   "key": "6b1b2022",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХороший был праздник. Но, ну...\n<PAGE>\n<FACE_LOVE>Потом, когда все разойдутся, потанцуешь со\nмной?\n<PAGE>\nВидя, как тебе весело танцевать с другими, мне\nкак-то не по себе..."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_RICE_EAR_00",
+   "key": "28831bf4",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nОбычные люди меня не видят, так что\nтанцевать с тобой при других я не могу.\n<PAGE>\n<FACE_LAUGH>Но, просто видя, как тебе весело танцевать, и\nмне становится весело."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_RICE_EAR_01",
+   "key": "6b1b2022",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХороший был праздник. Но, ну...\n<PAGE>\n<FACE_LOVE>Потом, когда все разойдутся, потанцуешь со\nмной?\n<PAGE>\nВидя, как тебе весело танцевать с другими, мне\nкак-то не по себе..."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_RICE_EAR_DANCE_00",
+   "key": "f7c3486b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал со мной, папа!\n<PAGE>\nНо в следующий раз дай мне танцевать за\nмальчика, ладно?"
+  },
+  {
    "n": 109,
    "f": 2,
    "id": "MES_FREE_EVENT_Child_Boy_RICE_EAR_DANCE_01",
@@ -9,11 +702,60 @@
    "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, мама!\n<PAGE>\n<FACE_NORMAL>Хм? В следующий раз мне пригласить девочку,\nкоторая нравится?\n<PAGE>\n<FACE_LAUGH>Не рано ли?\n<PAGE>\nК тому же я люблю тебя, мама! Потанцуй со\nмной ещё, ладно?"
   },
   {
+   "n": 110,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_RICE_EAR_00",
+   "key": "b55f5e4f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>! Это был мой первый праздник, и мне было\nужасно весело!\n<PAGE>\nОбязательно придём и в следующем году!"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_RICE_EAR_01",
+   "key": "82ea2e33",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nРис из котелка Гиндзиро был суперский!\n<PAGE>\n...Ах да! Это ещё и благодаря вкусным овощам\nУмэкити и Иттэцу!\n<PAGE>\nНадо сказать спасибо всем в городе! Спасибо\nвсем в городе!"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_RICE_EAR_02",
+   "key": "e0989f76",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nФух! Праздник изобилия в этом году был\nвесёлым!\n<PAGE>\nЯити зовёт меня залезть с ним на большую\nсоломенную лису. Я мигом!\n<PAGE>\n<FACE_SAD>Нельзя? Эх..."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_RICE_EAR_DANCE_00",
+   "key": "a54c69e7",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевал со мной, папа!\n<PAGE>\n<FACE_NORMAL>Хм? В следующий раз пригласить мальчика,\nкоторый нравится? Ладно! Как найду ―\nприглашу!\n<PAGE>\n<FACE_LAUGH>Но сейчас больше всех мне нравишься ты!\n<PAGE>\nПотанцуй со мной ещё, ладно? ♪"
+  },
+  {
    "n": 114,
    "f": 2,
    "id": "MES_FREE_EVENT_Child_Girl_RICE_EAR_DANCE_01",
    "key": "b092544f",
    "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что потанцевала со мной, мама!\n<PAGE>\nНо в следующий раз дай мне танцевать за\nдевочку, ладно?"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_RICE_EAR_00",
+   "key": "b55f5e4f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>! Это был мой первый праздник, и мне было\nужасно весело!\n<PAGE>\nОбязательно придём и в следующем году!"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_RICE_EAR_01",
+   "key": "82ea2e33",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nРис из котелка Гиндзиро был суперский!\n<PAGE>\n...Ах да! Это ещё и благодаря вкусным овощам\nУмэкити и Иттэцу!\n<PAGE>\nНадо сказать спасибо всем в городе! Спасибо\nвсем в городе!"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_RICE_EAR_02",
+   "key": "d4896bda",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nФух! Праздник изобилия в этом году был\nвесёлым!\n<PAGE>\nЯити зовёт меня залезть с ним на большую\nсоломенную лису. Но, наверное, не стоит, да?\n<PAGE>\nВыглядит супер-пупер весело, но ничего.\nГордишься, что я отказалась?"
   }
  ]
 }
