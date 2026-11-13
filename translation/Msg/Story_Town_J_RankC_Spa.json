@@ -1,0 +1,75 @@
+{
+ "file": "Story_Town_J_RankC_Spa",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_SPA_00",
+   "key": "23dff528",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу, <_____MYNAME_____>?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_SPA_01",
+   "key": "c82b0fc5",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЧто ты видишь, когда смотришь на это здание?\nУгадаешь, что здесь было?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_SPA_02",
+   "key": "597a7a79",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЭто купальня. Ну... была. Уже много лет как\nзакрыта."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_SPA_03",
+   "key": "6406a76a",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_NORMAL>\r\nВ нашем городе есть природный горячий\nисточник, и эта купальня брала из него воду.\n<PAGE>\n<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>Наша семья в своё время ходила сюда\nпостоянно.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>Мне нравились горячие источники. Купальня\nбыла очень большая. Можно было даже\nплавать."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_SPA_04",
+   "key": "dabb2c48",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_SAD>\r\nНо однажды в одной из купален появилась\nтрещина.\n<PAGE>\nКупальню, где вода течёт во все стороны,\nособо не поддержишь, так что взялись за\nсерьёзный ремонт.\n<PAGE>\nК несчастью, деньги кончились раньше работы,\nи с тех пор всё так и стоит недоделанным.\n<PAGE>\n<FACE_NORMAL>Но мы все по ней скучаем. Вот и подумали, что\nтеперь, когда город живёт лучше...\n<PAGE>\n<FACE_LAUGH>...пора всем городом вернуть старую купальню\nк жизни!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_SPA_05",
+   "key": "2913f978",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nА теперь главное, <_____MYNAME_____>, так что слушай\nвнимательно...\n<PAGE>\nМожно и тебя попросить сделать взнос?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_SPA_06",
+   "key": "d8d6dbbd",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСделаешь? Великолепно! Великолепно! Мы\nочень признательны!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_SPA_07",
+   "key": "2f0575d4",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_NORMAL>\r\nСпасибо, <_____MYNAME_____>. Мы благодарны за твой вклад.\n<PAGE>\n<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>Но вклад будет не только твой. Мы внесём\nстолько, сколько сможем."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_SPA_08",
+   "key": "bb93fd26",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nТак, давай к делу.\n<PAGE>\nМожно попросить у тебя взнос: <BLUE><MOJI0></BLUE><MOJI1>?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_SPA_09",
+   "key": "c4218c30",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Значит, решено!\n<PAGE>\nКак соберёшь деньги, неси мне, ладно?\n<PAGE>\nМы на тебя рассчитываем, <_____MYNAME_____>!"
+  }
+ ]
+}

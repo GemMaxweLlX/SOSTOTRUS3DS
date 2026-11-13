@@ -1,0 +1,89 @@
+{
+ "file": "Tutorial_Advice_Prompt",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_00",
+   "key": "1d1f57dc",
+   "ru": "<FACE_UNCLE>\r\n<_____MYNAME_____>, ты дома? Прошу прощения."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_01",
+   "key": "9bb9759e",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nХотел заглянуть и узнать, как продвигаются\n“Советы по ферме”."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_02",
+   "key": "d2d0603c",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nПохоже, остался только третий, последний\nсписок “Советов по ферме”.\n<PAGE>\nЕщё чуть-чуть, и, уверен, твой отец наконец\nпризнает, что из тебя выйдет отличный\nфермер. Не сдавайся."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_03",
+   "key": "5aebc232",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nПохоже, ты ещё работаешь над вторым\nсписком “Советов по ферме”.\n<PAGE>\nОн чуть сложнее первого, но уверен, ты\nсправишься. Не сдавайся. Всё получится."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_04",
+   "key": "c8cb7379",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nПохоже, первый список “Советов по ферме”\nтолько что выполнен.\n<PAGE>\nВо втором задания немного сложнее...\n<PAGE>\nНо уверен, ты справишься. Не вешай нос. Всё\nполучится."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_05",
+   "key": "434bf8b6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_SAD>\r\nУже три месяца прошло, как я передал\nпоследний список от твоего отца.\n<PAGE>\nПохоже, он даётся нелегко. Хотел бы помочь,\nда не могу."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_06",
+   "key": "86d3acaa",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nВот. Раз ты так стараешься, я принёс тебе\nнебольшой подарок. Надеюсь, понравится."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_07",
+   "key": "2f47ab69",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВот. Я принёс тебе небольшой подарок. Уверен,\nпригодится."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_08",
+   "key": "bec487b4",
+   "ru": "(Получено <BLUE>10 000</BLUE>G!)"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_09",
+   "key": "2b68b45d",
+   "ru": "(Получено <BLUE>3 000</BLUE>G!)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_10",
+   "key": "eacf1f64",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно, пойду домой.\n<PAGE>\nЯ за тебя болею, <_____MYNAME_____>. Знаю, у тебя получится."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ADVICE_PROMPT_11",
+   "key": "fa578e97",
+   "ru": "(Ещё остались невыполненные “Советы по\nферме”. Надо продолжать, когда будет время!)"
+  }
+ ]
+}

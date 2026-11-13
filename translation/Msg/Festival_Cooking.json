@@ -1,0 +1,376 @@
+{
+ "file": "Festival_Cooking",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_00",
+   "key": "54fbff82",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть...\n<PAGE>\nНачинаем Кулинарную выставку (<MOJI0>): класс\nНовичок, одно блюдо!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_01",
+   "key": "1f8d8a03",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть...\n<PAGE>\nНачинаем Кулинарную выставку (<MOJI0>): класс\nЗнаток, одно блюдо!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_02",
+   "key": "6e71fa18",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть...\n<PAGE>\nНачинаем Кулинарную выставку (<MOJI0>): класс\nМастер, одно блюдо!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_03",
+   "key": "8c75c174",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть...\n<PAGE>\nНачинаем Кулинарную выставку (<MOJI0>): класс\nЛегенда, одно блюдо!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_04",
+   "key": "b7fd09ba",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть...\n<PAGE>\nНачинаем Кулинарную выставку (<MOJI0>): класс\nНовичок, полный обед!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_05",
+   "key": "fc8b7c3b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть...\n<PAGE>\nНачинаем Кулинарную выставку (<MOJI0>): класс\nЗнаток, полный обед!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_06",
+   "key": "8d770c20",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть...\n<PAGE>\nНачинаем Кулинарную выставку (<MOJI0>): класс\nМастер, полный обед!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_07",
+   "key": "6f73374c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКхм-кхм!\n<PAGE>\nДамы и господа, не будем тянуть...\n<PAGE>\nНачинаем Кулинарную выставку (<MOJI0>): класс\nЛегенда, полный обед!\n<PAGE>\nПрошу участников!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_INTRODUCTION_00",
+   "key": "dfafc194",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nПервый участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_INTRODUCTION_01",
+   "key": "3f272711",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nПродолжаем: второй участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_INTRODUCTION_02",
+   "key": "0b527508",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЗа ним третий участник ― <MOJI1> (<MOJI0>)!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_OPENING_INTRODUCTION_03",
+   "key": "62907539",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nИ последний участник ― <MOJI1> ― <MOJI0><MOJI4>!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_INTRO_JUDGE_00",
+   "key": "53efc6ff",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nВсе участники в сборе, и я представляю нашего\nсудью!\n<PAGE>\n<FACE_LAUGH>Специалист по кулинарии Шафран!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_INTRO_JUDGE_01",
+   "key": "0626c9bb",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\nЯ Шафран. Рада быть здесь. С нетерпением\nжду, что вы приготовите!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_INTRO_JUDGE_02",
+   "key": "9439b2c5",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nА теперь пусть участники приступают к готовке!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_ASK_00",
+   "key": "827bb0cb",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nТема на этот раз: <RED><MOJI0></RED> <RED><MOJI1></RED>!\n<PAGE>\nИтак, начинайте готовить!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_ASK_BEGINNER",
+   "key": "9c73a2de",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nНачинайте готовить!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_ASK_01",
+   "key": "2993be1c",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПервое блюдо обеда ― какой-нибудь <RED>салат</RED>!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_ASK_02",
+   "key": "e308f1c0",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПродолжаем: второе блюдо обеда ―\nкакой-нибудь <RED>суп</RED>!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_ASK_03",
+   "key": "2f3761a7",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nТретье блюдо на выбор: что-нибудь\n<RED>жареное/во фритюре</RED> или <RED>блюдо в горшочке</RED>."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_ASK_04",
+   "key": "398ef485",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nЧетвёртое блюдо тоже на выбор: <RED>лапша/хлеб</RED>\nили <RED>блюдо из риса</RED>."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_ASK_05",
+   "key": "2595fe99",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nНе забудем и пятое блюдо ― какой-нибудь\n<RED>десерт</RED>!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_ASK_06",
+   "key": "58979a7d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nИ наконец, последнее блюдо обеда ― один\n<RED>напиток</RED>, пожалуйста!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_SELECT_00",
+   "key": "ce1e3e9d",
+   "ru": "Начать готовить!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_SELECT_01",
+   "key": "0131e523",
+   "ru": "Ничего не готовить"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_NONE_ASK_00",
+   "key": "64de46a6",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nЕсли ничего не приготовить, оценки не будет.\nВы уверены?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_NONE_SELECT_00",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_NONE_SELECT_01",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_MAKE_FINISH_00",
+   "key": "b99d9767",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПохоже, участники закончили готовить свои\nблюда!\n<PAGE>\nПереходим к дегустации!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_JUDGE_00",
+   "key": "a37ab4c6",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\nТак... так... Хм... О, это..."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_JUDGE_01",
+   "key": "09a8a98b",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\nАга! Вот в чём задумка!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_JUDGE_02",
+   "key": "af6f05d4",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_LAUGH>\r\nОх! Это нечто!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_JUDGE_03",
+   "key": "36ef7994",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_LAUGH>\r\nСовсем неплохо! Намного лучше, чем я\nожидала."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_JUDGE_04",
+   "key": "c2afa50d",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_SAD>\r\nВкус неплохой. Но есть над чем поработать."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_JUDGE_05",
+   "key": "009a8161",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_ANGRY>\r\nЭто блюдо меня очень огорчает."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_JUDGE_NONE_00",
+   "key": "4dcda127",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\n<FACE_SAD>...?\n<PAGE>\nЯ не вижу никакой еды!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_RESULT_JUDGE_00",
+   "key": "746f5e96",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПохоже, оценка окончена, а значит, настал\nмомент, которого все ждали!\n<PAGE>\nОбъявляем результаты конкурса!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_RESULT_JUDGE_01",
+   "key": "5951972a",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПобедитель Кулинарной выставки (<MOJI0>) в классе <MOJI1>..."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_RESULT_JUDGE_02",
+   "key": "913506c8",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nПоздравляем: <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_RESULT_JUDGE_03",
+   "key": "ebaf220b",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВторое место ― <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_RESULT_JUDGE_04",
+   "key": "f7257043",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nТретье место ― <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_RESULT_JUDGE_05",
+   "key": "1fb2afa8",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nИ последнее место ― <CHARANAME0> ― <MOJI0><MOJI1>!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_RESULT_JUDGE_06",
+   "key": "513df11d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВсе сегодня поработали на славу!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_CEREMONY_ANNOUNCE",
+   "key": "8b5ae84c",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nА теперь ― церемония награждения!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_INTRO_WINNER_00",
+   "key": "0a46a499",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nПобедитель, <CHARANAME0>, выйдите, пожалуйста, вперёд!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_CEREMONY_PRESENT",
+   "key": "a73d1d83",
+   "ru": "<FACE_SAFFRON><POS_LEFT><FACE_NORMAL>\r\nПоздравляю! Ваша кухня была изумительна!\n<PAGE>\nВручаю вам приз за первое место: <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\nПусть ваша страсть к кулинарии никогда не\nугасает!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_CEREMONY_PRESENT_AVATAR_SET",
+   "key": "4e1591c5",
+   "ru": "<FACE_SAFFRON><POS_LEFT><FACE_NORMAL>\r\nПоздравляю! Ваша кухня была изумительна!\n<PAGE>\nВручаю вам приз за первое место: набор “<BLUE><____ITEMNAME0____></BLUE>”.\n<PAGE>\nПусть ваша страсть к кулинарии никогда не\nугасает!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_ITEM_BRAND_UP_00",
+   "key": "0f7646ea",
+   "ru": "<FACE_SAFFRON><POS_LEFT><FACE_NORMAL>\r\nБлагодаря победе бренд “<BLUE><MOJI4></BLUE>” от <_____MYNAME_____> поднялся до\nуровня <RED><MOJI5></RED>!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_ITEM_BRAND_UP_01",
+   "key": "29d3bf86",
+   "ru": "<FACE_SAFFRON><POS_LEFT><FACE_NORMAL>\r\nБренд “<BLUE><MOJI4></BLUE>” поднялся до уровня <RED><MOJI5></RED>!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_ENDING",
+   "key": "413c29ba",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nНа этом <RED>Кулинарная выставка (<MOJI0>)</RED> завершена. До\nновых встреч, друзья!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_GO_HOME_01",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_FES_COOKING_GO_HOME_02",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  }
+ ]
+}

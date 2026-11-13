@@ -1,0 +1,131 @@
+{
+ "file": "Resident_J_Chaser_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_00",
+   "key": "1df24fba",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOSS>\r\nА? <_____MYNAME_____>...? Давно ты тут стоишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_01",
+   "key": "6de539ad",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>Ох, прошу прощения. Должно быть, я\nзадумался."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_02",
+   "key": "11ca3150",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПросто греюсь на солнышке. Сегодня особенно\nхорошая погода, так что..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_03",
+   "key": "cf1a1510",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nСлушай, не хочешь присоединиться?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_04",
+   "key": "94d6c53a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nСмотри, у меня даже есть хороший\nосвежающий чай. Передохни... Хорошо?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_05",
+   "key": "4b93a07c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Садись рядом."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_06",
+   "key": "3e44aa7f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Ветерок такой приятный, правда?\n<PAGE>\nПросто сидеть, любоваться видом и лакомиться\nчем-нибудь вкусным... Разве это не верх\nроскоши?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_07",
+   "key": "61cb9afc",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nО, кстати. Раз уж речь о сладостях: ты знаешь,\nчто в этом городе полно сезонных лакомств?\n<PAGE>\nВесной мы солим листья сакуры и заворачиваем\nв них моти. А летом..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_08",
+   "key": "f75de848",
+   "ru": "<FACE_CHASER>\r\n<_____MYNAME_____>, проснись, пожалуйста."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_09",
+   "key": "b19c5f4d",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро. Похоже, мой рассказ тебя\nусыпил."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_10",
+   "key": "8fd44ee2",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nНет-нет, не переживай. Вздремнуть под тёплым\nсолнышком очень приятно. Уж я-то знаю.\n<PAGE>\nЯ просто рад, что помог тебе отдохнуть.\n<PAGE>\nКстати, если время ещё есть, может,\nпорадуемся погоде ещё немного? ...Подожди\nтут минутку, пожалуйста."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_11",
+   "key": "4d1897a9",
+   "ru": "<FACE_CHASER>\r\nЭто сладкое желе из красной фасоли, “ёкан”.\nЕго вкус мягкий, как весеннее солнце."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_12",
+   "key": "34d04af8",
+   "ru": "<FACE_CHASER>\r\nЭто колотый лёд со вкусом зелёного чая.\nЛедяная прохлада и сладость бобов адзуки ―\nосвежающее лакомство."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_13",
+   "key": "22295f7f",
+   "ru": "<FACE_CHASER>\r\nЭто дайфуку. Он с каштанами, как раз сейчас их\nсезон. В каждом кусочке чувствуется сытный\nвкус осени."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_14",
+   "key": "6db3bfef",
+   "ru": "<FACE_CHASER>\r\nЭто кастелла. Ничто так не согревает, как она,\nтолько из печи."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_15",
+   "key": "3385c158",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЕсли уж греться на солнце, то с подходящим к\nсезону лакомством.\n<PAGE>\nЭто я и пытался объяснить, но... пожалуй,\nлучше попробовать, чем слушать мои рассказы.\n<PAGE>\n<FACE_LAUGH>Что скажешь? Попробуешь мой особый способ\nгреться на солнышке, <_____MYNAME_____>?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_16",
+   "key": "f64d9d35",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что составил(а) мне компанию на\nсолнышке, <_____MYNAME_____>.\n<PAGE>\nЯ чудесно провёл время."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_CHASER_1_17",
+   "key": "c7b3bd65",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха. Похоже, тебе тоже понравилось.\n<PAGE>\nЕсли представится случай, давай повторим."
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "file": "Story_Town_S_RankA_Collabo_Menu",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_00",
+   "key": "ad94ddca",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nИтак, <_____MYNAME_____>, думаю, ты догадываешься, о чём пойдёт\nречь.\n<PAGE>\nЯ слышала, Каолила тобой не нарадуется."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_01",
+   "key": "963ff412",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nОй, да брось. Не прикидывайся.\n<PAGE>\nСмесь специй ведь вы вместе делали, да?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_02",
+   "key": "77a60ebf",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nТеперь Илука тоже хочет сделать что-то в\nэтом роде."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_03",
+   "key": "c9109ed3",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nСилука! Не перебивай."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_04",
+   "key": "3650d08b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nНо да, я подумывала использовать твою\nпродукцию, чтобы придумать что-то новое для\nнашего кафе.\n<PAGE>\nТак что от тебя нужно принести мне\nкакой-нибудь ингредиент, которым мы тут\nредко пользуемся."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_05",
+   "key": "6cae4cf6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nКонечно, ты хочешь! А как же иначе? Работать\nвместе с нами ― это престижно.\n<PAGE>\nА, о самом рецепте не беспокойся. Им займётся\nСилука.\n<PAGE>\n<FACE_NORMAL>Так, нам понадобится, э-э..."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_06",
+   "key": "562f6802",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nЭ-э... Что там было, Силука?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_07",
+   "key": "4ffaa933",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE> и <BLUE><____ITEMNAME2____></BLUE> <BLUE>x<MOJI4></BLUE>.\n<PAGE>\nТолько это."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_08",
+   "key": "23de7bb5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nАх да, точно! Такому фермеру, как ты, это\nлегко достать, м-м?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_09",
+   "key": "4ac77cc2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПравильный ответ!\n<PAGE>\nЕсли всё получится, мы даже укажем название\nтвоей фермы, когда внесём блюдо в меню.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Если я его приготовлю, конечно. Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKA_COLLABO_MENU_10",
+   "key": "f025e83c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nКак соберёшь все ингредиенты, неси прямо мне,\nясно?\n<PAGE>\nТак! Теперь всё в твоих руках, не подведи."
+  }
+ ]
+}

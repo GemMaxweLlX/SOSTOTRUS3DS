@@ -1,0 +1,257 @@
+{
+ "file": "Resident_A_Goddess",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_00",
+   "key": "96574d1b",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_SAD>\r\nОх... Опять я всё испортила."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_01",
+   "key": "2a01b144",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\nЯ думала, ты просто колдуешь заклинание\nувеличения на персик! Почему он взорвался?!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_02",
+   "key": "686bcede",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_ANGRY>\r\nГоспожа Десси, не стоит так переводить еду."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_03",
+   "key": "309c17b1",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_SAD>\r\n*всхлип* Я не... Я не хотела... П-простите..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_04",
+   "key": "53f8010c",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nО, да это же <_____MYNAME_____>."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_05",
+   "key": "cfb06680",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\nЧто случилось? Я тебе скажу, что случилось!\nДесси тренировалась в магии, и...\n<PAGE>\n...персик, который она пыталась увеличить,\nразлетелся вдребезги!\n<PAGE>\n<FACE_SAD>Теперь я вся липкая и в соку. Хуже не\nпридумаешь."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_06",
+   "key": "dac12a4c",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nНо если учесть силу взрыва...\n<PAGE>\nЯсно, что дело не в нехватке силы, а скорее в\nеё избытке.\n<PAGE>\nГотова поспорить, что неуверенность госпожи\nДесси мешает ей управлять силой.\n<PAGE>\nВ таком случае стоит попробовать ту особую\nтренировку для уверенности, о которой вы\nговорили, госпожа Ведьмочка."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_07",
+   "key": "cff61881",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nДа, но нужен кто-то на роли помощника..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_08",
+   "key": "3484d281",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_LAUGH>\r\n...И как раз так удачно здесь есть идеальный\nкандидат. ♪\n<PAGE>\n<_____MYNAME_____>, будь душкой, побудь помощником Десси на\nтренировке, а?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_09",
+   "key": "a488f4a7",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nМы дадим госпоже Десси список заданий.\nВыполнив их, она должна вернуть уверенность\nв себе. Беда лишь в том...\n<PAGE>\n<FACE_WITCH><POS_RIGHT><FACE_NORMAL>Что если она провалит тренировку, уверенности\nей уже никогда не вернуть.\n<PAGE>\nИ вот тут нужен(на) ты.\n<PAGE>\nКакие бы неудачи у неё ни случались, сделай\nтак, чтобы казалось, будто всё получилось.\n<PAGE>\nПонятно? Пусть провалится с треском, лишь бы\nдумала, что всё удалось, ― и всё хорошо, что\nхорошо кончается."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_10",
+   "key": "fbf4e4d0",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nМы? Как бы это ни выглядело, мы на самом\nделе очень заняты.\n<PAGE>\nРаз ты тут слоняешься без дела, значит,\nсвободное время у тебя есть, так?\n<PAGE>\n<FACE_ANGRY>Как насчёт такого? Если не сделаешь, что\nвелено, превращу тебя в лягушонка и добавлю\nв свою коллекцию!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_11",
+   "key": "b5230bd4",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_LAUGH>\r\nРада, что мы друг друга поняли. ♪\n<PAGE>\nЛадно, пойду расскажу Десси, в чём её особая\nтренировка."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_12",
+   "key": "af840b24",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, оставляем её на тебя.\n<PAGE>\n<FACE_ANGRY>...Не стоило бы и говорить, но если\nпровалишься и расстроишь её ещё сильнее или\nдоведёшь до слёз, пожалеешь.\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>Пожалуйста, присмотри за госпожой Десси,\nчтобы она не пострадала.\n<PAGE>\nИ себя береги."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_13",
+   "key": "06c98554",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_SAD>\r\n...Мы как опекуны Десси или вроде того? Что\nты такое говоришь? Прекрати."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_14",
+   "key": "bf489e27",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Как следует проходи тренировку с <_____MYNAME_____>.\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>Верьте в себя, и удачи. Когда выполните все\nзадания, мы за вами придём."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_15",
+   "key": "c410f9d1",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_NORMAL>\r\nХ-хорошо... Я постараюсь!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_16",
+   "key": "ab06561f",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, <_____MYNAME_____>, ты ведь здесь, чтобы проследить, как я\nвыполню задания?\n<PAGE>\nЯ-я знаю, что бываю неуклюжей, но спасибо,\nчто поддерживаешь!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_17",
+   "key": "9642fcb4",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nТак... Первое задание: “магией превратить\nдерево в доски”. Н-ну, поехали!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_18",
+   "key": "f4d090c1",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nВторое задание ― “заставить цветок\nрасцвести”!\n<PAGE>\nПрошлое задание прошло неплохо, так что...\nможет, повезёт дважды!\n<PAGE>\n<FACE_NORMAL>Так... Начинаю!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_19",
+   "key": "1694acd2",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nНе верится, что у меня так получается с\nмагией... Прямо мечта сбылась!\n<PAGE>\n<FACE_NORMAL>Это благодаря тебе, <_____MYNAME_____>?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_20",
+   "key": "6fc21bdf",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nТы как талисман на удачу! Просто рядом с\nтобой я чувствую силу..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_21",
+   "key": "29d876fa",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nТак, глядишь, и последнее задание, которого я\nбоялась, пройдёт отлично!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_22",
+   "key": "af7e7b80",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_NORMAL>\r\nИтак. Последнее задание... “Наполнить <_____MYNAME_____>\nэнергией”!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_23",
+   "key": "e3998a21",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_SAD>\r\nЯ ужасно боялась этого задания, ведь если\nпровалюсь, тебе будет грозить смертельная\nопасность... или просто смерть...\n<PAGE>\n<FACE_NORMAL>Но! Пройдя все прошлые испытания, думаю, я\nсправлюсь!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_24",
+   "key": "48e7c04e",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nНе волнуйся, я тебя не подведу, <_____MYNAME_____>!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_25",
+   "key": "ee7e7b66",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_NORMAL>\r\nНачинаю! Я-я-я-ах!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_26",
+   "key": "e6dffa59",
+   "ru": "(Короткой вышла жизнь. Спасибо всем за\nвсё...)\n<PAGE>\n(...)\n<PAGE>\n(...О?! Я... чувствую, как по телу бежит\nэнергия!)"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_27",
+   "key": "44066e89",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>, ты сияешь! З-значит...?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_28",
+   "key": "c4ff2d83",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nУра-а-а! Я выполнила все задания! Слава\nбогу... Слава богу!\n<PAGE>\n<FACE_SAD><_____MYNAME_____>, огромное спасибо, что всё это время за мной\nприсматривал(а)!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_29",
+   "key": "b132fa5c",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_NORMAL>\r\n...Ладно, теперь я наконец увеличу этот персик!\n<PAGE>\n<FACE_WITCH><POS_RIGHT><FACE_NORMAL>Да, после того как ты сама справилась с\nпоследним заданием...\n<PAGE>\nЭ, то есть после ВСЕХ заданий, у тебя точно\nполучится!\n<PAGE>\n<FACE_INARI><POS_LEFT><FACE_NORMAL>*глоток*\n<PAGE>\n<FACE_GODDES><POS_LEFT><FACE_NORMAL>Да! Поехали! Получа-а-ай!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_30",
+   "key": "4bf2bacb",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nНеужели...?!\n<PAGE>\n<FACE_WITCH><POS_RIGHT><FACE_NORMAL>Она что...?!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_31",
+   "key": "eb932271",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\n...И я снова в соку. Прекрасно.\n<PAGE>\n<FACE_INARI><POS_LEFT><FACE_SAD>Ах! В глаза попало...!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_32",
+   "key": "156994a7",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_SAD>\r\nОй, нет! Простите все!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_33",
+   "key": "352a548f",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_SAD>\r\nПосле всей этой тренировки со мной ― и\nникакого прогресса...\n<PAGE>\nПростите, что потратили на меня время... Я\nнайду, как загладить вину.\n<PAGE>\n<FACE_NORMAL>Н-но, знаете, в этот раз взрыв был не такой\nсильный... Я почувствовала небольшую\nразницу!\n<PAGE>\nПосле сегодняшних заданий у меня, кажется,\nчуть больше уверенности...\n<PAGE>\n<FACE_LAUGH>Да! Отныне, даже если провалюсь, не буду\nплакать.\n<PAGE>\nВместо этого буду тренироваться всё усерднее!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_34",
+   "key": "bb6ed64f",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\n...Эй, ты вообще слушаешь?!\n<PAGE>\nСколько раз мне ещё сегодня обливаться\nсоком?!\n<PAGE>\n<FACE_INARI><POS_LEFT><FACE_ANGRY>Госпожа Десси, вам правда нужно бережнее\nотноситься к еде.\n<PAGE>\nНа свете бесчисленное множество голодающих,\nкоторые могли бы это съесть."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_GODDESS_35",
+   "key": "3ec6b06f",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_SAD>\r\nВа-а-а! Простите! Простите! Простите-е!"
+  }
+ ]
+}

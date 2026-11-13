@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Chap",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "ba5cd2d4",
+   "ru": "Приве-е-ет, дружище!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "74b45b5c",
+   "ru": "<NAME_MOB_CHAP>\r\nЗнаешь какую-нибудь смешную историю?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "06306e89",
+   "ru": "<NAME_MOB_CHAP>\r\nХа-ха! Хи-хи! Хо-хо! О чём это я?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "dce606f1",
+   "ru": "<NAME_MOB_CHAP>\r\nБудешь моим партнёром по комедии? А?!"
+  }
+ ]
+}

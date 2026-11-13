@@ -1,0 +1,194 @@
+{
+ "file": "Resident_A_Postman_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_00",
+   "key": "adc06270",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_L>А... <_____MYNAME_____>. Привет..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_01",
+   "key": "b25d9fb6",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_L><WINDOW_SWEAT_L>...Хм? Я какой-то сам не свой? Да... пожалуй.\n<PAGE>\nПросто... вон. Посмотри."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_02",
+   "key": "c5419468",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_L>*вздох* Ох.\n<PAGE>\nНет... Знаю. Уэйн тут ни при чём.\n<PAGE>\nВ смысле, это же моя жена так рвётся с ним\nпоболтать."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_03",
+   "key": "f577b985",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\nНо, ох, он слишком уж хорошо умеет говорить\nс людьми.\n<PAGE>\nС кем бы ни говорил, не успеешь оглянуться, а\nты уже по уши в разговоре. Да мне самому с\nним ужасно весело!\n<PAGE>\n*вздох* Бывают же на свете идеальные люди.\nИ внешность, и характер, и поговорить\nмастак...\n<PAGE>\n...\n<PAGE>\n<FACE_NORMAL>...Слушай, а у Уэйна вообще есть слабости?\n<PAGE>\nЯ знаю его целую вечность, но ни разу не видел\nни намёка на слабость...\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_L><WINDOW_EXCLAMATION_L>А-а-а!\n<PAGE>\nЗнаю! <_____MYNAME_____>! Ты можешь выяснить его слабое место!\n<PAGE>\n<WINDOW_DEFAULT>Тебе Уэйн, может, и откроется!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_04",
+   "key": "19e56e24",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\nНу пожалуйста. Очень прошу!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_05",
+   "key": "fa21de19",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<FACE_LAUGH>Ну привет, <_____MYNAME_____>.\n<PAGE>\nСадись, напарник."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_06",
+   "key": "6d0aaa78",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Ах, вот как. Значит, ты, как всегда, в делах?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_07",
+   "key": "eb4ff7c4",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТак вот, представляешь, недавно..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_08",
+   "key": "97f5c559",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nНебольшой бонус от моего мужа для тебя и <_____MYNAME_____>. ♪\n<PAGE>\nКоулслоу! Приятного аппетита! <RED>∀</RED>"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_09",
+   "key": "b8e649e2",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\n<FACE_LAUGH>...А-ха-ха, бонус, значит?\n<PAGE>\n...Ну, налетаем."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_10",
+   "key": "d6cf8800",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХм? Что такое? Не будешь есть?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_11",
+   "key": "54b96f7b",
+   "ru": "(Уэйн ведёт себя немного странно...)\n<PAGE>\n(Может, показалось, но, кажется, он\nморщится.)\n<PAGE>\n(Неужели...?)"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_12",
+   "key": "c0de390f",
+   "ru": "Ты не любишь коулслоу?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_13",
+   "key": "174d71a7",
+   "ru": "Уже сыт?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_14",
+   "key": "22de1d2d",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nЧто? Нет, не в этом дело.\n<PAGE>\n<FACE_NORMAL>Ну, наверное, тебе можно сказать...\n<PAGE>\n...Только обещай не смеяться.\n<PAGE>\n<FACE_SAD><WINDOW_SWEAT_R>Я, э-э...\n<PAGE>\n...не очень люблю йогурт."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_15",
+   "key": "ea1716c3",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_EXCLAMATION_R>!!!\n<PAGE>\n<WINDOW_DEFAULT>...Ах.\n<PAGE>\n<FACE_LAUGH><WINDOW_SWEAT_R>...Раскусил(а) меня, да?\n<PAGE>\n<FACE_LAUGH>Хотя дело не столько в коулслоу, сколько... в\nйогурте, который я не люблю..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_16",
+   "key": "7643da1e",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nПо правде, раньше я много чего не любил.\n<PAGE>\nПонемногу привык ко всему, но вот это одно\nникак...\n<PAGE>\n<FACE_NORMAL>Ах, но есть я могу. Невежливо не съесть всё,\nчем тебя угостили."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_17",
+   "key": "9e0c30d6",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПонемногу привык есть многое, но вот это одно\nникак...\n<PAGE>\n<FACE_NORMAL>Ах, но есть я могу. Невежливо не съесть всё,\nчем тебя угостили."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_18",
+   "key": "9c8d2ca5",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nНо, эй, слушай...\n<PAGE>\nБуду очень благодарен, если ты сохранишь это\nв тайне."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_19",
+   "key": "e7ac3366",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПрости. Просто как-то стыдно мужчине моих\nлет быть таким привередой...\n<PAGE>\n<FACE_LOSS>Кстати, ловко ты заметил(а), как я морщусь.\n<PAGE>\nЯ думал, неплохо это скрываю, но, видно, над\nневозмутимым лицом ещё работать и\nработать."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_20",
+   "key": "f49b625a",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы понимаешь, потому что мы друзья?\n<PAGE>\n<FACE_LAUGH><WINDOW_KERAKERA_R>Ха-ха! Умеешь ты заставить улыбнуться.\n<PAGE>\n<WINDOW_DEFAULT>Мне всё ещё неловко, что секрет раскрылся...\nно, кажется, я рад, что именно тебе."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_21",
+   "key": "3ae25179",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\n...Ну? Как всё прошло?\n<PAGE>\nУзнал(а), в чём слабость Уэйна?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_22",
+   "key": "2ffeecd7",
+   "ru": "Поправить"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_23",
+   "key": "2b4af441",
+   "ru": "Сохранить в тайне"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_24",
+   "key": "655351d4",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nЧто, правда?! Уэйн не любит йогурт?\n<PAGE>\nТогда я поступил довольно скверно, угостив его\nкоулслоу...\n<PAGE>\nНо... молодец, что выяснил(а), <_____MYNAME_____>.\n<PAGE>\nОн у нас постоянный клиент, а я и понятия не\nимел."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_25",
+   "key": "b0a07221",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\nЭ-э... Знаю, сам просил, но...\n<PAGE>\nКак-то нечестно держать в руках чужую\nслабость.\n<PAGE>\nЭто последний раз, когда я копаюсь в секретах\nУэйна. Да. Больше никакого шпионажа.\n<PAGE>\nЭто будет наш маленький секрет, ладно?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_POSTMAN_2_26",
+   "key": "b0a86545",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nЗначит, даже ты не смог(ла) выяснить, а, <_____MYNAME_____>?\n<PAGE>\nНу... может, оно и к лучшему.\n<PAGE>\nЭто я всё затеял, но... мне стыдно, что я тебя\nвтянул.\n<PAGE>\n<FACE_LAUGH>Так, решено!\n<PAGE>\nБольше не копаюсь в секретах Уэйна!\n<PAGE>\nОн безупречный, но добрый человек, и точка!"
+  }
+ ]
+}

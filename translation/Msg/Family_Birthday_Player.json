@@ -1,0 +1,509 @@
+{
+ "file": "Family_Birthday_Player",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_Postman",
+   "key": "5f12b166",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>. У меня кое-что для тебя\nесть.\n<PAGE>\nЯ приготовил особые угощения в честь твоего\nдня рождения. Иди сюда."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_Doctor",
+   "key": "f180775a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>. Я рад, что ты дома!\n<PAGE>\n<FACE_LAUGH>В честь твоего дня рождения я приготовил\nогромный ужин! Прошу, умойся и садись."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_Chaser",
+   "key": "0f815502",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! С возвращением. Надеюсь, ты не слишком\nустала за день.\n<PAGE>\nРаз у тебя день рождения, я решил\nприготовить много твоих любимых блюд.\nПрошу, садись."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_Apprentice",
+   "key": "e14323b9",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>, ты дома! Я тебя ждал!\n<PAGE>\nЯ приготовил кучу еды в честь твоего дня\nрождения! Давай, присоединяйся!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_Craftman",
+   "key": "eb704c87",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>. Рад, что ты наконец дома!\n<PAGE>\nЯ приготовил тебе сегодня большой\nпраздничный ужин. День рождения как-никак.\n<PAGE>\nИди умойся!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_Florist",
+   "key": "8e215c3d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>. С возвращением, милый. Как прошёл день?\n<PAGE>\nЯ приготовила твои любимые блюда в честь\nдня рождения. Надеюсь, ты голоден!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_TeaGirl",
+   "key": "b531f511",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПривет, <_____MYNAME_____>! С возвращением. Тяжёлый был день?\n<PAGE>\nУ тебя день рождения, так что вот ― большой\nпир!\n<PAGE>\nА ну иди скорее сюда!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_Teacher",
+   "key": "4ec0197a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>. С возвращением. Я надеялась, что ты скоро\nпридёшь.\n<PAGE>\nВ честь твоего дня рождения преподношу тебе\nэтот пир. Прошу, садись и наслаждайся."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_TwinOlder",
+   "key": "b5bd3311",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЭй! С возвращением! Ты сегодня отлично\nвыглядел на работе!\n<PAGE>\nПраздничный ужин готов, так что иди садись. ♪"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_TwinYounger",
+   "key": "ed496e31",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>... С возвращением. Я тебя ждала.\n<PAGE>\nТвой праздник... Я всё приготовила.\nНаготовила много, надеюсь, ты голоден."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_Inari",
+   "key": "25a64dc4",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЗдравствуй, <_____MYNAME_____>! Наконец-то! Как долго пришлось\nждать!\n<PAGE>\nСегодня важный день. День твоего появления\nна свет.\n<PAGE>\nНе беспокойся, святилище в надёжных руках.\n<PAGE>\nМне хочется отпраздновать этот вечер вместе с\nтобой.\n<PAGE>\nДаже идеальный ужин уже готов.\n<PAGE>\nПрошу, садись. ♪"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_Wantatan",
+   "key": "23f0af16",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>. Ты, наверное, устала как\nсобака.\n<PAGE>\nНо не волнуйся ― я приготовил к твоему дню\nрождения отличный ужин!\n<PAGE>\nИди умойся, и приступим."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_HOME_Presenter",
+   "key": "6e82aeb3",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>. Ты, наверное, устал на\nработе.\n<PAGE>\nСегодня твой день рождения, так что я\nприготовила для тебя первоклассный пир!\n<PAGE>\nПриступим? ♪"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_Postman",
+   "key": "57bfa672",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЯ постарался приготовить твои любимые\nблюда, как ты любишь. Надеюсь, получилось, <_____MYNAME_____>.\n<PAGE>\nНадеюсь, ты голодна! Ешь, пока не остыло."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_Doctor",
+   "key": "4899e74a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nВозможно, я немного перестарался, но как\nподумал, что это вызовет у тебя улыбку, не\nсмог остановиться.\n<PAGE>\nЕшь, пока свежее!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_Chaser",
+   "key": "23768392",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nНаверное, я приготовил многовато, но если это\nвызовет у тебя улыбку, оно того стоило.\n<PAGE>\nГотова есть?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_Apprentice",
+   "key": "d59b4501",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nНу? Как тебе? Неплохо, а? Хотел, чтобы тебе\nбыло хорошо, так что, может, немного увлёкся\nготовкой.\n<PAGE>\nЗато хватит на добавку! И на вторую!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_Craftman",
+   "key": "4eebc92a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nВпечатляет, да? У тебя важный день, так что\nэто меньшее, что я мог сделать.\n<PAGE>\nВсё получилось, скажу без ложной скромности,\nотлично. Попробуешь?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_Florist",
+   "key": "b39773ca",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nМне хотелось, чтобы сегодня было\nпо-настоящему особенно, так что я очень\nстаралась! Надеюсь, тебе понравится.\n<PAGE>\nЕшь сколько хочешь, ладно?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_TeaGirl",
+   "key": "6f6da64b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЯ всё это приготовила для тебя, <_____MYNAME_____>, так что\nнадеюсь, тебе понравится!\n<PAGE>\nГотов? Налетаем!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_Teacher",
+   "key": "febf1d2f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nНадеюсь, я не приготовила слишком много.\nПризнаюсь, когда дело касается тебя, я иногда\nувлекаюсь.\n<PAGE>\nПрошу, ешь, пока горячее."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_TwinOlder",
+   "key": "30ccf698",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nВпечатляет, правда? Знаю, знаю. Я такая\nзаботливая! Можешь хвалить сколько угодно!\n<PAGE>\n<FACE_LOVE>Н-не надо так расхваливать, дурачок. Ну вот!\n<PAGE>\nЛадно, ладно. Ну же! Налетай уже!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_TwinYounger",
+   "key": "11bb4848",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЯ так рада, что ты счастлив. Я приготовила всё,\nкак ты любишь, <_____MYNAME_____>.\n<PAGE>\nЕды много, так что бери сколько хочешь."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_Inari",
+   "key": "5ec4f306",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nНу? Впечатляет, правда? Когда дело касается\nтебя, нужно стараться изо всех сил.\n<PAGE>\nЧто ж. Пока не остыло... время есть!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_Wantatan",
+   "key": "4438b2f9",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nВидеть тебя такой счастливой ― и все старания\nтого стоили.\n<PAGE>\nА? Сам ли я всё приготовил? Конечно, сам.\n<PAGE>\nНо... в этом костюме я бы не справился.\nУжасно боялся, что кто-нибудь неожиданно\nзаглянет и увидит меня.\n<PAGE>\nВ общем, давай есть, пока не остыло."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_START_Presenter",
+   "key": "fb311638",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nХе-хе, впечатляет, правда? Я рада, что тебе\nнравится.\n<PAGE>\nЯ готовилась к этому дню вместе с Шафран!\nЭтот ужин одобрен профессионалом.\n<PAGE>\nЕсть ещё много, так что ешь сколько хочешь. Я\nвот точно не стесняюсь!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_Postman",
+   "key": "b18e8c2f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nТак, уборка закончена.\n<PAGE>\nВ твой день рождения не хочу, чтобы ты о\nчём-то беспокоилась, <_____MYNAME_____>.\n<PAGE>\nПонравилась еда? Если тебе понравилось,\nзначит, оно того стоило."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_Doctor",
+   "key": "9fcaa7a4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, уборка прошла гладко! Всё идёт по\nплану.\n<PAGE>\nХотя, признаюсь, твою невероятную улыбку я,\nпожалуй, не полностью учёл.\n<PAGE>\n<FACE_LOVE>Очень хорошо. Да. Очень хорошо."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_Chaser",
+   "key": "b596a1d5",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВот и уборка закончена. Нет-нет! Ничего не\nтрогай! Сегодня ты почётная гостья, так что\nпросто отдыхай.\n<PAGE>\nТвоя прекрасная улыбка ― лучшая\nблагодарность."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_Apprentice",
+   "key": "d2771c8e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак, уборка закончена! Ты такая расслабленная\nи счастливая.\n<PAGE>\nКогда ты так на меня смотришь, мне кажется, я\nвсё могу."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_Craftman",
+   "key": "20782c1d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nТак, тут чисто как никогда! Рад, что ты хоть\nраз можешь просто отдохнуть.\n<PAGE>\nХа-ха, вот эту улыбку я и хотел увидеть. Я так\nрад, что тебе понравилось."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_Florist",
+   "key": "09f84774",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЯ всё прибрала! Сегодня твой день, так что\nпросто отдыхай.\n<PAGE>\nКак тебе ужин? Если ты счастлив, то и я\nсчастлива, <_____MYNAME_____>."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_TeaGirl",
+   "key": "08289bcb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nТак! Всё убрано! Ну и гора грязной посуды\nбыла. Ты столько съел!\n<PAGE>\nХе-хе, ты такой довольный. Продолжай в том\nже духе ― и вгонишь меня в краску!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_Teacher",
+   "key": "e3057d95",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПрости, что заставила ждать, пока я убиралась.\n<PAGE>\nХа-ха, ты выглядишь таким довольным.\n<PAGE>\nЯ искренне рада видеть тебя таким счастливым."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_TwinOlder",
+   "key": "5e1cf1f1",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nСмотри, какая улыбка у тебя на лице... Я же\nговорила, будет вкусно!\n<PAGE>\nТы почти вылизал тарелки, так что мыть было\nпроще простого."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_TwinYounger",
+   "key": "70886b33",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nВсё готово... <_____MYNAME_____>, ты такой счастливый...\n<PAGE>\nКогда ты улыбаешься, <_____MYNAME_____>, мне тоже хочется\nулыбаться."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_Inari",
+   "key": "fcb8b2af",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nХа-ха. Как освежает ― готовить ужин у тебя\nдома и прибираться в твоём жилище.\n<PAGE>\nВидеть твоё довольное лицо... насыщает даже\nбольше, чем еда."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_Wantatan",
+   "key": "90fbcb79",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nНу вот, всё убрано и прибрано. Ты такая\nдовольная, <_____MYNAME_____>.\n<PAGE>\nКогда вижу у тебя такое выражение лица,\nрадуюсь, что так постарался."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_MEAL_END_Presenter",
+   "key": "acbd6921",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nВот и посуда наконец помыта.\n<PAGE>\nНет-нет, сиди и отдыхай, <_____MYNAME_____>. Сегодня ведь твой\nособый день.\n<PAGE>\nХи-хи, видеть тебя таким довольным ― так\nприятно. ♪"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_Postman",
+   "key": "4a5e6b78",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЭтот подарок тебе, дорогая.\n<PAGE>\nСчитай его выражением того, как ты мне\nдорога. С днём рождения."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_Doctor",
+   "key": "827435e5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nАх да! У меня для тебя подарок.\n<PAGE>\nНикакой подарок не выразит, как много ты для\nменя значишь, но надеюсь, он тебе понравится.\nС днём рождения, <_____MYNAME_____>."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_Chaser",
+   "key": "340c507c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения, <_____MYNAME_____>.\n<PAGE>\nПрошу, возьми. В знак того, как я благодарен,\nчто ты рядом каждый день."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_Apprentice",
+   "key": "07eaafc4",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nУ меня и подарок для тебя есть. Держи!\n<PAGE>\nЯ так рад, что мы вместе. С днём рождения."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_Craftman",
+   "key": "00aab19f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nА, и вот твой подарок на день рождения.\nНадеюсь, понравится!\n<PAGE>\nС днём рождения, <_____MYNAME_____>."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_Florist",
+   "key": "62315bde",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nВот. Это мой подарок тебе на день рождения.\n<PAGE>\nНичего особенного, но... я вложила душу в то,\nчтобы найти что-то подходящее. Надеюсь,\nтебе понравится!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_TeaGirl",
+   "key": "705faab7",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nА вот и подарок на день рождения! Я выбирала\nспециально для тебя.\n<PAGE>\nДумаю, тебе очень понравится. С днём\nрождения!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_Teacher",
+   "key": "7558c1e1",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nВот твой подарок на день рождения. Надеюсь,\nпонравится.\n<PAGE>\nС днём рождения, <_____MYNAME_____>."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_TwinOlder",
+   "key": "fed4a4d9",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nКакой же день рождения без подарка, правда?\n<PAGE>\nС днём рождения, <_____MYNAME_____>."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_TwinYounger",
+   "key": "dc696de4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nВот... Твой подарок. С днём рождения, <_____MYNAME_____>."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_Inari",
+   "key": "900aebbf",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nОт меня тебе... Подарок на день рождения.\n<PAGE>\nС днём рождения, <_____MYNAME_____>."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_Wantatan",
+   "key": "67f2bea4",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nУ меня для тебя кое-что есть. Надеюсь,\nпонравится.\n<PAGE>\nС днём рождения, <_____MYNAME_____>."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_PRESENT_Presenter",
+   "key": "150b7c16",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nА теперь ― время подарка! Надеюсь, тебе\nпонравится.\n<PAGE>\nС днём рождения, <_____MYNAME_____>."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GIRL_00",
+   "key": "8ce3c141",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, с днём рождения! Я тебя люблю.\n<PAGE>\nЛучше тебя, <PARENT>, нет никого на свете!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GIRL_01",
+   "key": "e7561b5a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>! С днём рождения!\n<PAGE>\nУжин и моя работа тоже! В следующий раз\nбуду помогать ещё больше. ♪"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_GIRL_02",
+   "key": "13a531d2",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, ты всё время так много трудишься, так что\nсегодня всё для тебя!\n<PAGE>\nС днём рождения!"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_BOY_00",
+   "key": "70db678c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>! Я тебя ТАК люблю. С днём рождения!\n<PAGE>\nОбещай беречь здоровье до следующего дня\nрождения!"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_BOY_01",
+   "key": "d93987da",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nНадеюсь, тебе понравится подарок, <PARENT>!\n<PAGE>\nМы выбирали вместе!"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_BOY_02",
+   "key": "d883823c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nС днём рождения! Лучше тебя, <PARENT>, никого нет!\n<PAGE>\nДавай повторим в следующем году, и через\nгод, и ещё через год!"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_Postman",
+   "key": "27bdf6a1",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЯ люблю тебя, <_____MYNAME_____>. Словами не передать, что ты\nдля меня значишь.\n<PAGE>\nКаждый день полон смеха и улыбок, и всё\nпотому, что ты со мной, <_____MYNAME_____>.\n<PAGE>\nЖду не дождусь, когда мы отпразднуем вместе\nещё много дней рождения."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_Doctor",
+   "key": "f91b5ec3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nЗнаю, я порой бываю, э-э, странноват. Но ты\nвосполняешь мои недостатки.\n<PAGE>\nИными словами, ты поистине моя половинка.\nТы делаешь меня целым.\n<PAGE>\n<FACE_LOVE>Я люблю тебя, <_____MYNAME_____>. Это научно проверяемый факт."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_Chaser",
+   "key": "f71f32fa",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПраздновать день рождения самого любимого\nчеловека, да ещё всей семьёй...\n<PAGE>\n<FACE_LOVE>Это делает меня таким счастливым. Я люблю\nтебя, <_____MYNAME_____>.\n<PAGE>\nХочу праздновать все твои дни рождения вот\nтак."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_Apprentice",
+   "key": "d546ab37",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>. Спасибо, что ты всегда рядом.\n<PAGE>\nЗнаю, я иногда бываю дурашливым, но я тоже\nхочу быть рядом с тобой.\n<PAGE>\nЕсли тебе понадобится моя поддержка, просто\nскажи, ладно? Я всегда буду рядом.\n<PAGE>\nЯ люблю тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_Craftman",
+   "key": "380c7deb",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНе могу представить ничего лучше, чем быть\nздесь, с тобой.\n<PAGE>\nТвои слова и твоя улыбка ― вот что даёт мне\nсилы.\n<PAGE>\nЯ так благодарен, что ты появилась на свет.\nЧто я тебя встретил.\n<PAGE>\nЯ люблю тебя больше всего на свете, <_____MYNAME_____>, и всегда\nбуду любить."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_Florist",
+   "key": "7a251573",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nС тех пор как я тебя встретила, этот день стал\nдля меня очень особенным.\n<PAGE>\nЯ так счастлива, что могу праздновать твой\nдень рождения рядом с тобой.\n<PAGE>\nОх, как же я тебя люблю, <_____MYNAME_____>.\n<PAGE>\nПожалуйста, будь со мной всегда."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_TeaGirl",
+   "key": "7f0fa887",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nНе знаю, почему мне вдруг стало неловко, но...\n<PAGE>\nЯ люблю тебя, <_____MYNAME_____>.\n<PAGE>\nЖду не дождусь, когда буду праздновать все\nтвои дни рождения вот так! Все до одного!"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_Teacher",
+   "key": "91518881",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЭтот день, день твоего рождения, много для\nменя значит.\n<PAGE>\nТо, что ты появился на свет, встретил меня, что\nмы стали семьёй...\n<PAGE>\nКажется, нам суждено было быть вместе.\n<PAGE>\nТак что, прошу, давай праздновать этот особый\nдень вместе, всегда."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_TwinOlder",
+   "key": "7aad4011",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТолько не зазнавайся, но... я так рада, что мы\nвстретились.\n<PAGE>\nИ надо поблагодарить твоих родителей...\n<PAGE>\nЗа такого чудесного сына и за то, что приняли\nменя в свою семью.\n<PAGE>\nВот что такое настоящее счастье. Я люблю\nтебя, <_____MYNAME_____>. Сейчас и всегда."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_TwinYounger",
+   "key": "ea88d466",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЭто особый день, <_____MYNAME_____>, даже для меня.\n<PAGE>\nМахало, <_____MYNAME_____>. За то, что родился, и за то, что стал\nмоей семьёй.\n<PAGE>\n<FACE_LOVE> <_____MYNAME_____>, я люблю тебя больше, чем можно выразить\nсловами.\n<PAGE>\nЗнай, я обещаю никогда тебя не покидать."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_Inari",
+   "key": "7551c263",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nВстреча с тобой открыла мне истинное значение\nлюбви, <_____MYNAME_____>. Это настоящее благословение.\n<PAGE>\nКакое счастье жить в одну эпоху с тобой.\n<PAGE>\nЯ не могу быть с тобой каждый день, но\nобещаю, что в следующем году мы снова\nотпразднуем твой день рождения, как сегодня.\n<PAGE>\n<FACE_LOVE><_____MYNAME_____>, спасибо, что ты есть и что ты часть моей\nжизни."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_Wantatan",
+   "key": "78cc14b8",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nЭто ты показала мне радость иметь семью.\n<PAGE>\nПоэтому я так счастлив, что мы можем\nпраздновать твой день рождения вместе.\n<PAGE>\nИ не только сегодня... Хочу проводить каждый\nтвой день рождения рядом с тобой.\n<PAGE>\nЯ люблю тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_COMMENT__COMMENT_Presenter",
+   "key": "08bcd609",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>... День, когда ты родился, ― это день, когда\nна свет пришло моё счастье.\n<PAGE>\nПраздновать этот день с тобой рядом...\n<PAGE>\nЭто наполняет моё сердце неописуемой\nрадостью.\n<PAGE>\nЯ люблю тебя, <_____MYNAME_____>. Надеюсь, мы будем так\nпраздновать ещё много лет."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_FAMILY_BIRTHDAY_PLAYER_00",
+   "key": "97ac477e",
+   "ru": "(Сегодняшний праздник был чудесным. Год\nвпереди наверняка будет ещё лучше!)"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Kojirou",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "23cfdfaa",
+   "ru": "Вызываю тебя на поединок!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "d1eb47ab",
+   "ru": "<NAME_MOB_KOJIROU>\r\nОсобый приём! Удар ласточки!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "6e99cf0e",
+   "ru": "<NAME_MOB_KOJIROU>\r\nНеужели? Достойный противник?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "d243de0a",
+   "ru": "<NAME_MOB_KOJIROU>\r\nХа! Защищайся!"
+  }
+ ]
+}

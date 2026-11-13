@@ -1,0 +1,61 @@
+{
+ "file": "Talk_S_Craftman",
+ "entries": [
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_01",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 384,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_00",
+   "key": "e6e6212a",
+   "ru": "Конечно!"
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_CONFESSION_00",
+   "key": "743b3f09",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nАлоха. Можно с тобой минутку поговорить?\n<PAGE>\nХочу кое-что тебе сказать."
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_00",
+   "key": "e6e6212a",
+   "ru": "Конечно!"
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "MES_CONFESSION_01",
+   "key": "44ace72c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nМахало. Пойдём туда, где можно побыть\nнаедине, ладно?"
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "MES_LOVE_CANCEL_SELECT_00",
+   "key": "7ab28d23",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "MES_LOVE_CANCEL_SELECT_01",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 396,
+   "f": 2,
+   "id": "MES_LOVE_CANCEL_01",
+   "key": "67c6431b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nДа. Да, пожалуй, стоит. Может, пойдём к\nтебе?"
+  }
+ ]
+}

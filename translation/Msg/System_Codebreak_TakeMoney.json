@@ -1,0 +1,19 @@
+{
+ "file": "System_Codebreak_TakeMoney",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CODEBREAK_TAKEMONEY_000",
+   "key": "abdccf77",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nО?! У тебя для меня пожертвование?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CODEBREAK_TAKEMONEY_001",
+   "key": "1ef603a5",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nБлагодарю. Это огромная услуга будущему!\n<PAGE>\nТеперь я смогу продолжить исследования!"
+  }
+ ]
+}

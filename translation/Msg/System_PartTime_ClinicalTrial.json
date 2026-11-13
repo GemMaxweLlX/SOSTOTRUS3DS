@@ -1,0 +1,159 @@
+{
+ "file": "System_PartTime_ClinicalTrial",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_START",
+   "key": "e19b56cc",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА, вот и ты! Рад, что нашёлся доброволец для\nиспытания новых лекарств."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_CHOICE",
+   "key": "54f66365",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПожалуйста, выбери любое лекарство."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_LABEL_00",
+   "key": "3d69924d",
+   "ru": "Бутылёк с жёлтой этикеткой"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_LABEL_01",
+   "key": "afcd08dd",
+   "ru": "Бутылёк с синей этикеткой"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_LABEL_02",
+   "key": "18b3c9f8",
+   "ru": "Бутылёк с красной крышкой"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_LABEL_03",
+   "key": "593f2504",
+   "ru": "Бутылёк с синей крышкой"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_LABEL_04",
+   "key": "91757944",
+   "ru": "Бутылёк с жёлтой крышкой"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_LABEL_05",
+   "key": "abb0706c",
+   "ru": "Красная ампула"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_LABEL_06",
+   "key": "6e2ed3d9",
+   "ru": "Оранжевая ампула"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_LABEL_07",
+   "key": "6382f248",
+   "ru": "Зелёная ампула"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_LABEL_08",
+   "key": "90ccac64",
+   "ru": "Голубая ампула"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_LABEL_09",
+   "key": "02b7b5e2",
+   "ru": "Синяя ампула"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_DRINK",
+   "key": "5532d1d5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nГотово? Тогда пей!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_EFFECT_00",
+   "key": "d5733744",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nАнализ показывает, что <RED>силы полностью\nвосстановились</RED>... Превосходно! Как я и\nожидал."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_EFFECT_01",
+   "key": "86690413",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nАнализ показывает, что <RED>силы восстановились на\n50%</RED>... Почти как я ожидал."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_EFFECT_02",
+   "key": "6f4024ef",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nАнализ показывает, что <RED>силы восстановились на\n50%</RED>... Хм, даже лучше, чем я рассчитывал."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_EFFECT_03",
+   "key": "e622fbec",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nАнализ показывает, что <RED>силы восстановились на\n10%</RED>... Не совсем то, что я предсказывал."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_EFFECT_04",
+   "key": "08015782",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм-м... Похоже, на этот раз эффекта нет\nвовсе. Придётся пересмотреть формулу."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_EFFECT_05",
+   "key": "81d121de",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nАнализ показывает, что <RED>сил осталось 20%</RED>...\nВидимо, расчёты были неверны."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_MONEY",
+   "key": "3f9fb617",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, на этом эксперимент окончен. Хорошая\nработа. Вот вознаграждение."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_END",
+   "key": "8098cb7e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nБуду рад поработать с тобой снова."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CLINICALTRIAL_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_John",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "7671705a",
+   "ru": "<NAME_MOB_JOHN>\r\nЗдорово!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "3d43af00",
+   "ru": "<NAME_MOB_JOHN>\r\nЛизетта ― такая милашка, правда?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "be47a8e0",
+   "ru": "<NAME_MOB_JOHN>\r\nС цветами Лизетта ещё красивее!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "a5c4ba8c",
+   "ru": "<NAME_MOB_JOHN>\r\nПожалуй, надо купить цветов, а?"
+  }
+ ]
+}

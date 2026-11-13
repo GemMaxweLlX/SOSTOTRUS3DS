@@ -1,0 +1,145 @@
+{
+ "file": "Marriage_J_Inari",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_MARRIAGE_OPENING_INARI_00",
+   "key": "aefb68cd",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nДамы и господа, люди и духи, мы собрались\nздесь сегодня, чтобы засвидетельствовать\nсвадьбу <_____MYNAME_____> и Инари!\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_NORMAL>Встречайте новобрачных!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_MARRIAGE_OATH_MAN_INARI_00",
+   "key": "c94be576",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nИнари."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_MARRIAGE_OATH_MAN_INARI_000",
+   "key": "eb5f48f7",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nКлянёшься ли ты взять <_____MYNAME_____> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nи вечно идти рука об руку, хоть вы и из\nразных миров?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_MARRIAGE_OATH_YES_INARI_00",
+   "key": "9d7f40b5",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LOVE>\r\nДа, клянусь."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_MARRIAGE_OATH_WOMAN_INARI_00",
+   "key": "a6ef6085",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_MARRIAGE_OATH_WOMAN_INARI_000",
+   "key": "41f9debe",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nКлянёшься ли ты взять Инари в свои\nединственные любимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, вечно идя рука об руку, и\nвсё такое?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_MARRIAGE_KISS_INARI_00",
+   "key": "6d2ea74e",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nУра! Теперь можете поцеловаться!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_MARRIAGE_BELL_INARI_00",
+   "key": "37303991",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Инари! По этому потрясающе чудесному\nслучаю...\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_LAUGH>Мы обе поздравляем вас со свадьбой! ♪\n<PAGE>\nИ раз, и два...!!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONGRATUATION_INARI_00",
+   "key": "7adf4dd1",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Инари! Я так-так-та-а-ак за вас рада!\nПоздравляю! Желаю вам всего-всего самого\nлучшего!\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_LAUGH>Я столько сил потратила на эту церемонию. Так\nчто будьте счастливы вечно, а не то! Ясно?!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_MARRIAGE_END_HUSBAND_INARI_00",
+   "key": "c2554436",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Вот и всё. Мы обменялись клятвами и теперь\nофициально женаты. Честно скажу, никогда\nещё мне не было так счастливо.\n<PAGE>\nЯ люблю тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_MARRIAGE_OPENING_INARI_01",
+   "key": "aefb68cd",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nДамы и господа, люди и духи, мы собрались\nздесь сегодня, чтобы засвидетельствовать\nсвадьбу <_____MYNAME_____> и Инари!\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_NORMAL>Встречайте новобрачных!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_MARRIAGE_OATH_MAN_INARI_01",
+   "key": "8af3e5c8",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_MARRIAGE_OATH_MAN_INARI_001",
+   "key": "3b1a37e0",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nКлянёшься ли ты взять Инари в свои\nединственные любимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, вечно идя рука об руку, и\nвсё такое?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_MARRIAGE_OATH_WOMAN_INARI_01",
+   "key": "b8bbbbe1",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nИнари."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_MARRIAGE_OATH_WOMAN_INARI_001",
+   "key": "0d45f824",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nКлянёшься ли ты взять <_____MYNAME_____> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nи вечно идти рука об руку, хоть вы и из\nразных миров?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_MARRIAGE_OATH_YES_INARI_01",
+   "key": "9d7f40b5",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LOVE>\r\nДа, клянусь."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_MARRIAGE_KISS_INARI_01",
+   "key": "6d2ea74e",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nУра! Теперь можете поцеловаться!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_MARRIAGE_BELL_INARI_01",
+   "key": "37303991",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Инари! По этому потрясающе чудесному\nслучаю...\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_LAUGH>Мы обе поздравляем вас со свадьбой! ♪\n<PAGE>\nИ раз, и два...!!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONGRATUATION_INARI_01",
+   "key": "7adf4dd1",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Инари! Я так-так-та-а-ак за вас рада!\nПоздравляю! Желаю вам всего-всего самого\nлучшего!\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_LAUGH>Я столько сил потратила на эту церемонию. Так\nчто будьте счастливы вечно, а не то! Ясно?!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_MARRIAGE_END_WIFE_INARI_01",
+   "key": "c2554436",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Вот и всё. Мы обменялись клятвами и теперь\nофициально женаты. Честно скажу, никогда\nещё мне не было так счастливо.\n<PAGE>\nЯ люблю тебя, <_____MYNAME_____>."
+  }
+ ]
+}

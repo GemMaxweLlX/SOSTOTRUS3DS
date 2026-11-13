@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Himiko",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "4dc7b1e6",
+   "ru": "Коннитива."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "6606e884",
+   "ru": "<NAME_MOB_HIMIKO>\r\nО? Хочешь, предскажу судьбу?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "135b6409",
+   "ru": "<NAME_MOB_HIMIKO>\r\nПоложение звёзд многое открывает..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "042db953",
+   "ru": "<NAME_MOB_HIMIKO>\r\nТвоё будущее... Хм, любопытно..."
+  }
+ ]
+}

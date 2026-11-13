@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Kaya",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "04941302",
+   "ru": "Коннитива! Хорошо выглядишь."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "bbd013f2",
+   "ru": "<NAME_MOB_KAYA>\r\nСемян много не бывает, знаешь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "6a577ff5",
+   "ru": "<NAME_MOB_KAYA>\r\nЗарядка важна! Попробуй приседания."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "be8c29a0",
+   "ru": "<NAME_MOB_KAYA>\r\nПоверь, инструменты надо улучшить поскорее."
+  }
+ ]
+}

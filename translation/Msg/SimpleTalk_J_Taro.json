@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Taro",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "6eee3e56",
+   "ru": "Привет! Рад тебя видеть!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "e26b9515",
+   "ru": "<NAME_MOB_TARO>\r\nАга! Я из потомственных фермеров!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "845e64eb",
+   "ru": "<NAME_MOB_TARO>\r\nХорошая почва ― залог хорошего урожая."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "4500e1dd",
+   "ru": "<NAME_MOB_TARO>\r\nОбожаю свою лейку! Она сделана на заказ!"
+  }
+ ]
+}

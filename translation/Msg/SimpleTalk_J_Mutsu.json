@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Mutsu",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "d3f79929",
+   "ru": "<NAME_MOB_MUTSU>\r\nНет сил? Купальня мигом взбодрит!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "faf13348",
+   "ru": "<NAME_MOB_MUTSU>\r\nЯ встречаю здесь столько чудесных людей!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "d02a1f90",
+   "ru": "<NAME_MOB_MUTSU>\r\nАх! Хорошей ванной надо наслаждаться."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "80750868",
+   "ru": "<NAME_MOB_MUTSU>\r\nЗдорово, что в городе есть купальня, правда?"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Ethan",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "d5ac8d05",
+   "ru": "<NAME_MOB_ETHAN>\r\nЗдорово!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "c256eba9",
+   "ru": "<NAME_MOB_ETHAN>\r\nТвои посылки в надёжных руках."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "5395fea7",
+   "ru": "<NAME_MOB_ETHAN>\r\nОбожаю красивый почерк!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "28b26c7b",
+   "ru": "<NAME_MOB_ETHAN>\r\nНет работы лучше, чем почтальон!"
+  }
+ ]
+}

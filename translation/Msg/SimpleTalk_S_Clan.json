@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Clan",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "9e474ad2",
+   "ru": "<NAME_MOB_CLAN>\r\nОй, ты мне?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "31efecea",
+   "ru": "<NAME_MOB_CLAN>\r\nТолько я и Уайна... Идеальное свидание! <RED>∀</RED>"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "b99922e4",
+   "ru": "<NAME_MOB_CLAN>\r\nМы с Уайной будем вместе вечно!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "a6607c43",
+   "ru": "<NAME_MOB_CLAN>\r\nОх, Уайна! Я думаю только о тебе!"
+  }
+ ]
+}

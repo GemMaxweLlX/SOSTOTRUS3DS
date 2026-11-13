@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Cortes",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "cf58efe2",
+   "ru": "<NAME_MOB_CORTES>\r\nПривет, дружище!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "0c83eb7f",
+   "ru": "<NAME_MOB_CORTES>\r\nРаботать надо! Весь день! Каждый день!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "52a7ebe8",
+   "ru": "<NAME_MOB_CORTES>\r\nОбожаю свою работу. Это так весело!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "2b4ee7e2",
+   "ru": "<NAME_MOB_CORTES>\r\nТолько не трать слишком много!"
+  }
+ ]
+}

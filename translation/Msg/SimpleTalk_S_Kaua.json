@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Kaua",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "3c0ad553",
+   "ru": "Алоха!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "f4c22e12",
+   "ru": "<NAME_MOB_KAUA>\r\nСейчас бы освежиться соком."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "51b77fe0",
+   "ru": "<NAME_MOB_KAUA>\r\nВот бы кафе работало каждый день."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "73361159",
+   "ru": "<NAME_MOB_KAUA>\r\nНе забывай отдыхать! Работа подождёт!"
+  }
+ ]
+}

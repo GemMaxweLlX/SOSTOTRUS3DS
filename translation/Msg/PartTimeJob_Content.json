@@ -1,0 +1,425 @@
+{
+ "file": "PartTimeJob_Content",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_001",
+   "key": "511da2c8",
+   "ru": "Прошу помочь мне <BLUE>полить поля</BLUE>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_002",
+   "key": "00ae792f",
+   "ru": "Не поможешь <BLUE>полить мои поля</BLUE>? Спасибо."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_003",
+   "key": "c1672a5f",
+   "ru": "Мне бы помощь, чтобы <BLUE>полить поля</BLUE>.\nПоможешь?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_004",
+   "key": "e5e009ec",
+   "ru": "Прошу помочь мне <BLUE>собрать урожай</BLUE>."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_005",
+   "key": "e6e184b5",
+   "ru": "Не поможешь <BLUE>собрать урожай</BLUE>? Спасибо."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_006",
+   "key": "431800b0",
+   "ru": "Не поможешь мне <BLUE>собрать урожай</BLUE>?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_007",
+   "key": "0d90c7e3",
+   "ru": "Мне бы помощь, чтобы <BLUE>собрать урожай</BLUE>.\nПоможешь?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_008",
+   "key": "92f2538c",
+   "ru": "Ищу, кто поможет <BLUE>собрать урожай</BLUE>. Не\nоткажешь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_009",
+   "key": "7b249230",
+   "ru": "Не поможешь <BLUE>собрать урожай</BLUE>? Спасибо."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_010",
+   "key": "144be797",
+   "ru": "Не поможешь мне <BLUE>почистить животных</BLUE>?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_011",
+   "key": "f8996b8b",
+   "ru": "Не поможешь <BLUE>почистить животных</BLUE>? Спасибо."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_012",
+   "key": "91b603d9",
+   "ru": "Не поможешь мне <BLUE>постричь овец</BLUE>?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_013",
+   "key": "b678df13",
+   "ru": "Не поможешь <BLUE>постричь овец</BLUE>? Спасибо."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_014",
+   "key": "e3f791fd",
+   "ru": "Не поможешь мне <BLUE>подоить коров</BLUE>?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_015",
+   "key": "cbb46a43",
+   "ru": "Не поможешь <BLUE>подоить коров</BLUE>? Спасибо."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_016",
+   "key": "0303f61a",
+   "ru": "Не поможешь <BLUE>наколоть дров</BLUE>? Спасибо."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_017",
+   "key": "fda36baf",
+   "ru": "Можно попросить кого-нибудь <BLUE>наколоть дров</BLUE>?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_018",
+   "key": "c19b61ad",
+   "ru": "Очень нужен кто-то, кто <BLUE>наколет дров</BLUE>. Спасибо!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_019",
+   "key": "c5750809",
+   "ru": "Прошу помочь мне <BLUE>наколоть дров</BLUE>."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_020",
+   "key": "266e992e",
+   "ru": "Нужны материалы. Требуется мастер <BLUE>колоть\nдрова</BLUE>."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_021",
+   "key": "a3ca2fae",
+   "ru": "В купальне кончаются дрова. Не придёт ли\nкто-нибудь <BLUE>наколоть дров</BLUE>?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_022",
+   "key": "18e12d4a",
+   "ru": "Есть время помочь <BLUE>наколоть дров</BLUE>? Очень\nвыручишь!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_023",
+   "key": "a989373d",
+   "ru": "Хотелось бы попросить помощи, чтобы <BLUE>наколоть\nдров</BLUE>. Спасибо."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_024",
+   "key": "8c37ddb7",
+   "ru": "Ищу, кто поможет <BLUE>наколоть дров</BLUE>. Не откажешь?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_025",
+   "key": "352ff259",
+   "ru": "Нужна помощь, чтобы <BLUE>наколоть дров</BLUE>. Можно\nпопросить тебя?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_026",
+   "key": "e9a27aea",
+   "ru": "Придёшь помочь <BLUE>наколоть дров</BLUE>? Буду ждать."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_027",
+   "key": "1199dee9",
+   "ru": "Эм, м-можно попросить кого-нибудь <BLUE>наколоть\nдров</BLUE> для Профессора?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_028",
+   "key": "b3169ec0",
+   "ru": "Нужна помощь, чтобы <BLUE>наколоть дров</BLUE>. Придёт\nкто-нибудь?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_029",
+   "key": "547c3397",
+   "ru": "Буду благодарна за помощника, чтобы <BLUE>наколоть\nдров</BLUE>."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_030",
+   "key": "5b35eb36",
+   "ru": "Мне нужно, чтобы кто-то <BLUE>наколол дров</BLUE>. Ты\nведь придёшь?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_031",
+   "key": "a9700f2c",
+   "ru": "<BLUE>Колоть дрова.</BLUE> Помощь. ...Пожалуйста?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_032",
+   "key": "9e50ab98",
+   "ru": "Требуется помощь в создании лекарств на благо\nчеловечества."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_033",
+   "key": "a8d55478",
+   "ru": "Не поможешь опустошить рыболовные ловушки,\nчто я расставил вдоль пляжа?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_034",
+   "key": "66b8e946",
+   "ru": "Требуется помощь, чтобы <BLUE>прополоть сорняки</BLUE> у\nклиники."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_035",
+   "key": "12635b10",
+   "ru": "Можно попросить тебя <BLUE>выполоть сорняки</BLUE> у\nмоего дома?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_036",
+   "key": "bc8d04b3",
+   "ru": "Ищу, кто поможет <BLUE>прополоть сорняки</BLUE>. Не\nоткажешь?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_037",
+   "key": "604b1555",
+   "ru": "Мне бы помощь, чтобы <BLUE>прополоть сорняки</BLUE>.\nПоможешь?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_038",
+   "key": "8a07a88c",
+   "ru": "Мне нужно, чтобы кто-то <BLUE>выполол сорняки</BLUE>. Ты\nведь сделаешь?"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_039",
+   "key": "8e630eb1",
+   "ru": "<BLUE>Прополка.</BLUE> Поможешь... пожалуйста?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_040",
+   "key": "1da563ed",
+   "ru": "Ох, ну и ну. Тут столько сорняков!\nК-кто-нибудь, помогите!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_MODE_041",
+   "key": "9dd7017a",
+   "ru": "Ох, ну и ну. У Профессора такой беспорядок!\nК-кто-нибудь, помогите прибраться!"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_DELIVERY_001",
+   "key": "23ca8bf2",
+   "ru": "Ищем курьера. Получатель посылки: <BLUE><MOJI0></BLUE>."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_DELIVERY_002",
+   "key": "57f3777e",
+   "ru": "Кто доставит букет? Получатель: <BLUE><MOJI0></BLUE>."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_DELIVERY_003",
+   "key": "f073fba0",
+   "ru": "Очень нужна помощь с доставкой посылки.\nПолучатель: <BLUE><MOJI0></BLUE>."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_DELIVERY_004",
+   "key": "47056ca4",
+   "ru": "Требуется доставить товар. Получатель: <BLUE><MOJI0></BLUE>."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_DELIVERY_005",
+   "key": "42bd3c5a",
+   "ru": "Нужна помощь с доставкой. Получатель: <BLUE><MOJI0></BLUE>.\nМахало!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_SHIPPING_001",
+   "key": "07632dd8",
+   "ru": "Нужны овощи! Подойдёт <BLUE>любой овощ</BLUE>.\nОтгрузите, пожалуйста, <BLUE><MOJI0></BLUE> шт."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_SHIPPING_002",
+   "key": "8901c69e",
+   "ru": "Нужен чай! Подойдёт <BLUE>любой чайный лист</BLUE>.\nОтгрузите, пожалуйста, <BLUE><MOJI0></BLUE> шт."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_SHIPPING_003",
+   "key": "14a6d9b2",
+   "ru": "Нужны фрукты! Подойдёт <BLUE>любой плод с дерева</BLUE>.\nОтгрузите, пожалуйста, <BLUE><MOJI0></BLUE> шт."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_SHIPPING_004",
+   "key": "fcb1d5ca",
+   "ru": "Нужны цветы! Подойдёт <BLUE>любой цветок</BLUE>.\nОтгрузите <BLUE><MOJI0></BLUE> шт. <RED>Дикие растения не принимаем!</RED>"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_SHIPPING_005",
+   "key": "cf1acaad",
+   "ru": "Нужно молоко! Подойдёт <BLUE>любое молоко</BLUE>.\nОтгрузите, пожалуйста, <BLUE><MOJI0></BLUE> шт."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_SHIPPING_006",
+   "key": "f98710e7",
+   "ru": "Нужны яйца! Подойдут <BLUE>любые яйца</BLUE>. Отгрузите,\nпожалуйста, <BLUE><MOJI0></BLUE> шт."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_SHIPPING_007",
+   "key": "6ba55d6b",
+   "ru": "Нужна шерсть! Подойдёт <BLUE>любая шерсть</BLUE>.\nОтгрузите, пожалуйста, <BLUE><MOJI0></BLUE> шт."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_SHIPPING_008",
+   "key": "178a36cb",
+   "ru": "Нужна рыба! Подойдёт <BLUE>любая рыба</BLUE>. Отгрузите,\nпожалуйста, <BLUE><MOJI0></BLUE> шт."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_SHIPPING_009",
+   "key": "484ce1a2",
+   "ru": "Мы голодны! Подойдёт <BLUE>любое блюдо</BLUE>.\nОтгрузите, пожалуйста, <BLUE><MOJI0></BLUE> шт."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_SHIPPING_010",
+   "key": "54c312e7",
+   "ru": "Нужны товары! Подойдёт <BLUE>любая продукция\nмастерских</BLUE>. Отгрузите <BLUE><MOJI0></BLUE> шт."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_COLLABORATION_1",
+   "key": "8a9f7655",
+   "ru": "Тревога!! Срочно нужны <BLUE>брёвна</BLUE>!! Будем очень\nблагодарны за помощь!!"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_COLLABORATION_2",
+   "key": "3bf97fbf",
+   "ru": "Тревога!! Снова срочно нужны <BLUE>брёвна</BLUE>!! Будем\nочень благодарны за помощь!!"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_COLLABORATION_3",
+   "key": "a811fb66",
+   "ru": "Тревога!! Авария с корзиной <BLUE>персиков</BLUE>!!\nПришлёте помощь?!"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_CONTENT_COLLABORATION_4",
+   "key": "a398bd2d",
+   "ru": "Тревога!! Авария с корзиной <BLUE>яблок</BLUE>!! Пришлёте\nпомощь?!"
+  }
+ ]
+}

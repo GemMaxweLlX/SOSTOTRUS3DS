@@ -1,0 +1,236 @@
+{
+ "file": "ShopJGod",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_00",
+   "key": "23a8eaf4",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nО, благодарю! Чудесно! В знак признательности\nисполню силой своей одно твоё желание."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_CHOICE_00",
+   "key": "91406484",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, с кем желаешь вновь пережить общение?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_MAGIC_00",
+   "key": "6ba1b9ae",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, чего пожелаешь?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_MAGIC_01",
+   "key": "1fce10f7",
+   "ru": "Узнать погоду"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_MAGIC_02",
+   "key": "7fdffea4",
+   "ru": "Сделать питомца спутником"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_MAGIC_03",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_MAGIC_04",
+   "key": "c77f8ec0",
+   "ru": "Отвязать спутника"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_WEATHER_00",
+   "key": "8dc1f956",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЯсно!\n<PAGE>\nНу-ка, поглядим!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_WEATHER_01",
+   "key": "a57da822",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nРаз-два-три, а-бэ-вэ-гэ, сила неба, приди ко\nмне...\n<PAGE>\n...\n<PAGE>\n<FACE_LAUGH>Хм. Да, вижу, вижу! Завтра погода будет,\nбудет..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_WEATHER_02",
+   "key": "318bce07",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nНа ферме <BLUE><MOJI0></BLUE>, в Уэстауне <BLUE><MOJI1></BLUE>, в Цуюкусе <BLUE><MOJI2></BLUE>, а в\nЛулукоко <BLUE><MOJI3></BLUE>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_WEATHER_03",
+   "key": "38e928a5",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nА заодно погода на послезавтра...\n<PAGE>\nНа ферме <BLUE><MOJI0></BLUE>, в Уэстауне <BLUE><MOJI1></BLUE>, в Цуюкусе <BLUE><MOJI2></BLUE>, а в\nЛулукоко <BLUE><MOJI3></BLUE>."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_WEATHER_04",
+   "key": "8e7b2b2c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nТак строить планы будет полегче. Удачи тебе!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_WEATHER_05",
+   "key": "996a9489",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХочешь услышать прогноз ещё раз? Хорошо.\nЗавтра будет..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_END_01",
+   "key": "e4760986",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nБыть по сему. Может, в другой раз! Если\nпонадобится помощь, с радостью помогу."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_00",
+   "key": "9ae6053d",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nЯсно!\n<PAGE>\nКакого питомца сделать твоим спутником?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_01",
+   "key": "b6712650",
+   "ru": "<CHARANAME0>? Точно?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_02",
+   "key": "f867a321",
+   "ru": "Этот питомец уже твой спутник."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_07",
+   "key": "f35d93c1",
+   "ru": "Спутник сменится: <CHARANAME0> на <CHARANAME1>. Этого ты хочешь?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_08",
+   "key": "883dce6a",
+   "ru": "Боюсь, ваша связь с этим питомцем пока\nнедостаточно крепка, чтобы он стал спутником."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_09",
+   "key": "8c296076",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n...Увы, похоже, дома нет кормушки для\nпитомцев.\n<PAGE>\nСпутник будет жить в доме, так что кормушка\nнужна."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_03",
+   "key": "10a3c531",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Начинаю обряд связывания спутника."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_04",
+   "key": "16249fdc",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nРаз-два-три, а-бэ-вэ-гэ, сила неба, приди ко\nмне..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_05",
+   "key": "461335f5",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nСвершилось. <CHARANAME0> связан с тобой как спутник, а ты,\n<_____MYNAME_____>, с ним.\n<PAGE>\nПусть будущее принесёт вам много счастья.\nМолюсь, чтобы вы заботились друг о друге так\nже крепко, как велит эта связь."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_06",
+   "key": "99b9b74a",
+   "ru": "(<CHARANAME0> теперь мой спутник!)\n<PAGE>\n(Кажется, наша связь стала ещё крепче...)\n<PAGE>\n(Будем вместе веселиться, <CHARANAME0>!)"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_FIRST_00",
+   "key": "d1cef07e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nКак и договаривались, могу сделать одного из\nпитомцев твоим спутником."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_NOTHING_00",
+   "key": "f8db8310",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nСейчас у тебя нет подходящих питомцев."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_15",
+   "key": "de7a1a59",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nДля этой игры включён StreetPass, поэтому\nсменить спутника сейчас нельзя.\n<PAGE>\nПоговори с Десси и выключи StreetPass, потом\nприходи снова."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_10",
+   "key": "f5b33d45",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХочешь разорвать связь спутника с <CHARANAME0>? Точно?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_11",
+   "key": "c94cbea3",
+   "ru": "Разорвать"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_12",
+   "key": "f2fd24e5",
+   "ru": "<CANCEL_SELECT>\r\nНет, не стоит"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_13",
+   "key": "0f4382ac",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nЖаль, что так вышло. Но связь разорву\nнемедля.\n<PAGE>\nМне ко приди, неба сила... Гэ-вэ-бэ-а,\nтри-два-раз..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_14",
+   "key": "06ab9a3d",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nЧары сняты. Если будут ещё дела, только\nскажи. Помочь мне всегда в радость."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_SHOP_J_INARI_PET_16",
+   "key": "17b67871",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nДля этой игры включён StreetPass, поэтому\nсменить спутника сейчас нельзя.\n<PAGE>\nПоговори с Десси и выключи StreetPass, потом\nприходи снова."
+  }
+ ]
+}

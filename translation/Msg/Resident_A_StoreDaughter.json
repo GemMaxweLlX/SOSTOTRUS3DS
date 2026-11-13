@@ -1,0 +1,229 @@
+{
+ "file": "Resident_A_StoreDaughter",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_00",
+   "key": "b296da8d",
+   "ru": "<NAME_UNKNOWN>Пс-с, <_____MYNAME_____>! Сюда!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_01",
+   "key": "71333c3e",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_SAD>\r\nТс-с, тише!\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>Мы тоже шли мимо, но посмотри... У детишек\nтам момент, правда?\n<PAGE>\nНе хотим мешать, вот и прячемся здесь."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_02",
+   "key": "e2fc11aa",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nНу ты посмотри, делает вид, что не понимает,\nчто происходит!\n<PAGE>\n...Слушай, Ноэль ведь нравится Колин, так?\n<PAGE>\nЕсли у них момент, наш родительский долг ―\nза ними присмотреть."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_03",
+   "key": "8f9b9e78",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\n...Хотя, по-моему, за этих двоих волноваться\nсовсе-е-ем не о чем."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_04",
+   "key": "43c28f7d",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, поживём ― увидим, верно?\n<PAGE>\n...Кстати, <_____MYNAME_____>. Ты любишь сладкое?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_05",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_06",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_07",
+   "key": "c9b7ff05",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>\r\nОтлично! Тогда всё будет в порядке."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_08",
+   "key": "f9a9185a",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>\r\nА-ха-ха, не бери в голову. Просто смотри."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_09",
+   "key": "631990c7",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nХм, кажется, рисовать лучше с этого ракурса..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_10",
+   "key": "22f0b25a",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\n...Или отсюда?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_11",
+   "key": "05df333b",
+   "ru": "<FACE_STOREDAUGHTER><POS_LEFT><FACE_NORMAL>\r\n...Эй, Колин? Я тебе мешаю?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_12",
+   "key": "46fcc659",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nА? Ты о чём? Ты что, пытаешься мне\nпомешать?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_13",
+   "key": "0a1c12f5",
+   "ru": "<FACE_STOREDAUGHTER><POS_LEFT><FACE_SAD>\r\nН-нет, конечно! Просто...\n<PAGE>\nТы всегда такой тихий и серьёзный, Колин... А\nя столько болтаю. Я-я тебе надоедаю?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_14",
+   "key": "01fec4cd",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nТы и правда много говоришь, Ноэль, но я\nникогда-никогда не считал, что ты\nнадоедаешь.\n<PAGE>\nУ тебя всегда есть о чём весело поговорить!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_15",
+   "key": "d01c479a",
+   "ru": "<FACE_STOREDAUGHTER><POS_LEFT><FACE_NORMAL>\r\n...Значит, можно, я тут побуду?\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>Конечно!\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_NORMAL>...А можно, я буду на тебя смотреть?\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>Смотреть на меня? ...Хм, это может быть\nпроблемой.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_SAD>А?\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>В смысле..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_16",
+   "key": "e55decfd",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nЕсли ты будешь на меня всё время смотреть,\nэто... Ну, как-то неловко."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_17",
+   "key": "af1907b1",
+   "ru": "<FACE_STOREDAUGHTER><POS_LEFT><FACE_LAUGH>\r\n...А я всё равно буду!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_18",
+   "key": "a530b97a",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_SAD>\r\nА?! Э-эй, перестань!\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_LAUGH>Эх! Нечестно! Ты мне нравишься! Так\nнравишься, что хочу смотреть на тебя вечно!\n<PAGE>\nВот и буду! Мне надо на тебя смотреть! Во что\nбы то ни стало!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_19",
+   "key": "9fc73ebd",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, ты о чём? Глупости. Я тебе нравлюсь, и\nпоэтому ты хочешь на меня смотреть? Это ещё\nбольшая проблема.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_SAD>...Это так ужасно, если я смотрю на тебя,\nпотому что ты мне нравишься?\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>Ужасно? Нет, просто если надо смотреть на\nтого, кто нравится...\n<PAGE>\n...значит, и мне придётся смотреть на тебя,\nНоэль.\n<PAGE>\nНо тогда я не смогу рисовать. Понимаешь\nпроблему?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_20",
+   "key": "79caeb5b",
+   "ru": "<FACE_STOREDAUGHTER><POS_LEFT><FACE_NORMAL>\r\nТ-т-т-ты хочешь сказать... Я тебе\nн-нравлюсь..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_21",
+   "key": "20de9752",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nНоэль? Ты в порядке?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_22",
+   "key": "8c24ada7",
+   "ru": "<FACE_STOREDAUGHTER><POS_LEFT><FACE_NORMAL>\r\nКолин...\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>Да?\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_NORMAL>У меня сердце так болит... Так быстро бьётся,\nчто, кажется, сейчас взорвётся...\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_SAD>А?! Взорвётся?! Т-ты будешь в порядке?!\nПожалуйста, не умирай!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_23",
+   "key": "5d58ec03",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\n...Как это мило.\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>Ах, юная любовь.\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>Эти двое просто слишком очаровательны.\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>Ну, как говорится, милота ― это\nсправедливость."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_24",
+   "key": "33064ce7",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nРада, что и ты теперь понимаешь, <_____MYNAME_____>!\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>Отныне мы втроём будем присматривать за их\nочаровательной маленькой любовью."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_25",
+   "key": "62118bbf",
+   "ru": "И в тот самый миг...\n<PAGE>\nВзрослые, которые превыше всего любили\nмилоту... тайно основали “Могучий отряд\nзащиты любви Ноэль”."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_26",
+   "key": "e807878b",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nА, вот как? Это может быть проблемой..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_27",
+   "key": "f08f6e14",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_SAD>\r\nОй, нет! У нас ЧП! <_____MYNAME_____> не дышит!\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_SAD>Их любовь оказалась слишком сладкой для <_____MYNAME_____>!\nДержись!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_28",
+   "key": "cb9bc9be",
+   "ru": "<NAME_UNKNOWN>А-А-А-А?!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_29",
+   "key": "0c61992d",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_ANGRY>\r\nТак и знала, что слышу голоса! Мама, вы что,\nза нами шпионили?!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_30",
+   "key": "d20210f4",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nН-нет! Это просто... Э, мы просто...\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_ANGRY>Никаких оправданий!\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_SAD>Ладно.\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_SAD>Простите нас...\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_ANGRY><_____MYNAME_____>! И ты тоже?!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_STOREDAUGHTER_31",
+   "key": "48ac42fe",
+   "ru": "(У них был такой момент, а мы всё испортили,\nрасшумевшись...)\n<PAGE>\n(Но ох, как же это было мило.)"
+  }
+ ]
+}

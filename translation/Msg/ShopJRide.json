@@ -1,0 +1,68 @@
+{
+ "file": "ShopJRide",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_J_RIDING_00",
+   "key": "48759c5e",
+   "ru": "<NAME_MOB_TADATAKA>\r\nНу, куда едем?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_J_RIDING_01",
+   "key": "0e51b119",
+   "ru": "<NAME_MOB_TADATAKA>\r\nПодвезти? Это “Сканда”, доставим куда угодно!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_J_RIDING_CHJNGE",
+   "key": "98dcd2ba",
+   "ru": "<NAME_MOB_TADATAKA>\r\nХорошая новость: ты уже на месте! Может,\nкуда-то ещё?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_J_RIDING_AREA",
+   "key": "796789d6",
+   "ru": "<NAME_MOB_TADATAKA>\r\nКуда именно в <GREEN><MOJI0></GREEN>?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_J_RIDING_CHOICE_00",
+   "key": "5f42cfa3",
+   "ru": "<NAME_MOB_TADATAKA>\r\n<GREEN><MOJI0></GREEN>? С тебя <BLUE><MOJI1></BLUE>G. Хорошо?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_J_RIDING_GO",
+   "key": "1edd2d0c",
+   "ru": "<NAME_MOB_TADATAKA>\r\nОтлично! Садись, домчу мигом!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_J_RIDING_CANCEL",
+   "key": "d0e54381",
+   "ru": "<NAME_MOB_TADATAKA>\r\nЖаль. Что ж, когда соберёшься в путь, знаешь,\nгде меня найти."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_J_RIDING_UNUSABLE",
+   "key": "bf050ed2",
+   "ru": "Здесь вывеска извоза, но, похоже, сейчас не\nработает."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_J_RIDING_NO_MONEY",
+   "key": "56feb445",
+   "ru": "<NAME_MOB_TADATAKA>\r\nАх, прости, вожу только тех, кто может\nзаплатить."
+  }
+ ]
+}

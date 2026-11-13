@@ -1,0 +1,103 @@
+{
+ "file": "System_Witch_Encounter",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_000",
+   "key": "c5ae8ce9",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nЧто? Серьёзно? Тут пусто!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_001",
+   "key": "3fbff474",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_SAD>\r\n<WINDOW_ANGER_R>Дорога в Цуюкусу была разрушена, раздобыть\nту репу было настоящим подвигом. И всё\nради... этого?!\n<PAGE>\n<WINDOW_DEFAULT>*вздох*\n<PAGE>\n<FACE_NORMAL>Ну что ж.\n<PAGE>\nЕсли подумать, мы хотя бы доказали\nподлинность гравюры.\n<PAGE>\n<FACE_LAUGH><WINDOW_JOY_R>Да! Не о чем переживать! Надо немедленно\nвернуться и записать находки. Идём, Лотус!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_002",
+   "key": "b7837b71",
+   "ru": "(Неужели эти двое не видят эту комнату?)"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_003",
+   "key": "986c3eb3",
+   "ru": "<NAME_UNKNOWN>\r\nХр-р-р..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_004",
+   "key": "525255f0",
+   "ru": "<NAME_UNKNOWN>\r\nХр-р-р... Хр-р-р...\n<PAGE>\nМ-м-м..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_005",
+   "key": "e2bbc922",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>*зевает* Ох, как же сладко вздремнула...\n<PAGE>\n...Хм??"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_006",
+   "key": "414626b4",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\n<NAME_UNKNOWN>Ч-ч-что...!\n<PAGE>\n<WINDOW_EXCLAMATION_LINE_R>Ты кто и что делаешь в моём доме?!\n<PAGE>\n<FACE_NORMAL>Погоди-ка...\n<PAGE>\nЕсли подумать, обычные люди меня даже не\nвидят.\n<PAGE>\n<FACE_LAUGH>Ха, зря разволновалась!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_007",
+   "key": "a4746268",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_ANGRY>\r\n<NAME_UNKNOWN><WINDOW_EXCLAMATION_R>ЧТО-О-О?!\n<PAGE>\nПогоди! Ты меня ВИДИШЬ?!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_008",
+   "key": "342220ca",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Хм. Давненько я не встречала человека,\nкоторый меня видит.\n<PAGE>\n<FACE_WITCH>Ну, раз видишь, значит, с тобой можно иметь\nдело. Привет! Я Ведьмочка.\n<PAGE>\n<FACE_LAUGH>Я из рода великих ведьм и потря-а-асающе\nколдую. Так и знай."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_009",
+   "key": "91c56249",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_R>Хочешь знать, почему я здесь живу?\n<PAGE>\n<WINDOW_DEFAULT>Ну, Десси переехала в соседний город, вот я\nи...\n<PAGE>\n<FACE_ANGRY>Нет, стоп! Это тут ни при чём!\n<PAGE>\n<FACE_SAD>Просто здесь стоял пустой дом, и не пропадать\nже ему!\n<PAGE>\n<FACE_SAD>Но Десси в последнее время так занята, что\nпочти не заходит поиграть. Ску-у-учно!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_010",
+   "key": "3d541814",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nО-о-о, придумала! У тебя ведь полно\nсвободного времени, да? Значит, будешь\nприходить и играть со мной!\n<PAGE>\nБудь у меня <BLUE>урожай Лулукоко</BLUE>, я бы творила\nвсякие крутые заклинания!\n<PAGE>\nТочно! Принеси мне <BLUE>урожай Лулукоко</BLUE>, тогда я\nпоколдую, и мы поиграем!\n<PAGE>\nНапример... Хм-м... Как насчёт магии, что\nменяет внешность, или чтобы тебя кто-то\nвозненавидел?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_011",
+   "key": "e6df2ee2",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_LAUGH>\r\nДа, будет ВОЛ-шебно! ♪\n<PAGE>\nТолько запомни: без <BLUE>урожая Лулукоко</BLUE>\nколдовать я не могу! Ясно?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_012",
+   "key": "f68d4374",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nХи-хи, жду не дождусь!\n<PAGE>\nНу, сегодня я занята, так что приходи в другой\nраз, ладно? Пока!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_WITCH_ENCOUNTER_013",
+   "key": "09ad829a",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_LAUGH>\r\nМуа-ха-ха... Ещё один прислужник в моих\nрядах."
+  }
+ ]
+}

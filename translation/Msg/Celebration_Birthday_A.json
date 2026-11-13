@@ -1,0 +1,131 @@
+{
+ "file": "Celebration_Birthday_A",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_00",
+   "key": "b1086669",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nМы тебя ждали, <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_04",
+   "key": "f27b69a8",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nВсе готовы?!\n<PAGE>\n<FACE_NAME_OFF><FONT_SIZE_L>С днём рождения тебя! ♪\n<PAGE>\n<FACE_NAME_OFF><FONT_SIZE_L>С днём рождения тебя! ♪\n<PAGE>\n<FACE_NAME_OFF><FONT_SIZE_L>С днём рождения, <_____MYNAME_____>!\n<PAGE>\n<FACE_NAME_OFF><FONT_SIZE_L>С днём рождения тебя!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_05",
+   "key": "29e81278",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nУдивили тебя, <_____MYNAME_____>? Ты столько помогаешь городу,\nчто мы решили устроить тебе праздник.\n<PAGE>\nМы начали готовиться тайком ещё несколько\nдней назад.\n<PAGE>\nХранить секрет было волнительно, но я рада,\nчто мы не проболтались."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_06",
+   "key": "ffda6181",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nНу же, давай! Мы приготовили для тебя целый\nпир.\n<PAGE>\nДедушка с Брэдом показали всё своё\nкулинарное мастерство.\n<PAGE>\nПоднимем бокалы и приступим! ♪"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_07",
+   "key": "e855f7c0",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, пора закругляться...\n<PAGE>\nНо сначала, может, скажет пару слов виновник\nторжества?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_08",
+   "key": "3b26fe45",
+   "ru": "(Что сказать всем друзьям?)"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_09",
+   "key": "d8a0c1c0",
+   "ru": "Я вас всех люблю!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_10",
+   "key": "a8ce543d",
+   "ru": "От счастья я сейчас расплачусь!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_11",
+   "key": "57268190",
+   "ru": "Спасибо вам всем!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_12",
+   "key": "9d72a3f4",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nХа-ха-ха. Я тоже тебя люблю, дружище.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>И я тоже, <_____MYNAME_____>. ♪\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>...Мне ведь не обязательно говорить это вслух?\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>Да ладно, Форд. Сегодня особый день! Ну,\nскажу за нас обоих. Я тоже тебя люблю,\nдружище!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_13",
+   "key": "7354505e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, на этом всё. Праздник окончен! Спасибо,\nчто пришли!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_14",
+   "key": "48dbd9d4",
+   "ru": "(Какой чудесный день рождения. Спасибо\nвсем!)"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_15",
+   "key": "a4c7ac6b",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nЭй, не плачь! Мы хотим видеть твою улыбку!\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>Но это ведь твой праздник, <_____MYNAME_____>... Пожалуй, можно\nи поплакать!\n<PAGE>\nТолько от твоих слёз у меня самой глаза на\nмокром месте.\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>*всхлип* ...И у меня. Знаешь, тебя здесь все\nочень любят.\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>Ха! Хлопот с тобой полно, но я тобой горжусь.\n<PAGE>\nСпасибо всем, что помогли сегодня.\n<PAGE>\n<FACE_LAUGH>Присматривайте и дальше за нашим <_____MYNAME_____>."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_16",
+   "key": "09be20fa",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, на этом праздник в честь дня рождения\nокончен! Спасибо всем, что пришли!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_17",
+   "key": "48dbd9d4",
+   "ru": "(Какой чудесный день рождения. Спасибо\nвсем!)"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_18",
+   "key": "2241a637",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЭй! Это мои слова! Ты всегда нам так\nпомогаешь.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>Хи-хи, и от меня тоже. Спасибо, <_____MYNAME_____>. ♪\n<PAGE>\n<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>И от меня спасибо. Ты всегда вызываешь у меня\nулыбку.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>Спасибо за всё и впредь."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_19",
+   "key": "09be20fa",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, на этом праздник в честь дня рождения\nокончен! Спасибо всем, что пришли!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_BIRTHDAY_20",
+   "key": "48dbd9d4",
+   "ru": "(Какой чудесный день рождения. Спасибо\nвсем!)"
+  }
+ ]
+}

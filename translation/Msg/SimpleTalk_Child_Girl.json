@@ -1,0 +1,145 @@
+{
+ "file": "SimpleTalk_Child_Girl",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SICK",
+   "key": "9190e08e",
+   "ru": "*кхе-кхе*"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_TYPHOON",
+   "key": "5ae2b891",
+   "ru": "Ого, какой ветер!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_HEAVYSNOW",
+   "key": "275bfdca",
+   "ru": "Ура, можно играть в снежки! ♪"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_SIMPLETALK_TIRED_00",
+   "key": "d4ae50b9",
+   "ru": "*вздох*"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_SIMPLETALK_TIRED_01",
+   "key": "4edb3ed4",
+   "ru": "А? Что?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_SIMPLETALK_TIRED_02",
+   "key": "af1a11cf",
+   "ru": "Я устала..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_SIMPLETALK_GOOD_00",
+   "key": "b832321f",
+   "ru": "*напевает* ♪"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_SIMPLETALK_GOOD_01",
+   "key": "eafdc5d1",
+   "ru": "Мне хорошо! ♪"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_SIMPLETALK_GOOD_02",
+   "key": "b99a7719",
+   "ru": "Хи-хи. ♪"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "6c352223",
+   "ru": "О, привет, <PARENT>!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "5d19d1b8",
+   "ru": "Давай играть понарошку!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "eec9936d",
+   "ru": "Эй, поиграешь со мной?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_SIMPLETALK_03",
+   "key": "5d4a83ef",
+   "ru": "Работа закончилась? Сильно устаёшь?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_SIMPLETALK_04",
+   "key": "d36a1b56",
+   "ru": "Можно я чем-нибудь помогу?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_SIMPLETALK_05",
+   "key": "bb39f20b",
+   "ru": "Давай поиграем. Ну пожа-а-алуйста?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_SIMPLETALK_06",
+   "key": "809eeeea",
+   "ru": "Айдолы такие милые! ♪"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_SIMPLETALK_07",
+   "key": "3ea65910",
+   "ru": "Есть не хочешь?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_SIMPLETALK_08",
+   "key": "5fb350b2",
+   "ru": "Эй, своди меня куда-нибудь повеселиться."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_SIMPLETALK_09",
+   "key": "d8ebadbb",
+   "ru": "Мне немножко спать хочется."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_SIMPLETALK_FIRST",
+   "key": "d8ebadbb",
+   "ru": "Мне немножко спать хочется."
+  }
+ ]
+}

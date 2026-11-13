@@ -1,0 +1,264 @@
+{
+ "file": "Love_A_Florist_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_00",
+   "key": "40b6924c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_01",
+   "key": "0f89de1a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПривет!\n<PAGE>\nЯ как раз купила у Миранды новенький набор\nдля вышивания.\n<PAGE>\nТы тоже за покупками?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_02",
+   "key": "7b3c585a",
+   "ru": "(Ого, из цветочной лавки так вкусно пахнет...)"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_03",
+   "key": "19a6bfbf",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОй, этот запах?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_04",
+   "key": "20ff2699",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ недавно испекла киш.\n<PAGE>\nОставила его остывать, пока ходила за\nпокупками. Наверное, это ты и чуешь.\n<PAGE>\n<FACE_LAUGH>Слушай, <_____MYNAME_____>? Не хочешь зайти и съесть со мной\nкусочек?\n<PAGE>\nМне будет очень приятно. Считай это\nблагодарностью за помощь в лавке."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_05",
+   "key": "6d5ec0eb",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nКак на вкус, <_____MYNAME_____>?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_06",
+   "key": "a4287027",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Ой, хорошо!\n<PAGE>\nЯ так рада, что тебе нравится! ♪\n<PAGE>\nТам ещё много осталось, так что бери добавку."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_07",
+   "key": "1d2589a6",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nХм? Набор, который я купила? Это новый,\nспециально для работы с фетром.\n<PAGE>\nВидишь ли, я беру шерстяной фетр и шью из\nнего всякие поделки и безделушки.\n<PAGE>\nПомнишь, как ты помогал мне со срочным\nбукетом на день рождения той девочки?\n<PAGE>\nТак вот, тот плюшевый мишка, которого я\nдобавила, был сшит из фетра.\n<PAGE>\nТеперь думаю сделать игрушечных корову и\nовечку. Когда закончу, была бы рада, если бы\nты зашёл посмотреть."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_08",
+   "key": "4838dfed",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nХм? <_____MYNAME_____>, это...?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_09",
+   "key": "f5050bbc",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nАга! Так и думала, что болтается ниточка! У\nтебя на рукаве расходится шов."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_10",
+   "key": "e8464e79",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЭм, если хочешь, я могу зашить.\n<PAGE>\nДырочка маленькая, думаю, зашью в два счёта."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_11",
+   "key": "32dc0373",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Как доешь, спустимся вниз. Мой\nшвейный набор там."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_12",
+   "key": "1729357e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Вот! Готово! ♪ Теперь должно быть крепко."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_13",
+   "key": "ea4e41bb",
+   "ru": "(Ого! Даже не скажешь, что там была дырка!)"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_14",
+   "key": "bff7f41d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХи-хи. Рада помочь.\n<PAGE>\n<FACE_LAUGH>К счастью, починить было очень легко, так что\nсправилась даже такая начинающая швея, как я."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_15",
+   "key": "0f73f05f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОй! Придумала! Если когда-нибудь\nпонадобится зашить одежду, я буду рада, если\nты..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_16",
+   "key": "a8b1da43",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\n<WINDOW_MOJA_R>Постой. Звучит почти так, будто я буду рада,\nесли у тебя порвётся одежда...\n<PAGE>\nОх, батюшки. Совсем не так прозвучало, да?\n<PAGE>\nЯ просто так обрадовалась, что могу тебе хоть\nчем-то помочь, что не следила за словами."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_17",
+   "key": "fc5585b4",
+   "ru": "Здравствуйте...?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_18",
+   "key": "86eb7952",
+   "ru": "Эм, простите? Это вы цветочница?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_19",
+   "key": "5c35f11b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуй! Да, это я. Чем могу помочь?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_20",
+   "key": "d48bdf70",
+   "ru": "Мама сказала, что цветы были из этой лавки.\n<PAGE>\nБольшое спасибо за красивые цветы и милого\nмишку."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_21",
+   "key": "e9502963",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_EXCLAMATION_R>Ой! Ты та самая именинница...!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_22",
+   "key": "e470e782",
+   "ru": "Я ещё написала вам письмо с благодарностью.\nПусть у вашей лавки всегда всё будет хорошо,\nтётя!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_23",
+   "key": "87bb9646",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОх, батюшки, как мне лестно! Спасибо, что\nпроделала такой путь!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_24",
+   "key": "d1a001a0",
+   "ru": "Нет, что вы. Я сама хотела прийти.\nКогда-нибудь я хочу стать цветочницей, как\nвы.\n<PAGE>\nЕщё раз спасибо! Мне пора. Пока-пока!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_25",
+   "key": "51df3546",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\n...*шмыг*...*всхлип*"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_26",
+   "key": "1f3228b0",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nО-ой... нет. Эм, э-это не...\n<PAGE>\nПрости. Я не хотела вот так расплакаться..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_27",
+   "key": "ceb034a0",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nПросто... Когда она сказала, что хочет стать\nтакой, как я, я так обрадовалась...\n<PAGE>\nБудто вся та суматоха в тот день разом\nокупилась..."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_28",
+   "key": "0cd25683",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nВ тот день времени было так мало, что я\nбоялась не успеть.\n<PAGE>\n<FACE_NORMAL>Но потому что ты мне помог...\n<PAGE>\n<FACE_LAUGH>Потому что ты был рядом, я успела всё к дню\nрождения той девочки.\n<PAGE>\nСпасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_29",
+   "key": "569c082c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nНо отныне я буду оставлять себе достаточно\nвремени, чтобы всё успевать.\n<PAGE>\nНе хочу же я донимать тебя просьбами помочь\nс моей собственной работой."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_30",
+   "key": "e2b459a1",
+   "ru": "(Хм... Что бы ответить Лизетте?)"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_31",
+   "key": "57a5fdd6",
+   "ru": "Но я хочу тебе помогать"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_32",
+   "key": "269034e4",
+   "ru": "Мне было не трудно, а весело"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_33",
+   "key": "343e688c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R><_____MYNAME_____>...\n<PAGE>\nКак это мило с твоей стороны.\n<PAGE>\nТы не только очень помогаешь, у тебя ещё и\nзолотое сердце."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_34",
+   "key": "4c25d58a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nНу, тогда давай, если тебе понадобится\nпомощь, ты придёшь ко мне? Как тебе?\n<PAGE>\nЯ, эм... я тоже хочу помогать тебе чем смогу."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_35",
+   "key": "a9d9deef",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nХи-хи! Хорошо. Договорились."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_2_36",
+   "key": "4955e613",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за заботу.\n<PAGE>\n<FACE_LAUGH>Придумала! Если тебе понадобится помощь,\nприходи ко мне. Будем помогать друг другу."
+  }
+ ]
+}

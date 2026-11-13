@@ -1,0 +1,173 @@
+{
+ "file": "Story_Sister_Farm",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_00",
+   "key": "e94d8e23",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nДоброе утро, <RELATIONSHIP>! Идёшь работать на ферме?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_01",
+   "key": "454a2798",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nОтлично! Заодно можешь, ну, устроить мне\nнебольшую экскурсию. Ты ведь не против?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_02",
+   "key": "f44a8b41",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Ура! Тогда пошли!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_03",
+   "key": "7f9f08c2",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nВчера я немного осмотрелась, но, ничего себе,\nтут огромно.\n<PAGE>\nНеплохо, отхватить такое место под свою\nферму! ♪"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_04",
+   "key": "be6b3104",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nТак! Чем ты тут занимаешься?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_05",
+   "key": "2aac4744",
+   "ru": "В основном выращиваю урожай"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_06",
+   "key": "5e80fbe1",
+   "ru": "В основном разводу животных"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_07",
+   "key": "c9fd6b05",
+   "ru": "И урожай, и животные"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_08",
+   "key": "fd93cdf8",
+   "ru": "Да особо ничем"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_09",
+   "key": "621ff062",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Ух ты, правда? Здорово!\n<PAGE>\nТогда устрой мне большую экскурсию по\nполям, ладно? Расскажи, что растёт. Сестре\nведь всё можно пробовать бесплатно, да?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_10",
+   "key": "ae7e07bd",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Ух ты, правда? Здорово!\n<PAGE>\nТогда устрой мне большую экскурсию по\nхлевам, ладно? Расскажи про всех животных. И\nдай погладить! ♪"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_11",
+   "key": "16de95c7",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Ух ты, правда? Как круто! ♪\n<PAGE>\nТогда устрой мне большую экскурсию, ладно?\nИ расскажи про урожай и животных, которых\nрастишь."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_12",
+   "key": "3b192da1",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_SAD>\r\n<WINDOW_MOJA_L>Что, правда? Эх, скукота.\n<PAGE>\n<FACE_ANGRY>Ферма требует хорошей работы! Я папе\nрасскажу!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_13",
+   "key": "ab39a70d",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nО, хочешь, чтобы я молчала, хм? Даже не\nзнаю..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_14",
+   "key": "86454f1d",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nОх, ладно. Раз ты ТАК просишь, так и быть, не\nскажу.\n<PAGE>\n<FACE_NORMAL>А пока устрой мне большую экскурсию по\nферме."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_15",
+   "key": "a8907370",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Было так весело! Спасибо за экскурсию, <RELATIONSHIP>. ♪"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_16",
+   "key": "1b081c35",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nЗнаешь... в тебе что-то изменилось, <RELATIONSHIP>."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_17",
+   "key": "df97a3d3",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nТы выглядишь... не знаю... взрослее, чем дома.\nСерьёзнее.\n<PAGE>\nЧто бы я ни спрашивала про урожай или\nживотных, ответ был сразу и с таким\nрадостным блеском в глазах.\n<PAGE>\n<FACE_LAUGH>Я никогда не видела тебя в таком свете. Мы\nстолько жили вместе, а теперь будто совсем\nдругой человек!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_18",
+   "key": "7f1a1a5f",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_SAD>\r\nА? Я тоже когда-нибудь стану такой? ...Ты\nправда так думаешь?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_19",
+   "key": "de9b49b1",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_SAD>\r\nМоя собственная мечта, да? Я об этом ещё\nтолком не думала.\n<PAGE>\nМне ведь до взрослой жизни ещё много-много\nлет.\n<PAGE>\n<FACE_LAUGH>Но глядя на тебя, <RELATIONSHIP>, быть взрослым, кажется,\nдовольно круто!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_20",
+   "key": "0763e45b",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_ANGRY>\r\nЧто, мне тоже стать фермером? С ума сойти!\nНе хочу, чтобы папа злился на меня, как на\nтебя."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_21",
+   "key": "ea4418cd",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Но знаешь что? Когда вернусь домой, может,\nпопробую начать что-то новое. Чувствую, что\nменя вдохновили."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_22",
+   "key": "ad7143a3",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nВ общем, пошли обратно поедим. Умираю с\nголоду!\n<PAGE>\n<FACE_LAUGH>Наперегонки! На старт? ПОЕХАЛИ!!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_FARM_23",
+   "key": "76edd60d",
+   "ru": "<FACE_SISTER>\r\nКто придёт последним, готовит завтрак и моет\nпосуду!"
+  }
+ ]
+}

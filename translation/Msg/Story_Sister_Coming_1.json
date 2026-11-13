@@ -1,0 +1,75 @@
+{
+ "file": "Story_Sister_Coming_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_1_00",
+   "key": "6a17ab7a",
+   "ru": "<NAME_UNKNOWN>\r\nПосылка для <_____MYNAME_____>! <_____MYNAME_____>, выйдите, пожалуйста, получите\nпосылку!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_1_01",
+   "key": "7005decc",
+   "ru": "<NAME_UNKNOWN>\r\nБУ!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_1_02",
+   "key": "be84be83",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Ха-ха-ха! Купились! Купились!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_1_03",
+   "key": "29189b24",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_JOY_L>Приветик! А выглядишь получше, чем я\nожидала."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_1_04",
+   "key": "8860f573",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_MOJA_L>Ну вот! Что за унылая реакция?\n<PAGE>\nНеужели ничуть не радуешься, что видишь свою\nмилую, очаровательную, обожаемую,\nдрагоценную младшую сестрёнку?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_1_05",
+   "key": "df9b0964",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Что? Я тебя напугала? Ха-ха! Ещё бы! До сих\nпор не верю, что это сработало!\n<PAGE>\nЯ всё спланировала. Даже запретила дяде\nФрэнку говорить тебе, что я приеду.\n<PAGE>\nВ общем, следующие несколько дней я поживу\nу тебя, ладно? Отлично!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_1_06",
+   "key": "e8c84b1d",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nТы ведь знаешь, сколько сюда добираться? Ни\nза что не поеду обратно в тот же день.\n<PAGE>\nК тому же в школе каникулы, а мама с папой\nзаняты своими делами. Два-три дня ― в\nсамый раз!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_1_07",
+   "key": "7dd44974",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nХи-хи! Вот именно! Радуйся. ♪\n<PAGE>\n<FACE_NORMAL>Хочу экскурсию по ферме и всё такое. Мне ведь\nтоже надо всё осмотреть и проверить для\nмамы с папой, понимаешь."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_1_08",
+   "key": "b74694e1",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nКлассно! В общем, пошли к дяде Фрэнку!\n<PAGE>\n<FACE_LAUGH>Он сказал, что достанет мне кровать.\nПоможешь перетащить её сюда."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_1_09",
+   "key": "2bbdb873",
+   "ru": "(Приехала Линн! Всего на несколько дней, но\nвсё равно будет весело!)"
+  }
+ ]
+}

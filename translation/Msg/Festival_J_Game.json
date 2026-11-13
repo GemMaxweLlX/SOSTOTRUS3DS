@@ -1,0 +1,852 @@
+{
+ "file": "Festival_J_Game",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_00",
+   "key": "dbb3624e",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНачинаем Трилимпиаду в Цуюкусе!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_01",
+   "key": "37872b04",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСначала объясню, как играть сегодня.\n<PAGE>\nПравила простые. Нужно собирать кукол\nдарума указанного цвета, спрятанных по\nгороду.\n<PAGE>\nПобеждает команда, которая соберёт больше\nвсего кукол за отведённое время.\n<PAGE>\nВ каждой команде по четыре человека, но\nучастники идут по одному.\n<PAGE>\nИными словами... победа команды зависит от\nтого, как выступит каждый.\n<PAGE>\nПризы получат команда-победитель и тот, кто\nсоберёт больше всех кукол дарума, так что\nвыкладывайтесь."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_02",
+   "key": "29017732",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЧтобы всё было честно, команды определим\nжеребьёвкой. Удача ― тоже часть игры.\n<PAGE>\nНу, все, подходите тянуть жребий."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_03",
+   "key": "78476f7c",
+   "ru": "(Интересно, с кем я окажусь в команде. Как\nволнительно!)"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_04",
+   "key": "6e85c39f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПрежде чем начать, объявлю команды."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_05",
+   "key": "d2595f4e",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Слива”: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_06",
+   "key": "14800703",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Персик”: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_07",
+   "key": "a42c7bfc",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Хурма”: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_08",
+   "key": "fc04287d",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Абрикос”: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_09",
+   "key": "a77452d0",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Каштан”: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_10",
+   "key": "9d4629cb",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу-с, начинаем игру. Вызванная команда идёт в\nгород и проходит испытание.\n<PAGE>\nОстальные ждут здесь, пока их не позовут."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_11",
+   "key": "3d540572",
+   "ru": "(С этой командой нацелимся на победу!)"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_12",
+   "key": "358fa567",
+   "ru": "(Что бы сказать всем?)"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_13",
+   "key": "69890b1f",
+   "ru": "Мы точно победим!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_14",
+   "key": "0ba813dd",
+   "ru": "Я всё беру на себя!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_15",
+   "key": "bcf164f9",
+   "ru": "Я на вас рассчитываю!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_16",
+   "key": "79541481",
+   "ru": "Давайте постараемся!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_17",
+   "key": "f9bef559",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nТак, очередь следующей команды!\nОтправляйтесь в город."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_18",
+   "key": "2a1bbbb4",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПосмотрим, кто первый... Ладно, начнёт <_____MYNAME_____>."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_19",
+   "key": "71f20771",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nОбъясню всё подробно, так что слушай\nвнимательно, ладно?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_20",
+   "key": "1ab746cc",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, искать нужно кукол дарума вот этого цвета.\nСобирай их, хорошо?\n<PAGE>\nЗа других кукол очков не дадут, так что\nсмотри, что берёшь."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_21",
+   "key": "3d65acc2",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСначала нужно запомнить первые и вторые\nполовины десяти стихов вака.\n<PAGE>\nПервые половины написаны красным, а вторые\n― жёлтым."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_25",
+   "key": "7a5ab96c",
+   "ru": "Итак! Начинаем игру!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_26",
+   "key": "74fcabe0",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nМолодец, <_____MYNAME_____>!\n<PAGE>\nНебось всё тело ноет. Отдохни и поболей за\nостальных."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_27",
+   "key": "49e4160a",
+   "ru": "Ну-с, следующий участник. <CHARANAME0>!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_28",
+   "key": "f5d8ebe9",
+   "ru": "(Надеюсь, мы победим... Осталось дождаться\nрезультатов.)"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_29",
+   "key": "fcf1f0a3",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПростите, что заставил ждать!\n<PAGE>\nИтоговые результаты всех команд готовы, так\nчто слушайте!\n<PAGE>\nСначала личный зачёт!\n<PAGE>\nБольше всех кукол дарума среди всех команд\nсобрал участник..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_30",
+   "key": "be0f75fe",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\n<CHARANAME0>: кукол ― <MOJI0>! Поздравляем!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_31",
+   "key": "561f24ce",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nПобедителю, <CHARANAME0>, вручаем приз: <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_32",
+   "key": "99795130",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nА теперь, не будем тянуть, объявим\nкоманду-победительницу.\n<PAGE>\nБольше всего кукол дарума собрала команда..."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_33",
+   "key": "89ee80e8",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\n“<MOJI4>”! Поздравляем: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_34",
+   "key": "24fce178",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nПобедителям, команде “<MOJI4>”, вручаем приз: <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_35",
+   "key": "f19eb7da",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nНа этом Трилимпиада в Цуюкусе завершена.\n<PAGE>\nОгромное всем спасибо! Ждём вас в следующий\nраз!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_TEAMNAME_A",
+   "key": "cacf72ac",
+   "ru": "Слива"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_TEAMNAME_B",
+   "key": "b6654ffe",
+   "ru": "Персик"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_TEAMNAME_C",
+   "key": "af1f1ccc",
+   "ru": "Хурма"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_TEAMNAME_D",
+   "key": "4e921060",
+   "ru": "Абрикос"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_TEAMNAME_E",
+   "key": "3f16f564",
+   "ru": "Каштан"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Chaser_GREETING",
+   "key": "0efe6ca2",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, в этот раз у нас в команде сплошь яркие\nличности."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Chaser_COMMENT_00",
+   "key": "547e39e1",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nОтлично, <_____MYNAME_____>. Нельзя, чтобы твои старания\nпропали даром."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Chaser_COMMENT_01",
+   "key": "6badc8fb",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nМолодцы. Вижу, проигрывать тут никто не\nлюбит, ха-ха."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Chaser_COMMENT_02",
+   "key": "2be9c0b9",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nМы собрали кукол дарума: <MOJI0>. Похоже,\nостальные тоже выложились."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Apprentice_GREETING",
+   "key": "de79d956",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nРаз уж участвуем, то нацелимся на победу!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Apprentice_COMMENT_00",
+   "key": "a2f92bcd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nОтлично, <_____MYNAME_____>! Та-а-ак! Теперь моя очередь\nпоказать класс!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Apprentice_COMMENT_01",
+   "key": "f4568f8e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nМолодцы, все. Хе, вижу, некоторые совсем\nвыдохлись!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Apprentice_COMMENT_02",
+   "key": "0442b224",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nВ этот раз у нас всего кукол: <MOJI0>. Совсем неплохо.\nНадеюсь, победим!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_TeaGirl_GREETING",
+   "key": "2f85670a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nПамять у меня отличная, так что на меня можно\nположиться!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_TeaGirl_COMMENT_00",
+   "key": "45ad4561",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nМолодец, <_____MYNAME_____>! Видно, и мне пора выложиться!"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_TeaGirl_COMMENT_01",
+   "key": "b2e6ca5f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nМолодцы, все! Неплохо вышло. Искать кукол\nдарума ― это так весело!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_TeaGirl_COMMENT_02",
+   "key": "920a71c7",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНаша команда собрала кукол: <MOJI0>. Не терпится\nузнать результаты!"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Teacher_GREETING",
+   "key": "8767b90f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nВ своих способностях искать я вполне уверен.\nНацелимся на победу вместе."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Teacher_COMMENT_00",
+   "key": "76a6bed2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ справлюсь не хуже, чем <_____MYNAME_____>."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Teacher_COMMENT_01",
+   "key": "1703b80b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nИнтересно, была ли удача на нашей стороне..."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Teacher_COMMENT_02",
+   "key": "8378a7e1",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nНаша команда собрала кукол: <MOJI0>. Интересно, как\nдругие команды..."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_JapanFarmOldman_GREETING",
+   "key": "ffe95689",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nВсем привет! Думаю, искать кукол дарума у\nменя получится."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_JapanFarmOldman_COMMENT_00",
+   "key": "bce57273",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nВыносливости, как у вас, молодёжи, у меня\nнет... но знаний хоть отбавляй."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_JapanFarmOldman_COMMENT_01",
+   "key": "1d07ccbf",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nФух... Утомительно. Молодец, <_____MYNAME_____>."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_JapanFarmOldman_COMMENT_02",
+   "key": "df39feaa",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, всего мы собрали кукол дарума: <MOJI0>.\nМолодцы."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_JapanFarmOldwoman_GREETING",
+   "key": "c634c894",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nКаждый раз на этом состязании я будто снова\nмолодею. Давайте постараемся, все."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_JapanFarmOldwoman_COMMENT_00",
+   "key": "2f9ef801",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nТак, скоро моя очередь. Нужно быть\nвнимательной. Глаза уже не те, что раньше."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_JapanFarmOldwoman_COMMENT_01",
+   "key": "23cdac47",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nМолодцы, все! Когда цель ясна, как с поиском\nкукол, можно по-настоящему сосредоточиться."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_JapanFarmOldwoman_COMMENT_02",
+   "key": "8851b396",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, всего мы собрали кукол: <MOJI0>."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Wolesaler_GREETING",
+   "key": "8c86c2fc",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nРаз участвуем, значит, надо побеждать.\nРассчитываю на вас."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Wolesaler_COMMENT_00",
+   "key": "3af1baa3",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nХм, неплохо, пожалуй. Уж тебе-то я проиграть\nне могу."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Wolesaler_COMMENT_01",
+   "key": "5846a2eb",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nПустяки. В поиске этих кукол мне нет равных."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Wolesaler_COMMENT_02",
+   "key": "f6fd12cd",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nНаша команда собрала кукол: <MOJI0>? Осталось\nдождаться результатов."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_MigrantGirl_GREETING",
+   "key": "201fcf12",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nЗ-здравствуйте, все! Я так волнуюсь!"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_MigrantGirl_COMMENT_00",
+   "key": "d5fde1f4",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nЯ не подведу тебя, <_____MYNAME_____>! Выложусь на полную!"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_MigrantGirl_COMMENT_01",
+   "key": "de91d75a",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nФух! Все молодцы... Кажется, у меня сейчас\nлёгкие лопнут."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_MigrantGirl_COMMENT_02",
+   "key": "67bfa85d",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nПохоже, всего мы собрали кукол: <MOJI0>. Подсчёты\nдоверьте мне!"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffMan_GREETING",
+   "key": "75d9802b",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nДавно мне не приходилось столько двигаться,\nтак что я не очень уверен, но... постараемся."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffMan_COMMENT_00",
+   "key": "dc6c8b14",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдесь мне проигрывать нельзя."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffMan_COMMENT_01",
+   "key": "10891db4",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо сработано. Это было труднее, чем я\nожидал."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffMan_COMMENT_02",
+   "key": "9473c352",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЗначит, всего у нашей команды кукол: <MOJI0>? Жду\nитоговых результатов."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffWoman_GREETING",
+   "key": "e768ad91",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nМои дети вечно всё теряют, так что бегать и\nискать вещи я умею. Наберу много очков."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffWoman_COMMENT_00",
+   "key": "2373dc25",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ пошла! Поболейте за меня, ладно?"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffWoman_COMMENT_01",
+   "key": "b5eefbae",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, все молодцы. Давно мне не было так\nвесело."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffWoman_COMMENT_02",
+   "key": "5d2debdb",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВсего, похоже, мы собрали кукол: <MOJI0>. Интересно,\nкак другие команды."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffSonOlder_GREETING",
+   "key": "2f8bd091",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nВсем привет! Постараюсь не тянуть команду\nвниз."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffSonOlder_COMMENT_00",
+   "key": "a4b7aaad",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nТак, похоже, моя очередь! Надеюсь, цвет будет\nлегко заметить..."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffSonOlder_COMMENT_01",
+   "key": "41e26cf2",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nМолодцы, ребята. В спешке легко ошибиться."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffSonOlder_COMMENT_02",
+   "key": "3e44f3af",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nГоворят, всего мы собрали кукол: <MOJI0>. Неплохо\nведь, да?"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffSonYounger_GREETING",
+   "key": "58babe4e",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЯ найду кукол дарума."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffSonYounger_COMMENT_00",
+   "key": "d552cf66",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>... Я пошёл."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffSonYounger_COMMENT_01",
+   "key": "651cf97b",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМолодцы. Я тоже старался."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StuffSonYounger_COMMENT_02",
+   "key": "15629e32",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nУ нас кукол: <MOJI0>... Мы победим?"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Postman_GREETING",
+   "key": "93441c3f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nВыложусь ради команды на все сто!"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Postman_COMMENT_00",
+   "key": "8581e044",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНадо поддержать темп, который ты нам\nзадаёшь, <_____MYNAME_____>."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Postman_COMMENT_01",
+   "key": "c7a2fab4",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nМолодцы! Было очень весело."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Postman_COMMENT_02",
+   "key": "89759bb7",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, всего мы собрали кукол: <MOJI0>."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StoreWoman_GREETING",
+   "key": "ea01a58b",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуйте, все! Постараюсь быть полезной!"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StoreWoman_COMMENT_00",
+   "key": "b8055356",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nИнтересно, найду ли я столько же кукол,\nсколько <_____MYNAME_____>. Даже немного волнуюсь."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StoreWoman_COMMENT_01",
+   "key": "b0472530",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nМолодцы! Ха-ха-ха! Я выдохлась!"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StoreWoman_COMMENT_02",
+   "key": "984dedda",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nХотите знать, сколько кукол дарума мы\nсобрали? Придержите коней...\n<PAGE>\nА, похоже, у нас примерно <MOJI0>."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StoreDaughter_GREETING",
+   "key": "7dafdd1e",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nКукол дарума найти непросто, но я постараюсь!"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StoreDaughter_COMMENT_00",
+   "key": "9b870bd9",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_SAD>\r\nГлавное ― не схватить не тех кукол. Я уже\nначинаю волноваться!"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StoreDaughter_COMMENT_01",
+   "key": "33ad5bb7",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nМолодцы! Было немного трудно, но весело!"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_StoreDaughter_COMMENT_02",
+   "key": "5ce8d753",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, сказали, что мы собрали кукол: <MOJI0>."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Angler_GREETING",
+   "key": "ffb43c1c",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nПамять у меня неплохая, но... посмотрим, как\nвсё пойдёт."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Angler_COMMENT_00",
+   "key": "7fee330a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nМолодец, <_____MYNAME_____>. Пожалуй, и мне можно иногда\nвыложиться."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Angler_COMMENT_01",
+   "key": "7065bc9d",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВсе молодцы. Я многому научился."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Angler_COMMENT_02",
+   "key": "897253ff",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nМы собрали кукол: <MOJI0>. Интересно, какими будут\nрезультаты."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_AnglerGrandson_GREETING",
+   "key": "70f185dc",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nТут все такие сильные, но я постараюсь ради\nкоманды."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_AnglerGrandson_COMMENT_00",
+   "key": "beb9c04a",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nЯ следующий. Надо не ошибиться с куклами..."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_AnglerGrandson_COMMENT_01",
+   "key": "acbf2e53",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nМолодцы. На полпути я чуть не забыл, какой\nцвет ищу."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_AnglerGrandson_COMMENT_02",
+   "key": "16f6d037",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nПохоже, мы собрали кукол: <MOJI0>. Это же много...\nправда?"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_FisherSon_GREETING",
+   "key": "711eda59",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nВсе выглядят такими крутыми! Я тоже\nпостараюсь!"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_FisherSon_COMMENT_00",
+   "key": "224baafe",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nМолодец, <_____MYNAME_____>! Запоминать я не мастак, но\nпостараюсь изо всех сил!"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_FisherSon_COMMENT_01",
+   "key": "255b626d",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nАх, я так устал, столько думать пришлось. Все\nмолодцы."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_FisherSon_COMMENT_02",
+   "key": "8167dd70",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nМы собрали... кукол: <MOJI0>, кажется. Хотя с числами\nу меня плохо, так что могу ошибаться."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Child_Boy_GREETING",
+   "key": "f3d8f6a3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЯ соберу кучу кукол дарума!"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Child_Boy_COMMENT_00",
+   "key": "1b445de7",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Я соберу даже больше, чем <PARENT>!"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Child_Boy_COMMENT_01",
+   "key": "0058063b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМолодцы! Было тяжело, но очень весело. ♪"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Child_Boy_COMMENT_02",
+   "key": "c072182b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nПохоже, всего наша команда собрала кукол: <MOJI0>.\nИнтересно, как мы выступили..."
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Child_Girl_GREETING",
+   "key": "4dde1cbd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЯ соберу целую гору кукол дарума!"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Child_Girl_COMMENT_00",
+   "key": "822b9b2f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЯ соберу даже больше, чем <PARENT>!"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Child_Girl_COMMENT_01",
+   "key": "87cb4d97",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМолодцы! Было тяжеловато, но очень весело.\n♪"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_Child_Girl_COMMENT_02",
+   "key": "0a66b7e8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nПохоже, всего наша команда собрала кукол: <MOJI0>.\nИнтересно, как мы выступим..."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_GO_HOME_01",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_FES_J_GAME_GO_HOME_02",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

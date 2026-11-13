@@ -1,0 +1,33 @@
+{
+ "file": "Animal_DeathSick",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_DEATH_SICK_00",
+   "key": "daaf7264",
+   "ru": "(О нет! Болезнь усиливается! Надо скорее её\nлечить...!)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_DEATH_SICK_01",
+   "key": "525dac9b",
+   "ru": "(Держись, <MOJI0>!)\n<PAGE>\n(...)\n<PAGE>\n(Ничего не выходит... Уже слишком поздно.)"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_DEATH_SICK_02",
+   "key": "0a4aeb07",
+   "ru": "(...Похороним <MOJI0>.)"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_DEATH_SICK_03",
+   "key": "c5996a37",
+   "ru": "(<MOJI0>, спасибо тебе за всё.\nПрости, что не смогли тебя спасти.)"
+  }
+ ]
+}

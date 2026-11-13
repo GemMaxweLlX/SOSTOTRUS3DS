@@ -1,0 +1,96 @@
+{
+ "file": "Festival_Info_J_Inari",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_00",
+   "key": "7ecbf5b8",
+   "ru": "<FACE_TEAOWNER>\r\nЭй, <_____MYNAME_____>! Это Гиндзиро! Вхожу."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_01",
+   "key": "a89876f5",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>. Бодрячком сегодня!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_02",
+   "key": "36a8a05b",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПраздник изобилия на носу, да? Решил\nзаскочить напомнить.\n<PAGE>\nПраздник будет в тот же день, что и в прошлом\nгоду, ― <BLUE>15 осени</BLUE>.\n<PAGE>\nЕсли хочешь участвовать, подойди ко мне в\nдень праздника <BLUE>с 10:00 до 13:00</BLUE>, ладно?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_03",
+   "key": "85f7372b",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nА, и если найдётся время, не поможешь снова\nсобрать деньги?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_04",
+   "key": "746b61ed",
+   "ru": "Конечно, помогу!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_05",
+   "key": "75e5f696",
+   "ru": "Простите, мне некогда"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_06",
+   "key": "d1a7e46a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nО, спасибо, выручаешь! Значит, собрать нужно\nу...\n<PAGE>\n<BLUE>Хинаты</BLUE>, <BLUE>Комари</BLUE>, <BLUE>Мории</BLUE>, <BLUE>Умэкити</BLUE>, <BLUE>Сидзу</BLUE> и\n<BLUE>Яити</BLUE>. Только у этих шестерых.\n<PAGE>\n<FACE_NORMAL>Собери деньги и принеси мне до <BLUE>вечера 14-го</BLUE>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_07",
+   "key": "6901ccf3",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nО, спасибо, выручаешь! Значит, собрать нужно\nу...\n<PAGE>\n<BLUE>Юдзуки</BLUE>, <BLUE>Касуми</BLUE>, <BLUE>Сумомо</BLUE>, <BLUE>Омиё</BLUE>, <BLUE>Иттэцу</BLUE> и\n<BLUE>Тацуми</BLUE>. Только у этих шестерых.\n<PAGE>\n<FACE_NORMAL>Собери деньги и принеси мне до <BLUE>вечера 14-го</BLUE>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_08",
+   "key": "4856088c",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЕсли забудешь, у кого собирать, просто\nподойди ко мне. Подскажу.\n<PAGE>\nПостараемся, чтобы праздник удался, а?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_09",
+   "key": "3abde452",
+   "ru": "(Так, мне нужно собрать деньги у...)\n<PAGE>\n(<BLUE>Хинаты</BLUE>, <BLUE>Комари</BLUE>, <BLUE>Мории</BLUE>, <BLUE>Умэкити</BLUE>, <BLUE>Сидзу</BLUE> и\n<BLUE>Яити</BLUE>. Понятно!)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_10",
+   "key": "cf920e54",
+   "ru": "(Так, мне нужно собрать деньги у...)\n<PAGE>\n(<BLUE>Юдзуки</BLUE>, <BLUE>Касуми</BLUE>, <BLUE>Сумомо</BLUE>, <BLUE>Омиё</BLUE>, <BLUE>Иттэцу</BLUE> и\n<BLUE>Тацуми</BLUE>. Понятно!)"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_11",
+   "key": "87661bf3",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nБрось, не надо извиняться. Раз некогда, то что\nуж тут поделаешь, верно?\n<PAGE>\nЗато на праздник приходи повеселиться!\nДоговорились?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_J_INARI_12",
+   "key": "37d70949",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу, за этим я и приходил, так что пойду\nдомой. Бывай."
+  }
+ ]
+}

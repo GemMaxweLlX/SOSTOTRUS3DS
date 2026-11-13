@@ -1,0 +1,54 @@
+{
+ "file": "Story_Town_S_RankC_Collabo_FoodStuff",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_00",
+   "key": "1539481e",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nТак. Ничто меня так не бесит, как ходить\nвокруг да около, так что сразу к делу.\n<PAGE>\nТебе доводилось слышать про <BLUE>специи</BLUE>?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_01",
+   "key": "7679929f",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nЭто приправа из <BLUE>перца чили</BLUE>. Мы много где её\nиспользуем в готовке.\n<PAGE>\nТолько вот купить её здесь нельзя. Приходится\nехать за ней в другие места, и до чего же это\nдорого!\n<PAGE>\n<FACE_SAD>По-моему, неправильно, что приправу,\nкоторой мы пользуемся постоянно, нельзя\nкупить прямо в нашей деревне.\n<PAGE>\n<FACE_NORMAL>Вот я и подумала...\n<PAGE>\nБудь у меня перец чили, я могла бы делать\nсвою смесь специй и продавать её в лавке."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_02",
+   "key": "91e61243",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nХорошая мысль, правда?\n<PAGE>\nБыла бы, если бы не одна крохотная\nпроблемка."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_03",
+   "key": "e1cd47ae",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nУгадаешь? Именно. Перца чили у нас тоже нет.\n<PAGE>\nНо я слышала, что ты выращиваешь на ферме\nвсякое. Даже кое-что экзотическое.\n<PAGE>\nЕсли бы мне доставить немного перца чили...\n<PAGE>\n...то с нехваткой специй было бы покончено.\n<PAGE>\nНу? Как насчёт этого? Поможешь разрешить\nнаш продовольственный кризис?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_04",
+   "key": "d7f8d806",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Договорились! Тогда мне от тебя\nнужно...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>. Запомнишь?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_05",
+   "key": "8f6d788c",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nМахало, <_____MYNAME_____>.\n<PAGE>\nА, и спешить некуда. Приноси когда угодно."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_06",
+   "key": "032a1d1a",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Я на тебя рассчитываю!"
+  }
+ ]
+}

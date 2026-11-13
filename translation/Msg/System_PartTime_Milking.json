@@ -1,0 +1,89 @@
+{
+ "file": "System_PartTime_Milking",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_START_Uncle",
+   "key": "3c6704b4",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за помощь! Давай сразу начнём <BLUE>доить\nкоров</BLUE>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_RECEIVE_Uncle",
+   "key": "cc524729",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВот это дойка что надо. Дай-ка соберу\nмолоко."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_MONEY_Uncle",
+   "key": "1fb80446",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nНеплохо. Совсем неплохо. Держи плату."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_ITEM_Uncle",
+   "key": "5292597c",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nПремного благодарен. А это в знак\nпризнательности. Бери."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_END_Uncle",
+   "key": "0e11cd97",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nКак будет настроение ― с радостью приму\nтвою помощь снова."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_START_AmericaFarmOldwoman",
+   "key": "a1949244",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОй, спасибо, что пришли! Не хочу торопить, но\nне начнёте сразу <BLUE>доить коров</BLUE>?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_RECEIVE_AmericaFarmOldwoman",
+   "key": "b530bd2a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх, великолепная работа! Отдадите мне\nмолоко?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_MONEY_AmericaFarmOldwoman",
+   "key": "beb6b302",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Вот, держите оплату."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_ITEM_AmericaFarmOldwoman",
+   "key": "eea3dc41",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОй! Вот ещё кое-что в благодарность за то,\nчто всегда мне помогаете."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_END_AmericaFarmOldwoman",
+   "key": "06edeb1f",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВы меня просто спасаете! До следующего раза."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_FREE",
+   "key": "1911fb6b",
+   "ru": "Взята подработка: <BLUE>дойка</BLUE> коров!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_MILKING_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  }
+ ]
+}

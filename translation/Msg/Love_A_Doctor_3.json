@@ -1,0 +1,159 @@
+{
+ "file": "Love_A_Doctor_3",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_00",
+   "key": "e9588884",
+   "ru": "(Ой-ой, вдруг полило как из ведра! Надо\nгде-нибудь переждать...)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_01",
+   "key": "3b66db6f",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_EXCLAMATION_L>Хм? А, <_____MYNAME_____>. Что привело тебя сюда так внезапно?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_02",
+   "key": "ade371ee",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nО, ты пряталась от внезапного ливня?\n<PAGE>\n<FACE_SAD>Да, этот дождь начался почти без\nпредупреждения...\n<PAGE>\n<FACE_NORMAL>Прошу, входи. Пониженная температура тела\n― открытое приглашение для всевозможных\nвирусных инфекций, знаешь ли."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_03",
+   "key": "c98b5e4a",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nВот. Я принёс тебе полотенце вытереться."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_04",
+   "key": "ce5676d0",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_L>Не помешала ли ты?\n<PAGE>\n<WINDOW_DEFAULT>А, ты о той стопке бумаг? Нет, ничего особо\nважного.\n<PAGE>\nЯ просто писал колонку для старого друга.\n<PAGE>\nКак раз решил сделать перерыв, когда ты\nпришла. К тому же...\n<PAGE>\n<FACE_LAUGH>Поболтать с кем-то, пока пережидаешь дождь,\n― не так уж и неприятно.\n<PAGE>\n<FACE_NORMAL>Знаю, дай-ка я тебя кое-чем угощу. Подожди\nздесь."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_05",
+   "key": "b1b76723",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПрости, что заставил ждать. Я заварил тебе\nособый чай.\n<PAGE>\nПопробуй."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_06",
+   "key": "3756c50d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nНу как? Необычный вкус, не правда ли?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_07",
+   "key": "3a5c7776",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Ещё бы!\n<PAGE>\nВидишь ли, этот чай сделан из слоновьего\nнавоза."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_08",
+   "key": "3aca5c09",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЯ попросил старого знакомого его раздобыть.\n<PAGE>\nНавоз сушат целый год, так что никакого риска\nбиологического заражения. Более того, у него\nесть ряд полезных свойств...\n<PAGE>\n<FACE_SAD>Что? Тебе... не нравится?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_09",
+   "key": "134addf4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nО-ох...\n<PAGE>\nЯ берёг его для особых гостей, но...\n<PAGE>\n<FACE_NORMAL>Просто приготовлю что-нибудь другое.\nМинутку."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_10",
+   "key": "038ccca7",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВот. Это особая смесь соков моего\nсобственного изобретения."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_11",
+   "key": "a9b15649",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Должен сказать, весьма впечатляющая.\n<PAGE>\nЭто лимонад с содержанием витамина C из\nтысячи лимонов.\n<PAGE>\n<WINDOW_DEFAULT><FACE_NORMAL>При твоей работе трудно избежать загара, не\nтак ли? Так вот, витамин C ― антиоксидант с\nотшелушивающим...\n<PAGE>\n<FACE_SAD><WINDOW_INCOMPREHENSIBLE_R>Хм? Что такое?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_12",
+   "key": "17839416",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nСлишком кисло?\n<PAGE>\nПонятно... Да, я ещё не довёл вкус до ума, так\nчто, полагаю, он кислый, как тысяча лимонов."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_13",
+   "key": "076ce73c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nП-прошу прощения.\n<PAGE>\n<FACE_SAD>Видимо, и правда разумно не браться за то, в\nчём не разбираешься."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_14",
+   "key": "e2a761a7",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nВидишь ли... Ко мне по-настоящему приходят\nтолько Уэйн и Брэд.\n<PAGE>\nМне никогда не приходилось подолгу\nпринимать других гостей, так что, признаюсь, я\nнемного растерян."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_15",
+   "key": "7416688f",
+   "ru": "Можешь просто быть собой"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_16",
+   "key": "ed323aa7",
+   "ru": "Вообще-то это даже мило"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_17",
+   "key": "8cb8aa4b",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nАх. Я надеялся принять тебя как подобает\nгостю...\n<PAGE>\n<FACE_NORMAL>Ну что ж.\n<PAGE>\nЕсли ты не против меня такого, какой я есть,\nто, пожалуй, так даже лучше."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_18",
+   "key": "e7f31190",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>\r\nМ-мило?!\n<PAGE>\n<FACE_SAD>...\n<PAGE>\nЧто ж... Пожалуй, понимаю, как мои неумелые\nпопытки тебя развлечь можно счесть\n“милыми”.\n<PAGE>\nЯ просто... хотел быть для тебя хорошим\nхозяином.\n<PAGE>\n<FACE_NORMAL>Полагаю, это лишь значит, что мне нужно\nусерднее осваивать искусство приёма гостей."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_19",
+   "key": "45ee2dc9",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...О? Похоже, дождь стихает.\n<PAGE>\nТеперь ты сможешь добраться домой, не\nслишком промокнув."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_20",
+   "key": "babab93d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНет-нет. Не нужно меня благодарить. Я\nприятно провёл время. К тому же...\n<PAGE>\n<FACE_LAUGH>Мне приятно, что первым местом, где ты\nрешила укрыться от дождя, стал мой дом.\n<PAGE>\n<FACE_NORMAL>Пожалуйста, заходи ещё как-нибудь. В дождь\nи в солнце."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_3_21",
+   "key": "ec56627d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...Значит, гроза прошла?\n<PAGE>\n...\n<PAGE>\n<FACE_SAD><WINDOW_PALPITATION_R>Мог бы ещё немного и подождать...\n<PAGE>\nМне бы этого хотелось..."
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "file": "Story_Town_S_Release",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_00",
+   "key": "e454f537",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, ты дома? Прошу прощения."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_01",
+   "key": "c501a533",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЯ привёл кое-кого, кто хочет с тобой\nпознакомиться."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_02",
+   "key": "f7e95f2e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Алоха! Рада познакомиться, <_____MYNAME_____>. Меня зовут\nТототара."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_03",
+   "key": "d4e544ee",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nАх да. “Алоха” на нашем языке значит\n“здравствуй”.\n<PAGE>\n<FACE_LAUGH>И эта поза тоже означает “алоха”. Хочешь\nпопробовать? Давай, давай."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_04",
+   "key": "fc605710",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nПомнишь, я говорил, что ворота в другие два\nгорода чинят?\n<PAGE>\nТак вот, одни вчера наконец доделали.\n<PAGE>\n<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>Я старейшина Лулукоко. Раз дорога в нашу\nдеревню открыта, я подумала устроить тебе\nэкскурсию. Интересно?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_05",
+   "key": "95172e7d",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какой энтузиазм! Тогда чего\nждать? В путь."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_06",
+   "key": "dc04b921",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nВот и всё. Это вход в Лулукоко."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_07",
+   "key": "ddd7455a",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nСинее море и белые пляжи. Красиво, правда?\n<PAGE>\nКак видишь, Лулукоко ― деревня у моря.\nКруглый год тепло и полно цветов ―\nнастоящий маленький рай.\n<PAGE>\nКстати, это одно из самых популярных мест\nдеревни. Правда, ветерок и шум волн\nуспокаивают?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_08",
+   "key": "b1bb5b2e",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nЗдесь же находится большинство лавок\nдеревни. Давай немного осмотримся?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_09",
+   "key": "c6dac6e0",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nЗдесь <GREEN>Универмаг</GREEN>, <GREEN>Фруктовая лавка</GREEN> и <GREEN>Продукты</GREEN>.\n<PAGE>\nДнём тут бывает очень жарко, так что\nбольшинство лавок закрывается на дневную\nсиесту.\n<PAGE>\nОбычно они открыты с <BLUE>6:00 до 10:00</BLUE> утром и с\n<BLUE>17:00 до 22:00</BLUE> вечером."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_10",
+   "key": "e5ae1459",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Алоха, Тототара. Проводишь экскурсию для\nгостя?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_11",
+   "key": "c4c15226",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nКаолила. Алоха и тебе. Да, экскурсия, но это\nне простой турист.\n<PAGE>\n<_____MYNAME_____>, это Каолила, хозяйка продуктовой лавки."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_12",
+   "key": "75332193",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Комо маи! Комо маи! Рада знакомству. Я\nКаолила.\n<PAGE>\nА, “комо маи”? Это по-нашему “добро\nпожаловать”."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_13",
+   "key": "26f71fc1",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nТак ты <_____MYNAME_____>, хм? Хорошее имя. Очень хорошее.\n<PAGE>\nЯ живу здесь с мужем и двумя детьми, сыном и\nдочкой. Заходи как-нибудь в гости. Мы живём\nвон в том доме."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_14",
+   "key": "accffc15",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>, пойдём дальше.\n<PAGE>\nЕщё увидимся, Каолила.\n<PAGE>\n<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>Хорошего дня!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_15",
+   "key": "5541d110",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nЭтот путь ведёт в <GREEN>Кафе у моря</GREEN>, наш местный\nресторан."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_16",
+   "key": "c12a2336",
+   "ru": "<NAME_UNKNOWN>\r\nФу! Какая кокосовая башка оставила тут\nкальмара?!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_17",
+   "key": "9c0861af",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>\r\n<NAME_UNKNOWN><WINDOW_ANGER_L>Спорим, какой-то дурак рыбачил вчера ночью\nи бросил его здесь.\n<PAGE>\nНо если уж забыл улов, обязательно было\nоставлять его на столике НАШЕГО ресторана?!\nНевероятно! Некрасиво! Негигиенично!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL><NAME_UNKNOWN>Хм-м... Кальмар. Что бы такое на ужин подать\nк кальмару...?\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY><NAME_UNKNOWN>Силука! Сейчас не время думать об ужине!\n<PAGE>\nНельзя открываться, пока на нашем столе\nлежит эта скользкая, склизкая гадость!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL><NAME_UNKNOWN>А. Верно. Илука, уберёшь?\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY><NAME_UNKNOWN>О не-е-ет, даже не пытайся спихнуть это на\nменя! Уберём вместе!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_18",
+   "key": "0d441bfb",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_SAD>\r\nБатюшки! Что за крик, милая?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_19",
+   "key": "450f9fc8",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\n<NAME_UNKNOWN>Бабуля! Посмотри на это. Только посмотри,\nчто...!\n<PAGE>\n<WINDOW_INCOMPREHENSIBLE_R><NAME_UNKNOWN>Стоп. А это кто?\n<PAGE>\n<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>Это новый фермер, что поселился у\nперекрёстка. Я пришла вас познакомить.\n<PAGE>\n<WINDOW_DEFAULT><POS_RIGHT><FACE_NORMAL><FACE_TWINOLDER><NAME_UNKNOWN>О, вот как?\n<PAGE>\n<WINDOW_DEFAULT><FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL><NAME_UNKNOWN>..."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_20",
+   "key": "73cdb65b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Значит, <_____MYNAME_____>, да?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_21",
+   "key": "199e46c0",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЯ Илука. Это мой ресторан."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_22",
+   "key": "550eccb2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nА это моя сестра, Силука."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_23",
+   "key": "464f9607",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>. Приятно познакомиться."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_24",
+   "key": "0a4260fa",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nДевочки почти всё время заняты рестораном,\nно ещё они жрицы нашей деревни.\n<PAGE>\nПроводят разные обряды и помогают жителям\nв нужде."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_25",
+   "key": "3439c544",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Слушай, придумала! Раз уж мы теперь\nподружились...\n<PAGE>\nМожет, поможешь нам убрать этот бардак? В\nзнак дружбы!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_26",
+   "key": "4d6218e8",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nБатюшки, ты и правда им помогаешь. Слишком\nуж ты добрая душа, <_____MYNAME_____>."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_27",
+   "key": "e4df57ff",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nЧто ж. Покажу тебе следующее место. Сюда."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_28",
+   "key": "0d791268",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nСовсем не то, что пляж, правда?\n<PAGE>\nНеподалёку есть джунгли, знаешь ли. Там\nполно всякой интересной живности. Ну, идём."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_29",
+   "key": "9268d020",
+   "ru": "<FACE_INNOWNER>\r\nЭтот костёр ― важный символ нашего города.\nКроме как во время ураганов, мы следим,\nчтобы он ярко горел каждый день.\n<PAGE>\nВ конце года мы проводим обряд: гасим\nстарый огонь и зажигаем новый на новый год."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_30",
+   "key": "61dbbcc1",
+   "ru": "<FACE_INNOWNER>\r\nЭто <GREEN>Универмаг</GREEN>. Там можно найти всякие\nполезные вещи вроде инструментов и удочек."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_31",
+   "key": "6178e73f",
+   "ru": "<FACE_INNOWNER>\r\nА это мой дом. Моя семья держит <GREEN>Гостиницу</GREEN>,\nпонимаешь ли. Я хозяйка.\n<PAGE>\nЕсли не захочется возвращаться домой, всегда\nможно переночевать здесь. Завтрак у нас\nнезабываемый."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_32",
+   "key": "5d7578b7",
+   "ru": "<FACE_INNOWNER>\r\nВ дальнем конце деревни ― руины.\nПотрясающие, правда?\n<PAGE>\nНикто не знает, когда их построили. Даже я.\n<PAGE>\nВ легендах лишь говорится, что их возвели с\nпомощью магии ведьмы.\n<PAGE>\nСколько все себя помнят, в этих руинах жрицы\nи жители деревни возносили молитвы.\n<PAGE>\nЭта традиция жива и по сей день.\n<PAGE>\nЕсли хочешь, тоже можешь помолиться, <_____MYNAME_____>."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_33",
+   "key": "48ee5fa9",
+   "ru": "<FACE_INNOWNER>\r\nСправа от моей гостиницы ― лавка <GREEN>Мастер на\nвсе руки</GREEN>.\n<PAGE>\nСтройка, ремонт, поиск потерявшихся питомцев\n― попроси, и всё сделают.\n<PAGE>\nВидишь? Вон впереди стоит хозяин лавки. Это\nмой внук!\n<PAGE>\nЛудус! Лудус, сюда!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_34",
+   "key": "6be430ab",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Привет, бабуля. Это тот новый фермер, о\nкотором все говорят?\n<PAGE>\n<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>Хо-хо. Да, он самый. Лудус, познакомься: <_____MYNAME_____>."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_35",
+   "key": "f61b3fe6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nАлоха. Я Лудус. Деревенский мастер на все\nруки.\n<PAGE>\n<FACE_LAUGH>Если захочешь перестроить дом или поставить\n<RED>круг фермы</RED>, обращайся, а?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_36",
+   "key": "03c5f611",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nА, прости. Круги фермы ― это предметы и\nпостройки, которые можно разместить на\nферме, по сути украшения.\n<PAGE>\nЕсли завтра будет время, расскажу подробнее."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_37",
+   "key": "5f09a228",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Отлично. Тогда договорились. Завтра утром\nзагляну к тебе на ферму."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_38",
+   "key": "633634e3",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nВот и вся экскурсия по нашей деревне.\n<PAGE>\nЕсли какое-то место заинтересовало, загляни\nтуда.\n<PAGE>\n<FACE_LAUGH>Вся деревня Лулукоко рада тебе, <_____MYNAME_____>. Заходи\nкогда захочешь."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_39",
+   "key": "c139278f",
+   "ru": "(Новый город и новые знакомства! Не\nтерпится!)"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_40",
+   "key": "92aa8cf6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>. Как тебе Лулукоко?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_41",
+   "key": "2d3ee36a",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nХорошо, хорошо. Теперь можно отгружать\nурожай и продукцию и в Лулукоко.\n<PAGE>\n<FACE_NORMAL>Раз уж зашла речь, расскажу о том, куда\nотгружать."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_42",
+   "key": "9c1460b0",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nПодойди к ящику для отгрузки и <BLUE>нажми A</BLUE>,\nчтобы выбрать, куда отгружать товары.\n<PAGE>\nТолько выбрать можно лишь одно место за\nраз.\n<PAGE>\nТак что в два города одновременно отгружать\nнельзя. Запомни."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_43",
+   "key": "5918b6e9",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЕсли хочешь сменить место отгрузки, это нужно\nсделать <RED>не позже чем накануне вечером</RED>.\n<PAGE>\nИными словами, если хочешь, чтобы\nзавтрашняя отгрузка ушла в Лулукоко, выбери\nего до того, как ляжешь спать сегодня.\n<PAGE>\nДо этого можно переключать сколько угодно.\nГлавное ― чтобы перед сном было выбрано\nнужное место."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_44",
+   "key": "4267b34c",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nАх да. Твой <RED>ранг связи с городом</RED> Лулукоко\nтоже вырос.\n<PAGE>\nПотом можешь проверить его в меню.\n<PAGE>\n<FACE_LAUGH>Теперь ты сможешь вести с ними дела, как и с\nУэстауном."
+  }
+ ]
+}

@@ -1,0 +1,229 @@
+{
+ "file": "Couple_A_Postman_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_00",
+   "key": "36cc28df",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nХм-м... Что же выбрать, что выбрать...?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_01",
+   "key": "3431049e",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nО, <_____MYNAME_____>! Как хорошо, что ты дома!\n<PAGE>\nГлянешь со мной вот на это?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_02",
+   "key": "9c369daa",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЯ, кажется, не говорил, но давно хотел\nустроить небольшую вечеринку и позвать\nлюдей со всего города.\n<PAGE>\nТолько не здесь. Хочу провести её у себя на\nработе ― на почте."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_03",
+   "key": "35f5f889",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nКогда я там жил, толком никого не приглашал\nв гости.\n<PAGE>\n<FACE_LAUGH>Но лучше поздно, чем никогда! Думаю, будет\nздорово всех радушно принять."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_04",
+   "key": "9e46c8fc",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LOSS>\r\nОдна загвоздка: не знаю, что подать к столу.\n<PAGE>\nНе поможешь советом?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_05",
+   "key": "2add6842",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЗначит, поможешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_06",
+   "key": "32fd4773",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nОтлично! Это очень выручит!\n<PAGE>\nДа и с тобой куда веселее, чем одному.\n<PAGE>\nНу... что будем подавать?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_07",
+   "key": "9dd13131",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nСпасибо, что пригласил нас сегодня, Уэйн.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>Да уж! Приятно иногда расслабиться.\n<PAGE>\n<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>И еда такая вкусная!\n<PAGE>\nА знаете что?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_10",
+   "key": "7f2ae01d",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nПо-моему, я впервые у Уэйна в гостях!\n<PAGE>\nКаждый раз, заходя на почту, гадала, что там\nдальше, внутри."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_11",
+   "key": "9e4a3902",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nХа-ха. Уж простите.\n<PAGE>\nВсе всегда так радушно меня приглашают, вот я\nи решил, что пора отплатить тем же.\n<PAGE>\n<_____MYNAME_____> тоже очень помогла. Если вам весело, это всё\nеё заслуга!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_12",
+   "key": "946164d5",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКстати, не хочу лезть, но мне давно интересно.\n<PAGE>\nКак вы двое сошлись?\n<PAGE>\nНи с того ни с сего стали парой, а я и\nоглянуться не успела, как вы поженились."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_13",
+   "key": "ee0948b8",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nХа-ха! Я кое-что слышала об этом от Ноэль.\nОх и ворчала же она!\n<PAGE>\n<FACE_NORMAL>“Я провалила задание, потому что Уэйн и <_____MYNAME_____> не\nмогли оторвать друг от друга глаз”, ― сказала\nона.\n<PAGE>\nНе знаю, что у неё было за задание, но если\nему помешали эти взгляды, я, кажется,\nдогадываюсь, понимаете?\n<PAGE>\n<FACE_LAUGH>В общем, ясно, что они уже тогда были без ума\nдруг от друга!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_14",
+   "key": "3095adaf",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_SAD>\r\nУверены, что стоит расспрашивать о таком\nличном?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_15",
+   "key": "b5ea27a3",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nНичего, Гектор.\n<PAGE>\n<FACE_LOSS>А как мы впервые сошлись..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_16",
+   "key": "42ab0b93",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nНу, всё началось, когда я увидел, как <_____MYNAME_____> доит\nкорову."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_17",
+   "key": "0758d627",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nОна так нежно её гладила и ласково с ней\nразговаривала.\n<PAGE>\nЯ глаз не мог отвести.\n<PAGE>\nВидно, её любовь и забота о той корове\nкак-то тронули моё сердце.\n<PAGE>\nПомню, тогда я подумал: нет ничего лучше, чем\nбыть рядом с человеком, который так же\nбудет заботиться обо мне."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_18",
+   "key": "cb517ea2",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_PALPITATION_L>Хотя, если подумать, я, наверное, уже тогда в\nнеё влюбился..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_19",
+   "key": "bbb903a3",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_SAD>\r\nКхм."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_20",
+   "key": "fe8b43ac",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>...\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>Ох, батюшки...\n<PAGE>\nЯ рада узнать, как вы так сблизились, но...\n<PAGE>\nМожет, продолжите, когда останетесь наедине,\nа?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_21",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_22",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_23",
+   "key": "dde8bc41",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nАх, молодость.\n<PAGE>\nРядом с вами двумя и у меня прибавляется\nзадора!\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_LEFT><FACE_SAD>Кажется, мне стоит отвернуться..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_24",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_25",
+   "key": "e74bd19f",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nХа-ха, простите! Кажется, увлёкся!\n<PAGE>\nНу, веселитесь, ребята. Отдыхайте и\nнаслаждайтесь вечеринкой!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_26",
+   "key": "86784b98",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу вот, похоже, почти всё прибрали.\n<PAGE>\nЕщё раз спасибо за помощь, <_____MYNAME_____>, тем более что всё\nбыло так внезапно. Без тебя я бы не справился."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_27",
+   "key": "8b55d3d4",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nБыло куда веселее, чем я ожидал.\n<PAGE>\nНадо было устроить такое давным-давно."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_28",
+   "key": "b09f6e53",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНо, наверное, без тебя я бы так не сказал."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_29",
+   "key": "53cd7f93",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nЯ не то чтобы не люблю общаться с людьми.\nНаоборот, мне это даже нравится.\n<PAGE>\n<FACE_NORMAL>Но я никогда не любил выставлять напоказ\nличную жизнь.\n<PAGE>\nПоэтому избегал такого."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_30",
+   "key": "7edb453d",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНо когда я смотрю на тебя, как ты во всём\nвыкладываешься на 200%...\n<PAGE>\nМне хочется стать лучше.\n<PAGE>\n<FACE_LAUGH>Когда ты рядом, мне кажется, я всё могу."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_31",
+   "key": "4074bfdc",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХа-ха, не хотел тебя смущать. Иди сюда.\n<PAGE>\n<FACE_LAUGH>Хочу тебя поцеловать. Весь вечер еле\nсдерживался."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_32",
+   "key": "020e2371",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе могу дождаться, чтобы создать ещё больше\nтаких воспоминаний, как сегодня.\n<PAGE>\nВместе с тобой."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_POSTMAN_1_33",
+   "key": "896beac2",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, ты лучшая спутница, о какой можно мечтать.\n<PAGE>\nОтныне и до конца времён ты всегда будешь\nмоей единственной любовью."
+  }
+ ]
+}

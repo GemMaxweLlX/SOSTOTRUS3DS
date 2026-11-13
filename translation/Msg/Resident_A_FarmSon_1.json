@@ -1,0 +1,166 @@
+{
+ "file": "Resident_A_FarmSon_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_00",
+   "key": "a15f1431",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nО! <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_01",
+   "key": "5c09957a",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_SAD>\r\nХорошо, что ты пришёл(шла). Я хотел кое-что\nспросить...\n<PAGE>\nНо здесь об этом говорить нельзя. Можешь\nзайти ко мне в комнату?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_02",
+   "key": "e5b94ed3",
+   "ru": "<FACE_AMERICAFARMSON><POS_LEFT><FACE_NORMAL>\r\nВ общем, со мной недавно случилось кое-что\nочень странное.\n<PAGE>\nПосмотри на мою одежду. Там аппликации с\nмедведем и кроликом, да?\n<PAGE>\nТак вот, раньше там был только кролик..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_03",
+   "key": "a0a730fb",
+   "ru": "<FACE_AMERICAFARMSON><POS_LEFT><FACE_NORMAL>\r\nИными словами, новая аппликация появилась, а\nя и не заметил.\n<PAGE>\nЯ всегда думал, что их пришивает бабушка,\nно...\n<PAGE>\n<FACE_SAD>Медведь появился несколько дней назад.\n<PAGE>\n...А бабушки тогда дома не было."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_04",
+   "key": "efd057c7",
+   "ru": "<FACE_AMERICAFARMSON><POS_LEFT><FACE_SAD>\r\nНе представляю, чтобы папа такое делал, а\nесли не бабушка...\n<PAGE>\nПонятия не имею, кто бы это мог быть.\nНемножко жутко."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_05",
+   "key": "4c6eadd9",
+   "ru": "<FACE_AMERICAFARMSON><POS_LEFT><FACE_NORMAL>\r\nТак что, пожалуйста, <_____MYNAME_____>. Поможешь мне\nразгадать эту тайну?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_06",
+   "key": "8862ed6b",
+   "ru": "<FACE_AMERICAFARMSON><POS_LEFT><FACE_NORMAL>\r\nПоможешь? Спасибо!\n<PAGE>\nМне было не по себе, это прямо как из\nстрашилки, но с тобой я могу быть куда\nхрабрее."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_07",
+   "key": "4ddc9d4b",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nКолин, мне нужно, чтобы ты помог..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_08",
+   "key": "668c64a7",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_R>Новая аппликация?\n<PAGE>\n<WINDOW_DEFAULT>...Не, ничего об этом не знаю. Точно не\nбабушка?\n<PAGE>\n<FACE_AMERICAFARMSON><POS_LEFT><FACE_NORMAL>Но последняя появилась, когда её не было..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_09",
+   "key": "41ff415a",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсли есть время волноваться о таком, лучше\nпотрать его, помогая бабушке.\n<PAGE>\n<FACE_AMERICAFARMSON><POS_LEFT><FACE_SAD>Ах...\n<PAGE>\n<FACE_SAD>Л-ладно. ...Прости, пап."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_10",
+   "key": "56c54086",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n...Пора заняться животными. Спускайся,\nпоможешь."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_11",
+   "key": "b515517f",
+   "ru": "<FACE_AMERICAFARMSON><POS_LEFT><FACE_SAD>\r\n...\n<PAGE>\n<FACE_NORMAL>Видно, всё-таки бабушка.\n<PAGE>\nНу конечно! Кто же ещё?\n<PAGE>\n<FACE_SAD>Похоже, расследовать ничего не придётся. Всё\nравно спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_12",
+   "key": "bd9693a5",
+   "ru": "<FACE_AMERICAFARMSON><POS_LEFT><FACE_NORMAL>\r\nВсё нормально. Папа редко сердится.\n<PAGE>\nЗнаешь, я не знал, что делать и с кем об этом\nпоговорить, но...\n<PAGE>\n<FACE_LAUGH>Я рад, что ты был(а) рядом, <_____MYNAME_____>. Спасибо, что\nотнёсся(лась) серьёзно и выслушал(а) меня.\n<PAGE>\nПриходи как-нибудь поиграть. Будем вместе\nрисовать!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_13",
+   "key": "5f7c3fce",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n...<_____MYNAME_____>. Извини за то, что было."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_14",
+   "key": "77704e37",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\nТа аппликация, о которой говорил Колин...\n<PAGE>\n...\n<PAGE>\nЕё пришил я."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_15",
+   "key": "6046c21b",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно, ты удивлён(а).\n<PAGE>\nМужик вроде меня делает аппликации... Любой\nбы засмеялся."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_16",
+   "key": "00880c8f",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\nИзвини, но... можешь сохранить это в тайне от\nКолина?\n<PAGE>\nУверен, однажды он сам всё поймёт, но до тех\nпор пусть лучше не знает."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_17",
+   "key": "59af8eeb",
+   "ru": "Колин из-за этого переживает"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_18",
+   "key": "8f4a55ca",
+   "ru": "Я сохраню твою тайну"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_19",
+   "key": "a584644c",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nВот как... Я совсем забыл, что мамы в тот день\nне было.\n<PAGE>\n<FACE_SAD>Это был большой промах с моей стороны...\n<PAGE>\n<FACE_NORMAL>Но я понял. Сам с этим разберусь."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_20",
+   "key": "6552f99e",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n...Спасибо, <_____MYNAME_____>. Ещё увидимся."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_21",
+   "key": "c04f9b55",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>. Ты тоже здесь?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMSON_1_22",
+   "key": "d8063f16",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n...Хватит, Колин."
+  }
+ ]
+}

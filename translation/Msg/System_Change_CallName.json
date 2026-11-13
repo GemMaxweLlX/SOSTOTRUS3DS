@@ -1,0 +1,82 @@
+{
+ "file": "System_Change_CallName",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_00",
+   "key": "9a7ded7d",
+   "ru": "Имя изменено. Поменять и прозвище, которым\nтебя зовёт <CHARANAME0>?\n<PAGE>\nСейчас тебя зовут <MOJI0>. Что сделать?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_01",
+   "key": "e9a15b2c",
+   "ru": "Поменять прозвище"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_02",
+   "key": "ba5bd6d5",
+   "ru": "Не менять прозвище"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_03",
+   "key": "082bafea",
+   "ru": "Прозвище <MOJI0> подходит?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_04",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_05",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_06",
+   "key": "ea095a50",
+   "ru": "Это то же, что и старое прозвище... Точно?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_07",
+   "key": "fc5303b4",
+   "ru": "Нет, всё-таки поменяю"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_08",
+   "key": "905ceb3a",
+   "ru": "Оставлю как есть"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_09",
+   "key": "2993475d",
+   "ru": "Пожалуй, оставлю как есть."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_CHANGENAME_10",
+   "key": "9dfa25de",
+   "ru": "Хорошо, скажу об этом: <CHARANAME0>."
+  }
+ ]
+}

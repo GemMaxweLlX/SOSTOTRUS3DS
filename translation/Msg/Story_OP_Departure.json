@@ -1,0 +1,131 @@
+{
+ "file": "Story_OP_Departure",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_00",
+   "key": "2f6ea54c",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_R>Что случилось, пап? Ты только пришёл домой\nи сразу семейный совет?\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Да, насчёт этого... Знаю, это неожиданно, но в\nконце месяца мы переезжаем."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_01",
+   "key": "a25b627c",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_SAD>\r\nЧто? Опять? У-у! А мне так нравился этот\nгород.\n<PAGE>\n<FACE_MOTHER><POS_RIGHT><FACE_SAD>Знаю, Линн. Но папа работает во внешней\nторговле, а переезды ― часть этого. Не будь к\nнему слишком строга, хорошо?\n<PAGE>\n<FACE_NORMAL>Так куда мы переезжаем, дорогой?\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>В город далеко за океаном, на западе. Я заказал\nкорабль, отплываем через несколько дней.\n<PAGE>\n<FACE_MOTHER><POS_RIGHT><FACE_SAD>Ох. Неужели так далеко?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_02",
+   "key": "984c03a5",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nМне жаль, что вам так часто приходится это\nтерпеть, но, пожалуйста, поймите: от меня это\nне зависит.\n<PAGE>\nК тому же говорят, место, куда мы едем,\nничуть не хуже здешнего. Уверен, оно вам всем\nполюбится.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH><WINDOW_JOY_R>О-о, правда? Теперь мне интересно! ♪"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_03",
+   "key": "6e85c7b0",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_R><_____MYNAME_____>, солнышко, что случилось? От тебя всё это\nвремя ни слова."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_04",
+   "key": "0f23b604",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_EXCLAMATION_R>Что?! Ты хочешь жить отдельно? Ну,\nнеудивительно, что ты всё молчишь. Видно, всё\nсерьёзно обдумано."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_05",
+   "key": "7ecba98b",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nЖить отдельно, хм? Что ж, ты уже взрослый\nчеловек. Решать тебе.\n<PAGE>\nИ сделать это одновременно с нашим переездом\nна запад ― мудро.\n<PAGE>\n<FACE_NORMAL>ОДНАКО. Надеюсь, всё продумано? Чем ты\nбудешь себя обеспечивать?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_06",
+   "key": "172ed878",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nТы собираешься стать ФЕРМЕРОМ?!\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_ANGRY>Что, правда? Почему?! Это же ужасно тяжёлая\nработа. Я всегда знала, что у тебя странные\nвкусы...\n<PAGE>\n<FACE_MOTHER><POS_RIGHT><FACE_LAUGH><WINDOW_JOY_R>Ты с самого детства обожаешь растения и\nживотных.\n<PAGE>\nЯ ничуть не удивлена, что ты хочешь стать\nфермером."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_07",
+   "key": "6e780ab7",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_SAD>\r\nНет. Об этом не может быть и речи."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_08",
+   "key": "74b1d51c",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nНе пойми меня неправильно. Фермерство ―\nблагородное занятие, и я глубоко уважаю\nфермеров...\n<PAGE>\n<FACE_SAD>Однако это не такая простая и лёгкая работа,\nчтобы кто угодно мог взяться за неё по\nприхоти и надеяться на успех.\n<PAGE>\n<FACE_ANGRY>Что ты знаешь о животноводстве? О\nвыращивании урожая? Ты хоть представляешь,\nкак вести хозяйство?!\n<PAGE>\n<WINDOW_LINE_L>Если хватает наивности верить, что сможешь\nэтим прокормиться, подумай ещё раз!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_09",
+   "key": "a6901e85",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_LINE_L><WINDOW_ANGER_L>Нет! Тебе ещё рано быть фермером! Я этого НЕ\nпозволю!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_10",
+   "key": "9bfed211",
+   "ru": "Спор продолжался часами, до глубокой ночи...\n<PAGE>\nДве недели спустя..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_11",
+   "key": "6c2e860d",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, ничего не забыто? Путь очень долгий, знаешь\nли. Будь осторожнее."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_12",
+   "key": "54ab4101",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_SAD>\r\nЗначит, ты правда уезжаешь, да?\n<PAGE>\n<FACE_NORMAL>Может, как-нибудь приеду тебя навестить,\nесли захочется."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_13",
+   "key": "8498881c",
+   "ru": "<FACE_FATHER><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_ANGER_R><_____MYNAME_____>. Пойми: я по-прежнему не верю, что ты\nсможешь прокормиться фермерством.\n<PAGE>\nЯ лишь даю тебе возможность убедиться в этом\nсамостоятельно."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_14",
+   "key": "3dbda31f",
+   "ru": "<FACE_FATHER><POS_RIGHT><FACE_NORMAL>\r\nПоезжай к моему младшему брату. Он\nпрекрасный фермер. Пусть он тебя научит.\n<PAGE>\nОн прямо скажет, есть ли в тебе задатки\nхорошего фермера."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_15",
+   "key": "e14b2ae5",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nСчастливого пути, <_____MYNAME_____>. Как устроишься, напиши\nнам. Будем ждать."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_16",
+   "key": "68b3d5ea",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Пока, <_____MYNAME_____>! Удачи!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_STORY_OP_DEPARTURE_17",
+   "key": "6e42a9cb",
+   "ru": "И вот <_____MYNAME_____> прощается с семьёй, чтобы начать новую\nжизнь.\n<PAGE>\nПервая остановка ― ферма дяди Фрэнка в\nмаленьком городке под названием <BLUE>Уэстаун</BLUE>."
+  }
+ ]
+}

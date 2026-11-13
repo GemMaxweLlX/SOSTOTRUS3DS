@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Magra",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "73c5a8b4",
+   "ru": "<NAME_MOB_MAGRA>\r\nАлоха! Рад тебя видеть!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "6128a87e",
+   "ru": "<NAME_MOB_MAGRA>\r\nПривет! Хороший денёк?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "04286b4a",
+   "ru": "<NAME_MOB_MAGRA>\r\nРыбки такие милые! И вкусные..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "9db51b44",
+   "ru": "<NAME_MOB_MAGRA>\r\nХочешь рыбы ― ты в нужном городе!"
+  }
+ ]
+}

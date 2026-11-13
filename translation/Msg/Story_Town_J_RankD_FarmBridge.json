@@ -1,0 +1,68 @@
+{
+ "file": "Story_Town_J_RankD_FarmBridge",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKD_FARMBRIDGE_00",
+   "key": "48c41c9b",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, ко мне тут обратился с просьбой старина\nУмэкити."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKD_FARMBRIDGE_01",
+   "key": "0e8edf79",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_SAD>\r\nНасчёт этого проклятого моста. Ты только\nглянь... Скрипит, трещит и протекает, не\nнаходишь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKD_FARMBRIDGE_02",
+   "key": "a52c77fe",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nАга, так и знал, что ты согласишься, <_____MYNAME_____>.\n<PAGE>\n<FACE_JAPANFARMOLDMAN><POS_LEFT><FACE_SAD>У моей старушки ноги уже не те, понимаешь\nли.\n<PAGE>\nЯ так боюсь, что под ней провалится доска,\nкогда она будет переходить, что ночами почти\nне сплю.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>Ой, да ну! Ничего со мной не будет. Не такая\nуж я и медлительная.\n<PAGE>\nЭто я скорее боюсь, что это ТЫ однажды\nпровалишься, со всеми твоими тяжёлыми\nинструментами."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKD_FARMBRIDGE_03",
+   "key": "9d43fcf6",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nВот. Видишь? Похоже, опасность грозит\nобоим.\n<PAGE>\nВ общем, мы всем городом всё обсудили. И\nрешили вместе скинуться на ремонт.\n<PAGE>\nИ подумали: раз уж взялись, удобно было бы\nдобавить ещё один мост посередине."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKD_FARMBRIDGE_04",
+   "key": "48e71c69",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nА теперь главное, <_____MYNAME_____>, так что слушай\nвнимательно.\n<PAGE>\nМожно и тебя попросить о помощи?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKD_FARMBRIDGE_05",
+   "key": "464ff99e",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПоможешь? Отлично! Мы очень признательны!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKD_FARMBRIDGE_06",
+   "key": "8ab91995",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_LEFT><FACE_NORMAL>\r\nСпасибо, <_____MYNAME_____>. Это очень большая помощь.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>Знать, что и ты помогаешь, ― мне сразу\nгораздо спокойнее."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKD_FARMBRIDGE_07",
+   "key": "854111ac",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nТак, о деньгах не беспокойся. Это мы берём на\nсебя. А тебя хочу попросить собрать\nматериалы.\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE> и <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE>. Достанешь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKD_FARMBRIDGE_08",
+   "key": "597838d4",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Значит, решено!\n<PAGE>\nКак соберёшь все материалы, неси мне, ладно?\n<PAGE>\nМы на тебя рассчитываем, <_____MYNAME_____>!"
+  }
+ ]
+}

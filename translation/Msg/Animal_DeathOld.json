@@ -1,0 +1,33 @@
+{
+ "file": "Animal_DeathOld",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_DEATH_OLD_00",
+   "key": "797cef9a",
+   "ru": "(О нет! <MOJI0> угасает...\nЯ побуду с ней в последние часы.)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_DEATH_OLD_01",
+   "key": "4d28c3ca",
+   "ru": "(<MOJI0>... Ты всё это время была молодцом.)"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_DEATH_OLD_02",
+   "key": "0a4aeb07",
+   "ru": "(...Похороним <MOJI0>.)"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_DEATH_OLD_03",
+   "key": "c78ad984",
+   "ru": "(<MOJI0>, спасибо, что так долго и усердно\nтрудилась...)\n<PAGE>\n(Я никогда тебя не забуду, <MOJI0>...)"
+  }
+ ]
+}

@@ -1,0 +1,215 @@
+{
+ "file": "System_PartTime_Weeder",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_START_Doctor",
+   "key": "5f8e9325",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА, спасибо, что пришли, <_____MYNAME_____>. Готовы начать\n<BLUE>полоть сорняки</BLUE>?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_MONEY_Doctor",
+   "key": "ae356bf5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nО, уже готово? Пожалуйста, примите\nвознаграждение."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_ITEM_Doctor",
+   "key": "7fb148f8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nИ возьмите ещё вот это в знак благодарности.\nНадеюсь, пригодится."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_END_Doctor",
+   "key": "25e6440b",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nВсё собранное можете оставить себе, мне не\nнужно. До следующего раза!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_START_AmericaFarmOldwoman",
+   "key": "5620656a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОй, вы пришли! Не хочу торопить, но готовы\nначать <BLUE>полоть сорняки</BLUE>?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_MONEY_AmericaFarmOldwoman",
+   "key": "3e78fe99",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Вот, держите плату."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_ITEM_AmericaFarmOldwoman",
+   "key": "f1d7628b",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да. Вот ещё кое-что за то, что всегда мне\nпомогаете."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_END_AmericaFarmOldwoman",
+   "key": "7db20518",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВсё собранное оставьте себе. Большое спасибо!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_START_StuffWoman",
+   "key": "319c11cf",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуйте, <_____MYNAME_____>, готовы? Нужно <BLUE>выполоть\nсорняки</BLUE> на этом участке."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_MONEY_StuffWoman",
+   "key": "435d7ce1",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОго, уже готово! Тогда вот ваша плата."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_ITEM_StuffWoman",
+   "key": "484fb2f4",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да, и вот вам небольшая премия. Спасибо,\nчто всегда помогаете!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_END_StuffWoman",
+   "key": "2477ea66",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВсё собранное можете забрать домой.\nОгромное спасибо!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_START_JapanFarmOldman",
+   "key": "0de06c33",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что пришли. Сегодня нужна помощь с\n<BLUE>прополкой</BLUE>. Начнём?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_MONEY_JapanFarmOldman",
+   "key": "0f0bca14",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nЗдорово выручили сегодня. Немного, но вот\nплата."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_ITEM_JapanFarmOldman",
+   "key": "d548e291",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да, возьмите и это. В благодарность за\nпомощь."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_END_JapanFarmOldman",
+   "key": "8a9ffb48",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Всё собранное оставьте себе."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_START_TwinOlder",
+   "key": "d6c073aa",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nО, привет, <_____MYNAME_____>! Сегодня надо <BLUE>выполоть сорняки</BLUE>.\nИзбавишь меня от кучи хлопот!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_MONEY_TwinOlder",
+   "key": "9b65d20c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nО, уже готово? Тогда держи плату!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_ITEM_TwinOlder",
+   "key": "2e02686e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>. Возьми-ка и это. Хуже не будет, правда?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_END_TwinOlder",
+   "key": "9644de93",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nМахало! Если собранное пригодится, оно всё\nтвоё. Увидимся!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_START_TwinYounger",
+   "key": "ffb51cd1",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nО, пришли... Можете <BLUE>выполоть сорняки</BLUE>,\nпожалуйста?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_MONEY_TwinYounger",
+   "key": "21c69f4c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМахало. Вот плата..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_ITEM_TwinYounger",
+   "key": "d204f82f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nВозьмите, пожалуйста. Это небольшая\nпремия..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_END_TwinYounger",
+   "key": "fc60425f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМахало. Всё, что нашлось... можете оставить.\nДо следующего раза..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_START_Assistant",
+   "key": "918490ec",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nО, п-привет... Эм, в этот раз мне нужна\nпомощь с <BLUE>прополкой</BLUE>."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_MONEY_Assistant",
+   "key": "82825a7b",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nОго! Как б-быстро! В-вот плата. Если хочешь,\nпересчитай."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_ITEM_Assistant",
+   "key": "f2e1c666",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nАх да, я, эм, недавно получил вот это и хочу\nподелиться. В знак благодарности."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_END_Assistant",
+   "key": "8077d5eb",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nВсё, что собрано, тоже можешь оставить себе.\nС-спасибо большое! Уверен, мне ещё\nпонадобится твоя помощь."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_FREE",
+   "key": "97bc25a4",
+   "ru": "Взята подработка: <BLUE>прополка</BLUE>!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_WEEDER_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  }
+ ]
+}

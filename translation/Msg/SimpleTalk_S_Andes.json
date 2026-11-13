@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Andes",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "3c0ad553",
+   "ru": "Алоха!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "6e525a72",
+   "ru": "<NAME_MOB_ANDES>\r\nКартошка, картошка! Обожаю картошку!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "8cc1fa0d",
+   "ru": "<NAME_MOB_ANDES>\r\nТвоё любимое блюдо из картошки?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "df5d2943",
+   "ru": "<NAME_MOB_ANDES>\r\nЯ бы сейчас съел картофельного салата."
+  }
+ ]
+}

@@ -1,0 +1,61 @@
+{
+ "file": "Story_Town_A_RankA_Goddess_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_CLEAR_00",
+   "key": "97401950",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\n<_____MYNAME_____>! Ты уже не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_CLEAR_01",
+   "key": "a6ec3600",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nПрости, что беспокою так рано утром.\n<PAGE>\nРешила зайти сказать: благодаря твоим\nматериалам у нас есть всё для статуи.\n<PAGE>\nОсталось только всем городом собраться и\nпостроить её.\n<PAGE>\nЕсли сегодня найдётся время, не поможешь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_CLEAR_02",
+   "key": "a404009a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nПоможешь? Чудесно!\n<PAGE>\nТогда нечего сидеть сложа руки. За мной!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_CLEAR_03",
+   "key": "90867b82",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВсе молодцы! Статуя богини готова!\n<PAGE>\n<WINDOW_JOY_R>Без вашей общей помощи мы бы не\nсправились, так что похлопайте себя по плечу!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_CLEAR_04",
+   "key": "450658d3",
+   "ru": "(Весь Уэстаун вместе построил статую в честь\nречной богини!)\n<PAGE>\n(Интересно, понравится ли она Десси.)"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_CLEAR_05",
+   "key": "27889bb7",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>Огромное спасибо за чудесную статую!\n<PAGE>\nВот что значит “ты благословлена больше, чем\nдумаешь”!\n<PAGE>\nПридётся очень постараться, чтобы оправдать\nожидания всех и стать хорошей, доброй\nбогиней!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_CLEAR_06",
+   "key": "b982dc0e",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\r\nСтатуя ведь выглядит куда величественнее и\nбожественнее, чем я..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_CLEAR_07",
+   "key": "1a4cf859",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>!"
+  }
+ ]
+}

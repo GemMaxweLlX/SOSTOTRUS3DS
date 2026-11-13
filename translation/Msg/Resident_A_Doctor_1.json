@@ -1,0 +1,166 @@
+{
+ "file": "Resident_A_Doctor_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_00",
+   "key": "92376cc8",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_ANGRY>\r\nЕсли это не безнадёжность в любви, то что\nтогда?!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_01",
+   "key": "3d5d8f73",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>. Как раз вовремя."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_02",
+   "key": "b839271b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nМы тут говорили, что Форд ― редкостный\nтвердолобый тип.\n<PAGE>\nТы ведь тоже замечаешь, правда?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_03",
+   "key": "98bcbdb7",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\nУэйн, будь добр, не неси подобную чушь при <_____MYNAME_____>.\nЯ ни в коей мере не “твердолобый”.\n<PAGE>\nВ конце концов, тот, кто не понимает\nчеловеческого сердца, не может быть врачом."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_04",
+   "key": "ad0d4ce5",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_ANGRY>\r\nАх, вот как?!\n<PAGE>\n<FACE_SAD>Ох, ну ты и...\n<PAGE>\n...*вздох* Ну а как ТЫ сам видишь ситуацию?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Насколько я понимаю, проходя лечение, та\nюная особа, вероятно, заинтересовалась\nмедициной.\n<PAGE>\nПрекрасно, что она хочет впитать от меня как\nможно больше знаний, но...\n<PAGE>\n<FACE_SAD>Клиника ― место для лечения болезней и ран.\n<PAGE>\nЗдоровому человеку не место там, чтобы\nзаглядывать поболтать."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_05",
+   "key": "402ed956",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_SAD>\r\n...\n<PAGE>\n<FACE_LOSS>Ну и ну. Сколько ни слушаю эту историю, всё\nравно поражаюсь... Бедная девушка.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>Не хочу говорить, док, но так ты никогда не\nнайдёшь себе девушку."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_06",
+   "key": "b381da33",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nВ смысле, я понимаю, о чём ты, но...\n<PAGE>\n<WINDOW_INCOMPREHENSIBLE_R>А ты что думаешь, <_____MYNAME_____>?\n<PAGE>\nПо-твоему, Форд отреагировал слишком\nхолодно?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_07",
+   "key": "b3b59320",
+   "ru": "Видно, романтика его не интересует"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_08",
+   "key": "d1574946",
+   "ru": "Для врача это логичный ответ"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_09",
+   "key": "9060d4f1",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\nПри чём тут, интересует меня романтика или\nнет?\n<PAGE>\nЭто были обычные отношения врача и\nпациента. Ни больше ни меньше.\n<PAGE>\n...Не стоило мне рассказывать вам двоим. Это\nбыла серьёзная ошибка с моей стороны.\n<PAGE>\nЧто ж, хотя бы ты, <_____MYNAME_____>, не стал(а) меня поносить,\nи на том спасибо."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_10",
+   "key": "7ba9258a",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_ANGRY>\r\nЧто?! Ты серьёзно, <_____MYNAME_____>?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_11",
+   "key": "3de252ea",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nОх, это уже просто удручает...\n<PAGE>\n<_____MYNAME_____>, неужели ты такой же толстокожий человек,\nкак Форд?\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>А? Это ведь было сказано из сочувствия к\nФорду. Верно, <_____MYNAME_____>?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_12",
+   "key": "5f220cbb",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nА, понял! Вот оно что.\n<PAGE>\nСлава богу. Нам и одного тугодума в любви\nхватает."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_13",
+   "key": "4aeeed77",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nЗнаешь, он всё твердил, что никакой он не\nтугодум, но, сдаётся мне, слишком уж рьяно\nотпирался.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Ха-ха. Он такой непробиваемый, что это даже\nосвежает. Можно сказать, в этом его обаяние."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_14",
+   "key": "b467fe38",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nДа ну? Тогда, может, расскажешь ещё раз, что\nслучилось?\n<PAGE>\nТа девушка, что в последнее время зачастила к\nтебе в клинику...\n<PAGE>\nС ней ведь что-то произошло?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_15",
+   "key": "be25a2b3",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nХм. Как я уже говорил, ничего особенного не\nпроизошло, но...\n<PAGE>\nОна какое-то время ходила в клинику из-за\nтравмы...\n<PAGE>\nИ на днях её лечение наконец закончилось.\n<PAGE>\nНо когда я сказал, что больше приходить не\nнужно... она тут же отказалась.\n<PAGE>\nА потом стала говорить что-то вроде: “Но я\nхочу быть рядом с вами, доктор Форд”."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_16",
+   "key": "583ddd6b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nИменно, <_____MYNAME_____>. Хоть кто-то понимает.\n<PAGE>\nИ? Что ты ей там сказал?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>...Я лишь сказал, что раз раны зажили, причин\nвозвращаться нет.\n<PAGE>\nИ что не понимаю, зачем ей приходить, если в\nэтом нет смысла.\n<PAGE>\n<FACE_NORMAL>Совершенно здоровый человек, слоняющийся\nпо клинике, только мешает.\n<PAGE>\nОна, разумеется, сказала, что понимает, но\nпотом почему-то расплакалась, уходя из\nклиники.\n<PAGE>\n<FACE_ANGRY>...Но это всё, что произошло."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_17",
+   "key": "32c2643d",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nТвоего мнения, знаешь ли, никто не спрашивал.\n<PAGE>\nИзбавлять страждущих от болезней ― смысл\nмоей жизни. На прочие пустяки у меня нет\nвремени."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_18",
+   "key": "08ea853c",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nТы тоже так думаешь, хм? Совершенно верно.\n<PAGE>\nХорошо, что ты пришёл(шла). Если бы не ты,\nэти двое продолжали бы несправедливо\nклеймить меня тугодумом."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_19",
+   "key": "e41c097a",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nВ общем, раз уж мне полегчало, позвольте\nоткланяться. Скоро следующий приём."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_20",
+   "key": "e3c33006",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nЗабавно, но Форд вообще-то довольно\nпопулярен у женщин, как бы он себя ни вёл.\n<PAGE>\n<FACE_SAD>По нему не сходят с ума, как по Уэйну, но...\n<PAGE>\n<FACE_NORMAL>Девушки, которые прямо признаются ему в\nлюбви, время от времени появляются. Я сам\nвидел.\n<PAGE>\n<FACE_LAUGH>Кэрри говорит, его называют “Хрустальным\nкоролём”."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_21",
+   "key": "814f19df",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nНо он совершенно не понимает, как думают\nженщины.\n<PAGE>\nНе понимаю, почему они от него без ума.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>Правда? Мне кажется, я понимаю, почему Форд\nпопулярен у дам.\n<PAGE>\nЕсли кто-то обычно холодный и редко\nулыбается улыбнётся только тебе...\n<PAGE>\n<FACE_LAUGH>В этом есть что-то особенное, от чего сердце\nколотится.\n<PAGE>\n<FACE_NORMAL>Не находишь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_1_22",
+   "key": "c82b578c",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\nА, наверное, так и есть...\n<PAGE>\n<FACE_LAUGH>Но неважно, НАСКОЛЬКО он популярен у дам: с\nтакой непробиваемостью девушки ему не\nвидать.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>Ха-ха, точно.\n<PAGE>\nЕсли и ЕСТЬ женщина, которая справится с\nФордом...\n<PAGE>\nОна либо ещё твердолобее его, либо...\n<PAGE>\nЭто человек, который понимает неуклюжую\nдоброту Форда."
+  }
+ ]
+}

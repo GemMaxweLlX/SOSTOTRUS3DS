@@ -1,0 +1,54 @@
+{
+ "file": "Tutorial_Passing_Communication",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_COMMUNICATION_00",
+   "key": "4e767fe9",
+   "ru": "<NAME_UNKNOWN>\r\n<_____MYNAME_____>! Пст, <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_COMMUNICATION_01",
+   "key": "f8d286af",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nТа-да-да-да-а-ам! ♪ Надеюсь, день у тебя\nчудесный!\n<PAGE>\nКстати, ветер нашептал, что у тебя недавно\nпоявился питомец."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_COMMUNICATION_02",
+   "key": "4ecac928",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЯ так хочу с ним познакомиться! ♪ Можно,\nпожалуйста? Ну пожалуйста?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_COMMUNICATION_03",
+   "key": "7188f981",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nО-о-о, какая прелесть! Привет! Какое же ты\nсолнышко! <RED>∀</RED>"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_COMMUNICATION_04",
+   "key": "a15e8021",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nЗнаешь, уверена, этот милашка с радостью\nсходил бы в гости к твоим друзьям и другим\nфермерам."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_COMMUNICATION_05",
+   "key": "8aab35f9",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nЕсли <RED>включить StreetPass и зарегистрировать\nпитомца</RED>, можно отправлять его на прогулки к\nдругим фермерам.\n<PAGE>\nОн станет маленьким пушистым послом в чужом\nгороде.\n<PAGE>\nОй! Но перед тем как включать StreetPass,\nкое-что стоит знать.\n<PAGE>\nВо-первых, <RED>имя фермера, кличка питомца и\nназвание фермы будут видны всем, с кем вы\nобменяетесь данными через StreetPass.</RED>\n<PAGE>\nНо если не хочешь пользоваться StreetPass,\nвключать его вовсе НЕ обязательно.\n<PAGE>\nВ общем, когда впервые включишь StreetPass,\nхотя бы раз сделай запись в дневнике, ладно?\n<PAGE>\nКогда StreetPass включён, данные, которые\nвидят другие игроки, обновляются при каждой\nзаписи в дневнике.\n<PAGE>\nИ наконец, StreetPass продолжает работать\nсам, даже когда игра выключена.\n<PAGE>\n<FACE_LAUGH>Знаю, это много всего, но постарайся всё\nзапомнить, ладно?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_COMMUNICATION_06",
+   "key": "234fbfbb",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nЕсли решишь включить StreetPass, приходи\nпоговорить со мной, хорошо?\n<PAGE>\nЯ буду ждать! ♪"
+  }
+ ]
+}

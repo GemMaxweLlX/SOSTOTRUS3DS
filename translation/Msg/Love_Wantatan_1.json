@@ -1,0 +1,208 @@
+{
+ "file": "Love_Wantatan_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_00",
+   "key": "2d69b3cd",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_ANGRY>\r\nАльма, там их нет?\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_SAD>Похоже, нет..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_01",
+   "key": "60e8e6ee",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_SAD>Помоги нам, <_____MYNAME_____>!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_02",
+   "key": "d1a56a13",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nМы нашли этого котёнка вон на том поле!\n<PAGE>\n<FACE_SAD>Наверное, он потерялся от своей семьи..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_03",
+   "key": "3896b8c1",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nМы пытались его покормить, но он не ест. Всё\nвремя дрожит...\n<PAGE>\nНам стало его жалко, и мы решили поискать\nего семью, но не можем найти.\n<PAGE>\n<FACE_NORMAL>Поможешь нам, <_____MYNAME_____>?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_04",
+   "key": "e7a5fa7e",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nМахало! Давайте разделимся и поищем!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_05",
+   "key": "fddd3349",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nХм-м-м... Нигде их нет.\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_SAD>Где же семья этого малыша?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_06",
+   "key": "29201364",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>! Как дела?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_07",
+   "key": "4f24bf41",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПонятно... Потерялся от семьи.\n<PAGE>\nЖалко. Но теперь, раз я здесь, всё будет\nгав-лично!\n<PAGE>\n<FACE_SPECIAL>Я ведь всё-таки дрессировщик!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_08",
+   "key": "0471a997",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\n*нюх* *нюх*"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_09",
+   "key": "740344b9",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nАга. Я взял след.\n<PAGE>\nУ малыша нет ошейника, но он чей-то\nдомашний, гав."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_10",
+   "key": "05319682",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, хозяин его ищет. За мной, щенята!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_11",
+   "key": "c20c39eb",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_NORMAL>\r\nА? Он всё это сразу понял?!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>Ух ты, Вуфио потрясающий!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_12",
+   "key": "6b36d474",
+   "ru": "Дзиро!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_13",
+   "key": "484f4cdc",
+   "ru": "Где ты был? Я тебя везде искала!\n<PAGE>\nКак хорошо, что ты цел..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_14",
+   "key": "5712c1f8",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nДзиро! Так ты чей-то!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_LAUGH>А я думала, ты бездомный!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_15",
+   "key": "6ce12454",
+   "ru": "Спасибо, что нашли моего кота!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_16",
+   "key": "972213be",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nНу ты даёшь! Ты всё это понял, просто понюхав\nего?!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_NORMAL>Мы и не знали, что у него есть хозяин!\n<PAGE>\n<FACE_LAUGH>Поэтому и искали везде таких же котов! Ты\nпотрясающий, Вуфио!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_17",
+   "key": "853d5e5b",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_SPECIAL>\r\nОбычное дело для лучшего дрессировщика\nвыставки!\n<PAGE>\n<FACE_NORMAL>...Похоже, уже поздно.\n<PAGE>\nДома, наверное, уже волнуются, так что\nбегите-ка домой."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_18",
+   "key": "0aee42d6",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_LAUGH>\r\nХоро-о-ошо!\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>Пока, Вуфио! Махало, что помогла нам, <_____MYNAME_____>!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_19",
+   "key": "b1a2d9a5",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nДа ладно. Ничего особенного я не сделал.\nПросто вернул его туда, где ему место.\n<PAGE>\n...Ведь не иметь своего места ― печальная\nучасть."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_20",
+   "key": "6cefcc3a",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nАх... Забудь, что я сказал.\n<PAGE>\nСмотри-ка, что-то я посерьёзнел. Совсем на\nменя не похоже, гав."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_21",
+   "key": "261f13af",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_LOVE>\r\nНу, не смотри на меня такими щенячьими\nглазами. Я засмущаюсь, гав!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_22",
+   "key": "863c0f95",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nХм-м, ты ведь не отпустишь этого пса просто\nтак, да?\n<PAGE>\nНу, пожалуй, ладно.\n<PAGE>\nВидишь ли, я вроде как странник. Мне больше\nнекуда возвращаться."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_23",
+   "key": "99556653",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_SPECIAL>\r\nНо это ничего!\n<PAGE>\nДля меня животные всего мира ― семья и\nдрузья!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_24",
+   "key": "a2c70a42",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\n<FACE_SPECIAL>Спасибо. Ты ужасно добрая, знаешь?\n<PAGE>\n<FACE_NORMAL>И я не мог не заметить, что ты не обращаешься\nсо мной как с чудаком.\n<PAGE>\n...Хотя, пожалуй, это касается всего города.\n<PAGE>\nОбычные взрослые склонны... держаться от\nменя подальше."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_28",
+   "key": "09881aa0",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nЗнаешь, из тебя мог бы выйти отличный\nдрессировщик.\n<PAGE>\n<FACE_SPECIAL>Если когда-нибудь захочешь спустить с поводка\nсвой талант дрессировщика, только скажи."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_25",
+   "key": "55be2e46",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nХа-ха, да я тебя просто дразню!\n<PAGE>\nИ на этой ноте откланяюсь. До встречи!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_26",
+   "key": "5b8973dd",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\n...Когда меня в последний раз так гладили по\nголове?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_WANTATAN_1_27",
+   "key": "779402d0",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nНет... Нет-нет-нет. О чём я думаю...?\n<PAGE>\nОна просто... обычная.\n<PAGE>\nВидно, впредь надо быть осторожнее и не\nпривязываться слишком сильно.\n<PAGE>\n...Всё будет хорошо. Я это уже проходил."
+  }
+ ]
+}

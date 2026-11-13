@@ -1,0 +1,89 @@
+{
+ "file": "Festival_Info_First_Cooking",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_00",
+   "key": "6154d29d",
+   "ru": "<FACE_PRESENTER>\r\n<_____MYNAME_____>? Тук-тук, я вхожу!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_00_MARRIED",
+   "key": "a6b478eb",
+   "ru": "<FACE_PRESENTER>\r\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_01",
+   "key": "0206eb9a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nДо-о-оброе утро, <_____MYNAME_____>!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_01_MARRIED",
+   "key": "17dab111",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nПроснулись? Доброе утро, соня! ♪"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_02",
+   "key": "0e2c5603",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nСегодня я пришла рассказать вам о <RED>Кулинарной\nвыставке</RED>!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_02_MARRIED",
+   "key": "5751768c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nХотела рассказать вам о предстоящей\n<RED>Кулинарной выставке</RED>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_03",
+   "key": "fec9d68e",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nКак вы уже догадались, Кулинарная выставка\n― это состязание, кто приготовит лучшее\nблюдо."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_04",
+   "key": "1541a001",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКаждый год она проходит <BLUE>22 лета</BLUE> и <BLUE>22 зимы</BLUE>.\n<PAGE>\nЕсли хотите участвовать, подойдите ко мне <BLUE>с\n10:00 до 13:00</BLUE>. Я буду на перекрёстке."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_05",
+   "key": "ca40584c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКстати, у Кулинарной выставки тоже есть\nтемы, но...\n<PAGE>\nВ классе Новичок темы нет. Готовьте что\nугодно!\n<PAGE>\nБлюдо готовится прямо на празднике, так что\nне забудьте ингредиенты."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_06",
+   "key": "bfb88286",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nАх да, на Кулинарной выставке два вида\nсоревнований: можно выставить одно блюдо\nили целый обед.\n<PAGE>\nЕсли ингредиентов много, советую попробовать\nцелый обед!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_07",
+   "key": "6bff1b80",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nНа этом всё! С нетерпением жду вашего\nучастия, <_____MYNAME_____>!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_COOKING_07_MARRIED",
+   "key": "5ebd7973",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nНа этом всё. Этот конкурс бывает лишь раз в\nгоду, так что не упустите шанс повеселиться!\n<PAGE>\nБолеть за тебя при всех я не могу...\n<PAGE>\n...но знай, в душе я болею за тебя!\n<PAGE>\nНу, а я пошла рассказывать о празднике\nостальным! До встречи! ♪"
+  }
+ ]
+}

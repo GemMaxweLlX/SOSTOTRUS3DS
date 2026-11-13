@@ -1,0 +1,390 @@
+{
+ "file": "Resident_A_Uncle",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_00",
+   "key": "c97f99bb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_01",
+   "key": "1c71cfd5",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ? Я к Фрэнку, как и ты.\n<PAGE>\nУ меня для него посылка. Если не против,\nпойдём вместе?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_02",
+   "key": "79a3c3db",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХм, погоди-ка, это ведь голос Фрэнка? У него\nгости?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_03",
+   "key": "b47db5cb",
+   "ru": "<FACE_UNCLE>\r\nДа, это правда... Я люблю тебя..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_04",
+   "key": "8df2bdae",
+   "ru": "<FACE_UNCLE>\r\nЛюблю тебя, правда люблю... Больше всех на\nсвете..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_05",
+   "key": "b1481d27",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Вот это сюрприз. Никогда бы не подумал,\nчто Фрэнк ― сентиментальный романтик.\n<PAGE>\nХа-ха... Интересно, кому он шепчет нежности."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_06",
+   "key": "109585c2",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nВозлюбленной? Ну да... Может быть."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_07",
+   "key": "01ceebf4",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nА? Ты всем расскажешь?\n<PAGE>\n<FACE_LOSS>Эй, постой, это, наверное, не..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_08",
+   "key": "849f1a82",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nАх, погоди, <_____MYNAME_____>...!\n<PAGE>\nНичего себе. Вот это скорость.\n<PAGE>\nА вид у <_____MYNAME_____> был довольный-предовольный.\n<PAGE>\n<FACE_LOSS>...Из мухи прямо на глазах растёт слон."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_09",
+   "key": "4e8dbe75",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nУ Фрэнка ― и вдруг девушка? Как чудесно!\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>Молодец он! Теперь можно не волноваться!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_10",
+   "key": "84d4f6cb",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nМолодец он. Теперь можно не волноваться!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_11",
+   "key": "1ad1a4d2",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>\r\nТы в этом уверен(а), <_____MYNAME_____>?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_12",
+   "key": "83c7bfd0",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>\r\n...Ха, ха-ха... Вот как. Н-ну, молодец он."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_13",
+   "key": "0fbb8c59",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\nМиранда...?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_14",
+   "key": "9a046a43",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nНу, Уэйн, какая она?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_15",
+   "key": "75315bbc",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе могу сказать. Мы её так и не видели.\n<PAGE>\nВообще-то, скорее всего..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_16",
+   "key": "cadd153f",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_HEART_L>Спорим, она красивая и милая! Ну, такая,\nкоторую Фрэнку захочется защищать!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_17",
+   "key": "8d4ca29e",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_HEART_R>Не, Фрэнк, хоть с виду и не скажешь, в душе\nмаменькин сынок. Ему, наверное, ближе\nженщина постарше, зрелая!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_18",
+   "key": "bd197f9f",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\n*хихик* Да ну!\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>Хи-хи! Как волнительно!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_19",
+   "key": "a52e09e7",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_SAD>\r\nХ-хм..."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_20",
+   "key": "7f0bb96b",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\n(*вздох* Не понимаю... Фрэнк никогда и виду\nне подавал, что у него может быть девушка...)"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_21",
+   "key": "48f6d612",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\nЧ-что такое, <_____MYNAME_____>?\n<PAGE>\nА? Я какая-то сама не своя...? Нет, я просто..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_22",
+   "key": "0032d8a9",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nЭ-эй, что у вас тут творится?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_23",
+   "key": "cb8ecd60",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nА, вот и виновник торжества! Поздравляем,\nФрэнк!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_24",
+   "key": "b1ab5ce1",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\n...Поздравляете? С чем?\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>Не стесняйся. ♪ У тебя ведь появилась\nдевушка?\n<PAGE>\nЖелаю вам большого счастья. <RED>∀</RED>"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_25",
+   "key": "407fd928",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЧто значит “с чем”? Завёл возлюбленную и\nскрыл от нас всех, так?\n<PAGE>\nПочему ты просто не сказал, вредина! Ну так\nчто, подумываешь о свадьбе?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_26",
+   "key": "1b412c4e",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_ANGRY>\r\nН-ну-ка постойте! Вы о чём вообще?!\n<PAGE>\nВпервые слышу, что у меня есть девушка!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_27",
+   "key": "29e992f5",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\n...Ох. Но... <_____MYNAME_____> и Уэйн сказали, что слышали\nчто-то такое..."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_28",
+   "key": "151485c6",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_ANGRY>\r\nД-да, Фрэнк!\n<PAGE>\nГоворят, ты у себя дома шептал ей на ушко\nнежности!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_29",
+   "key": "83c56322",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_SAD>\r\nА?\n<PAGE>\nГоворите, слышали, как я дома говорил\nкому-то “я тебя люблю”?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_30",
+   "key": "ea80be4b",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nА-а-а! Это было... Это было вообще-то...\n<PAGE>\n<FACE_SAD>Я придумывал слова к песне, которую пишу.\n<PAGE>\nЭто будет песня о любви. Видно, сам не\nзаметил, как стал проговаривать слова вслух..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_31",
+   "key": "e1e4828b",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nП-песня... о любви?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_32",
+   "key": "ab13ec93",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\n...Так я и знал. Так и думал, что тут что-то\nдругое.\n<PAGE>\nНикаких признаков “таинственной женщины” не\nбыло."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_33",
+   "key": "4551568f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nЗначит, это было просто недоразумение?\nПрости, Фрэнк. Мы так увлеклись, что забыли\nсначала спросить тебя..."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_34",
+   "key": "5294e0c9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_ANGRY>\r\nЭй! Уэйн! Если ты знал, в чём дело, надо было\nсказать!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_35",
+   "key": "b4b09d93",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nМне тоже нужно извиниться, <_____MYNAME_____>.\n<PAGE>\nЯ пытался предупредить, что это, скорее всего,\nнедоразумение, но ты уже убежал(а)...\n<PAGE>\nА когда я наконец догнал, у тебя был такой\nсчастливый вид, что я просто не смог сказать о\nсвоих подозрениях."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_36",
+   "key": "ca48e9d3",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПрости, <_____MYNAME_____>.\n<PAGE>\nЯ не успел сказать, что возлюбленной, скорее\nвсего, нет, а ты уже убежал(а)...\n<PAGE>\nИ вид у тебя был такой счастливый, что\nсказать стало ещё труднее."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_37",
+   "key": "b0a17ce5",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>\r\n...Значит, таинственной возлюбленной нет?\n<PAGE>\n<WINDOW_KERAKERA_L><FACE_LAUGH>А-ха-ха-ха! Похоже, меня тоже провели!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_38",
+   "key": "59321806",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_SAD>\r\nСкажу честно, не привык я быть в центре\nвнимания."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_39",
+   "key": "c002d13f",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nВсё в порядке, понимаю. Ты ведь сделал(а) это,\nпотому что искренне за меня порадовался(ась),\nтак?"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_40",
+   "key": "5624def9",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_KERAKERA_R>Конечно, в этот раз было недоразумение, но\nнадеюсь, скоро случится и по-настоящему. ♪"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_41",
+   "key": "b5468aa5",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nАга. Поторопись, дай горожанам вздохнуть\nспокойно."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_42",
+   "key": "5389936f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ очень за тебя рада, Миранда.\n<PAGE>\nПрости, что не понимала этого раньше."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_43",
+   "key": "0bef00cf",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\nЧ-что ты такое говоришь? Лизетта, по-моему,\nты что-то не так поняла.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Хм... Как знать. ♪"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_44",
+   "key": "5f0ecb3e",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nХм... Как знать. ♪"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_45",
+   "key": "e2cf9d45",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_SAD>\r\nОх... Я вам не развлечение, народ."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_46",
+   "key": "6ff17f35",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nНе, не извиняйся. Ты так за меня\nобрадовался(ась), потому что волнуешься за\nменя, так?"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_47",
+   "key": "13af58a0",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nДело в том... что меня всё устраивает как есть.\n<PAGE>\nИ даже если бы я кого нашёл, я из тех, кто\nставит работу превыше всего.\n<PAGE>\n...А кого такие отношения устроят?\n<PAGE>\nПоэтому мысль о женитьбе я уже, считай,\nбросил, как горячую картошку."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_48",
+   "key": "153728e7",
+   "ru": "Ничего, если работа важнее"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_49",
+   "key": "b6fb9650",
+   "ru": "Тот самый человек может быть рядом"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_50",
+   "key": "c779440a",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nВерно? В холостяцкой жизни нет ничего\nплохого."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_51",
+   "key": "2082d90e",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nРядом, говоришь? Я живу в этом городе\nужасно давно...\n<PAGE>\nЕсли этот человек и есть, то не очень-то\nспешит показаться."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_52",
+   "key": "9a197b86",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nЧестно, не вижу, чтобы здесь кто-то был... Уж\nя-то это понимаю лучше всех."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_53",
+   "key": "a4039922",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nХа-ха, никогда бы не подумал, что заставлю\nсвою же семью волноваться о моей личной\nжизни.\n<PAGE>\nЗнаешь, до всей этой кутерьмы я о женитьбе\nтолком и не задумывался."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Uncle_54",
+   "key": "c97ccd4d",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nХотя шансов на это всё равно примерно как у\nснежка летом!"
+  }
+ ]
+}

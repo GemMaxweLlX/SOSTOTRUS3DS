@@ -1,0 +1,2875 @@
+{
+ "file": "CheckPoint",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_COKKING_OVER",
+   "key": "eb210c69",
+   "ru": "Сумка слишком полна, больше не сделать..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_COOKING_FINISH01",
+   "key": "fb5158c0",
+   "ru": "Готово: <BLUE><____ITEMNAME0____></BLUE>!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_ARRANGE_OK",
+   "key": "8ac18b7a",
+   "ru": "Кулинария стала лучше! Открыта новая\nдобавка!\n<PAGE>\nТеперь её можно добавлять во многие блюда!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_CHECK_BED_00",
+   "key": "460307db",
+   "ru": "<SPEED_IMME>Лечь спать в <BLUE>кровать</BLUE>?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_CHECK_BED_01",
+   "key": "0b8e0b2d",
+   "ru": "Пора спать!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_CHECK_BED_02",
+   "key": "eabebe47",
+   "ru": "<CANCEL_SELECT>\r\nНет, ещё есть дела"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_CHECK_BED_03",
+   "key": "b6b4594a",
+   "ru": "Похоже, в дневнике давно не было записей.\nСтоит сделать запись потом."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_CHECK_ITEMBOX_00",
+   "key": "f0923596",
+   "ru": "<SPEED_IMME>Что делать?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_CHECK_ITEMBOX_01",
+   "key": "02a2d32b",
+   "ru": "Положить в сундук"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_CHECK_ITEMBOX_02",
+   "key": "32930005",
+   "ru": "Взять из сундука"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_CHECK_ITEMBOX_03",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_CHECK_TOOLBOX_00",
+   "key": "f0923596",
+   "ru": "<SPEED_IMME>Что делать?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_CHECK_TOOLBOX_01",
+   "key": "cc4dc1fa",
+   "ru": "Положить в ящик инструментов"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_CHECK_TOOLBOX_02",
+   "key": "ad92240c",
+   "ru": "Взять из ящика инструментов"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_CHECK_TOOLBOX_03",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_CHECK_SILO_00",
+   "key": "f0923596",
+   "ru": "<SPEED_IMME>Что делать?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_CHECK_SILO_01",
+   "key": "45ac6a13",
+   "ru": "Положить корм в силос"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_CHECK_SILO_02",
+   "key": "9a3eaa4e",
+   "ru": "Взять корм из силоса"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_CHECK_SILO_03",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_CHECK_PANELDECK_00",
+   "key": "60460392",
+   "ru": "Что делать?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_CHECK_PANELDECK_01",
+   "key": "67496156",
+   "ru": "Обустроить ферму"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_CHECK_PANELDECK_02",
+   "key": "5837a904",
+   "ru": "Запас кругов фермы"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_CHECK_PANELDECK_03",
+   "key": "057bb862",
+   "ru": "Действующие комбо"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_CHECK_PANELDECK_04",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_00",
+   "key": "b4cc52a5",
+   "ru": "Что делать?\nСегодня отправка: <BLUE><MOJI0></BLUE>\nЗавтра отправка: <BLUE><MOJI1></BLUE>"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_01",
+   "key": "fb1afadc",
+   "ru": "Положить в ящик отправки"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_02",
+   "key": "27fcc6c0",
+   "ru": "Взять из ящика отправки"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_03",
+   "key": "0579d35a",
+   "ru": "Сменить город отправки"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_04",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_05",
+   "key": "a7ad7b74",
+   "ru": "<SPEED_IMME>Куда отправлять?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_06",
+   "key": "ca6ef7a5",
+   "ru": "Отправлять: <MOJI0>"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_07",
+   "key": "d375c6e4",
+   "ru": "Отправлять: <MOJI1>"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_08",
+   "key": "0d81abfa",
+   "ru": "<CANCEL_SELECT>\r\nНе менять"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_09",
+   "key": "cb4e5a75",
+   "ru": "Город отправки изменён.\nС <RED>завтрашнего дня</RED> товар пойдёт\nв: <BLUE><MOJI0></BLUE>."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_10",
+   "key": "c89dffdf",
+   "ru": "Цуюкуса"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_11",
+   "key": "f0f71409",
+   "ru": "Уэстаун"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_12",
+   "key": "1fec6563",
+   "ru": "Лулукоко"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_13",
+   "key": "b4100ac2",
+   "ru": "Не менять"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_CHECK_BOOKSHELF_00",
+   "key": "ca6fc9f9",
+   "ru": "Что почитать?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_CHECK_BOOKSHELF_01",
+   "key": "4318b9ba",
+   "ru": "Отчёт о ферме"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_CHECK_BOOKSHELF_02",
+   "key": "a7db2e30",
+   "ru": "Трофеи"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_CHECK_BOOKSHELF_03",
+   "key": "34e81d67",
+   "ru": "Письма"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_CHECK_BOOKSHELF_04",
+   "key": "66c6e38a",
+   "ru": "Руководства фермера"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_CHECK_BOOKSHELF_05",
+   "key": "20372d59",
+   "ru": "Особые карточки"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_CHECK_BOOKSHELF_06",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_00",
+   "key": "520df481",
+   "ru": "Уэйн"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_01",
+   "key": "8b66ead5",
+   "ru": "Форд"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_02",
+   "key": "4fae16f0",
+   "ru": "Юдзуки"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_03",
+   "key": "25e1f085",
+   "ru": "Хината"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_04",
+   "key": "d35adc32",
+   "ru": "Лудус"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_05",
+   "key": "a6c5ea66",
+   "ru": "Лизетта"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_06",
+   "key": "6601f7d1",
+   "ru": "Комари"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_07",
+   "key": "bf826c2e",
+   "ru": "Касуми"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_08",
+   "key": "0cb7cc87",
+   "ru": "Илука"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_09",
+   "key": "308ccf64",
+   "ru": "Силука"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_10",
+   "key": "284a2e8a",
+   "ru": "Инари"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_11",
+   "key": "284a2e8a",
+   "ru": "Инари"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_12",
+   "key": "fd068590",
+   "ru": "Вуфио"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_13",
+   "key": "b616970d",
+   "ru": "Стефани"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_NEXT",
+   "key": "a41dbf02",
+   "ru": "Далее"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_BOOKSHELF_ENDCARD_CANCEL",
+   "key": "e10fbada",
+   "ru": "<CANCEL_SELECT>\r\nОбратно к полке"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITBOX_INTO",
+   "key": "e6fb9bda",
+   "ru": "Сейчас:\n<____ITEMNAME0____> x<MOJI1>."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITBOX_ASK",
+   "key": "f0923596",
+   "ru": "<SPEED_IMME>Что делать?"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITBOX_ADDITION",
+   "key": "58ffed51",
+   "ru": "Добавить корм"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITBOX_END",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITNAME_ASK",
+   "key": "3361beba",
+   "ru": "<SPEED_IMME>Какой корм положить?"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITNAME_ASK_ONE",
+   "key": "722cb7e8",
+   "ru": "<SPEED_IMME>Может, добавить корма?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITNAME_0",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITNAME_1",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITNAME_2",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITNAME_3",
+   "key": "33f13010",
+   "ru": "<____ITEMNAME3____>"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITMACHINE_NOSPACE",
+   "key": "2242f487",
+   "ru": "Сумка полна, взять не получится."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITBOX_NOTHAVE",
+   "key": "e8c62ca3",
+   "ru": "Корм для животных закончился."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITBOX_NOT_APPLICABLE",
+   "key": "d8419720",
+   "ru": "Пригодится, когда будет больше животных."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITBOX_MAX",
+   "key": "ec0eb018",
+   "ru": "Корма уже достаточно."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_ANIMAL_NUMBER_SELECT_WINDOW_1",
+   "key": "c4bf682b",
+   "ru": "Сколько корма взять?"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_ANIMAL_NUMBER_SELECT_WINDOW_2",
+   "key": "1bb62c57",
+   "ru": "Сколько корма добавить?"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_ANIMAL_BAITMACHINE_NOSILO",
+   "key": "9a02d592",
+   "ru": "Брать корм можно, только если он хранится в\nсилосе."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_ANIMAL_NOTE_NOANIMAL",
+   "key": "fcc6e5cf",
+   "ru": "Животных пока нет."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_ANIMAL_PREGNANCYSPACE_NORMAL",
+   "key": "113ab522",
+   "ru": "Беременных животных нет."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_ANIMAL_PREGNANCYSPACE_PREGNANT",
+   "key": "1650c3d1",
+   "ru": "С каждым днём она всё больше похожа на\nмаму!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_ANIMAL_HATCH_NORMAL",
+   "key": "1b77a076",
+   "ru": "Из оплодотворённого яйца может вылупиться\nцыплёнок."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_ANIMAL_HATCH_PREGNANT",
+   "key": "1650c3d1",
+   "ru": "С каждым днём она всё больше похожа на\nмаму!"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_ANIMAL_HATCH_POULTRY",
+   "key": "b1ae08de",
+   "ru": "Сюда это животное не поселить."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_ANIMAL_HATCH_DIFF_HUT_NO",
+   "key": "90cbbc4c",
+   "ru": "Сюда нельзя поселить животное из другого\nжилища."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_ANIMAL_HATCH_SPACE",
+   "key": "65e72ffe",
+   "ru": "Здесь нет места для ещё одного животного."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_ANIMAL_HATCH_TALK",
+   "key": "332f34a4",
+   "ru": "<MOJI0> выглядит довольным."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_ANIMAL_HATCH_UMENOT",
+   "key": "b7118e39",
+   "ru": "Оно ещё не может нести яйца, так что лучше\nподождать."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_ANIMAL_HATCH_DISEASE",
+   "key": "fcbf8902",
+   "ru": "Оно болеет, так что лучше подождать."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_ANIMAL_HATCH_SENILITY_DEATH",
+   "key": "d40c86e7",
+   "ru": "Ему нехорошо, так что лучше подождать."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_ANIMAL_HUTNAME_CHANGE",
+   "key": "b59c1ac1",
+   "ru": "Переименовать постройку"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_PETHOME_ASK",
+   "key": "51d996f1",
+   "ru": "Что сделать?"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_PETHOME_PETWALK",
+   "key": "baf9ae8c",
+   "ru": "Пойти гулять"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_PETHOME_PETWALK_NO",
+   "key": "caaf0b2b",
+   "ru": "Закончить прогулку"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_PETHOME_GOHOME",
+   "key": "31da2298",
+   "ru": "Взять в дом"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_PETHOME_BACKPETHOME",
+   "key": "d655ab3b",
+   "ru": "Вернуть питомца в домик"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_PETHOME_ANIMALNOTE",
+   "key": "4cbbd936",
+   "ru": "Тетрадь о животных"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_PETHOME_END",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_ANIMAL_PETHOUSE_ASK_2",
+   "key": "d22a14ee",
+   "ru": "Дома уже есть питомец. Поменять питомцев?"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_ANIMAL_PETHOUSE_GOHOME_CHENGE",
+   "key": "18f15b4d",
+   "ru": "Поменять"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_ANIMAL_PETHOUSE_GOHOME_NOCHENGE",
+   "key": "6d283438",
+   "ru": "<CANCEL_SELECT>\r\nНе менять"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_PETWALK_ASK",
+   "key": "a877f007",
+   "ru": "Сейчас прогулка с <MOJI0>.\nПогулять с другим питомцем?"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_SOULMATE_ALRADEY",
+   "key": "4004628e",
+   "ru": "Дома уже есть спутник."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_SOULMATE_NOT_RETURN",
+   "key": "952b242e",
+   "ru": "Это же твой спутник! Так нельзя!"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_ANIMAL_PET_PETFOODMACHINE_NOT",
+   "key": "1899696b",
+   "ru": "Дома нет кормушки для питомцев, взять его в\nдом нельзя."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_PETWALK_CHANGE_YES",
+   "key": "18f15b4d",
+   "ru": "Поменять"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_PETWALK_CHANGE_NO",
+   "key": "6d283438",
+   "ru": "<CANCEL_SELECT>\r\nНе менять"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_ANIMAL_TREGSURPOINT_PET_NOT_NEAR",
+   "key": "477d768a",
+   "ru": "Попробуй, когда питомец будет рядом."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MSG_CUL_YES_00",
+   "key": "05fe8fb8",
+   "ru": "Разводить рыбу"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MSG_CUL_NO_00",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MSG_CUL_USESELECT",
+   "key": "f0923596",
+   "ru": "<SPEED_IMME>Что делать?"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MSG_CUL_YES_ALL",
+   "key": "2997a243",
+   "ru": "Забрать всех"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MSG_CUL_YES_NUMBER",
+   "key": "9ffb46ad",
+   "ru": "Оставить одну"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MSG_CUL_GETSELECT",
+   "key": "1d92fc29",
+   "ru": "<SPEED_IMME>Здесь <____ITEMNAME0____>: <MOJI1> шт.\nЗабрать?"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MSG_CUL_GETSELECT_PEARL",
+   "key": "1d92fc29",
+   "ru": "<SPEED_IMME>Здесь <____ITEMNAME0____>: <MOJI1> шт.\nЗабрать?"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MSG_CUL_YES_ONLY_ONE",
+   "key": "4cf77915",
+   "ru": "Забрать"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MSG_CUL_FISH_FOOD_SET",
+   "key": "5834e14f",
+   "ru": "Добавить корм"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MSG_CUL_NOUSE_BAIT",
+   "key": "fe0feeab",
+   "ru": "На сегодня корма хватит."
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MSG_CUL_NOMORE_BAIT",
+   "key": "7734bceb",
+   "ru": "Больше корма добавлять незачем."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MSG_CUL_ITEM_IN_BAG",
+   "key": "86074f26",
+   "ru": "Сначала убери предмет из рук, потом доставай\nрыбу."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MSG_CUL_BAG_FULL",
+   "key": "4d3728d7",
+   "ru": "Сумка слишком полна для этого."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MSG_CUR_GET_ITEM",
+   "key": "0eddc9be",
+   "ru": "Получено: <____ITEMNAME0____>, <MOJI1> шт.!"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MSG_CUL_GET_ITEM_PEARL",
+   "key": "0eddc9be",
+   "ru": "Получено: <____ITEMNAME0____>, <MOJI1> шт.!"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MSG_CUL_NOT_TAKING",
+   "key": "35ba53f6",
+   "ru": "Здесь растут жемчужницы."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MSG_CUL_NOT_ITEM",
+   "key": "142d8384",
+   "ru": "Здесь нечего разводить."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_API_WINTER",
+   "key": "15b227a6",
+   "ru": "Зимой пчёл держать нельзя."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_API_NEED_BEE",
+   "key": "444d49b2",
+   "ru": "Положим цветы!"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_API_YES_00",
+   "key": "dd376613",
+   "ru": "Положить цветы и начать пчеловодство"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_API_NO_00",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_API_USESELECT",
+   "key": "3cfdcf0e",
+   "ru": "Положить цветы?"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_API_YES_01",
+   "key": "6f2c1806",
+   "ru": "Убрать"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_API_NO_01",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_API_GETSELECT",
+   "key": "b59ab179",
+   "ru": "Достать мёд?"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_API_NOT_FINISH",
+   "key": "ea098c97",
+   "ru": "Похоже, мёда пока мало."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_API_ITEM_IN_BAG",
+   "key": "6c256956",
+   "ru": "Сначала убери предмет, потом бери мёд."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_API_BAG_FULL",
+   "key": "37f0a0d8",
+   "ru": "Сумка полна."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_API_GET_ITEM",
+   "key": "5bedf90f",
+   "ru": "Получено: <GREEN><____ITEMNAME0____></GREEN>, <MOJI1> шт.!"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_API__ALREADY_FULL",
+   "key": "04f54013",
+   "ru": "Цветов уже достаточно."
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MSG_API_SWAP",
+   "key": "ee44e813",
+   "ru": "Сменить цветы"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MSG_API_NO_SWAP",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MSG_API_IS_SWAP",
+   "key": "ea7cabf1",
+   "ru": "Сменить цветы?"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MSG_API_NOT_ITEM",
+   "key": "a4e4145b",
+   "ru": "Нет ничего для пчеловодства."
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MSG_API_IN_ITEM",
+   "key": "9a01fec4",
+   "ru": "Здесь: <____ITEMNAME0___>."
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_WATERINGCAN_IN",
+   "key": "3627a7a9",
+   "ru": "Налить жидкое удобрение в лейку"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_WATER_MAKE",
+   "key": "78c5c8d5",
+   "ru": "Сделать жидкое удобрение"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_LOOKING",
+   "key": "ef4f70fb",
+   "ru": "Проверить бак"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_END",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_ASK",
+   "key": "b00c0fff",
+   "ru": "<SPEED_IMME>Что делать?"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_LOOKING_2",
+   "key": "d5c0420e",
+   "ru": "Какую ячейку проверить?"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_NO_SLOT1",
+   "key": "93fd42f7",
+   "ru": "Ячейка 1"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_NO_SLOT2",
+   "key": "0af4134d",
+   "ru": "Ячейка 2"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_NO_SLOT3",
+   "key": "7df323db",
+   "ru": "Ячейка 3"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_WATER_IN_SLOT1",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_WATER_IN_SLOT2",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_WATER_IN_SLOT3",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_NO",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_ASK2",
+   "key": "e3acefc2",
+   "ru": "В какой ячейке делать жидкое удобрение?"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_ALLSROT_EMPTY",
+   "key": "1230170f",
+   "ru": "Бак пуст."
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_NOTEQUIP",
+   "key": "d89cc3b2",
+   "ru": "Чтобы налить жидкое удобрение, возьми\nлейку."
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_ASK3",
+   "key": "ca4d864d",
+   "ru": "<SPEED_IMME>Налить жидкое удобрение в лейку?"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_ASK4",
+   "key": "34091c0c",
+   "ru": "Лейка уже полна. Заменить содержимое?"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_SLOT_NO_WATER",
+   "key": "99b38cfb",
+   "ru": "В этой ячейке нет жидкого удобрения."
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_SLOT_CREATED",
+   "key": "9b6ac1f7",
+   "ru": "Это удобрение ещё готовится, использовать\nнельзя."
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_EMPTY_SLOT1",
+   "key": "0d8dfe84",
+   "ru": "Ячейка 1 опустела."
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_EMPTY_SLOT2",
+   "key": "1cf094fd",
+   "ru": "Ячейка 2 опустела."
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_EMPTY_SLOT3",
+   "key": "a50b4f15",
+   "ru": "Ячейка 3 опустела."
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_MAKEOVER",
+   "key": "d8d5888c",
+   "ru": "В ячейке уже есть жидкое удобрение. Сделать\nновое?"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_WATERINGCAN_FULL",
+   "key": "5ec4d34c",
+   "ru": "Лейка полна, больше жидкого удобрения не\nналить."
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_CREATED_SLOT1",
+   "key": "17b17a9b",
+   "ru": "Готовится."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_CREATED_SLOT2",
+   "key": "17b17a9b",
+   "ru": "Готовится."
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_CREATED_SLOT3",
+   "key": "17b17a9b",
+   "ru": "Готовится."
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_PANEL_STAND_START",
+   "key": "5f7842f6",
+   "ru": "Расставить круги фермы"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_PANEL_STAND_STOCKCHECK",
+   "key": "5837a904",
+   "ru": "Запас кругов фермы"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_PANEL_STAND_NO",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_PANEL_STAND_ASK",
+   "key": "0ff1aa67",
+   "ru": "<SPEED_IMME>Что сделать с кругом фермы?"
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_SIGNBOARD_A_SHOP_00",
+   "key": "d3666212",
+   "ru": "<SPEED_IMME>\n- О магазинах - \n \n<PAGE>\n<SPEED_IMME><GREEN>Животные: “Зов природы”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>10:00-18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Универмаг: “Гулливер”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>10:00-18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Материалы: “Бревенчатый дом”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>10:00-18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Продукты: “Бон Шарм”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>10:00-18:00</BLUE>"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_SIGNBOARD_A_SHOP_01",
+   "key": "93cb0c8e",
+   "ru": "<SPEED_IMME>\n- О магазинах -\n \n<PAGE>\n<SPEED_IMME><GREEN>Универмаг: “Соломенный рынок”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>10:00 - 18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Цветы: “Тысяча букетов”</GREEN>\nВыходные: вт/чт, тайфун, метель, праздники\nЧасы работы: <BLUE>10:00 - 18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Ресторан: “Садовый гриль”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>12:00 - 23:00</BLUE>"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_SIGNBOARD_A_SHOP_02",
+   "key": "c9b62a50",
+   "ru": "<SPEED_IMME>\n- О магазинах -\n \n<PAGE>\n<SPEED_IMME><GREEN>Животные: “Зов природы”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>10:00-18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Универмаг: “Гулливер”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>10:00-18:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Материалы: “Бревенчатый дом”</GREEN>\n*Сейчас закрыто*\n<PAGE>\n<SPEED_IMME><GREEN>Продукты: “Бон Шарм”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>10:00-18:00</BLUE>"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_SIGNBOARD_A_POSTOFFICE",
+   "key": "5f53afca",
+   "ru": "<SPEED_IMME><GREEN>Почта: “Постино”</GREEN>\nВыходные: сб/вс, тайфун, метель, праздники\nЧасы работы: <BLUE>9:00-15:00</BLUE>"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_SIGNBOARD_A_SHOP_CLINIC",
+   "key": "b3789313",
+   "ru": "<SPEED_IMME><GREEN>Клиника: “Белая капсула”</GREEN>\nВыходные: сб/вс и праздники\nЧасы работы: <BLUE>8:00-11:00, 13:00-17:00</BLUE>\n<PAGE>\n<SPEED_IMME>Работаем в тайфун и метель. Если что-то\nсрочное, приходите в любое время."
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_SIGNBOARD_A_SHOP_CLINIC_BEFORE",
+   "key": "5ef2170c",
+   "ru": "<SPEED_IMME><GREEN>Клиника: “Белая капсула”</GREEN>\nВременно закрыто: доктор уехал\nна научную конференцию."
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_SIGNBOARD_J_SHOP_00",
+   "key": "04c29deb",
+   "ru": "<SPEED_IMME>\n- О магазинах -\n\n<PAGE>\n<SPEED_IMME><GREEN>Чайная: “Встреча за чаем”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>9:00-19:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Универмаг: “От 99G”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Животные: “Сельский двор”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, отдел товаров</GREEN>\nВыходные: пн/чт, тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, продукты</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, одежда</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_SIGNBOARD_J_SHOP_01",
+   "key": "439a04ab",
+   "ru": "<SPEED_IMME>\n- О магазинах -\n\n<PAGE>\n<SPEED_IMME><GREEN>Чайная: “Встреча за чаем”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>9:00-19:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Купальня: “Кипарисовая ванна”</GREEN>\nВыходные: праздники\nЧасы работы: <BLUE>8:00-20:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Универмаг: “От 99G”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Животные: “Сельский двор”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, отдел товаров</GREEN>\nВыходные: пн/чт, тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, продукты</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, одежда</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>"
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_SIGNBOARD_J_SHOP_02",
+   "key": "3228561b",
+   "ru": "<SPEED_IMME>\n- О магазинах -\n\n<PAGE>\n<SPEED_IMME><GREEN>Чайная: “Встреча за чаем”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>9:00-19:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Парикмахерская: “Сяраку”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-20:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Универмаг: “От 99G”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Животные: “Сельский двор”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, отдел товаров</GREEN>\nВыходные: пн/чт, тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, продукты</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, одежда</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>"
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_SIGNBOARD_J_SHOP_04",
+   "key": "8e398715",
+   "ru": "<SPEED_IMME>\n- О магазинах -\n\n<PAGE>\n<SPEED_IMME><GREEN>Чайная: “Встреча за чаем”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>9:00-19:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Купальня: “Кипарисовая ванна”</GREEN>\nВыходные: праздники\nЧасы работы: <BLUE>8:00-20:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Парикмахерская: “Сяраку”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-20:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Универмаг: “От 99G”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Животные: “Сельский двор”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, отдел товаров</GREEN>\nВыходные: пн/чт, тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, продукты</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>“Ра Ман”, одежда</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-16:00</BLUE>"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_SIGNBOARD_S_SHOP_00",
+   "key": "bcc82266",
+   "ru": "<SPEED_IMME>\n- О магазинах -\n\n<PAGE>\n<SPEED_IMME><GREEN>Кафе: “Карозелло”</GREEN>\nВыходные: пт/сб, тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-17:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Продукты: “Аква пацца”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>6:00-10:00, 17:00-22:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Фрукты: “Санто-ду-Манго”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>6:00-10:00, 17:00-22:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Универмаг: “Поле-поле”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>6:00-10:00, 17:00-22:00</BLUE>"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_SIGNBOARD_S_SHOP_01",
+   "key": "79726db7",
+   "ru": "<SPEED_IMME>\n- О магазинах -\n\n<PAGE>\n<SPEED_IMME><GREEN>Универмаг: “Джамбалайя”</GREEN>\nВыходные: тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-17:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Гостиница “Лала салама”</GREEN>\nВыходные: праздники\nЧасы работы: <BLUE>13:00-5:00</BLUE>\n<PAGE>\n<SPEED_IMME><GREEN>Мастерская “Реласьон”</GREEN>\nВыходные: вс/чт, тайфун, метель, праздники\nЧасы работы: <BLUE>8:00-17:00</BLUE>"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_CHECK_SHOP_HORSE_RIDE",
+   "key": "15b3b96e",
+   "ru": "Верхом в магазины не заходят."
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_CHECK_MINE_ROCKS_0",
+   "key": "64605016",
+   "ru": "Возьми <BLUE>молот</BLUE> и добывай!"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_CHECK_MINE_ROCKS_1",
+   "key": "a348bc04",
+   "ru": "Пожалуй, на сегодня хватит..."
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_CHECK_MINE_ROCKS_2",
+   "key": "81a5b89a",
+   "ru": "Этим молотом здесь не добыть."
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_NOTSTART",
+   "key": "117f53db",
+   "ru": "На столе разбросаны записки, наверное,\nМитры..."
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_FIRST",
+   "key": "d76ac940",
+   "ru": "Это записки Митры о гравюрах..."
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_CHOICE_00",
+   "key": "4f50f20f",
+   "ru": "Какую записку посмотреть?"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_CHOICE_01",
+   "key": "c7db19bf",
+   "ru": "О следующей гравюре"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_CHOICE_02",
+   "key": "03b81d37",
+   "ru": "О найденных гравюрах"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_CHOICE_03",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_ALL_FINISH",
+   "key": "348a0652",
+   "ru": "“Все гравюры расшифрованы. Надо подвести\nитоги исследования!”"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_00",
+   "key": "81e7f13b",
+   "ru": "“Говорят, одна из гравюр стала призом на\nкаком-то конкурсе.”\n<PAGE>\n“Конкурс урожая, а я в жизни ничего не\nвыращивала. Что же делать...?”"
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_01",
+   "key": "6ece163d",
+   "ru": "“Говорят, одной из гравюр тайно торгуют в\nЦуюкусе.”\n<PAGE>\n“Владелец, говорят, жадный... но, если\nзаплатить целое состояние, может, продаст.\n<PAGE>\n“Увы, денег у меня очень не хватает...”"
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_02",
+   "key": "c113b0c6",
+   "ru": "“Похоже, одна из гравюр ― приз конкурса на\nлучший скот.”\n<PAGE>\n“Но я не очень люблю животных. Может, Лотус\nвырастит кого-нибудь...?”"
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_03",
+   "key": "583e9222",
+   "ru": "“Знакомая исследовательница из\nОук-Три-Тауна написала, что раздобыла одну\nгравюру.”\n<PAGE>\n“Она ботаник, так что очень любопытно, как\nона её достала, но...”\n<PAGE>\n“Как бы то ни было, надо бы съездить к ней и\nзабрать гравюру...”"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_04",
+   "key": "3131b0f6",
+   "ru": "“Похоже, ещё одна гравюра стала призом\nконкурса урожая.”\n<PAGE>\n“И на этот раз нужно быть опытным\nфермером.”\n<PAGE>\n“Эх. Выращивать урожай ― совсем не моё...”"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_05",
+   "key": "7cca1714",
+   "ru": "“Похоже, ещё одна гравюра стала призом на\nкаком-то конкурсе.”\n<PAGE>\n“По моим сведениям, подозрительный тип в\nкостюме собаки нашёл её случайно и сделал\nпризом.”\n<PAGE>\n“Он якобы сказал: “Гав-гав! Отдам гравюру\nтолько опытному фермеру!” Это шутка?”"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_06",
+   "key": "bdfecf02",
+   "ru": "“Говорят, этот скряга опять раздобыл\nгравюру...”\n<PAGE>\n“Будь у меня деньги, я бы её получила, хоть и\nне знаю, заслуживает ли он платы.”\n<PAGE>\n“Одно знаю точно: денег у меня нет.”"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_07",
+   "key": "1fa55f8e",
+   "ru": "“Похоже, один мой друг нашёл гравюру!”\n<PAGE>\n“Надо будет его навестить... и, может,\nзадобрить любимым кукурузным рагу.”\n<PAGE>\n“А если запросит за гравюру что-то\nнесусветное, отхлещу его рыбным пирогом.”"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_08",
+   "key": "9b9e19d2",
+   "ru": "“Говорят, опять одна из гравюр стала призом\nочередного конкурса урожая.”\n<PAGE>\n“И на этот раз нужно быть\nмастером-фермером. Ведущий тот ещё\nстрогий.”\n<PAGE>\n“Вот бы купить книгу, где написано, как\nвырастить лучший урожай...”"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_09",
+   "key": "41ca3b31",
+   "ru": "“Похоже, этот скупердяй Мория снова прибрал\nк рукам гравюру...”\n<PAGE>\n“Сколько раз повторять? У меня нет денег!”"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HOWTOGET_10",
+   "key": "df6719bd",
+   "ru": "“Насколько я понимаю, ещё одна гравюра стала\nпризом конкурса животноводов...\n<PAGE>\n“Это дополнительный приз победителю, но,\nпохоже, только для владельцев ферм.”"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_PROGRESS_FIRST",
+   "key": "8d6a4b53",
+   "ru": "“Сейчас я расшифровываю\n<BLUE><____ITEMNAME0____></BLUE>.”"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_PROGRESS_LOW",
+   "key": "0ddac122",
+   "ru": "Похоже, расшифровка идёт не очень."
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_PROGRESS_MIDDLE",
+   "key": "dadaf365",
+   "ru": "Похоже, расшифровка сделана наполовину."
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_PROGRESS_FINISH",
+   "key": "91ddda4d",
+   "ru": "Похоже, расшифровка полностью закончена."
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_TAKEMONEY_00",
+   "key": "e5a9018f",
+   "ru": "Похоже, расшифровка почти не продвинулась.\n<PAGE>\nКстати, Митра говорила, что ей нужны деньги\nна исследование.\n<PAGE>\nЕй нужно <BLUE><MOJI0></BLUE>. Пожертвовать?"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_TAKEMONEY_01",
+   "key": "886f94dd",
+   "ru": "Пожертвовать деньги"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_TAKEMONEY_02",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_TAKEMONEY_03",
+   "key": "c9ae49ce",
+   "ru": "...хотелось бы, но денег не хватает."
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_FIRST",
+   "key": "4db96ce8",
+   "ru": "Судя по запискам, на гравюре написано вот\nчто..."
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_01_00",
+   "key": "7dce5cfb",
+   "ru": "“Три жёлтых полумесяца, сросшихся концами.\nПоднеси это на алтарь.”\n<PAGE>\n...Что-то в форме полумесяца, и жёлтое. Что\nбы это могло быть?"
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_01_01",
+   "key": "8e4f25aa",
+   "ru": "“Три жёлтых полумесяца, сросшихся концами.\nПоднеси это на алтарь.”\n<PAGE>\n...Что-то в форме полумесяца, и жёлтое. Что\nбы это могло быть?\n<PAGE>\nА ведь есть фрукт в форме полумесяца? Их там\nтри штуки..."
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_02_00",
+   "key": "9a1d5fff",
+   "ru": "“Горько-сладкое сокровище, зарытое в\nтропической земле. Поднеси это на алтарь.”\n<PAGE>\nГорько-сладкое сокровище? Что бы это могло\nбыть?"
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_02_01",
+   "key": "57711912",
+   "ru": "“Горько-сладкое сокровище, зарытое в\nтропической земле. Поднеси это на алтарь.”\n<PAGE>\nГорько-сладкое сокровище? Может, это\nовощ?\n<PAGE>\nКакой здешний овощ растёт под землёй?"
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_03_00",
+   "key": "b95f57a4",
+   "ru": "“Ножны из игл хранят золотые кольца.\nПоднеси это на алтарь.”\n<PAGE>\nНожны из игл? Где-то ведь был урожай с\nкучей колючек..."
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_03_01",
+   "key": "83ee001c",
+   "ru": "“Ножны из игл хранят золотые кольца.\nПоднеси это на алтарь.”\n<PAGE>\nНожны из игл? Где-то ведь был урожай с\nкучей колючек...\n<PAGE>\nЗолотые ― значит жёлтые. Что колючее\nснаружи и жёлтое внутри?"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_04_00",
+   "key": "dd92ee92",
+   "ru": "“Его ломтики озарят самую тёмную ночь.\nПоднеси это на алтарь.”\n<PAGE>\nЧто-то с яркими ломтиками? Может, дело в\nформе подношения."
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_04_01",
+   "key": "de62e6db",
+   "ru": "“Его ломтики озарят самую тёмную ночь.\nПоднеси это на алтарь.”\n<PAGE>\nЧто-то с яркими ломтиками? Может, дело в\nформе подношения.\n<PAGE>\nБыл ведь урожай, который в разрезе похож на\nзвезду?"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_05_00",
+   "key": "aa6be589",
+   "ru": "“Горькая бурая пилюля со сладкой душой.\nПоднеси это на алтарь.”\n<PAGE>\nБурое, горькое и сладкое? Может, “душа”\nзначит что-то другое.\n<PAGE>\nНапример, само оно горькое, но из него делают\nчто-то сладкое..."
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_05_01",
+   "key": "e2dae609",
+   "ru": "“Горькая бурая пилюля со сладкой душой.\nПоднеси это на алтарь.”\n<PAGE>\nБурое, горькое и сладкое? Может, “душа”\nзначит что-то другое.\n<PAGE>\nНапример, само оно горькое, но из него делают\nчто-то сладкое...\n<PAGE>\nШоколад бурый и сладкий. Из чего же в\nосновном делают шоколад?"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_06_00",
+   "key": "5fb8492a",
+   "ru": "“Что-то освежающее, как холодный\nтропический рассвет. Поднеси это на алтарь.”\n<PAGE>\n“Холодный тропический рассвет”?\nБессмыслица. Может, это про название\nподношения.\n<PAGE>\nЧто освежающее называется вроде “рассвета”?"
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_06_01",
+   "key": "b91429fc",
+   "ru": "“Что-то освежающее, как холодный\nтропический рассвет. Поднеси это на алтарь.”\n<PAGE>\n“Холодный тропический рассвет”?\nБессмыслица. Может, это про название\nподношения.\n<PAGE>\nЧто освежающее называется вроде “рассвета”?\n<PAGE>\nВ Лулукоко много освежающих шейков. Не\nбыло ли шейка из абрикоса и манго с\nинтересным названием?"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_07_00",
+   "key": "f93f12b6",
+   "ru": "“Воплощение пламени, что жжёт всё, чего\nкоснётся. Поднеси это на алтарь.”\n<PAGE>\nЖжёт... От острой еды во рту пожар. Какая\nеда острая?"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_07_01",
+   "key": "133d6cfc",
+   "ru": "“Воплощение пламени, что жжёт всё, чего\nкоснётся. Поднеси это на алтарь.”\n<PAGE>\nЖжёт... От острой еды во рту пожар. Какая\nеда острая?\n<PAGE>\nРаз воплощение пламени, то, может, красное.\nОстрый и красный урожай..."
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_08_00",
+   "key": "4dbf62f3",
+   "ru": "“Золотой шар, что смыкает уста. Поднеси это\nна алтарь.”\n<PAGE>\nЧто-то, от чего рот закрывается? Какое\nзолото так умеет?"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_08_01",
+   "key": "1ab5b617",
+   "ru": "“Золотой шар, что смыкает уста. Поднеси это\nна алтарь.”\n<PAGE>\nЧто-то, от чего рот закрывается? Какое\nзолото так умеет?\n<PAGE>\nОт очень кислого губы сжимаются. Что кислое\nи жёлтое?"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_09_00",
+   "key": "dec65fd2",
+   "ru": "“Благородная еда, достойная королевы.\nПоднеси это на алтарь.”\n<PAGE>\nКоролева... Здесь ведь нет королев? Была ли\nеда с благородным названием?"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_09_01",
+   "key": "2eb515d7",
+   "ru": "“Благородная еда, достойная королевы.\nПоднеси это на алтарь.”\n<PAGE>\nКоролева... Здесь ведь нет королев? Была ли\nеда с благородным названием?\n<PAGE>\nКоролевы ― это королевское, верно? А у\nнекоторых насекомых есть королевы. Какая\nеда от насекомых зовётся “королевской”?"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_10_00",
+   "key": "12436abe",
+   "ru": "“Самоцветы, тонущие под кислыми волнами.\nПоднеси это на алтарь.”\n<PAGE>\nКислые волны? Может, что-то газированное. А\nфрукты иногда сравнивают с самоцветами..."
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_10_01",
+   "key": "84216589",
+   "ru": "“Самоцветы, тонущие под кислыми волнами.\nПоднеси это на алтарь.”\n<PAGE>\nКислые волны? Может, что-то газированное. А\nфрукты иногда сравнивают с самоцветами...\n<PAGE>\nНаверняка есть газированный напиток с\nфруктами. Где-то такое было?"
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_11_00",
+   "key": "25869bca",
+   "ru": "“Тонкие белые змеи купаются в бледном\nокеане. Поднеси это на алтарь.”\n<PAGE>\nЕсли вспомнить прошлые загадки, “мутное\nморе” ― это наверняка какой-то суп.\n<PAGE>\nНо что похоже на “белых змей”?"
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_HINT_11_01",
+   "key": "f1c8ebb3",
+   "ru": "“Тонкие белые змеи купаются в бледном\nокеане. Поднеси это на алтарь.”\n<PAGE>\nЕсли вспомнить прошлые загадки, “мутное\nморе” ― это наверняка какой-то суп.\n<PAGE>\nНо что похоже на “белых змей”?\n<PAGE>\nЕсли белые змеи ― это лапша, то это суп с\nбелой лапшой. Было что-то такое?"
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_FIRST",
+   "key": "70159900",
+   "ru": "Какую гравюру посмотреть?"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_00",
+   "key": "7d895dd0",
+   "ru": "Гравюра: мышь"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_01",
+   "key": "1186c59e",
+   "ru": "Гравюра: корова"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_02",
+   "key": "61557081",
+   "ru": "Гравюра: кошка"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_03",
+   "key": "33f1a150",
+   "ru": "Гравюра: кролик"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_04",
+   "key": "1172ac7b",
+   "ru": "Гравюра: дракон"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_05",
+   "key": "373d6cd2",
+   "ru": "Гравюра: змея"
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_06",
+   "key": "337de503",
+   "ru": "Гравюра: лошадь"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_07",
+   "key": "39d6f665",
+   "ru": "Гравюра: овца"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_08",
+   "key": "d5b17bc2",
+   "ru": "Гравюра: обезьяна"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_09",
+   "key": "4147b751",
+   "ru": "Гравюра: Гаруда"
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_10",
+   "key": "c203070d",
+   "ru": "Гравюра: собака"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_11",
+   "key": "de3c44d5",
+   "ru": "Гравюра: кабан"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_12",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_00_00",
+   "key": "f42ceedf",
+   "ru": "Первая гравюра, найденная Митрой. Она\nоткрыла дверь в дом Ведьмочки."
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_01_00",
+   "key": "6dc998f1",
+   "ru": "②┥┃⑥╋⑰⑪━⑯┏⑰┤┿②┬┫⑰┤\n━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nТри жёлтых полумесяца, сросшихся концами.\nПоднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о корове.\nОтвет: <BLUE>банан</BLUE>."
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_02_00",
+   "key": "d736b99a",
+   "ru": "┣⑰⑯①┫①┿┰④┐⑮┌┼⑰┏┌├┃⑰┬\n┠━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nГорько-сладкое сокровище, зарытое в\nтропической земле. Поднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о кошке.\nОтвет: <BLUE>маниок</BLUE>."
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_03_00",
+   "key": "ac82056a",
+   "ru": "┝⑩┿⑧⑬┐┯①⑤⑨⑫┣┰┬⑩┿⑭\n ━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nНожны из игл хранят золотые кольца.\nПоднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о кролике.\nОтвет: <BLUE>ананас</BLUE>."
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_04_00",
+   "key": "afe7d8ec",
+   "ru": "⑥②⑧⑮┻⑨┓╂┏┿━⑰╋┤②╋⑰⑩\n━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nЕго ломтики озарят самую тёмную ночь.\nПоднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о драконе.\nОтвет: <BLUE>карамбола</BLUE>."
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_05_00",
+   "key": "7a7d71b8",
+   "ru": "┯┬⑰┤┳⑥⑳┐⑬┿②┯┬⑯┰⑰┠━┣⑰\n┷⑮⑥╋⑰┏┏⑤┿━⑫⑮┃┐┣⑰⑯┯┃┃\n┼⑰⑧\n<PAGE>\nГорькая бурая пилюля со сладкой душой.\nПоднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о змее.\nОтвет: <BLUE>какао</BLUE>."
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_06_00",
+   "key": "b0acb828",
+   "ru": "━┬⑰┷┐⑬┿┘②⑧⑩┿╂⑰⑪┣┐⑧┘\n━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nЧто-то освежающее, как холодный\nтропический рассвет. Поднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о лошади.\nОтвет: <BLUE>шейк Рассвет</BLUE>."
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_07_00",
+   "key": "4af44cf8",
+   "ru": "┏⑥⑳┴┷┫┿┐┣②⑤┣⑨┓╂┿├┿\n┼┏⑯━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nВоплощение пламени, что жжёт всё,\nчего коснётся. Поднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о овце.\nОтвет: <BLUE>перец чили</BLUE>."
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_08_00",
+   "key": "507f7c10",
+   "ru": "┗┿┤⑮╂├┝⑰⑪┝┴┳⑮┫┴⑰③━╋\n┠⑩━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nЗолотой шар, что смыкает уста.\nПоднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о обезьяне.\nОтвет: <BLUE>лимон</BLUE>."
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_09_00",
+   "key": "5633e4b2",
+   "ru": "┏⑰⑧⑳├┘┯┃┃┼⑰⑪━┘┤┠⑪┬┻\n━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nБлагородная еда, достойная королевы.\nПоднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о Гаруде.\nОтвет: <BLUE>маточное молочко</BLUE>."
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_10_00",
+   "key": "44c2b063",
+   "ru": "┃⑯┿┘②┻⑰├╂⑰⑫⑪╂┘┛┤\n━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nСамоцветы, тонущие под кислыми волнами.\nПоднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о собаке.\nОтвет: <BLUE>фруктовый пунш</BLUE>."
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MES_CHECK_MISTERY_LITHOGRAPH_11_00",
+   "key": "a9c711db",
+   "ru": "┣⑯┬┐┻⑰②⑮┣⑦⑨┛┏┏⑬┴╂┗┤┣\n⑰┐┏⑰⑥⑳━⑫⑮┃┐┣⑰⑯┯┃┃┼⑰⑧\n<PAGE>\nТонкие белые змеи купаются в бледном\nокеане. Поднеси это на алтарь.\n<PAGE>\n...Так написано на гравюре о кабане.\nОтвет: <BLUE>фо</BLUE>."
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_CHECK_DUMMY_1",
+   "key": "8e260980",
+   "ru": "Ещё в разработке. Загляните позже."
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_FIRST_VISIT",
+   "key": "b23ebe2e",
+   "ru": "Добро пожаловать! Это бумажный театр!\n<PAGE>\nКаждый день показываю одну серию истории\nна твой выбор.\n<PAGE>\nЧто, раз в день маловато? Хм, ну, старик вроде\nменя устаёт, так что не взыщи!\n<PAGE>\nЗато и цена пониже. Всего <BLUE><MOJI0></BLUE>G.\n<PAGE>\nИ ещё: в разные дни недели я бываю в разных\nгородах. Учти, что не всегда здесь."
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_USUALLY_VISIT",
+   "key": "9ab326d9",
+   "ru": "Добро пожаловать в театр картинок!"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_NEW_VISIT",
+   "key": "09b2e023",
+   "ru": "Добро пожаловать в мой театр картинок! Есть\nновая серия. Смотри!"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_NO_MONEY",
+   "key": "daf1601f",
+   "ru": "Эй, да у тебя нет денег. Приходи, когда\nнакопишь."
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_NG",
+   "key": "4af7fa49",
+   "ru": "Эй, тебе ещё кое-что причитается, так что\nосвободи место в сумке и приходи."
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION",
+   "key": "302f0257",
+   "ru": "Ну-ну! Вот что можно посмотреть сегодня."
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION_001",
+   "key": "678e4b75",
+   "ru": "В поисках звезды"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION_002",
+   "key": "fb5be6d6",
+   "ru": "Волшебные воины: Айдол Руна"
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION_003",
+   "key": "5461682e",
+   "ru": "История у реки"
+  },
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION_004",
+   "key": "11d108ff",
+   "ru": "Особое представление"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STORY_SELECTION_CANCEL",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_NUMBER_SELECTION",
+   "key": "2b65fbe9",
+   "ru": "Какую серию посмотреть?"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_001",
+   "key": "f1b6a129",
+   "ru": "Серия 1: Спика"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_002",
+   "key": "60d2a7f6",
+   "ru": "Серия 2: Девочка в парке"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_003",
+   "key": "b4a082ca",
+   "ru": "Серия 3: Рука в руке"
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_004",
+   "key": "663074bf",
+   "ru": "Серия 4: Ноа идёт в школу"
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_005",
+   "key": "49cf1feb",
+   "ru": "Серия 5: Новая встреча"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_006",
+   "key": "d0efd0b0",
+   "ru": "Серия 6: Найти звезду"
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_007",
+   "key": "c2d2332b",
+   "ru": "Серия 7: До встречи и прощай"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_STAR_008",
+   "key": "46a92565",
+   "ru": "Последняя серия: Звезда здесь"
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_001",
+   "key": "5fb4eb83",
+   "ru": "Серия 1: Появление волшебных воинов"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_002",
+   "key": "1b15ce9b",
+   "ru": "Серия 2: Появление волшебных воинов"
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_003",
+   "key": "3a01c801",
+   "ru": "Серия 3: Беда на празднике у моря?!"
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_004",
+   "key": "66b1eb68",
+   "ru": "Серия 4: Беда на празднике у моря?!"
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_005",
+   "key": "5a37f35c",
+   "ru": "Серия 5: Жаркий бой! Кулинарная битва?!"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_006",
+   "key": "d1e4cd45",
+   "ru": "Серия 6: Жаркий бой! Кулинарная битва?!"
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_007",
+   "key": "036c6cc9",
+   "ru": "Серия 7: Незабываемый последний день!"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_008",
+   "key": "5fd6a0d6",
+   "ru": "Серия 8: Незабываемый последний день!"
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_009",
+   "key": "84f71799",
+   "ru": "Серия 9: Концерт мечты в Колизинге!"
+  },
+  {
+   "n": 297,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_010",
+   "key": "c8f708dc",
+   "ru": "Серия 10: Концерт мечты в Колизинге!"
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_IDOLN_011",
+   "key": "3606b10a",
+   "ru": "Последняя серия: Концерт мечты в Колизинге!"
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_001",
+   "key": "b86d711c",
+   "ru": "Серия 1: Сон прошлой ночи"
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_002",
+   "key": "9127088a",
+   "ru": "Серия 2: Домашнее задание"
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_003",
+   "key": "b0809d27",
+   "ru": "Серия 3: Вступительные экзамены"
+  },
+  {
+   "n": 302,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_004",
+   "key": "363fab43",
+   "ru": "Серия 4: Секреты"
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_005",
+   "key": "39d8fcb0",
+   "ru": "Серия 5: Дружба"
+  },
+  {
+   "n": 304,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_006",
+   "key": "b08502e1",
+   "ru": "Серия 6: Примирение"
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_007",
+   "key": "52658787",
+   "ru": "Серия 7: Выпускной"
+  },
+  {
+   "n": 306,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_RIVER_008",
+   "key": "e2256ee9",
+   "ru": "Последняя серия: Пять лет спустя"
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_BREAD_001",
+   "key": "a9e5f4c1",
+   "ru": "Господин Кролик"
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_NUMBER_SELECTION_CANCEL",
+   "key": "2ad18383",
+   "ru": "<CANCEL_SELECT>\r\nОбратно к выбору истории"
+  },
+  {
+   "n": 309,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_START_MES",
+   "key": "67449a6e",
+   "ru": "Все сюда! Начинается невероятно весёлая\nистория!"
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_BONUS_ITEM",
+   "key": "66edd2db",
+   "ru": "Понравилось? Это ещё не всё! Вот тебе\nподарок."
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_END",
+   "key": "1448162b",
+   "ru": "Уф! Сегодня я, как всегда, молодец. До\nследующего раза!"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_LEAVE_STORE",
+   "key": "073905ec",
+   "ru": "О, на сегодня всё? Тогда до встречи!"
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_CLOSE",
+   "key": "61b0724b",
+   "ru": "Я бродячий сказочник."
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_TOILET_BATHROOM_BATH",
+   "key": "c62cc0c2",
+   "ru": "Принять ванну"
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "MES_TOILET_BATHROOM_TOILET",
+   "key": "5fdbd969",
+   "ru": "Сходить в туалет"
+  },
+  {
+   "n": 316,
+   "f": 2,
+   "id": "MES_TOILET_BATHROOM_NO",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 317,
+   "f": 2,
+   "id": "MES_TOILET_BATHROOM_ASK",
+   "key": "60460392",
+   "ru": "Что делать?"
+  },
+  {
+   "n": 318,
+   "f": 2,
+   "id": "MES_TOILET_BATHROOM_BATH_SELECT_1",
+   "key": "93fe684e",
+   "ru": "Уф, как освежает! Нет ничего лучше горячей\nванны. ♪"
+  },
+  {
+   "n": 319,
+   "f": 2,
+   "id": "MES_TOILET_BATHROOM_BATH_SELECT_2",
+   "key": "73e12d38",
+   "ru": "Хорошо! Только от частых ванн немного\nкружится голова."
+  },
+  {
+   "n": 320,
+   "f": 2,
+   "id": "MES_TOILET_BATHROOM_TOILET_SELECT_1",
+   "key": "39a41b92",
+   "ru": "Ух, как приятно. Что дальше?"
+  },
+  {
+   "n": 321,
+   "f": 2,
+   "id": "MES_TOILET_BATHROOM_TOILET_SELECT_2",
+   "key": "e184c32f",
+   "ru": "В туалет пока не хотелось, но руки помыть\nникогда не лишнее!"
+  },
+  {
+   "n": 322,
+   "f": 2,
+   "id": "MES_PANEL_BATH_ASK",
+   "key": "9fb41479",
+   "ru": "Принять ванну?"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_PANEL_BATH_SELECT_0",
+   "key": "c62cc0c2",
+   "ru": "Принять ванну"
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_PANEL_BATH_SELECT_1",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_PANEL_BATH_AFTER_0",
+   "key": "93fe684e",
+   "ru": "Уф, как освежает! Нет ничего лучше горячей\nванны. ♪"
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "MES_PANEL_BATH_AFTER_1",
+   "key": "73e12d38",
+   "ru": "Хорошо! Только от частых ванн немного\nкружится голова."
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_NEED_SEED",
+   "key": "845fe39e",
+   "ru": "Посадим грибы."
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_ALREADY",
+   "key": "b3465e24",
+   "ru": "Грибы уже посажены."
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_NOT_FINISH",
+   "key": "5828cbfe",
+   "ru": "<GREEN><MOJI0></GREEN> ещё не готов."
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_ITEM_IN_BAG",
+   "key": "dca504e4",
+   "ru": "Сначала убери предмет, потом собирай."
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_BAG_FULL",
+   "key": "70310908",
+   "ru": "Сумка полна, собрать ничего не получится."
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_GET_ITEM",
+   "key": "822996c5",
+   "ru": "Получено: <GREEN><MOJI0></GREEN>, <MOJI1> шт."
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_FINISH_FURTILIZER",
+   "key": "5912bab6",
+   "ru": "Удобрение сейчас не нужно."
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_NOSEED_FURTILIZER",
+   "key": "bf725610",
+   "ru": "Сначала посади грибы."
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_NOUSE_FURTILIZER",
+   "key": "1dbad486",
+   "ru": "Сегодня удобрение уже было."
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_NOMORE_FURTILIZER",
+   "key": "36785073",
+   "ru": "Больше удобрения добавлять незачем."
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "MSG_MUSH_CUL_CANTUSE",
+   "key": "231e8fd1",
+   "ru": "С грибами это не использовать."
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "MES_CHECK_MUSH_CUL_FIRST",
+   "key": "6f0b9f37",
+   "ru": "<SPEED_FAST>Это <BLUE>грибное бревно</BLUE>. На нём можно растить\nгрибы.\n<PAGE>\n<SPEED_FAST>Посей споры, как обычные семена, и жди, пока\nвырастут грибы. Поливать не нужно."
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "MES_CHECK_BED_FIRST",
+   "key": "94861ca1",
+   "ru": "<SPEED_FAST>Это <BLUE>кровать</BLUE>. Ляг спать, чтобы закончить день.\n<PAGE>\n<SPEED_FAST>От того, когда ляжешь, зависит, когда\nпроснёшься. Рано ляжешь ― рано встанешь!"
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "MES_CHECK_ITEMBOX_FIRST",
+   "key": "13d79ac7",
+   "ru": "<SPEED_FAST>Это <BLUE>сундук</BLUE>. Здесь можно хранить урожай, еду\nи прочее.\n<PAGE>\n<SPEED_FAST>Чтобы сумка не переполнялась, оставляй здесь\nлишнее."
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "MES_CHECK_TOOLBOX_FIRST",
+   "key": "b9d27902",
+   "ru": "<SPEED_FAST>Это <BLUE>ящик инструментов</BLUE>. Здесь хранят серпы,\nмотыги и прочее.\n<PAGE>\n<SPEED_FAST>Если инструмент не нужен, положи его сюда до\nдругого раза."
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "MES_CHECK_CLOSET_FIRST",
+   "key": "b6acd10d",
+   "ru": "<SPEED_FAST>Это <BLUE>шкаф</BLUE>. Здесь можно сменить одежду и\nаксессуары.\n<PAGE>\n<SPEED_FAST>Новая одежда, шляпы и очки сами попадают\nсюда."
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_CHECK_CALENDAR_FIRST",
+   "key": "e96004e1",
+   "ru": "<SPEED_FAST>Это <BLUE>календарь</BLUE>. Он помогает следить за\nсобытиями и днями рождения.\n<PAGE>\n<SPEED_FAST>Новые события и люди появляются постоянно,\nтак что заглядывай в него."
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_CHECK_BOOKSHELF_FIRST",
+   "key": "09546187",
+   "ru": "<SPEED_FAST>Это <BLUE>книжная полка</BLUE>. Здесь много полезных\nсведений.\n<PAGE>\n<SPEED_FAST>Чем больше нового узнаёшь, тем больше книг\nна полке."
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_CHECK_POST_FIRST",
+   "key": "077f5ea7",
+   "ru": "<SPEED_FAST>Это <BLUE>почтовый ящик</BLUE>. Сюда приходят письма от\nсоседей и новости о товарах.\n<PAGE>\n<SPEED_FAST>Он быстро заполняется, так что проверяй\nпочаще!"
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "MES_CHECK_ANIMALFODDER_FIRST",
+   "key": "fb8fbb80",
+   "ru": "<SPEED_FAST>Это <GREEN>раздатчик корма</GREEN>. Отсюда берут корм,\nхранящийся в силосе.\n<PAGE>\n<SPEED_FAST>Следи, чтобы корма в силосе всегда хватало."
+  },
+  {
+   "n": 347,
+   "f": 2,
+   "id": "MES_CHECK_ANIMALPREGNANCYSPACE_FIRST",
+   "key": "ead13528",
+   "ru": "<SPEED_FAST>Это <GREEN>родильное стойло</GREEN>. Здесь держат\nживотных, ждущих потомства.\n<PAGE>\n<SPEED_FAST>Кормить их здесь не нужно, но присматривай за\nними, пока не родятся малыши."
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "MES_CHECK_BAITSPACE_FIRST",
+   "key": "5c059d1b",
+   "ru": "<SPEED_FAST>Это <GREEN>кормушка</GREEN>. Брось сюда корм, и скот придёт\nпоесть."
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_CHECK_ANIMALNOTE_FIRST",
+   "key": "917ab753",
+   "ru": "<SPEED_FAST>Это <GREEN>тетрадь о животных</GREEN>. В ней записано всё о\nкаждом животном.\n<PAGE>\n<SPEED_FAST>Заглядывай в неё почаще: животные на тебя\nрассчитывают!"
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "MES_CHECK_CHICKENFODDER_FIRST",
+   "key": "6b0aaf93",
+   "ru": "<SPEED_FAST>Это <GREEN>раздатчик корма для кур</GREEN>. Отсюда берут\n<BLUE>корм для кур</BLUE> из силоса.\n<PAGE>\n<SPEED_FAST>Проверяй силос почаще, чтобы корм не\nкончился!"
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "MES_CHECK_CHICKENFODDER_FIRST",
+   "key": "5cf0a337",
+   "ru": "<SPEED_FAST>Это <GREEN>кормушка для птиц</GREEN>. Сюда сыплют <BLUE>корм для\nкур</BLUE>.\n<PAGE>\n<SPEED_FAST>Следи, чтобы корм попадал точно в кормушку."
+  },
+  {
+   "n": 352,
+   "f": 2,
+   "id": "MES_CHECK_CHICKENHATCHBOX_FIRST",
+   "key": "f239e821",
+   "ru": "<SPEED_FAST>Это <GREEN>инкубатор</GREEN>. Оставь здесь взрослую птицу, и\nчерез несколько дней вылупится птенец.\n<PAGE>\n<SPEED_FAST>Только не бросай животных надолго! Проверяй\nих почаще."
+  },
+  {
+   "n": 353,
+   "f": 2,
+   "id": "MES_CHECK_PETHOME_FIRST",
+   "key": "9a0d5c6a",
+   "ru": "<SPEED_FAST>Это <GREEN>домик питомца</GREEN>. Отсюда можно пойти\nгулять с питомцем или посмотреть о нём\nсведения."
+  },
+  {
+   "n": 354,
+   "f": 2,
+   "id": "MES_CHECK_PETFOODSPACE_FIRST",
+   "key": "0609d392",
+   "ru": "<SPEED_FAST>Это <GREEN>кормушка питомцев</GREEN>. Положи сюда <BLUE>корм\nдля питомцев</BLUE>, и они придут поесть.\n<PAGE>\n<SPEED_FAST>Только следи, чтобы весь корм попал внутрь!"
+  },
+  {
+   "n": 355,
+   "f": 2,
+   "id": "MES_CHECK_KITCHEN_FIRST",
+   "key": "6bba8805",
+   "ru": "<SPEED_FAST>Это <BLUE>кухня</BLUE>. Здесь можно готовить по любым\nсвоим рецептам."
+  },
+  {
+   "n": 356,
+   "f": 2,
+   "id": "MES_CHECK_SUNPLACE_FIRST",
+   "key": "37e54128",
+   "ru": "<SPEED_FAST>Это <BLUE>алтарь солнца</BLUE>. Положи сюда солнце\nсезона, и в погребе сменится сезон."
+  },
+  {
+   "n": 357,
+   "f": 2,
+   "id": "MES_CHECK_API_FIRST",
+   "key": "eb61faee",
+   "ru": "<SPEED_FAST>Это <BLUE>улей</BLUE>. Положи сюда цветок, и через\nнесколько дней будет мёд."
+  },
+  {
+   "n": 358,
+   "f": 2,
+   "id": "MES_CHECK_CUL_FIRST",
+   "key": "4c9279de",
+   "ru": "<SPEED_FAST>Это <BLUE>рыбный питомник</BLUE>. Здесь разводят рыбу и\nжемчужниц."
+  },
+  {
+   "n": 359,
+   "f": 2,
+   "id": "MES_CHECK_SEEDMAKER_FIRST",
+   "key": "36fb9a9b",
+   "ru": "<SPEED_FAST>Это <BLUE>семенной станок</BLUE>. Положи урожай, чтобы\nполучить семена."
+  },
+  {
+   "n": 360,
+   "f": 2,
+   "id": "MES_CHECK_CLOTHMAKER_FIRST",
+   "key": "ddd79aeb",
+   "ru": "<SPEED_FAST>Это <BLUE>ткацкая мастерская</BLUE>. Из материалов и\nкрасителя выйдет ткань или нить."
+  },
+  {
+   "n": 361,
+   "f": 2,
+   "id": "MES_CHECK_TUBOMAKER_FIRST",
+   "key": "06aed57a",
+   "ru": "<SPEED_FAST>Это <BLUE>ферментёр</BLUE>. Здесь делают мисо, соевый\nсоус и соленья."
+  },
+  {
+   "n": 362,
+   "f": 2,
+   "id": "MES_CHECK_MILKMAKER_FIRST",
+   "key": "9da497ce",
+   "ru": "<SPEED_FAST>Это <BLUE>молочный цех</BLUE>. Залей молоко, и выйдет\nсыр или масло."
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "MES_CHECK_MILLMAKER_FIRST",
+   "key": "df4f6d29",
+   "ru": "<SPEED_FAST>Это <BLUE>мельница</BLUE>. Здесь мелют муку и кукурузную\nмуку."
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "MES_CHECK_POTMAKER_FIRST",
+   "key": "df35bd90",
+   "ru": "<SPEED_FAST>Это <BLUE>джемоварня</BLUE>. Здесь делают майонез и\nджем."
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "MES_CHECK_WINEMAKER_FIRST",
+   "key": "65415c80",
+   "ru": "<SPEED_FAST>Это <BLUE>винодельня</BLUE>. Из фруктов здесь делают\nразные вина."
+  },
+  {
+   "n": 366,
+   "f": 2,
+   "id": "MES_CHECK_FERTILIZERMAKER_FIRST",
+   "key": "5fec8baa",
+   "ru": "<SPEED_FAST>Это <BLUE>цех удобрений</BLUE>. Здесь делают удобрения\nдля урожая."
+  },
+  {
+   "n": 367,
+   "f": 2,
+   "id": "MES_CHECK_FEEDMAKER_FIRST",
+   "key": "b503e643",
+   "ru": "<SPEED_FAST>Это <BLUE>кормоцех</BLUE>. Здесь делают корм для\nживотных."
+  },
+  {
+   "n": 368,
+   "f": 2,
+   "id": "MES_CHECK_FERTILIZWR_TANK_FIRST",
+   "key": "5dbf1f26",
+   "ru": "<SPEED_FAST>Это <BLUE>бак жидких удобрений</BLUE>. Здесь делают\nжидкое удобрение."
+  },
+  {
+   "n": 369,
+   "f": 2,
+   "id": "MES_CHECK_SHIPMENT_FIRST",
+   "key": "18f0655e",
+   "ru": "<SPEED_FAST>Это <BLUE>ящик отправки</BLUE>. Положи сюда товар, и на\nследующий день придут деньги."
+  },
+  {
+   "n": 370,
+   "f": 2,
+   "id": "MES_CHECK_PANELDECK_FIRST",
+   "key": "b29cafc4",
+   "ru": "<SPEED_FAST>Это <BLUE>верстак для хобби</BLUE>. Отсюда можно\nпереставить поля и постройки."
+  },
+  {
+   "n": 371,
+   "f": 2,
+   "id": "MES_CHECK_SILOK_FIRST",
+   "key": "e2de21a6",
+   "ru": "<SPEED_FAST>Это <BLUE>силос</BLUE>. Здесь хранят корм и лакомства для\nживотных."
+  },
+  {
+   "n": 372,
+   "f": 2,
+   "id": "MES_CHECK_PET_FOOD_MACHINE_FIRST",
+   "key": "70904778",
+   "ru": "<SPEED_FAST>Это <BLUE>кормушка питомцев</BLUE>. Каждый день она сама\nвыдаёт корм из сундука."
+  },
+  {
+   "n": 373,
+   "f": 2,
+   "id": "MES_CHECK_BATH_TOILET_FIRST",
+   "key": "2ed3651b",
+   "ru": "<SPEED_FAST>Это <BLUE>ванная и туалет</BLUE>. И то и другое\nвосстанавливает силы.\n<PAGE>\n<SPEED_FAST>Но после этого нужно немного подождать."
+  },
+  {
+   "n": 374,
+   "f": 2,
+   "id": "MES_CHECK_PANEL_BATH_FIRST",
+   "key": "d62efcae",
+   "ru": "<SPEED_FAST>Это <BLUE>ванна</BLUE>. Она восстанавливает силы.\n<PAGE>\n<SPEED_FAST>Но после этого нужно немного подождать."
+  },
+  {
+   "n": 375,
+   "f": 2,
+   "id": "MES_CHECK_PET_FOOD_MACHINE_00",
+   "key": "c16725af",
+   "ru": "Корма для питомцев: <MOJI0> шт."
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "MES_CHECK_PET_FOOD_MACHINE_01",
+   "key": "61586d98",
+   "ru": "Пусто. Надо положить корм для питомцев в\nсундук."
+  },
+  {
+   "n": 377,
+   "f": 2,
+   "id": "MES_CHECK_PET_FOOD_MACHINE_02",
+   "key": "b7bf6d5a",
+   "ru": "Корма для питомцев полно. ♪"
+  },
+  {
+   "n": 378,
+   "f": 2,
+   "id": "MES_SUNPLACE_ASK",
+   "key": "88f8d470",
+   "ru": "Сменить солнце сезона?"
+  },
+  {
+   "n": 379,
+   "f": 2,
+   "id": "MES_SUNPLACE_0",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 380,
+   "f": 2,
+   "id": "MES_SUNPLACE_1",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 381,
+   "f": 2,
+   "id": "MES_SUNPLACE_2",
+   "key": "33f13010",
+   "ru": "<____ITEMNAME3____>"
+  },
+  {
+   "n": 382,
+   "f": 2,
+   "id": "MES_SUNPLACE_END",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 383,
+   "f": 2,
+   "id": "MES_SUNPLACE_ON_THESUN",
+   "key": "2cc7dfa9",
+   "ru": "Это <____ITEMNAME0____>."
+  },
+  {
+   "n": 384,
+   "f": 2,
+   "id": "MES_SUNPLACE_NO_BAG",
+   "key": "8a9f5d70",
+   "ru": "Сначала нужно солнце сезона в сумке."
+  },
+  {
+   "n": 385,
+   "f": 2,
+   "id": "MES_SUNPLACE_FULL_BAG",
+   "key": "d52ce39b",
+   "ru": "Сначала освободи место в сумке."
+  },
+  {
+   "n": 386,
+   "f": 2,
+   "id": "MES_RECORD_ASK",
+   "key": "dd69bae1",
+   "ru": "Сыграем песню."
+  },
+  {
+   "n": 387,
+   "f": 2,
+   "id": "MES_RECORD_SELECT_00",
+   "key": "b21e1752",
+   "ru": "Песня 1"
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_RECORD_SELECT_01",
+   "key": "394eef24",
+   "ru": "Песня 2"
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_RECORD_SELECT_02",
+   "key": "559a1900",
+   "ru": "Песня 3"
+  },
+  {
+   "n": 390,
+   "f": 2,
+   "id": "MES_RECORD_SELECT_03",
+   "key": "4b4de558",
+   "ru": "Песня 4"
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "MES_RECORD_SELECT_04",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 392,
+   "f": 2,
+   "id": "MES_RECORD_SELECT_05",
+   "key": "c54ac9a2",
+   "ru": "Сыграть песню."
+  },
+  {
+   "n": 393,
+   "f": 2,
+   "id": "MES_RECORD_FIRST",
+   "key": "94d6b770",
+   "ru": "<SPEED_FAST>Это <BLUE>проигрыватель</BLUE>. Им можно сменить музыку\nв комнате."
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "MES_ANIMAL_LIFT",
+   "key": "f497a349",
+   "ru": "С животным на руках этого лучше не делать."
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "MES_ANIMAL_LIFT_SHOP",
+   "key": "f497a349",
+   "ru": "С животным на руках этого лучше не делать."
+  },
+  {
+   "n": 396,
+   "f": 2,
+   "id": "MES_SELECT_GATSHA_ASK",
+   "key": "60460392",
+   "ru": "Что делать?"
+  },
+  {
+   "n": 397,
+   "f": 2,
+   "id": "MES_SELECT_GATSHA_YES",
+   "key": "1acb2dc3",
+   "ru": "Поднести предмет"
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "MES_SELECT_GATSHA_NO",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 399,
+   "f": 2,
+   "id": "MES_GATSHA_NOIETM",
+   "key": "afd627e3",
+   "ru": "Подними предмет, чтобы рассмотреть."
+  },
+  {
+   "n": 400,
+   "f": 2,
+   "id": "MES_GATSHA_THISTIME_END",
+   "key": "58a8a471",
+   "ru": "Вряд ли это что-то даст."
+  },
+  {
+   "n": 401,
+   "f": 2,
+   "id": "MES_GATSHA_CONVERSION_ITEM",
+   "key": "fc332ee5",
+   "ru": "Получено: <____ITEMNAME0____>."
+  },
+  {
+   "n": 402,
+   "f": 2,
+   "id": "MES_GATSHA_OVER",
+   "key": "5bb5eb41",
+   "ru": "Сначала освободи место в сумке."
+  },
+  {
+   "n": 403,
+   "f": 2,
+   "id": "MES_ANIMALFEED_POINT",
+   "key": "33db36b2",
+   "ru": "Кормушка: <MOJI0>"
+  },
+  {
+   "n": 404,
+   "f": 2,
+   "id": "MES_CHECK_HORSE_RIDE",
+   "key": "6a4312e2",
+   "ru": "Сначала нужно слезть с лошади."
+  },
+  {
+   "n": 405,
+   "f": 2,
+   "id": "MES_CHECK_HORSE_HUT_ASK",
+   "key": "ab7e6f96",
+   "ru": "Что сделать?"
+  },
+  {
+   "n": 406,
+   "f": 2,
+   "id": "MES_CHECK_HORSE_HUT_SELECT_00",
+   "key": "b6eb22cd",
+   "ru": "Позвать: <MOJI0>"
+  },
+  {
+   "n": 407,
+   "f": 2,
+   "id": "MES_CHECK_HORSE_HUT_SELECT_01",
+   "key": "cffa4c52",
+   "ru": "Положить корм"
+  },
+  {
+   "n": 408,
+   "f": 2,
+   "id": "MES_CHECK_HORSE_HUT_SELECT_02",
+   "key": "691af498",
+   "ru": "<CANCEL_SELECT>\r\nНе надо"
+  },
+  {
+   "n": 409,
+   "f": 2,
+   "id": "MES_CHECK_SISTER_FULL_BAG",
+   "key": "92c0c47f",
+   "ru": "Освободи место в сумке и проверь снова."
+  }
+ ]
+}

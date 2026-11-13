@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Maya",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "96c00c4f",
+   "ru": "Привет! Вот так встреча!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "029e9950",
+   "ru": "<NAME_MOB_MAYA>\r\nЗнаки на древних руинах так интригуют."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "cca09cb0",
+   "ru": "<NAME_MOB_MAYA>\r\nПробовать рисовать иероглифы приходилось?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "cbc444c4",
+   "ru": "<NAME_MOB_MAYA>\r\nОбожаю науку. Особенно астрономию."
+  }
+ ]
+}

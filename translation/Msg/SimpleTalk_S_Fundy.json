@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Fundy",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "b3874f63",
+   "ru": "<NAME_MOB_FUNDY>\r\nЯ и сам покупаю, знаешь ли!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "e9f6601c",
+   "ru": "<NAME_MOB_FUNDY>\r\n“Джамбалайя” ― хорошее название, а?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "e0cea897",
+   "ru": "<NAME_MOB_FUNDY>\r\nЛавка открыта утром и вечером."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "87ae3c1a",
+   "ru": "<NAME_MOB_FUNDY>\r\nКаолила такая красавица! Повезло Захау, а?"
+  }
+ ]
+}

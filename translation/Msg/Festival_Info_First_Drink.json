@@ -1,0 +1,61 @@
+{
+ "file": "Festival_Info_First_Drink",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_DRINK_00",
+   "key": "f5bb7375",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nДоброе утро, <_____MYNAME_____>! Прошу прощения!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_DRINK_01",
+   "key": "e53066f3",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>. Как работа на ферме?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_DRINK_02",
+   "key": "2f2353c5",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуй, милая душа. Мы пришли\nрассказать о предстоящем <RED>Празднике напитков</RED>."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_DRINK_03",
+   "key": "625ff255",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nНа Празднике напитков команды вместе готовят\nсамый лучший напиток.\n<PAGE>\nУчастникам говорят, какие продукты принести,\nи из них они делают напиток.\n<PAGE>\nПоэтому от того, с кем объединишься, зависит,\nпобедишь или нет."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_DRINK_04",
+   "key": "dc2b292a",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nА ещё тема напитков зависит от того, какой\nгород устраивает праздник.\n<PAGE>\nВ Уэстауне это чёрный чай, в Цуюкусе ―\nзелёный, а в Лулукоко ― сок."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_DRINK_05",
+   "key": "565f021e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНа этот раз праздник устраивает Уэстаун.\nЗначит, команды будут готовить чёрный чай.\n<PAGE>\nКакие продукты принести, будет написано в\n<RED>календаре</RED>, так что проверь заранее.\n<PAGE>\n...Хотя раз ты участвуешь впервые, я\nподготовлю всё нужное за тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_DRINK_06",
+   "key": "b4d57125",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСледующий Праздник напитков пройдёт <BLUE>4\nосени</BLUE>.\n<PAGE>\nПодходи ко мне на перекрёсток <BLUE>с 10:00 до\n13:00</BLUE>, хорошо?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_DRINK_07",
+   "key": "c22ffeb4",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, это всё! Алоха.\n<PAGE>\n<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>Бывай, <_____MYNAME_____>."
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+{
+ "file": "Love_S_Craftman_5",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_00",
+   "key": "8fcfa679",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nХм-м-м..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_01",
+   "key": "1d6176b1",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nО, привет, <_____MYNAME_____>.\n<PAGE>\nЯ тут думал. Почему-то клиенты совсем\nперестали приходить ко мне в мастерскую."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_02",
+   "key": "776c0969",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПытаюсь понять почему, но никак не\nскладывается.\n<PAGE>\nВ основном у меня ремонт, так если работы\nнет, значит, ничего не ломается?\n<PAGE>\nИли люди не приходят, потому что недовольны\nмоей работой? Такого тоже нельзя исключать."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_03",
+   "key": "2d346d3c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nА? Ну да, можно просто пойти и спросить.\n<PAGE>\nХорошая мысль. И с компанией я буду только\nрад!\n<PAGE>\nПоследние заказы были от Илуки, бабули и...\nЗахау, кажется.\n<PAGE>\nПожалуй, с них и начнём."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_04",
+   "key": "6164ef2b",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nНу надо же! Да это же <_____MYNAME_____> и Лудус.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>Хм. Гляньте, кто пришёл.\n<PAGE>\nОт всей этой воркующей розовости вокруг вас\nдвоих розовый цвет разлюбить можно...\n<PAGE>\n<FACE_LOSS>...но сейчас-то всё не так, да?\n<PAGE>\nНаоборот, ауры у вас куда тусклее и серее, чем\nу счастливой новой парочки.\n<PAGE>\nЧто случилось?\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Ты и бабуля здесь. Хорошо."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_05",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_06",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_07",
+   "key": "8a0037c9",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nПоследние несколько дней клиенты совсем\nперестали ко мне приходить. Вы не знаете\nпочему?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_08",
+   "key": "db084271",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nБез понятия. Нам-то откуда знать? Может, ты\nпросто стал хуже работать?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_09",
+   "key": "d00be02e",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nНу-ну. Всякое бывает.\n<PAGE>\nНо оставим это пока... <_____MYNAME_____>, у вас с Лудусом всё\nхорошо?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_10",
+   "key": "638bf3c2",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nВот как, вот как. Как приятно слышать.\n<PAGE>\nХвалить родных ― всё равно что хвастаться,\nно ведь Лудус хороший человек, правда?\n<PAGE>\n<FACE_LAUGH>Он же мой любимый внук! Я своими руками\nрастила его, чтобы он стал лучшим мужчиной,\nкаким только может быть."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_11",
+   "key": "1ef6fb66",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТолько этот любимый внук, которым ты так\nгордишься, затащил <_____MYNAME_____> к себе в комнату... ЕЩЁ\nДО того, как они начали встречаться."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_12",
+   "key": "87643071",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_SAD>\r\nЧто ж, полагаю, это было не очень-то\nпо-джентльменски, правда, Илука?\n<PAGE>\nВы ведь дружите с детства. Может, тебе\nстоило получше научить его, как обращаться с\nдамой."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_13",
+   "key": "f6d0faba",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\n“Своими руками растила”. Хмф."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_14",
+   "key": "c3ebeb38",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>, пойдём, а? Если оставаться тут, нарвёмся на\nнеприятности сразу с нескольких сторон.\n<PAGE>\nСходим к Захау. Может, он что-то знает."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_15",
+   "key": "1b768b10",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, Лудус! <_____MYNAME_____>! У вас свидание? Свидание, да? Я\nже вижу."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_16",
+   "key": "9a5014fa",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nЭ-э, нет. Это не свидание.\n<PAGE>\nПоследние несколько дней ко мне в мастерскую\nникто не заходил."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_17",
+   "key": "da2c4c77",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nНе знаешь почему? Хоть какие-нибудь слухи..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_18",
+   "key": "38c2b9da",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_LAUGH>\r\nА? Ты не знаешь? Видишь ли..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_19",
+   "key": "459ec5a6",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_ANGRY>\r\nАЙ!! Ой-ой-ой-ой!!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_20",
+   "key": "8295d446",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_ANGRY>\r\nКаолила! За что?\n<PAGE>\n<FACE_NORMAL>О-о-ох.\n<PAGE>\n<FACE_FISHERWIFE><POS_RIGHT><FACE_ANGRY>...\n<PAGE>\n<FACE_FISHER><POS_LEFT><FACE_SAD>Э кала маи."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_21",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_22",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_23",
+   "key": "b4202ed3",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nУ вас ведь свидание, правда?\n<PAGE>\n<FACE_NORMAL>Тогда зачем тут торчать? Лудус, будь\nджентльменом и своди её куда-нибудь, где\nвесело и романтично."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_24",
+   "key": "a746c933",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>\r\nЭ-э... Ладно."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_25",
+   "key": "0e4e70b1",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nА-а-ах...\n<PAGE>\nКажется, я начинаю понимать."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_26",
+   "key": "43332f80",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nЕсли я прав, то, похоже, всё складывается..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_27",
+   "key": "cee12126",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nО, алоха, Шальк и Альма.\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>Алоха!\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_ANGRY>Ой, погоди, дедушка Хаулани. Ты к Лудусу по\nделу?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_28",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_29",
+   "key": "a66c3855",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nХо-хо-хо! Да, по делу. А что, нельзя?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_30",
+   "key": "8053d574",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_ANGRY>\r\nНельзя! Сейчас его нельзя беспокоить!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_31",
+   "key": "a8dd4b4f",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nАга! У Лудуса наконец появилась девушка, так\nчто никто не должен ему мешать!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_32",
+   "key": "86626096",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nЛудус всегда всем помогает! Теперь наша\nочередь отплатить!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_33",
+   "key": "a6cbb28e",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nО-хо! Это верно. Как-то я не подумал.\n<PAGE>\nМоя просьба не такая уж срочная, так что\nпопрошу его помочь в другой раз. Хо-хо!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_34",
+   "key": "9869fe48",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nАга! Так и сделай!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_35",
+   "key": "93f7ab97",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nМахало, дедушка Хаулани! ♪"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_36",
+   "key": "f0c44144",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nАга! Так я и думал!\n<PAGE>\n<FACE_LAUGH>Ох уж эта мелюзга! Любят они совать нос в\nчужие дела, когда хотят."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_37",
+   "key": "0e8663ac",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНо они ведь здорово постарались...\n<PAGE>\nНу что ж. Работы у меня, может, и нет, но\nблагодаря им я провёл время с тобой.\n<PAGE>\nТак что, пожалуй, я им благодарен."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_5_38",
+   "key": "3c9139fb",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nВ общем... Раз работы всё равно нет, может,\nсходим на свидание?\n<PAGE>\nВесь город нам будто велит. Кто мы такие,\nчтобы отказываться?"
+  }
+ ]
+}

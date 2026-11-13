@@ -1,0 +1,54 @@
+{
+ "file": "System_PartTime_Catch",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CATCH_START_FisherWife",
+   "key": "aca9902e",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что пришли, <_____MYNAME_____>. Очень благодарна за\nпомощь с <BLUE>рыболовными ловушками</BLUE>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CATCH_RECEIVE_FisherWife",
+   "key": "84325f86",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nО, как быстро! Оставьте всё прямо здесь."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CATCH_MONEY_FisherWife",
+   "key": "c6a106a5",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Вот, держите оплату."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CATCH_ITEM_FisherWife",
+   "key": "0af42b0a",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nО да! Хочу дать вам ещё небольшую премию.\nНе стесняйтесь. Берите!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CATCH_END_FisherWife",
+   "key": "c8e7d6d2",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nРада, что на вас можно положиться! Махало!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CATCH_FREE",
+   "key": "89de30c5",
+   "ru": "Взята подработка: <BLUE>опустошить рыболовные\nловушки</BLUE>!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_CATCH_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  }
+ ]
+}

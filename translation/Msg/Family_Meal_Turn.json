@@ -1,0 +1,3463 @@
+{
+ "file": "Family_Meal_Turn",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_01",
+   "key": "a2ef74d0",
+   "ru": "Поедим?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_02",
+   "key": "bbc0d085",
+   "ru": "Да, пора есть!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_03",
+   "key": "085b28ff",
+   "ru": "Не, попозже"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_04",
+   "key": "6217a933",
+   "ru": "Кто будет готовить?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_05",
+   "key": "f1a42e1a",
+   "ru": "Я приготовлю!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_06",
+   "key": "66d4ac1a",
+   "ru": "Пусть готовит <CHARANAME0>"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_07",
+   "key": "851b5ca2",
+   "ru": "(Рановато. Обед начинается в <BLUE>11:00</BLUE>.)"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_08",
+   "key": "4f04d796",
+   "ru": "(Рановато. Ужин начинается в <BLUE>18:00</BLUE>.)"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_09",
+   "key": "2192441b",
+   "ru": "(Уже поздно начинать готовить. Подожду до\nзавтра.)"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_10",
+   "key": "ca1fcf3d",
+   "ru": "(Ещё сыто после обеда. Немного подожду.)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_11",
+   "key": "361c68f7",
+   "ru": "(Ещё сыто после ужина. Подожду до завтра.)"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_CHECK_TABLE_MYHOUSE_12",
+   "key": "bd5a577a",
+   "ru": "(Всей семьёй не поесть, когда кто-то болеет.\nПридётся подождать.)"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_00",
+   "key": "a804b7d4",
+   "ru": "(Начну с одного блюда. Что бы приготовить?)"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_01",
+   "key": "ac0d01eb",
+   "ru": "Готовить по рецепту"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_02",
+   "key": "3c74d2c2",
+   "ru": "Взять готовую еду"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_03",
+   "key": "430e10a2",
+   "ru": "(<BLUE><____ITEMNAME0____></BLUE> готово! Надо сделать ещё и гарнир!)"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_Postman",
+   "key": "10acb946",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nТы уже решила, что будет сегодня на столе?\nЕсли нет, я был бы очень рад, если бы ты\nприготовила <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_Postman",
+   "key": "42b6fbb2",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Налетаем!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_Postman",
+   "key": "c5dea95d",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за угощение, дорогая."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_Postman",
+   "key": "f36eaf01",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nОбъедение! Ну ты и повар, <_____MYNAME_____>."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_Postman",
+   "key": "11329527",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЭто ПОТРЯСА-А-АЮЩЕ! Наверное, я самый\nвезучий парень на свете, раз женился на такой\nмастерице."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_Postman",
+   "key": "572b25d8",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nВот это обед. Просто объедение!\n<PAGE>\nНадеюсь, хватит на добавку, я бы ещё не\nотказался."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_Postman",
+   "key": "202f3886",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nО, ты приготовила <BLUE><____ITEMNAME0____></BLUE>! М-м-м! Моё любимое!\nСпасибо, дорогая. Простишь, если объемся,\nха-ха?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Postman",
+   "key": "653966e6",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nО, ты приготовила <BLUE><____ITEMNAME0____></BLUE>? М-м-м! Моё любимое!\n<PAGE>\nЭто ты специально к моему дню рождения? Ох,\nну ты даёшь. Простишь, если объемся, ха-ха."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Postman",
+   "key": "448bb7ba",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nО, ты приготовила <BLUE><____ITEMNAME0____></BLUE>? М-м-м! Моё любимое!\n<PAGE>\nЭто ты специально к нашей годовщине? Ох, ну\nты даёшь. Простишь, если объемся, ха-ха."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Postman",
+   "key": "f463b926",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nО, ты приготовила именно то, что я просил!\nСпасибо, <_____MYNAME_____>. Наверное, я сейчас улыбаюсь до\nушей, как дурачок."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_Postman",
+   "key": "1b47ecdc",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nБудет сделано! Пожалуй, пора браться за дело."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_Postman",
+   "key": "51ee4bc7",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХм, что бы приготовить? У тебя есть особые\nпожелания, <_____MYNAME_____>?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Postman",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Postman",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Postman",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_OK_Postman",
+   "key": "37c3c542",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nКонечно. Приготовлю такой обед, что ты\nбудешь гордиться."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_Postman",
+   "key": "2b32b8c3",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nПрости, что заставил подождать. Всё готово,\nналетай!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_Postman",
+   "key": "008d6a33",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу вот и всё!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_00_Postman",
+   "key": "1ed6bcff",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПока жил один, я, похоже, неплохо научился\nготовить, но...\n<PAGE>\nПонимаю, моя стряпня может прийтись не всем\nпо вкусу.\n<PAGE>\nЕсли что-то не нравится ― размер порций,\nспеции, что угодно ― смело говори.\n<PAGE>\n<FACE_LAUGH>Я ведь теперь готовлю не только для себя.\nХочу, чтобы моя еда радовала тебя так же, как\nты радуешь меня."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_01_Postman",
+   "key": "1b7a7931",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсть куча причин, почему я счастлив быть\nтвоим мужем, но прямо сейчас...\n<PAGE>\nОдна из главных ― то, что за едой твоя\nчудесная улыбка достаётся только мне.\n<PAGE>\n<FACE_LAUGH>Хм? Что такое? Ты перестала есть.\nПокраснела? Ха-ха, ну до чего же ты милая."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_02_Postman",
+   "key": "2ae247a3",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nАй! Чёрт... прикусил щёку...! Даже хрустнуло..."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_03_Postman",
+   "key": "07f3f1c8",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>...? Скажи “а-а-а”!\n<PAGE>\n<FACE_LAUGH>Ха-ха-ха! Удивил? Прости, прости. Иногда\nпросто не могу удержаться и не подурачиться,\nпонимаешь?"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_04_Postman",
+   "key": "0f8c0d67",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nО чём задумалась? Ты уже давно на меня\nсмотришь.\n<PAGE>\nНичего не можешь поделать? Ясно. Я не\nпротив, но если будешь так пристально\nсмотреть, может выйти неловко.\n<PAGE>\n<FACE_LOVE>Ещё забуду, что мы едим, и придётся подойти\nтебя поцеловать..."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_05_Postman",
+   "key": "fdefff08",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКак же здорово есть всей семьёй."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_06_Postman",
+   "key": "fdefff08",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКак же здорово есть всей семьёй."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_07_Postman",
+   "key": "fdefff08",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКак же здорово есть всей семьёй."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_08_Postman",
+   "key": "fdefff08",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКак же здорово есть всей семьёй."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_09_Postman",
+   "key": "fdefff08",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКак же здорово есть всей семьёй."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Postman",
+   "key": "f5f6e786",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_ANGRY>Эй, я понимаю, тебе много чего хочется\nрассказать, но с набитым ртом не\nразговаривают.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, папа...\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Вот и молодец. Мой сынок!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе-хе! ♪"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Postman",
+   "key": "5935484e",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу-ка, <CHILD_NAME>, не привередничай. Ты ведь хочешь\nвырасти большим и здоровым?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага! Буду много есть и вырасту большим и\nсильным! А потом женюсь на маме! ♪\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Ну вот, у меня появился серьёзный соперник!\nНо без боя я <_____MYNAME_____> не отдам! Ха-ха!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Postman",
+   "key": "6f045894",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, папа? В начале или в конце?\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Хм, раз уж ты спросил, я тоже оставляю\nлюбимое напоследок. Совсем как ты, <CHILD_NAME>.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ух ты! Мы одинаковые! Хе-хе!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Postman",
+   "key": "9c35b92c",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь попробовать, да? Скажи “а-а-а”, <CHILD_NAME>!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ха-ха! Вкусно! Теперь я покормлю маму! Скажи\n“а-а-а”!\n<PAGE>\nХе-хе-хе. Теперь твоя очередь, мама!\nПокорми папу!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LOVE>Ну, *глоть*, вкусно, конечно, но в моём\nвозрасте немного неловко...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Папа! Мама! У вас лица красные! Как клубника!\nКакие вы смешные!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Postman",
+   "key": "635fb2ac",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, ты весь перемазался. Давай-ка я тебя вытру.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, папа!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>Не за что... Хм? <_____MYNAME_____>, у тебя тоже еда на лице!\n<PAGE>\n<FACE_LAUGH>Ха-ха-ха! Теперь ясно, в кого он такой! Иди\nсюда, <_____MYNAME_____>. И тебя вытру."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Postman",
+   "key": "6da8718c",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_ANGRY>Эй, я понимаю, тебе много чего хочется\nрассказать, но с набитым ртом не\nразговаривают.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, папа...\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Вот и умница! Хорошая девочка.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи! ♪"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Postman",
+   "key": "2e0bd9bd",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу-ка, <CHILD_NAME>, не привередничай. Ты ведь хочешь\nвырасти большой и здоровой?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага! Буду много есть и быстро вырасту! А\nпотом выйду за тебя замуж, папа! <RED>∀</RED>\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Ну, что будешь делать, <_____MYNAME_____>? У тебя соперница!\nВидно, придётся за меня побороться, ха-ха.\nШучу."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Postman",
+   "key": "66343507",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, папа? В начале или в конце?\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Хм, раз уж ты спросила, я тоже оставляю\nлюбимое напоследок. Совсем как ты, <CHILD_NAME>.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ух ты! Мы одинаковые! Хи-хи!"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Postman",
+   "key": "825c9329",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь попробовать, да? Скажи “а-а-а”, <CHILD_NAME>!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ха-ха! Вкусно! Теперь я покормлю маму! Скажи\n“а-а-а”!\n<PAGE>\nХи-хи! Теперь твоя очередь, мама! Покорми\nпапу!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LOVE>Ну, *глоть*, вкусно, конечно, но в моём\nвозрасте немного неловко...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Папа! Мама! У вас лица красные! Как клубника!\nКакие вы смешные!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Postman",
+   "key": "0030b669",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, ты вся перемазалась. Давай-ка я тебя вытру.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, папа!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>Не за что... Хм? <_____MYNAME_____>, у тебя тоже еда на лице!\n<PAGE>\n<FACE_LAUGH>Ха-ха-ха! Теперь ясно, в кого она такая! Иди\nсюда, <_____MYNAME_____>. И тебя вытру."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_MEALDEMO_REQUEST_COMMENT_Postman",
+   "key": "3df1060f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКак тебе <BLUE><____ITEMNAME0____></BLUE>, которое ты просила, <_____MYNAME_____>? Надеюсь,\nнравится!"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Postman",
+   "key": "f70b7272",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНу что! Готова к насыщенному дню, <_____MYNAME_____>?"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_Postman",
+   "key": "1a720dac",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nКак же здорово есть всей семьёй. Сразу хочется\nработать дальше."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_Postman",
+   "key": "f6c49b18",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nСегодня был отличный день. Хорошая работа\nзаслуживает хорошего отдыха, так что давай\nвечером не будем спешить."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Postman",
+   "key": "f70b7272",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНу что! Готова к насыщенному дню, <_____MYNAME_____>?"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_LUNCH_Postman",
+   "key": "1a720dac",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nКак же здорово есть всей семьёй. Сразу хочется\nработать дальше."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_DINNER_Postman",
+   "key": "f6c49b18",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nСегодня был отличный день. Хорошая работа\nзаслуживает хорошего отдыха, так что давай\nвечером не будем спешить."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_Doctor",
+   "key": "c78144dc",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТы уже определилась с сегодняшним меню? Я\nбыл бы очень рад, если бы ты приготовила <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_Doctor",
+   "key": "e1ac5a09",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Пора есть."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_Doctor",
+   "key": "8a9a3f50",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, думаю, я более чем сыт."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_Doctor",
+   "key": "e3fabd3e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм, неплохо. Не выдающееся, заметь, но,\nпохоже, весьма... питательно."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_Doctor",
+   "key": "26f03a48",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nДаже из тех же продуктов я не приготовил бы\nничего подобного. Твоё кулинарное мастерство\nпоистине замечательно."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_Doctor",
+   "key": "651e94d9",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nНадо же! Это не просто вкусно. Я бы даже\nсказал ― великолепно. Можно добавки?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_Doctor",
+   "key": "6977ff96",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nО, я выгляжу довольным? Что ж, ты\nприготовила моё любимое блюдо, так что,\nполагаю, это естественно."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Doctor",
+   "key": "ec114a10",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nО, я выгляжу довольным?\n<PAGE>\nЧто ж, ты приготовила моё любимое блюдо на\nмой день рождения, так что, полагаю, это\nестественно."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Doctor",
+   "key": "294815e3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nО, я выгляжу довольным?\n<PAGE>\nЧто ж, ты приготовила моё любимое блюдо на\nнашу годовщину, так что, полагаю, это\nестественно."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Doctor",
+   "key": "75b8dbd2",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nА, ты приготовила блюдо, которое я просил.\n<PAGE>\nХм? Ты хотела меня порадовать?\n<PAGE>\nВ таком случае ты справилась превосходно. От\nтвоих слов и этого обеда я счастлив так, что не\nвыразить словами.\n<PAGE>\nСпасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_Doctor",
+   "key": "4e5a51e6",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВ таком случае мне пора браться за дело."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_Doctor",
+   "key": "645805bd",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХотелось бы узнать твоё мнение о сегодняшнем\nменю. Есть особые пожелания?"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Doctor",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Doctor",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Doctor",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_OK_Doctor",
+   "key": "b84cc244",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПонял. Обязательно это учту."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_Doctor",
+   "key": "511ee51c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nЭтот обед должен тебя устроить. Приступим."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_Doctor",
+   "key": "aa9d4763",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВот и всё, я закончил."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_00_Doctor",
+   "key": "b82e53ec",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nДо свадьбы я понимал, что нормальное питание\n― важная часть повседневной жизни, но...\n<PAGE>\nМеня больше заботила польза, чем вкус.\n<PAGE>\n<FACE_LAUGH>Но теперь я понял... Я хочу готовить еду,\nкоторая вызывает у тебя улыбку, а не просто\nснабжает организм питательными веществами.\n<PAGE>\nТак что если моя стряпня начала меняться,\nтеперь ты знаешь почему."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_01_Doctor",
+   "key": "c569d408",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nС тех пор как мы стали есть вместе, я понял,\nкак безрадостно есть в одиночестве.\n<PAGE>\n<FACE_LAUGH>И я очень полюбил этот стол, за которым мы\nсидим.\n<PAGE>\nПоэтому, как бы я ни был занят, я постараюсь,\nчтобы мы ели вместе как можно чаще."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_02_Doctor",
+   "key": "9a4449b1",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, в нашем теле дыхательный путь и\nпищевой проход находятся совсем рядом.\n<PAGE>\nНе задумываясь, после того как мы вдохнули\nили проглотили...\n<PAGE>\n...организм сам выбирает правильный путь. Это\nодна из самых удивительных особенностей\nчеловеческого тела.\n<PAGE>\n<FACE_SAD>Кха, кхм. *кашель* Не в то... горло...\n*кашель*\n<PAGE>\nОх. Что ж, такое иногда случается, если\nговорить за столом, но в целом организм\nделает правильный выбор."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_03_Doctor",
+   "key": "430361c0",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>? И что мне с этим делать? Ты же не\nсобираешься меня кормить?\n<PAGE>\n<FACE_LOSS>Ох, ну ладно. Раз ты так настаиваешь, выбора у\nменя нет.\n<PAGE>\n<FACE_NORMAL>А-а-а...!\n<PAGE>\n<FACE_LOVE>Но... чего ты добиваешься, вгоняя меня в\nкраску...?"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_04_Doctor",
+   "key": "69d6a8d6",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось? Ты давно на меня\nсмотришь. Глаз не можешь отвести? Хм? О? У\nменя еда на щеке?\n<PAGE>\n<FACE_LOVE>Понятно. Как глупо с моей стороны. Что ж, раз\nэто видишь только ты, полагаю, ничего\nстрашного."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_05_Doctor",
+   "key": "e8ef980c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЕсть всей семьёй весьма бодрит."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_06_Doctor",
+   "key": "e8ef980c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЕсть всей семьёй весьма бодрит."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_07_Doctor",
+   "key": "e8ef980c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЕсть всей семьёй весьма бодрит."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_08_Doctor",
+   "key": "e8ef980c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЕсть всей семьёй весьма бодрит."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_09_Doctor",
+   "key": "e8ef980c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЕсть всей семьёй весьма бодрит."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Doctor",
+   "key": "9f62dbd8",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY><CHILD_NAME>, тебе следует знать, что с набитым ртом не\nразговаривают.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, папа...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>Гораздо лучше. Если умеешь признавать и\nисправлять ошибки, вырастешь достойным\nмолодым человеком, <CHILD_NAME>.\n<PAGE>\n<FACE_NORMAL>Ах, какой у нас умный сын. Я не льщу ему, <_____MYNAME_____>.\nЭто просто неоспоримый факт."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Doctor",
+   "key": "1b84d4c3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНе привередничай, <CHILD_NAME>. Чтобы вырасти, нужно\nесть всё и питаться сбалансированно.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага! Буду много есть и вырасту большим! А\nпотом женюсь на маме! ♪\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>Недопустимо!\n<PAGE>\n<_____MYNAME_____> уже моя жена. Я отказываюсь её уступать.\n<PAGE>\nПостой... Не говоря уже о том, что... вы\nкровные родственники...\n<PAGE>\nХм? Что такое, <_____MYNAME_____>? Почему ты так смеёшься?"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Doctor",
+   "key": "f4f85ba1",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, папа? В начале или в конце?\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Что ж, обычно я за этим не слежу, но если\nподумать... пожалуй, в конце.\n<PAGE>\nНе очень приятно оставлять напоследок то, что\nне любишь.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Эм, я не понял, о чём ты, но я рад, что мы\nодинаковые, папа!"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Doctor",
+   "key": "5851e668",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nПапа! Скажи “а-а-а”!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Знаешь, мне такое не очень даётся...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ну же, папа! Скажи “а-а-а”! Видишь, мама\nсказала. Теперь ты, папа!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Ох, ну ладно. А-а-а!\n<PAGE>\n<FACE_LOVE>В чём-то вы двое очень похожи... Обоим\nнравится вгонять меня в краску...!"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Doctor",
+   "key": "3b8d9c37",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя всё лицо в еде. Вот, всё чисто.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, папа!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Не за что... О? И у тебя тоже, <_____MYNAME_____>?\n<PAGE>\n<FACE_LAUGH>Хм. Вы двое похожи в самых неожиданных\nмелочах...\n<PAGE>\nДавай и тебя вытру."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Doctor",
+   "key": "d090d2c6",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY><CHILD_NAME>, тебе следует знать, что с набитым ртом не\nразговаривают.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, папа...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>Гораздо лучше. Если умеешь признавать и\nисправлять ошибки, вырастешь достойной\nюной леди, <CHILD_NAME>.\n<PAGE>\n<FACE_NORMAL>Ах, какая у нас умная дочь. Я не льщу ей, <_____MYNAME_____>. Это\nпросто неоспоримый факт."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Doctor",
+   "key": "97c2a403",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНе привередничай, <CHILD_NAME>. Чтобы вырасти, нужно\nесть всё и питаться сбалансированно.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ага! Буду много есть и вырасту большой! А\nпотом выйду за тебя замуж, папа! <RED>∀</RED>\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>Недопустимо!\n<PAGE>\nМне приятно, что ты меня так любишь, но я\nмуж <_____MYNAME_____>...\n<PAGE>\nПостой... Не говоря уже о том, что... мы\nкровные родственники...\n<PAGE>\nХм? Что такое, <_____MYNAME_____>? Почему ты так смеёшься?"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Doctor",
+   "key": "f4f85ba1",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, папа? В начале или в конце?\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Что ж, обычно я за этим не слежу, но если\nподумать... пожалуй, в конце.\n<PAGE>\nНе очень приятно оставлять напоследок то, что\nне любишь.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Эм, я не поняла, о чём ты, но я рада, что мы\nодинаковые, папа!"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Doctor",
+   "key": "a08f0936",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПапа! Скажи “а-а-а”!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Знаешь, мне такое не очень даётся...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ну же, папа! Скажи “а-а-а”! Видишь, мама\nсказала. Теперь ты, папа!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Ох, ну ладно. А-а-а!\n<PAGE>\n<FACE_LOVE>Яблочко от яблоньки... Вам обеим определённо\nнравится вгонять меня в краску...!"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Doctor",
+   "key": "3b8d9c37",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя всё лицо в еде. Вот, всё чисто.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, папа!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Не за что... О? И у тебя тоже, <_____MYNAME_____>?\n<PAGE>\n<FACE_LAUGH>Хм. Вы двое похожи в самых неожиданных\nмелочах...\n<PAGE>\nДавай и тебя вытру."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_MEALDEMO_REQUEST_COMMENT_Doctor",
+   "key": "e27f4bb9",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nКак тебе <BLUE><____ITEMNAME0____></BLUE>? Надеюсь, соответствует твоим\nстандартам."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Doctor",
+   "key": "80887528",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nСегодня должен быть хороший день. Будем\nусердно трудиться и беречь здоровье.\n<PAGE>\n<FACE_LAUGH>Конечно, если почувствуешь недомогание или\nусталость, обязательно скажи. Нам нужно быть\nв лучшей форме."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_Doctor",
+   "key": "3afc7cc8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПосле обеда легко расслабиться, но именно\nтогда и нужно сохранять бодрость.\nПостараемся и во второй половине дня."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_Doctor",
+   "key": "fd110bc4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nТы закончила с работой на сегодня?\n<PAGE>\nЕсли да, то, возможно, мы могли бы провести\nвремя как муж и жена продуктивно...\n<PAGE>\n<FACE_LOVE>Нет, я не совсем это имел в виду.\n<PAGE>\nЯ хочу сказать, что хочу проводить с тобой как\nможно больше времени. Надеюсь, ты согласна."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Doctor",
+   "key": "80887528",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nСегодня должен быть хороший день. Будем\nусердно трудиться и беречь здоровье.\n<PAGE>\n<FACE_LAUGH>Конечно, если почувствуешь недомогание или\nусталость, обязательно скажи. Нам нужно быть\nв лучшей форме."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_LUNCH_Doctor",
+   "key": "3afc7cc8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПосле обеда легко расслабиться, но именно\nтогда и нужно сохранять бодрость.\nПостараемся и во второй половине дня."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_DINNER_Doctor",
+   "key": "fd110bc4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nТы закончила с работой на сегодня?\n<PAGE>\nЕсли да, то, возможно, мы могли бы провести\nвремя как муж и жена продуктивно...\n<PAGE>\n<FACE_LOVE>Нет, я не совсем это имел в виду.\n<PAGE>\nЯ хочу сказать, что хочу проводить с тобой как\nможно больше времени. Надеюсь, ты согласна."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_Chaser",
+   "key": "bbf9234c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, может, приготовишь сегодня <BLUE><____ITEMNAME0____></BLUE>?\n<PAGE>\n<FACE_LAUGH>Мне очень хочется именно <BLUE><____ITEMNAME0____></BLUE>, ха-ха."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_Chaser",
+   "key": "4910dba7",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПоедим?"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_Chaser",
+   "key": "5d189a9d",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за чудесный обед."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_Chaser",
+   "key": "cc9d7153",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо за вкусную еду, <_____MYNAME_____>."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_Chaser",
+   "key": "7d0adffb",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЭто потрясающе вкусно! Мне так повезло, что я\nкаждый день ем такую еду."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_Chaser",
+   "key": "b062e43f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nНевероятно вкусно, <_____MYNAME_____>! Чтобы так готовить,\nнужно настоящее мастерство."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_Chaser",
+   "key": "81625801",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо, что приготовила <BLUE><____ITEMNAME0____></BLUE>. Это моё\nлюбимое!"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Chaser",
+   "key": "2d305b9a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо, что приготовила <BLUE><____ITEMNAME0____></BLUE> на мой\nдень рождения!\n<PAGE>\nЭто моё любимое!"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Chaser",
+   "key": "be2b6ddd",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо, что приготовила <BLUE><____ITEMNAME0____></BLUE> на\nгодовщину нашей свадьбы!\n<PAGE>\nЭто моё любимое!"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Chaser",
+   "key": "2430a021",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nО, ты приготовила <BLUE><____ITEMNAME0____></BLUE>, как я и просил!\n<PAGE>\nНе терпится попробовать! Огромное спасибо!"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_Chaser",
+   "key": "27fcd04f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nБез проблем. Пора браться за дело."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_Chaser",
+   "key": "033c820a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>? Хочется съесть что-нибудь особенное?"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Chaser",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Chaser",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Chaser",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_OK_Chaser",
+   "key": "b3fef6a0",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nКонечно. Я приготовлю обед, а ты пока\nотдохни."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_Chaser",
+   "key": "7acc19df",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВот! Давай есть, пока всё свежее и горячее."
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_Chaser",
+   "key": "5018149a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nФух! Наелся."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_00_Chaser",
+   "key": "c66fe98f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nБлюда, которые я готовлю, ― в основном\nрецепты бабушки. Сначала я учился, чтобы\nпомогать ей...\n<PAGE>\nА теперь могу порадовать и тебя.\n<PAGE>\n<FACE_LAUGH>Почему-то от этого еда кажется ещё вкуснее\n― то, чему научил один дорогой человек,\nрадует другого, не менее дорогого."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_01_Chaser",
+   "key": "e64b7d74",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПосле помолвки я стал брать кулинарные книги\nу друзей из других городов.\n<PAGE>\nХотел узнать, какие культуры ты можешь\nвыращивать и какие блюда из них готовить...\n<PAGE>\nИ надеялся, что эти знания помогут тебе.\n<PAGE>\n<FACE_LAUGH>Мне ещё многому надо учиться, до тебя\nдалеко, но я обещаю стараться!"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_02_Chaser",
+   "key": "34bb1455",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_SAD>\r\nА-а-апчхи!\n<PAGE>\n*шмыг* Простите! Хм, может, это значит, что\nкто-то обо мне говорит?"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_03_Chaser",
+   "key": "1e85def7",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>...? Скажи “а-а-а”!\n<PAGE>\nХе-хе. Испугалась? Прости. Иногда за едой\nпросто не могу удержаться, чтобы тебя не\nподразнить."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_04_Chaser",
+   "key": "90a2cce7",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nСлушай, что-то не так? Ты так долго на меня\nсмотришь... Признаюсь, немного неловко!\n<PAGE>\nХм? Хочешь меня смутить? Ну ты и\nпроказница!\n<PAGE>\nЯ тоже умею проказничать! Буду смотреть на\nтебя и не перестану, как бы ты ни смущалась!"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_05_Chaser",
+   "key": "98d33b05",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКак приятно есть всей семьёй."
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_06_Chaser",
+   "key": "98d33b05",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКак приятно есть всей семьёй."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_07_Chaser",
+   "key": "98d33b05",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКак приятно есть всей семьёй."
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_08_Chaser",
+   "key": "98d33b05",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКак приятно есть всей семьёй."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_09_Chaser",
+   "key": "98d33b05",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКак приятно есть всей семьёй."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Chaser",
+   "key": "2b3e71c1",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_ANGRY><CHILD_NAME>, с набитым ртом правда не стоит\nразговаривать.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, папа...\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Так-то лучше! Хороший мальчик.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе-хе. ♪"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Chaser",
+   "key": "4651868b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТы что, привередничаешь, <CHILD_NAME>? Надо хорошо есть,\nчтобы вырасти сильным и здоровым.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и вырасту\nбольшим! А потом женюсь на маме! ♪\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LOSS>Ох, батюшки. Вот это будет проблема, <CHILD_NAME>.\nХорошо питаться ― это правильно, но, к\nсожалению...\n<PAGE>\n<FACE_NORMAL><_____MYNAME_____> уже моя драгоценная жена, так что жениться\nна ней тебе, боюсь, нельзя, <CHILD_NAME>. Извини."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Chaser",
+   "key": "99007546",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, папа? В начале или в конце?\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Хм-м... дай подумать... Пожалуй, в конце.\n<PAGE>\nДавным-давно мне приходилось пить очень\nгорькое лекарство, а после мне давали\nсладости в награду.\n<PAGE>\nНаверное, привычка награждать себя чем-то\nвкусным так и осталась.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ура! Значит, мы одинаковые!"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Chaser",
+   "key": "f75c91aa",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПапа, покорми меня!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL> Хорошо! Любишь ты внимание, а?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе-хе! Еда ещё вкуснее, когда тебя кормит\nтот, кого любишь! ♪\n<PAGE>\nПридумал, папа! Пусть мама тебя покормит!\nСкажи “а-а-а”!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>А? Ну, ладно... А-а-а!\n<PAGE>\n<FACE_LOVE>Слушай, а ведь правда. Гораздо вкуснее. Но...\nнемножко неловко.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Папа! Мама! У вас лица красные! Как клубника!\nКакие вы смешные!"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Chaser",
+   "key": "3d8e578f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, ты весь перемазался. Вот так, теперь\nчистенький.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, папа!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Пожалуйста... Хм? <_____MYNAME_____>, у тебя тоже еда на лице!\nА, и у меня?\n<PAGE>\n<FACE_LAUGH>Ха-ха-ха! Что ж, похоже, мы все одинаковые,\nправда?\n<PAGE>\nТогда я вытру тебя, <_____MYNAME_____>. А ты, пожалуйста, вытри\nменя."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Chaser",
+   "key": "e06b277e",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_ANGRY><CHILD_NAME>, с набитым ртом правда не стоит\nразговаривать.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, папа...\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Так-то лучше! Хорошая девочка.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи! ♪"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Chaser",
+   "key": "cafd224d",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТы что, привередничаешь, <CHILD_NAME>? Надо хорошо есть,\nчтобы вырасти сильной и красивой.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом выйду за тебя замуж, папа! ♪\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LOSS>Ох, батюшки. Это... будет проблема, но\nспасибо. Мне очень лестно, <CHILD_NAME>."
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Chaser",
+   "key": "cb642a73",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, папа? В начале или в конце?\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Хм-м... дай подумать... Пожалуй, в конце. Мне\nприходилось пить очень горькое лекарство, а\nпосле мне давали сладости в награду.\n<PAGE>\nНаверное, привычка награждать себя чем-то\nвкусным так и осталась.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ура! Значит, мы одинаковые!"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Chaser",
+   "key": "f75c91aa",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПапа, покорми меня!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL> Хорошо! Любишь ты внимание, а?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи! Еда ещё вкуснее, когда тебя кормит\nтот, кого любишь! ♪\n<PAGE>\nПридумала, папа! Пусть мама тебя покормит!\nСкажи “а-а-а”!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>А? Ну, ладно... А-а-а!\n<PAGE>\n<FACE_LOVE>Слушай, а ведь правда. Гораздо вкуснее. Но...\nнемножко неловко.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Папа! Мама! У вас лица красные! Как клубника!\nКакие вы смешные!"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Chaser",
+   "key": "3d8e578f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, ты вся перемазалась. Вот так, теперь\nчистенькая.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, папа!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Пожалуйста... Хм? <_____MYNAME_____>, у тебя тоже еда на лице!\nА, и у меня?\n<PAGE>\n<FACE_LAUGH>Ха-ха-ха! Что ж, похоже, мы все одинаковые,\nправда?\n<PAGE>\nТогда я вытру тебя, <_____MYNAME_____>. А ты, пожалуйста, вытри\nменя."
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_MEALDEMO_REQUEST_COMMENT_Chaser",
+   "key": "8da6f63c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nКак тебе <BLUE><____ITEMNAME0____></BLUE>? Надеюсь, получилось так, как ты\nлюбишь."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Chaser",
+   "key": "002bd961",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nНет ничего лучше, чем начать день с хорошего\nзавтрака. Постараемся сегодня."
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_Chaser",
+   "key": "85d5147c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nНе надо прятать зевок, хе-хе, я не против.\nВидеть тебя такой ― одна из радостей быть\nтвоим мужем."
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_Chaser",
+   "key": "78198d3e",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТы закончила с работой на сегодня? Если нет,\nпожалуйста, не перенапрягайся, ладно?"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Chaser",
+   "key": "002bd961",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nНет ничего лучше, чем начать день с хорошего\nзавтрака. Постараемся сегодня."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_LUNCH_Chaser",
+   "key": "85d5147c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nНе надо прятать зевок, хе-хе, я не против.\nВидеть тебя такой ― одна из радостей быть\nтвоим мужем."
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_DINNER_Chaser",
+   "key": "78198d3e",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТы закончила с работой на сегодня? Если нет,\nпожалуйста, не перенапрягайся, ладно?"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_Apprentice",
+   "key": "1011d444",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>! Что сегодня на обед?\n<PAGE>\n<FACE_LAUGH>Может, ты уже догадалась, но я бы сегодня не\nотказался от <BLUE><____ITEMNAME0____></BLUE>. Просто к слову."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_Apprentice",
+   "key": "da9f2bbc",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nНалетаем!"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_Apprentice",
+   "key": "888ce900",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nОх, я наелся!"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_Apprentice",
+   "key": "fad80d21",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТы и правда потрясающе готовишь, <_____MYNAME_____>."
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_Apprentice",
+   "key": "515a06b0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nУх ты, просто невероятно, как ты раскрыла\nвкус каждого продукта! Это лучшее!"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_Apprentice",
+   "key": "b3b627fa",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nОх, это невероятно вкусно! Прямо праздник во\nрту!"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_Apprentice",
+   "key": "d282fa69",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТы даже приготовила <BLUE><____ITEMNAME0____></BLUE>! Это моё любимое!\nКласс! ♪"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Apprentice",
+   "key": "d71b536f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТы даже приготовила <BLUE><____ITEMNAME0____></BLUE>! Это моё любимое!\nКласс! ♪\n<PAGE>\nА, это потому что у меня день рождения?\nСпасибо, <_____MYNAME_____>!"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Apprentice",
+   "key": "87cea023",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТы даже приготовила <BLUE><____ITEMNAME0____></BLUE>! Это моё любимое!\nКласс! ♪\n<PAGE>\nА, это потому что у нас годовщина свадьбы?\nСпасибо, <_____MYNAME_____>!"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Apprentice",
+   "key": "39e2cc18",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЭй, ты приготовила именно то, что я хотел! Ну\nя и в восторге!\n<PAGE>\nСпасибо, что приготовила это для меня, <_____MYNAME_____>!"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_Apprentice",
+   "key": "03155ffe",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, тогда пора за дело!"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_Apprentice",
+   "key": "4811dbc1",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nОй, а что приготовить? <_____MYNAME_____>! Есть идеи?"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Apprentice",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Apprentice",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Apprentice",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_OK_Apprentice",
+   "key": "1a44ae33",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nДоговорились! Обещаю вложить в это всю\nдушу, <_____MYNAME_____>. Но не буквально. ♪"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_Apprentice",
+   "key": "75eae323",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Еда готова, налетаем!"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_Apprentice",
+   "key": "5b750d75",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nОх, больше ни кусочка не влезет!"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_00_Apprentice",
+   "key": "f0e2b6df",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nДома у меня куча братьев и сестёр, так что\nготовить можно было разве что в общем\nкотле.\n<PAGE>\nПока я там жил, я всегда раскладывал им еду,\nно...\n<PAGE>\n<FACE_SAD>...интересно, они теперь сами себе\nнакладывают? Надеюсь, не слишком\nпривередничают.\n<PAGE>\nНадеюсь, они заботятся друг о друге и о\nродителях."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_01_Apprentice",
+   "key": "be0544d1",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗдорово ведь, что я неплохо готовлю, скажи?\n<PAGE>\nНу, если бы я не умел готовить, у тебя было\nбы только больше работы, так?\n<PAGE>\n<FACE_LAUGH>Некоторые считают, что место женщины на\nкухне, но...\n<PAGE>\n...если уж мы муж и жена, по-моему, гораздо\nлучше быть на равных, не думаешь?"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_02_Apprentice",
+   "key": "5859539c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nАПЧХИ!\n<PAGE>\n<FACE_SAD>Ох, прости... Ну и ну, вдруг так в носу\nзачесалось... Может, это кто-то за спиной обо\nмне говорит?"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_03_Apprentice",
+   "key": "29ca56b1",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nУх ты, <_____MYNAME_____>! Ты так наслаждаешься едой, а? Мы\nедим одно и то же, но...\n<PAGE>\nПочему-то кажется, что у тебя вкуснее, чем у\nменя, понимаешь? Можно для проверки взять\nкусочек с твоей тарелки?\n<PAGE>\nНу-ка... А?!\n<PAGE>\n<FACE_LOVE>Ну во-о-от! Так нечестно! То есть... наверное,\nничего, но... Вот же."
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_04_Apprentice",
+   "key": "1c013a0a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nЭй, <_____MYNAME_____>? Ты чего так смотришь? Если не\nперестанешь, я покраснею!\n<PAGE>\nА? Думаешь, это я первым начал? Что-то не\nпомню...\n<PAGE>\n<FACE_LOVE>Я просто смотрел, как ты ешь. И думал, какая\nты милая... Ох, я совсем этого не замечал.\nВиноват."
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_05_Apprentice",
+   "key": "021bf5db",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nКак же я рад, что мы можем вот так есть\nвместе!"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_06_Apprentice",
+   "key": "021bf5db",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nКак же я рад, что мы можем вот так есть\nвместе!"
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_07_Apprentice",
+   "key": "021bf5db",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nКак же я рад, что мы можем вот так есть\nвместе!"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_08_Apprentice",
+   "key": "021bf5db",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nКак же я рад, что мы можем вот так есть\nвместе!"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_09_Apprentice",
+   "key": "021bf5db",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nКак же я рад, что мы можем вот так есть\nвместе!"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Apprentice",
+   "key": "64ad3156",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>Эй, так не надо! С набитым ртом разговаривать\nневежливо, знаешь ли.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, папа...\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Вот так, <CHILD_NAME>! Какой послушный!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе-хе. ♪"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Apprentice",
+   "key": "dbcd493a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТы ведь не привередничаешь, <CHILD_NAME>? Если не будешь\nхорошо есть, не вырастешь большим и\nздоровым.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом женюсь на маме! ♪\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Да ну? Тогда придётся нам посоревноваться, <_____MYNAME_____>!\n<PAGE>\nРаз так, мне придётся есть больше тебя, чтобы <_____MYNAME_____>\nу меня не увели!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>Нечестно! Если ты станешь ещё больше, я тебя\nникогда не догоню, папа! Не-е-ет!"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Apprentice",
+   "key": "e438a437",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, папа? В начале или в конце?\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Ну, смотря что. Если горячее, хочу съесть, пока\nне остыло! А если любимое ― пока оно\nсвежее.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>О-о-о, понятно! Умно, папа!"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Apprentice",
+   "key": "be5a77a0",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПапа, скажи “а-а-а”!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>А? Покормишь меня? Спасибо! А-а-а!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Так, теперь ты покорми маму, папа!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL> А? Ну, ладно... <_____MYNAME_____>, скажи “а-а-а”!\n<PAGE>\n<FACE_LOVE>Что мы вообще делаем? Это довольно\nнеловко.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Папа! Мама! У вас лица красные! Как клубника!\nКакие вы смешные!"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Apprentice",
+   "key": "5b8f4724",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя еда на щеке. Видишь? Сейчас вытру.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, папа!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL> Пожалуйста. Хм-м-м? <_____MYNAME_____>? И у тебя еда на щеке.\n<PAGE>\n<FACE_LAUGH>Не там ― вот тут! Всё! Каков сынок, такова и\nмать."
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Apprentice",
+   "key": "700dff79",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>Эй, так не надо! С набитым ртом разговаривать\nневежливо, знаешь ли.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, папа...\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Вот так, <CHILD_NAME>! Какая послушная!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи. ♪"
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Apprentice",
+   "key": "ed9d1b7d",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТы ведь не привередничаешь, <CHILD_NAME>? Если не будешь\nхорошо есть, не вырастешь красивой и\nздоровой.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом выйду за тебя замуж, папа! ♪\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Да ну? Ну я и пользуюсь успехом у дам, ха-ха!\nПо красавице под каждую руку!"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Apprentice",
+   "key": "e438a437",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, папа? В начале или в конце?\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Ну, смотря что. Если горячее, хочу съесть, пока\nне остыло! А если любимое ― пока оно\nсвежее.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>О-о-о, понятно! Умно, папа!"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Apprentice",
+   "key": "be5a77a0",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПапа, скажи “а-а-а”!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>А? Покормишь меня? Спасибо! А-а-а!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Так, теперь ты покорми маму, папа!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL> А? Ну, ладно... <_____MYNAME_____>, скажи “а-а-а”!\n<PAGE>\n<FACE_LOVE>Что мы вообще делаем? Это довольно\nнеловко.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Папа! Мама! У вас лица красные! Как клубника!\nКакие вы смешные!"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Apprentice",
+   "key": "4d80ef4b",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя еда на щеке. Видишь? Сейчас вытру.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, папа!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL> Пожалуйста. Хм-м-м? <_____MYNAME_____>? И у тебя еда на щеке.\n<PAGE>\n<FACE_LAUGH>Не там ― вот тут! Всё! Какова мать, такова и\nдочь."
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_MEALDEMO_REQUEST_COMMENT_Apprentice",
+   "key": "a174d3da",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nКогда ты просишь особое блюдо, мне всегда\nхочется постараться ещё больше.\n<PAGE>\nЯ старался сделать всё идеально, так что если\nчто-то не так, просто скажи! Хотя вряд ли,\nха-ха!"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Apprentice",
+   "key": "f990f101",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nСразу пойдёшь работать? Тогда до встречи! Я\nтоже буду трудиться изо всех сил!"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_Apprentice",
+   "key": "1fc73a53",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Этот обед ― именно то, что мне\nбыло нужно, чтобы взбодриться!"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_Apprentice",
+   "key": "8180284f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nАх, отличный был день! Если ты закончила с\nработой, давай вечером отдохнём вместе."
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Apprentice",
+   "key": "f990f101",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nСразу пойдёшь работать? Тогда до встречи! Я\nтоже буду трудиться изо всех сил!"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_LUNCH_Apprentice",
+   "key": "1fc73a53",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Этот обед ― именно то, что мне\nбыло нужно, чтобы взбодриться!"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_DINNER_Apprentice",
+   "key": "8180284f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nАх, отличный был день! Если ты закончила с\nработой, давай вечером отдохнём вместе."
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_Craftman",
+   "key": "74dfeacd",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЭй, ты что-нибудь особенное задумала на\nсегодня? Знаешь, что было бы здорово? <BLUE><____ITEMNAME0____></BLUE>!"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_Craftman",
+   "key": "e6d3e100",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, приступим."
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_Craftman",
+   "key": "af6a277e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nАх, вкуснотища."
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_Craftman",
+   "key": "9f569d5e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЧестно говоря, <_____MYNAME_____>, ты готовишь настолько лучше\nменя, что мне аж неловко."
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_Craftman",
+   "key": "f77a44cf",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПревосходно! Мне кажется, ты стала готовить\nещё лучше, <_____MYNAME_____>."
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_Craftman",
+   "key": "a51bfb86",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nТак я скоро ничего, кроме твоей еды, есть не\nсмогу. Она такая потрясающая, что ты меня\nнавсегда избалуешь, ха-ха!"
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_Craftman",
+   "key": "1110a0f9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nО, <BLUE><____ITEMNAME0____></BLUE>! Моё любимое! Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Craftman",
+   "key": "d75c081a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nО, <BLUE><____ITEMNAME0____></BLUE>! Моё любимое!\n<PAGE>\nНа мой день рождения, да? Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Craftman",
+   "key": "ba12f667",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nО, <BLUE><____ITEMNAME0____></BLUE>! Моё любимое!\n<PAGE>\nНа годовщину нашей свадьбы, да? Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Craftman",
+   "key": "7c955b75",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nА, ты приготовила именно то, что я хотел.\nИдеально, <_____MYNAME_____>. Махало."
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_Craftman",
+   "key": "b1ecfae9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно! Будет готово в два счёта."
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_Craftman",
+   "key": "9737df06",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПравда... не знаю, что приготовить. Хочешь\nчего-нибудь особенного, <_____MYNAME_____>?"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Craftman",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Craftman",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Craftman",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_OK_Craftman",
+   "key": "6155c50e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПонял! Я постараюсь, чтобы всё было именно\nтак, как ты любишь, <_____MYNAME_____>."
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_Craftman",
+   "key": "be97f511",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПрости, что заставил ждать. Еда готова, давай\nесть!"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_Craftman",
+   "key": "72b6a8b9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nАх! Наелся."
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_00_Craftman",
+   "key": "74f2ae99",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>? Как думаешь, моя еда не слишком\nострая?\n<PAGE>\n<FACE_SAD>Мне всё говорят, что в работе я внимателен к\nмелочам, а вот со специями в готовке\nперебарщиваю. Как думаешь?"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_01_Craftman",
+   "key": "5f79167f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nС тех пор как мы поженились, еда стала\nгораздо спокойнее, <_____MYNAME_____>.\n<PAGE>\n<FACE_SAD>Раньше ко мне постоянно заглядывали с\nпросьбами, даже когда я ел! Думаю, эти\nвремена прошли, но...\n<PAGE>\n<FACE_NORMAL>Мне бы очень не хотелось, чтобы наши трапезы\nснова прерывали, понимаешь? Пусть этот покой\nдлится вечно."
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_02_Craftman",
+   "key": "4b6d2734",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nАй! Ох, сильно я прикусил язык...!\n<PAGE>\nМожет, стоит есть помедленнее? Мне казалось,\nя и так не тороплюсь, но..."
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_03_Craftman",
+   "key": "eb5a3a17",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗнаешь, мы едим одно и то же, а у тебя\nпочему-то выглядит особенно вкусно.\n<PAGE>\nА, хочешь, чтобы я попробовал из твоей\nтарелки?\n<PAGE>\nНу, давай. Почему бы и нет? Если покормишь\nменя, конечно.\n<PAGE>\n<FACE_LOVE>Ха-ха, чего ты так разволновалась? Теперь и\nмне неловко! Вот же..."
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_04_Craftman",
+   "key": "bf28083c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы весь обед на меня смотришь. У меня что-то\nна лице? Или ты просто думаешь, какой я\nкрасавчик? Ха-ха.\n<PAGE>\n<FACE_LOVE>А? Ч-что это с тобой вдруг?\n<PAGE>\nЭй, да ты меня специально дразнишь, да?\n<PAGE>\nДай хоть доесть сначала, а?"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_05_Craftman",
+   "key": "d0177c8d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНет ничего лучше, чем вкусно поесть с теми,\nкого любишь."
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_06_Craftman",
+   "key": "d0177c8d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНет ничего лучше, чем вкусно поесть с теми,\nкого любишь."
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_07_Craftman",
+   "key": "d0177c8d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНет ничего лучше, чем вкусно поесть с теми,\nкого любишь."
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_08_Craftman",
+   "key": "d0177c8d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНет ничего лучше, чем вкусно поесть с теми,\nкого любишь."
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_09_Craftman",
+   "key": "d0177c8d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНет ничего лучше, чем вкусно поесть с теми,\nкого любишь."
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Craftman",
+   "key": "2aa21de7",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_ANGRY> Ну-ка, <CHILD_NAME>, ты же знаешь, что говорить с\nнабитым ртом невежливо, да?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, папа...\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Вот это мой сын! Так гораздо лучше!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе-хе. ♪"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Craftman",
+   "key": "cac4f80f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе привередничай, <CHILD_NAME>, ладно? Если не будешь\nесть всё, не вырастешь большим и сильным.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом женюсь на маме! ♪\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH> Ха-ха! Да ну? Похоже, у меня появился\nсоперник!\n<PAGE>\nХм... Пожелать тебе удачи или сказать, что <_____MYNAME_____> я\nтебе ни за что не отдам? Вот задачка..."
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Craftman",
+   "key": "b8a89b93",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, папа? В начале или в конце?\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH> Вообще-то я ем его первым. А вдруг наемся\nраньше? Или кто-нибудь стащит с тарелки?\n<PAGE>\nК тому же у меня не хватает силы воли устоять\nперед любимой едой, когда она прямо передо\nмной, ха-ха.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Правда? А по-моему, ты очень сильный, папа!"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Craftman",
+   "key": "49d076b6",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПапа, скажи “а-а-а”!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH> М-м-м, вкусно! Махало, <CHILD_NAME>.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Так, теперь ты покорми маму, папа!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH> Слышала, <_____MYNAME_____>? Скажи “а-а-а”!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Мама, у тебя лицо красное! Как клубника!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH> Ха-ха. Мама иногда стесняется, вот и краснеет\nлегко. Мило, да?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH> Ага! Мама милая! ♪"
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Craftman",
+   "key": "7471ea78",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя всё лицо в еде. Посиди смирно, я\nвытру...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, папа!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL> Не за что! Хм? <_____MYNAME_____>, ты тоже вся перемазалась!\n<PAGE>\n<FACE_LAUGH>Ха-ха! Каков сынок, такова и мать, да? В\nчём-то вы так похожи. <_____MYNAME_____>, тебя тоже вытереть?"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Craftman",
+   "key": "6b11e9dc",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_ANGRY> Ну-ка, <CHILD_NAME>, ты же знаешь, что говорить с\nнабитым ртом невежливо, да?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, папа...\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Вот это моя дочка! Так гораздо лучше!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи. ♪"
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Craftman",
+   "key": "09a0b095",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе привередничай, <CHILD_NAME>, ладно? Если не будешь\nесть всё, не вырастешь красивой и здоровой.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом выйду за тебя замуж, папа! ♪\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH> Ха-ха! Я становлюсь популярным, да?\n<PAGE>\nНо предупреждаю: я без ума от твоей мамы!\nБез боя я её не оставлю, ха-ха!"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Craftman",
+   "key": "b8a89b93",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, папа? В начале или в конце?\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH> Вообще-то я ем его первым. А вдруг наемся\nраньше? Или кто-нибудь стащит с тарелки?\n<PAGE>\nК тому же у меня не хватает силы воли устоять\nперед любимой едой, когда она прямо передо\nмной, ха-ха.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Правда? А по-моему, ты очень сильный, папа!"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Craftman",
+   "key": "f0d83c3c",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПапа, скажи “а-а-а”!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH> М-м-м, вкусно! Махало, <CHILD_NAME>.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Так, теперь ты покорми маму, папа!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH> Слышала, <_____MYNAME_____>? Скажи “а-а-а”!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Мама, у тебя лицо красное! Как клубника!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH> Ха-ха. Мама иногда стесняется, вот и краснеет\nлегко. Мило, да?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH> Ага! Мама милая! ♪"
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Craftman",
+   "key": "9d683234",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя всё лицо в еде. Посиди смирно, я\nвытру...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, папа!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL> Не за что! Хм? <_____MYNAME_____>, ты тоже вся перемазалась!\n<PAGE>\n<FACE_LAUGH>Ха-ха! Какова мать, такова и дочь, да? В\nчём-то вы так похожи. <_____MYNAME_____>, тебя тоже вытереть?"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_MEALDEMO_REQUEST_COMMENT_Craftman",
+   "key": "ff007f62",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nКак тебе <BLUE><____ITEMNAME0____></BLUE>? Надеюсь, получилось неплохо."
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Craftman",
+   "key": "d57f2c5d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nАх! После такого завтрака я горы сверну!\nСегодня будет отличный день, правда?"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_Craftman",
+   "key": "418fe05a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНу всё, пора за работу. Знаю, у тебя тоже\nмного дел, <_____MYNAME_____>, но не перенапрягайся, ладно?"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_Craftman",
+   "key": "bc6004b8",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nОтличный был день, да? Хочешь, сделаю потом\nмассаж? Знаю секретный приём, бабуля\nнаучила."
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Craftman",
+   "key": "d57f2c5d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nАх! После такого завтрака я горы сверну!\nСегодня будет отличный день, правда?"
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_LUNCH_Craftman",
+   "key": "418fe05a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНу всё, пора за работу. Знаю, у тебя тоже\nмного дел, <_____MYNAME_____>, но не перенапрягайся, ладно?"
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_DINNER_Craftman",
+   "key": "bc6004b8",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nОтличный был день, да? Хочешь, сделаю потом\nмассаж? Знаю секретный приём, бабуля\nнаучила."
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_Florist",
+   "key": "96bd81c3",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nНе терпится попробовать, что ты сегодня\nприготовишь, <_____MYNAME_____>. Что будет?\n<PAGE>\nЕсли ещё не решил, как насчёт <BLUE><____ITEMNAME0____></BLUE>?"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_Florist",
+   "key": "3bf5d8cd",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПоедим?"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_Florist",
+   "key": "0417b8c0",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nБатюшки, больше ни кусочка не влезет!"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_Florist",
+   "key": "256bf766",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nБыло очень вкусно. Еда всегда вкуснее, когда\nделишь её с семьёй, правда?"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_Florist",
+   "key": "d84d81f5",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nКакой вкусный обед! Как-нибудь покажешь\nмне, как ты научился так готовить!"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_Florist",
+   "key": "8d8833c2",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nБатюшки, <_____MYNAME_____>! Это просто восхитительно! Тебе бы\nшеф-поваром быть!"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_Florist",
+   "key": "fb8d233d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nУх ты, <BLUE><____ITEMNAME0____></BLUE> получилось отлично! Как мило, что ты\nприготовил моё любимое!"
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Florist",
+   "key": "5f1ad17a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nУх ты, <BLUE><____ITEMNAME0____></BLUE> получилось отлично! Как мило, что ты\nприготовил моё любимое на мой день\nрождения!"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Florist",
+   "key": "3a3c740e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nУх ты, <BLUE><____ITEMNAME0____></BLUE> получилось отлично! Как мило, что ты\nприготовил моё любимое на нашу годовщину!"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Florist",
+   "key": "f64af469",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nБатюшки, ты приготовил именно то, что я\nпросила! Как мило! Спасибо!"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_Florist",
+   "key": "0a8adc25",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nСейчас же начну готовить."
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_Florist",
+   "key": "46a3d24f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nХочется чего-нибудь особенного, <_____MYNAME_____>?"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Florist",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Florist",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Florist",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_OK_Florist",
+   "key": "c8f9ae29",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nО, хорошая идея! Отдыхай пока. Всё будет\nготово, и глазом моргнуть не успеешь."
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_Florist",
+   "key": "56191191",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nКушать подано! Надеюсь, ты проголодался!"
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_Florist",
+   "key": "469f660d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nБатюшки, я наелась!"
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_00_Florist",
+   "key": "bfc0920e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПочему-то вспомнилось, как в пять лет мама\nвпервые помогала мне печь киш.\n<PAGE>\nПока мы готовили, папа стоял у нас за спиной,\nвсё что-то говорил и давал советы.\n<PAGE>\nМама обычно такая добрая, но тут не\nвыдержала и выгнала его из кухни! Я до сих\nпор это помню...!\n<PAGE>\n<FACE_LAUGH>Уже не помню, каким получился киш...\n<PAGE>\n...но растерянное лицо папы до сих пор перед\nглазами! Хи-хи!"
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_01_Florist",
+   "key": "a46cd891",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, <_____MYNAME_____>, после свадьбы я гораздо чаще\nобщаюсь с жителями соседних городов.\n<PAGE>\n<FACE_LAUGH>Я узнала у разных людей кучу новых рецептов.\nМой репертуар здорово вырос!\n<PAGE>\n<FACE_LOSS>Хотя... новые блюда у меня пока не очень\nполучаются. Надо ещё потренироваться..."
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_02_Florist",
+   "key": "35881611",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nАПЧХИ!\n<PAGE>\n<FACE_LOSS>Ой, батюшки! Простите! М-мне кажется, или\nтут похолодало?"
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_03_Florist",
+   "key": "a7d6c072",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, скажи “а-а-а”! Хи-хи! Прости, что напугала.\n<PAGE>\nНедавно видела, как Кэрри так делала с\nБрэдом, и... подумала, будет весело\nпопробовать самой, хи-хи."
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_04_Florist",
+   "key": "dd51149f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nТы уже давно на меня смотришь... Что такое? У\nменя что-то на лице?\n<PAGE>\n<FACE_LAUGH>Просто так, да? Хи-хи. Ну, раз ты так\nговоришь.\n<PAGE>\n<FACE_LOVE>Батюшки, когда ты так смотришь, у меня\nсердце трепещет, и я отвлекаюсь...\n<PAGE>\nМожет, отложим это, пока я не доем...?"
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_05_Florist",
+   "key": "d29dee6c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ так счастлива, что мы можем вот так есть\nвместе."
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_06_Florist",
+   "key": "d29dee6c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ так счастлива, что мы можем вот так есть\nвместе."
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_07_Florist",
+   "key": "d29dee6c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ так счастлива, что мы можем вот так есть\nвместе."
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_08_Florist",
+   "key": "d29dee6c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ так счастлива, что мы можем вот так есть\nвместе."
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_09_Florist",
+   "key": "d29dee6c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ так счастлива, что мы можем вот так есть\nвместе."
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Florist",
+   "key": "6517cac6",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_ANGRY><CHILD_NAME>! Понимаю, тебе не терпится, но с набитым\nртом всё равно не разговаривают, ладно?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, мама...\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Так гораздо лучше! Просто запомни на\nбудущее, хорошо?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хорошо-о-о! ♪"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Florist",
+   "key": "9e1c1efb",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, не привередничай, ладно? Ты ведь хочешь\nвырасти большим и сильным?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом женюсь на тебе, мама! ♪\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Ох, батюшки... Как мило! Хотя от собственного\nребёнка слышать такое немножко неловко,\nхи-хи."
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Florist",
+   "key": "6dce1e71",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, мама? В начале или в конце?\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Ох, батюшки... Наверное, в конце? Как в конце\nсказки ― хочу, чтобы окончание обеда\nоставляло ощущение счастья.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ура! Значит, мы одинаковые!"
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Florist",
+   "key": "97507f5c",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nМама, покорми меня!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Любишь ты иногда внимание, а, <CHILD_NAME>?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе! Когда тебя кормит тот, кого любишь,\nеда ещё вкуснее!\n<PAGE>\nТеперь твоя очередь, мама! Пусть папа тебя\nпокормит! Скажи “а-а-а”!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Ну, ладно... А-а-а!\n<PAGE>\n<FACE_LOVE>Батюшки, признаю... в каком-то смысле правда\nвкуснее. Но... и немножко неловко...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Папа! Мама! У вас лица красные! Как клубника!\nКакие вы смешные! ♪"
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Florist",
+   "key": "ed335f39",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПогоди, <CHILD_NAME>, у тебя крошки на щеке... Вот так. Всё\nчисто.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, мама!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>Пожалуйста... Ой, тут есть ещё один\nперемазанный ребёнок? <_____MYNAME_____>, у тебя тоже еда на\nлице.\n<PAGE>\n<FACE_LAUGH>Вот! Всё. В чём-то вы так похожи, хи-хи!"
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Florist",
+   "key": "6517cac6",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_ANGRY><CHILD_NAME>! Понимаю, тебе не терпится, но с набитым\nртом всё равно не разговаривают, ладно?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, мама...\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Так гораздо лучше! Просто запомни на\nбудущее, хорошо?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хорошо-о-о! ♪"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Florist",
+   "key": "7f5ef5ca",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, не привередничай, ладно? Ты ведь хочешь\nвырасти здоровой?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом выйду замуж за папу! <RED>∀</RED>\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Слышал, <_____MYNAME_____>? Похоже, ты пользуешься успехом. Я\nдаже немножко ревную, хи-хи!"
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Florist",
+   "key": "c5754e87",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, мама? В начале или в конце?\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Ох, батюшки... Наверное, в конце? Как в конце\nсказки ― хочу, чтобы окончание обеда\nоставляло ощущение счастья.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ура! Значит, мы одинаковые!"
+  },
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Florist",
+   "key": "97507f5c",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nМама, покорми меня!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Любишь ты иногда внимание, а, <CHILD_NAME>?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи! Когда тебя кормит тот, кого любишь,\nеда ещё вкуснее!\n<PAGE>\nТеперь твоя очередь, мама! Пусть папа тебя\nпокормит! Скажи “а-а-а”!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Ну, ладно... А-а-а!\n<PAGE>\n<FACE_LOVE>Батюшки, признаю... в каком-то смысле правда\nвкуснее. Но... и немножко неловко...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Папа! Мама! У вас лица красные! Как клубника!\nКакие вы смешные! ♪"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Florist",
+   "key": "ed335f39",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПогоди, <CHILD_NAME>, у тебя крошки на щеке... Вот так. Всё\nчисто.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, мама!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>Пожалуйста... Ой, тут есть ещё один\nперемазанный ребёнок? <_____MYNAME_____>, у тебя тоже еда на\nлице.\n<PAGE>\n<FACE_LAUGH>Вот! Всё. В чём-то вы так похожи, хи-хи!"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_MEALDEMO_REQUEST_COMMENT_Florist",
+   "key": "13866b60",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЯ очень старалась приготовить особое блюдо,\nкоторое ты просил. ♪ Надеюсь, тебе\nпонравится..."
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Florist",
+   "key": "579fadcc",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЯ точно знаю, что сегодня будет отличный\nдень! Работай хорошо и береги себя, ладно?"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_Florist",
+   "key": "0f81bad8",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nБатюшки, есть что-то особенное в том, чтобы\nпоесть с любимыми, а? Теперь я готова\nтрудиться весь день. ♪"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_Florist",
+   "key": "1827abf2",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nСегодня день просто пролетел, правда? Ты\nтоже закончил с работой, <_____MYNAME_____>?\n<PAGE>\n<FACE_LOVE>Если да, может, проведём вечер вместе?\nТолько мы вдвоём?"
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Florist",
+   "key": "579fadcc",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЯ точно знаю, что сегодня будет отличный\nдень! Работай хорошо и береги себя, ладно?"
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_LUNCH_Florist",
+   "key": "0f81bad8",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nБатюшки, есть что-то особенное в том, чтобы\nпоесть с любимыми, а? Теперь я готова\nтрудиться весь день. ♪"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_DINNER_Florist",
+   "key": "4466d0c4",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nБатюшки, сегодня день просто пролетел! Ты\nтоже закончил с работой, <_____MYNAME_____>?\n<PAGE>\n<FACE_LOVE>Если да, может, проведём вечер вместе?\nТолько мы вдвоём?"
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_TeaGirl",
+   "key": "c8f836da",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nРаз уж ты готовишь, может, сделаешь <BLUE><____ITEMNAME0____></BLUE>? Было\nбы класс!"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_TeaGirl",
+   "key": "d7467780",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nВремя есть!"
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_TeaGirl",
+   "key": "64e86693",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОх, ничего себе! Я так наелась!"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_TeaGirl",
+   "key": "40c2419e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nВот это в самый раз! Настоящий вкус домашней\nеды!"
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_TeaGirl",
+   "key": "1c843841",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОбъедение! Как дочь повара, я не могу тебе\nуступать! Надо подтянуться! Но сначала...\nможно добавки?"
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_TeaGirl",
+   "key": "db14073c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОткуда у тебя такой рецепт?! Потрясающе! Из\nтебя когда-нибудь выйдет отличная жена,\nха-ха!\n<PAGE>\n<FACE_NORMAL>Стоп. Беру свои слова обратно. Ты мой муж,\nтак что я не дам тебе стать чьей-то женой...\n<PAGE>\nТы отличный муж! Надо мне постараться быть\nотличной женой."
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_TeaGirl",
+   "key": "9430bb7f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nАх, <BLUE><____ITEMNAME0____></BLUE> выглядит объедение! Обожаю! Огромное\nспасибо!"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_TeaGirl",
+   "key": "a80ed7bd",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nАх, <BLUE><____ITEMNAME0____></BLUE> выглядит объедение! Обожаю! Да ещё и\nна мой день рождения! Спасибо!!"
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_TeaGirl",
+   "key": "e137b0a7",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nАх, <BLUE><____ITEMNAME0____></BLUE> выглядит объедение! Обожаю! Да ещё и\nна нашу годовщину! Спасибо!!"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_TeaGirl",
+   "key": "8b1c0684",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nО! Ты приготовил <BLUE><____ITEMNAME0____></BLUE>, как я хотела! Огромное\nспасибо!"
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_TeaGirl",
+   "key": "65843a8e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак! Пора за работу!"
+  },
+  {
+   "n": 297,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_TeaGirl",
+   "key": "d047f28c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nАх да, <_____MYNAME_____>? Хочешь чего-нибудь особенного?"
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_TeaGirl",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_TeaGirl",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_TeaGirl",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_OK_TeaGirl",
+   "key": "4282e18a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nБудет сделано! Сварганю в два счёта!"
+  },
+  {
+   "n": 302,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_TeaGirl",
+   "key": "d3005c95",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТа-да! Кушать подано!"
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_TeaGirl",
+   "key": "2de3d66c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nФух! Наелась!"
+  },
+  {
+   "n": 304,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_00_TeaGirl",
+   "key": "7fbe43c8",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nМожет, моё мастерство застряло на месте,\nпотому что на кухне я не очень-то изящная...?\n<PAGE>\nМне плохо даются вещи, где нужна\nаккуратность, вроде отмеривания и чистки...\n<PAGE>\nИ всё равно я тренируюсь! Надеюсь, хоть\nнемного стану лучше!"
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_01_TeaGirl",
+   "key": "0975d8a0",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n“Домашней едой” обычно считают то, на чём\nвырос, да?\n<PAGE>\nИнтересно, что это для меня...\n<PAGE>\nНаверное... белый рис и мисо-суп, точно. Папа\nмного готовит, но когда думаю о маме,\nвспоминается именно это."
+  },
+  {
+   "n": 306,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_02_TeaGirl",
+   "key": "5cd14dfb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nАпчхи! Апчхи!\n<PAGE>\n<FACE_LOSS>Знаю, что скажешь. Странно я чихаю, да?\n<PAGE>\nА? Мило?\n<PAGE>\n<FACE_LOVE>Разве чих может быть милым? Ох, может, это\nты странный...!"
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_03_TeaGirl",
+   "key": "c8fbd5f7",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nНа днях в лавке была парочка, и они, типа,\nкормили друг друга. Так романтично. Даже\nжарко стало!\n<PAGE>\n<FACE_LOVE>А?! Погоди! Я вовсе не хочу попробовать так\nсама, <_____MYNAME_____>! Вот же!"
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_04_TeaGirl",
+   "key": "0e2cd804",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОх, ты чего так на меня уставился? Отвлекает!\nУ меня что-то на лице? А? Тебе просто\nнравится на меня смотреть?\n<PAGE>\n<FACE_LAUGH>Ха-ха-ха! Ладно, это немножко странно! Но\nраз у меня весь подбородок не в еде, уже\nоблегчение!"
+  },
+  {
+   "n": 309,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_05_TeaGirl",
+   "key": "473dc8e2",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНет ничего лучше, чем вкусно поесть с семьёй!"
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_06_TeaGirl",
+   "key": "473dc8e2",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНет ничего лучше, чем вкусно поесть с семьёй!"
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_07_TeaGirl",
+   "key": "473dc8e2",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНет ничего лучше, чем вкусно поесть с семьёй!"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_08_TeaGirl",
+   "key": "473dc8e2",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНет ничего лучше, чем вкусно поесть с семьёй!"
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_09_TeaGirl",
+   "key": "473dc8e2",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНет ничего лучше, чем вкусно поесть с семьёй!"
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_TeaGirl",
+   "key": "50af0bf4",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>Эй-эй! Это какой такой шалунишка\nразговаривает с набитым ртом?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, мама...\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Вот так. Скоро манеры у тебя будут лучше, чем\nу меня! ♪\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе-хе. ♪"
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_TeaGirl",
+   "key": "2a2c68bb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, ты чего привередничаешь? Так ты никогда не\nвырастешь большим и сильным, знаешь ли.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом женюсь на тебе, мама! ♪\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Слышал, <_____MYNAME_____>? Ну и милости говорит наш малыш!\nЧто нам с ним делать...?"
+  },
+  {
+   "n": 316,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_TeaGirl",
+   "key": "075af3e0",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, мама? В начале или в конце?\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Я? Всегда в начале. Не могу устоять, когда\nлюбимая еда прямо передо мной, ха-ха! У\nтебя сильная воля, <CHILD_NAME>!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Хе-хе-хе! Мама говорит, я сильный! ♪"
+  },
+  {
+   "n": 317,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_TeaGirl",
+   "key": "e3bedc62",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nМама, покорми меня!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Ну, баловать тебя не хочу, но... ладно уж.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе! Когда тебя кормит тот, кого любишь,\nеда ещё вкуснее!\n<PAGE>\nТеперь твоя очередь, мама! Пусть папа тебя\nпокормит! Скажи “а-а-а”!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>А?! Для взрослого это как-то... Ну во-о-от...\nА-а-а...?\n<PAGE>\n<FACE_LOVE>Ох... Мне так неловко, что я даже вкуса не\nчувствую...!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Мама, у тебя лицо красное! Как клубника!\nКакая ты смешная! ♪"
+  },
+  {
+   "n": 318,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_TeaGirl",
+   "key": "7212da63",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОго, да у тебя всё лицо в еде, <CHILD_NAME>! Сиди смирно.\nСейчас вытру...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, мама!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Не за что! Хм? <_____MYNAME_____>, ты тоже весь перемазался.\n<PAGE>\n<FACE_LAUGH>Вот! Всё! Забавно, как вы в чём-то похожи,\nзнаешь?"
+  },
+  {
+   "n": 319,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_TeaGirl",
+   "key": "5576606b",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>Эй-эй! Это какая такая шалунишка\nразговаривает с набитым ртом?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, мама...\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Вот так. Скоро манеры у тебя будут лучше, чем\nу меня! ♪\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи! ♪"
+  },
+  {
+   "n": 320,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_TeaGirl",
+   "key": "6691cd66",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, ты чего привередничаешь? Так ты не\nвырастешь большой и здоровой, знаешь ли.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом выйду замуж за папу. <RED>∀</RED>\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Замуж за <_____MYNAME_____>? Для этого мало просто подрасти! Я\nего законная супруга, знаешь ли!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Закорючная суп-руга? А?\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>Э-э, неважно. Это... ну... Ох. Ты же не\nпонимаешь, о чём я, да?"
+  },
+  {
+   "n": 321,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_TeaGirl",
+   "key": "5aa4c316",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, мама? В начале или в конце?\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Я? Всегда в начале. Не могу устоять, когда\nлюбимая еда прямо передо мной, ха-ха! У\nтебя сильная воля, <CHILD_NAME>!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Хи-хи! Мама говорит, я сильная! ♪"
+  },
+  {
+   "n": 322,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_TeaGirl",
+   "key": "97db5dae",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nМама, покорми меня!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Ну, баловать тебя не хочу, но... ладно уж.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH> Хи-хи! Когда тебя кормит тот, кого любишь,\nеда ещё вкуснее!\n<PAGE>\nТеперь твоя очередь, мама! Пусть папа тебя\nпокормит! Скажи “а-а-а”!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL> А?! Для взрослого это как-то... Ну во-о-от...\nА-а-а...?\n<PAGE>\n<FACE_LOVE> Ох... Мне так неловко, что я даже вкуса не\nчувствую...!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH> Мама, у тебя лицо красное! Как клубника!\nКакая ты смешная! ♪"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_TeaGirl",
+   "key": "7212da63",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОго, да у тебя всё лицо в еде, <CHILD_NAME>! Сиди смирно.\nСейчас вытру...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, мама!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Не за что! Хм? <_____MYNAME_____>, ты тоже весь перемазался.\n<PAGE>\n<FACE_LAUGH>Вот! Всё! Забавно, как вы в чём-то похожи,\nзнаешь?"
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_MEALDEMO_REQUEST_COMMENT_TeaGirl",
+   "key": "b95ecd8e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nКак тебе <BLUE><____ITEMNAME0____></BLUE>, которое ты просил, <_____MYNAME_____>? Надеюсь, как\nты любишь!"
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_TeaGirl",
+   "key": "c944bc02",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nТак! Вот что мне было нужно перед\nнасыщенным днём! ♪"
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_TeaGirl",
+   "key": "c2f879c4",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТы и после обеда занят, <_____MYNAME_____>? Не перенапрягайся,\nладно?"
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_TeaGirl",
+   "key": "bd81c00f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nДень просто пролетел! Что теперь будешь\nделать? Побудем вместе до сна? ♪"
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_BREAKFAST_TeaGirl",
+   "key": "c944bc02",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nТак! Вот что мне было нужно перед\nнасыщенным днём! ♪"
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_LUNCH_TeaGirl",
+   "key": "8b86a849",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТы и после обеда занят, <_____MYNAME_____>? Не перенапрягайся,\nладно?"
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_DINNER_TeaGirl",
+   "key": "bd81c00f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nДень просто пролетел! Что теперь будешь\nделать? Побудем вместе до сна? ♪"
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_Teacher",
+   "key": "f9bf3247",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nТы уже решил, что мы будем сегодня есть?\n<PAGE>\nЕсли нет, думаю, <BLUE><____ITEMNAME0____></BLUE> было бы чудесно."
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_Teacher",
+   "key": "04e16699",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПриступим к еде?"
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_Teacher",
+   "key": "6e22b4d4",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо за прекрасный обед."
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_Teacher",
+   "key": "35e7fc9a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nВеликолепная еда! Спасибо за такой\nпревосходный обед."
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_Teacher",
+   "key": "2c508d3e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nОх, это очень вкусно. Надеюсь, когда-нибудь я\nбуду готовить так же хорошо, как ты."
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_Teacher",
+   "key": "71b7d8c7",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nО! Превосходно! Никогда не пробовала ничего\nподобного!\n<PAGE>\nВ чём твой секрет? Как тебе удаётся раскрыть\nтакой удивительный вкус?"
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_Teacher",
+   "key": "f272843b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nБольшое спасибо, что приготовил моё любимое\nблюдо. Один его запах делает меня счастливой!"
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Teacher",
+   "key": "dd6a3830",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nБольшое спасибо, что приготовил моё любимое\nблюдо на мой день рождения. Один его запах\nделает меня счастливой!"
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Teacher",
+   "key": "e23b6c16",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nБольшое спасибо, что приготовил моё любимое\nблюдо на нашу годовщину. Один его запах\nделает меня счастливой!"
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Teacher",
+   "key": "464dd03d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nТы приготовил именно то, что я просила,\nверно? Большое спасибо."
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_Teacher",
+   "key": "c2546b8b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nСейчас же начну готовить."
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_Teacher",
+   "key": "b350ff89",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХочется чего-нибудь особенного? Если есть\nпожелания, я постараюсь их учесть."
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_Teacher",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_Teacher",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_Teacher",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_OK_Teacher",
+   "key": "f255e17f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПоняла. Пожалуйста, отдохни немного, пока\nеда не будет готова."
+  },
+  {
+   "n": 347,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_Teacher",
+   "key": "1275cf50",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПрости, если заставила ждать. Приступим?"
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_Teacher",
+   "key": "302bab78",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nОчень сытный был обед."
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_00_Teacher",
+   "key": "eecbde53",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nВ восточной кухне я уверена, но западная меня\nнесколько озадачивает.\n<PAGE>\n<FACE_LOSS>Даже в кулинарной книге вижу одни\nнезнакомые продукты.\n<PAGE>\nПохоже, иностранная еда даётся мне труднее,\nчем самые сложные учебники..."
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_01_Teacher",
+   "key": "125fe4d5",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nКогда я уехала из родительского дома, я\nпривыкла есть в одиночестве. Долгое время\nэто казалось совершенно нормальным...\n<PAGE>\nНо есть вместе с тобой, всей семьёй, ― это\nпоистине чудесно.\n<PAGE>\n<FACE_LOVE>Даже когда мы не едим, просто проводить\nвремя вместе ― замечательное чувство."
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_02_Teacher",
+   "key": "0ffb8018",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_SAD>\r\nАПЧХИ!\n<PAGE>\nПрошу прощения, что чихаю посреди обеда...\nАПЧХИ!\n<PAGE>\n<FACE_LOSS>Почему я всё время чихаю? Говорят, это\nзначит, что кто-то обсуждает меня за спиной..."
+  },
+  {
+   "n": 352,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_03_Teacher",
+   "key": "239451ea",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПара, которая держит ресторан в Вестауне,\nочень близка.\n<PAGE>\n<FACE_LOVE>На днях я видела, как они кормили друг\nдруга... Честно говоря, мне было немного\nнеловко.\n<PAGE>\nЧто это у тебя за выжидающее лицо? Можешь\nзакрыть рот. Я не стану тебя кормить."
+  },
+  {
+   "n": 353,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_04_Teacher",
+   "key": "2bb22360",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\nХм? Е-есть какая-то причина, по которой ты\nсмотришь на меня во время еды? Не уверена,\nчто за столом это уместно.\n<PAGE>\nПравда? Тебя завораживает, как красиво я ем?\nВ-вот как. Что ж... Спасибо.\n<PAGE>\n<FACE_LAUGH>Я с детства училась хорошим манерам за\nстолом, так что услышать такое от тебя даже\nприятно."
+  },
+  {
+   "n": 354,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_05_Teacher",
+   "key": "a9f5921f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ всегда буду дорожить временем, когда мы\nедим всей семьёй."
+  },
+  {
+   "n": 355,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_06_Teacher",
+   "key": "a9f5921f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ всегда буду дорожить временем, когда мы\nедим всей семьёй."
+  },
+  {
+   "n": 356,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_07_Teacher",
+   "key": "a9f5921f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ всегда буду дорожить временем, когда мы\nедим всей семьёй."
+  },
+  {
+   "n": 357,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_08_Teacher",
+   "key": "a9f5921f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ всегда буду дорожить временем, когда мы\nедим всей семьёй."
+  },
+  {
+   "n": 358,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_09_Teacher",
+   "key": "a9f5921f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ всегда буду дорожить временем, когда мы\nедим всей семьёй."
+  },
+  {
+   "n": 359,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_Teacher",
+   "key": "a8764a15",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_ANGRY> <CHILD_NAME>, говорить с набитым ртом недопустимо.\nКакой бы ни была причина, это грубо.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, мама...\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Но я рада, что ты извинился. Просто впредь\nследи за манерами, хорошо?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хорошо-о-о!"
+  },
+  {
+   "n": 360,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_Teacher",
+   "key": "626f7dd6",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nНу-ка, <CHILD_NAME>, не ковыряйся в еде. Нужно есть всё,\nиначе не вырастешь большим и сильным.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом женюсь на тебе, мама! ♪\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH> Ха-ха! Жду не дождусь.\n<PAGE>\nКстати, когда я была маленькой, я говорила,\nчто выйду замуж за папу.\n<PAGE>\nА ты, <_____MYNAME_____>? Мне кажется, все дети через это\nпроходят."
+  },
+  {
+   "n": 361,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_Teacher",
+   "key": "a214e8c5",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, мама? В начале или в конце?\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH> Посмотрим... Пожалуй, я обычно ем любимое\nв конце.\n<PAGE>\nВ детстве я всегда оставляла яйцо в удоне\nнапоследок. Признаю, немного странно, но так\nказалось лучше.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ура! Значит, мы одинаковые!"
+  },
+  {
+   "n": 362,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_Teacher",
+   "key": "fc388c0d",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nМама, покорми меня!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Ну что ты, <CHILD_NAME>. Тебе это не нужно. Ты уже не\nмладенец.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе-хе. Но когда тебя кормит тот, кого\nлюбишь, еда ещё вкуснее!\n<PAGE>\nЗнаешь что, мама? Пусть тебя папа покормит!\nСкажи “а-а-а”!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Ч-что ты такое говоришь?! И почему у тебя\nтакой готовый и нетерпеливый вид, <_____MYNAME_____>?!\n<PAGE>\n<FACE_LOVE>Л-ладно! Просто открыть рот, да?! А-а-а!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Мама! Ты краснеешь! Как клубника! Какая ты\nсмешная! ♪"
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_Teacher",
+   "key": "5640139f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя всё лицо в еде. Так не годится... Вот,\nтеперь чисто.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, мама!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>И ты, <_____MYNAME_____>? Только не говори, что и тебя надо\nвытереть? Вы оба иногда безнадёжны.\n<PAGE>\n<FACE_LAUGH>Впрочем, я люблю вас обоих, со всей вашей\nнеряшливостью. Пожалуй, помогу... снова."
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_Teacher",
+   "key": "a8764a15",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_ANGRY> <CHILD_NAME>, говорить с набитым ртом недопустимо.\nКакой бы ни была причина, это грубо.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, мама...\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Но я рада, что ты извинилась. Просто впредь\nследи за манерами, хорошо?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хорошо-о-о!"
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_Teacher",
+   "key": "aaa7f02e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nНу-ка, <CHILD_NAME>, не ковыряйся в еде. Нужно есть всё,\nиначе не вырастешь красивой и здоровой.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом выйду замуж за папу! ♪\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Слышал, <_____MYNAME_____>? Тебе повезло, что дочь так тебя\nлюбит.\n<PAGE>\nКстати, когда я была маленькой, я говорила,\nчто выйду замуж за папу. Ха-ха. Как это\nнавевает воспоминания."
+  },
+  {
+   "n": 366,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_Teacher",
+   "key": "702c4afd",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, мама? В начале или в конце?\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Посмотрим... Пожалуй, я обычно ем любимое в\nконце.\n<PAGE>\nВ детстве я всегда оставляла яйцо в удоне\nнапоследок. Признаю, немного странно, но так\nказалось лучше.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ура! Значит, мы одинаковые!"
+  },
+  {
+   "n": 367,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_Teacher",
+   "key": "e15cba48",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nМама, покорми меня!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS> Ну что ты, <CHILD_NAME>. Тебе это не нужно. Ты уже не\nмладенец.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи. Но когда тебя кормит тот, кого\nлюбишь, еда ещё вкуснее!\n<PAGE>\nЗнаешь что, мама? Пусть тебя папа покормит!\nСкажи “а-а-а”!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Ч-что ты такое говоришь?! И почему у тебя\nтакой готовый и нетерпеливый вид, <_____MYNAME_____>?!\n<PAGE>\n<FACE_LOVE>Л-ладно! Просто открыть рот, да?! А-а-а!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Мама! Ты краснеешь! Как клубника! Какая ты\nсмешная! ♪"
+  },
+  {
+   "n": 368,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_Teacher",
+   "key": "5640139f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя всё лицо в еде. Так не годится... Вот,\nтеперь чисто.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, мама!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>И ты, <_____MYNAME_____>? Только не говори, что и тебя надо\nвытереть? Вы оба иногда безнадёжны.\n<PAGE>\n<FACE_LAUGH>Впрочем, я люблю вас обоих, со всей вашей\nнеряшливостью. Пожалуй, помогу... снова."
+  },
+  {
+   "n": 369,
+   "f": 2,
+   "id": "MES_MEALDEMO_REQUEST_COMMENT_Teacher",
+   "key": "0f22c6a3",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nКак тебе <BLUE><____ITEMNAME0____></BLUE>? Это была твоя особая просьба, так\nчто я старалась, чтобы всё вышло идеально."
+  },
+  {
+   "n": 370,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Teacher",
+   "key": "c924b7b4",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nХороший завтрак ― начало хорошего дня.\nНадеюсь, ты чувствуешь себя таким же\nбодрым, как я."
+  },
+  {
+   "n": 371,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_Teacher",
+   "key": "a628bc16",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nИногда после хорошего обеда хочется\nвздремнуть... Но сегодня я намерена\nпотрудиться."
+  },
+  {
+   "n": 372,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_Teacher",
+   "key": "0d3fd0e2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nАх, сегодня был насыщенный день, правда?\nЗначит, вечером тем более важно хорошо\nотдохнуть.\n<PAGE>\n<FACE_LOVE>И, конечно, проводить как можно больше\nвремени с семьёй."
+  },
+  {
+   "n": 373,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_BREAKFAST_Teacher",
+   "key": "c924b7b4",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nХороший завтрак ― начало хорошего дня.\nНадеюсь, ты чувствуешь себя таким же\nбодрым, как я."
+  },
+  {
+   "n": 374,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_LUNCH_Teacher",
+   "key": "a628bc16",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nИногда после хорошего обеда хочется\nвздремнуть... Но сегодня я намерена\nпотрудиться."
+  },
+  {
+   "n": 375,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_DINNER_Teacher",
+   "key": "0d3fd0e2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nАх, сегодня был насыщенный день, правда?\nЗначит, вечером тем более важно хорошо\nотдохнуть.\n<PAGE>\n<FACE_LOVE>И, конечно, проводить как можно больше\nвремени с семьёй."
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_TwinOlder",
+   "key": "7a7f23d7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЗнаешь, что было бы сегодня в самый раз, <_____MYNAME_____>? <BLUE><____ITEMNAME0____></BLUE>!\n♪"
+  },
+  {
+   "n": 377,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_TwinOlder",
+   "key": "67ad19d7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nУра, еда! Налетаем!"
+  },
+  {
+   "n": 378,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_TwinOlder",
+   "key": "17bd2f0f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНу всё. Я сыта."
+  },
+  {
+   "n": 379,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_TwinOlder",
+   "key": "368065c5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНеплохо. Не так вкусно, как у сестры, но\nнеплохо!"
+  },
+  {
+   "n": 380,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_TwinOlder",
+   "key": "970e44b7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЭй, а ведь хорошо. Вообще-то очень вкусно!"
+  },
+  {
+   "n": 381,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_TwinOlder",
+   "key": "4753af4e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nОго, где ты научился так готовить?! Почему так\nвкусно...? Я точно объемся, уже чувствую..."
+  },
+  {
+   "n": 382,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_TwinOlder",
+   "key": "5b094380",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nО-о-о, ты приготовил <BLUE><____ITEMNAME0____></BLUE>! Иногда ты знаешь, что\nделаешь, а? ♪"
+  },
+  {
+   "n": 383,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_TwinOlder",
+   "key": "5fecf08f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nО-о-о, ты приготовил <BLUE><____ITEMNAME0____></BLUE>. На мой день\nрождения?\n<PAGE>\nЭто моё любимое! Иногда ты знаешь, что\nделаешь, а? ♪"
+  },
+  {
+   "n": 384,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_TwinOlder",
+   "key": "5fecf08f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nО-о-о, ты приготовил <BLUE><____ITEMNAME0____></BLUE>. На нашу годовщину?\n<PAGE>\nЭто моё любимое! Иногда ты знаешь, что\nделаешь, а? ♪"
+  },
+  {
+   "n": 385,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_TwinOlder",
+   "key": "67a2a226",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nО! Ты всё-таки приготовил то, что я просила,\nда?\n<PAGE>\n<FACE_LOVE>Я знала, что ты не устоишь перед моими\nчарами! Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 386,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_TwinOlder",
+   "key": "5cc1bf6a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, пора браться за готовку."
+  },
+  {
+   "n": 387,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_TwinOlder",
+   "key": "91a10274",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nНичего не обещаю, но если получится ―\nхочешь чего-нибудь особенного?"
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_TwinOlder",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_TwinOlder",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 390,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_TwinOlder",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_OK_TwinOlder",
+   "key": "d1802006",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nПосмотрим, что можно сделать! А теперь за\nработу!"
+  },
+  {
+   "n": 392,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_TwinOlder",
+   "key": "28ca7237",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЕда готова. Налетай, пока свежее!"
+  },
+  {
+   "n": 393,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_TwinOlder",
+   "key": "4cfb68ad",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nФух! Наелась."
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_00_TwinOlder",
+   "key": "1dec07d8",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, готовить бывает очень сложно. До\nсвадьбы я полностью полагалась на Силуку.\n<PAGE>\n<FACE_LAUGH>Но теперь, когда я стараюсь готовить для тебя,\nэто даже весело!\n<PAGE>\n<FACE_NORMAL>Ну, ошибаюсь я ещё то тут, то там, но не\nразбив яиц, омлет не приготовишь, так?"
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_01_TwinOlder",
+   "key": "62523d52",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nНа днях попросила Силуку дать мне пару\nуроков готовки, но ох! Она такая строгая...\n<PAGE>\nВсё твердила, в каком направлении правильно\nрезать овощи и всё такое... Целый день ушёл..."
+  },
+  {
+   "n": 396,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_02_TwinOlder",
+   "key": "ae65e8e4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nАй!!\n<PAGE>\n<FACE_LOSS>Ой-ой... Ну и больно... Прямо щёку изнутри\nприкусила...! Вот же...!"
+  },
+  {
+   "n": 397,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_03_TwinOlder",
+   "key": "331202ae",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНа днях в кафе зашла парочка и стала кормить\nдруг друга... Так слащаво, что мне чуть не\nпришлось уйти.\n<PAGE>\nЧтоб ты знал: я тебя кормить не буду.\n<PAGE>\n<FACE_LOSS>Эй, не строй мне щенячьи глазки! Не буду! Ни\nза что!"
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_04_TwinOlder",
+   "key": "f51346f7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЭй, ты чего так уставился? Сражён моей\nкрасотой, а?\n<PAGE>\n<FACE_LOVE>А? Ты не должен был соглашаться, дурачок!"
+  },
+  {
+   "n": 399,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_05_TwinOlder",
+   "key": "7c85ed06",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗдорово ведь, что мы можем вот так\nпроводить время вместе?"
+  },
+  {
+   "n": 400,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_06_TwinOlder",
+   "key": "7c85ed06",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗдорово ведь, что мы можем вот так\nпроводить время вместе?"
+  },
+  {
+   "n": 401,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_07_TwinOlder",
+   "key": "7c85ed06",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗдорово ведь, что мы можем вот так\nпроводить время вместе?"
+  },
+  {
+   "n": 402,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_08_TwinOlder",
+   "key": "7c85ed06",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗдорово ведь, что мы можем вот так\nпроводить время вместе?"
+  },
+  {
+   "n": 403,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_09_TwinOlder",
+   "key": "7c85ed06",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗдорово ведь, что мы можем вот так\nпроводить время вместе?"
+  },
+  {
+   "n": 404,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_TwinOlder",
+   "key": "f62fc3b4",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>Эй! Мой сын не будет разговаривать с полным\nртом еды!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, мама...\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Хороший мальчик, <CHILD_NAME>. Проглотишь ― и говори\nсколько хочешь, ладно?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе-хе. ♪"
+  },
+  {
+   "n": 405,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_TwinOlder",
+   "key": "90376e8e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНе привередничай, <CHILD_NAME>! Ты ведь хочешь вырасти\nбольшим и сильным?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом женюсь на тебе, мама! ♪\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>А? Я по-о-очти уверена, что это незаконно, но\nвкус у тебя хороший, это точно!"
+  },
+  {
+   "n": 406,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_TwinOlder",
+   "key": "43cb6cfe",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, мама? В начале или в конце?\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>В начале, конечно! А вдруг оставлю напоследок\nи наемся раньше? Вот обидно будет!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>А, точно! Вот это умно, мама!"
+  },
+  {
+   "n": 407,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_TwinOlder",
+   "key": "eb166527",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПокорми меня, мама!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Покормить? Да ладно, ты для этого уже\nбольшой, <CHILD_NAME>.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе-хе. Но когда тебя кормит тот, кого\nлюбишь, еда ещё вкуснее!\n<PAGE>\nЗнаешь что, мама? Пусть тебя папа покормит!\nСкажи “а-а-а”!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL> Ага, щас! Ещё чего! Э-э... <_____MYNAME_____>, а ты чего так\nобрадовался?!\n<PAGE>\n<FACE_LOVE> Н-ну, ох. Ладно. Только один раз! А-а-а!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Мама! Ты краснеешь! Как клубника! Какая ты\nсмешная! ♪"
+  },
+  {
+   "n": 408,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_TwinOlder",
+   "key": "54e2fa77",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя всё лицо в еде. Фу. Гадость! Вот,\nтеперь ты чистый.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, мама!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL> Да-да... Стоп... <_____MYNAME_____>, ты тоже весь перемазался!\nЛадно, и тебя вытру.\n<PAGE>\n<FACE_LAUGH>Ох, вы двое в чём-то и правда похожи...\nнапример, как задаёте мне лишней работы,\nха-ха!"
+  },
+  {
+   "n": 409,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_TwinOlder",
+   "key": "78e9bfc6",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>Эй! Моя дочь не будет разговаривать с полным\nртом еды!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, мама...\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Хорошая девочка, <CHILD_NAME>. Проглотишь ― и говори\nсколько хочешь, ладно?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи! ♪"
+  },
+  {
+   "n": 410,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_TwinOlder",
+   "key": "b4ead518",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНе привередничай, <CHILD_NAME>! Ты ведь хочешь вырасти\nсильной и здоровой?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом выйду замуж за папу.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Пф-ф! Ну и везунчик ты, <_____MYNAME_____>! Не всякому\nприходится выбирать между двумя\nкрасавицами! ♪"
+  },
+  {
+   "n": 411,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_TwinOlder",
+   "key": "43cb6cfe",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, мама? В начале или в конце?\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>В начале, конечно! А вдруг оставлю напоследок\nи наемся раньше? Вот обидно будет!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>А, точно! Вот это умно, мама!"
+  },
+  {
+   "n": 412,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_TwinOlder",
+   "key": "a5db1cac",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nПокорми меня, мама!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Покормить? Да ладно, ты для этого уже\nбольшая, <CHILD_NAME>.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи. Но когда тебя кормит тот, кого\nлюбишь, еда ещё вкуснее!\n<PAGE>\nЗнаешь что, мама? Пусть тебя папа покормит!\nСкажи “а-а-а”!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL> Ага, щас! Ещё чего! Э-э... <_____MYNAME_____>, а ты чего так\nобрадовался?!\n<PAGE>\n<FACE_LOVE> Н-ну, ох. Ладно. Только один раз! А-а-а!\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Мама! Ты краснеешь! Как клубника! Какая ты\nсмешная! ♪"
+  },
+  {
+   "n": 413,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_TwinOlder",
+   "key": "54e2fa77",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя всё лицо в еде. Фу. Гадость! Вот,\nтеперь ты чистая.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, мама!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL> Да-да... Стоп... <_____MYNAME_____>, ты тоже весь перемазался!\nЛадно, и тебя вытру.\n<PAGE>\n<FACE_LAUGH>Ох, вы двое в чём-то и правда похожи...\nнапример, как задаёте мне лишней работы,\nха-ха!"
+  },
+  {
+   "n": 414,
+   "f": 2,
+   "id": "MES_MEALDEMO_REQUEST_COMMENT_TwinOlder",
+   "key": "879cf97e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE>, которое ты просил, получилось неплохо, да?\nПосле стольких трудов тебе лучше бы им\nнаслаждаться, ха-ха!"
+  },
+  {
+   "n": 415,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_TwinOlder",
+   "key": "6f6817ba",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nДень начался хорошо. Будешь там стараться,\nчтобы я тобой гордилась, да?"
+  },
+  {
+   "n": 416,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_TwinOlder",
+   "key": "7d3737b2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nПолдня позади! Ещё пара часов ― и можно\nбудет расслабиться!"
+  },
+  {
+   "n": 417,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_TwinOlder",
+   "key": "32e6d92e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nУ тебя ещё есть работа? Не задерживайся\nдопоздна, ладно?\n<PAGE>\n<FACE_LOVE>Наша кровать ждёт. Ты же не сделаешь такую\nужасную вещь, как оставить свою\nкрасавицу-жену спать одну, правда?"
+  },
+  {
+   "n": 418,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_BREAKFAST_TwinOlder",
+   "key": "5f31be92",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nДень начался хорошо. Удачи!"
+  },
+  {
+   "n": 419,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_LUNCH_TwinOlder",
+   "key": "7d3737b2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nПолдня позади! Ещё пара часов ― и можно\nбудет расслабиться!"
+  },
+  {
+   "n": 420,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_DINNER_TwinOlder",
+   "key": "32e6d92e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nУ тебя ещё есть работа? Не задерживайся\nдопоздна, ладно?\n<PAGE>\n<FACE_LOVE>Наша кровать ждёт. Ты же не сделаешь такую\nужасную вещь, как оставить свою\nкрасавицу-жену спать одну, правда?"
+  },
+  {
+   "n": 421,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_TwinYounger",
+   "key": "16269047",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nХочется сегодня <BLUE><____ITEMNAME0____></BLUE>..."
+  },
+  {
+   "n": 422,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_TwinYounger",
+   "key": "e582c64e",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПоедим?"
+  },
+  {
+   "n": 423,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_TwinYounger",
+   "key": "6130e0c4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЯ всё..."
+  },
+  {
+   "n": 424,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_TwinYounger",
+   "key": "89553a74",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЭто было... приемлемо. Может, немного\nпресно. Старайся. У тебя получится лучше."
+  },
+  {
+   "n": 425,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_TwinYounger",
+   "key": "efc69bec",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nТы вкусно готовишь, <_____MYNAME_____>. Мне повезло."
+  },
+  {
+   "n": 426,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_TwinYounger",
+   "key": "f64e1c0a",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЭто правда потрясающе. Хочу ещё. Научишь\nменя так готовить?"
+  },
+  {
+   "n": 427,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_TwinYounger",
+   "key": "8276b86f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nАх. Ты приготовил <BLUE><____ITEMNAME0____></BLUE>. Это моё любимое... Я так\nрада..."
+  },
+  {
+   "n": 428,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_TwinYounger",
+   "key": "a548c66c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nАх. Ты приготовил <BLUE><____ITEMNAME0____></BLUE>. Это моё любимое... Я так\nрада, что ты приготовил его на мой день\nрождения."
+  },
+  {
+   "n": 429,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_TwinYounger",
+   "key": "912d672c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nАх. Ты приготовил <BLUE><____ITEMNAME0____></BLUE>. Это моё любимое... Я так\nрада, что ты приготовил его на нашу\nгодовщину."
+  },
+  {
+   "n": 430,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_TwinYounger",
+   "key": "8ab64dfd",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nО, ты приготовил то особое блюдо, которое я\nпросила? Специально для меня? Махало, <_____MYNAME_____>. Я\nтебя люблю."
+  },
+  {
+   "n": 431,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_TwinYounger",
+   "key": "eca974a8",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНу... Пойду готовить."
+  },
+  {
+   "n": 432,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_TwinYounger",
+   "key": "48b974a9",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nТебе чего-нибудь хочется, <_____MYNAME_____>?"
+  },
+  {
+   "n": 433,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_00_TwinYounger",
+   "key": "b56542be",
+   "ru": "<____ITEMNAME0____>"
+  },
+  {
+   "n": 434,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_01_TwinYounger",
+   "key": "7e39911b",
+   "ru": "<____ITEMNAME1____>"
+  },
+  {
+   "n": 435,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_SELECT_02_TwinYounger",
+   "key": "f8ade3b5",
+   "ru": "<____ITEMNAME2____>"
+  },
+  {
+   "n": 436,
+   "f": 2,
+   "id": "MES_MEALDEMO_READY_REQUEST_OK_TwinYounger",
+   "key": "b989b2b5",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nХорошо. Добавлю это в сегодняшнее меню."
+  },
+  {
+   "n": 437,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_TwinYounger",
+   "key": "74da5cab",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nДавай есть."
+  },
+  {
+   "n": 438,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_TwinYounger",
+   "key": "8aa186a3",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что приготовил."
+  },
+  {
+   "n": 439,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_00_TwinYounger",
+   "key": "62435e99",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nИнтересно, Илука нормально питается? Я всегда\nготовила для неё, так что немножко\nволнуюсь...\n<PAGE>\n<FACE_NORMAL>Должно быть всё в порядке, там ведь бабуля,\nно...\n<PAGE>\nНа днях она сказала, что пыталась готовить и\nчуть не спалила дом, так что просто поела\nхлеба.\n<PAGE>\n<FACE_LOSS>Теперь я правда волнуюсь..."
+  },
+  {
+   "n": 440,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_01_TwinYounger",
+   "key": "f025ca47",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМне всегда нравилось готовить, но, кажется,\nпосле свадьбы мне это нравится ещё больше, <_____MYNAME_____>.\n<PAGE>\nКогда ты ешь мою еду, кажется, будто это\nсамое вкусное на свете.\n<PAGE>\n<FACE_LOSS>Это твоя особая сила, <_____MYNAME_____>?"
+  },
+  {
+   "n": 441,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_02_TwinYounger",
+   "key": "cafc0905",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\n...\n<PAGE>\n<FACE_NORMAL>Да. Я только что прикусила щёку. Как ты\nдогадался?\n<PAGE>\n<FACE_LAUGH>Никто, кроме Илуки, раньше такого не\nзамечал... Ты удивительный, <_____MYNAME_____>."
+  },
+  {
+   "n": 442,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_03_TwinYounger",
+   "key": "66c0d326",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, скажи “а-а-а”. Всегда хотела попробовать\nтак, как муж и жена.\n<PAGE>\n<FACE_LOSS>Хм? У тебя лицо красное, <_____MYNAME_____>. Слишком остро?"
+  },
+  {
+   "n": 443,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_04_TwinYounger",
+   "key": "7fd721a4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, почему ты так на меня смотришь? Мне трудно\nсосредоточиться на еде...\n<PAGE>\n<FACE_LOVE>Ты специально смотришь ещё сильнее, да?\nВредина ты, <_____MYNAME_____>."
+  },
+  {
+   "n": 444,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_05_TwinYounger",
+   "key": "2156b370",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nКогда мы едим вот так вместе, еда кажется\nещё вкуснее..."
+  },
+  {
+   "n": 445,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_06_TwinYounger",
+   "key": "2156b370",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nКогда мы едим вот так вместе, еда кажется\nещё вкуснее..."
+  },
+  {
+   "n": 446,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_07_TwinYounger",
+   "key": "2156b370",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nКогда мы едим вот так вместе, еда кажется\nещё вкуснее..."
+  },
+  {
+   "n": 447,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_08_TwinYounger",
+   "key": "2156b370",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nКогда мы едим вот так вместе, еда кажется\nещё вкуснее..."
+  },
+  {
+   "n": 448,
+   "f": 2,
+   "id": "MES_MEALDEMO_PAIR_COMMENT_09_TwinYounger",
+   "key": "2156b370",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nКогда мы едим вот так вместе, еда кажется\nещё вкуснее..."
+  },
+  {
+   "n": 449,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildBoy_TwinYounger",
+   "key": "9fb7f123",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_ANGRY> <CHILD_NAME>, это невежливо. У тебя ещё еда во рту.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, мама...\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Прожевать, проглотить, потом говорить.\nМолодец, <CHILD_NAME>.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хе-хе-хе. ♪"
+  },
+  {
+   "n": 450,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildBoy_TwinYounger",
+   "key": "1e86fa1b",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, не привередничай. Ешь всё, чтобы правильно\nрасти.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом женюсь на тебе, мама! ♪\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Спасибо, но я уже замужем за <_____MYNAME_____>.\n<PAGE>\nТебе придётся найти свою половинку, <CHILD_NAME>."
+  },
+  {
+   "n": 451,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildBoy_TwinYounger",
+   "key": "f739900d",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, мама? В начале или в конце?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Я ем его первым... Вдруг подожду и забуду\nсъесть?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Забудешь? По-моему, со мной такого не\nслучится, мама!"
+  },
+  {
+   "n": 452,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildBoy_TwinYounger",
+   "key": "e455ff3c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>, скажи “а-а-а”.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>А-а-а! Ура-а-а! Теперь моя очередь!\nПокормлю папу! Скажи “а-а-а”!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Ну вот, <_____MYNAME_____>. Теперь твоя очередь кормить меня.\nА-а-а.\n<PAGE>\n<FACE_LOSS>Хм? Еда та же, но когда кормишь ты,\nпочему-то вкуснее...? Странно..."
+  },
+  {
+   "n": 453,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildBoy_TwinYounger",
+   "key": "e6343d42",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя всё лицо в еде... Давай вытру...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, мама!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH> А? И ты, <_____MYNAME_____>?\n<PAGE>\nХи-хи. У вас с <CHILD_NAME> не только ауры похожи, но и\nперемазываетесь вы одинаково."
+  },
+  {
+   "n": 454,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_00_ChildGirl_TwinYounger",
+   "key": "65eb3972",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n...А потом, пофле фтого...!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_ANGRY><CHILD_NAME>, это невежливо. У тебя ещё еда во рту.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>*ням* *хрум* *глоть*\n<PAGE>\nЛа-а-адно... Прости, мама...\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Прожевать, проглотить, потом говорить.\nМолодец, <CHILD_NAME>.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хи-хи. ♪"
+  },
+  {
+   "n": 455,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_01_ChildGirl_TwinYounger",
+   "key": "6abeff80",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, не привередничай. Ешь всё, чтобы правильно\nрасти.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Не волнуйся! Буду много есть и быстро\nвырасту! А потом выйду замуж за папу!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_ANGRY> Прости, но <_____MYNAME_____> мой.\n<PAGE>\nЯ его не отдам. Даже тебе, <CHILD_NAME>."
+  },
+  {
+   "n": 456,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_02_ChildGirl_TwinYounger",
+   "key": "f739900d",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЯ всегда оставляю самое вкусное напоследок. ♪\nА ты, мама? В начале или в конце?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Я ем его первым... Вдруг подожду и забуду\nсъесть?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Забудешь? По-моему, со мной такого не\nслучится, мама!"
+  },
+  {
+   "n": 457,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_03_ChildGirl_TwinYounger",
+   "key": "e455ff3c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>, скажи “а-а-а”.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>А-а-а! Ура-а-а! Теперь моя очередь!\nПокормлю папу! Скажи “а-а-а”!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Ну вот, <_____MYNAME_____>. Теперь твоя очередь кормить меня.\nА-а-а.\n<PAGE>\n<FACE_LOSS>Хм? Еда та же, но когда кормишь ты,\nпочему-то вкуснее...? Странно..."
+  },
+  {
+   "n": 458,
+   "f": 2,
+   "id": "MES_MEALDEMO_FAMILY_COMMENT_04_ChildGirl_TwinYounger",
+   "key": "e6343d42",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>, у тебя всё лицо в еде... Давай вытру...\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Чмок! Спасибо, мама!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH> А? И ты, <_____MYNAME_____>?\n<PAGE>\nХи-хи. У вас с <CHILD_NAME> не только ауры похожи, но и\nперемазываетесь вы одинаково."
+  },
+  {
+   "n": 459,
+   "f": 2,
+   "id": "MES_MEALDEMO_REQUEST_COMMENT_TwinYounger",
+   "key": "1800c6b5",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____ITEMNAME0____></BLUE> вкусное...? Надеюсь, тебе нравится, <_____MYNAME_____>."
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_TwinYounger",
+   "key": "eff2086f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nУдачи сегодня, <_____MYNAME_____>. Хорошей работы...!"
+  },
+  {
+   "n": 461,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_TwinYounger",
+   "key": "3fe0bc62",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nТеперь хочется спать... Подремлешь со мной?\nНет? Жаль..."
+  },
+  {
+   "n": 462,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_TwinYounger",
+   "key": "f0c528df",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПосле ужина лучше всего отдыхать. Так что\nдавай отдохнём вместе, ладно?"
+  },
+  {
+   "n": 463,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_BREAKFAST_TwinYounger",
+   "key": "eff2086f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nУдачи сегодня, <_____MYNAME_____>. Хорошей работы...!"
+  },
+  {
+   "n": 464,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_LUNCH_TwinYounger",
+   "key": "3fe0bc62",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nТеперь хочется спать... Подремлешь со мной?\nНет? Жаль..."
+  },
+  {
+   "n": 465,
+   "f": 2,
+   "id": "MES_MEALDEMO_HOLIDAY_DINNER_TwinYounger",
+   "key": "f0c528df",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПосле ужина лучше всего отдыхать. Так что\nдавай отдохнём вместе, ладно?"
+  },
+  {
+   "n": 466,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_Child_Boy",
+   "key": "30017d04",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\n<PARENT>, а можно сегодня <BLUE><____ITEMNAME0____></BLUE>? ♪ Ну пожа-а-алуйста!"
+  },
+  {
+   "n": 467,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_Child_Boy",
+   "key": "742e7446",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nУра-а-а! <PARENT>, ты готовишь лучше всех! ♪ Давайте\nесть!"
+  },
+  {
+   "n": 468,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_Child_Boy",
+   "key": "3bae404f",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nЯ наелся! ♪"
+  },
+  {
+   "n": 469,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_Child_Boy",
+   "key": "4cd6efd9",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\n<PARENT>, очень вкусно."
+  },
+  {
+   "n": 470,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_Child_Boy",
+   "key": "d7670609",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nХе-хе. <PARENT>, я обожаю твою еду. Она САМАЯ\nЛУЧШАЯ! ♪"
+  },
+  {
+   "n": 471,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_Child_Boy",
+   "key": "c26595cd",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nУх ты! Как вкусно! ♪\n<PAGE>\n<PARENT>, можно добавки? Ты, наверное, лучший повар\nна свете! <RED>∀</RED>"
+  },
+  {
+   "n": 472,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_Child_Boy",
+   "key": "71757ed6",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nОй, <BLUE><____ITEMNAME0____></BLUE>! Моё любимое! Ура-а-а! <RED>∀</RED>"
+  },
+  {
+   "n": 473,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_BIRTHDAY_Child_Boy",
+   "key": "d0659a4a",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nОй, <BLUE><____ITEMNAME0____></BLUE> на мой день рождения! Моё любимое!\nУра-а-а! <RED>∀</RED>"
+  },
+  {
+   "n": 474,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_MARRIAGE_Child_Boy",
+   "key": "fcac60bb",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nОй, <BLUE><____ITEMNAME0____></BLUE>! Моё любимое! Сегодня особенный день?"
+  },
+  {
+   "n": 475,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Child_Boy",
+   "key": "dbacda97",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nУра-а-а! <BLUE><____ITEMNAME0____></BLUE>! То, что я хотел! ♪ Спасибо! <RED>∀</RED>"
+  },
+  {
+   "n": 482,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_Child_Boy",
+   "key": "53b390ec",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nДавайте есть!"
+  },
+  {
+   "n": 483,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_Child_Boy",
+   "key": "52aabff7",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nБыло очень вкусно! ♪"
+  },
+  {
+   "n": 504,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Child_Boy",
+   "key": "3ddce030",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nХм-м-м... Чем бы сегодня заняться? Надо\nпойти куда-нибудь, где весело!"
+  },
+  {
+   "n": 505,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_Child_Boy",
+   "key": "98460b0c",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n*зевок* Что-то спать захотелось. Может,\nвздремнуть..."
+  },
+  {
+   "n": 506,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_Child_Boy",
+   "key": "3e7b292b",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\n<PARENT>, я, кажется, готов купаться! ♪"
+  },
+  {
+   "n": 510,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_Child_Girl",
+   "key": "30017d04",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\n<PARENT>, а можно сегодня <BLUE><____ITEMNAME0____></BLUE>? ♪ Ну пожа-а-алуйста!"
+  },
+  {
+   "n": 511,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_ITADAKI_Child_Girl",
+   "key": "742e7446",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nУра-а-а! <PARENT>, ты готовишь лучше всех! ♪ Давайте\nесть!"
+  },
+  {
+   "n": 512,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOTI_Child_Girl",
+   "key": "2cbe17c6",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nЯ наелась! ♪"
+  },
+  {
+   "n": 513,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_NORMAL_Child_Girl",
+   "key": "4cd6efd9",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\n<PARENT>, очень вкусно."
+  },
+  {
+   "n": 514,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_GOOD_Child_Girl",
+   "key": "b7c70b05",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nХи-хи. <PARENT>, я обожаю твою еду. Она САМАЯ\nЛУЧШАЯ! ♪"
+  },
+  {
+   "n": 515,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_BRAVO_Child_Girl",
+   "key": "c26595cd",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nУх ты! Как вкусно! ♪\n<PAGE>\n<PARENT>, можно добавки? Ты, наверное, лучший повар\nна свете! <RED>∀</RED>"
+  },
+  {
+   "n": 516,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_LIKE_Child_Girl",
+   "key": "71757ed6",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nОй, <BLUE><____ITEMNAME0____></BLUE>! Моё любимое! Ура-а-а! <RED>∀</RED>"
+  },
+  {
+   "n": 519,
+   "f": 2,
+   "id": "MES_PLAYER_MEALDEMO_REQUEST_COMMENT_Child_Girl",
+   "key": "dbacda97",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nУра-а-а! <BLUE><____ITEMNAME0____></BLUE>! То, что я хотела! ♪ Спасибо! <RED>∀</RED>"
+  },
+  {
+   "n": 526,
+   "f": 2,
+   "id": "MES_MEALDEMO_ITADAKI_Child_Girl",
+   "key": "53b390ec",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nДавайте есть!"
+  },
+  {
+   "n": 527,
+   "f": 2,
+   "id": "MES_MEALDEMO_GOTI_Child_Girl",
+   "key": "52aabff7",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nБыло очень вкусно! ♪"
+  },
+  {
+   "n": 548,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_BREAKFAST_Child_Girl",
+   "key": "3ddce030",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nХм-м-м... Чем бы сегодня заняться? Надо\nпойти куда-нибудь, где весело!"
+  },
+  {
+   "n": 549,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_LUNCH_Child_Girl",
+   "key": "98460b0c",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\n*зевок* Что-то спать захотелось. Может,\nвздремнуть..."
+  },
+  {
+   "n": 550,
+   "f": 2,
+   "id": "MES_MEALDEMO_WEEKDAY_DINNER_Child_Girl",
+   "key": "3e7b292b",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\n<PARENT>, я, кажется, готова купаться! ♪"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Qina",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "a58c59f0",
+   "ru": "<NAME_MOB_QINA>\r\nТорговля сегодня отличнейшая! ♪"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "2b5d469d",
+   "ru": "<NAME_MOB_QINA>\r\nАлоха, алоха!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "7184e16c",
+   "ru": "<NAME_MOB_QINA>\r\nВсегда ра-а-ада тебя видеть!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "257f1e81",
+   "ru": "<NAME_MOB_QINA>\r\nЭй, эй! Давай заключим сде-е-елку!"
+  }
+ ]
+}

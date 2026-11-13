@@ -1,0 +1,40 @@
+{
+ "file": "System_INSECT_PRESENT_Information",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_INSECT_PRESENT_INFO_1_00",
+   "key": "b64ef3ea",
+   "ru": "<NAME_UNKNOWN>\r\n<_____MYNAME_____>! Эй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_INSECT_PRESENT_INFO_1_01",
+   "key": "74c480c5",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nРада тебя видеть, <_____MYNAME_____>! Как дела?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_INSECT_PRESENT_INFO_1_02",
+   "key": "b577e744",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nОго-о-о! Сколько же у тебя жуков, <_____MYNAME_____>!\n<PAGE>\n<FACE_LAUGH>Держи кое-что за все твои старания! Хи-хи!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_INSECT_PRESENT_INFO_1_03",
+   "key": "a5d9a69c",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>! Здорово!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_SYSTEM_INSECT_PRESENT_INFO_1_04",
+   "key": "0a4e3f99",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nНаловишь ещё целую кучу жуков ― подарю\nещё подарок! Удачи!"
+  }
+ ]
+}

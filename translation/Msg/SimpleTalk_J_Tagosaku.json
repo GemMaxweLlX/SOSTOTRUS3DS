@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Tagosaku",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "b4b531fc",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nУхаживать за животными так приятно, а?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "0678fb0f",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nПомни: животные тоже заслуживают счастья."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "608301cc",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nЖивотные чувствуют твоё настроение! Правда."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "13b313e9",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nДобро к животным вернётся сторицей."
+  }
+ ]
+}

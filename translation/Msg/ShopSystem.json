@@ -1,0 +1,460 @@
+{
+ "file": "ShopSystem",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_000",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_001",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_003",
+   "key": "840744c1",
+   "ru": "Сколько сделать?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_004",
+   "key": "14da8735",
+   "ru": "Точно убрать это?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_005",
+   "key": "bcc13219",
+   "ru": "У вас нет нужных материалов"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_006",
+   "key": "81391d63",
+   "ru": "Оформить заказ?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_007",
+   "key": "2cb0da37",
+   "ru": "Совершить покупку?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_008",
+   "key": "c0eb48c9",
+   "ru": "У вас не хватает места."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_009",
+   "key": "087ddd93",
+   "ru": "Где оно будет жить?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_010",
+   "key": "0c06d5a0",
+   "ru": "Имя \"<BLUE><MOJI0></BLUE>\"\nподходит?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_011",
+   "key": "9780e2b9",
+   "ru": "Отправлено на вашу ферму."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_012",
+   "key": "05612208",
+   "ru": "Беременных животных продавать нельзя."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_013",
+   "key": "176c9d77",
+   "ru": "Больных животных продавать нельзя."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_014",
+   "key": "930a1dc6",
+   "ru": "Сбежавших животных продавать нельзя."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_015",
+   "key": "3492063f",
+   "ru": "Продать это животное за\n<BLUE><MOJI0></BLUE>G?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_016",
+   "key": "4f08936a",
+   "ru": "У вас есть беременное животное."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_017",
+   "key": "14a4e99a",
+   "ru": "Для разведения животных не хватает места."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_018",
+   "key": "43ed0a14",
+   "ru": "Больное животное нельзя разводить."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_019",
+   "key": "c82ecf7a",
+   "ru": "Начать разведение?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_020",
+   "key": "a4a8a0d9",
+   "ru": "Теперь животное беременно."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_021",
+   "key": "ff500332",
+   "ru": "Отменить заказ?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_022",
+   "key": "ebc6eb29",
+   "ru": "Для этой причёски нужно снять шляпу.\nСогласны?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_023",
+   "key": "c1ae687a",
+   "ru": "Грязное животное нельзя разводить."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_024",
+   "key": "6d0407ea",
+   "ru": "Это животное уже беременно."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_025",
+   "key": "a1416b00",
+   "ru": "Животные не в духе не размножаются."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_026",
+   "key": "eec4b96f",
+   "ru": "Сегодня заведение уже закрыто."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_027",
+   "key": "cc32163b",
+   "ru": "Какое имя ему дать?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_028",
+   "key": "4797a16e",
+   "ru": "Продолжить?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_029",
+   "key": "776fee03",
+   "ru": "Вернуться к списку товаров?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_030",
+   "key": "31f19ee9",
+   "ru": "Своего питомца-спутника продать нельзя."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_031",
+   "key": "ab1fb6bf",
+   "ru": "Зарегистрирован в StreetPass, продать нельзя."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_032",
+   "key": "b486c1b9",
+   "ru": "Сейчас нет в наличии."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_033",
+   "key": "f2ab0d8a",
+   "ru": "Оно сейчас на прогулке, продать нельзя."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_034",
+   "key": "149213de",
+   "ru": "Сколько завернуть?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_SYSTEM_035",
+   "key": "0c2a051d",
+   "ru": "Животное без сил нельзя разводить."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_001",
+   "key": "38b4cad4",
+   "ru": "Улучшить этот инструмент?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_002",
+   "key": "0e7a1237",
+   "ru": "Этот инструмент нельзя улучшить."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_003",
+   "key": "c1d2237f",
+   "ru": "Облегчить"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_004",
+   "key": "7b331a37",
+   "ru": "Повысить эффективность"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_005",
+   "key": "16806d98",
+   "ru": "Увеличить вместимость"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_006",
+   "key": "70409199",
+   "ru": "Область действия 1x1"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_007",
+   "key": "e949c023",
+   "ru": "Область действия 1x2"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_008",
+   "key": "9e4ef0b5",
+   "ru": "Область действия 1x3"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_009",
+   "key": "73c445f7",
+   "ru": "Область действия 3x1"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_010",
+   "key": "eacd144d",
+   "ru": "Область действия 3x2"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_011",
+   "key": "9dca24db",
+   "ru": "Область действия 3x3"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_012",
+   "key": "7024fd5c",
+   "ru": "Область действия 5x5"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_013",
+   "key": "90999d8f",
+   "ru": "Перекрасить в красный"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_014",
+   "key": "9e5c3276",
+   "ru": "Перекрасить в синий"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_015",
+   "key": "a5f02745",
+   "ru": "Перекрасить в зелёный"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_016",
+   "key": "9aae2317",
+   "ru": "Перекрасить в жёлтый"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_017",
+   "key": "df5b6a1d",
+   "ru": "Перекрасить в фиолетовый"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_018",
+   "key": "47c3e593",
+   "ru": "Перекрасить в золотой"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_019",
+   "key": "ab87f986",
+   "ru": "Вернуть исходный цвет"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_001",
+   "key": "6098d061",
+   "ru": "Насадить эту наживку?"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITRIMOVE_001",
+   "key": "447e3e07",
+   "ru": "Снять эту наживку?"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_005",
+   "key": "a32ee242",
+   "ru": "Увы, больше сделать нельзя."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_006",
+   "key": "84861e04",
+   "ru": "Увы, у вас не хватает места."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_APART_000",
+   "key": "ec7b6e56",
+   "ru": "Разобрать это?"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_APART_001",
+   "key": "f1167385",
+   "ru": "В хранилище не хватает места."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_APART_002",
+   "key": "f1167385",
+   "ru": "В хранилище не хватает места."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_APART_003",
+   "key": "f1167385",
+   "ru": "В хранилище не хватает места."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_APART_004",
+   "key": "eb869f74",
+   "ru": "Разборка завершена."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_APART_006",
+   "key": "f1167385",
+   "ru": "В хранилище не хватает места."
+  }
+ ]
+}

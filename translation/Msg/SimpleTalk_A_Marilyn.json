@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Marilyn",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "b5c57055",
+   "ru": "Привет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "067ab674",
+   "ru": "<NAME_MOB_MARILYN>\r\nМакияж в порядке?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "bdeede27",
+   "ru": "<NAME_MOB_MARILYN>\r\nТолько бы ветер не растрепал причёску!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "c7c8da5f",
+   "ru": "<NAME_MOB_MARILYN>\r\nБудет время ― давай поболтаем!"
+  }
+ ]
+}

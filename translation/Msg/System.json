@@ -1,0 +1,1097 @@
+{
+ "file": "System",
+ "entries": [
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_GET_MONEY",
+   "key": "3adceaa5",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>G!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_GET_MONEY_LETTER",
+   "key": "339c9fec",
+   "ru": "<CHARANAME0> передаёт <BLUE><MOJI0></BLUE>G!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_WATERING_CAN_WATER_MAX",
+   "key": "6d688320",
+   "ru": "<BLUE>Лейка</BLUE> уже полна."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_WATERING_CAN_NO_EQUIP",
+   "key": "74fb7504",
+   "ru": "С <BLUE>лейкой</BLUE> здесь можно набрать воды."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_WATERING_CAN_WATER_EXHAUSTED",
+   "key": "ebcb9e6c",
+   "ru": "<BLUE>Лейка</BLUE> пуста."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_WATERING_CAN_CHARGE_FINISH",
+   "key": "7ae72077",
+   "ru": "<BLUE>Лейка</BLUE> наполнена."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_WATERING_CAN_NO_WATER",
+   "key": "2ccabae3",
+   "ru": "<BLUE>Лейка</BLUE> пуста. Надо её наполнить."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_WATERING_CAN_ANTHER_WATER_ASK",
+   "key": "713d7029",
+   "ru": "<SPEED_IMME>В лейке жидкое удобрение.\nЗаменить содержимое лейки?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_WATERING_CAN_ANTHER_WATER_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_WATERING_CAN_ANTHER_WATER_NO",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_LIFT_BAG_FULL",
+   "key": "cffaa81e",
+   "ru": "Сумка полна. Это некуда положить."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_LIVESTOCK_BAG_FULL",
+   "key": "cffaa81e",
+   "ru": "Сумка полна. Это некуда положить."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_LIVESTOCK_BAG_FULL_2",
+   "key": "6713c5c2",
+   "ru": "Надо освободить место в сумке."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_LIVESTOCK_BAG_FULL_3",
+   "key": "be84184f",
+   "ru": "Сумка полна. Это некуда взять."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_CROP_BAG_FULL",
+   "key": "5ea2fd5e",
+   "ru": "Сумка полна. Урожай некуда собрать."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_NOT_GROWN_UP",
+   "key": "4d5a92b3",
+   "ru": "Подожду, пока оно дозреет."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_OVERSLEPT_00",
+   "key": "eb44d11b",
+   "ru": "М-м-м! Как сладко спалось. Уже\n<BLUE>7 часов</BLUE>!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_OVERSLEPT_01",
+   "key": "0b6512b2",
+   "ru": "О нет, сон затянулся! Уже <BLUE>8 часов</BLUE>!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_OVERSLEPT_02",
+   "key": "5fe2da99",
+   "ru": "Ой! Уже <BLUE>10 часов</BLUE>! Не стоило вчера\nтак поздно ложиться!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_REMAINING_HP50",
+   "key": "3cc17b48",
+   "ru": "Уф! Что-то накатила усталость..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_REMAINING_HP20",
+   "key": "22c60135",
+   "ru": "Ох, сил почти не осталось..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_REMAINING_HP10",
+   "key": "76550fa0",
+   "ru": "Такая усталость, что ноги подкашиваются..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_ID_DEVELOPMENT",
+   "key": "d501a287",
+   "ru": "В разработке."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_ID_DEBUG_MOJI0",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_ID_DEBUG_MOJI1",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_ID_DEBUG_MOJI2",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_CAN_NOT_PUT",
+   "key": "c324298a",
+   "ru": "Сюда это не положить."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_CAN_NOT_GET_OFF",
+   "key": "c2e1b08b",
+   "ru": "Здесь не слезть."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_INSERT_COIN",
+   "key": "798048ae",
+   "ru": "Надо бросить <BLUE>монетку</BLUE>!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_LETS_INSERT_COIN",
+   "key": "97c524d8",
+   "ru": "Немного поздно. Надо бросить <BLUE>монетку</BLUE>!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_CANNOT_BALOON_MAP",
+   "key": "3ced2d60",
+   "ru": "А-ах... Было весело! ♪"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_ITEM_FOUND",
+   "key": "e00a60d0",
+   "ru": "Найдено: <BLUE><ITEMNAME0></BLUE>!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_ITEM_NOT_FOUND",
+   "key": "1e14d16f",
+   "ru": "Ничего не нашлось..."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EVENT_SKIP_CHECK",
+   "key": "634a6eff",
+   "ru": "Пропустить сцену?"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EVENT_FAST_FORWARD_CHECK",
+   "key": "49efeb17",
+   "ru": "Ускорить показ текста?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EVENT_FAST_FORWARD_CANCEL_CHECK",
+   "key": "b07db604",
+   "ru": "Замедлить показ текста?"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_FARM_NAME_FORMAT",
+   "key": "0db565c6",
+   "ru": "Ферма %ls"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_DATE_FORMAT",
+   "key": "12246336",
+   "ru": "Год %2d, %ls %2d, %2d:%02d"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_DATE_SPRING",
+   "key": "6c92115f",
+   "ru": "Весна"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_DATE_SUMMER",
+   "key": "25284c1a",
+   "ru": "Лето"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_DATE_AUTUMN",
+   "key": "5b627032",
+   "ru": "Осень"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_DATE_WINTER",
+   "key": "1aeb439e",
+   "ru": "Зима"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_DATE_WEEK_SUNDAY",
+   "key": "cbf2c4f7",
+   "ru": "Воскресенье"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_DATE_WEEK_MONDAY",
+   "key": "d87e283f",
+   "ru": "Понедельник"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_DATE_WEEK_TUESDAY",
+   "key": "23a08965",
+   "ru": "Вторник"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_DATE_WEEK_WEDNESDAY",
+   "key": "178f97df",
+   "ru": "Среда"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_DATE_WEEK_THURSDAY",
+   "key": "b781f0fa",
+   "ru": "Четверг"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_DATE_WEEK_FRIDAY",
+   "key": "b71eb376",
+   "ru": "Пятница"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_DATE_WEEK_SATURDAY",
+   "key": "e91cd4e0",
+   "ru": "Суббота"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_HP50",
+   "key": "3cc17b48",
+   "ru": "Уф! Что-то накатила усталость..."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_HP20",
+   "key": "22c60135",
+   "ru": "Ох, сил почти не осталось..."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_HP10",
+   "key": "76550fa0",
+   "ru": "Такая усталость, что ноги подкашиваются..."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_HP0",
+   "key": "8afbe343",
+   "ru": "Сил...нет... Не устоять...на ногах..."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_AM500",
+   "key": "e481b246",
+   "ru": "Глаза...слипаются... Не могу...не уснуть..."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_SAVE_DUMMY_FARM_NAME",
+   "key": "be89eb8d",
+   "ru": "Идёт тренировка"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_CHANGE_THROW_ITEM_TO_MONEY",
+   "key": "5e80735f",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>G!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_YEAR_EVENT_TRADE_MAP_ENTER_NG",
+   "key": "61b66bdd",
+   "ru": "Сегодня проходит <RED><MOJI1></RED>,\nпоэтому на площадь не попасть."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_YEAR_EVENT_RECEIVE_TRADE_MAP_ENTER_NG",
+   "key": "5a168a17",
+   "ru": "Здесь готовятся к событию\n<RED><MOJI1></RED>, сюда не пройти."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_YEAR_EVENT_RECEIVE_TRADE_MAP_ON_NG",
+   "key": "3e4412ab",
+   "ru": "Здесь начинают готовиться к событию\n<RED><MOJI1></RED>, оставаться нельзя."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_HAMMER_NOBREAK",
+   "key": "99e16d2a",
+   "ru": "Этот <BLUE>молот</BLUE> слишком слаб, чтобы это разбить."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_SAVE_ADD_1",
+   "key": "1eaa3a48",
+   "ru": "Сделать запись в дневнике?"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_SAVE_ADD_2",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_SAVE_ADD_3",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_MYSHOP_NOITEM",
+   "key": "8e7319cd",
+   "ru": "В моей лавке кончился товар."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_ROCK_HARD_00",
+   "key": "e7628872",
+   "ru": "Чтобы это разбить, придётся попотеть!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_ROCK_HARD_01",
+   "key": "e158ca6a",
+   "ru": "Это ещё надолго..."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_ROCK_HARD_02",
+   "key": "6aad9c6d",
+   "ru": "Сколько же ещё возиться?"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_ROCK_HARD_03",
+   "key": "a7e92414",
+   "ru": "Кажется, пошло дело..."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_ROCK_HARD_04",
+   "key": "97a70ea5",
+   "ru": "Вижу трещину!"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_ROCK_HARD_05",
+   "key": "80656522",
+   "ru": "Уже недолго!"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_ROCK_HARD_06",
+   "key": "6ab2be19",
+   "ru": "Вот-вот развалится!"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_ROCK_HARD_07",
+   "key": "ddac3065",
+   "ru": "Ещё чуть-чуть!"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_ROCK_HARD_08",
+   "key": "7e17f572",
+   "ru": "Почти готово...!"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_ROCK_00",
+   "key": "300e3f11",
+   "ru": "Чтобы это разбить, придётся постараться."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_ROCK_01",
+   "key": "a7e92414",
+   "ru": "Кажется, пошло дело..."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_ROCK_02",
+   "key": "80656522",
+   "ru": "Уже недолго!"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_ROCK_03",
+   "key": "7e17f572",
+   "ru": "Почти готово...!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_TREE_HARD_00",
+   "key": "989180d2",
+   "ru": "Чтобы это срубить, придётся попотеть."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_TREE_HARD_01",
+   "key": "e158ca6a",
+   "ru": "Это ещё надолго..."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_TREE_HARD_02",
+   "key": "235c0e65",
+   "ru": "Кажется, полдела сделано..."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_TREE_HARD_03",
+   "key": "7a02bac3",
+   "ru": "Ещё совсем чуть-чуть!"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_TREE_00",
+   "key": "923ed90d",
+   "ru": "Чтобы это срубить, придётся постараться."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_TREE_01",
+   "key": "7a02bac3",
+   "ru": "Ещё совсем чуть-чуть!"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_ADD_TUTORIAL",
+   "key": "bfe2864f",
+   "ru": "Добавлено обучение:\n<BLUE><MOJI0></BLUE>"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_UNLOCK_SPECIAL_CARD",
+   "key": "fd4abfc8",
+   "ru": "<BLUE>Особая карточка</BLUE> добавлена на книжную полку"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_FERTILIZWR_TANK_COMPLETION",
+   "key": "446dcd3b",
+   "ru": "Готово: <MOJI0>."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_MILK_FINISHED",
+   "key": "11255072",
+   "ru": "Это животное уже подоено."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_WOOL_FINISHED",
+   "key": "af4a7e03",
+   "ru": "Это животное уже острижено."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_GRAZING_NOT_LINK",
+   "key": "dde43b15",
+   "ru": "Для этого животного нет пастбища."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_NO_GIVESNACK",
+   "key": "3195af07",
+   "ru": "Это животное уже получило лакомство."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_SICK_NO_GIVESNACK",
+   "key": "f8680c4b",
+   "ru": "Похоже, оно не станет есть: оно болеет."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_ANIMAL_APPEAL_0",
+   "key": "a89331e4",
+   "ru": "Похоже, оно очень голодно!"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_ANIMAL_APPEAL_1",
+   "key": "5d8b9e1c",
+   "ru": "Похоже, оно хочет, чтобы его почистили!"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_ANIMALAPPEAL_2",
+   "key": "690babc7",
+   "ru": "Доильником это животное можно подоить."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_ANIMALAPPEAL_3",
+   "key": "f874f51c",
+   "ru": "Ножницами это животное можно остричь."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_ANIMALAPPEAL_4",
+   "key": "9814f235",
+   "ru": "Это животное болеет. Надо дать ему лекарство."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_ANIMALAPPEAL_5",
+   "key": "06e4e98c",
+   "ru": "Сегодня это животное довольно и здорово."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_ANIMALAPPEAL_6",
+   "key": "1c7b1666",
+   "ru": "Поправляйся скорее."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_OVER_THETIME",
+   "key": "55279527",
+   "ru": "Время на работу вышло..."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_RETURN_ITEM",
+   "key": "47dbe7fa",
+   "ru": "Посылка возвращена."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_PARTTIMEJOB_MONEY_RECEIVED",
+   "key": "4f176a4e",
+   "ru": "Пришла зарплата! Получено: <BLUE><MOJI0>G</BLUE>!"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MSG_SHOP_PICTURE_STORY_SHOW_030",
+   "key": "f531e512",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>!"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_ANIMAL_LIFTUP_MAP_MOVE",
+   "key": "2adfe32b",
+   "ru": "Это животное нельзя взять с собой."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_PETWALK_NOTINDOOR",
+   "key": "9cf2b312",
+   "ru": "Нельзя, пока питомец на прогулке."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_ANIMAL_NOT_AFFILIATION",
+   "key": "9d8ce8b2",
+   "ru": "Это не хлев этого животного."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_ANIMAL_AFFILIATION_OUTSIDE",
+   "key": "117e5d1b",
+   "ru": "Здесь их лучше не оставлять."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_ANIMAL_HORSE_NOTINDOOR",
+   "key": "a1ee7f84",
+   "ru": "Перед входом надо слезть с лошади."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_ANIMAL_ANIMAL_TREGSUR_SUCCESS",
+   "key": "281e4483",
+   "ru": "Поиск сокровищ удался!"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_ANIMAL_ANIMAL_TREGSUR_FAILURE",
+   "key": "e0ac21a6",
+   "ru": "Поиск сокровищ не удался..."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_ANIMAL_ANIMAL_TREGSUR_NOT_DISTURB",
+   "key": "1e5c9ace",
+   "ru": "Нельзя, пока идёт поиск сокровищ."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_ANIMAL_ANIMAL_TREGSUR_NOT_PLAYING",
+   "key": "0e89856f",
+   "ru": "Нельзя, пока мы играем."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_BEEKEEPING_LVUP",
+   "key": "39e10710",
+   "ru": "Получен ранг <BLUE><MOJI0></BLUE>!"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_BRAND_RANK_01",
+   "key": "b944bcbf",
+   "ru": "Бронза"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_BRAND_RANK_02",
+   "key": "28f71d6d",
+   "ru": "Серебро"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_BRAND_RANK_03",
+   "key": "e79bb26f",
+   "ru": "Золото"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_BRAND_RANK_04",
+   "key": "d6c45e3b",
+   "ru": "Платина"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_TODAY_Fes_A_Goddess",
+   "key": "4102bb6e",
+   "ru": "Сегодня <RED>Праздник богини</RED>."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_TODAY_Fes_J_Rice_Ear",
+   "key": "ff718123",
+   "ru": "Сегодня <RED>Праздник изобилия</RED>."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_TODAY_Fes_S_Witch",
+   "key": "ec5f79ec",
+   "ru": "Сегодня <RED>Праздник духов</RED>."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_TODAY_Fes_Drink",
+   "key": "5b4e052c",
+   "ru": "Сегодня <RED>Праздник напитков</RED>."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_TODAY_Fes_Game",
+   "key": "2682f49f",
+   "ru": "Сегодня <RED>Трилимпиада</RED>."
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_TODAY_Fes_New_Year",
+   "key": "a07b9a33",
+   "ru": "Сегодня <RED>Новогодний праздник</RED>."
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_TODAY_Fes_A_Friendship",
+   "key": "2210ee31",
+   "ru": "Сегодня <RED>Звёздный бал</RED>."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_TODAY_Fes_J_Friendship",
+   "key": "127e6b02",
+   "ru": "Сегодня <RED>Праздник звёзд</RED>."
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_TODAY_Fes_S_Friendship",
+   "key": "e4cf1c1c",
+   "ru": "Сегодня <RED>Ночь морских огней</RED>."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_TODAY_Fes_A_Flower",
+   "key": "b5369494",
+   "ru": "Сегодня <RED>Цветочная ярмарка</RED>."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_TODAY_Fes_J_RicePriddge",
+   "key": "16c075ad",
+   "ru": "Сегодня <RED>Праздник долголетия</RED>."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_TODAY_Fes_S_Fruit",
+   "key": "7724ffc4",
+   "ru": "Сегодня <RED>Фруктовая фиеста</RED>."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_TODAY_Fes_CROP",
+   "key": "4bf3aaae",
+   "ru": "Сегодня <RED>Праздник урожая</RED>."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_TODAY_Fes_ANIMAL",
+   "key": "451e315a",
+   "ru": "Сегодня <RED>Праздник животных</RED>."
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_TODAY_Fes_COOKING",
+   "key": "2cfe4444",
+   "ru": "Сегодня <RED>Кулинарная выставка</RED>."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_TODAY_Fes_FASHION",
+   "key": "da7bfcda",
+   "ru": "Сегодня <RED>Показ мод</RED>."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_TODAY_Fes_PET",
+   "key": "0642bb94",
+   "ru": "Сегодня <RED>Парад питомцев</RED>."
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_TODAY_Fes_THANKS",
+   "key": "847d1c44",
+   "ru": "Сегодня <RED>День Валентина</RED>."
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_TODAY_Fes_PUMPKIN",
+   "key": "e3fa9b20",
+   "ru": "Сегодня <RED>Тыквенный праздник</RED>."
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "Sunny",
+   "key": "759e7b33",
+   "ru": "Ясно"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "Rainy",
+   "key": "17602593",
+   "ru": "Дождь"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "Snow",
+   "key": "96b10a8d",
+   "ru": "Снег"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "Typhoon",
+   "key": "6a7fc6da",
+   "ru": "Тайфун"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "HeavySnow",
+   "key": "c454c54e",
+   "ru": "Метель"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "AnimalHutDirt",
+   "key": "ed06ccb9",
+   "ru": "Бяка"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "SaveDataFormat",
+   "key": "d1b10868",
+   "ru": "Идёт форматирование записи дневника.\nНе выключайте консоль."
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "SaveDataDelete",
+   "key": "4331613e",
+   "ru": "Запись дневника повреждена.\nЗапись удаляется."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "SaveDataWarning",
+   "key": "8687d258",
+   "ru": "Запись дневника повреждена, прочитать\nеё не удалось."
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "SaveDataFuture",
+   "key": "931fcd50",
+   "ru": "Этот дневник нельзя прочитать без\nпоследнего обновления. Закройте\nпрограмму и загрузите обновление\nв Nintendo eShop."
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "SaveDataFutureWarning",
+   "key": "3d42bbc6",
+   "ru": "Некоторые записи дневника нельзя\nпрочитать без обновления. Загрузите\nпоследнее обновление в Nintendo eShop."
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_CHILD_OKURUMI_TALK_00",
+   "key": "c3fb4502",
+   "ru": "Какое милое спящее личико..."
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_CHILD_OKURUMI_TALK_01",
+   "key": "39e5c4a9",
+   "ru": "Как же быстро они растут..."
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_CHILD_OKURUMI_TALK_02",
+   "key": "2e6200f8",
+   "ru": "Какая прелесть..."
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_NO_EMPTY_FESTIVALTHANKS",
+   "key": "7557ecb9",
+   "ru": "Сегодня День Валентина, вам могут\nчто-то подарить... На всякий случай\nосвободите место в сумке."
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "CountryAmerica",
+   "key": "f0f71409",
+   "ru": "Уэстаун"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "CountryJapan",
+   "key": "c89dffdf",
+   "ru": "Цуюкуса"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "CountrySouth",
+   "key": "1fec6563",
+   "ru": "Лулукоко"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "FatherAnotherName",
+   "key": "7191c933",
+   "ru": "Мистер Ди"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "NotAvailableCode",
+   "key": "8458843d",
+   "ru": "Символ \"%lc\" недоступен"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "PresenterName",
+   "key": "ebdb339d",
+   "ru": "Ведущий"
+  }
+ ]
+}

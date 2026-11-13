@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Yoshihide",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "dd78ac77",
+   "ru": "Коннитива!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "5ff449c5",
+   "ru": "<NAME_MOB_YOSHIHIDE>\r\nОго, у тебя тоже дел невпроворот!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "efef8258",
+   "ru": "<NAME_MOB_YOSHIHIDE>\r\nДа, Наганобу опять нёс чепуху..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "015a462d",
+   "ru": "<NAME_MOB_YOSHIHIDE>\r\nНе забывай иногда отдыхать!"
+  }
+ ]
+}

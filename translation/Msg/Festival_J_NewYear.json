@@ -1,0 +1,208 @@
+{
+ "file": "Festival_J_NewYear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_00",
+   "key": "e6aa8c84",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, все в сборе.\n<PAGE>\nТогда начинаем Новогодний праздник Цуюкусы!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_01",
+   "key": "e4ba79d9",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nИтак, до нового года осталось совсем немного.\n<PAGE>\nПо обычаю мы ударим в храмовый колокол\n108 раз, встречая новый год.\n<PAGE>\n107 ударов будут до смены даты, а последний\n― ровно в начале нового года.\n<PAGE>\nВсе бьют в колокол по очереди, так что\nзанимайте места.\n<PAGE>\n<_____MYNAME_____>, последний удар, новогодний, доверим тебе.\nНачинаем!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_02",
+   "key": "5408158c",
+   "ru": "Звон колокола разносился по ночному небу."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_03",
+   "key": "ad1219b6",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\n...Так, <_____MYNAME_____>. Ударишь последний... новогодний\nудар?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_04",
+   "key": "d0762b99",
+   "ru": "Ну, поехали!\n<PAGE>\nТри, два, один!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_05",
+   "key": "9a13d8f4",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНачался новый год! С Новым годом, все!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_06",
+   "key": "1649d5fb",
+   "ru": "С Новым годом!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_07",
+   "key": "233fe57b",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nТихая часть церемонии окончена. Теперь можно\nповеселиться, ведь это первый праздник в году!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_08",
+   "key": "85250a21",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nА теперь ― ежегодное приготовление моти!\n<PAGE>\nДавайте вместе сделаем вкусные моти."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_09",
+   "key": "cd98ea09",
+   "ru": "Моти готовы! Едим! ♪"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_10",
+   "key": "51ab0179",
+   "ru": "Начался новый год! Пусть этот год будет ещё\nвеселее прошлого!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_TALK_C",
+   "key": "c38c074f",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_LEFT><FACE_LAUGH>\r\nВот и год прошёл. Хорошо, что все целы.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>Да, Умэкити. И Юдзуки здоров. Чего ещё\nжелать.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Спасибо, бабушка Омиё. Дедушка Умэкити,\nберегите спину, когда будете бить в колокол,\nладно?\n<PAGE>\n<FACE_JAPANFARMOLDMAN><POS_LEFT><FACE_LAUGH>Пф, всё со мной в порядке. Я ещё ого-го.\n<PAGE>\nДа я в такой форме, что хоть сейчас\nпосоревнуюсь в звоне с Юдзуки и <_____MYNAME_____>.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>Совсем ты как ребёнок, Умэкити.\n<PAGE>\nЛадно, тогда тому, у кого колокол зазвучит\nкрасивее всех, я приготовлю своё фирменное\nпюре.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_ANGRY>Это... состязание я проиграть не могу.\nПростите, но я пущу в ход всю свою силу.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>Хи-хи, удачи и тебе, <_____MYNAME_____>. Я за тебя болею."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_TALK_D",
+   "key": "62ee6983",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nХорошо поработали в этом году. Рановато,\nконечно, но расскажите-ка о своих целях на\nследующий год.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>Хорошо! Моя цель ― стать чуточку менее\nнеуклюжей!\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>Хм, удачи. Хината, а у тебя?\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Конечно! Хочу лучше находить общий язык с\nклиентами, чтобы они уходили ещё довольнее.\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>Хороший ответ. Так держать. Многого от тебя\nжду.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>...Э-э, господин? А какая цель у вас?\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>Хо. Похвальный интерес. Что ж, тогда\nрасскажу вам обоим о своей цели.\n<PAGE>\nРассказ длинноват, но к первому рассвету,\nдумаю, управлюсь.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>Ох! Т-так долго...?!\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>Что такое, Хината? Есть возражения?\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>Н-нет, ничего...\n<PAGE>\n<FACE_OFF><FACE_APPRENTICE><POS_RIGHT><FACE_SAD>Ну дайте передохнуть! Новый год же..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_TALK_E",
+   "key": "8d4a6d22",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nСпасибо за всё в этом году!\n<PAGE>\n<_____MYNAME_____>, Касуми, папа. Жду не дождусь нового года!\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Взаимно. Постараюсь не уступать вам,\nмолодёжи.\n<PAGE>\n<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>Раз так, придумаю-ка я новые сладости!\n<PAGE>\nХм, посмотрим. Можно скрестить окономияки с\nрисовыми крекерами и сделать “окорис”!\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_SAD>Это... Ну...\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>...Касуми, <_____MYNAME_____>, будьте к нему снисходительны,\nладно?\n<PAGE>\nИногда этот старик несёт полную чушь.\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>Не называй меня стариком! Как ты смеешь\nназывать такого стройного мачо “стариком”...\n<PAGE>\nТы ранила нежное отцовское сердце!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Да-да. Как скажешь, папа-мачо. Удачи с\nновыми сладостями.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Раз я провожу год с вами двумя, на спокойствие\nнадеяться не приходится. Жду с нетерпением."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_TALK_F",
+   "key": "eb49e711",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо потрудился в этом году, Иттэцу.\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>...Ты тоже, Сидзу.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>Эй, мам, а как же я, Яити и <_____MYNAME_____>?\n<PAGE>\n<FACE_STUFFWOMAN><POS_LEFT><FACE_NORMAL>О <_____MYNAME_____> и говорить нечего. Столько трудов.\n<PAGE>\nЯити ладно, а вот тебя, Тацуми, я припоминаю\nтолько за играми.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_RIGHT><FACE_SAD>Э-э? Это нечестно! Я в этом году неплохо\nучился, между прочим! Правда, Яити?\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>Ага. Братик старался.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>Хи-хи, конечно, я заметила. Молодцы в этом\nгоду, Тацуми, Яити.\n<PAGE>\nПодумать только, встречаем новый год вместе\nс <_____MYNAME_____>. Я так рада.\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_LAUGH>Если хотите, <_____MYNAME_____>, давайте и в следующем году\nвстретим новый год вместе.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>Отличная мысль, пап. Приходите и в\nследующем году, <_____MYNAME_____>.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_LAUGH>Здорово."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_MOCHI_ODD_00",
+   "key": "1f4b3d6b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nНаконец-то готовим моти! Интересно, как бы\nмне их съесть. ♪\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>Ещё не начали делать, а ты уже о еде... Но я,\nэ-э, буду с соевой мукой!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Звучит неплохо. Я люблю со сладким супом из\nкрасной фасоли. Хочу с фасолевой пастой.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>Сладкое я не люблю, так что хочу с соевым\nсоусом и водорослями.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>А я люблю с сахаром и соевым соусом! Стоп...!\n<_____MYNAME_____>, у тебя слюнки текут!\n<PAGE>\nДавайте есть вместе! ♪"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_MOCHI_ODD_01",
+   "key": "caae8f0c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nСвежие моти ― это лучшее!! Ел бы их каждый\nдень.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Каждый день ― это перебор, но я понимаю.\nОчень вкусно.\n<PAGE>\nНо только сейчас у нас и бывает случай сделать\nмоти. Да и готовить их непросто.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Да, вкусно, но чтобы поесть свежих моти,\nнужно немало потрудиться.\n<PAGE>\nДругое дело, если их сделает для тебя кто-то\nдругой.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Слышал, Хината? Ты начал этот разговор, так\nчто делать нам моти будешь ты!\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>П-погодите. Вы серьёзно?! <_____MYNAME_____>, хватит смеяться,\nостанови их!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_MOCHI_EVEN_00",
+   "key": "5d0915e4",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nНачнём делать моти здесь. Касуми, ты как? Не\nтяжело?\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Я не сдамся. Всё в порядке.\n<PAGE>\n<_____MYNAME_____>, сделаем самое вкусное угощение.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Если устанете, скажите. Я могу вас подменить.\n<PAGE>\nКомари, моти горячие, смотри не обожгись.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_SAD>Эй, а я? Обо мне забыли?\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>За тебя волноваться нечего. Давай, за дело."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_MOCHI_EVEN_01",
+   "key": "4388aac7",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОх, новогодние моти ― лучшие. Ужасно\nвкусно!\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Да. Свежие моти ― это лучшее.\n<PAGE>\nКстати, <_____MYNAME_____>, всё обошлось без травм?\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Кстати о травмах, я только что обжёгся...\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Рада, что с тобой всё в порядке, <_____MYNAME_____>.\n<PAGE>\nПлохо было бы получить травму в самом\nначале года...\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>Эй, вы что, серьёзно про меня забыли?\n...Особенно ты, Касуми.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Не переживай из-за мелочей в начале года!\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_SAD>Хината, если обжёгся, покажись Форду...\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>Нет... Уже всё прошло."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_MOCHI_DLC_00",
+   "key": "9b0e2f3f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nКстати, <_____MYNAME_____>, мы хотели тебя кое о чём спросить.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>После праздника мы думали собраться с\nдрузьями из двух других городов...\n<PAGE>\n...и сходить по знаменитым местам каждого\nгорода.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Мы ведь всегда встречаем Новый год у себя в\nгороде, понимаешь?\n<PAGE>\nВот и не знаем толком, как празднуют в других\nгородах.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Вуфио и ведущая присоединятся после работы.\n<PAGE>\nБудем рады, если и ты пойдёшь с нами, <_____MYNAME_____>."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_MOCHI_DLC_05",
+   "key": "f8cffacd",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nКстати, <_____MYNAME_____>, мы хотели тебя кое о чём спросить.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>После праздника мы снова собираемся\nвстретиться с друзьями из других городов.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Будем рады, если и ты пойдёшь с нами, <_____MYNAME_____>.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Вуфио и ведущая сказали, что тоже придут."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_MOCHI_DLC_01",
+   "key": "eb9d1344",
+   "ru": "Я с вами!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_MOCHI_DLC_02",
+   "key": "7933edf2",
+   "ru": "Может, в следующем году..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_MOCHI_DLC_03",
+   "key": "b2b213df",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЗдорово! С тобой будет ещё веселее!\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Тогда после праздника встречаемся на\nперекрёстке."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_MOCHI_DLC_04",
+   "key": "6523b41d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nПонятно. Ну да, тебе завтра рано вставать, <_____MYNAME_____>.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LOSS>Жаль, но ты правильно делаешь, что не\nперенапрягаешься.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>Ну, раз так, ничего не поделаешь. Повторим в\nследующем году.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Я передам остальным."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_GO_HOME_01",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_GO_HOME_02",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_J_NEWYEAR_GO_CROSSROAD_00",
+   "key": "3c611803",
+   "ru": "(Все ведь собирались на перекрёстке? Пойти\nтуда сейчас?)"
+  }
+ ]
+}

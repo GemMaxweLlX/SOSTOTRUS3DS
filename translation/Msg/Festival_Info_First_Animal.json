@@ -1,0 +1,54 @@
+{
+ "file": "Festival_Info_First_Animal",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_ANIMAL_00",
+   "key": "20976be5",
+   "ru": "<FACE_UNCLE>\r\n<_____MYNAME_____>! Это я, Фрэнк. Вхожу."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_ANIMAL_01",
+   "key": "f8450240",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>! Как жизнь на ферме?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_ANIMAL_02",
+   "key": "d63ba7e1",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nКстати о фермах, думаю, тебе интересно будет\nузнать о скором <RED>Празднике животных</RED>."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_ANIMAL_03",
+   "key": "39ccc3ab",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nПраздник животных ― большой конкурс, где\nоценивают животных, которых вырастили\nфермеры.\n<PAGE>\nОн проходит <BLUE>13-го числа каждого месяца</BLUE>.\nЗапись в тот же день, <BLUE>с 10:00 до 13:00</BLUE>.\n<PAGE>\nЕсли не терпится поучаствовать, поговори с\nведущей на перекрёстке."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_ANIMAL_04",
+   "key": "73e1beb6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nК слову: Праздник животных, как и Праздник\nурожая, делится на классы.\n<PAGE>\nПобедишь ― получишь бренд на продукцию,\nвот тебе и лишний стимул."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_ANIMAL_05",
+   "key": "581920bb",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНа Празднике животных судят по четырём\nкатегориям: <RED>привязанность</RED>, <RED>шерсть</RED>, <RED>уровень\nпродуктов</RED> и <RED>количество продуктов</RED>.\n<PAGE>\nНа что смотрят судьи, зависит от класса и\nсезона, так что смотри внимательно.\n<PAGE>\nКстати, в классе для новичков темы нет, так\nпочему бы не попробовать?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_ANIMAL_06",
+   "key": "eb844a86",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nДа я и сам иногда участвую в Празднике\nживотных! Жду не дождусь дня, когда мы\nсойдёмся как соперники!"
+  }
+ ]
+}

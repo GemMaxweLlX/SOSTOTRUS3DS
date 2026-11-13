@@ -1,0 +1,40 @@
+{
+ "file": "Story_Town_J_RankC_Spa_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TOWN_J_RANKC_SPA_CLEAR_00",
+   "key": "3d28c027",
+   "ru": "<FACE_TEAOWNER>\r\n<_____MYNAME_____>! Не спишь уже?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TOWN_J_RANKC_SPA_CLEAR_01",
+   "key": "27065836",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nПрости, что донимаю в такой час, <_____MYNAME_____>.\n<PAGE>\nНо благодаря твоему взносу у нас теперь есть\nвсе средства, чтобы починить купальню.\n<PAGE>\nНечего время терять, так что сегодня весь\nгород соберётся и сделает дело.\n<PAGE>\nЧто скажешь? Придёшь помочь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TOWN_J_RANKC_SPA_CLEAR_02",
+   "key": "74a2b27a",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nОтлично! Рад, что ты с нами!\n<PAGE>\nНу, куй железо, пока горячо! Пошли!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TOWN_J_RANKC_SPA_CLEAR_03",
+   "key": "aab3a65e",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nВот и всё! Отличная работа, народ!\n<PAGE>\nЧистки и починки было много, но теперь старое\nместо как новенькое!\n<PAGE>\nБез вас ничего бы не вышло. Спасибо!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TOWN_J_RANKC_SPA_CLEAR_04",
+   "key": "7a555c53",
+   "ru": "(Купальня починена и открыта! Теперь можно\nсюда приходить купаться. Не терпится!)"
+  }
+ ]
+}

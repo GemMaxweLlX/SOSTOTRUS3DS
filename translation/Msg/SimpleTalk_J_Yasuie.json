@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Yasuie",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "d11960ca",
+   "ru": "О, привет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "675f8fd6",
+   "ru": "<NAME_MOB_YASUIE>\r\nСильный у тебя вид. Есть советы по здоровью?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "8142f129",
+   "ru": "<NAME_MOB_YASUIE>\r\nСмотри! Монетка! Мой счастливый день."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "10948a98",
+   "ru": "<NAME_MOB_YASUIE>\r\nТебе интересна ароматерапия?"
+  }
+ ]
+}

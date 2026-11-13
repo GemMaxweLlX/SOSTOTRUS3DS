@@ -1,0 +1,152 @@
+{
+ "file": "ShopSInn",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_GREETING_000",
+   "key": "afce0d5b",
+   "ru": "Клиника закрыта до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_GREETING_001",
+   "key": "eec4b96f",
+   "ru": "Сегодня заведение уже закрыто."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_GREETING_002",
+   "key": "56bfda77",
+   "ru": "Гостиница закрыта. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_GREETING_003",
+   "key": "3e50e5a2",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКомо май, добро пожаловать в гостиницу\n“Лала салама”!\n<PAGE>\n<BLUE><MOJI0></BLUE>G за спокойный сон и вкусный завтрак утром.\n<PAGE>\nНо помни: <RED>если остаться на ночь, день\nзакончится!</RED>"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_GREETING_003_MOB",
+   "key": "55fa8848",
+   "ru": "<NAME_MOB_MAHARO>\r\nКомо май, добро пожаловать в гостиницу\n“Лала салама”!\n<PAGE>\nНочь стоит <BLUE><MOJI0></BLUE>G, в цену входят удобная кровать и\nотличный завтрак.\n<PAGE>\nНо не забудь: <RED>если остаться на ночь, день\nзакончится!</RED>"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_GREETING_005",
+   "key": "be7ea655",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКомо май, добро пожаловать в гостиницу\n“Лала салама”! Рады гостям!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_GREETING_005_MOB",
+   "key": "c4c4276e",
+   "ru": "<NAME_MOB_MAHARO>\r\nКомо май, добро пожаловать в гостиницу\n“Лала салама”! Мы ценим гостей!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_CHOICE_000",
+   "key": "5cdb1ed5",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nНочь стоит <BLUE><MOJI0></BLUE>G, с завтраком! Останешься?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_CHOICE_000_MOB",
+   "key": "cfbec3f7",
+   "ru": "<NAME_MOB_MAHARO>\r\nНочь стоит <BLUE><MOJI0></BLUE>G, с завтраком! Останешься?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_CHOICE_002",
+   "key": "2ec2797b",
+   "ru": "Остаться на ночь"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_CHOICE_003",
+   "key": "d948a183",
+   "ru": "<CANCEL_SELECT>\r\nЭ-э-э..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_STAY_000",
+   "key": "193f8db3",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСладких снов, <_____MYNAME_____>! Завтрак будет ждать, когда\nпроснёшься."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_STAY_000_MOB",
+   "key": "93d8a067",
+   "ru": "<NAME_MOB_MAHARO>\r\nДоброй ночи! Завтрак будет готов, когда\nпроснёшься."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_STAY_002",
+   "key": "451cbd6d",
+   "ru": "Какой чудесный запах... Похоже, завтрак\nготов!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_STAY_003",
+   "key": "2dfa0050",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nМахало! Хорошо спалось? Надеюсь, ещё\nостановишься у нас!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_STAY_003_MOB",
+   "key": "9b14b514",
+   "ru": "<NAME_MOB_MAHARO>\r\nМахало! Спасибо за ночлег у нас! Буду ждать в\nследующий раз."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_STAY_005",
+   "key": "4547b866",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nНе хочется говорить, но денег не хватает."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_STAY_005_MOB",
+   "key": "2f6f74dd",
+   "ru": "<NAME_MOB_MAHARO>\r\nПрости, но, похоже, денег маловато..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_GOODBYE_000",
+   "key": "c4fb66ac",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nОх, жаль. Тогда в другой раз!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_GOODBYE_000_MOB",
+   "key": "08a13d3a",
+   "ru": "<NAME_MOB_MAHARO>\r\nПонятно. Может, в следующий раз!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_S_INN_HOME",
+   "key": "7fe799a0",
+   "ru": "Как там ферма? Может, стоит быстро\nзаглянуть..."
+  }
+ ]
+}

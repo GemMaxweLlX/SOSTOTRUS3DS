@@ -1,0 +1,236 @@
+{
+ "file": "Resident_J_FarmOldwoman",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_00",
+   "key": "5653a1e6",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_SAD>\r\nСтолько всего... *вздох* Что же делать, что же\nделать...?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_01",
+   "key": "e7bee6b8",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nО, здравствуй, <_____MYNAME_____>! Прости за беспорядок."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_02",
+   "key": "a4bdac4d",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nУ одной моей подруги был очень щедрый\nурожай, и она прислала мне целую гору\nизлишков. Я, конечно, благодарна, но...\n<PAGE>\n<FACE_SAD>Мне ни за что столько не съесть. И бегать по\nгороду, раздавая всем, я не в силах.\n<PAGE>\nУмэкити тоже нет... Вот я и в затруднении."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_03",
+   "key": "67c04d9e",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nО? Правда? Ты всё раздашь?\n<PAGE>\nОчень по-соседски с твоей стороны, но я не\nмогу тебя о таком просить. Тут же столько\nвсего!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_04",
+   "key": "3c57dd5f",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nТочно ничего? Ну, если ты правда не против..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_05",
+   "key": "264b4846",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Старушка тебе очень благодарна!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_06",
+   "key": "ff7a067c",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nО, от Омиё? Как мило! С радостью возьмём.\n<PAGE>\n<FACE_SAD>Но... Омиё в порядке? Похоже, в последнее\nвремя ей нездоровится. Я немного волнуюсь..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_07",
+   "key": "aef3144f",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДорогой, ты ведь говорил, что недавно\nполучил очень качественные семена?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_08",
+   "key": "e06ac73e",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nДа, получил, но... А, понял.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>Так и знала, что ты мигом сообразишь!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_09",
+   "key": "de921604",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nПередашь это Омиё от нас?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_10",
+   "key": "da56017b",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nГоворят, раз семена высшего качества, плоды у\nних в разы питательнее обычных.\n<PAGE>\nС такими полезными плодами Омиё, может,\nстанет немного лучше, правда?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_11",
+   "key": "47eefcf6",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНе жалко ли отдавать ей такие чудесные\nплоды, спрашиваешь? Ха-ха, ну что ты.\n<PAGE>\nОмиё о нас давным-давно заботится.\n<PAGE>\nОна очень помогла мне, когда я была\nбеременна...\n<PAGE>\nА когда Тацуми и Яити были малышами, была\nим как бабушка.\n<PAGE>\n<FACE_LAUGH>Поэтому мы хотим сделать для неё всё, что\nможем.\n<PAGE>\nСемена всегда можно купить ещё. Здоровье\nОмиё важнее."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_12",
+   "key": "eba70043",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЛадно, рассчитываю, что ты ей это передашь.\n<PAGE>\nАх, и скажешь ей потом, что я собираюсь её\nнавестить?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_13",
+   "key": "897614b9",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nОт Омиё? Спасибо большое!\n<PAGE>\n<FACE_SAD>Но вот как... Опять ей поплохело, а? Волнуюсь\nя за неё...\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Она столько помогала нашей семье. Хотелось\nбы чем-то ей помочь..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_14",
+   "key": "52f33c0a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nКстати, раз о помощи...\n<PAGE>\nТы ведь недавно просил Омиё попробовать\nновое блюдо, пап?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_15",
+   "key": "4cca2ef8",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nАга! И оно расходится как горячие пирожки!\n<PAGE>\nОна так важна, когда я придумываю новые\nблюда, что, по-моему, мне стоит ей платить!\n<PAGE>\n<FACE_SAD>...Хотя пора мне перестать так на неё\nполагаться.\n<PAGE>\nОмиё говорит, что ей нравится, вот я и\nопираюсь на неё больше, чем следует. Она мне\nтолько и делала, что помогала.\n<PAGE>\nРаз Омиё плохо, сейчас самое время её\nотблагодарить..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_16",
+   "key": "07f47a6c",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nА, знаю! Отнесёшь это блюдо Омиё?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_17",
+   "key": "c0d08494",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nЭто готовая версия блюда, которое она\nнедавно помогла мне придумать.\n<PAGE>\n<FACE_LAUGH>Я положил много полезных продуктов, может,\nей станет лучше.\n<PAGE>\n<FACE_NORMAL>Знаю, этого и близко не хватит, чтобы\nотплатить ей за сегодняшний урожай и всё\nостальное, что она для нас сделала, но...\n<PAGE>\nЛучше сделать всё, что в моих силах, чтобы\nхоть немного помочь, чем не делать ничего!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_18",
+   "key": "5fce2445",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЯ тоже за неё волнуюсь, так что загляну к ней,\nкогда будет выходной. А пока передавай Омиё\nпривет, ладно?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_19",
+   "key": "b049d1d7",
+   "ru": "<NAME_UNKNOWN>\r\n<_____MYNAME_____>?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_20",
+   "key": "02508df0",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nПривет! Что это у тебя столько всего?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_21",
+   "key": "d55e5deb",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nОмиё раздаёт? И мне можно взять? Ух ты! ♪\n<PAGE>\nА, тогда... передашь Омиё эти сладости от\nменя?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_22",
+   "key": "11fe4154",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nХи-хи. Я сама их сделала. Очень старалась, так\nчто очень хочу, чтобы Омиё попробовала!\n<PAGE>\n<FACE_NORMAL>Как здорово. Я как раз думала, как бы\nотблагодарить Омиё. ♪"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_23",
+   "key": "cdb142cb",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nЭ-э, в прошлый раз, когда я делала Омиё\nмассаж плеч, она дала мне больше денег, чем\nобычно.\n<PAGE>\nКонечно, я очень обрадовалась, но...\n<PAGE>\n<FACE_SAD>Как раз перед этим я потеряла кошелёк лавки\nдля поручений и ужасно расстроилась.\n<PAGE>\nЕсли бы Омиё не дала мне те деньги...\n<PAGE>\n...я бы ни за что не выполнила поручения. И\nмне нечем было бы вернуть потерянные деньги.\n<PAGE>\nВ худшем случае меня могли бы уволить."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_24",
+   "key": "70f51305",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nВ тот день она меня по-настоящему выручила.\n<PAGE>\nТак что мне очень-очень хочется, чтобы она\nприняла это в знак благодарности!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_25",
+   "key": "6ea89a17",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nСпасибо! И передай, пожалуйста, Омиё привет!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_26",
+   "key": "28723a88",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nС возвращением, <_____MYNAME_____>. Спасибо за труды."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_27",
+   "key": "f44a90e9",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nО? Подарки от всех?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_28",
+   "key": "325ad2dd",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОх, батюшки! Это слишком щедро...!\n<PAGE>\nЭто ведь они меня выручили, взяв урожай, а\nтеперь... Мне даже как-то неловко."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_29",
+   "key": "23c0b416",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто? Что я о них заботилась... Это они меня\nподдерживают.\n<PAGE>\n<FACE_LAUGH>Хм-хм-хм, люди в этом городе поистине\nчудесные.\n<PAGE>\nКак же мне повезло с друзьями и соседями,\nкоторые так ко мне относятся."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_30",
+   "key": "c1724341",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nС годами тело моё слабеет...\n<PAGE>\nИ возможностей поговорить со всеми стало\nгораздо меньше. Не скажу, что это не грустно...\n<PAGE>\n<FACE_LAUGH>Но порой именно поэтому и понимаешь\nдоброту других и связь между людьми. Как\nсегодня.\n<PAGE>\nБудь я всегда здорова, вряд ли поняла бы, как\nвсе обо мне заботятся.\n<PAGE>\nИ я думаю, может, это моё тело не так уж и\nплохо."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_31",
+   "key": "ccffdce6",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nКак я рада, что вышла за Умэкити и вошла в\nэтот чудесный город.\n<PAGE>\nИ рада, что встретила здешних людей... и тебя,\n<_____MYNAME_____>.\n<PAGE>\nЯ встретила столько чудесных людей, и\nстольким из них я небезразлична...\n<PAGE>\nНаверное, я самая счастливая старушка на\nсвете."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDWOMAN_32",
+   "key": "ed0a8796",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОх, батюшки, сколько времени! Прости, что\nзаставила так долго слушать мою болтовню.\n<PAGE>\nТы, наверное, совсем без сил после всей этой\nбеготни! Я приготовила чай и угощение.\nПожалуйста, отдохни у меня.\n<PAGE>\n<FACE_LAUGH>Спасибо за всё сегодня, <_____MYNAME_____>."
+  }
+ ]
+}

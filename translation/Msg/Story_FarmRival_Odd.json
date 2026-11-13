@@ -1,0 +1,96 @@
+{
+ "file": "Story_FarmRival_Odd",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_00",
+   "key": "97b33a84",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nО-хо! Да это же <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_01",
+   "key": "c4d1d119",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nТы тоже участвуешь в этом конкурсе?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_02",
+   "key": "11661c3f",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nПревосходно. Посмотрим, каких высот удалось\nдостичь с прошлого раза."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_03",
+   "key": "c8c3f7ae",
+   "ru": "(Похоже, он тоже участвует. В этот раз я не\nпроиграю!)"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_04",
+   "key": "e3de8d75",
+   "ru": "(Ура! Победа над Мистером Ди!)"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_05",
+   "key": "f235f0d4",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nПоздравляю с победой. Похоже, твои старания\nвознаграждены."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_06",
+   "key": "d2b30e1b",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nНо не позволяй одной победе вскружить тебе\nголову. В мире ещё много фермеров куда\nсильнее.\n<PAGE>\nЕсли действительно хочешь стать достойным\nфермером, продолжай трудиться и\nсовершенствоваться."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_07",
+   "key": "1b9c32e8",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nС нетерпением жду нашей следующей встречи.\nДо тех пор."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_08",
+   "key": "50ff0e2f",
+   "ru": "(Надо и дальше очень стараться, чтобы\nпобедить и в следующий раз!)"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_09",
+   "key": "d2ca3ba0",
+   "ru": "(Эх... Проигрыш Мистеру Ди.)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_10",
+   "key": "7e1de374",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nВид у тебя расстроенный, <_____MYNAME_____>.\n<PAGE>\nЭто чувство неприятно, но именно\nразочарование побуждает людей становиться\nлучше.\n<PAGE>\nА значит, полагаю, в тебе ещё много\nпотенциала.\n<PAGE>\nСтараться дальше или смириться с потерями и\nбросить ― решать тебе."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_11",
+   "key": "1b9c32e8",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nС нетерпением жду нашей следующей встречи.\nДо тех пор."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ODD_12",
+   "key": "2a2de3e5",
+   "ru": "(Я буду стараться, чтобы в следующий раз\nточно победить!)"
+  }
+ ]
+}

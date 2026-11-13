@@ -1,0 +1,187 @@
+{
+ "file": "Love_S_Craftman_3",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_00",
+   "key": "715c61f4",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй! Алоха, <_____MYNAME_____>. Как дела?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_01",
+   "key": "0ec17345",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nА, это? Делаю новый стул для Захау.\n<PAGE>\nШальк сломал старый, вот он и попросил\nсделать замену."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_02",
+   "key": "a908c104",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе, работа довольно простая."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_03",
+   "key": "c6f6cb4c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nОсновная форма уже готова. Теперь осталось\nотнести внутрь и доделать."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_04",
+   "key": "23ddb929",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nС такими стульями обычно сначала делаешь\nоснову, а потом добавляешь украшения для\nкрасоты.\n<PAGE>\nНо на улице слишком ярко, чтобы как следует\nразглядеть детали для отделки.\n<PAGE>\nПоэтому нужно отнести внутрь, где свет лучше\nнастраивается."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_24",
+   "key": "d92a166b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_R>А? Что это у тебя глаза блестят?\n<PAGE>\nПостой. Дай угадаю. Хочешь посмотреть, как я\nбуду доделывать?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_05",
+   "key": "a1abd8d6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nХех, так и знал! Я не против, чтобы ты\nсмотрела, как я работаю...\n<PAGE>\n<FACE_SAD>Но, э-э, не уверен, стоит ли пускать даму одну\nв мужскую комнату..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_25",
+   "key": "567520c6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nОх, что я говорю? Конечно, всё будет\nнормально.\n<PAGE>\n<FACE_LAUGH>Заходи."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_06",
+   "key": "1d676752",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\n<FACE_LAUGH>Ну вот! Готово."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_07",
+   "key": "110694f2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nДа ладно! Хватит комплиментов! Стул может\nсделать любой, кто хоть немного разбирается."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_08",
+   "key": "2b762c8c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНо серьёзно, махало. Мне приятно.\n<PAGE>\nВ общем! С работой пока всё. Пожалуй, пора\nотдохнуть."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_09",
+   "key": "b8b51f59",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nХм-м-м... Если выбирать, самое интересное,\nчто я пока сделал...\n<PAGE>\n...это, наверное, механическая кукла. По\nмотивам традиционной игрушки из Цуюкусы.\n<PAGE>\nЕсли потянуть за нитку, она шла. Придумывать,\nкак это устроить, было очень весело!\n<PAGE>\nАх да. Ты знала, что эту гостиницу тоже я\nотстроил заново?\n<PAGE>\nНесколько лет назад налетела буря и почти\nразрушила старую.\n<PAGE>\nВот я понемногу и восстановил её, комнату за\nкомнатой."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_10",
+   "key": "c4255915",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nАх, да ничего особенного. Мне всегда\nнравилось что-то мастерить.\n<PAGE>\n<FACE_LAUGH>И к тому же приятно помогать тем, кому\nнужно."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_11",
+   "key": "bfcca964",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЧто значит, моей будущей жене повезёт? Ну ты\nскажешь!\n<PAGE>\n...\n<PAGE>\n<FACE_NORMAL>...\n<PAGE>\n<FACE_SAD>..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_12",
+   "key": "be5ba6f5",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\n*вздох*\n<PAGE>\n<FACE_NORMAL>Слушай. Скажу тебе кое-что.\n<PAGE>\nМужчины куда проще и прямолинейнее, чем\nты, похоже, думаешь, <_____MYNAME_____>."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_13",
+   "key": "90ed2030",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсли ты простодушно заходишь в комнату к\nпарню и говоришь такое с таким лицом...\n<PAGE>\nПарень начнёт кое-что себе воображать."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_14",
+   "key": "f660881f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nНеправильное, понимаешь? Тебе ведь этого не\nнадо, да?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_15",
+   "key": "1fde3099",
+   "ru": "Я не это имела в виду..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_16",
+   "key": "084f700e",
+   "ru": "А если это не неправильно?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_17",
+   "key": "b546a4cb",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\n<WINDOW_MOJA_R>Ну брось! Ты же не всерьёз, да?\n<PAGE>\nОх, правду говорят, что у дьявола бывает\nангельское личико.\n<PAGE>\nНам не стоит даже об этом говорить."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_18",
+   "key": "3f8fc490",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nДа... Я так и думал."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_19",
+   "key": "4c75e17f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nЭ кала маи, но... не могла бы ты уйти?\n<PAGE>\nМне нужно немного проветрить голову.\n<PAGE>\nЭ кала маи. Правда."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_20",
+   "key": "28da25a0",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nОх, что я говорю...?\n<PAGE>\nПойду-ка подышу воздухом."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_21",
+   "key": "bf7887eb",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_ANGRY>\r\nЭ?! Вы двое!! Вы подслушивали?!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_22",
+   "key": "2274354e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nОго, какая у него розовая аура.\n<PAGE>\n<FACE_TWINYOUNGER><FACE_NORMAL><POS_LEFT>Очень розовая...\n<PAGE>\n<FACE_TWINOLDER><FACE_LOSS><POS_RIGHT>Аж глаза режет.\n<PAGE>\n<FACE_TWINYOUNGER><FACE_LOSS><POS_LEFT>Тревожно..."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_3_23",
+   "key": "53a9cf49",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nОх, отлично. Просто отлично. Из всех, кого я\nНЕ хотел бы, чтобы подслушали..."
+  }
+ ]
+}

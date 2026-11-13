@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Borgo",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "02f79a5c",
+   "ru": "<NAME_MOB_BORGO>\r\nЗдорово!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "641a0db5",
+   "ru": "<NAME_MOB_BORGO>\r\nЧем могу помочь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "92213a04",
+   "ru": "<NAME_MOB_BORGO>\r\nВыглядишь бодро. Как всегда!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "4d3fd81e",
+   "ru": "<NAME_MOB_BORGO>\r\nПовозки ― это же здорово! Так удобно!"
+  }
+ ]
+}

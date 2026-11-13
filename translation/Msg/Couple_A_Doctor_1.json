@@ -1,0 +1,215 @@
+{
+ "file": "Couple_A_Doctor_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_00",
+   "key": "3ebda6d7",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_ANGRY>\r\nФорд!\n<PAGE>\nФорд, вы дома?!\n<PAGE>\nПроснитесь, пожалуйста! Скорее!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_01",
+   "key": "18fa7ff9",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто такое? Ещё рано."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_02",
+   "key": "c7e55476",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_ANGRY>\r\nОх, слава богу, вы проснулись!\n<PAGE>\n<FACE_SAD>Ноэль... С ней что-то не так!\n<PAGE>\nПростите, но идёмте со мной сейчас же!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_03",
+   "key": "de7cd620",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>\r\nНоэль?!\n<PAGE>\nПонял. Сейчас иду."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_04",
+   "key": "1d60089d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>...\n<PAGE>\n<FACE_NORMAL>Не хочется просить, но не поможешь мне?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_05",
+   "key": "79699400",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_SAD>\r\n*стонет*"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_06",
+   "key": "5f75c3c7",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_ANGRY>\r\nНоэль! Держись, милая!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_07",
+   "key": "2a7880cc",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\nТолько что всё было хорошо, и вдруг она\nзастонала от боли.\n<PAGE>\nПонятия не имею, отчего это. Просто не знаю,\nчто делать..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_08",
+   "key": "03feaa04",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм. Похоже, у неё жар."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_09",
+   "key": "d6636606",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПослушайте, вам нужно сохранять спокойствие.\nДа, температура довольно высокая, но паникой\nвы ей не поможете."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_10",
+   "key": "2b10a774",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЕсли нужно лишь сбить жар, можно дать\n“Жаропонижающее Плюс”, но для детей доза\nслишком велика...\n<PAGE>\nЛучше подождать и посмотреть, как пойдёт."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_11",
+   "key": "b954d519",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПрости, но не вскипятишь ли воды?\n<PAGE>\nИ буду благодарен, если принесёшь несколько\nчистых полотенец."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_12",
+   "key": "5c55f0f1",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\nЯ-я могу чем-то помочь?\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>...\n<PAGE>\nДа, побудьте рядом с ней.\n<PAGE>\nИногда одного ощущения, что мама крепко\nдержит за руку, хватает, чтобы ребёнок\nуспокоился.\n<PAGE>\n<FACE_LAUGH>...Не нужно волноваться. В конце концов, здесь\nопытный врач!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_14",
+   "key": "b0801e5c",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\nДоктор Форд...\n<PAGE>\n<FACE_NORMAL>Огромное вам спасибо. Доверяю её жизнь вам."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_15",
+   "key": "3997940b",
+   "ru": "<FACE_STOREDAUGHTER>\r\nХр-р... Хр-р..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_16",
+   "key": "5a11456b",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПохоже, худшее позади. Теперь всё должно\nбыть в порядке."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_17",
+   "key": "fb21dd55",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНебольшой жар ещё есть, но со временем\nспадёт.\n<PAGE>\nОна будет сильно потеть, так что переодевайте\nеё, когда нужно.\n<PAGE>\nТеперь бы ей что-нибудь лёгкое для\nжелудка..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_18",
+   "key": "7bef6679",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>\r\nЧто? Ты сварила для неё кашу, <_____MYNAME_____>?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_19",
+   "key": "ec4f14e7",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>\r\nОх, спасибо... Я вам обоим так обязана."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_20",
+   "key": "c9084e10",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПрошу, не стоит. Я лишь выполняю долг врача.\n<PAGE>\nДумаю, теперь волноваться не о чем, но если\nчто-то случится, без колебаний зовите меня."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_21",
+   "key": "2fa6f213",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nСпасибо. Хорошо, что ты была рядом и\nпомогла."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_22",
+   "key": "b8632559",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nМедсестры у меня нет, но...\n<PAGE>\nВ такие моменты очень помогает, когда рядом\nесть хотя бы один человек, который заботится\nо чувствах пациента.\n<PAGE>\nПрости, что втянул тебя. Знаю, завтра тебе\nрано вставать."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_23",
+   "key": "cc05ffd4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТы рада, что смогла помочь?\n<PAGE>\nХех, ну и мягкое же у тебя сердце."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_24",
+   "key": "023e7fae",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВообще-то сейчас подходящий момент, чтобы\nсказать."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_25",
+   "key": "97f6389a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКак ты знаешь, я единственный врач в городе.\nВполне вероятно, такое ещё повторится.\n<PAGE>\nРаз ты моя жена, я, наверное, снова буду на\nтебя полагаться..."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_26",
+   "key": "68d61817",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...Вот как. Ты правда не против?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_27",
+   "key": "2d304608",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...Спасибо.\n<PAGE>\nЯ так горжусь, что могу называть тебя своей\nженой."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_28",
+   "key": "41200996",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nИ всё же это моя работа. Постараюсь не\nдоставлять тебе слишком много хлопот.\n<PAGE>\nПоэтому хочу, чтобы ты была рядом и\nподдерживала меня."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_29",
+   "key": "cb792fe8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>... Я люблю тебя."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_DOCTOR_1_30",
+   "key": "91b03d32",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНу, пора спать.\n<PAGE>\nУтром снова рано вставать."
+  }
+ ]
+}

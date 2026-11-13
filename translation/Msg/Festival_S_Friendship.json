@@ -1,0 +1,1265 @@
+{
+ "file": "Festival_S_Friendship",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_00",
+   "key": "e2e40bca",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, все в сборе. Хорошо.\n<PAGE>\nТогда начинаем Ночь морских огней этого года!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_01",
+   "key": "8aed12ce",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nЛодки готовы.\n<PAGE>\nПраздник этот очень романтичный...\n<PAGE>\nТак что вам, молодёжи, лучше разбиться на\nпары с теми, кто вам нравится."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_02",
+   "key": "7dcb06d3",
+   "ru": "(Может, пригласить Лудуса?)"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_03",
+   "key": "ded75dcf",
+   "ru": "(Может, пригласить кого-то\nпротивоположного пола? Кого бы выбрать?)"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_04",
+   "key": "0cb7cc87",
+   "ru": "Илука"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_05",
+   "key": "308ccf64",
+   "ru": "Силука"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_06",
+   "key": "eefdbbf9",
+   "ru": "(Не хочу огорчать <CHARANAME0>, так что в этот раз\nприглашу Лудуса.)"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_07",
+   "key": "2cdc1e51",
+   "ru": "(Не хочу огорчать <CHARANAME0>, так что в этот раз\nприглашу кого-то своего пола. Кого бы\nпригласить?)"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_08",
+   "key": "0cb7cc87",
+   "ru": "Илука"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_09",
+   "key": "308ccf64",
+   "ru": "Силука"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_10",
+   "key": "6303bbfd",
+   "ru": "<FACE_INNOWNER>\r\nРаз уж вы выбрали пару, отправляйтесь в\nморе!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_11",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_OTHERSEX_00",
+   "key": "f0781606",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nО, да это же <_____MYNAME_____>. Ты ещё не отплыла?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_OTHERSEX_01",
+   "key": "e701c896",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nХочешь со мной? Конечно, пошли!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_00",
+   "key": "e51a4d13",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>! Ты ведь со мной, да? Сюда."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_MARRIAGE_00",
+   "key": "2128dd10",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЯ тебя искал, <_____MYNAME_____>. Давай скорее отплывать."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_00",
+   "key": "002a0591",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nО, да это же <_____MYNAME_____>. Ты ещё не отплыл?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_01",
+   "key": "dfbac059",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nСо мной? А, понятно, думаешь о чувствах <CHARANAME0>, да?\n<PAGE>\nЕсли тебя устраивает, <_____MYNAME_____>, мне отказываться не с\nчего."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_02",
+   "key": "002a0591",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nО, да это же <_____MYNAME_____>. Ты ещё не отплыл?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_03",
+   "key": "6ddc172e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе очень понимаю, к чему ты клонишь, но если\nтебя устраивает, <_____MYNAME_____>, мне отказываться не с чего."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_OTHERSEX_SEA_00",
+   "key": "cedda9b6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВсе сели? Я вывожу лодку, так что немного\nпокачает."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_OTHERSEX_SEA_01",
+   "key": "48c21e36",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдесь, пожалуй, хорошо... Моё любимое\nместо. Про него никто не знает."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_OTHERSEX_SEA_02",
+   "key": "e7192215",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНевероятно, правда? Почему-то каждый год в\nэто время здесь полно светящегося планктона."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_OTHERSEX_SEA_03",
+   "key": "199784ac",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПару лет назад я даже нырнул в океан, когда он\nвесь светился.\n<PAGE>\nПодумал: раз сверху так красиво, то и внизу,\nнаверное, загляденье.\n<PAGE>\n...Но я ошибся. Лунный свет туда не доходил, и\nя почти ничего не увидел.\n<PAGE>\nТогда я понял: на светящийся планктон надо\nсмотреть с лодки, под лунным светом."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_OTHERSEX_SEA_08",
+   "key": "aacbdc90",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nМы уже давно здесь. Пора возвращаться."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_OTHERSEX_SEA_09",
+   "key": "1223d6de",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nБлагодаря тебе мне сегодня было здорово, <_____MYNAME_____>.\n<PAGE>\nЕсли захочешь, я с радостью ещё как-нибудь\nпроведу с тобой время. До встречи."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_OTHERSEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_SEA_00",
+   "key": "cedda9b6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВсе сели? Я вывожу лодку, так что немного\nпокачает."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_SEA_01",
+   "key": "48c21e36",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдесь, пожалуй, хорошо... Моё любимое\nместо. Про него никто не знает."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_SEA_02",
+   "key": "762eec58",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНевероятно, правда? Почему-то каждый год в\nэто время здесь полно светящегося планктона.\n<PAGE>\n<FACE_LAUGH>Я рад, что могу показать тебе этот вид.\nНадеюсь, тебе понравится."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_SEA_03",
+   "key": "2b0a5b4a",
+   "ru": "Молча смотреть ему в лицо"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_SEA_04",
+   "key": "1c1d47e1",
+   "ru": "Нежно взять его за руку"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_SEA_05",
+   "key": "d5caa213",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Хм? Ты так смотришь мне в лицо. Что такое?\nЧто-то прилипло?\n<PAGE>\n...Нет? Тогда почему ты на меня так смотришь?\n<PAGE>\n...\n<PAGE>\n<FACE_LAUGH>...Ха-ха, прости, прости. Ты такая милая, что я\nне удержался и решил подразнить.\n<PAGE>\nНе заметила? Ты покраснела до самых ушей.\n<PAGE>\nТы милее всего, когда вот так смущаешься, <_____MYNAME_____>."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_SEA_06",
+   "key": "97e5cc4c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nХм? Что это вдруг?\n<PAGE>\nТы нечасто бываешь такой смелой. Обычно ты\nпросто смущаешься.\n<PAGE>\nНу же, подвинься поближе. Всё хорошо,\nможешь на меня опереться.\n<PAGE>\n...Раньше я думал, что Ночь морских огней ―\nобычный праздник, но...\n<PAGE>\nЕсли ты будешь такой напористой, я не прочь,\nчтобы Ночь морских огней была каждую ночь."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_SEA_07",
+   "key": "9efa4ac6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOVE>\r\nЭй, посмотри мне в глаза... Да, вот так. А\nтеперь не шевелись."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_SEA_08",
+   "key": "197767b3",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nФух, похоже, пора возвращаться. Я бы ещё\nпобыл с тобой вот так, но...\n<PAGE>\n<FACE_LAUGH>Боюсь, ты не выдержишь. На твоих щеках\nсейчас можно яичницу жарить. Поплыли\nобратно."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_SEA_09",
+   "key": "ffd785b3",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nМне сегодня было весело. Почти всё время\nлюбовался, какая ты милашка, <_____MYNAME_____>.\n<PAGE>\nАй! Прости, прости. Я пошутил!\n<PAGE>\nДавай придём и в следующем году."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_LOVER_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_MARRIAGE_SEA_00",
+   "key": "cd7e8e78",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВсе сели? Сейчас выведу лодку, так что\nнемного покачает. Не высовывайся за борт."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_MARRIAGE_SEA_01",
+   "key": "b0a966b5",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, мы на месте! Моё тайное место.\n<PAGE>\n<FACE_LAUGH>Здесь нам никто не помешает, и вид будет весь\nмой... нет, весь наш."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_MARRIAGE_SEA_02",
+   "key": "bee41ac5",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ вижу это каждый год, но вместе с тобой всё\nбудто впервые.\n<PAGE>\nНе знаю, как сказать... Атмосфера, что ли?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_MARRIAGE_SEA_03",
+   "key": "d54ac9bb",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\n...Хм? Прости. Засмотрелся на тебя.\n<PAGE>\nЭй, я не вру. Просто говорю как есть.\n<PAGE>\nСмотри... Свет планктона и звёзд отражается от\nводы и падает на твоё лицо...\n<PAGE>\nЧто такое? Не надо так подробно описывать?\n<PAGE>\n<FACE_LAUGH>Эй, тут нечего стесняться, правда? Это просто\nправда."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_MARRIAGE_SEA_07",
+   "key": "f2e979b5",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOVE>\r\nЭй, не смотри туда. Посмотри мне в глаза..."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_MARRIAGE_SEA_08",
+   "key": "197767b3",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nФух, похоже, пора возвращаться. Я бы ещё\nпобыл с тобой вот так, но...\n<PAGE>\n<FACE_LAUGH>Боюсь, ты не выдержишь. На твоих щеках\nсейчас можно яичницу жарить. Поплыли\nобратно."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_MARRIAGE_SEA_09",
+   "key": "ab5ba72f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nМне сегодня было весело. К тому же твоя\nкрасота была только моей, <_____MYNAME_____>.\n<PAGE>\nДавай придём сюда и в следующем году.\nЛадно, до встречи."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_MARRIAGE_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_B_SEA_00",
+   "key": "e722e94f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВсе сели? Сейчас выведу лодку, так что\nнемного покачает. Не высовывайся за борт."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_B_SEA_01",
+   "key": "4e8b2a40",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, мы на месте. Здесь тихо и, главное,\nхороший вид."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_B_SEA_02",
+   "key": "ec281255",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНу как, <CHILD_NAME>? Вблизи куда красивее, чем с пляжа,\nправда?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ух ты-ы! Будто мы среди звёзд!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_B_SEA_03",
+   "key": "2262cb0f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nОго, эй, так и в воду упасть недолго. И\nпланктон облепит с ног до головы.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>А что будет, если я буду в планктоне?\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>Одежда будет светиться, как океан.\n<PAGE>\nИ все узнают про твоё купание. Хочешь\nвыделяться ― не буду мешать.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Нет, спасибо. Бабушка, наверное, будет\nсмеяться.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Разумно. Когда-то давно я свалился, так она\nсмеялась без остановки.\n<PAGE>\n<FACE_NORMAL>...Тебе бы хотелось на это посмотреть? Хоть\nэто и твоя просьба, <_____MYNAME_____>, придётся отказаться.\n<PAGE>\n...И для протокола: про планктон и всё такое я\nпошутил."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_B_SEA_08",
+   "key": "86f84fb2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, похоже, мы тут уже давно. Пора домой.\nСейчас поплывём, так что сидите смирно."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_B_SEA_09",
+   "key": "c2e8077d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПлыть на лодке всей семьёй ― здорово.\n<PAGE>\n...Это всё благодаря тебе, <_____MYNAME_____>. Махало."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_B_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_G_SEA_00",
+   "key": "e722e94f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВсе сели? Сейчас выведу лодку, так что\nнемного покачает. Не высовывайся за борт."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_G_SEA_01",
+   "key": "4e8b2a40",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, мы на месте. Здесь тихо и, главное,\nхороший вид."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_G_SEA_02",
+   "key": "ec281255",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНу как, <CHILD_NAME>? Вблизи куда красивее, чем с пляжа,\nправда?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ух ты-ы! Будто мы среди звёзд!"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_G_SEA_03",
+   "key": "2262cb0f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nОго, эй, так и в воду упасть недолго. И\nпланктон облепит с ног до головы.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>А что будет, если я буду в планктоне?\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>Одежда будет светиться, как океан.\n<PAGE>\nИ все узнают про твоё купание. Хочешь\nвыделяться ― не буду мешать.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Нет, спасибо. Бабушка, наверное, будет\nсмеяться.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Разумно. Когда-то давно я свалился, так она\nсмеялась без остановки.\n<PAGE>\n<FACE_NORMAL>...Тебе бы хотелось на это посмотреть? Хоть\nэто и твоя просьба, <_____MYNAME_____>, придётся отказаться.\n<PAGE>\n...И для протокола: про планктон и всё такое я\nпошутил."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_G_SEA_08",
+   "key": "86f84fb2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, похоже, мы тут уже давно. Пора домой.\nСейчас поплывём, так что сидите смирно."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_G_SEA_09",
+   "key": "c2e8077d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПлыть на лодке всей семьёй ― здорово.\n<PAGE>\n...Это всё благодаря тебе, <_____MYNAME_____>. Махало."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_CHILD_G_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_SEA_00",
+   "key": "cedda9b6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВсе сели? Я вывожу лодку, так что немного\nпокачает."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_SEA_01",
+   "key": "4205c47f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗдесь, пожалуй, хорошо... Моё любимое\nместо. Про него никто не знает."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_SEA_02",
+   "key": "e7192215",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНевероятно, правда? Почему-то каждый год в\nэто время здесь полно светящегося планктона."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_SEA_03",
+   "key": "3f3ea690",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nПару лет назад я даже нырнул в океан, когда он\nвесь светился.\n<PAGE>\nПодумал: раз сверху так красиво, то и внизу,\nнаверное, загляденье.\n<PAGE>\n<FACE_SAD>...Но я ошибся. Лунный свет туда не доходил, и\nя почти ничего не увидел.\n<PAGE>\n<FACE_LAUGH>Тогда я понял: на светящийся планктон надо\nсмотреть с лодки, под лунным светом."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_SEA_08",
+   "key": "aacbdc90",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nМы уже давно здесь. Пора возвращаться."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_SEA_09",
+   "key": "e6fbfe80",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nБлагодаря тебе мне сегодня было здорово, <_____MYNAME_____>.\n<PAGE>\nДавай как-нибудь сходим на рыбалку, чисто\nмужской компанией. Я снова вывезу тебя на\nлодке."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_Craftman_SAMESEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_OTHERSEX_00",
+   "key": "7cc8d078",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nО, да это же <_____MYNAME_____>. Тебе что-то нужно?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_OTHERSEX_01",
+   "key": "70867296",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nН-ну, раз ты так упрашиваешь, так и быть,\nсоставлю тебе компанию.\n<PAGE>\nНо только сегодня. Это особый случай, так что\nне обольщайся!\n<PAGE>\n...Чего стоишь? Пошли же!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_00",
+   "key": "6a5db263",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\n...\n<PAGE>\n...Ох, ну вот! Д-догадайся сам, без моих слов!\nТы проводишь этот день со мной! Понял?\n<PAGE>\nЕсли до твоей глупой головы дошло, то пошли!"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_MARRIAGE_00",
+   "key": "a05c49d8",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧего ты там стоишь, <_____MYNAME_____>? Пошли.\n<PAGE>\n<FACE_LOVE>...Не заставляй меня говорить всё вслух. Мы\nведь проведём этот день вместе, да?"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_00",
+   "key": "e9da5756",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНадо же, да это же <_____MYNAME_____>. Чем могу помочь?"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_01",
+   "key": "aa61f011",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nХм, понятно. Ты не хочешь, чтобы <CHARANAME0> волновался.\n<PAGE>\nЛадно. Сделаю исключение и составлю тебе\nкомпанию сегодня вечером.\n<PAGE>\n<FACE_LAUGH>Пошли."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_02",
+   "key": "e9da5756",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНадо же, да это же <_____MYNAME_____>. Чем могу помочь?"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_03",
+   "key": "b64a26de",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nХм, понятно. Н-ну, раз ты так просишь, так и\nбыть, сделаю исключение и составлю тебе\nкомпанию.\n<PAGE>\nПошли."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_OTHERSEX_SEA_00",
+   "key": "a0a178ed",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЯ покажу тебе красивое место, так что выводи\nлодку.\n<PAGE>\nИли что? Хочешь, чтобы я гребла? Я не\nсобираюсь накачивать мышцы."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_OTHERSEX_SEA_01",
+   "key": "ce030e74",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nОго! Ну же, <_____MYNAME_____>! Когда ты перестанешь грести и\nпосмотришь вокруг?!"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_OTHERSEX_SEA_02",
+   "key": "6bc4fea6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТак я и знала. Всё выглядит совсем не так, как с\nберега.\n<PAGE>\nВсё так близко, будто протянешь руку ― и\nкоснёшься звёзд.\n<PAGE>\nАх! Смотри! Будто небо и океан слились, а\nнаша лодка плывёт сквозь них."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_OTHERSEX_SEA_03",
+   "key": "08a41225",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТы вообще смотришь? Надо совсем без мозгов\nбыть, чтобы не видеть, как тут красиво!\n<PAGE>\n<FACE_LOVE>А? Я язвительнее обычного?\n<PAGE>\nЗ-замолчи! Что в этом такого?! Я сама лучше\nвсех это знаю!\n<PAGE>\n<FACE_NORMAL>...С тобой я просто не могу вести себя иначе. В\nобщем, это ты во всём виноват. Понял?\n<PAGE>\nС тобой, <_____MYNAME_____>, мне не нужно притворяться\nпай-девочкой.\n<PAGE>\n<FACE_LOSS>Ох, ну вот, наговорила странного. Забудь всё!\nПонял?!"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_OTHERSEX_SEA_08",
+   "key": "fb436d2c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТы так копался, что уже всё кончилось. Почти\nне успели полюбоваться.\n<PAGE>\nЛадно, возвращаемся на пляж... Чего\nзамечтался? Давай быстрее к берегу."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_OTHERSEX_SEA_09",
+   "key": "3ab6b442",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nБыло на удивление весело... Н-наверное,\nблагодаря тебе. Благодарю.\n<PAGE>\n...М-махало, <_____MYNAME_____>. Если в следующем году у тебя\nне будет пары, я не против снова составить\nкомпанию."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_OTHERSEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_SEA_00",
+   "key": "999ae979",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЯ покажу тебе красивое место, так что выводи\nлодку.\n<PAGE>\nТяжёлая работа ― для мужчин. Или что?\nХочешь, чтобы я гребла? Я не собираюсь\nнакачивать мышцы."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_SEA_01",
+   "key": "ce030e74",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nОго! Ну же, <_____MYNAME_____>! Когда ты перестанешь грести и\nпосмотришь вокруг?!"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_SEA_02",
+   "key": "6bc4fea6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТак я и знала. Всё выглядит совсем не так, как с\nберега.\n<PAGE>\nВсё так близко, будто протянешь руку ― и\nкоснёшься звёзд.\n<PAGE>\nАх! Смотри! Будто небо и океан слились, а\nнаша лодка плывёт сквозь них."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_SEA_03",
+   "key": "2491fdcc",
+   "ru": "Молча смотреть ей в лицо"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_SEA_04",
+   "key": "10e1fe30",
+   "ru": "Нежно взять её за руку"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_SEA_05",
+   "key": "c7409789",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n...Что? Если ты так на меня смотришь, что мне\nсказать?\n<PAGE>\n...Залюбовался моей красотой? Ну ещё бы!\nДаже луна краснеет при виде моей красоты.\n<PAGE>\n<FACE_LAUGH>Тебе невероятно повезло: самая красивая\nдевушка ― твоя!\n<PAGE>\n<FACE_LOVE>...Не смотри на меня так ласково. Наверное,\nдумаешь, что я опять не говорю, что чувствую,\nда?\n<PAGE>\nНе называй меня милой... Я смущусь и\nнаговорю ещё больше немилого..."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_SEA_06",
+   "key": "5f06d6d3",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nА-а! Ты что делаешь?\n<PAGE>\nТолько сейчас, понял? Сегодня даю особое\nразрешение. Ч-чего улыбаешься?\n<PAGE>\nЧто значит, я сегодня откровенна? Я-я вовсе не\nрада. Просто решила разок разрешить\nподержать меня за руку!\n<PAGE>\nК тому же у тебя был такой вид, будто тебе\nхочется тепла. И вообще, мне и самой\nспокойнее, когда держу тебя за руку...\n<PAGE>\n...Что я вообще несу...? Не смейся, <_____MYNAME_____>. Я чувствую\nсебя такой дурочкой."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_SEA_07",
+   "key": "b5d5a1ad",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nОх, ну вот! Помолчи секунду!"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_SEA_08",
+   "key": "ec71f66d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\n...Слышен колокол. Уже всё.\n<PAGE>\nЛадно, пошли домой. Выводи лодку... Иногда\nможно и не спешить домой."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_SEA_09",
+   "key": "402a7239",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nБыло на удивление весело... Н-наверное,\nблагодаря тебе. Мы ведь, как-никак, пара.\n<PAGE>\n...М-махало, <_____MYNAME_____>. Освободи и следующий год...\nР-разумеется, в следующий раз мы снова\nвместе, да?"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_LOVER_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_MARRIAGE_SEA_00",
+   "key": "201cd591",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТы ведь уже знаешь, где красивое место, <_____MYNAME_____>?\nПоплыли скорее.\n<PAGE>\n<FACE_LAUGH>Ты стал лучше понимать такие вещи. ♪ Потом\nнагражу."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_MARRIAGE_SEA_01",
+   "key": "8680f38e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, можешь не грести! Тут потрясающе. Посмотри\nвокруг!"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_MARRIAGE_SEA_02",
+   "key": "6bc4fea6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТак я и знала. Всё выглядит совсем не так, как с\nберега.\n<PAGE>\nВсё так близко, будто протянешь руку ― и\nкоснёшься звёзд.\n<PAGE>\nАх! Смотри! Будто небо и океан слились, а\nнаша лодка плывёт сквозь них."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_MARRIAGE_SEA_03",
+   "key": "3cc7f176",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nЧто значит, я веду себя как ребёнок? Это так\nплохо? При остальных я ведь так не могу.\n<PAGE>\n<FACE_NORMAL>Я старшая сестра, мне нельзя выглядеть\nнесерьёзной. Надо держать себя в руках.\n<PAGE>\nПоэтому, когда мы вдвоём, дай мне немного\nпослабления, ладно?\n<PAGE>\n<FACE_LOSS>...Стоп, так не годится! Я же только что\nобещала тебя наградить, а выходит наоборот!\n<PAGE>\nХватит смеяться! Нечестно, что это всегда ты\nчто-то для меня делаешь!\n<PAGE>\n<FACE_LOVE>Дай и мне что-то для тебя сделать. Гордость\nне позволяет принимать всю твою доброту,\nничего не давая взамен."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_MARRIAGE_SEA_07",
+   "key": "c6608304",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nВ такие моменты ты ужасно туго соображаешь.\n<PAGE>\nЕ-если понял... то скорее закрой глаза."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_MARRIAGE_SEA_08",
+   "key": "bc034761",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nСлышен колокол. Уже всё.\n<PAGE>\nНу, пошли домой. Я устала от всех этих\nволнений."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_MARRIAGE_SEA_09",
+   "key": "494b5ccb",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nСегодня было весело. Н-наверное, благодаря\nтебе. Мы ведь, как-никак, муж и жена.\n<PAGE>\n<FACE_LOVE>В следующем году и через год ты снова\nпойдёшь со мной. Понял? Это обещание."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_MARRIAGE_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_B_SEA_00",
+   "key": "201cd591",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТы ведь уже знаешь, где красивое место, <_____MYNAME_____>?\nПоплыли скорее.\n<PAGE>\n<FACE_LAUGH>Ты стал лучше понимать такие вещи. ♪ Потом\nнагражу."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_B_SEA_01",
+   "key": "d4500b77",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nПапа! Мама! Смотрите, смотрите! Потрясающе!"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_B_SEA_02",
+   "key": "6bc4fea6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТак я и знала. Всё выглядит совсем не так, как с\nберега.\n<PAGE>\nВсё так близко, будто протянешь руку ― и\nкоснёшься звёзд.\n<PAGE>\nАх! Смотри! Будто небо и океан слились, а\nнаша лодка плывёт сквозь них."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_B_SEA_03",
+   "key": "3405957d",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nУх ты, правда! Я тоже хочу потрогать звёзды!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>Эй! <CHILD_NAME>! Не раскачивай лодку. Это опасно.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>Прости, мама...\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Вот так. Сядь как следует... А ты чего\nухмыляешься, <_____MYNAME_____>?\n<PAGE>\nТебе весело? Тебе всё равно, что я тут ребёнка\nотчитываю? Ну и беспечный же ты...\n<PAGE>\n<FACE_LOVE>Знаешь, мы же семья, можем делать так когда\nзахотим... Да хоть снова приплыть сюда\nвтроём.\n<PAGE>\n<FACE_NORMAL>Так! <CHILD_NAME> и <_____MYNAME_____>, хорошенько насмотритесь, пока не\nпоплыли домой!"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_B_SEA_08",
+   "key": "5e48790b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nСлышен колокол... Уже пора закругляться.\nПошли домой."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_B_SEA_09",
+   "key": "dc11de5c",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nБыло ужасно красиво! Хочу снова приплыть со\nвсеми.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Ага. Я тоже. Так что в следующем году\nприплывём снова, все втроём."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_B_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_G_SEA_00",
+   "key": "201cd591",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТы ведь уже знаешь, где красивое место, <_____MYNAME_____>?\nПоплыли скорее.\n<PAGE>\n<FACE_LAUGH>Ты стал лучше понимать такие вещи. ♪ Потом\nнагражу."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_G_SEA_01",
+   "key": "d4500b77",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nПапа! Мама! Смотрите, смотрите! Потрясающе!"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_G_SEA_02",
+   "key": "6bc4fea6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТак я и знала. Всё выглядит совсем не так, как с\nберега.\n<PAGE>\nВсё так близко, будто протянешь руку ― и\nкоснёшься звёзд.\n<PAGE>\nАх! Смотри! Будто небо и океан слились, а\nнаша лодка плывёт сквозь них."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_G_SEA_03",
+   "key": "3405957d",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nУх ты, правда! Я тоже хочу потрогать звёзды!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>Эй! <CHILD_NAME>! Не раскачивай лодку. Это опасно.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>Прости, мама...\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Вот так. Сядь как следует... А ты чего\nухмыляешься, <_____MYNAME_____>?\n<PAGE>\nТебе весело? Тебе всё равно, что я тут ребёнка\nотчитываю? Ну и беспечный же ты...\n<PAGE>\n<FACE_LOVE>Знаешь, мы же семья, можем делать так когда\nзахотим... Да хоть снова приплыть сюда\nвтроём.\n<PAGE>\n<FACE_NORMAL>Так! <CHILD_NAME> и <_____MYNAME_____>, хорошенько насмотритесь, пока не\nпоплыли домой!"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_G_SEA_08",
+   "key": "5e48790b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nСлышен колокол... Уже пора закругляться.\nПошли домой."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_G_SEA_09",
+   "key": "dc11de5c",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nБыло ужасно красиво! Хочу снова приплыть со\nвсеми.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Ага. Я тоже. Так что в следующем году\nприплывём снова, все втроём."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_CHILD_G_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_SEA_00",
+   "key": "c1386c14",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЯ покажу тебе красивое место, так что выводи\nлодку.\n<PAGE>\nШучу. Вид у тебя такой, будто грести умеешь,\nно ты ведь ни разу не пробовала, да? Давай\nвместе."
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_SEA_01",
+   "key": "435f0006",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nОго! Ну же, <_____MYNAME_____>! Когда ты перестанешь грести и\nпосмотришь вокруг?!"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_SEA_02",
+   "key": "6bc4fea6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТак я и знала. Всё выглядит совсем не так, как с\nберега.\n<PAGE>\nВсё так близко, будто протянешь руку ― и\nкоснёшься звёзд.\n<PAGE>\nАх! Смотри! Будто небо и океан слились, а\nнаша лодка плывёт сквозь них."
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_SEA_03",
+   "key": "1355f98d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТы вообще смотришь? Надо совсем без мозгов\nбыть, чтобы не видеть, как тут красиво!\n<PAGE>\n<FACE_NORMAL>А? Я язвительнее обычного?\n<PAGE>\n<FACE_ANGRY>З-замолчи! Что в этом такого?! Я сама лучше\nвсех это знаю!\n<PAGE>\n<FACE_NORMAL>...С тобой я совсем сбиваюсь. Это всё из-за\nтвоей ауры.\n<PAGE>\nДавно об этом думаю, но наши ауры хорошо\nсочетаются, <_____MYNAME_____>.\n<PAGE>\nДаже удивительно. Ты всегда такая честная, а я\nвечно вредничаю. Мы же полные\nпротивоположности.\n<PAGE>\n<FACE_LOSS>Ох, ну вот, наговорила странного. Забудь всё!\nПоняла?!"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_SEA_08",
+   "key": "5377e6ac",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТы так копалась, что уже всё кончилось. Почти\nне успели полюбоваться.\n<PAGE>\nЛадно, возвращаемся на пляж... Чего\nзамечталась? Давай быстрее к берегу."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_SEA_09",
+   "key": "f1609f17",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nБыло на удивление весело... Н-наверное,\nблагодаря тебе. Благодарю."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinOlder_SAMESEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_OTHERSEX_00",
+   "key": "981a60fd",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>. Что такое?"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_OTHERSEX_01",
+   "key": "16d801c9",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМожет быть приятно. Хорошо."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_00",
+   "key": "b07d7290",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\nМы ведь идём вместе, да? <_____MYNAME_____>... Хи-хи, я рада."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_MARRIAGE_00",
+   "key": "7e1d3ca0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\n<_____MYNAME_____>... Пойдём скорее. Мне не терпится."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_00",
+   "key": "981a60fd",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>. Что такое?"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_01",
+   "key": "7655b37d",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n......? А, понятно. Ты волнуешься, что подумает\n<CHARANAME0>.\n<PAGE>\nЕсли тебе так хорошо, <_____MYNAME_____>, то давай. Пойдём\nвместе."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_02",
+   "key": "981a60fd",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>. Что такое?"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_03",
+   "key": "793a2938",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЕсли ты не против, <_____MYNAME_____>, то давай. Пойдём вместе."
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_OTHERSEX_SEA_00",
+   "key": "71e7ba87",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nСоветую плыть сразу за скалы... наверное?\nДумаю, там будет красивый вид.\n<PAGE>\nАх, весло... Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_OTHERSEX_SEA_01",
+   "key": "29291bea",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nВот примерно здесь... Стой. Да, хорошо."
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_OTHERSEX_SEA_02",
+   "key": "0f77deb4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nИ в этом году красиво. Я буду рада, если тебе\nпонравится вид, <_____MYNAME_____>."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_OTHERSEX_SEA_03",
+   "key": "8fe7260c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЯ всегда с Илукой, так что это немного странно.\n<PAGE>\nНо мне нравится быть с тобой, <_____MYNAME_____>.\n<PAGE>\nА тебе, <_____MYNAME_____>?\n<PAGE>\n...Понятно. Хи-хи. Наши ауры, как ни странно,\nидеально совпадают."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_OTHERSEX_SEA_08",
+   "key": "8f9992e2",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПора заканчивать. Время пролетело."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_OTHERSEX_SEA_09",
+   "key": "3dd73d66",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМне было весело с тобой, <_____MYNAME_____>. Кажется, я рада,\nчто пошла с тобой."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_OTHERSEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_SEA_00",
+   "key": "71e7ba87",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nСоветую плыть сразу за скалы... наверное?\nДумаю, там будет красивый вид.\n<PAGE>\nАх, весло... Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_SEA_01",
+   "key": "29291bea",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nВот примерно здесь... Стой. Да, хорошо."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_SEA_02",
+   "key": "3c9244d3",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nИ в этом году красиво. Я буду рада, если тебе\nпонравится вид, <_____MYNAME_____>. Кажется.\n<PAGE>\n<FACE_LOVE>...Нет, не так. Не кажется... Я точно знаю, что\nбуду очень рада, если и тебе понравится, <_____MYNAME_____>.\n<PAGE>\nЯ чувствую, что изменилась. Если я изменюсь,\nты всё равно будешь меня любить?"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_SEA_03",
+   "key": "2491fdcc",
+   "ru": "Молча смотреть ей в лицо"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_SEA_04",
+   "key": "10e1fe30",
+   "ru": "Нежно взять её за руку"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_SEA_05",
+   "key": "cdc348cd",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\nХи-хи, можешь ничего не говорить. Я вижу по\nтвоей ауре.\n<PAGE>\n<FACE_LAUGH>Махало, <_____MYNAME_____>. У твоей ауры чудесный цвет.\n<PAGE>\n<FACE_LOVE>Слушай, можно мне чуть ближе?\n<PAGE>\n*обнимает* <_____MYNAME_____>, когда я тебя касаюсь, сердце\nбьётся быстрее, но и успокаивается тоже.\n<PAGE>\nЗнаю, это противоречие. Не могу толком\nобъяснить это чувство."
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_SEA_06",
+   "key": "9fa3aad6",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\n...Хи-хи, я рада. Мы с тобой чувствуем одно и\nто же, <_____MYNAME_____>... Наверное.\n<PAGE>\nС тобой, <_____MYNAME_____>, я чувствую столько всего. Это\nинтересно.\n<PAGE>\nДаже сейчас чувствую что-то необъяснимое.\nИнтересно, как сейчас выглядит моя аура.\n<PAGE>\nНаверняка у неё красивый цвет... Как у твоей, <_____MYNAME_____>."
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_SEA_07",
+   "key": "02c29ed3",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\n<_____MYNAME_____>... Я хочу, чтобы ты меня поцеловал."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_SEA_08",
+   "key": "b13910eb",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_SAD>\r\n...Пора заканчивать. Время пролетело.\n<PAGE>\nЯ ещё хочу остаться, но бабуля и Илука будут\nволноваться, так что надо домой..."
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_SEA_09",
+   "key": "33f9a59a",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nНа сердце так полно, что не могу подобрать\nслов.\n<PAGE>\n<FACE_LOVE>Я буду очень рада, если смогу прийти сюда\nснова с тобой, <_____MYNAME_____>... Можно?"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_LOVER_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_MARRIAGE_SEA_00",
+   "key": "4bfac67f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nДержи, <_____MYNAME_____>. Бери весло. Я показываю дорогу, а ты\nуправляешь лодкой.\n<PAGE>\n<FACE_LAUGH>Хи-хи... Бабуля называет это “совместная\nработа”. Мне даже приятно."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_MARRIAGE_SEA_01",
+   "key": "128fc14c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nВот здесь. Это наше обычное место.\n<PAGE>\n<FACE_LAUGH>Хи-хи... “Наше обычное место”. Я думала,\nбуду так говорить только с Илукой."
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_MARRIAGE_SEA_02",
+   "key": "2dafba13",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...В этом году, кажется, сияет ярче, чем в\nпрошлом. Или мне кажется?\n<PAGE>\nНе понять, где кончается небо и начинается\nокеан.\n<PAGE>\nХи-хи, будто мы внутри зеркала."
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_MARRIAGE_SEA_03",
+   "key": "13384417",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...Слушай, попробуй кое-что. Подними руки,\nбудто хочешь поймать звезду. И... давай.\n<PAGE>\n*обнимает*\n<PAGE>\n<FACE_LOVE>...Хи-хи, как хорошо. У твоей ауры очень\nсчастливый цвет, <_____MYNAME_____>.\n<PAGE>\nСвою я не вижу, но, наверняка, она такая же,\nкак твоя, <_____MYNAME_____>."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_MARRIAGE_SEA_07",
+   "key": "2d7d9b79",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...<_____MYNAME_____>, в такие моменты закрывают глаза."
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_MARRIAGE_SEA_08",
+   "key": "2b0fec08",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_SAD>\r\nХочу остаться подольше, но бабуля и Илука\nбудут волноваться. Надо домой...\n<PAGE>\n<FACE_LOVE>...А может, пусть немного поволнуются.\n<PAGE>\n...Шучу. Вернёмся к остальным."
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_MARRIAGE_SEA_09",
+   "key": "8573139d",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nХочу, чтобы и в следующем году, и через год\nты был только моим, <_____MYNAME_____>... Можно?"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_MARRIAGE_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_B_SEA_00",
+   "key": "b49a1e2c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nДержи, <_____MYNAME_____>. Бери весло. Я показываю дорогу, а ты\nуправляешь лодкой."
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_B_SEA_01",
+   "key": "c4563e99",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nВот мы и на месте. Молодец, <_____MYNAME_____>.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Молодец!"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_B_SEA_02",
+   "key": "536e9331",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...В этом году, кажется, сияет ярче, чем в\nпрошлом. Или мне кажется?\n<PAGE>\nНе понять, где кончается небо и начинается\nокеан."
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_B_SEA_03",
+   "key": "3f03fbc6",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nИнтересно, а рыбам оттуда видно планктон?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Хи-хи, наверняка видно. Сегодня он особенно\nкрасивый.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хочу посмотреть на него вместе с рыбами!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>...Наверное, рыбы тоже смотрят со своими\nсемьями, как мы. Не надо им мешать.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ой... Тогда будем смотреть тихо, чтобы им не\nмешать!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Ага... Что такое, <_____MYNAME_____>? Ты так широко улыбаешься."
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_B_SEA_08",
+   "key": "13901c59",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПора закругляться. Время пролетело. Вернёмся\nк остальным."
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_B_SEA_09",
+   "key": "2aaf7a0f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЯ чувствую себя самой счастливой женщиной на\nсвете. В следующем году придём снова, все\nвтроём... Обещаешь?"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_B_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_G_SEA_00",
+   "key": "b49a1e2c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nДержи, <_____MYNAME_____>. Бери весло. Я показываю дорогу, а ты\nуправляешь лодкой."
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_G_SEA_01",
+   "key": "c4563e99",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nВот мы и на месте. Молодец, <_____MYNAME_____>.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Молодец!"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_G_SEA_02",
+   "key": "536e9331",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...В этом году, кажется, сияет ярче, чем в\nпрошлом. Или мне кажется?\n<PAGE>\nНе понять, где кончается небо и начинается\nокеан."
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_G_SEA_03",
+   "key": "3f03fbc6",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nИнтересно, а рыбам оттуда видно планктон?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Хи-хи, наверняка видно. Сегодня он особенно\nкрасивый.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хочу посмотреть на него вместе с рыбами!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>...Наверное, рыбы тоже смотрят со своими\nсемьями, как мы. Не надо им мешать.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ой... Тогда будем смотреть тихо, чтобы им не\nмешать!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Ага... Что такое, <_____MYNAME_____>? Ты так широко улыбаешься."
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_G_SEA_08",
+   "key": "13901c59",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПора закругляться. Время пролетело. Вернёмся\nк остальным."
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_G_SEA_09",
+   "key": "2aaf7a0f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЯ чувствую себя самой счастливой женщиной на\nсвете. В следующем году придём снова, все\nвтроём... Обещаешь?"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_CHILD_G_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_SEA_00",
+   "key": "71e7ba87",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nСоветую плыть сразу за скалы... наверное?\nДумаю, там будет красивый вид.\n<PAGE>\nАх, весло... Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_SEA_01",
+   "key": "29291bea",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nВот примерно здесь... Стой. Да, хорошо."
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_SEA_02",
+   "key": "0f77deb4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nИ в этом году красиво. Я буду рада, если тебе\nпонравится вид, <_____MYNAME_____>."
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_SEA_03",
+   "key": "8fe7260c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЯ всегда с Илукой, так что это немного странно.\n<PAGE>\nНо мне нравится быть с тобой, <_____MYNAME_____>.\n<PAGE>\nА тебе, <_____MYNAME_____>?\n<PAGE>\n...Понятно. Хи-хи. Наши ауры, как ни странно,\nидеально совпадают."
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_SEA_08",
+   "key": "8f9992e2",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПора заканчивать. Время пролетело."
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_SEA_09",
+   "key": "3dd73d66",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМне было весело с тобой, <_____MYNAME_____>. Кажется, я рада,\nчто пошла с тобой."
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_TwinYounger_SAMESEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_GO_HOME_01",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_EV_FES_S_FRIENDSHIP_GO_HOME_02",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

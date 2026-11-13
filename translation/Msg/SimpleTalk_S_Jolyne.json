@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Jolyne",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "540a2182",
+   "ru": "<NAME_MOB_JOLYNE>\r\nПривет!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "bf4d2ffa",
+   "ru": "<NAME_MOB_JOLYNE>\r\nОкеан и правда загадочный, а?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "e32e3e52",
+   "ru": "<NAME_MOB_JOLYNE>\r\nПорой я с головой ухожу в исследования."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "65b49467",
+   "ru": "<NAME_MOB_JOLYNE>\r\nОкеан такой красивый. Тебе тоже нравится?"
+  }
+ ]
+}

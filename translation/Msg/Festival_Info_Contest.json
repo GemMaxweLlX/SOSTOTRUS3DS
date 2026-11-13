@@ -1,0 +1,285 @@
+{
+ "file": "Festival_Info_Contest",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_00_00",
+   "key": "fc104ecc",
+   "ru": "<NAME_UNKNOWN>\r\n<_____MYNAME_____>, ты дома? Я вхожу!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_00_01",
+   "key": "f2c20ed1",
+   "ru": "<FACE_PRESENTER>\r\n<_____MYNAME_____>, ты дома? Я вхожу!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_00_MARRIED",
+   "key": "a6b478eb",
+   "ru": "<FACE_PRESENTER>\r\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_01",
+   "key": "58375cc6",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_01_MARRIED",
+   "key": "266c5a5b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПроснулись? Доброе утро, соня! ♪"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_02",
+   "key": "e097697d",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЯ пришла рассказать о конкурсах, которые\nпройдут в этом месяце! Спрашивайте что\nугодно!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_02_MARRIED",
+   "key": "be908593",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nПодумала, вам будет интересно узнать\nподробности о ближайших конкурсах."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_03",
+   "key": "96260d99",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nИтак, о каком конкурсе рассказать?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_04",
+   "key": "5cad9232",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЖелаю удачи!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_05",
+   "key": "0047cacb",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>!\n<PAGE>\nОчень приятно познакомиться. Я руковожу\nпраздниками, которые проходят в этих краях."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_06",
+   "key": "be7a0184",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЯ много слышала о вас от Фрэнка, <_____MYNAME_____>.\n<PAGE>\nВот и пришла рассказать о наших праздниках...\nи их темах."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_07",
+   "key": "a1a486ac",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nВы ведь фермер, как и Фрэнк, верно, <_____MYNAME_____>?\n<PAGE>\nУверена, теперь мы будем часто видеться.\n<PAGE>\nБуду рада, если вы примете участие в наших\nконкурсах!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_CROP_00",
+   "key": "db0e5b41",
+   "ru": "О Празднике урожая"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_ANIMAL_00",
+   "key": "bcdd8960",
+   "ru": "О Празднике животных"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_COOKING_00",
+   "key": "2ddc2d87",
+   "ru": "О Кулинарной выставке"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_PET_00",
+   "key": "7426b491",
+   "ru": "О Параде питомцев"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_FASHION_00",
+   "key": "7022b7a2",
+   "ru": "О Показе мод"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_NONE_00",
+   "key": "c40272e4",
+   "ru": "Вопросов нет"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_CROP_01",
+   "key": "133ca97c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПраздник урожая проходит <BLUE>30-го</BLUE> числа\nкаждого месяца. Чтобы участвовать, подойдите\nко мне <BLUE>с 10:00 до 13:00</BLUE>.\n<PAGE>\nПосмотрим, тема на этот раз...\n<PAGE>\nВ классе Новичок темы нет, так что\nвыставляйте свой лучший урожай."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_CROP_02",
+   "key": "51425f73",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nВ классе Знаток две темы: <RED><MOJI0></RED> и <RED><MOJI1></RED>."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_CROP_03",
+   "key": "49936765",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nВ классе Мастер три темы: <RED><MOJI0></RED>, <RED><MOJI1></RED> и <RED><MOJI2></RED>."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_CROP_04",
+   "key": "f5236967",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nВ классе Легенда учитываются все темы."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_ANIMAL_01",
+   "key": "a23665ae",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПраздник животных пройдёт <BLUE>13-го</BLUE>. Чтобы\nучаствовать, подойдите ко мне <BLUE>с 10:00 до\n13:00</BLUE>.\n<PAGE>\nПосмотрим, тема на этот раз...\n<PAGE>\nВ классе Новичок темы нет, так что приводите\nживотное, с которым вы ближе всего."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_ANIMAL_02",
+   "key": "51425f73",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nВ классе Знаток две темы: <RED><MOJI0></RED> и <RED><MOJI1></RED>."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_ANIMAL_03",
+   "key": "49936765",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nВ классе Мастер три темы: <RED><MOJI0></RED>, <RED><MOJI1></RED> и <RED><MOJI2></RED>."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_ANIMAL_04",
+   "key": "f5236967",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nВ классе Легенда учитываются все темы."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_COOKING_01",
+   "key": "d192c259",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКулинарная выставка пройдёт <BLUE>22-го</BLUE>. Чтобы\nучаствовать, подойдите ко мне <BLUE>с 10:00 до\n13:00</BLUE>.\n<PAGE>\nТема на этот раз... Для всех классов тема ― <RED><MOJI0></RED>.\n<PAGE>\nПоэтому у класса Новичок отдельной темы нет."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_COOKING_02",
+   "key": "a569e8fd",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКулинарная выставка пройдёт <BLUE>22-го</BLUE>. Чтобы\nучаствовать, подойдите ко мне <BLUE>с 10:00 до\n13:00</BLUE>.\n<PAGE>\nКстати, в классе Новичок темы нет. Готовьте\nсвоё лучшее блюдо."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_COOKING_03",
+   "key": "d41c9cd4",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКласс Мастер готовит блюдо: <RED><MOJI0></RED>."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_COOKING_04",
+   "key": "871d6a00",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКласс Легенда готовит блюдо: <RED><MOJI0></RED>."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_PET_01",
+   "key": "9bd48087",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПарад питомцев пройдёт <BLUE>22-го</BLUE>. Чтобы\nучаствовать, подойдите ко мне <BLUE>с 10:00 до\n13:00</BLUE>.\n<PAGE>\nВид питомца на этот раз... Для всех классов\nтема ― <RED><MOJI0></RED>.\n<PAGE>\nПоэтому у класса Новичок отдельной темы нет."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_PET_02",
+   "key": "4db8195f",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПарад питомцев пройдёт <BLUE>22-го</BLUE>. Чтобы\nучаствовать, подойдите ко мне <BLUE>с 10:00 до\n13:00</BLUE>.\n<PAGE>\nКстати, в классе Новичок темы нет. Приводите\nпитомца, с которым вы ближе всего."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_PET_03",
+   "key": "a444c2bf",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nТема класса Мастер: <RED><MOJI0></RED>."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_PET_04",
+   "key": "b163cb39",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nТема класса Легенда: <RED><MOJI0></RED>."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_FASHION_01",
+   "key": "88907296",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПоказ мод пройдёт <BLUE>22-го</BLUE>. Чтобы участвовать,\nподойдите ко мне <BLUE>с 10:00 до 13:00</BLUE>.\n<PAGE>\nПосмотрим, тема на этот раз... В классе\nНовичок темы нет. Приходите в чём хотите."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_FASHION_02",
+   "key": "d85cd366",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКласс Знаток: стиль <RED><MOJI0></RED> <RED><MOJI1></RED>."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_FASHION_03",
+   "key": "7aeec7cf",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКласс Мастер: <RED><MOJI0></RED>, а также стиль <RED><MOJI1></RED> <RED><MOJI2></RED>."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_FASHION_04",
+   "key": "c4802b3b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКласс Легенда: <RED><MOJI0></RED>...\n<PAGE>\n...и <RED><MOJI3></RED> в стиле <RED><MOJI1></RED> <RED><MOJI2></RED>."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_NONE_01",
+   "key": "857f4a22",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nПоняла. Если забудете дату праздника,\nзагляните в календарь!\n<PAGE>\nНа этом я откланяюсь! Ждём вас на конкурсах!\n♪"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_CONTEST_NONE_01_MARRIED",
+   "key": "c079e645",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nПоняла. Если забудешь дату праздника, загляни\nв календарь!\n<PAGE>\nМ-м... как ведущая я не могу болеть за тебя\nпри всех...\n<PAGE>\n...Но знай, в глубине души я болею за тебя!\n<PAGE>\nНу, а я пошла рассказывать о празднике\nостальным! До встречи! ♪"
+  }
+ ]
+}

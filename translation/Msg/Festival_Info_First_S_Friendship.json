@@ -1,0 +1,68 @@
+{
+ "file": "Festival_Info_First_S_Friendship",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_FRIENDSHIP_00",
+   "key": "8af25084",
+   "ru": "<FACE_INNOWNER>\r\n<_____MYNAME_____>, ты дома? Надеюсь, ты не против, я вхожу!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_FRIENDSHIP_01",
+   "key": "83765c97",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>. Хорошая сегодня погода, правда?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_FRIENDSHIP_02",
+   "key": "595f9dc0",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЗавтра в Лулукоко <RED>Ночь морских огней</RED>. Я\nнадеялась, что ты придёшь, вот и зашла\nрассказать."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_FRIENDSHIP_03",
+   "key": "4adb25da",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nНочь морских огней ― праздник, который в\nЛулукоко отмечают с давних времён.\n<PAGE>\nКогда-то жители Лулукоко называли\nсветящийся планктон духами океана.\n<PAGE>\nПоэтому решили, что праздник будет в тот\nдень, когда планктон загорается и освещает\nокеан.\n<PAGE>\nМожно любоваться и светом океана, и светом\nзвёзд, так что это очень романтично."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_FRIENDSHIP_04",
+   "key": "88d98fea",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nЕсли хочешь с кем-то сблизиться, <_____MYNAME_____>...\n<PAGE>\nМожет, стоит пригласить этого человека на\nэтот вечер."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_FRIENDSHIP_05",
+   "key": "93ff1734",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\n...Можно провести романтический вечер вместе\nс <CHARANAME0>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_FRIENDSHIP_06",
+   "key": "009dacf2",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nНо я знаю, у тебя есть <CHARANAME0>, так что понимаю, если\nне захочется проводить вечер с кем-то другим.\n<PAGE>\nЕсли всё же решишь пойти, можно провести\nночь и с кем-то своего пола."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_FRIENDSHIP_07",
+   "key": "887555ca",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nЗапись на Ночь морских огней ― <BLUE>с 20:00 до\n23:00</BLUE> на перекрёстке. Буду ждать."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_FRIENDSHIP_08",
+   "key": "17cc44fe",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, кажется, на сегодня я тебя уже\nзаговорила. Пора домой. Алоха."
+  }
+ ]
+}

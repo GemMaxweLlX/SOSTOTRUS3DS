@@ -1,0 +1,285 @@
+{
+ "file": "ShopSGeneral2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_003",
+   "key": "515cf4ed",
+   "ru": "<NAME_MOB_FUNDY>\r\nКомо май! Это универмаг “Джамбалайя”! У нас\nмного того, без чего фермеру никак."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_004",
+   "key": "766fd717",
+   "ru": "<NAME_MOB_FUNDY>\r\nКомо май! Это универмаг “Джамбалайя”!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_005",
+   "key": "1908cab4",
+   "ru": "Комо май!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_006",
+   "key": "c26f8534",
+   "ru": "<NAME_MOB_FUNDY>\r\nО! У тебя появилась удочка!\n<PAGE>\nЕсли не знаешь, мы ещё и наживку делаем!\nЛучше наживка ― лучше рыба, попробуй!\n<PAGE>\nКстати, насадить наживку на удочку можно у\nЛудуса, <GREEN>мастера на все руки</GREEN>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_000",
+   "key": "d0e639be",
+   "ru": "<NAME_MOB_FUNDY>\r\nЧем помочь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_001",
+   "key": "8c0a2abe",
+   "ru": "<NAME_MOB_FUNDY>\r\nЧто ещё нужно?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_003",
+   "key": "feb1027d",
+   "ru": "Сделать наживку"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_004",
+   "key": "4beeb254",
+   "ru": "Расширить сумку"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_005",
+   "key": "67ec7107",
+   "ru": "Ещё расширить сумку"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_006",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_007",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_008",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_000",
+   "key": "78f9ae59",
+   "ru": "<NAME_MOB_FUNDY>\r\nЧто купишь?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_004",
+   "key": "d625dc69",
+   "ru": "<NAME_MOB_FUNDY>\r\nНедавно пришли отличные новинки. Глянь!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_005",
+   "key": "e791bfec",
+   "ru": "<NAME_MOB_FUNDY>\r\nЭй! Если не знаешь, у нас теперь есть товары,\nсделанные вместе с <_____MYNAME_____>! Неплохо, а?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_000",
+   "key": "34853fd5",
+   "ru": "<NAME_MOB_FUNDY>\r\nСумку побольше? Конечно, раз хочешь!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_001",
+   "key": "8d7b3116",
+   "ru": "<NAME_MOB_FUNDY>\r\nО, ещё больше? Ладно!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_002",
+   "key": "35607cca",
+   "ru": "<NAME_MOB_FUNDY>\r\n<BLUE><MOJI0></BLUE>G устроит?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_003",
+   "key": "a584bb8f",
+   "ru": "Купить сумку"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_004",
+   "key": "ab5f605a",
+   "ru": "<CANCEL_SELECT>\r\nПока нет"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_005",
+   "key": "6b485f85",
+   "ru": "<NAME_MOB_FUNDY>\r\nПрости, но денег не хватает!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_006",
+   "key": "dbf11e1a",
+   "ru": "<NAME_MOB_FUNDY>\r\nГотово! Сумка теперь больше!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_000",
+   "key": "a457c9e0",
+   "ru": "<NAME_MOB_FUNDY>\r\nКакую наживку сделать?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_001",
+   "key": "6a038bb0",
+   "ru": "У тебя нет нужных материалов."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_002",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_003",
+   "key": "840744c1",
+   "ru": "Сколько сделать?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_004",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_005",
+   "key": "d4f3bbc1",
+   "ru": "<NAME_MOB_FUNDY>\r\nОтлично! Готово!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_006",
+   "key": "395fe1ab",
+   "ru": "<NAME_MOB_FUNDY>\r\nЯ недавно придумал новые наживки.\nОбязательно попробуй!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_007",
+   "key": "cb781ebd",
+   "ru": "<NAME_MOB_FUNDY>\r\nТеперь у нас есть наживка, сделанная вместе с <_____MYNAME_____>.\nЗдорово, а?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_NAME",
+   "key": "46569a46",
+   "ru": "Джамбалайя"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GOODBYE_000",
+   "key": "42f3ce78",
+   "ru": "<NAME_MOB_FUNDY>\r\nМахало, заходи ещё!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GOODBYE_001",
+   "key": "6141bd9a",
+   "ru": "Махало, заходи ещё!"
+  }
+ ]
+}

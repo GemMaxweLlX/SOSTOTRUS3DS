@@ -1,0 +1,75 @@
+{
+ "file": "Story_RankS_Celebration_A",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_A_00",
+   "key": "7629c73e",
+   "ru": "<NAME_UNKNOWN>\r\n<_____MYNAME_____>, ты дома? Прошу прощения."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_A_01",
+   "key": "aa265eca",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПрости, что беспокою в такой час, <_____MYNAME_____>, но\nнайдётся у тебя сегодня свободное время?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_A_02",
+   "key": "a415b86d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ как раз шла в ресторан перекусить и\nподумала, не составишь ли ты мне компанию."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_A_03",
+   "key": "cc3b4072",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nРада слышать! Тогда нечего стоять сложа руки.\nПошли."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_A_04",
+   "key": "44671a37",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Удивили мы тебя?\n<PAGE>\nС тех пор как ты здесь, ты охотно помогаешь,\nникогда не жалуешься и участвуешь во всех\nгородских делах.\n<PAGE>\nВот мы все и решили, что ты заслуживаешь\nблагодарности, и всем городом устроили для\nтебя этот банкет."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_A_05",
+   "key": "b98823c4",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nДавай. Весь этот пир ― для тебя. Мы, конечно,\nпоможем его съесть, но первый выбор за\nтобой.\n<PAGE>\nТак что ешь, пей и веселись. Этот вечер ― для\nтебя, <_____MYNAME_____>!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_A_06",
+   "key": "0ba0739f",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНравится праздник, <_____MYNAME_____>?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_A_07",
+   "key": "29940abc",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nРада слышать! Я серьёзно. Очень рада это\nслышать.\n<PAGE>\nНе могу сказать, что знаю, что ты думаешь...\n<PAGE>\n<FACE_LAUGH>Но для всех нас ты почётный житель Уэстауна!\n<PAGE>\nТы для нас давно не “тот фермер с окраины”.\nВсе здесь уважают тебя как члена нашего\nлюбимого города."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_A_08",
+   "key": "0cc3772e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЭтот букет ― наш подарок тебе.\n<PAGE>\nСчитай его знаком нашего уважения к тебе как\nк соседу и другу. Примешь?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_RANK_S_CELEBRATION_A_09",
+   "key": "a59bcebc",
+   "ru": "(Какой чудесный праздник! Теперь, когда я\nпочётный житель Уэстауна, хочу ещё крепче\nдружить со всеми!)"
+  }
+ ]
+}

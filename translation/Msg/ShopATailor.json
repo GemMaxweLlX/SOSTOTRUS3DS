@@ -1,0 +1,208 @@
+{
+ "file": "ShopATailor",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_003",
+   "key": "94c48238",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в чудесное ателье “Вестито\nроза”!\n<PAGE>\nОдежда, шляпы, что угодно ― приноси\nматериалы, и я с радостью сошью что нужно!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_004",
+   "key": "837b45a0",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_005",
+   "key": "2594b5e1",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать, дорогуша!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_006",
+   "key": "da5c6dce",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПрости, но шить тебе одежду я не могу, пока\nдома нет шкафа, где её хранить.\n<PAGE>\nКогда расширишь дом и поставишь шкаф,\nскажи, и я возьмусь за шитьё."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GREETING_007",
+   "key": "49c63e71",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nТеперь у нас есть вещи, сделанные вместе с <_____MYNAME_____>.\nГлянь!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_AVATARGET_000",
+   "key": "eddface1",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЗаказ готов. Держи!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_AVATARGET_001",
+   "key": "a41ca20f",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>! Вещь ждёт в шкафу."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_000",
+   "key": "bb27cd91",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧем могу помочь?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_001",
+   "key": "eb8503f2",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧем-нибудь ещё помочь?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_002",
+   "key": "2fd30b41",
+   "ru": "Сшить одежду"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_003",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_004",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_CHOICE_005",
+   "key": "1d077266",
+   "ru": "<CANCEL_SELECT>\r\nПока ничего"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_000",
+   "key": "97e683c1",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто хочешь купить?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_001",
+   "key": "6a038bb0",
+   "ru": "У тебя нет нужных материалов."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_002",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_003",
+   "key": "4797a16e",
+   "ru": "Продолжить?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_004",
+   "key": "dd7aadcb",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за заказ! Будет готово завтра, заходи в\nчасы работы."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_005",
+   "key": "dd7aadcb",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за заказ! Будет готово завтра, заходи в\nчасы работы."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_006",
+   "key": "8ad6c7e7",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВот это да! По-моему, у тебя уже есть всё, что\nя умею шить. Поразительно!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_007",
+   "key": "443033ee",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nАх да! Пришли новинки, глянь, вдруг что\nпонравится."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_ITEM_008",
+   "key": "49c63e71",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nТеперь у нас есть вещи, сделанные вместе с <_____MYNAME_____>.\nГлянь!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GOODBYE_000",
+   "key": "d01c8a39",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВот как? Ну, заходи ещё!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_GOODBYE_001",
+   "key": "d01c8a39",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВот как? Ну, заходи ещё!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_NAME",
+   "key": "cae94257",
+   "ru": "Вестито роза"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_TAILOR_TEMP",
+   "key": "bd167a6a",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за заказ! Как будет готово, отправим\nпрямо к тебе домой, загляни потом в шкаф!"
+  }
+ ]
+}

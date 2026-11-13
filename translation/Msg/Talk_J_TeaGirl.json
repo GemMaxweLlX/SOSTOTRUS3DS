@@ -1,0 +1,47 @@
+{
+ "file": "Talk_J_TeaGirl",
+ "entries": [
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_01",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  },
+  {
+   "n": 384,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_00",
+   "key": "a6a4f8a0",
+   "ru": "Конечно"
+  },
+  {
+   "n": 386,
+   "f": 2,
+   "id": "MES_PROPOSAL_01",
+   "key": "e9bc52bb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nКласс! Пойдём. Найдём место, где никого нет."
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_00",
+   "key": "a6a4f8a0",
+   "ru": "Конечно"
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "MES_LOVE_CANCEL_SELECT_00",
+   "key": "b7985e81",
+   "ru": "Сказать, что нужно поговорить"
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "MES_LOVE_CANCEL_SELECT_01",
+   "key": "93efdefa",
+   "ru": "Не сегодня"
+  }
+ ]
+}

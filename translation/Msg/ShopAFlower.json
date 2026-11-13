@@ -1,0 +1,285 @@
+{
+ "file": "ShopAFlower",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_FIRST_000",
+   "key": "e0195415",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОй! Здравствуй! Ты, наверное, <_____MYNAME_____>. Фрэнк мне всё\nо тебе рассказал. Приятно познакомиться.\n<PAGE>\nМеня зовут Лизетта. Я хозяйка этой цветочной\nлавки.\n<PAGE>\nЯ так ждала встречи, с тех пор как услышала,\nчто в город переезжает кто-то моего возраста.\n<PAGE>\nНадеюсь, мы быстро подружимся. ♪ Ой, где\nмои манеры?\n<PAGE>\nДобро пожаловать в “Тысячу букетов”!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_GREETING_001",
+   "key": "3a0413bf",
+   "ru": "По вторникам и четвергам магазин закрыт."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_GREETING_003",
+   "key": "01e34332",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОй! <_____MYNAME_____>, ты ведь впервые у меня в лавке?\n<PAGE>\nДобро пожаловать! Это мой цветочный\nмагазин, “Тысяча букетов”."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_GREETING_004",
+   "key": "564642d9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в “Тысячу букетов”."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_GREETING_005",
+   "key": "564642d9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в “Тысячу букетов”."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_CHOICE_000",
+   "key": "871aa19c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЧем могу помочь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_CHOICE_001",
+   "key": "a49eb7d5",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЧем-нибудь ещё помочь?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_CHOICE_003",
+   "key": "9824a8ca",
+   "ru": "Собрать букет"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_CHOICE_004",
+   "key": "14791f87",
+   "ru": "Сделать духи"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_CHOICE_005",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_CHOICE_006",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_CHOICE_007",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_ITEM_000",
+   "key": "0e17f593",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЧто хочешь купить?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_ITEM_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_ITEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_ITEM_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_ITEM_004",
+   "key": "9021fea7",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПришли новинки, посмотри. Уверена, тебе\nпонравится!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_ITEM_005",
+   "key": "c324a4d9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, я начала продавать то, что мы сделали\nвместе. Обязательно посмотри, ладно?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_BOUQUET_000",
+   "key": "5a0ecb61",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nКонечно! Скажи, какой букет собрать."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_BOUQUET_001",
+   "key": "6a038bb0",
+   "ru": "У тебя нет нужных материалов."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_BOUQUET_002",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_BOUQUET_003",
+   "key": "840744c1",
+   "ru": "Сколько сделать?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_BOUQUET_004",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_BOUQUET_005",
+   "key": "b720a5c9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПрости, что заставила ждать! Как тебе?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_BOUQUET_006",
+   "key": "1dc43eb8",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОй! Знаешь, у меня теперь новые букеты?\n<PAGE>\nНадеюсь, понравятся!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_BOUQUET_007",
+   "key": "f3deefb9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, я начала продавать то, что мы сделали\nвместе. Обязательно посмотри, ладно?\n<PAGE>\nЯ так рада обновлённому ассортименту.\nНадеюсь, ты тоже!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_PERFUME_000",
+   "key": "601dd1b4",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nКонечно! Скажи, какие духи сделать."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_PERFUME_001",
+   "key": "6a038bb0",
+   "ru": "У тебя нет нужных материалов."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_PERFUME_002",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_PERFUME_003",
+   "key": "840744c1",
+   "ru": "Сколько сделать?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_PERFUME_004",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_PERFUME_005",
+   "key": "0b57032b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПрости, что заставила ждать! Как тебе?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_PERFUME_006",
+   "key": "8d90dde6",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ недавно придумала новые духи, посмотри.\nИли понюхай, ха-ха!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_PERFUME_007",
+   "key": "f3deefb9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, я начала продавать то, что мы сделали\nвместе. Обязательно посмотри, ладно?\n<PAGE>\nЯ так рада обновлённому ассортименту.\nНадеюсь, ты тоже!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_GOODBYE_000",
+   "key": "b1e9fdc3",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо! Надеюсь, скоро увидимся."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_GOODBYE_001",
+   "key": "07714bfc",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо! И удачи сегодня, <_____MYNAME_____>. Я знаю, ты\nстараешься изо всех сил, и я тоже буду!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_SHOP_FLOWER_NAME",
+   "key": "37f7a15f",
+   "ru": "Тысяча букетов"
+  }
+ ]
+}

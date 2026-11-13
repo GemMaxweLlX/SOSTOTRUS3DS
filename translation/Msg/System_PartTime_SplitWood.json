@@ -1,0 +1,523 @@
+{
+ "file": "System_PartTime_SplitWood",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_Florist",
+   "key": "06a92c4b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что пришли, <_____MYNAME_____>.\n<PAGE>\nСегодня мне очень нужна помощь, чтобы\n<BLUE>наколоть дров</BLUE>. Хватит <BLUE><MOJI0> шт.</BLUE>"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_Florist",
+   "key": "5ede601c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nДа, думаю, этого хватит. Пожалуйста, примите\nэто за труды."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_Florist",
+   "key": "99afbed2",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nА это кое-что особенное за такую помощь.\nНадеюсь, понравится."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_Florist",
+   "key": "93933b08",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЕсли найдётся время, помощь мне всегда нужна!\nДо встречи!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_RestaurantWife",
+   "key": "38a458e5",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nРада тебя видеть, <_____MYNAME_____>! Наколешь мне <BLUE>дров: <MOJI0> шт.</BLUE>?\nСпасибо."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_RestaurantWife",
+   "key": "c01ff382",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Вот плата за сегодня."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_RestaurantWife",
+   "key": "c53276e8",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nИ ещё кое-что тебе, раз ты всегда так\nпомогаешь."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_RestaurantWife",
+   "key": "6717a7cd",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо. Помощь мне всегда\nпригодится."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_StoreWoman",
+   "key": "e7f49a2b",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что заглянули, <_____MYNAME_____>. Начнём <BLUE>колоть\nдрова</BLUE>? Мне нужно <BLUE><MOJI0> шт.</BLUE>"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_StoreWoman",
+   "key": "fba13670",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Сейчас дам плату."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_StoreWoman",
+   "key": "cd07872c",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nРаз уж ты здесь, возьми ещё и это ― в знак\nособой благодарности."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_StoreWoman",
+   "key": "2d75a5d9",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВот это выручка! Ещё раз спасибо!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_Doctor",
+   "key": "b1e3013d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>. Сегодня мне нужна помощь, чтобы\n<BLUE>наколоть дров</BLUE>. <BLUE><MOJI0> шт.</BLUE>, пожалуйста."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_Doctor",
+   "key": "7003b83c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХорошая работа! Вот вознаграждение."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_Doctor",
+   "key": "6f300abd",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nИ возьми, пожалуйста, ещё это.\nДополнительная благодарность. Пользуйся с\nтолком."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_Doctor",
+   "key": "81fcb0da",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nБуду ждать следующего раза!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_Wolesaler",
+   "key": "a72f8346",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nЯ тебя ждал. Наколешь мне <BLUE>дров: <MOJI0> шт.</BLUE>?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_Wolesaler",
+   "key": "7f8a8fbd",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nЧего и следовало ожидать. Дело ты знаешь.\nВот... держи плату."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_Wolesaler",
+   "key": "6e2369a6",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_LAUGH>\r\nВозьми и это. Это... особая премия, хе-хе..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_Wolesaler",
+   "key": "49931348",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nНадеюсь, в следующий раз, когда понадобятся\nтвои умения, у тебя найдётся время..."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_Mob_Mutsu",
+   "key": "19116a64",
+   "ru": "<NAME_MOB_MUTSU>\r\nРада тебя видеть. Мне нужно <BLUE>наколоть дров: <MOJI0>\nшт.</BLUE>"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_Mob_Mutsu",
+   "key": "7588483a",
+   "ru": "<NAME_MOB_MUTSU>\r\nОтличная работа. Пожалуйста, возьми плату."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_Mob_Mutsu",
+   "key": "0fa0f4a5",
+   "ru": "<NAME_MOB_MUTSU>\r\nОй, возьми ещё и это. Немного, но хочу, чтобы\nэто было у тебя."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_Mob_Mutsu",
+   "key": "63ebb02f",
+   "ru": "<NAME_MOB_MUTSU>\r\nСпасибо. Огромная помощь! Уверена, мне ещё\nпонадобится твоя помощь."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_TeaOwner",
+   "key": "cb3e0da8",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>. Рад видеть. Наколешь мне <BLUE>дров: <MOJI0> шт.</BLUE>?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_TeaOwner",
+   "key": "1ae3df4f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nОго! Ни капли пота! Давай заплачу."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_TeaOwner",
+   "key": "1ebaf6d2",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nАх да, возьми ещё и это. В благодарность за\nто, что всегда помогаешь."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_TeaOwner",
+   "key": "7b7ea10c",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо! Уверен, и в следующий раз\nна тебя можно рассчитывать."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_Teacher",
+   "key": "c4bc8c19",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПрости, что отнимаю время, ведь у тебя\nстолько дел.\n<PAGE>\nНе поможешь <BLUE>наколоть дров</BLUE>? Мне нужно ровно\n<BLUE><MOJI0> шт.</BLUE>"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_Teacher",
+   "key": "2c144569",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХорошая работа! Вот, пожалуйста, плата."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_Teacher",
+   "key": "9dbae8f9",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nАх да, и это дополнительная благодарность за\nвсю помощь. Надеюсь, пригодится."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_Teacher",
+   "key": "049e6756",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо. Хорошего дня!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_JapanFarmOldman",
+   "key": "656b2da5",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что пришли. Сегодня очень нужна\nпомощь, чтобы <BLUE>наколоть дров</BLUE>."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_RECEIVE_JapanFarmOldman",
+   "key": "0a7c5cc6",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nО, уже готово? Тогда оставьте дрова у меня."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_JapanFarmOldman",
+   "key": "93540df3",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nЗдорово выручили. Немного, но вот плата."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_JapanFarmOldman",
+   "key": "00cf05b0",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да, возьмите и это. В благодарность за всю\nпомощь."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_JapanFarmOldman",
+   "key": "630002c2",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Берегите себя!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_StuffWoman",
+   "key": "d6d47ff7",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуйте, <_____MYNAME_____>. Готовы начать? Мне нужно\n<BLUE>наколоть дров: <MOJI0> шт.</BLUE>, пожалуйста."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_StuffWoman",
+   "key": "673563a5",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Вот ваша плата за сегодня."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_StuffWoman",
+   "key": "484fb2f4",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nАх да, и вот вам небольшая премия. Спасибо,\nчто всегда помогаете!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_StuffWoman",
+   "key": "96c7192f",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо. Рада, что на вас можно\nположиться!"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_FisherWife",
+   "key": "bfe2592d",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что пришли, <_____MYNAME_____>. Очень благодарна за\nпомощь: <BLUE>наколоть дров, <MOJI0> шт.</BLUE> Спасибо!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_FisherWife",
+   "key": "dcb05d9e",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nОго, как быстро! Вот оплата!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_FisherWife",
+   "key": "721c45e5",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nО да! Вот вам ещё небольшая премия. Не\nстесняйтесь. Берите!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_FisherWife",
+   "key": "39dff605",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nУверена, мне ещё понадобится ваша помощь.\nМахало!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_Assistant",
+   "key": "fbe49652",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nОй, п-привет... Эм, в этот раз мне нужна\nпомощь: <BLUE>наколоть дров, <MOJI0> шт.</BLUE>"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_Assistant",
+   "key": "8b12fb90",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nОго! Как б-быстро!\n<PAGE>\nВ-вот плата. Если хочешь, пересчитай."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_Assistant",
+   "key": "f2e1c666",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nАх да, я, эм, недавно получил вот это и хочу\nподелиться. В знак благодарности."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_Assistant",
+   "key": "79340635",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nС-спасибо большое! Уверен, мне ещё\nпонадобится твоя помощь!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_InnOwner",
+   "key": "1d675551",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКак хорошо, что ты здесь! Наколешь мне <BLUE>дров:\n<MOJI0> шт.</BLUE>?"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_InnOwner",
+   "key": "fc1bea90",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nОх, какая сила! Вот, пожалуйста, плата."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_InnOwner",
+   "key": "faa5c9e5",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nХочу дать тебе и это. Небольшая\nблагодарность от старушки."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_InnOwner",
+   "key": "db4ec230",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nМахало, <_____MYNAME_____>. Береги себя!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_Angler",
+   "key": "66d1b779",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЭй, надеюсь, не отвлекаю? Наколешь мне <BLUE>дров:\n<MOJI0> шт.</BLUE>?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_Angler",
+   "key": "7fc322c2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nОго, да у тебя талант! Ни одного лишнего\nдвижения! Ах да! Вот плата."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_Angler",
+   "key": "72c04122",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВозьми, пожалуйста, и это. Просто за то, что\nвсё время помогаешь."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_Angler",
+   "key": "bd302db0",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nМахало, <_____MYNAME_____>. Уверен, мне скоро снова понадобится\nтвоя помощь."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_TwinOlder",
+   "key": "377a7a8b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nО, привет, <_____MYNAME_____>. Сегодня надо <BLUE>наколоть дров: <MOJI0> шт.</BLUE>\nИзбавишь меня от кучи хлопот!"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_TwinOlder",
+   "key": "9b65d20c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nО, уже готово? Тогда держи плату!"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_TwinOlder",
+   "key": "2e02686e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>. Возьми-ка и это. Хуже не будет, правда?"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_TwinOlder",
+   "key": "3a12f33e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nМахало. Как хорошо, что на тебя можно\nположиться!"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_TwinYounger",
+   "key": "045b2753",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nО, пришли... Можете <BLUE>наколоть дров: <MOJI0> шт.</BLUE>,\nпожалуйста?"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_TwinYounger",
+   "key": "21c69f4c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМахало. Вот плата..."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_TwinYounger",
+   "key": "d204f82f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nВозьмите, пожалуйста. Это небольшая\nпремия..."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_TwinYounger",
+   "key": "71299c5c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМахало. До следующего раза..."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_FREE",
+   "key": "fff1da92",
+   "ru": "Взята подработка: <BLUE>колка дров</BLUE>!"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_PRICE",
+   "key": "2f575163",
+   "ru": "Заработано: <BLUE><MOJI0></BLUE>G!"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_START_COLLABORATION",
+   "key": "fb2d02b6",
+   "ru": "Наконец-то! Я вас ждала!\n<PAGE>\nТак уж вышло, что моим нанимателям нужны\nбрёвна... а значит, мне нужен знаток древесины.\n<PAGE>\nРассчитываю, что вы <BLUE>наколете дров: <MOJI0> шт.</BLUE>\nГотовы?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_MONEY_COLLABORATION",
+   "key": "83f93bcb",
+   "ru": "Впечатляет. Быстро работаете! Большое\nспасибо.\n<PAGE>\nПожалуйста, примите это в качестве платы!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_COLLABORATION",
+   "key": "dbcf81db",
+   "ru": "А вот ещё кое-что в качестве особой награды.\nУверена, пригодится!"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_COLLABORATION_MARIO",
+   "key": "425ba569",
+   "ru": "Наденьте весь комплект ― и будете вылитый\n<BLUE>Марио</BLUE>!"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_ITEM_COLLABORATION_LUIGI",
+   "key": "70d7a0d9",
+   "ru": "Наденьте весь комплект ― и будете вылитый\n<BLUE>Луиджи</BLUE>!"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_END_COLLABORATION",
+   "key": "eebb4f15",
+   "ru": "Если снова будут проблемы, я знаю, к кому\nобратиться. Хорошего дня! ♪"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_PARTTIME_SPLITWOOD_PRESENT",
+   "key": "9e9895ae",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>!"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Naru",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "126f6c74",
+   "ru": "<NAME_MOB_NARU>\r\nАлоха! Меня ищешь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "a4260521",
+   "ru": "<NAME_MOB_NARU>\r\nОбожаю плескаться в океане, хи-хи."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "727ea28a",
+   "ru": "<NAME_MOB_NARU>\r\nМожно сказать, я водная натура."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "cde594bd",
+   "ru": "<NAME_MOB_NARU>\r\nШум волн так успокаивает."
+  }
+ ]
+}

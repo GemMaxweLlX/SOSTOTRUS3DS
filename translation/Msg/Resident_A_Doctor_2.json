@@ -1,0 +1,187 @@
+{
+ "file": "Resident_A_Doctor_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_17",
+   "key": "8f43da94",
+   "ru": "(Ресторан должен быть открыт, но... где все?)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_00",
+   "key": "42087c00",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_SAD>\r\nО, <_____MYNAME_____>. Здравствуй.\n<PAGE>\nПрости, Брэд слёг с простудой. Я собиралась\nсегодня закрыться, но...\n<PAGE>\nФорд как раз только что зашёл его проведать."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_21",
+   "key": "1d7431c1",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_L>Ха-а, ха-а, ха-а...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Право же, как можно было довести себя до\nтакого, не заметив жара?\n<PAGE>\nВидно, поговорка о том, что дураки не\nпростужаются, неверна.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>Т-ты... тот ещё... гад... знаешь?\n<PAGE>\nХватит... язвить... Лекарство, пожалуйста..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_18",
+   "key": "73756059",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНе бойся. Я не просто врач. Я превосходный\nврач.\n<PAGE>\nУ этого жара против меня нет ни шанса."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_22",
+   "key": "91444782",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...Взгляни. Это новое жаропонижающее моей\nразработки под названием “Истинное\nоблегчение”.\n<PAGE>\nЕсли его выпить, вирус в организме будет\nуничтожен, и температура сразу упадёт.\n<PAGE>\nОднако...\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL><WINDOW_LINE_L>Класс! Давай сюда!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_23",
+   "key": "67c60539",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_EXCLAMATION_R>Ах!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_19",
+   "key": "89e1d969",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\nЛадно, всё выпил...\n<PAGE>\n...Хм? Ого?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_01",
+   "key": "4de94bd4",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>О-о-о, чувствую, как падает температура!\n<PAGE>\nИ что-то потрясающее... нарастает...!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_02",
+   "key": "ce87e07c",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_LINE_L><FONT_SIZE_L>Во мне сила-а-а-а!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_03",
+   "key": "795343ed",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nЧ-что с ним?!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_24",
+   "key": "351f482e",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_SAD>\r\nМф, я ведь ещё не закончил объяснять...\n<PAGE>\nДа, если его выпить, простуда пройдёт почти\nмгновенно.\n<PAGE>\nНо оно ещё не испытано.\n<PAGE>\nТак что при превышении дозы есть риск\nпереизбытка энергии.\n<PAGE>\n<WINDOW_MOJA_L>Но я не ожидал, что он помчится как\nугорелый... Придётся пересмотреть состав."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_04",
+   "key": "b6c2ebc0",
+   "ru": "Ты дал ему такое опасное лекарство?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_05",
+   "key": "518a4375",
+   "ru": "А болезнь не вернётся?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_06",
+   "key": "b2b08309",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\nПрошу прощения? За кого ты меня\nпринимаешь? Это лекарство практически\nсовершенно.\n<PAGE>\nПросто у него оказалось много внутренней\nэнергии, вот лекарство и подействовало\nслишком сильно.\n<PAGE>\n<FACE_NORMAL>Извини, но не поймаешь ли ты его? Так он\nбудет бегать, пока не свалится."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_07",
+   "key": "0e593842",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>\r\n...Да, именно. А ты и сам(а) в этом\nразбираешься, хм?\n<PAGE>\n<FACE_NORMAL>Но если оставить его бегать, пока не свалится,\nжар, скорее всего, вернётся.\n<PAGE>\nТогда мы вернёмся к исходной точке. Извини,\nно не сходишь ли ты его поймать?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_20",
+   "key": "87544883",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_LINE_L>А-А-А-А-А! <_____MYNAME_____>! ПОМОГИ-И-И!!!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_08",
+   "key": "f3f1523c",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_L>С-спасибо, <_____MYNAME_____>. Ты меня просто спас(ла)...\n<PAGE>\nЯ забыл, что хоть он и полный гений...\n<PAGE>\nОн ещё и немного чокнутый..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_09",
+   "key": "100f0c30",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nОтлично, <_____MYNAME_____>. С отдыхом и покоем он со временем\nпоправится.\n<PAGE>\nВот что бывает, когда не дослушиваешь мои\nобъяснения. Надеюсь, Брэд чему-то научится."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_10",
+   "key": "e6311e82",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>\r\nДолжен сказать... мне очень повезло, что ты\nбыл(а) здесь.\n<PAGE>\nЕсли бы не ты, я не смог бы остановить Брэда.\nЯ ведь не могу бегать."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_11",
+   "key": "96c1ac43",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_L>Почему? Если я побегу, то вспотею, верно?\nКакая ещё нужна причина?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_12",
+   "key": "08b5c031",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_SAD>\r\n...Ах, похоже, мои подозрения подтвердились.\n<PAGE>\nТы изрядно вспотел(а), таща сюда Брэда.\n<PAGE>\nСейчас, может, и не беспокоит, но... если так\nоставить, со временем станет хуже."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_13",
+   "key": "614ed2e4",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\n...Ха, не бойся.\n<PAGE>\nКак я уже говорил, я не просто врач.\n<PAGE>\nВот, выпей."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_14",
+   "key": "439dff01",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>\r\nЯ назвал его “Испарение”.\n<PAGE>\nОно мгновенно избавит от всего ненужного\nпота.\n<PAGE>\nПравда, на людях я его ещё не испытывал, но..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_15",
+   "key": "7b1dea8d",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_LINE_L>Стой, вернись!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_16",
+   "key": "259c3794",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n<WINDOW_MOJA_L>...Почему никто из моих друзей никогда не\nдослушивает меня до конца?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_DOCTOR_2_25",
+   "key": "f44ecd50",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\nКстати, давно хотел спросить: а ты...?"
+  }
+ ]
+}

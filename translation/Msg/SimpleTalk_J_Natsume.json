@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Natsume",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "5e8fcc46",
+   "ru": "<NAME_MOB_NATSUME>\r\nКоннитива! Рада тебя видеть!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "3da1d9ac",
+   "ru": "<NAME_MOB_NATSUME>\r\nЭто правда. Я сейчас тайно влюблена."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "811acb51",
+   "ru": "<NAME_MOB_NATSUME>\r\nСказать ему? А вдруг он скажет “нет”?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "cf43a992",
+   "ru": "<NAME_MOB_NATSUME>\r\nИнтересно, заметит ли он мой взгляд..."
+  }
+ ]
+}

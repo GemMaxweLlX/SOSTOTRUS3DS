@@ -1,0 +1,257 @@
+{
+ "file": "Story_Town_J_Release",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_00",
+   "key": "e454f537",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, ты дома? Прошу прощения."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_01",
+   "key": "c501a533",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЯ привёл кое-кого, кто хочет с тобой\nпознакомиться."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_02",
+   "key": "a40b6681",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_JOY_R>Привет! Меня зовут Гиндзиро. Рад знакомству, <_____MYNAME_____>!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_03",
+   "key": "6147ea6e",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nПомнишь, я говорил, что ворота в другие два\nгорода ремонтируют?\n<PAGE>\nТак вот, одни вчера наконец доделали.\n<PAGE>\nКак только закончили, господин Гиндзиро,\nстарейшина Цуюкусы, сразу пришёл\nпоздороваться.\n<PAGE>\n<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>Из-за этой проклятой стройки, что так\nзатянулась, я с приветствием изрядно запоздал.\nНо лучше поздно, чем никогда, а?\n<PAGE>\nПодумал, устрою тебе большую экскурсию по\nЦуюкусе, если есть время."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_04",
+   "key": "32178f7c",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Ну, как говорится, не откладывай на\nзавтра! Пошли."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_05",
+   "key": "ed8ea772",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nСмотри. Цуюкуса прямо за этими воротами."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_06",
+   "key": "680abe1d",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nА-ах, родной дом! Ну? Как тебе эта приятная\nспокойная атмосфера, а? А?\n<PAGE>\nЗдесь куда больше чувствуется традиция, чем в\nУэстауне или Лулукоко, не находишь?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_07",
+   "key": "31067e7f",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nВ этих домах живут фермеры вроде тебя,\nкоторые выращивают рис, овощи и всякое\nдругое.\n<PAGE>\nОни продают урожай в лавках на главной улице\nили даже отправляют его на лодках вниз по\nреке.\n<PAGE>\nПродукция Цуюкусы славится качеством даже в\nдалёких городах, знаешь ли.\n<PAGE>\nТы ведь тоже что-то выращиваешь, да?\nМожет, как-нибудь попробуешь вырастить и\nнаши особые культуры?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_08",
+   "key": "31eae0d6",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nИдём дальше, идём дальше. Пойдём посмотрим\nглавную улицу.\n<PAGE>\nОна за этой тропинкой."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_09",
+   "key": "57218843",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nВот и пришли! Это главная улица нашего\nгорода."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_10",
+   "key": "ca5c19e5",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nНа этой улице полно отличных лавок. Народу\nтут в любой час любого дня хоть отбавляй.\n<PAGE>\nПройдёмся по порядку, а?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_11",
+   "key": "6e604168",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nЭто <GREEN>Чайная</GREEN>. Лавка моей семьи!\n<PAGE>\n<FACE_LAUGH>Я слежу, чтобы в меню было только самое\nлучшее и вкусное. Заходи, если интересно, с\n<BLUE>9:00 до 19:00</BLUE>!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_12",
+   "key": "e85b6f94",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nЖена сейчас в путешествии, так что дочь\nпомогает мне вести дела. Раз уж мы здесь,\nдавай познакомлю."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_13",
+   "key": "6ff2238b",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, это моя дочь, Комари. Комари, это <_____MYNAME_____>."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_14",
+   "key": "0b6621c5",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Приятно познакомиться! Я Комари... что ты\nуже знаешь!\n<PAGE>\nЕсли выбирать мои лучшие черты, скажу:\nэнергия и бодрость! Надеюсь, мы станем\nотличными друзьями!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_15",
+   "key": "f1549cc1",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Приятно познакомиться! Я Комари... что ты\nуже знаешь!\n<PAGE>\nКак узнала, что рядом поселилась девушка, еле\nдождалась знакомства! Надеюсь, мы\nподружимся!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_16",
+   "key": "f666ca9b",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nЧаще всего меня можно найти тут, в чайной.\nЗаглянешь за угощением ― поздоровайся!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_17",
+   "key": "1902d304",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЛадно, <_____MYNAME_____>. Смотреть ещё много чего, так что\nидём дальше.\n<PAGE>\nКомари, подготовишь всё к открытию?\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Ага, конечно, положись на меня. До встречи, <_____MYNAME_____>."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_18",
+   "key": "4f37a7be",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nА вот тут большинство лавок Цуюкусы."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_19",
+   "key": "a5da0791",
+   "ru": "<FACE_TEAOWNER>\r\nВот <GREEN>Парикмахерская</GREEN>. Если захочешь сменить\nпричёску, обращайся к здешней парикмахерше.\n<PAGE>\nНу... когда она вернётся из отпуска. Сейчас\nлавка закрыта.\n<PAGE>\nНо, уверен, скоро откроется. Как откроется,\nзагляни."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_20",
+   "key": "1150691b",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nИдём дальше..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_21",
+   "key": "688f6ee6",
+   "ru": "<FACE_TEAOWNER>\r\nТри лавки перед нами ― это <GREEN>Оптовая лавка</GREEN>,\n<GREEN>Универмаг</GREEN> и <GREEN>Магазин животных</GREEN>.\n<PAGE>\nВсе работают с <BLUE>8:00 до 16:00</BLUE>.\n<PAGE>\nНаши лавки открываются раньше большинства,\nно и закрываются раньше. Запомни."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_22",
+   "key": "75970aa7",
+   "ru": "<FACE_TEAOWNER>\r\nАга! Как раз вовремя! Похоже, оптовик вышел.\nПойдём поздороваемся."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_23",
+   "key": "61f32968",
+   "ru": "<FACE_TEAOWNER>\r\nДоброе утро вам обоим!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_24",
+   "key": "41001962",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Доброе утро, старейшина Гиндзиро.\n<PAGE>\nХм? Кто это с вами? Тайный внебрачный\nребёнок? Вы же совсем не похожи...\n<PAGE>\n<FACE_TEAOWNER><POS_RIGHT><FACE_SAD>*вздох* Опять начинается. Ну и странные же\nмысли тебе приходят, парень. Нет, это не мой\n“тайный ребёнок”.\n<PAGE>\n<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>Знаешь Фрэнка из Уэстауна? Это его родня.\n<PAGE>\n<POS_LEFT><FACE_NORMAL><FACE_WOLESALER><NAME_UNKNOWN>А, родня Фрэнка? Понятно.\n<PAGE>\n<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>Новый человек на ферме к югу от перекрёстка,\nвот я и решил, что нужна большая экскурсия по\nгороду."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_25",
+   "key": "419d6a62",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nА, ну тогда ладно. Меня зовут Хината! Я\nторговец в оптовой лавке “Ра Ман”."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_26",
+   "key": "a4af2fb3",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Рад знакомству. Мы вроде ровесники, так что\nнаверняка подружимся."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_27",
+   "key": "153c086b",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Так ты в одиночку управляешь фермой? От\nтакой красавицы и не ждёшь такой хватки и\nупорства.\n<PAGE>\n<WINDOW_DEFAULT><FACE_LOSS>...Стоп. Нет. Э-э...\n<PAGE>\n<FACE_LOVE>Я-я не то хотел сказать. Честно. В-в общем,\nприятно познакомиться!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_28",
+   "key": "3d0ec890",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nА это мой начальник."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_29",
+   "key": "0a4b2209",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nФермер в таком возрасте, хм? Рановато ты\nначинаешь. Я Мория, владелец “Ра Мана”."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_30",
+   "key": "6ae37fac",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nВ “Ра Мане” есть всего понемногу.\n<PAGE>\nУверен, найдутся инструменты и семена, что\nпригодятся тебе на ферме. Заходи как-нибудь\nпосмотреть."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_31",
+   "key": "59d323a8",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nВот и всё! Большая экскурсия окончена. Если\nзахочешь прийти снова, меня не жди. Заходи\nкогда хочешь.\n<PAGE>\nМы все будем рады тебе в любое время."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_32",
+   "key": "c139278f",
+   "ru": "(Новый город и новые знакомства! Не\nтерпится!)"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_33",
+   "key": "9e8108be",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>. Как тебе Цуюкуса?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_34",
+   "key": "0eeb7265",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nПохоже, тебе там понравилось! Теперь можно\nотгружать урожай и продукцию и в Цуюкусу."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RELESSE_35",
+   "key": "39aa6c92",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nАх да. Твой <RED>ранг связи с городом</RED> Цуюкуса тоже\nвырос.\n<PAGE>\nПотом можешь проверить его в меню.\n<PAGE>\n<FACE_LAUGH>Теперь ты сможешь вести с ними дела, как и с\nдругими городами."
+  }
+ ]
+}

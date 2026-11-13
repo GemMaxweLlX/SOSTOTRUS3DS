@@ -1,0 +1,166 @@
+{
+ "file": "TownCommunication",
+ "entries": [
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_CROP",
+   "key": "bdff68fe",
+   "ru": "Урожай"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_PARTTIMEJOB",
+   "key": "08a1c2fb",
+   "ru": "Подработка"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_FISH",
+   "key": "9f46eb0d",
+   "ru": "Рыба"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_SHIPMENTVALUE",
+   "key": "761eb664",
+   "ru": "Сумма отгрузок"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_MILK",
+   "key": "1c143328",
+   "ru": "Молоко"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_MILKMAKER",
+   "key": "512f80cb",
+   "ru": "Молочный цех"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_WINEMAKER",
+   "key": "a52975f6",
+   "ru": "Винодельня"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_MONEY",
+   "key": "761e3ce0",
+   "ru": "Деньги"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_LOVEPEOPLE",
+   "key": "ee5349f5",
+   "ru": "Друзья"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_SHIPMENTVALUE_A",
+   "key": "e2a6d41d",
+   "ru": "Отгрузки (Уэстаун)"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_EGG",
+   "key": "23a67750",
+   "ru": "Яйца"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_FRUIT",
+   "key": "b0d4f25f",
+   "ru": "Плоды деревьев"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_VEGETABLES",
+   "key": "8c7070cc",
+   "ru": "Овощи (особые)"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_FLOWER",
+   "key": "accbafd5",
+   "ru": "Цветы (особые)"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_SHIPMENTVALUE_J",
+   "key": "7364803b",
+   "ru": "Отгрузки (Цуюкуса)"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_ORE",
+   "key": "a4569d4c",
+   "ru": "Руда"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_FRUIT_2",
+   "key": "40907157",
+   "ru": "Плоды деревьев (особые)"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_SHIPMENTVALUE_S",
+   "key": "3b759c31",
+   "ru": "Отгрузки (Лулукоко)"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_1_ANIMALCROP",
+   "key": "f35d4f56",
+   "ru": "Продукты животных"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_INFO_KEY",
+   "key": "a8b5995b",
+   "ru": "Повысьте ранг связи с городом!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_INFO_CLEAR",
+   "key": "f96d0ea4",
+   "ru": "<BLUE><MOJI0></BLUE>\nвыполнено!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_INFO_TOWNUP_1",
+   "key": "d9d06310",
+   "ru": "<BLUE><MOJI0></BLUE>: ранг связи с городом повышен!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_TOWNCOMMUNICATION_INFO_TOWNUP_2",
+   "key": "3253f712",
+   "ru": "Теперь ранг <BLUE><MOJI0></BLUE>!"
+  }
+ ]
+}

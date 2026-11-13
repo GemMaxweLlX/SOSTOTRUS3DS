@@ -1,0 +1,82 @@
+{
+ "file": "Festival_Info_First_S_Witch",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_00",
+   "key": "2e0ff18f",
+   "ru": "<FACE_INNOWNER>\r\n<_____MYNAME_____>, это я, Тототара. Я с новостями."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_01",
+   "key": "b8f0fdf8",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>. Как поживаешь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_02",
+   "key": "924a01e9",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЯ пришла рассказать о празднике, который мы\nскоро проведём в городе.\n<PAGE>\nЕсли тебе интересно, буду рада, если ты\nприсоединишься, <_____MYNAME_____>."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_03",
+   "key": "b3aef63c",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо, рада, что тебе так интересно! Тогда\nрасскажу.\n<PAGE>\nКаждый год <BLUE>9 зимы</BLUE> мы проводим Праздник\nдухов.\n<PAGE>\nДухи, которые, по преданию, построили\nдревние руины Лулукоко, очень важны для нас.\n<PAGE>\nВ знак благодарности мы готовим разные\nблюда на пару и танцуем для них в день\nпраздника."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_04",
+   "key": "f7d32d5b",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЕсли хочешь присоединиться, подойди ко мне в\nдень праздника <BLUE>с 10:00 до 13:00</BLUE>.\n<PAGE>\nЯ буду ждать на <GREEN>перекрёстке</GREEN>, так что заметить\nменя будет легко."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_05",
+   "key": "3ff05f1b",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nО-о, <_____MYNAME_____>. Хочешь помочь с подготовкой?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_06",
+   "key": "c9eb23e5",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nМахало, <_____MYNAME_____>. Очень любезно с твоей стороны.\n<PAGE>\nОт такого предложения я точно не откажусь.\nТак, посмотрим..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_07",
+   "key": "df36e22e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВот что! Поможешь собрать деньги на\nпраздник?\n<PAGE>\nКаждый год средства на Праздник духов мы\nсобираем с жителей. Помоги нам с этим."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_08",
+   "key": "315c6ee9",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nМахало, махало. Собрать нужно у...\n<PAGE>\n<BLUE>Лудуса</BLUE>, <BLUE>Илуки</BLUE>, <BLUE>Захау</BLUE>, <BLUE>Альмы</BLUE>, <BLUE>Митры</BLUE> и <BLUE>Лотуса</BLUE>.\nТолько у этих шестерых.\n<PAGE>\nТам есть и дети, но это старый обычай, так что\nне волнуйся.\n<PAGE>\nРодители всё знают и перед праздником всегда\nдают детям немного денег.\n<PAGE>\nСобери деньги и приходи ко мне до <BLUE>вечера\n8-го</BLUE>."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_09",
+   "key": "e564778f",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЕсли забудешь, у кого собирать, просто\nподойди ко мне.\n<PAGE>\nЯ сделаю всё, чтобы праздник удался.\nРассчитываю и на тебя."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_S_WITCH_10",
+   "key": "14cce5c8",
+   "ru": "(Так, мне нужно собрать деньги у...)\n<PAGE>\n(<BLUE>Лудуса</BLUE>, <BLUE>Илуки</BLUE>, <BLUE>Захау</BLUE>, <BLUE>Альмы</BLUE>, <BLUE>Митры</BLUE> и\n<BLUE>Лотуса</BLUE>. Только у шестерых. Понятно!)"
+  }
+ ]
+}

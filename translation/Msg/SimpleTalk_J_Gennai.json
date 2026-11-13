@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Gennai",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "e3b7386f",
+   "ru": "Привет! Хороший денёк?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "ef149b9e",
+   "ru": "<NAME_MOB_GENNAI>\r\nДля хорошего урожая погода важнее всего."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "cd4e2285",
+   "ru": "<NAME_MOB_GENNAI>\r\nВот бы уметь предсказывать погоду..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "6e1414cf",
+   "ru": "<NAME_MOB_GENNAI>\r\nФерма! Ферма! Только о ней и думаю!"
+  }
+ ]
+}

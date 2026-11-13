@@ -1,0 +1,278 @@
+{
+ "file": "ShopJGeneral2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_000",
+   "key": "dc0f8690",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_003",
+   "key": "81fcf0ca",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nЗдравствуй, добро пожаловать в “От 99G”,\nлучший магазин всего нужного фермеру!\nЗапасайся на здоровье!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_004",
+   "key": "b7753f2a",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nРада тебя видеть! Это универмаг “От 99G”!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_005",
+   "key": "33e50734",
+   "ru": "Добро пожаловать, дорогуша!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GREETING_006",
+   "key": "0c041d7c",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nСлышала, у тебя появилась удочка.\n<PAGE>\nОткрою маленький рыбацкий секрет: мы ещё и\nделаем наживку! Попробуй.\n<PAGE>\nА насадить её на удочку отлично умеет <GREEN>мастер\nна все руки</GREEN> в Лулукоко, сходи к нему!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_000",
+   "key": "5410b6c5",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nЧем могу помочь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_001",
+   "key": "9dd57c83",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nЧто-нибудь ещё нужно?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_003",
+   "key": "feb1027d",
+   "ru": "Сделать наживку"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_004",
+   "key": "4beeb254",
+   "ru": "Расширить сумку"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_005",
+   "key": "67ec7107",
+   "ru": "Ещё расширить сумку"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_006",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_007",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_CHOICE_008",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_000",
+   "key": "81c80cd9",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nЧудесно! Что возьмёшь?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_004",
+   "key": "1bb1b9f9",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nТолько что пришли новинки, думаю,\nпонравятся. Посмотри."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_ITEM_005",
+   "key": "248b801f",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nТеперь у нас есть товары, созданные вместе с <_____MYNAME_____>.\nПосмотри."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_000",
+   "key": "ee02d473",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nО, хочешь сумку побольше?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_001",
+   "key": "623c8e23",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nЕщё больше сумку, да?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_002",
+   "key": "fd59303e",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nЭто будет стоить <BLUE><MOJI0></BLUE>G. Ну как?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_003",
+   "key": "a584bb8f",
+   "ru": "Купить сумку"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_004",
+   "key": "ab5f605a",
+   "ru": "<CANCEL_SELECT>\r\nПока нет"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_005",
+   "key": "9d3a30c2",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nБез денег, увы, никак."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_BAG_UP_006",
+   "key": "03272ce6",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nВот, держи: сумка больше и лучше."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_000",
+   "key": "3a69e708",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nТак! Какую наживку сделать?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_001",
+   "key": "6a038bb0",
+   "ru": "У тебя нет нужных материалов."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_002",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_003",
+   "key": "840744c1",
+   "ru": "Сколько сделать?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_004",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_005",
+   "key": "29b142cd",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nВсё готово! Спасибо за терпение!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_006",
+   "key": "a2c451ad",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nЯ придумала рецепты новых, лучших наживок.\nПосмотри, вдруг что приглянется."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_FISH_007",
+   "key": "248b801f",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nТеперь у нас есть товары, созданные вместе с <_____MYNAME_____>.\nПосмотри."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_NAME",
+   "key": "e771ae2f",
+   "ru": "От 99G"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL2_GOODBYE_000",
+   "key": "a3d0510b",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nБольшое спасибо. Заходи ещё!"
+  }
+ ]
+}

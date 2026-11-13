@@ -1,0 +1,355 @@
+{
+ "file": "Tutorial_Animal",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_00",
+   "key": "9a499173",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>. Слышал, у тебя появился скот.\n<PAGE>\nРешил зайти и дать пару советов, как за ним\nухаживать."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_01",
+   "key": "41df4efb",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nЛадно. Пойдём со мной, всё покажу."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_02",
+   "key": "52cf5dd3",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nУход за скотом ― это много разных дел.\n<PAGE>\nКормить, чистить, давать лакомства, доить,\nстричь, выводить на пастбище...\n<PAGE>\nНе менее важно проявлять ласку: гладить,\nбрать на руки, разговаривать.\n<PAGE>\nЕсли хорошо ухаживать за ними каждый день,\nполучишь в ответ лучшее молоко, шерсть и\nяйца."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_03",
+   "key": "c913045a",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНу, перейдём к делу.\n<PAGE>\nКак и с урожаем, спрашивай, что хочешь\nузнать, а я объясню."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_04",
+   "key": "82a8148d",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nТак, о чём хочешь послушать?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_05",
+   "key": "348139b1",
+   "ru": "Чистка скота"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_06",
+   "key": "e81aa4c2",
+   "ru": "Дойка коров"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_07",
+   "key": "3759c93a",
+   "ru": "Стрижка овец"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_08",
+   "key": "bbdce77c",
+   "ru": "Сбор яиц"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_09",
+   "key": "a6989f94",
+   "ru": "Выпуск скота на улицу"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_10",
+   "key": "c59c74e4",
+   "ru": "Кормление скота"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_11",
+   "key": "6e57cc3a",
+   "ru": "Блокнот животных"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_12",
+   "key": "14d06845",
+   "ru": "Пока ничего"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_20",
+   "key": "fd1c2fe7",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Расскажу, как чистить скот."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_21",
+   "key": "4b922839",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЧтобы почистить животное, сначала возьми\nщётку. Потом подойди к нужному животному и\n<BLUE>нажми кнопку A</BLUE>."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_22",
+   "key": "25d4fa69",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nРаз уж мы здесь, может, попробуешь?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_23",
+   "key": "62116831",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nВот так, получается! Хорошая чистка снимает\nстресс у животных, так что делай это почаще.\n<PAGE>\n<FACE_NORMAL>Вот и всё, что я могу рассказать о чистке скота."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_24",
+   "key": "903ca574",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nДавай, почисти корову и овцу. Сначала возьми\nщётку, потом подойди к животному и <BLUE>нажми\nкнопку A</BLUE>."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_30",
+   "key": "ecf5a5b1",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Расскажу, как доить коров."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_31",
+   "key": "bc7e8a4a",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nДоить коров совсем просто. Возьми <BLUE>доильник</BLUE>,\nподойди к корове и <BLUE>нажми и держи кнопку A</BLUE>.\n\nПока доишь, шкала слева внизу экрана\nзаполняется. Когда дойдёт до MAX, молоко\nсоберётся само."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_32",
+   "key": "25d4fa69",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nРаз уж мы здесь, может, попробуешь?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_33",
+   "key": "07f05335",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nВот так, получается! Молоко пригодится для\nвсего. Его можно пить, готовить с ним или\nдарить.\n<PAGE>\n<FACE_NORMAL>Доить коров можно раз в день, так что не\nзабывай, ладно? Вот и всё, что я могу\nрассказать о дойке коров."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_34",
+   "key": "37b5d7b6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nДавай, подои вон ту корову. Сначала возьми\nдоильник, потом подойди к корове и <BLUE>нажми и\nдержи кнопку A</BLUE>."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_40",
+   "key": "d9de92f5",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Расскажу, как стричь овец."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_41",
+   "key": "71b99da8",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nСтричь овец совсем просто. Возьми <BLUE>ножницы</BLUE>,\nподойди к овце и <BLUE>нажми и держи кнопку A</BLUE>.\n\nПока стрижёшь, шкала слева внизу экрана\nзаполняется. Когда дойдёт до MAX, шерсть\nсоберётся сама."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_42",
+   "key": "25d4fa69",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nРаз уж мы здесь, может, попробуешь?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_43",
+   "key": "1929d2ea",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nВот так, получается! Шерсть ― очень полезная\nштука. Из неё делают ткань для самых разных\nнарядов.\n<PAGE>\n<FACE_NORMAL>Шерсть у овцы обычно отрастает примерно за\n<BLUE>три дня</BLUE>. Вот и всё, что я могу рассказать о\nстрижке овец."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_44",
+   "key": "ebfcabce",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nДавай, постриги вон ту овцу. Сначала возьми\nножницы, потом подойди к овце и <BLUE>нажми и\nдержи A</BLUE>."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_50",
+   "key": "c51fbcd9",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Расскажу, как собирать яйца."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_51",
+   "key": "3d383593",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nКуры несут яйца каждое утро. Прямо на пол\nкурятника, так что просто подбирай их.\n<PAGE>\nИмей в виду: <BLUE>куры несутся только в курятнике</BLUE>.\nЕсли они на улице, время от времени\nвозвращай их внутрь.\n<PAGE>\nВот и всё, что я могу рассказать о сборе яиц."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_60",
+   "key": "9274cc91",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Расскажу, как выводить скот на улицу."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_61",
+   "key": "ec1be691",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВ солнечные и снежные дни скот можно\nвыводить на улицу пастись.\n<PAGE>\nЧтобы вынести курицу, <BLUE>нажми кнопку A</BLUE>, возьми\nеё на руки и вынеси."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_62",
+   "key": "3e7cae37",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nКрупный скот вроде коров и овец просто\nподталкивай сзади к выходу.\n<PAGE>\nТолько не забудь завести их обратно, когда\nстемнеет.\n<PAGE>\nВот и всё, что я могу рассказать о выгуле\nскота."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_70",
+   "key": "109201b6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Расскажу, как кормить скот."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_71",
+   "key": "7a46bbeb",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВсе животные должны есть раз в день. Крупный\nскот вроде коров и овец ест сено. Куры едят,\nну, куриный корм.\n<PAGE>\nЧтобы покормить, подойди вон к той <BLUE>кормушке</BLUE>\nи <BLUE>нажми кнопку A</BLUE>, чтобы положить корм."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_72",
+   "key": "ec5dcaa5",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nКстати, у тебя уже есть силос?\n<PAGE>\nВ силосе хранится корм. Он соединён вон с тем\n<BLUE>раздатчиком корма</BLUE>."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_73",
+   "key": "d293af95",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЕсли в силосе есть корм, просто подойди к\nраздатчику и <BLUE>нажми кнопку A</BLUE>, чтобы его взять.\n<PAGE>\nЕсли силоса ещё нет, сходи к мастеру и\nпопроси его построить."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_97",
+   "key": "726c5fb6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nРаз <BLUE>силоса</BLUE> на ферме пока нет, храни корм для\nживотных в сумке.\n<PAGE>\nАх да. Силос ― это место, где обычно хранят\nкорм для животных.\n<PAGE>\nПока он тебе не по карману, но уверен, скоро\nсможешь себе его позволить.\n<PAGE>\nКогда его построят, он сам подключится к\nраздатчику корма на стене."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_98",
+   "key": "0398a9b2",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nКогда в силосе будет сено и корм, можно\nпросто подойти сюда и <BLUE>нажать кнопку A</BLUE>, чтобы\nвзять.\n<PAGE>\nПопробуй, когда появится свой силос."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_74",
+   "key": "feb7456c",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nМаленький совет: если оставить скот на улице,\nон будет пастись и в этот день корм ему не\nпонадобится.\n<PAGE>\nЭто избавляет от кормления и бережёт корм,\nтак что выводить животных почаще ―\nхорошая мысль.\n<PAGE>\nВот и всё, что я могу рассказать о кормлении\nскота."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_80",
+   "key": "eef69577",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Расскажу о блокноте животных."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_81",
+   "key": "576e1816",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВ блокноте животных видны сведения о\nкаждом твоём животном.\n<PAGE>\nОн лежит вон на том столе у входа."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_82",
+   "key": "b559528b",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВ блокноте полно полезных сведений о\nживотных.\n<PAGE>\nЗдоровье, стресс, поели или нет ― с одного\nвзгляда видно, как они.\n<PAGE>\nЗаглядывай в него почаще и расти животных\nкак следует, ладно?\n<PAGE>\nВот и всё, что я могу рассказать о блокноте\nживотных."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_90",
+   "key": "7058d926",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nНу, ладно.\n<PAGE>\nЕсли передумаешь и захочешь, чтобы я что-то\nобъяснил, приходи в любой день <BLUE>до 12:00</BLUE>.\n<PAGE>\nСразу всего не усвоишь, так что спрашивай\nсколько угодно."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_91",
+   "key": "205acb93",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЛадно, пойду домой. Хорошо заботься о скоте,\nслышишь?"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_92",
+   "key": "d371b076",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВот. Возьми напоследок. Уверен, пригодится."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_93",
+   "key": "9aa7a3a8",
+   "ru": "(Получено <BLUE>сено</BLUE>!)"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_94",
+   "key": "cb3d09dc",
+   "ru": "(Получен <BLUE>куриный корм</BLUE>!)"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_95",
+   "key": "b667552b",
+   "ru": "(Получено <BLUE>2000</BLUE>G!)"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_ANIMAL_96",
+   "key": "ef192d26",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nТо, что не влезло в сумку, я положил в <GREEN>ящик\nдля хранения</GREEN>. Загляни туда потом, как будет\nвремя."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "file": "Story_Town_A_RankA_Goddess",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_00",
+   "key": "8765d80f",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНе знаю, доходили ли до тебя слухи и истории\nо нашем городе, <_____MYNAME_____>...\n<PAGE>\nНо по легенде, в этой реке живёт\nдух-хранитель нашего города ― богиня."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_01",
+   "key": "f67f5255",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>\r\nСказка это или нет, а мне нравится верить, что\nбогиня существует. Жизнь интереснее, когда в\nней есть капля волшебства и тайны.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>Богиня правда существует! Я её однажды\nвидела!\n<PAGE>\n<FACE_AMERICAFARMSON><POS_LEFT><FACE_LAUGH>И я! Она не взрослая. Выглядит как ребёнок,\nсовсем как мы!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_02",
+   "key": "61104286",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nТак вот...\n<PAGE>\nРаз наш городок в последнее время так вырос и\nпроцветает...\n<PAGE>\n...мы подумали, что неплохо бы отблагодарить\nбогиню за то, что всё это время хранила нас.\n<PAGE>\nОбсудив всё...\n<PAGE>\nМы решили поставить ей статую. Что скажешь?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_03",
+   "key": "241b0e8c",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nО-хо, рада, что мы сошлись во мнениях!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_04",
+   "key": "16220fda",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>\r\nКак и всегда, весь город собирается внести\nсвой вклад.\n<PAGE>\n<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>Ага! Мы с Ноэль нарисуем богиню!\n<PAGE>\n<FACE_STOREDAUGHTER><POS_LEFT><FACE_LAUGH>Колин ужасно хорошо рисует! Приходи\nпосмотреть, когда закончим! ♪"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_05",
+   "key": "10b679f4",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсли ты не против, достань, пожалуйста, вот\nэти три вещи...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE> и <BLUE><____ITEMNAME2____></BLUE> <BLUE>x<MOJI4></BLUE>.\n<PAGE>\nМогу я тебя об этом попросить?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_GODDESS_06",
+   "key": "c75e4bd8",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЧудесно! Значит, решено! Считай, что тебя\nофициально попросили, <_____MYNAME_____>!\n<PAGE>\nКак соберёшь всё, неси мне, слышишь?"
+  }
+ ]
+}

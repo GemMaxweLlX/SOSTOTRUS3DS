@@ -1,0 +1,264 @@
+{
+ "file": "Love_S_TwinOlder_6",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_00",
+   "key": "430cae6f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nАга. <_____MYNAME_____>. Как раз вовремя.\n<PAGE>\nЯ как раз собиралась за тобой."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_01",
+   "key": "5d1fc188",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nУ тебя на сегодня есть планы? Если нет,\nприходи ко мне.\n<PAGE>\n<FACE_LAUGH>Угощу тебя домашней едой."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_02",
+   "key": "48600823",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nХи-хи! Вижу, тебе нравится идея.\nНеудивительно. Ведь твоя красавица-девушка\nприготовит для тебя особое блюдо.\n<PAGE>\n<FACE_NORMAL>Ой, но у меня ещё не всё готово. Приходи ко\nмне где-то через полчаса, ладно?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_03",
+   "key": "4613b7d7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЛадно, до встречи!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_04",
+   "key": "3cfce750",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nСилука! <_____MYNAME_____> придёт!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_05",
+   "key": "e46df49a",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nО. Хорошо."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_06",
+   "key": "1ed533d9",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nМахало, что помогаешь мне, Силука.\n<PAGE>\n<FACE_NORMAL>Так, э-э... скажи честно. Как на вкус?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_07",
+   "key": "d9e455d2",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nВкусно. Всё будет хорошо, Илука.\n<PAGE>\nТы хорошо завариваешь чай масала. В масале\nсмесь специй, так что примени здесь то же\nумение.\n<PAGE>\nК тому же ты столько тренировалась к\nсегодняшнему дню.\n<PAGE>\n<FACE_LAUGH>Уверена, <_____MYNAME_____> будет очень рад."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_08",
+   "key": "491ce137",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nП-правда? Надеюсь...\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Всё получится.\n<PAGE>\nПусть потомится ещё немного, добавь специи\nпо вкусу ― и готово.\n<PAGE>\nОй. Только не переборщи со специями.\n<PAGE>\nВ общем, у меня дела. До встречи."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_09",
+   "key": "93804dcf",
+   "ru": "Не используется"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_10",
+   "key": "ca4282c6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТак, дальше я справлюсь."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_11",
+   "key": "31f3b310",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВот! Осталось добавить специи ― и готово!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_12",
+   "key": "90050588",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nОтлично, ты как раз вовремя."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_13",
+   "key": "dbac7049",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nЧто, вкусно пахнет? Хе-хе. Ещё бы.\n<PAGE>\n<FACE_NORMAL>Я приготовила для тебя своё особое “Карри от\nИлуки”.\n<PAGE>\nСадись. Сейчас положу тебе."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_14",
+   "key": "02fefc00",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПриятного аппетита! ♪"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_15",
+   "key": "f323429f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nЧто такое...?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_16",
+   "key": "ecbdb085",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nСлишком остро?!\n<PAGE>\nНе может быть! Я пробовала раз десять, чтобы\nубедиться, что нет!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_17",
+   "key": "23ab8d1c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nПостой... Может, я пробовала так много раз,\nчто язык онемел от специй? И я не заметила,\nчто переборщила?\n<PAGE>\nДа. Наверное, так и есть..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_18",
+   "key": "41404447",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nСтолько тренировалась и всё испортила, когда\nэто важнее всего.\n<PAGE>\n<FACE_LOSS>У меня ничего не получается!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_19",
+   "key": "35ee08c0",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nХм? <_____MYNAME_____>?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_20",
+   "key": "05baf1e1",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nУже уходишь?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_21",
+   "key": "3a609794",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nО. Карри у Илуки вышло слишком острым. А\nпотом она расстроилась и убежала?\n<PAGE>\n<FACE_LOSS>...*вздох*... Я так и думала, что может так\nслучиться. Надо было остаться и досмотреть\nдо конца."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_22",
+   "key": "6476b047",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nНичего.\n<PAGE>\nЕсли она убежала расстроенной, я, кажется,\nзнаю, куда. Уверена, ты тоже.\n<PAGE>\nПоспеши к ней."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_23",
+   "key": "36ebbd92",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...И, <_____MYNAME_____>?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_24",
+   "key": "cee02d3d",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nИлука очень старалась научиться готовить это\nблюдо, потому что хотела тебя порадовать.\n<PAGE>\nПожалуйста, помни об этом."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_25",
+   "key": "04937afd",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>..."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_26",
+   "key": "7fd92766",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nЯ-я, э-э, в порядке. Правда. Просто...\n<PAGE>\nМне так хотелось тебя порадовать. А я всё\nиспортила."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_27",
+   "key": "f22a403f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nНу хватит. Я уже начинаю думать, что у тебя\nправда какая-то странная страсть пялиться.\n<PAGE>\n...Не смотри на меня так."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_28",
+   "key": "19d1b2ba",
+   "ru": "Обнять её"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_29",
+   "key": "c85832ad",
+   "ru": "Утешить её"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_30",
+   "key": "849b31ec",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nХ-хмф... У тебя был такой вид, будто ты\nсейчас огнём задышишь, такое острое было\nкарри.\n<PAGE>\nСпасибо, но мне не нужны такие явные попытки\nменя задобрить."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_31",
+   "key": "065861df",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\n...!\n<PAGE>\n<_____MYNAME_____>..."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_32",
+   "key": "397221df",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nМне до тебя никогда не дотянуться, да?\n<PAGE>\nМне было ужасно грустно, а ты просто взял и...\nзатмил всё счастьем."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_33",
+   "key": "4038b7c1",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\n<_____MYNAME_____>..."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_34",
+   "key": "ff73a5f5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nОй.\n<PAGE>\nДа. Остро даже для меня."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_35",
+   "key": "e5e2cca9",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЯ буду тренироваться дальше, чтобы\nкогда-нибудь готовить для тебя много разной\nвкусной еды.\n<PAGE>\n<FACE_LOVE>Так что, эм... потерпишь мои неудачные\nпопытки до тех пор?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_6_36",
+   "key": "8aa354f7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n...Махало."
+  }
+ ]
+}

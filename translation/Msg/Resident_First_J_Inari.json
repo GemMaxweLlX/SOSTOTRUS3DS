@@ -1,0 +1,257 @@
+{
+ "file": "Resident_First_J_Inari",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_00",
+   "key": "7ae76f3c",
+   "ru": "<NAME_UNKNOWN>\r\n<_____MYNAME_____>! <_____MYNAME_____>, ты проснулся(ась)?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_01",
+   "key": "086c72f5",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>. Можно занять у тебя минутку?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_02",
+   "key": "b6e0bcac",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nХранительница Цуюкусы вот-вот проснётся.\nМы решили, что можно заодно тебя\nпознакомить."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_03",
+   "key": "596883f8",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nКак я присматриваю за Вестауном, а Ведьмочка\n― за Лулукоко...\n<PAGE>\n<FACE_LAUGH>...так и за Цуюкусой присматривает своя\nхранительница!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_04",
+   "key": "d146ad2f",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_SAD>\r\n<WINDOW_SWEAT_R>По-моему, “присматриваю” за Лулукоко ― это\nслишком щедро сказано...\n<PAGE>\n<FACE_NORMAL><WINDOW_DEFAULT>В общем! Вернёмся к делу!\n<PAGE>\nХранительнице Цуюкусы немного, э-э... не\nповезло, и последние несколько лет она спит.\n<PAGE>\nНе каждому смертному выпадает увидеть\nпробуждение хранителя. Так что гордись, что\nмы взяли тебя с собой!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_05",
+   "key": "3c91e53b",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nУже почти пора. Пошли!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_06",
+   "key": "9b02c2b9",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nВот оно. В этом маленьком святилище спит\nИнари."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_07",
+   "key": "d910fd33",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nУже вот-во-о-от..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_08",
+   "key": "97d0700a",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро. Давно не виделись.\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_NORMAL>...Помнишь нас?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_09",
+   "key": "3fa89e2e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_10",
+   "key": "90de25d3",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>...Вы ― госпожа Десси... и госпожа Ведьмочка."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_11",
+   "key": "2a301ea4",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN><WINDOW_INCOMPREHENSIBLE_R>А... это смертный?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_12",
+   "key": "1e9850ee",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN><WINDOW_EXCLAMATION_R>Ч-что...? Невероятно! Ты слышишь мой голос\nи видишь мой облик?\n<PAGE>\n<FACE_NORMAL><WINDOW_DEFAULT>Маленькие дети часто могут, но чтобы\nвзрослый смертный меня видел...? Как странно."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_13",
+   "key": "cbb9ea0e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Ах, да. Ты так учтиво выказываешь мне\nпочтение, а у меня не нашлось ответной\nучтивости.\n<PAGE>\nКакая постыдная невежливость."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_14",
+   "key": "c650fc18",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nМеня зовут Инари. Мой долг и честь ―\nприсматривать за городом Цуюкуса и защищать\nего.\n<PAGE>\n<FACE_LAUGH>Ты ведь <_____MYNAME_____>? Рада знакомству."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_15",
+   "key": "cf6e68b9",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nОх. Вечно ты со своими чопорными\nцеремонными представлениями. Терпеть не\nмогу эту тягомотину.\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>Представляться как следует и полностью при\nновом знакомстве ― элементарная вежливость.\n<PAGE>\n<WINDOW_INCOMPREHENSIBLE_R>Простите, что меняю тему, но я ужасно вялая.\nПочему бы это?\n<PAGE>\n<WINDOW_DEFAULT><FACE_GODDES><POS_RIGHT><FACE_SAD>Ну, э-э... ты спала много лет. Неудивительно,\nчто ты немного не в себе."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_16",
+   "key": "74669f6c",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_ANGER_L>А-А-А! Глупая Десси! Обязательно было это\nвыбалтывать?!\n<PAGE>\nЯ же сказала держать это в секрете!\n<PAGE>\n<FACE_GODDES><POS_RIGHT><FACE_SAD><WINDOW_MOJA_R>Ой! Точно. П-прости. Совсем забыла.\n<PAGE>\nНо вечно держать это в секрете мы не могли,\nтак что..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_17",
+   "key": "e0d790df",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nЧто? Это был сон?!\n<PAGE>\n<FACE_SAD>Как это случилось? Последнее, что я помню..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_18",
+   "key": "19701335",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\n<WINDOW_EXCLAMATION_R>Точно! Мы вместе работали над заклинанием\nслияния, которое вы отрабатывали...\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_ANGRY>Ага. Заклинание должно было создать лягушку,\nкоторая вместо икры несёт бесконечные горы\nклубники...\n<PAGE>\n<WINDOW_DEFAULT><FACE_GODDES><POS_RIGHT><FACE_SAD>Но, э-э... я-я напутала и запечатала тебя на\nнесколько лет..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_19",
+   "key": "5c54a511",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_LINE_R>Госпожа Десси! Госпожа Ведьмочка! Как вы\nмогли так со мной поступить?!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_20",
+   "key": "a5746f4f",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\r\nП-прости! Я сделала с тобой что-то ужасное,\nмне так, так жаль...!\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_ANGRY><WINDOW_MOJA_L>Эй! Это была ошибка, ясно? Все ошибаются!\n<PAGE>\nК тому же этого бы не случилось, если бы ты\nвовремя увернулась.\n<PAGE>\nТы не представляешь, как разругались семьи\nБогини, Принцессы ведьм и Виксени, когда\nузнали!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_21",
+   "key": "73e1c464",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_R>Правда...? Разругались?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_22",
+   "key": "d92e8873",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\n<WINDOW_INCOMPREHENSIBLE_R>И-и...? Что было дальше?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_23",
+   "key": "8921ed1f",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\r\nНам с Ведьмочкой очень долго читали нотации.\n<PAGE>\nА потом нам пришлось ещё дольше сидеть в\nнаказании."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_24",
+   "key": "36f61ac8",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_SAD>\r\n<WINDOW_MOJA_L>Решили, что вины хватит на всех. Это был\nкошмар! Даже вспоминать не хочу. Фу!\n<PAGE>\nСказали, что ты тоже отчасти виновата, ведь\nтебе следовало быть умнее и остановить нас.\n<PAGE>\nВот и решили, что ты можешь просто спать\nвнутри печати, пока магия сама не рассеется."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_25",
+   "key": "8fc79920",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nПожалуй, это так. Моя вина не меньше, ведь\nмне следовало не стоять в стороне, вместо того\nчтобы попытаться вас остановить.\n<PAGE>\nЗакрыть глаза на свой проступок и винить\nтолько вас двоих было бы едва ли достойно."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_26",
+   "key": "fcb5458c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nГоспожа Десси. Госпожа Ведьмочка. Прошу\nпрощения за свою роль во всей этой беде."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_27",
+   "key": "3f33f338",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\r\nЯ-я тоже очень сожалею о том, что случилось.\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_SAD>Ага, э-э... я поступила довольно скверно.\n...Прости."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_28",
+   "key": "9c58752a",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nТак! Раз все извинились, оставим это позади и\nпойдём дальше. С возвращением, Инари.\n<PAGE>\n<FACE_GODDES><POS_RIGHT><FACE_NORMAL>Да. Так хорошо, что ты вернулась.\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>И мне радостно вернуться. Как хранитель\nхранителю, надеюсь, мы снова станем добрыми\nдрузьями."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_29",
+   "key": "81bd5f55",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Никакая я не “хранительница”! Сколько раз\nповторять?!\n<PAGE>\nА, ладно. С меня хватит. Я домой.\n<PAGE>\n<FACE_GODDES><POS_RIGHT><FACE_LAUGH>Мне тоже пора. До встречи!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_30",
+   "key": "68a73a8e",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nИтак. Думаю, я и дальше буду жить в этом\nмилом маленьком святилище.\n<PAGE>\nВ знак дружбы позволь наложить небольшое\nзаклинание, которое может тебе пригодиться."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_31",
+   "key": "431e81f5",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nАх, знаю. Ты ведь фермер? Давай я буду\nпредсказывать тебе погоду.\n<PAGE>\nВидишь ли, я очень люблю <BLUE>местные культуры\nЦуюкусы</BLUE>.\n<PAGE>\nЕсли принесёшь мне одну в подношение, я\nскажу, какая погода будет в следующие два\nдня."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_32",
+   "key": "005f4775",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Хо-хо! Признаюсь, я впервые говорю со\nвзрослым смертным.\n<PAGE>\nЯ не очень знакома с людскими обычаями, так\nчто порой могу ненароком сказать что-то\nнеподобающее, но надеюсь, мы подружимся."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_33",
+   "key": "f51ed1a7",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nАх, и ещё одно. Я весьма искусна в\nзаклинаниях, соединяющих две души.\n<PAGE>\nУ тебя, случайно, нет питомца?\n<PAGE>\nЕсли есть и вы особенно близки, я могу\nналожить чары и сделать его твоим <BLUE>спутником</BLUE>."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_34",
+   "key": "c9c8dd53",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nОсобая связь между тобой и одним из\nпитомцев, с которым вы особенно близки. Это\nи есть связь со спутником.\n<PAGE>\nСпутник переедет к тебе в дом и будет жить с\nтобой...\n<PAGE>\nОн будет делить с тобой и радости, и печали."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_INARI_35",
+   "key": "9c63dc74",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nКогда решишь сделать одного из питомцев\nсвоим спутником, принеси мне в подношение\nодну из <RED>местных культур Цуюкусы</RED>.\n<PAGE>\nЯ с радостью проведу для тебя обряд."
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Tadataka",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "dd78ac77",
+   "ru": "Коннитива!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "68f0f1d5",
+   "ru": "<NAME_MOB_TADATAKA>\r\nАх, приятно видеть дружелюбное лицо!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "431a4c9f",
+   "ru": "<NAME_MOB_TADATAKA>\r\nУф, я бы сейчас выпил!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "4605fb18",
+   "ru": "<NAME_MOB_TADATAKA>\r\nСкучновато сегодня. Чем бы заняться...?"
+  }
+ ]
+}

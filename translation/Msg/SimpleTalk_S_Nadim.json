@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Nadim",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "ae8f7ffb",
+   "ru": "<NAME_MOB_NADIM>\r\nАлоха, дружище!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "1fad6835",
+   "ru": "<NAME_MOB_NADIM>\r\nРыбалка здесь превосходная!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "ff482a4a",
+   "ru": "<NAME_MOB_NADIM>\r\nИ волны тут отличные."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "97da2d6a",
+   "ru": "<NAME_MOB_NADIM>\r\nДа, знаю Захау. Отличный рыбак!"
+  }
+ ]
+}

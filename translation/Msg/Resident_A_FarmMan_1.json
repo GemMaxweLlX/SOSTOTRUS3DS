@@ -1,0 +1,180 @@
+{
+ "file": "Resident_A_FarmMan_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_00",
+   "key": "bc0c9582",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>\r\n...О, это ты, <_____MYNAME_____>. Извини, не заметил.\n<PAGE>\nЗадумался о своём."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_01",
+   "key": "f89ce8ca",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>\r\n...Слушай, <_____MYNAME_____>. Ты не знаешь, какие животные\nсейчас в моде?\n<PAGE>\n<FACE_SAD>Хоть я и фермер, в животных разбираюсь не\nособо.\n<PAGE>\n<FACE_NORMAL>Подумал, ты наверняка знаешь о них куда\nбольше меня, так?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_02",
+   "key": "a5c2918d",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_SAD>\r\nПросто...\n<PAGE>\nДумаю, пора сделать новые...\n<PAGE>\n...формочки для печенья."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_03",
+   "key": "c922049d",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_SAD>\r\nНе смотри на меня так.\n<PAGE>\nПо правде... я иногда пеку печенье. Колин его\nобожает.\n<PAGE>\n<FACE_NORMAL>Только никому ни слова. Об этом знаешь\nтолько ты и моя мама, пусть так и останется.\n<PAGE>\nВ общем... обычных животных вроде кроликов\nи медведей я уже делал.\n<PAGE>\nРаз уж делать новые, хочется таких животных,\nкоторых Колин никогда не видел.\n<PAGE>\nНо, как я и сказал, в этом я мало смыслю.\nНичего хорошего в голову не идёт.\n<PAGE>\nПоэтому хотел спросить тебя, <_____MYNAME_____>: что,\nпо-твоему, сделать?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_04",
+   "key": "b7adccf9",
+   "ru": "Китоглава, конечно же!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_05",
+   "key": "84d390a7",
+   "ru": "Может, чихуахуа?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_06",
+   "key": "52828e39",
+   "ru": "Все мужчины любят гризли!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_07",
+   "key": "a40de3c0",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>\r\nКитоглав? Никогда не слышал...\n<PAGE>\nНо ясно. Значит, вот что в моде, а? Разузнаю.\n<PAGE>\n<FACE_LAUGH>А ты много знаешь об экзотических животных.\nХорошо, что я спросил."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_08",
+   "key": "b6cd0c3e",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_SAD>\r\nЧихуахуа...?\n<PAGE>\nОни, конечно, милые, но...\n<PAGE>\nКажется, сделать из неё формочку для печенья\nбудет трудновато...\n<PAGE>\nНо ничего, с этой идеей можно работать. Буду\nсчитать это вызовом."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_09",
+   "key": "0f7cc608",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_SAD>\r\nХм-м, гризли, значит? Чем они так отличаются\nот обычных медведей?\n<PAGE>\n...Ну, всё равно разузнаю."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_10",
+   "key": "55bc0c80",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_SAD>\r\n...\n<PAGE>\n...Тебе смешно?\n<PAGE>\nЧто такой здоровенный мужик тратит время на\nформочки для печенья?\n<PAGE>\n<FACE_NORMAL>Когда-то я сдуру рассказал об этом приятелям\nпо работе, так они чуть не задохнулись от\nхохота."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_11",
+   "key": "2671b696",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\nМожет, я уже говорил, но... пару лет назад я\nпотерял жену. Болезнь.\n<PAGE>\n...Как бы я ни выглядел, мы очень ладили. Я\nлюбил её всем сердцем."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_12",
+   "key": "57351f55",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>\r\nЖениться снова я не собираюсь, так что новой\nмамы Колину дать не смогу.\n<PAGE>\n...Но взамен хочу сделать для него всё, что в\nмоих силах, ― чтобы восполнить эту потерю.\n<PAGE>\nЖена всегда пекла Колину печенье.\n<PAGE>\n<FACE_LAUGH>А мы смотрели, как он уплетает его за обе\nщеки.\n<PAGE>\nПомнишь ту историю с аппликацией у Колина?\nИх тоже делала жена.\n<PAGE>\n<FACE_NORMAL>Я просто повторяю то, что делала она."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_13",
+   "key": "a218b042",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_NORMAL>\r\nПочему не скажу Колину...? Пожалуй, в этом\nчто-то есть...\n<PAGE>\n<FACE_SAD>Когда я сделал Колину ту аппликацию, чуть не\nвыяснилось, что это моих рук дело.\n<PAGE>\nВ панике, пытаясь скрыть правду, я обошёлся с\nним довольно грубо.\n<PAGE>\n<FACE_NORMAL>Делал, чтобы его порадовать, а вышло\nнаоборот.\n<PAGE>\n*вздох* Надо было просто сказать ему, что это\nя."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_14",
+   "key": "d92f3b38",
+   "ru": "<FACE_AMERICAFARMMAN><POS_LEFT><FACE_SAD>\r\nТрудно выразить словами, но...\n<PAGE>\n...кажется, я до сих пор не смирился с тем, что\nжены больше нет на этом свете.\n<PAGE>\n<FACE_NORMAL>И раз не могу смириться...\n<PAGE>\nвсё пытаюсь сохранить наши традиции, что\nбыли при ней.\n<PAGE>\n<FACE_SAD>Я всё твержу, что это ради Колина, но...\nможет, на самом деле я просто не хочу, чтобы\nон забыл свою маму."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_15",
+   "key": "7ddfde44",
+   "ru": "<FACE_AMERICAFARMSON><POS_LEFT><FACE_NORMAL>\r\nПап...\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD><WINDOW_LINE_R>Колин?! Сколько ты слышал...?!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_16",
+   "key": "d39d96db",
+   "ru": "<FACE_AMERICAFARMSON><POS_LEFT><FACE_NORMAL>\r\nПап, я...\n<PAGE>\nМамы нет... но мне не одиноко."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_17",
+   "key": "138531c8",
+   "ru": "<FACE_AMERICAFARMSON><POS_LEFT><FACE_NORMAL>\r\nВедь есть ты, пап, и бабушка.\n<PAGE>\nА ещё Ноэль и <_____MYNAME_____> всегда со мной такие добрые.\nИ... и...\n<PAGE>\nТы всегда делаешь мне аппликации с моими\nлюбимыми животными.\n<PAGE>\nИ каждую неделю печёшь печенье самых разных\nформ. Так что..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_18",
+   "key": "39d85e04",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\nРуки у меня не из того места, так что печенье у\nменя не такое, как у твоей мамы...\n<PAGE>\n<FACE_AMERICAFARMSON><POS_LEFT><FACE_NORMAL>Неправда! Я люблю твоё печенье.\n<PAGE>\nЯ уже толком не помню, какое на вкус было\nмамино, но...\n<PAGE>\nЯ всегда представлял, что оно точно такое же,\nкак твоё."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_19",
+   "key": "699800d8",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>\r\nК-К...\n<PAGE>\nКолин..."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_20",
+   "key": "79958764",
+   "ru": "(Это семейный момент... Пора тихонько уйти\nдомой.)"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_21",
+   "key": "10153b83",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\n...<_____MYNAME_____>, постой."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_22",
+   "key": "21df07e1",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ как раз утром испёк печенье.\n<PAGE>\nНе хочешь поесть с нами?\n<PAGE>\n<FACE_LAUGH>Рецепт жены, так что вкусно будет\nгарантированно."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_23",
+   "key": "b1ecd930",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nНет, никакого беспокойства!\n<PAGE>\nЕсть вместе будет весело!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FARMMAN_1_24",
+   "key": "0691e691",
+   "ru": "Вы наелись домашнего печенья Гектора!\n<PAGE>\nНа душе тепло и уютно..."
+  }
+ ]
+}

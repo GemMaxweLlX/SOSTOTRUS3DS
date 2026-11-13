@@ -1,0 +1,82 @@
+{
+ "file": "Story_Town_A_RankA_Collabo_Menu2_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_00",
+   "key": "b44073ef",
+   "ru": "<FACE_RESTAURANTOLDMAN>\r\n<_____MYNAME_____>, ты не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_01",
+   "key": "15a61c8e",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_LEFT><FACE_NORMAL>\r\nПрости, что беспокою в такой час.\n<PAGE>\nПосле того как все ингредиенты оказались у\nменя, я так извёлся, что не могу просто дать им\nлежать. Хочу поскорее взяться за рецепт.\n<PAGE>\nНу как, <_____MYNAME_____>? Придёшь посмотреть? Обещаю, без\nвкусного десерта не останешься."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_02",
+   "key": "04724662",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_LEFT><FACE_LAUGH>\r\nВот и славно. Время не ждёт. Пошли."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_03",
+   "key": "f85663ed",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_LEFT><FACE_NORMAL>\r\nТак, за готовку."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_04",
+   "key": "af03972d",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nВот. Попробуй кусочек. Надеюсь, получилось."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_05",
+   "key": "4b0a677c",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nВкусно?\n<PAGE>\nХо-хо, рад слышать!\n<PAGE>\nТут много фруктов, которых в наших краях\nобычно не достать, так что, думаю, вкус\nнеобычный."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_06",
+   "key": "3cdbf9f6",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nРад, что получилось.\n<PAGE>\nДавненько я не садился вот так придумывать\nновый рецепт. Чуть не забыл, как это весело.\n<PAGE>\nДа я будто на тридцать лет помолодел!\nБольшое тебе спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_07",
+   "key": "907f64f8",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nАх да. Чуть не забыл."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_08",
+   "key": "32302616",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nТо блюдо, что я приготовил, ― <BLUE>минс-пай</BLUE>. Вот\nрецепт.\n<PAGE>\nБери. Это меньшее, что я могу дать за всю\nтвою помощь.\n<PAGE>\nПопрошу внука мигом внести его в меню\nресторана, так что заходи, когда будем\nоткрыты, слышишь?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_09",
+   "key": "fd8fc90c",
+   "ru": "(Получен рецепт: <BLUE>“Минс-пай”</BLUE>!)\n<PAGE>\n(Он не только получился с первого раза, но и\nбыл очень-очень вкусным!)\n<PAGE>\n(Марко ― отличный повар!)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKA_COLLABO_MENU2_CLEAR_10",
+   "key": "be9f1866",
+   "ru": "(Получен рецепт: <BLUE>“Минс-пай”</BLUE>!)\n<PAGE>\n(...Но без кухни его не приготовить. Надо\nпоскорее перестроить дом.)"
+  }
+ ]
+}

@@ -1,0 +1,390 @@
+{
+ "file": "Resident_J_StuffSonYounger",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_00",
+   "key": "2363dd0c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nО, <_____MYNAME_____>! Ты как раз вовремя.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL><_____MYNAME_____>!\n<PAGE>\nМы тут все пытаемся угадать, что нравится\nЯити.\n<PAGE>\nПрисоединишься?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_01",
+   "key": "77a41046",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nМы тут все пытаемся угадать, о чём думает\nЯити.\n<PAGE>\nПрисоединишься?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_02",
+   "key": "9b028ea1",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Поиграешь?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_03",
+   "key": "49531a97",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nОтлично! Тогда первое... Хм-м-м,\nпосмотрим..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_04",
+   "key": "2731100f",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nО, как насчёт такого? С кем из присутствующих\nЯити ближе всего?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_05",
+   "key": "8948bd65",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nКонечно же, ответ ― я, верно?\n<PAGE>\nЯ всё время болтаю с Иттэцу и Сидзу и раздаю\nкучу данго.\n<PAGE>\nВерно, Яити? Мои данго лучше всех, да?\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>А может, ему просто нравятся данго?\n<PAGE>\n<FACE_NORMAL>К тому же это Я присматривал за Яити и\nТацуми с самого их детства."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_06",
+   "key": "33bef9c2",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТогда, может, ему просто нравятся данго?\n<PAGE>\n<FACE_NORMAL>Я присматривал за Яити и Тацуми с самого их\nдетства."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_07",
+   "key": "c2cc0fe1",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nОни с братом часто приходят ко мне\nпосмотреть, как я делаю заколки.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Ну а я... Э-э-э! Я даю ему данго!\n<PAGE>\n<FACE_SAD>Чёрт! Это же как у папы!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_08",
+   "key": "0065d991",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nНу а я... А! Я даю ему данго!\n<PAGE>\n<FACE_SAD>Ах, чёрт... Это же как у папы...!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_09",
+   "key": "df102a2b",
+   "ru": "Кого же выберет Яити...?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_10",
+   "key": "782b8ec4",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nНу... так кто, Яити?\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>...<_____MYNAME_____>."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_11",
+   "key": "71f6011f",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...<_____MYNAME_____>."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_12",
+   "key": "58abfe7b",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_EXCLAMATION_L>Что?! Не я?! Предательство!\n<PAGE>\n<WINDOW_DEFAULT><FACE_LAUGH>Хотя все здесь знают, что вы с Яити близки, <_____MYNAME_____>."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_13",
+   "key": "a7583c53",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nДа, если подумать...\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Тут не поспоришь."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_14",
+   "key": "d897eeb3",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nДа, я часто вижу их вместе. Так и думал."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_15",
+   "key": "38e61908",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nАга, такой ответ меня устраивает!\n<PAGE>\nТак! Следующий вопрос!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_16",
+   "key": "580b6bed",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТеперь угадаем, какое из этих блюд Яити\nлюбит больше всего!\n<PAGE>\nНу, Яити. Сможешь съесть всё, что перед\nтобой?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_17",
+   "key": "49bae803",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПервое ― “мисо-суп”."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_18",
+   "key": "f0603781",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nДальше ― “осьминог с васаби”!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_19",
+   "key": "39f6e659",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nИ последнее, но не по значению ― “дораяки”!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_20",
+   "key": "3f4a62e5",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nЧто ж...\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Ха-ха! Похоже, кое-что в Яити понять\nдовольно легко."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_21",
+   "key": "817d8ccd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, похоже, кое-что в Яити понять\nдовольно легко."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_22",
+   "key": "3c284e9d",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nСегодня всё готовил я, так что, конечно,\nвкусно.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Ну, <_____MYNAME_____>, понятно, что ему понравилось больше\nвсего?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_23",
+   "key": "d446a211",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, знаешь, что ему понравилось больше всего?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_24",
+   "key": "39e0c287",
+   "ru": "Мисо-суп"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_25",
+   "key": "b764e62d",
+   "ru": "Осьминог с васаби"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_26",
+   "key": "3d22d81d",
+   "ru": "Дораяки"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_27",
+   "key": "d8b2e63f",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Ага. Я очень люблю дораяки."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_28",
+   "key": "c4ea3618",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nО, неплохо, <_____MYNAME_____>! Правильно. ♪\n<PAGE>\nСлишком легко было? Мы ведь все знали\nответ.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Всем известно, что Яити очень любит сладкое.\nНеудивительно, что <_____MYNAME_____> это знает."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_29",
+   "key": "cea0d35a",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nЯити ведь любит сладкое. Конечно, <_____MYNAME_____> это знает."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_30",
+   "key": "7b5c7dca",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nА это его лицо... Ха-ха! Яити, у тебя всё на\nлице написано."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_31",
+   "key": "b8ce57bd",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>\r\nМисо-суп ничего..."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_32",
+   "key": "0ce362b2",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nБлизко, <_____MYNAME_____>, но, похоже, правильный ответ ―\nдораяки."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_33",
+   "key": "609eaeb9",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nНо то, что он ненавидит, не выбрано, так что,\nсчитай, золотая середина.\n<PAGE>\n<FACE_LAUGH>А я, между прочим, сразу знал ответ!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_34",
+   "key": "c48f67b0",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Нет. Ненавижу осьминога с васаби."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_35",
+   "key": "3b838406",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nО-о-ох, мимо, <_____MYNAME_____>! Правильный ответ, очевидно,\nдораяки!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_36",
+   "key": "e751db44",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЭх, не переживай. Все ошибаются. Но если\nприсмотреться, у Яити всё было на лице\nнаписано."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_37",
+   "key": "9c0baed4",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nТак! Следующий вопрос...\n<PAGE>\nКого в своей семье Яити любит больше всех?\nКак насчёт этого?"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_38",
+   "key": "a9e4176f",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...Я всех люблю."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_39",
+   "key": "d50bf91b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nДа, наверное, в семье нет места рейтингам.\nНо...\n<PAGE>\nКак насчёт Сидзу? Она ведь твоя мама!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_40",
+   "key": "fba0aa4e",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_LINE_L>К-Комари?! Ты хочешь сказать, что любишь\nмаму больше меня?!"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_41",
+   "key": "f20ac527",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_R>...Что? Нет, я просто говорю, что маленькие\nмальчики обычно больше любят маму.\n<PAGE>\n<FACE_ANGRY><WINDOW_MOJA_R>...И наша семья тут вообще ни при чём!\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_SAD>Ещё как при чём! Это ты говоришь сбивающие\nс толку вещи...!\n<PAGE>\n<FACE_NORMAL>В общем, по-моему, это Иттэцу. Сыновья\nрастут, глядя на спину отца."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_42",
+   "key": "19406853",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\nЕщё как при чём! Это ты говоришь путаные\nвещи...!\n<PAGE>\n<FACE_NORMAL>В общем, по-моему, это Иттэцу. Сыновья\nрастут, глядя на спину отца."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_43",
+   "key": "89d23a47",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nА Гиндзиро в чём-то прав."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_44",
+   "key": "74d8725a",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nНо семья Яити очень дружная...\n<PAGE>\nСомневаюсь, что даже сам Яити знает, кого\nлюбит больше всех."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_45",
+   "key": "6fed7ab7",
+   "ru": "<FACE_STUFFSONOLDER>\r\nО, что тут происходит?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_46",
+   "key": "c0ba864e",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Братик!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_47",
+   "key": "94263c9a",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nЯ тебя искал, Яити. Пора домой."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_48",
+   "key": "7ddec0c3",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nВы играли с Яити? Эх, жаль, я не мог\nприсоединиться.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Н-ничего страшного. Будет и следующий раз!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_49",
+   "key": "7026414f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nД-да. Ещё повторим!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_50",
+   "key": "de02d651",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nЛадно, классно! Пока, ребята!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_51",
+   "key": "f153952e",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nОн сказал, что любит всех, но...\n<PAGE>\nКого он любит больше всех, выяснилось\nбыстро!\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Они всегда вместе, так что я даже не\nзадумывался, но Яити очень привязан к Тацуми.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Ха-ха, верно. Смотришь на них, и сама собой\nпоявляется улыбка.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Это точно! Лицо Яити, когда пришёл Тацуми...\nУ меня аж на душе потеплело.\n<PAGE>\nТак, решено! Больше всего Яити любит Тацуми!"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_52",
+   "key": "4dba1287",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nОни всегда вместе, так что я даже не\nзадумывался, но... Яити привязан к Тацуми."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_53",
+   "key": "4399fa97",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nХа-ха, верно. Смотришь на них, и сама собой\nпоявляется улыбка."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_StuffSonYounger_54",
+   "key": "4ea1a476",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЭто так верно. Лицо Яити, когда заглянул\nТацуми... У меня аж на душе потеплело."
+  }
+ ]
+}

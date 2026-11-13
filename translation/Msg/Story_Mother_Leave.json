@@ -1,0 +1,89 @@
+{
+ "file": "Story_Mother_Leave",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_00",
+   "key": "943918e6",
+   "ru": "<NAME_UNKNOWN>\r\n<_____MYNAME_____>. <_____MYNAME_____>, уже утро. Пора вставать, солнышко."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_01",
+   "key": "4a49524b",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>. Хорошо спалось?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_02",
+   "key": "e74268b7",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_LAUGH>\r\nВот и хорошо. Я рада.\n<PAGE>\n<FACE_NORMAL>Знаю, это внезапно, но сегодня я уезжаю\nдомой."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_03",
+   "key": "59ba4488",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_NORMAL>\r\nНе хочется злоупотреблять гостеприимством. К\nтому же я обещала папе и сестре, что уеду\nненадолго.\n<PAGE>\nСкоро придёт дилижанс, так что мне пора в\nУэстаун."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_04",
+   "key": "0a10901a",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_LAUGH>\r\nОх! Проводишь меня? Спасибо! Ну что,\nпойдём?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_05",
+   "key": "cc85acac",
+   "ru": "<FACE_MOTHER><POS_LEFT><FACE_NORMAL>\r\nПусть и ненадолго, но спасибо за\nгостеприимство. И спасибо, что проводили.\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>Не за что, мэм. И не волнуйтесь за <_____MYNAME_____>. Я\nприсмотрю.\n<PAGE>\nВы и так прекрасно справляетесь. Спасибо вам."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_06",
+   "key": "15426320",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>. Не доставляй дяде Фрэнку много хлопот.\nХорошо?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_07",
+   "key": "722e4e1f",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nИ не перетруждайся. Устанешь ― отдыхай. Ах\nда, и питайся как следует.\n<PAGE>\nНо главное..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_08",
+   "key": "4ba1ec79",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nСтать фермером ― это твоё решение и твоя\nмечта. Доведи начатое до конца, хорошо?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_09",
+   "key": "e53b7c0b",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\n...Ну вот, уехала."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_10",
+   "key": "f8e1a45e",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nУже скучаешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_MOTHER_LEAVE_11",
+   "key": "354173d0",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, похоже, твоя мама тоже за тебя болеет.\n<PAGE>\nТак что не бросай мечту, слышишь? Мы все\nзнаем, что у тебя получится."
+  }
+ ]
+}

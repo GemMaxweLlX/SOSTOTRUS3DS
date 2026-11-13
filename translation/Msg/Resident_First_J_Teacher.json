@@ -1,0 +1,103 @@
+{
+ "file": "Resident_First_J_Teacher",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_00",
+   "key": "d80af013",
+   "ru": "<FACE_TEAGIRL>\r\nАга! Вот ты где! <_____MYNAME_____>! <_____MYNAME_____>, сюда!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_01",
+   "key": "02081619",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>!\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>Доброе утро."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_02",
+   "key": "1d302246",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nПонимаешь, моя лучшая подруга наконец\nвернулась, и мне ужасно хотелось вас\nпознакомить. Так что! Вот!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_03",
+   "key": "9e3e2728",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nПриятно познакомиться. Меня зовут Касуми."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_04",
+   "key": "a0b6b167",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\n...\n<PAGE>\nДа, думаю, обо мне сказано вполне достаточно."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_05",
+   "key": "b5fccea5",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nЯ столько слышала о тебе из писем Комари.\n<PAGE>\n<FACE_LAUGH>Может, поэтому кажется, что мы встречаемся\nне впервые."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_06",
+   "key": "78443acc",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nПрости. Касуми о-о-очень недолюбливает\nмужчин. Ну, совсем.\n<PAGE>\nЭто маленькое чудо, что она вообще\nсогласилась с тобой встретиться, так что не\nсуди её строго, ладно?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_07",
+   "key": "a6bdd086",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nХочешь верь, хочешь нет, а Касуми супер\nвладеет нагинатой!\n<PAGE>\n<FACE_LAUGH>Будет случай, попроси показать какие-нибудь\nприёмы. Они все очень крутые! ♪"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_08",
+   "key": "e18a5736",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nО! Я говорила, что у Касуми маленькая школа в\nсоседнем городке? Она учительница, знаешь.\n<PAGE>\nПоэтому её и не было. Она училась в шикарной\nзаграничной академии, чтобы стать ещё круче\nкак учительница!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_09",
+   "key": "d408166b",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nЯ просто подумала, что если учить детей как\nследует, нужно самой иметь надлежащие\nзнания.\n<PAGE>\nПредпочла бы, чтобы ты не поднимала из-за\nэтого шум."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_10",
+   "key": "1b4e75b3",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nЯ просто подумала, что если учить детей как\nследует, нужно самой иметь надлежащие\nзнания.\n<PAGE>\n<FACE_LAUGH>Не нужно поднимать из-за этого такой шум. Я\nпокраснею."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_11",
+   "key": "ab396bd2",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\n...Ох, только посмотрите на время. Я уже\nотняла у тебя достаточно дня, уверена.\n<PAGE>\nЯ живу в доме перед правым мостом на севере\nЦуюкусы. Если будет ко мне дело, найдёшь\nменя там.\n<PAGE>\nА теперь прошу меня извинить."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_12",
+   "key": "65d859bc",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nОх, уже так поздно? Прости, я, должно быть,\nпотеряла счёт времени.\n<PAGE>\n<FACE_LAUGH>Я живу в доме прямо перед правым мостом на\nсевере Цуюкусы. Заходи, если будет\nвозможность.\n<PAGE>\nБыло приятно познакомиться, <_____MYNAME_____>."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_J_TEACHER_13",
+   "key": "7e197629",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПока, <_____MYNAME_____>! Заглядывай снова в Цуюкусу!"
+  }
+ ]
+}

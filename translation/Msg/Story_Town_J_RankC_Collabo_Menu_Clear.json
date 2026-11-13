@@ -1,0 +1,82 @@
+{
+ "file": "Story_Town_J_RankC_Collabo_Menu_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_00",
+   "key": "e05c0f25",
+   "ru": "<FACE_TEAGIRL>\r\n<_____MYNAME_____>! <_____MYNAME_____>, не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_01",
+   "key": "8bfa7e6d",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nПрости, что донимаю так рано...\n<PAGE>\nНо раз ингредиенты у меня, я просто не могла\nбольше ждать!\n<PAGE>\nПрямо сейчас начну готовить фирменное блюдо\nфермы и чайной!\n<PAGE>\nНо начинать без тебя было бы нечестно, вот я\nи пришла. Ты ведь пойдёшь, да?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_02",
+   "key": "1b75dee5",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nОтлично! Пошли!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_03",
+   "key": "cc3a5c6f",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nТак, можно начинать?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_04",
+   "key": "092c35c6",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак... А как тебе вот это?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_05",
+   "key": "13552c2e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nВкусно?! Без шуток?!\n<PAGE>\nУра! Победа!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_06",
+   "key": "3614f3ad",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, <_____MYNAME_____>! С твоей помощью у нас вышел\nсупер-пупер рецепт!\n<PAGE>\nТак и знала, что к тебе надо идти. Все твои\nсоветы были в самую точку!\n<PAGE>\nСкорей бы рассказать папе, чтобы внести\nблюдо в меню. Думаю, к следующему рабочему\nдню успеем."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_07",
+   "key": "e860564b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nАх да! Я ведь обещала тебе вот это, да?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_08",
+   "key": "334e8e28",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nДержи. Рецепт <BLUE>дораяки</BLUE> от меня лично.\n<PAGE>\nЯ ж говорила, что дам рецепт, если всё\nполучится, помнишь? Попробуй приготовить\nдома!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_09",
+   "key": "9d0314f5",
+   "ru": "(Получен рецепт: <BLUE>“Дораяки”</BLUE>!)\n<PAGE>\n(Они такие сладкие и вкусные. Не терпится\nприготовить их дома!)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKC_COLLABO_MENU_CLEAR_10",
+   "key": "92df9307",
+   "ru": "(Получен рецепт: <BLUE>“Дораяки”</BLUE>!)\n<PAGE>\n(...Но без кухни их не приготовить. Надо\nпоскорее перестроить дом.)"
+  }
+ ]
+}

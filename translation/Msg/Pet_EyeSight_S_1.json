@@ -1,0 +1,61 @@
+{
+ "file": "Pet_EyeSight_S_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_S_1_00",
+   "key": "2c08dcdf",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>\r\n...Цель достигнута. Вблизи и правда есть на что\nпосмотреть.\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>Какой потрясающий клюв. Даже немного\nстрашно...\n<PAGE>\n<FACE_HISTORIAN><POS_LEFT><FACE_LAUGH>А-ах! Разглядывать редкого китоглава так\nблизко...!\n<PAGE>\nНадо обязательно записать всё, что можно, о\nего образе жизни! Ох, как хорошо, что я\nприехала в этот город!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_S_1_01",
+   "key": "07053c48",
+   "ru": "<NAME_SHOEBILL>\r\n(...Эй, а что это вы делаете с ручкой и\nбумагой? Неужели вы...)"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_S_1_02",
+   "key": "de3396b9",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nА-а-а! Он что-то говорит! Думаете, он\nзлится?!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_S_1_03",
+   "key": "fc784ada",
+   "ru": "<NAME_SHOEBILL>\r\n(...хотите запечатлеть на бумаге моё\nсуперкрутое телосложение? Я прав, да?!)\n<PAGE>\n(Валяйте! Рисуйте сколько душе угодно!)"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_S_1_04",
+   "key": "ff6d2641",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nОй, он точно злится! Может, лучше убежать?\n<PAGE>\n<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>Нет. Это может привлечь внимание и\nспровоцировать нападение. Пока посмотрим,\nчто будет."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_S_1_05",
+   "key": "33005e98",
+   "ru": "<NAME_SHOEBILL>\r\n(Ну что? Вы будете меня рисовать? Ручка у вас\nдля красоты, что ли?)\n<PAGE>\n(Давайте! Рисуйте меня! Смотрите, какой я\nвеликолепный!)"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_S_1_06",
+   "key": "e9eaaba8",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_SAD>\r\nАх! Он готовится защищать территорию!\nБежим!\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>А-а-а-а!!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_S_1_07",
+   "key": "2ae8f846",
+   "ru": "<NAME_SHOEBILL>\r\n(Пф, только поглазеть пришли, что ли? Зря\nтолько время потратил...)"
+  }
+ ]
+}

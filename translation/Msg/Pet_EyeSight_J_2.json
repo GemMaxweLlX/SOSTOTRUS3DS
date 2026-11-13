@@ -1,0 +1,61 @@
+{
+ "file": "Pet_EyeSight_J_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_2_00",
+   "key": "e09d4e99",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nО, Комари. Купила, что я просил?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_2_01",
+   "key": "fc8b6602",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nОтлично, отлично. Как всегда, быстро\nуправилась!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_2_02",
+   "key": "1378ae0b",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n...Погоди, а ты разве не влезешь со своим\nобычным “Ты о чём, старик?”"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_2_03",
+   "key": "50c2a125",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nНу, жаловаться не буду. Ладно, я пойду вперёд.\nНе задерживайся, Комари.\n<PAGE>\n<FACE_LAUGH>Всё равно пора перерыв, так что в\nблагодарность заварю чаю и приготовлю\nперекусить!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_2_04",
+   "key": "4fa1c82c",
+   "ru": "<NAME_RACOONDOG>\r\n(Фух! Чуть не попался!)"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_2_05",
+   "key": "9f1febc3",
+   "ru": "<NAME_RACOONDOG>\r\n(Я не знал, что делать, когда он так внезапно\nокликнул, но, похоже, он ничего не\nзаподозрил!)\n<PAGE>\n(Ха-ха, не стоит недооценивать моё искусство\nпревращений, “старик”!) ♪"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_2_06",
+   "key": "49bc5fff",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\n...Комари? Ты что тут делаешь?\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>В смысле? Покупки сделала, вот и вернулась\nпередохнуть.\n<PAGE>\nНадеюсь, ты не против, я уже угостилась тем,\nчто на полке.\n<PAGE>\n<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>Да нет, я к тому... это и были угощения,\nкоторые я и так собирался приготовить...\n<PAGE>\n<FACE_SAD>Погоди. Если ты здесь, то с какой Комари я\nтолько что говорил...?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_PET_EYESIGHT_J_2_07",
+   "key": "6fbb931f",
+   "ru": "<NAME_RACOONDOG>\r\n(Ой-ой, похоже, я рано обрадовался.\nОтступаем, отступаем!)"
+  }
+ ]
+}

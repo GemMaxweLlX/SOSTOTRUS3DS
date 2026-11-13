@@ -1,0 +1,166 @@
+{
+ "file": "Resident_A_Florist_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_00",
+   "key": "ce9b7794",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать, <_____MYNAME_____>!\n<PAGE>\nПрости. Я так увлеклась разговором, что не\nсразу тебя заметила."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_01",
+   "key": "be81f281",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nО чём мы говорили?\n<PAGE>\n<FACE_LAUGH>Лизетта рассказывала нам о языке цветов!\n<PAGE>\nТы что-нибудь о нём знаешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_02",
+   "key": "a19ed4de",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nА-ха-ха! Ничего страшного, мы тоже не знаем.\n<PAGE>\n<FACE_NORMAL>Но чем больше Лизетта рассказывает, тем\nинтереснее становится.\n<PAGE>\nТы ведь наверняка выращиваешь цветы на\nферме? Почему бы не поучиться, раз уж ты\nздесь?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_03",
+   "key": "9e6b1774",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nЯ сама ещё учусь, так что многому научить не\nсмогу, но с радостью расскажу то, что знаю!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_04",
+   "key": "24ea8e05",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>, а ты знаешь, что есть цветок, который\nзначит “любовь”?\n<PAGE>\n<FACE_NORMAL>Это... Э-э-э... Какой же это был...?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_05",
+   "key": "63585771",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nТы про тот, о котором мы говорили? Красная\nроза?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_06",
+   "key": "b89c5e45",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nДа, да, он!\n<PAGE>\n<FACE_SAD>Эх. Только что объясняли, а я уже забыла...\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_NORMAL>Запомнить всё за раз очень трудно, так что не\nпереживай, Ноэль."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_07",
+   "key": "293e1e75",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nКрасная роза символизирует “нежные чувства”.\n<PAGE>\nНо даже у одного и того же цветка значение\nможет меняться в зависимости от цвета или\nформы.\n<PAGE>\nНе говоря уже о том, что в разных странах\nзначения бывают разные.\n<PAGE>\nЯзык цветов очень богатый и порой довольно\nсложный."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_08",
+   "key": "62cd5756",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВот как? Похоже, чтобы разобраться во всех\nтонкостях, понадобится время.\n<PAGE>\n<FACE_LAUGH>Если ты не против, Лизетта, расскажешь нам\nещё о языке цветов?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_09",
+   "key": "b9543449",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Конечно! ♪ Я так рада, что вам всем это\nинтересно!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_10",
+   "key": "d3f11984",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nТак, посмотрим...\n<PAGE>\nВ моей лавке очень популярны колокольчики,\nони символизируют “благодарность”.\n<PAGE>\nА ромашки-маргаритки связаны с “гаданием на\nлюбовь”.\n<PAGE>\n<FACE_LAUGH>...Ха-ха, с этим значением всё и так понятно."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_11",
+   "key": "e110ef3f",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nДа, с маргаритками всё ясно!\n<PAGE>\nИ то, что красная роза означает “нежные\nчувства”, тоже довольно известно, правда?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_12",
+   "key": "c412f454",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nПравда?! Интересно, что скажет Колин, если я\nподарю ему такую...\n<PAGE>\nДумаешь, он поймёт, как сильно я его люблю?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_13",
+   "key": "8f345173",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nА-ха-ха! Разве обычно не мальчики дарят\nцветы девочкам?\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_NORMAL>Знаете, покупатели нередко выбирают цветы\nпо их значению.\n<PAGE>\n<FACE_LAUGH>Надеюсь, твои чувства до него дойдут, Ноэль."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_14",
+   "key": "f3c819fd",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nУ нас правда есть покупатели, которые\nвыбирают цветы по значению.\n<PAGE>\n<FACE_LAUGH>Надеюсь, твои чувства до него дойдут, Ноэль."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_15",
+   "key": "fb93efa6",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nАга! Спасибо, Лизетта! Надо начинать копить\nденьги!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_16",
+   "key": "52714dd6",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nБатюшки, сколько времени. Простите, мне пора\nвозвращаться в лавку.\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>Хорошо, спасибо за урок, Лизетта. Как будешь\nсвободна, с радостью послушаю ещё о языке\nцветов."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_17",
+   "key": "42e06486",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо, огромное спасибо, Лизетта. Если\nбудет свободное время, с радостью послушаю\nещё о языке цветов."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_18",
+   "key": "ca4c1997",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nС удовольствием!\n<PAGE>\nЯ успела рассказать лишь о горстке цветов, но\nмне было очень приятно с вами заниматься. ♪\n<PAGE>\n<FACE_LAUGH>Если будете покупать цветы, может, будет\nинтересно подумать об их значении, пока\nвыбираете."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_19",
+   "key": "4b381ff9",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>, Миранда, Ноэль, до встречи."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_20",
+   "key": "4400974d",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nНу и любит же эта девушка цветы! Впечатляет,\nчто в её возрасте она нашла дело, которым так\nгорит.\n<PAGE>\nМне теперь самой хочется расставить по дому\nцветы. Украсить всё, понимаешь?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_21",
+   "key": "11412534",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nМама, купи красных роз! Я подарю их Колину.\n♪"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_Florist_1_22",
+   "key": "26ae37bc",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Эй... Я же сказала, что хочу поставить их дома!\nКакой смысл, если ты их заберёшь?"
+  }
+ ]
+}

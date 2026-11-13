@@ -1,0 +1,89 @@
+{
+ "file": "Story_Town_S_RankC_Collabo_FoodStuff_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_00",
+   "key": "5b9f9c1f",
+   "ru": "<FACE_FISHERWIFE>\r\n<_____MYNAME_____>, ты уже не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_01",
+   "key": "50666c35",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_NORMAL>\r\nЭ кала маи. Знаю, ещё довольно рано.\n<PAGE>\nНо благодаря тебе у меня есть всё, чтобы\nначать делать задуманную смесь специй.\n<PAGE>\nА если что и бесит меня сильнее, чем ходить\nвокруг да около, так это волокита. Начну\nпрямо сейчас.\n<PAGE>\nТы ведь придёшь помочь, правда?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_02",
+   "key": "273b3cf4",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_LAUGH>\r\nОтлично! Пошли."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_03",
+   "key": "0c1344b8",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_NORMAL>\r\nНечего время терять. Начинаем!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_04",
+   "key": "6df8a54c",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nТак, а как тебе эта?\n<PAGE>\nЯ последовала твоему совету и убавила\nостроту."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_05",
+   "key": "006ee95d",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_LINE_R>Правда? Получилось!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_06",
+   "key": "3e0841b6",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nХм? Очень ароматно пахнет? Ну конечно! Я\nдобавила горсть разных трав.\n<PAGE>\nНо, похоже, вот оно. Моя фирменная смесь\nспеций наконец готова!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_07",
+   "key": "e0f04d50",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_LAUGH>\r\nФух, ну и пришлось же пробовать и ошибаться,\nда?\n<PAGE>\nЗато теперь все смогут покупать специи у нас\nкуда дешевле, чем в других городах.\n<PAGE>\n<WINDOW_JOY_L>Без тебя я бы не справилась! Махало!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_08",
+   "key": "ec996c6c",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_NORMAL>\r\nНачну продавать их вместе с остальным\nтоваром со следующего рабочего дня. Заходи,\nесли захочешь купить.\n<PAGE>\nАх! И ещё кое-что..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_09",
+   "key": "25cad844",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_LAUGH>\r\nВот пробная смесь, что я сделала. Считай это\nподарком за всю помощь!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_10",
+   "key": "6ed398aa",
+   "ru": "Получено: <BLUE>Специи x10</BLUE>!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF_CLEAR_11",
+   "key": "9c61cff2",
+   "ru": "(Ура! Теперь можно покупать <BLUE>Специи</BLUE> в “Аква\nпацце” в Лулукоко!)\n<PAGE>\n(Они такие острые, что от всех этих\nдегустаций у меня онемел язык.)\n<PAGE>\n(Надеюсь, всем остальным они тоже очень\nпонравятся.)"
+  }
+ ]
+}

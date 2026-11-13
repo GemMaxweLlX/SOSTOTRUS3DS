@@ -1,0 +1,1349 @@
+{
+ "file": "FreeEvent_Friendship",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_FRIENDSHIP_TOGETHER_00",
+   "key": "ec1537b9",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nВидно, мне повезло лететь на воздушном шаре\nв такой славной компании.\n<PAGE>\n<FACE_LAUGH>Я этого не скоро забуду, <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_FRIENDSHIP_TOGETHER_01",
+   "key": "f1609583",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nВоздушные шары ― это так романтично.\n<PAGE>\nДумаю, почти каждый парень мечтал облететь\nна таком весь мир."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_FRIENDSHIP_00",
+   "key": "d6382481",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПолетать на воздушном шаре удаётся нечасто,\nтак что я пользуюсь любым случаем.\n<PAGE>\n<FACE_LAUGH>До сих пор помню свой первый полёт..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_FRIENDSHIP_01",
+   "key": "d0081526",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКаждый раз на воздушном шаре высматриваю\nчто-нибудь новенькое.\n<PAGE>\nВид вдаль, конечно, отличный, но взглянуть на\nпривычное с другой стороны тоже очень\nполезно."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Postman_FRIENDSHIP_02",
+   "key": "0cda40f3",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗвёздное небо отсюда ― загляденье, но закат,\nпожалуй, даже чуточку красивее.\n<PAGE>\nСмотреть, как медленно меняются краски...\nПо-моему, нет ничего романтичнее!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Postman_FRIENDSHIP_00",
+   "key": "a465a329",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы как ангел, когда вот так смотришь на\nзвёзды...\n<PAGE>\nЭх, чёрт! Никак не могу выразить словами, что\nсейчас чувствую!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Postman_FRIENDSHIP_01",
+   "key": "092b5744",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ весь красный? Э, может, это звёзды мне лицо\nобожгли!\n<PAGE>\n<FACE_LOVE>Не, тебя не проведёшь. Ты прекрасно знаешь,\nпочему я так краснею."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Postman_FRIENDSHIP_00",
+   "key": "a1f4ab9d",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ тут думал... Думал о своей мечте. Хочу\nкаждый год сидеть и смотреть на звёзды\nвместе с тобой.\n<PAGE>\nИсполнишь эту мечту?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Postman_FRIENDSHIP_01",
+   "key": "71d73c37",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nОх, время летит быстрее зайца, удирающего от\nястреба! Кажется, мы только на прошлой\nнеделе познакомились.\n<PAGE>\nДавай ценить каждый миг вместе. Обещаю\nдоставить тебе их все."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_FRIENDSHIP_TOGETHER_00",
+   "key": "b13a562e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nХм... Сегодняшний день определённо был\nпродуктивным. Позволь выразить\nблагодарность."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_FRIENDSHIP_TOGETHER_01",
+   "key": "9cfe1c54",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nВремя от времени заниматься чем-то подобным\nне так уж плохо. Хорошая смена обстановки."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_FRIENDSHIP_00",
+   "key": "cca7aaac",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТы в порядке? Перепады высоты на воздушном\nшаре могут выбить из колеи. Тошнота ― вовсе\nне редкость."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_FRIENDSHIP_01",
+   "key": "961f92ce",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПризнаюсь, раньше я изрядно страдал боязнью\nвысоты. Но, приехав в этот город, привык к\nвысоте.\n<PAGE>\nДело не только в полётах на шаре. Город\nрасположен значительно высоко, что тоже\nпомогло."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_FRIENDSHIP_02",
+   "key": "7184da1c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nДля страдающего боязнью высоты это\nмероприятие ― сущий ужас.\n<PAGE>\nНо на самом деле, если смотреть вдаль,\nвидишь лишь то, что впереди. Высоты не\nощущаешь.\n<PAGE>\nЯ к тому, что фобия ― не повод избегать\nтрудностей."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_FRIENDSHIP_00",
+   "key": "2c5fe96a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nСегодняшний день был очень продуктивным.\nСпасибо, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOVE>Е-если это вообще возможно... я хотел бы\nснова прийти сюда. Только вдвоём,\nпожалуйста."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_FRIENDSHIP_01",
+   "key": "fe205ce2",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм? Что такое? Лицо у тебя пунцовое. А,\nдолжно быть, жар! Дай-ка потрогаю.\n<PAGE>\n<FACE_LAUGH>Нет, ясно, что методы Уэйна нам не подходят.\nПрошу прощения. Не сердись, пожалуйста.\n<PAGE>\n<FACE_LOVE>Я просто... хотел снова почувствовать твоё\nтепло. Глупо с моей стороны."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_FRIENDSHIP_00",
+   "key": "f7a6ac51",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nТрудно поверить, что гигантские газовые шары\nмогут быть так прекрасны. Вообще-то они\nпрекрасны, как ты, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOVE>Да, мне не свойственно так открыто выражать\nчувства. Сделай вид, что меня заворожили\nзвёзды."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_FRIENDSHIP_01",
+   "key": "52a5a3d4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nСегодняшний день был весьма продуктивным.\nМне очень понравилось.\n<PAGE>\nЧто? Моя улыбка пугает? Вздор. Просто я\nдумаю о будущем, чтоб ты знала!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_FRIENDSHIP_TOGETHER_00",
+   "key": "544b38f3",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nВ свете звёзд ты кажешься таким хрупким\nсозданием, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOVE>Глядя на тебя, мне становится тревожно..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_FRIENDSHIP_TOGETHER_01",
+   "key": "72a55614",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nСегодня было замечательно. Если представится\nслучай, давай сходим посмотреть на светлячков\nу реки."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_FRIENDSHIP_00",
+   "key": "3a6c3261",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЯ стал ходить на этот праздник только после\nтого, как поправился.\n<PAGE>\n<FACE_LOVE>Когда я впервые смог участвовать, был так\nвзволнован. И каждый раз, как начинается\nпраздник, я вспоминаю тот первый раз."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_FRIENDSHIP_01",
+   "key": "2e12637a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТы так старательно писал(а) на бумажных\nполосках, <_____MYNAME_____>.\n<PAGE>\nНе стану спрашивать, о чём желание.\n<PAGE>\nНо надеюсь, в следующем году оно сбудется."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Chaser_FRIENDSHIP_02",
+   "key": "a75eeb9c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nИстория Ткачихи и Пастуха чем-то похожа на\nотношения Гиндзиро и мамы Комари.\n<PAGE>\nКак бы далеко они ни были друг от друга,\nвсегда думают друг о друге."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Chaser_FRIENDSHIP_00",
+   "key": "30fe701b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЕсли, вдруг, тебе когда-нибудь придётся\nуехать и вернуться к семье...\n<PAGE>\n<FACE_LOVE>Ты не против, если я поеду с тобой?\n<PAGE>\nМне невыносима мысль видеть тебя лишь раз в\nгод, как Ткачиха и Пастух!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Chaser_FRIENDSHIP_01",
+   "key": "b69f1d7a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nВидно, все замечают, сколько времени мы\nпроводим вместе, а?\n<PAGE>\n<FACE_LOVE>Но даже если Комари или бабушка с дедушкой\nнас увидят, сегодня я буду наслаждаться твоим\nобществом."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Chaser_FRIENDSHIP_00",
+   "key": "8ea00cf4",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nРаньше мне трудно было придумать, какое\nжелание написать.\n<PAGE>\nА теперь хочется стольких вещей, что все и не\nзаписать!\n<PAGE>\n<FACE_LOVE>О чём я мечтаю? Только о том, что связано с\nтобой! А вот подробности... пусть останутся\nтайной!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Chaser_FRIENDSHIP_01",
+   "key": "9d313e40",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЕсли есть желание, которое я мог бы\nисполнить, пожалуйста, скажи, хорошо?\n<PAGE>\nНе нужны тебе духи и небеса. Нужен только я!\n<PAGE>\n<FACE_LOVE>Признаюсь, я не желаю делить тебя ни с кем,\nни с небесными, ни с иными."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_FRIENDSHIP_TOGETHER_00",
+   "key": "05a280f7",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nСегодня было отпадно! Шёлковый путь такой\nкрасивый, и я загадал желание на падающую\nзвезду, и на бумажке написал!\n<PAGE>\n<FACE_LOVE>Если ты не против, пошли со мной и в\nследующем году, <_____MYNAME_____>. У меня точно никаких\nпланов!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_FRIENDSHIP_TOGETHER_01",
+   "key": "76863533",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nСегодня было отпадно! Шёлковый путь такой\nкрасивый, и я загадал желание на падающую\nзвезду, и на бумажке написал!\n<PAGE>\n<FACE_NORMAL>А, только я не ребёнок какой-нибудь, понятно?\nЯ буду расти и расти и перерасту даже тебя!\nГотовься!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_FRIENDSHIP_00",
+   "key": "91d94672",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nСегодня было отпадно! Рад, что и тебе,\nпохоже, понравилось, <_____MYNAME_____>.\n<PAGE>\nНе так много людей согласятся провести со\nмной Праздник звёзд.\n<PAGE>\n<FACE_SAD>Моя одежда такая яркая, что затмевает\nзвёзды?! Ну да, она яркая, но..."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_FRIENDSHIP_01",
+   "key": "5a1ceb59",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nШёлковый путь отлично видно и из моего\nдома!\n<PAGE>\n<FACE_NORMAL>Так что, когда смотрю на Шёлковый путь,\nдумаю, как там моя семья..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_FRIENDSHIP_02",
+   "key": "4bd3abb3",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nНикак не соображу, что написать на бумажке.\nНу, напишу, что получу главную роль...\n<PAGE>\n<FACE_LAUGH>Но я лучше сам исполню своё желание, чем\nбуду ждать от духов! Поэтому на бумажке\nпишу не желания, а заявления."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Apprentice_FRIENDSHIP_00",
+   "key": "09e67187",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nМне всегда нравилось отрываться со всеми на\nПразднике звёзд.\n<PAGE>\n<FACE_LOSS>Но провести праздник с любимой ― это совсем\nособенное. Мы же главная тема для сплетен в\nгороде!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Apprentice_FRIENDSHIP_01",
+   "key": "8d1cb8b5",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nСпасибо, что пригласила меня сегодня, <_____MYNAME_____>. Было\nздорово!\n<PAGE>\nАга, смотри-ка, улыбаешься до ушей.\nПрекрасно знаешь, что делаешь!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Apprentice_FRIENDSHIP_00",
+   "key": "1ae75e7a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТа-а-ак, осталось только пойти домой!\nПочему-то от разглядывания звёзд так есть\nхочется.\n<PAGE>\nЛадно! Сегодня ужин готовлю я! Ты ведь тоже\nустала, <_____MYNAME_____>? Не волнуйся. Я справлюсь!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Apprentice_FRIENDSHIP_01",
+   "key": "66fa55c9",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nС тех пор как мы поженились, кажется, все\nперестали так на нас глазеть.\n<PAGE>\n<FACE_LAUGH>Наверное, привыкли видеть нас всё время\nвместе. Значит, для них это уже естественно!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_FRIENDSHIP_TOGETHER_00",
+   "key": "887fbf78",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nОбычно я провожу этот день с бабулей. Или с\nИлукой и Силукой. С тобой было приятное\nразнообразие.\n<PAGE>\nПо сравнению с ними с тобой ― спокойный\nотпуск! Ой, только держи это при себе.\n<PAGE>\nЕсли захочешь, смело зови меня снова, <_____MYNAME_____>."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_FRIENDSHIP_TOGETHER_01",
+   "key": "d8c55525",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nУ меня никогда не было друзей-ровесников,\nтак что участвовать с тобой было весело.\n<PAGE>\nБыло здорово провести время с тобой, <_____MYNAME_____>.\nМахало."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_FRIENDSHIP_00",
+   "key": "962d40ba",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо, что и в этом году было много\nморских искр. Тебе было весело, <_____MYNAME_____>?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_FRIENDSHIP_01",
+   "key": "280fb38b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nМорские искры можно найти у пляжа и скал.\n<PAGE>\nА моё любимое местечко для их поиска...\n<PAGE>\nНу, этого я пока не выдам."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Craftman_FRIENDSHIP_02",
+   "key": "ca093782",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНесколько лет назад Шальк упал в океан и весь\nпокрылся морскими искрами.\n<PAGE>\n<FACE_LOSS>Но, похоже, теперь эта роль перешла к Лотосу.\n<PAGE>\nВ океан он не падал, но благодаря проделкам\nШалька весь в морских искрах."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Craftman_FRIENDSHIP_00",
+   "key": "03b4bb43",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, покажи лицо.\n<PAGE>\n<FACE_LAUGH>По-моему, оно светится. Или мне кажется?"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Craftman_FRIENDSHIP_01",
+   "key": "4b008c77",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКогда я ходил с Илукой и Силукой, ничего\nособенного в этом дне не видел.\n<PAGE>\n<FACE_LOVE>Но с любимой ― совсем другое дело. Всё\nвидится по-новому."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Craftman_FRIENDSHIP_00",
+   "key": "1b15b87e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nУстал ли я? Не, ещё полон сил! Но спасибо, что\nволнуешься. Махало.\n<PAGE>\n<FACE_LAUGH>Я больше волнуюсь за тебя после стольких\nчасов на лодке. Давай сегодня ляжем пораньше."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Craftman_FRIENDSHIP_01",
+   "key": "20d013b4",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nТы гораздо прекраснее звёзд и луны.\n<PAGE>\nКогда я с тобой, мне кажется, что я просто\nплыву по течению.\n<PAGE>\n<FACE_NORMAL>Не стыдно ли мне такое говорить? Ты о чём?"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_FRIENDSHIP_TOGETHER_00",
+   "key": "2b9ebf14",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nЯ немного смущаюсь, когда делаю такие вещи.\n<PAGE>\n<FACE_NORMAL>Но мне было очень весело поговорить с тобой,\n<_____MYNAME_____>. Спасибо."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_FRIENDSHIP_TOGETHER_01",
+   "key": "d910d27f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nХи-хи, казалось, разговор никогда не кончится.\nВ хорошем смысле!\n<PAGE>\n<_____MYNAME_____>, ты так хорошо умеешь слушать. Может, я\nслишком уж разоткровенничалась."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_FRIENDSHIP_00",
+   "key": "f3d7049c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nС воздушного шара звёздное небо кажется\nмиражом.\n<PAGE>\nКогда я впервые увидела его с такой высоты,\nслёзы никак не останавливались.\n<PAGE>\nГлупо признаваться, но они всё текли и текли."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_FRIENDSHIP_01",
+   "key": "da05b44c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nКогда смотришь на звёзды с воздушного шара,\nне кажется, будто ты прямо среди них?"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_FRIENDSHIP_02",
+   "key": "163b0494",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nБукет в образе звёздного неба, наверное, был\nбы чудесным. Попробую сделать, когда вернусь\nв лавку."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Florist_FRIENDSHIP_00",
+   "key": "5bdfa396",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nМы уже не впервые наедине.\n<PAGE>\nНо я всё никак не привыкну. У меня всё ещё\nбабочки в животе!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Florist_FRIENDSHIP_01",
+   "key": "bd5ea066",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nВо-о-о-ох! П-прости! Я замечталась!\n<PAGE>\n*вздох* Сердце так переполнено! Боюсь, не\nусну сегодня!"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Florist_FRIENDSHIP_00",
+   "key": "fede6535",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nНет ничего радостнее, чем провести Звёздный\nбал с любимым человеком.\n<PAGE>\n<_____MYNAME_____>, спасибо, что сделал меня самой счастливой\nженщиной на свете."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Florist_FRIENDSHIP_01",
+   "key": "7b74b7e6",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nВидишь тёплый свет из того города за горой?\n<PAGE>\nМне вдруг захотелось отправиться в\nприключение!\n<PAGE>\n<FACE_LOVE>С тобой мне всё по плечу! Куда бы мы ни\nпопали, там будет чудесно."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_FRIENDSHIP_TOGETHER_00",
+   "key": "9205bfbd",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nШёлковый путь выглядел потрясно! Столько\nзвёзд разлеталось кругом, типа “вжу-у-ух!”\n<PAGE>\n<FACE_LOVE>Ох, ну вот. Я начинаю немного нервничать. Это\nместо какое-то особенное!"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_FRIENDSHIP_TOGETHER_01",
+   "key": "1f226277",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nСегодня было весело! Я смогла написать своё\nжелание и всё такое.\n<PAGE>\nЧто мы написали, пусть будет нашим маленьким\nсекретом, ладно? Обещание. ♪"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_FRIENDSHIP_00",
+   "key": "c125c5c6",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЗвёзды были суперкрасивые, правда?\n<PAGE>\nЕсть и другие места, откуда их видно, но мне\nбольше всего нравится здесь."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_FRIENDSHIP_01",
+   "key": "bf97348f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nВ детстве мне было одиноко, потому что мамы\nникогда не было дома...\n<PAGE>\nНа Праздник звёзд я всегда писала: “Пусть мама\nскорее вернётся”. *вздох*\n<PAGE>\n<FACE_LAUGH>Но теперь мне не нужно это писать.\n<PAGE>\nУ меня есть папа и много друзей. И, конечно,\nты.\n<PAGE>\n<FACE_LOSS>Только папе ни слова, ладно?\n<PAGE>\nНе думаю, что вынесу, если он станет ещё\nприлипчивее."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_FRIENDSHIP_02",
+   "key": "e8dac4df",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nВидел(а), как глупо улыбается папа, <_____MYNAME_____>?\n<PAGE>\n<FACE_LAUGH>Завидую, что они так близки, но видеть у\nродителей такие лица как-то не хочется."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_FRIENDSHIP_00",
+   "key": "2df44a05",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nТрудновато сохранять спокойствие, когда\nкажется, что все на нас пялятся!\n<PAGE>\nЯ беззаботная девчонка, но тут хочется\nоторваться на полную!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_FRIENDSHIP_01",
+   "key": "d9942e62",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nГоворят, некоторые считают, что мы с тобой\nкак Ткачиха и Пастух, <_____MYNAME_____>!\n<PAGE>\nКогда папа так сказал, было глупо, но если все\nтак говорят, это даже круто!"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_FRIENDSHIP_00",
+   "key": "6989f55a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЯ тут думала, как было бы здорово стать\nпарой, как мама с папой.\n<PAGE>\n<FACE_SAD>Не пойми неправильно! Я не о том, что согласна\nвидеть тебя раз в год!\n<PAGE>\n<FACE_NORMAL>Я о том, что, даже если нас разлучат, мы\nвсегда будем думать друг о друге!\n<PAGE>\nРазве не здорово так сильно любить друг\nдруга?\n<PAGE>\n<FACE_LOVE>А может, мы уже так любим..."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_FRIENDSHIP_01",
+   "key": "370f9379",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, что я загадала? Хотелось бы\nсказать, что это великая тайна, но это обычное\nжелание здоровья.\n<PAGE>\n<FACE_LAUGH>Моё желание уже сбылось. А если вся моя\nсемья счастлива и здорова, у меня есть всё, что\nнужно!"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_FRIENDSHIP_TOGETHER_00",
+   "key": "89a6da43",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nКак ты? Прошу прощения за вторжение.\n<PAGE>\nПремного благодарна, что ты проводишь со\nмной Праздник звёзд, <_____MYNAME_____>."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_FRIENDSHIP_TOGETHER_01",
+   "key": "07af3634",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nДругом я называла лишь Комари, так что\nподобные ситуации для меня непривычны.\n<PAGE>\nХотелось бы как-нибудь пригласить тебя на\nчай."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_FRIENDSHIP_00",
+   "key": "0e3b5a28",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПраздник звёзд обычно выпадает на довольно\nясный день.\n<PAGE>\nЯ в восторге, что Шёлковый путь виден так\nчётко, без единого облачка."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_FRIENDSHIP_01",
+   "key": "2ee4d538",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ попросила учеников поделиться желаниями.\nОтветы были интересные.\n<PAGE>\nМногие хотели летать по небу и колдовать. Ах,\nбезрассудство юности."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_FRIENDSHIP_02",
+   "key": "9c24c73b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nОдин ученик написал: “Пусть учительница на\nменя не сердится...”\n<PAGE>\nЯ думала, что держусь перед учениками\nнепринуждённо. Разве это не так?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_FRIENDSHIP_00",
+   "key": "326156ee",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nОбычно я просто желаю здоровья. Ничего\nвычурного не нужно.\n<PAGE>\n<FACE_LOVE>Но в этом году я подумывала о чём-то... более\nсердечном."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Teacher_FRIENDSHIP_01",
+   "key": "774740ff",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nГоворят, Ткачиха и Пастух так любили друг\nдруга, что забросили обязанности ради встреч.\n<PAGE>\nВ наказание им позволили видеться лишь раз в\nгод.\n<PAGE>\nЯ думала, что никогда не пойму эту историю,\nно теперь, кажется, кое-что поняла.\n<PAGE>\n<FACE_LOVE>Как подумаю, что бы я делала, если бы мне\nсказали, что видеть тебя можно лишь раз в\nгод... Это вызывает во мне сильные чувства.\n<PAGE>\n<FACE_NORMAL>Поэтому нужно следить, чтобы любовь не\nмешала работе.\n<PAGE>\nБудем разделять работу и домашнюю жизнь.\nПонимаешь?"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_FRIENDSHIP_00",
+   "key": "3a1613cd",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, что я написала? Просто\nпожелала здоровья, как всегда.\n<PAGE>\n<FACE_LOVE>Я просто не вынесу, если у любимого\nтемпература поднимется хоть на градус!"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Teacher_FRIENDSHIP_01",
+   "key": "beacecb3",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nА что пожелал ты?\n<PAGE>\nПиши что хочешь. Здоровья тебе я уже\nпожелала."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_FRIENDSHIP_TOGETHER_00",
+   "key": "ec8a9db2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nХм... Провести с тобой Ночь морских огней\nбыло, пожалуй, терпимо.\n<PAGE>\n<FACE_LAUGH>Хе, шучу! Мне было очень весело с тобой, <_____MYNAME_____>."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_FRIENDSHIP_TOGETHER_01",
+   "key": "1ba2512b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nСтранно, конечно, хотеть провести день со\nмной, но тебе было хорошо?\n<PAGE>\n<FACE_LAUGH>Вот как. Мне тоже было хорошо. Спасибо, что\nпозвал(а). Махало."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_FRIENDSHIP_00",
+   "key": "09e81ca9",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nБудто морские искры собрались сегодня только\nради нас. Было красиво. Согласись?"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_FRIENDSHIP_01",
+   "key": "3bba4ed8",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n*вздох* Так радоваться из-за такого. Ребёнок,\nчто ли?\n<PAGE>\n<FACE_NORMAL>Что? Подол юбки мокрый?\n<PAGE>\n<FACE_ANGRY>Н-нет, это не то, что ты думаешь. Я спокойна и\nсобрана!\n<PAGE>\nЯ просто немного поиграла с водой. Есть\nвозражения?"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinOlder_FRIENDSHIP_02",
+   "key": "d9ea4cde",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВ такой темноте меня и Силуку не отличить,\nверно?\n<PAGE>\n<FACE_ANGRY>Силуэты разные? Намекаешь, что мне чего-то\nНЕ ХВАТАЕТ?! Похоже, кому-то очень хочется\nполучить по физиономии!"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_FRIENDSHIP_00",
+   "key": "befd9b71",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nХа! Скажу так: ты самый везучий мужчина на\nсвете, раз у тебя такая шикарная девушка!\n<PAGE>\n<FACE_LOVE>Ох, ну перестань. Если ты так мне улыбаешься,\nкак мне придумать убийственно язвительный\nответ?"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_FRIENDSHIP_01",
+   "key": "139c3b0c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЯ провела с тобой день, потому что выбора не\nбыло, но насчёт следующего раза не будь так\nуверен.\n<PAGE>\n<FACE_LOVE>Я же не сказала, что не пойду? Если скажешь,\nчто я тебе непременно нужна, так и быть, я не\nпротив побыть рядом."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_FRIENDSHIP_00",
+   "key": "fc3eb1bc",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nХа! Скажу так: ты самый везучий мужчина на\nсвете, раз у тебя такая шикарная жена!\n<PAGE>\n<FACE_LAUGH>Хм... Устала я сегодня напирать. Это всё\nблагодаря тебе, <_____MYNAME_____>. Похоже, кто-то наконец\nсделал меня счастливой."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinOlder_FRIENDSHIP_01",
+   "key": "74e14823",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВот, возьми. Это мазь от боли в мышцах, мне\nеё дала Силука. Надо просто втереть в руки.\n<PAGE>\n<FACE_LOVE>Ты всё время что-то для меня делаешь. Мне\nтоже иногда хочется о тебе позаботиться!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_FRIENDSHIP_TOGETHER_00",
+   "key": "d1ea3247",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nБыло весело провести с тобой день, <_____MYNAME_____>. Позови\nменя ещё, ладно?"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_FRIENDSHIP_TOGETHER_01",
+   "key": "f1547ecc",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nС тобой весело разговаривать, <_____MYNAME_____>. Хи-хи, давно\nне болтали."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_FRIENDSHIP_00",
+   "key": "216dd7b4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nКогда мы были маленькие, Лудус однажды\nупал в океан.\n<PAGE>\nМорские искры облепили его одежду, и бабуля\nс Илукой никак не могли перестать смеяться.\n<PAGE>\nБудь осторожнее, когда смотришь на океан, <_____MYNAME_____>..."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_FRIENDSHIP_01",
+   "key": "67a2b9b6",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nСтранное чувство, когда ты между звёздным\nнебом и морскими искрами. Интересно, всё ли с\nнами будет в порядке..."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TwinYounger_FRIENDSHIP_02",
+   "key": "d942e2c4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nСвет морских искр такой успокаивающий.\nМягкое покачивание волн... как-то... клонит...\nв сон..."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_FRIENDSHIP_00",
+   "key": "67085981",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nОбычно от качки лодки меня клонит в сон.\n<PAGE>\n<FACE_LOVE>Но когда я с тобой, <_____MYNAME_____>, совсем не хочется спать.\nПочему бы это..."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_FRIENDSHIP_01",
+   "key": "7a00072f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за сегодня, <_____MYNAME_____>.\n<PAGE>\nБабуля говорила, что хорошая жена\nблагодарит и помогает.\n<PAGE>\n<FACE_LOVE>Я ещё не жена, но могу я что-нибудь для тебя\nсделать?"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_FRIENDSHIP_00",
+   "key": "582ae90b",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nТы не устал, <_____MYNAME_____>? Тебе не нужно где-нибудь\nприлечь?\n<PAGE>\n<FACE_LOVE>Хочешь положить голову мне на колени?\nПредложение ограничено..."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_FRIENDSHIP_01",
+   "key": "28fc1da5",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\n<_____MYNAME_____>...\n<PAGE>\nНичего. Просто хотелось произнести твоё имя.\nОт одного этого я счастлива."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_FRIENDSHIP_00",
+   "key": "bdcbf3d5",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>! Как тебе первый полёт на воздушном\nшаре?\n<PAGE>\nСмотреть на звёзды с шара, когда рядом\nкто-то особенный, ― это запоминается ещё\nсильнее."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_FRIENDSHIP_01",
+   "key": "460cfda1",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_SAD>\r\nЖиву здесь с самого рождения, а сколько бы\nлет мне ни было, к полётам на воздушном шаре\nникак не привыкну.\n<PAGE>\n<FACE_LAUGH>Но каждый год всё равно лечу, загоревшись\nмыслью снова увидеть звёзды."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantOldman_FRIENDSHIP_02",
+   "key": "c173faef",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nКогда вижу, как Брэд и Кэрри летят на шаре\nвместе, вспоминаю жену.\n<PAGE>\nМы каждый год поднимались в небо и\nсмотрели на звёзды."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_FRIENDSHIP_00",
+   "key": "c504c40b",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nЭто ведь твой первый Звёздный бал, <_____MYNAME_____>?\n<PAGE>\nКогда я впервые летал на воздушном шаре,\nбыл мелким сорванцом. Летал с Гектором.\n<PAGE>\n<FACE_LAUGH>Мне было так страшно, что я вцепился в\nГектора. Он был не в восторге!"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_FRIENDSHIP_01",
+   "key": "02ca3911",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nТебе не страшно, когда шар идёт на посадку?\n<PAGE>\nНу, что будет, если не сможем приземлиться?\nИли вдруг авария при посадке?\n<PAGE>\n<FACE_SAD>А может, я просто трус в таких делах."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantHusbund_FRIENDSHIP_02",
+   "key": "4958367a",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nМы с Кэрри не летали на воздушном шаре\nвместе, пока не поженились.\n<PAGE>\nСмотреть оттуда на звёзды ― как и говорила\nМеган, невероятно романтично!\n<PAGE>\nПолёт на шаре ― идеальный способ сблизиться\nс кем-то. Поверь мне!"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_FRIENDSHIP_00",
+   "key": "21ddbbe1",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nСегодня ведь первый полёт на воздушном шаре,\n<_____MYNAME_____>?\n<PAGE>\n<FACE_LAUGH>Удалось разглядеть разные места? Мне в\nпервый раз было страшно, но смотреть на\nзвёзды с такой высоты очень трогательно!"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_FRIENDSHIP_01",
+   "key": "ae47bcce",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nБрэд всегда боится выпасть из шара или жёстко\nприземлиться.\n<PAGE>\nИ это после того, как он летал уже много раз.\nТак мило!"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_FREE_EVENT_RestaurantWife_FRIENDSHIP_02",
+   "key": "04d60544",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nАх, смотреть на звёзды с воздушного шара с\nлюбимым человеком...\n<PAGE>\n<FACE_LAUGH>Это путь к чужому сердцу. Попробуй с тем, кто\nтебе нравится. Намёк, намёк! ♪"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_FRIENDSHIP_00",
+   "key": "5e36915e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nКак тебе первый полёт на воздушном шаре?\nТак высоко, что многие пугаются до\nполусмерти!\n<PAGE>\nВот как, вот как. Рада, что тебе понравилось.\nЕсли хочешь, участвуй и в следующий раз!"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_FRIENDSHIP_01",
+   "key": "84db82c2",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНе буду бестактной и расспрашивать, как всё\nпрошло наверху.\n<PAGE>\nКак бы то ни было, звёзды были прекрасны.\nВижу их каждый год, а всё не надоедает."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmOldwoman_FRIENDSHIP_02",
+   "key": "b25befba",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nВ детстве Гектор и Брэд всегда летали на шаре\nвместе.\n<PAGE>\nДо сих пор помню, как при каждой посадке\nГектор выходил с прицепившимся к нему\nперепуганным Брэдом!\n<PAGE>\nНо бояться высоты не стыдно!"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_FRIENDSHIP_00",
+   "key": "5da55de4",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nКаждый год на Звёздный бал я лечу на шаре с\nмамой и Колином.\n<PAGE>\nЗвёздное небо всегда прекрасно.\n<PAGE>\nНо каждый год Колин становится чуть\nвзрослее. А мы с мамой ― чуть старше.\n<PAGE>\nНапоминает, как быстротечна жизнь."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_FRIENDSHIP_01",
+   "key": "5e92f42d",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nКогда Брэд был ребёнком, он всё время летал\nна шаре со мной.\n<PAGE>\nЧем выше мы поднимались, тем сильнее он\nбоялся и цеплялся за меня.\n<PAGE>\nНе слышал, чтобы он избавился от страха.\nНаверняка и сейчас боится."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmMan_FRIENDSHIP_02",
+   "key": "9f638be2",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nКаждый год Колин рисует звёздное небо,\nкоторое видит с шара.\n<PAGE>\nГоворит, чтобы не забыть, как смотрел на\nзвёзды.\n<PAGE>\nБудь жена жива, она бы непременно всё\nфотографировала."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_FRIENDSHIP_00",
+   "key": "5267cc09",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nКак тебе, <_____MYNAME_____>? Ну, смотреть на звёзды с\nвоздушного шара?\n<PAGE>\nКаждый год после Звёздного бала я рисую то,\nчто мы видели."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_FRIENDSHIP_01",
+   "key": "18b0d624",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nЗвёзды красивые каждый год, но всегда\nнемного разные.\n<PAGE>\nХотя все говорят, что им кажется одинаково.\n<PAGE>\nА ты как думаешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AmericaFarmSon_FRIENDSHIP_02",
+   "key": "f56d8330",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nКогда лечу на шаре с папой и бабушкой,\nвспоминаю, как они мне дороги.\n<PAGE>\nМожет, и ты полетишь на шаре с кем-то\nдорогим, <_____MYNAME_____>?"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_FRIENDSHIP_00",
+   "key": "764219ca",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЭтот праздник ― для того, чтобы укреплять\nузы. Особенно между мужчинами и женщинами.\n<PAGE>\nХм? Летал ли я на шаре с какой-нибудь\nдамой?\n<PAGE>\n<FACE_LAUGH>Прости, <_____MYNAME_____>. Не люблю ворошить прошлое."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_FRIENDSHIP_01",
+   "key": "7bc8666a",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nВ это время года и так холодно, а в небе на\nшаре ещё холоднее, так?\n<PAGE>\nИ чего нас понесло в небо в такое время? Всё\nради романтики, что ли?"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Uncle_FRIENDSHIP_02",
+   "key": "f5c17543",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nКогда смотрю на звёздное небо, чувствую себя\nраком, глядящим на удочку! Будто меня\nцеликом проглатывают!\n<PAGE>\n<FACE_LAUGH>Хе! Вот это зрелище, а?! Жаль, видно его\nтолько раз в год."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_FRIENDSHIP_00",
+   "key": "833ce227",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЭтот праздник ― чтобы укреплять узы с\nлюдьми, так что иди поговори с тем, кто тебе\nинтересен!\n<PAGE>\nКаждый год я лечу на воздушном шаре с Ноэль.\n<PAGE>\n<FACE_SAD>Но однажды она наверняка полетит с кем-то\nдругим. Как подумаю, так дурно становится!"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_FRIENDSHIP_01",
+   "key": "83782b6d",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nБоюсь ли я, что шар рухнет на землю?\n<PAGE>\n<FACE_LAUGH>А-ха-ха! Ничего такого не будет! Милок, раз\nуж меня он выдерживает, выдержит кого\nугодно!"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_FRIENDSHIP_02",
+   "key": "3909a4ac",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКак думаешь, у звёзд на Звёздный бал есть\nособая сила?\n<PAGE>\n<FACE_LAUGH>Просто быть наверху и смотреть на них ―\nтакое счастье.\n<PAGE>\nИ становишься гораздо ближе к тем, с кем\nлетишь."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_FRIENDSHIP_00",
+   "key": "559708bf",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nНа Звёздный бал я всегда лечу на воздушном\nшаре с мамой.\n<PAGE>\nМне её жалко, но когда я вырасту, хочу лететь\nс Колином.\n<PAGE>\n<FACE_LAUGH>Поэтому сейчас надо набрать побольше\nвоспоминаний о полётах с мамой! ♪"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_FRIENDSHIP_01",
+   "key": "d5193bb3",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nЗвёзды в этом году такие красивые. ♪ Жду не\nдождусь, как завтра пойду к Колину смотреть\nего рисунок!\n<PAGE>\nПонимаешь, каждый год после Звёздного бала\nКолин рисует звёздное небо!"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_FRIENDSHIP_02",
+   "key": "adff947d",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nЯ придумала кое-что хорошее! Представь, если\nлететь на воздушном шаре до самого рассвета.\nРазве не чудесно?!\n<PAGE>\n<FACE_SAD>Ах, но если поздно ночью устать и уснуть... Это\nбыло бы очень опасно!"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_FRIENDSHIP_00",
+   "key": "ba24bde6",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nТы впервые участвуешь в Празднике звёзд?\n<PAGE>\nЗнаю, тебе это в новинку, но главное ―\nзакрыть глаза, загадать желание... и верить!"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_FRIENDSHIP_01",
+   "key": "0de38571",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nШёлковый путь отсюда такой красивый,\nправда? В молодости я всё время смотрел на\nнебо.\n<PAGE>\nСколько бы времени ни прошло, Шёлковый\nпуть ничуть не изменился."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldman_FRIENDSHIP_02",
+   "key": "d6d37f64",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nНа Праздник звёзд мы с Омиё, конечно, вместе\nсмотрим на Шёлковый путь.\n<PAGE>\nПосле свадьбы мои желания не изменились.\nДумаю, и у Омиё тоже."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_FRIENDSHIP_00",
+   "key": "ab7214ad",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКак я благодарна, что всё ещё могу смотреть\nна Шёлковый путь вместе с Умэкити.\n<PAGE>\n<FACE_LAUGH>Уверена, и для тебя это особое время года\nстанет чем-то очень личным."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_FRIENDSHIP_01",
+   "key": "32eb13d5",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВ этом году я написала, что хочу быть с\nУмэкити вечно."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_FREE_EVENT_JapanFarmOldwoman_FRIENDSHIP_02",
+   "key": "20c03d95",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня единственный день в году, когда\nвстречаются Ткачиха и Пастух.\n<PAGE>\n<FACE_SAD>Многие говорят, что это волшебная сказка. А\nпо-моему, она весьма трагична.\n<PAGE>\nНе могу представить ничего мучительнее, чем\nвидеть Умэкити лишь раз в год."
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_FRIENDSHIP_00",
+   "key": "78335188",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nТкачиха и Пастух? Думаешь, мне до них есть\nдело?\n<PAGE>\nОб этой старой сказке лучше поговори с\nСумомо и Хинатой.\n<PAGE>\nНа Празднике звёзд это хороший повод\nзавязать разговор. Только не со мной."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_FRIENDSHIP_01",
+   "key": "254c0206",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, какое желание я написал? Разве\nне очевидно? Надеюсь на большую прибыль!\n<PAGE>\nНет, я, конечно, не жалуюсь, но лишние деньги\nникогда не помешают!"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Wolesaler_FRIENDSHIP_02",
+   "key": "eccd66b2",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nА что пожелал(а) ты? Желание всегда должно\nподходить человеку.\n<PAGE>\nЕсли желание слишком большое, оно не\nкажется настоящим. Так я считаю.\n<PAGE>\nЕсли не быть осторожным, пропадёт желание\nисполнить его самому."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_FRIENDSHIP_00",
+   "key": "c72fe847",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, ты слышал(а) историю о Ткачихе и Пастухе?\n<PAGE>\n<FACE_LAUGH>Хе-хе-хе, правда чудесная?\n<PAGE>\nЯ тоже буду стараться на работе до следующей\nвстречи с семьёй!"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_FRIENDSHIP_01",
+   "key": "5099dd1b",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, как хорошо, что прояснилось!\n<PAGE>\nШёлковый путь сияет высоко-высоко, и\nТкачиха с Пастухом вместе!\n<PAGE>\n<FACE_NORMAL>...Интересно, мама и остальные тоже видят\nШёлковый путь оттуда, где они?"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_FREE_EVENT_MigrantGirl_FRIENDSHIP_02",
+   "key": "9ed8308c",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nКаждый год я пишу одно и то же желание.\n<PAGE>\n<FACE_SAD>Хочу не так часто плакать, но никак не\nполучается.\n<PAGE>\nМожет, это пока слишком большое для меня\nжелание...\n<PAGE>\n<FACE_NORMAL>Так! У меня всё получится!"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_FRIENDSHIP_00",
+   "key": "5a6efffe",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nО! Спасибо, что пришёл(шла), <_____MYNAME_____>!\n<PAGE>\nЭтот праздник идеален для парней и девушек\nтвоего возраста, <_____MYNAME_____>, так что вперёд, не робей!"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_FRIENDSHIP_01",
+   "key": "747d08ed",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nЧто я пожелал? Поскорее встретиться с женой\nКами, конечно!\n<PAGE>\nХм? Уже слышал(а)?\n<PAGE>\n<FACE_SAD>Ну, я каждый год желаю одно и то же. Не\nкаждый же день одно и то же желаю!"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaOwner_FRIENDSHIP_02",
+   "key": "cd6b857b",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nХе-хе-хе. А? Улыбаюсь как дурачок?\n<PAGE>\nНу, просто Юдзуки сказал, что мы с женой как\nТкачиха и Пастух!\n<PAGE>\nЛучшего комплимента и не придумаешь! Хотя\nбывают годы, когда мы и вовсе не видимся!"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_FRIENDSHIP_00",
+   "key": "3e141e0d",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nШёлковый путь отсюда красивый, да? Очень\nлюблю смотреть на него каждый год с семьёй."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_FRIENDSHIP_01",
+   "key": "d50c3f9a",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nРаньше я жил в городе с сильными дождями. В\nэто время года они портили весь вид.\n<PAGE>\nЗдесь такой проблемы нет. Какой вид!"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffMan_FRIENDSHIP_02",
+   "key": "67151dcb",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ повесил желание Яити, но он сказал, что это\nсекрет.\n<PAGE>\nНе хочу совать нос, но интересно, что он\nзагадал..."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_FRIENDSHIP_00",
+   "key": "4c7ae832",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКак тебе Праздник звёзд? Надеюсь, желание\nсбудется!\n<PAGE>\nИли важнее увидеть, встретятся ли Ткачиха и\nПастух?"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_FRIENDSHIP_01",
+   "key": "e8550a22",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ рада, что и в этом году увидела Шёлковый\nпуть.\n<PAGE>\nВижу его каждый год, а всё кажется, что\nзвёзды вот-вот меня затянут!"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffWoman_FRIENDSHIP_02",
+   "key": "39da35ac",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКаждый год я желаю, чтобы вся семья\nоставалась здоровой.\n<PAGE>\nПишу, чтобы мы прожили этот год без\nсерьёзных болезней.\n<PAGE>\nМожет, поэтому Тацуми и Яити так редко\nболеют..."
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_FRIENDSHIP_00",
+   "key": "02ba95a5",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>. Ты ведь впервые на Празднике звёзд?\n<PAGE>\nМеня такое не особо интересует, но сейчас\nмного кто думает о Ткачихе и Пастухе.\n<PAGE>\nЛучший шанс поговорить с тем, кто тебе\nнравится."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_FRIENDSHIP_01",
+   "key": "006e4ab7",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nШёлковый путь сегодня даже красивее\nобычного.\n<PAGE>\nНе находишь, <_____MYNAME_____>? Прямо как настоящая река."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonOlder_FRIENDSHIP_02",
+   "key": "9ed5d4d8",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nМне всегда трудно придумать, какое желание\nнаписать.\n<PAGE>\nЖеланий много, но в основном это то, что я\nмогу сделать и сам.\n<PAGE>\nТак что в итоге пишу скорее цель."
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_FRIENDSHIP_00",
+   "key": "36e2347d",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...<_____MYNAME_____>, это твой первый Праздник звёзд? Желание\nнаписано?"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_FRIENDSHIP_01",
+   "key": "5c069986",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nНебо красивое, а река сверкает."
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StuffSonYounger_FRIENDSHIP_02",
+   "key": "f4dd33a9",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЯ написал желание. Папа повесил его для меня.\n<PAGE>\n<FACE_LAUGH>Какое желание? Секрет."
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_FRIENDSHIP_00",
+   "key": "07164259",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nПлыть с кем-то в лодке, внизу морские искры,\nвверху звёзды... Чего ещё желать.\n<PAGE>\n<FACE_LAUGH>В былые времена меня то и дело приглашали\nмужчины. Отказывать всем было сущей мукой.\n<PAGE>\nА когда я пыталась заговорить с тем, кто плыл\nсо мной, он только благоговейно замирал и...\n<PAGE>\n<FACE_NORMAL>...Эй, чего это у тебя вдруг такое серьёзное\nлицо?"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_FRIENDSHIP_01",
+   "key": "f5d9488c",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВ этом году морских искр было много. Океан\nвыглядел чудесно.\n<PAGE>\nВот был бы ещё рядом красивый молодой\nчеловек, и жаловаться было бы не на что.\n<PAGE>\n<FACE_LAUGH>Хё-хё, шучу! Мне и хорошей погоды вполне\nхватает!"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_FREE_EVENT_InnOwner_FRIENDSHIP_02",
+   "key": "c7fe659f",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКаждый год кто-нибудь падает с лодки в воду.\nБудь осторожнее.\n<PAGE>\nСлучись такое ― и вся романтика насмарку."
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_FRIENDSHIP_00",
+   "key": "07cc3535",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nНу? Как тебе? Ночной океан ― это здорово, а?\nДа ещё и морских искр сегодня было полно.\n<PAGE>\n<FACE_LAUGH>В общем, перейду к делу. Как там с особенным\nчеловеком? Удалось сблизиться?"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_FRIENDSHIP_01",
+   "key": "d7f7e686",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nО! <_____MYNAME_____>. Будто море и небо ближе, чем\nкогда-либо.\n<PAGE>\n<FACE_SAD>Так красиво, что Альма вечно чуть не\nвываливается за борт. Пугает меня до смерти..."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Fisher_FRIENDSHIP_02",
+   "key": "0ea684dc",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЗнаю, красиво, но не пялься только на океан.\nМы ведь плывём вместе.\n<PAGE>\nВот, например, моя Каолила ― самая\nпрекрасная из всех. Моя богиня!"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_FRIENDSHIP_00",
+   "key": "191e9370",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nО? Это твоя первая Ночь морских огней, да?\nПонравилось?\n<PAGE>\n<FACE_LAUGH>Вот и здорово!"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_FRIENDSHIP_01",
+   "key": "6803212f",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nСлава богу, прояснилось! В это время года\nчасто дождь, так что ясная погода на Ночь\nморских огней ― настоящее благословение.\n<PAGE>\nБывало, что в день праздника лило, но тебе,\nпохоже, чертовски везёт!"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherWife_FRIENDSHIP_02",
+   "key": "6aeba0e9",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_ANGRY>\r\nОх, сколько ему ни говори, никогда не слушает!\nА, <_____MYNAME_____>! Послушай только!\n<PAGE>\nКаждый раз, как плывём на лодке, Шальк её\nраскачивает! Говорю ему перестать, Альма же\nпугается, а он ни в какую!\n<PAGE>\n<FACE_NORMAL>Из-за него мне приходится и Альму\nуспокаивать, и следить, чтобы она не выпала за\nборт... Кошмар!"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_FRIENDSHIP_00",
+   "key": "de91e29a",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nВу-ху! Было обалденно красиво!\n<PAGE>\n<FACE_NORMAL>Кстати, правда, что океан у других городов не\nсветится? Что?! У них даже океана нет?!"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_FRIENDSHIP_01",
+   "key": "b1d86048",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nЖалко, что жители других городов не могут\nэтого увидеть. У них есть что-то другое?"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherSon_FRIENDSHIP_02",
+   "key": "c9cb12f2",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nАй-ай-ай-ай! Видно, проказничать в лодке\nслишком сложно даже для меня.\n<PAGE>\nВедь некуда убежать! Получить и от мамы, и\nот папы ― это уж слишком."
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_FRIENDSHIP_00",
+   "key": "8323f611",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nО! Это <_____MYNAME_____>! Ты здесь!\n<PAGE>\nЯ так рада. ♪ Раз уж Ночь морских огней,\nхотела поплыть с тобой. ♪"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_FRIENDSHIP_01",
+   "key": "c6925047",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Э-э, э-э! Океан был суперкрасивый!\n<PAGE>\nБудто звёзды упали в море! Я потрогала звезду.\n♪"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_FREE_EVENT_FisherDaughter_FRIENDSHIP_02",
+   "key": "6c0c7147",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nХи-хи. ♪ Всё такое красивое, я так рада. ♪\n<PAGE>\n<FACE_SAD>А? Страшно ли было в лодке? Ну ты и\nглупышка, <_____MYNAME_____>. Я только начала об этом\nзабывать... *всхлип*"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_FRIENDSHIP_00",
+   "key": "4a925dde",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nХм? А, это ты, <_____MYNAME_____>. Так ты впервые участвуешь?\n<PAGE>\nКхм! Похоже, мне ничего не остаётся, кроме\nкак прочесть обстоятельную лекцию об\nистории этого праздника.\n<PAGE>\nСтой, <_____MYNAME_____>! Не уходи посреди лекции!"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_FRIENDSHIP_01",
+   "key": "129df216",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nС лодки не видно остальных, так что не вижу\nсмысла участвовать в этом празднике.\n<PAGE>\nРаз уж столько времени, я собрала немного\nморских искр. Могут пригодиться для\nисследований."
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Historian_FRIENDSHIP_02",
+   "key": "836a157a",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, с кем я плыла? С Лотосом. С кем\nже ещё?\n<PAGE>\nЯ ведь притащила его сюда помогать с\nисследованием."
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_FRIENDSHIP_00",
+   "key": "ebbd2a49",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nДобрый вечер, <_____MYNAME_____>! Сегодня ведь твоя первая Ночь\nморских огней? Как тебе?\n<PAGE>\n<FACE_NORMAL>Э, я спрашиваю исключительно про вид! Ни во\nчто постороннее не лезу!"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_FRIENDSHIP_01",
+   "key": "e59207b1",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nЭ-э... В общем, лучше ко мне не подходить...\n<PAGE>\nДело в том, что я недавно упал в океан,\nпытаясь помочь профессору."
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Assistant_FRIENDSHIP_02",
+   "key": "8366fbb3",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nВ этом году я не упал с лодки! Зато меня\nоблепили морскими искрами в шутку."
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_FRIENDSHIP_00",
+   "key": "d38a67fc",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКак и говорила Тототара, Ночь морских огней\nвесьма впечатляет.\n<PAGE>\nХо-хо-хо! Это секрет, но когда Тигре впервые\nвсё это увидел, он был так тронут, что это\nбыло видно по лицу."
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_FRIENDSHIP_01",
+   "key": "492a1e84",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nМорские искры в этом городе ― то ещё\nзрелище. Когда я впервые их увидел, даже\nслов не нашёл.\n<PAGE>\nБудто меня со всех сторон окружили звёзды."
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Angler_FRIENDSHIP_02",
+   "key": "62a508e2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо... Время от времени так и тянет\nпорыбачить с лодки.\n<PAGE>\nНаверное, здорово рыбачить при свете звёзд."
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_FRIENDSHIP_00",
+   "key": "1be8d83e",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nНочь морских огней в нашем городе\nпотрясающая. С лодки всё кажется ещё\nзагадочнее.\n<PAGE>\nКогда я впервые увидел, был поражён, что\nтакое бывает на самом деле."
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_FRIENDSHIP_01",
+   "key": "4f6d8f04",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nКогда я рассказал Тацуми о морских искрах, он\nрассказал мне о Шёлковом пути.\n<PAGE>\nОн сказал, что это как река из звёзд в небе и\nчто она так же красива, как морские искры.\n<PAGE>\nОднажды хочу побывать на празднике в другом\nгороде."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_FREE_EVENT_AnglerGrandson_FRIENDSHIP_02",
+   "key": "0cbfdb84",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nМы смотрим на морские искры сверху, а\nинтересно, как всё это выглядит для рыб внизу.\n<PAGE>\nБыло бы интересно посмотреть на них из-под\nводы."
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_FRIENDSHIP_00",
+   "key": "2c39624f",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nСмотреть на звёзды с воздушного шара?!\nТако-о-ое мечтательное! ♪\n<PAGE>\nНаверняка это придумал кто-то очень\nромантичный!"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_FRIENDSHIP_01",
+   "key": "b56c0dee",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nИнтересно, каково это ― смотреть на звёзды с\nвоздушного шара...\n<PAGE>\n<FACE_LAUGH>Может, в следующем году можно тайком\nпробраться и полететь вместе с тобой?"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_FRIENDSHIP_02",
+   "key": "da6942fc",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nНе бойся лететь на воздушном шаре! ♪ Если\nчто случится, я защищу всех своей магией!"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_FRIENDSHIP_00",
+   "key": "9f0cd512",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЧто за непостижимый город! Где это слыхано\n― смотреть на искры с лодки?\n<PAGE>\nЧто, тебе нравится? Ну, огоньки красивые,\nпожалуй. Хорошее сочетание синего и белого.\n<PAGE>\nНо расхлёбывать мне, когда какой-нибудь\nидиот вываливается из лодки в воду!"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_FRIENDSHIP_01",
+   "key": "e0e46d26",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЕсли вдруг упадёшь в океан, не волнуйся. Я\nспасу тебя своей потряса-а-ающей магией!\n<PAGE>\nТолько спасти так, чтобы это не выглядело\nстранно, довольно сложно.\n<PAGE>\nА этот хилый парень каждый год падает с\nлодки! Интересно, упадёт ли и в следующем\nгоду..."
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_FRIENDSHIP_02",
+   "key": "07e57453",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nЗачем ждать лодки, чтобы излить кому-то\nдушу? Если есть что сказать, надо просто\nговорить!\n<PAGE>\nГовори как есть! Вот как я делаю."
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_FRIENDSHIP_00",
+   "key": "377f1bdb",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nТебе понравился первый Праздник звёзд?\n<PAGE>\nПисать желания вместе, болтать, любуясь\nШёлковым путём... Мне показалось, что ты\nотлично вписываешься.\n<PAGE>\nС радостью увижу тебя и на следующем\nПразднике звёзд."
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_FRIENDSHIP_01",
+   "key": "e400192e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, я ли исполняю желания,\nнаписанные на бумажных полосках? Что ж,\nответ... нет. Не я.\n<PAGE>\nЖители этого города верят, что всюду\nобитают самые разные духи.\n<PAGE>\nТо ли желания исполняют другие божества, то\nли... сами горожане исполняют их силой веры."
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Inari_FRIENDSHIP_02",
+   "key": "c97344c8",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nВообще-то я на стороне тех, кто исполняет\nжелания, но подумываю в следующем году\nнаписать и своё.\n<PAGE>\nПожалуй, пришло время... пожелать побольше\nподношений жареного тофу!"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_FRIENDSHIP_00",
+   "key": "e400192e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, я ли исполняю желания,\nнаписанные на бумажных полосках? Что ж,\nответ... нет. Не я.\n<PAGE>\nЖители этого города верят, что всюду\nобитают самые разные духи.\n<PAGE>\nТо ли желания исполняют другие божества, то\nли... сами горожане исполняют их силой веры."
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Inari_FRIENDSHIP_01",
+   "key": "c97344c8",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nВообще-то я на стороне тех, кто исполняет\nжелания, но подумываю в следующем году\nнаписать и своё.\n<PAGE>\nПожалуй, пришло время... пожелать побольше\nподношений жареного тофу!"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_FRIENDSHIP_00",
+   "key": "90052ecd",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХм? Какое у меня желание?\n<PAGE>\n<FACE_LAUGH>Никакого. Моё желание ― просто быть с\nтобой. Чтобы на твоём лице не гасла улыбка.\n<PAGE>\nИ оно давно исполнилось. Не могу придумать\nничего желаннее."
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_FRIENDSHIP_01",
+   "key": "8aa1b2ef",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nА какое желание у тебя?\n<PAGE>\n<FACE_LAUGH>Надеюсь, такое же, как моё!"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_FRIENDSHIP_00",
+   "key": "8de13acd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПраздник сегодня был тако-о-ой весёлый! Всё\nтакое загадочное и классное.\n<PAGE>\n<PARENT>, надо прийти снова в следующем году!"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_FRIENDSHIP_01",
+   "key": "4f87a048",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nТакую красоту можно увидеть только сегодня?\nЭто было потрясающе! Хочу прийти снова в\nследующем году. ♪"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_FRIENDSHIP_02",
+   "key": "66a68b68",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКогда я на празднике, кажется, что становлюсь\nещё ближе к вам, мама и папа. Хе-хе-хе. ♪"
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Boy_FRIENDSHIP_02_AnotherCountry",
+   "key": "a1f3e8a8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКогда я на празднике, кажется, что становлюсь\nещё ближе к тебе, <PARENT>. Хе-хе-хе. ♪"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_FRIENDSHIP_00",
+   "key": "8de13acd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПраздник сегодня был тако-о-ой весёлый! Всё\nтакое загадочное и классное.\n<PAGE>\n<PARENT>, надо прийти снова в следующем году!"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_FRIENDSHIP_01",
+   "key": "4f87a048",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nТакую красоту можно увидеть только сегодня?\nЭто было потрясающе! Хочу прийти снова в\nследующем году. ♪"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_FRIENDSHIP_02",
+   "key": "66a68b68",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКогда я на празднике, кажется, что становлюсь\nещё ближе к вам, мама и папа. Хе-хе-хе. ♪"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Child_Girl_FRIENDSHIP_02_AnotherCountry",
+   "key": "a1f3e8a8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКогда я на празднике, кажется, что становлюсь\nещё ближе к тебе, <PARENT>. Хе-хе-хе. ♪"
+  }
+ ]
+}

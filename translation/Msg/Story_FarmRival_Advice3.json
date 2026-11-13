@@ -1,0 +1,110 @@
+{
+ "file": "Story_FarmRival_Advice3",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_00",
+   "key": "97b33a84",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nО-хо! Да это же <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_01",
+   "key": "c4d1d119",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nТы тоже участвуешь в этом конкурсе?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_02",
+   "key": "4873e6cd",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nХорошо, хорошо. Отличная возможность\nоценить твой истинный уровень. Уже не\nтерпится."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_03",
+   "key": "c8c3f7ae",
+   "ru": "(Похоже, он тоже участвует. В этот раз я не\nпроиграю!)"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_04",
+   "key": "e3de8d75",
+   "ru": "(Ура! Победа над Мистером Ди!)"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_05",
+   "key": "bf2348eb",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nНеплохо, <_____MYNAME_____>. С нашей последней встречи твоё\nмастерство сильно выросло."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_06",
+   "key": "4a4da560",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nТвоя сегодняшняя победа доказывает, что мне\nпора взяться всерьёз. Ты поистине достойный\nсоперник."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_07",
+   "key": "7d9e40e0",
+   "ru": "(Эх... Проигрыш Мистеру Ди.)"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_08",
+   "key": "ee996a00",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nЖаль, <_____MYNAME_____>. Но, судя по тому, что я видел, за\nкороткое время с нашей последней встречи\nтвоё мастерство сильно выросло."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_09",
+   "key": "97e48c2f",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nЭто более чем достаточное доказательство, что\nмне пора взяться всерьёз. Ты поистине\nдостойный соперник."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_10",
+   "key": "18676d92",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nВ следующую нашу встречу я выступлю в\nполную силу. Придёшь бросить мне вызов?\n<PAGE>\nЕсли хочешь помериться силами со мной в\nполную мощь, в следующий раз участвуй в\n<BLUE>классе Мастер</BLUE>.\n<PAGE>\nТы ведь примешь мой вызов, верно?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_11",
+   "key": "18676d92",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nВ следующую нашу встречу я выступлю в\nполную силу. Придёшь бросить мне вызов?\n<PAGE>\nЕсли хочешь помериться силами со мной в\nполную мощь, в следующий раз участвуй в\n<BLUE>классе Мастер</BLUE>.\n<PAGE>\nТы ведь примешь мой вызов, верно?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_12",
+   "key": "84303856",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nВ следующую нашу встречу я буду ждать тебя в\n<BLUE>классе Мастер</BLUE>. Надеюсь, там ты бросишь мне\nвызов, когда я буду предельно серьёзен.\n<PAGE>\nТы ведь примешь мой вызов, верно?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_13",
+   "key": "f1e2e57e",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nПревосходно! Мне уже не терпится. Увидимся\nтам."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "EV_STORY_FARMRIVAL_ADVICE3_14",
+   "key": "8cf5a473",
+   "ru": "(Настоящий вызов в <BLUE>классе Мастер</BLUE>! Я точно\nодержу победу!)"
+  }
+ ]
+}

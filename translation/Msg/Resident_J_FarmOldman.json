@@ -1,0 +1,180 @@
+{
+ "file": "Resident_J_FarmOldman",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_00",
+   "key": "d4c8c9ba",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\n...Хм, с этим воздействие на организм будет...\n*бормочет* *бормочет*"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_01",
+   "key": "2b096234",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nЦена на это... *бормочет*"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_02",
+   "key": "530de0f2",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nВещица довольно редкая... Если хотите...\n*шепчет*"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_03",
+   "key": "16e0b5c3",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nЛадно, по рукам."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_04",
+   "key": "48549540",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_ANGRY>\r\nКто там?!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_05",
+   "key": "85c288dd",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>? Что ты там делаешь?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_06",
+   "key": "db923106",
+   "ru": "Вы выглядели подозрительно..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_07",
+   "key": "bdfb9bd6",
+   "ru": "Я просто шёл(шла) мимо!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_08",
+   "key": "37003f9d",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nПравда? Что же тут подозрительного?\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Подозрительно как раз то, что ты так\nкрадёшься.\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>Именно. А ну-ка, выходи из-за забора."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_09",
+   "key": "894f9c97",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nИтак, <_____MYNAME_____>, что именно тебе показалось\nподозрительным?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_10",
+   "key": "5632504a",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nА, ясно. По обрывкам разговора казалось, что\nмы проворачиваем тёмные делишки, а?\n<PAGE>\n<FACE_LAUGH>Хо-хо-хо. Понятно, отчего переполох! Прости\nза недоразумение.\n<PAGE>\n<FACE_NORMAL>Сделка-то и правда была. Только ничего\nтёмного в ней не было."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_11",
+   "key": "f71dd659",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nМы договаривались о лекарстве, чтобы Омиё\nстало получше.\n<PAGE>\n<FACE_NORMAL>Обычно всё лечение Омиё я доверяю Форду,\nно...\n<PAGE>\nИногда мы покупаем у Мории редкие заморские\nлекарства, они весьма действенные.\n<PAGE>\nЯ как раз уточнял у Форда, можно ли Омиё\nпринимать это лекарство."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_12",
+   "key": "7416afa8",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nКстати говоря..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_13",
+   "key": "7417d0be",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nАх да, точно. Вы точно уверены, что можно\nрасплатиться нашими овощами?\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>Более чем достаточно.\n<PAGE>\n<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>Правда...? Но ведь это лекарство довольно\nтрудно достать? Как нам повезло, что вы с\nФордом такие добрые люди."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_14",
+   "key": "b82f67e1",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nДоброта тут ни при чём. За свои услуги я\nполучаю более чем достаточно."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_15",
+   "key": "7d7a8a6e",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nОго? Ну, на том и порешим. И всё же вы двое\nсовсем не против остаться в убытке.\n<PAGE>\nВерно, <_____MYNAME_____>?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_16",
+   "key": "3daff299",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nОба говорят всё как есть и потому кажутся\nхолодными, но...\n<PAGE>\nВечно беспокоятся обо мне и моей старушке,\nнавещают нас, продают лекарства задёшево...\n<PAGE>\nМне просто хочется, чтобы и другие поняли,\nкакие они на самом деле добросердечные."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_17",
+   "key": "5845d6c3",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_SAD>\r\nЧ-что вы такое говорите? Умоляю, не\nрассказывайте такое людям...\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>Мы просто делаем свою работу...!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_18",
+   "key": "54d0d917",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_SAD>\r\nДа, работу! И как раз об этом: мне пора к\nсвоей работе.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>Д-да, мне тоже. Меня ждёт много работы."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_19",
+   "key": "44aa9275",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_SAD>\r\nЛекарство доставят к вам домой. Оплата\nпотом.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>Хорошего дня."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_20",
+   "key": "ac201a7a",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто это с ними? Какие-то взбудораженные."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_21",
+   "key": "1b151e58",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\n...Хм? Тебе кажется невероятным, что я довёл\nих до такого?\n<PAGE>\n...Правда? Не знаю, почему они так\nотреагировали. Я лишь сказал правду.\n<PAGE>\n<FACE_LAUGH>Ну, раз мы остались вдвоём, не составишь мне\nкомпанию за чаем, если свободен(на)?\n<PAGE>\nУверен, Омиё будет рада гостю!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_22",
+   "key": "5fc92492",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nО, превосходно! Тогда пойдём."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_23",
+   "key": "979e635c",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nТы нас за дураков держишь? Тот, кто “просто\nпроходит мимо”, так не крадётся.\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>Вот именно. А ну-ка, выходи из-за забора."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_FARMOLDMAN_24",
+   "key": "80cd3117",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nИтак, <_____MYNAME_____>?\n<PAGE>\nЗачем было так прятаться?"
+  }
+ ]
+}

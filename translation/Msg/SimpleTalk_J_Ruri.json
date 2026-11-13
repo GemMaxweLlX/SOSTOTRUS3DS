@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Ruri",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "87c99eb7",
+   "ru": "<NAME_MOB_RURI>\r\nПриветик!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "4f7e4c6d",
+   "ru": "<NAME_MOB_RURI>\r\nНужна уверенность? Смени причёску!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "d375d7ba",
+   "ru": "<NAME_MOB_RURI>\r\nМне идут длинные волосы? Или короткие?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "79da15f0",
+   "ru": "<NAME_MOB_RURI>\r\nВлюблённость не надо скрывать. Смелее!"
+  }
+ ]
+}

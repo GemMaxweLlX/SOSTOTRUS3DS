@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Mele",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "73e04e85",
+   "ru": "Привет! Ну и денёк, а?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "5c32b561",
+   "ru": "<NAME_MOB_MELE>\r\nПляж ― идеальное место для рыбалки!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "f0a095c8",
+   "ru": "<NAME_MOB_MELE>\r\nИдёшь рыбачить ― возьми перекусить!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "a9f6daaf",
+   "ru": "<NAME_MOB_MELE>\r\nСадоводство ― это весело! Хотя это хобби."
+  }
+ ]
+}

@@ -1,0 +1,208 @@
+{
+ "file": "Love_J_Apprentice_6",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_00",
+   "key": "d290e19a",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_EXCLAMATION_L><WINDOW_EXCLAMATION_LINE_R>УАХ?!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_01",
+   "key": "b7008a09",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\n<WINDOW_SWEAT_L>Ничего себе, <_____MYNAME_____>, ну ты меня напугала!\n<PAGE>\n<FACE_LAUGH><WINDOW_DEFAULT>Ох! Пугать своего парня вздумала? Ну всё. Иди\nсюда, взъерошу тебе волосы."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_02",
+   "key": "c19a6984",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nАга, просто делаю покупки. Надо отправить\nкое-что домой семье.\n<PAGE>\n<FACE_LAUGH>В прошлый раз я отправил им вещи из\nВестауна. Им очень понравилось, говорили, всё\nновое и интересное.\n<PAGE>\nВот я и подумал в этот раз отправить сувениры\nиз Лулукоко."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_03",
+   "key": "9aef927e",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Что, поможешь? Класс! Пара советов мне очень\nпригодится. Спасибо!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_04",
+   "key": "d7ccd952",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nДавай сразу к делу! Сначала хочу найти\nчто-нибудь для мамы и младшей сестрёнки."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_05",
+   "key": "7fe6badf",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nСпасибо за помощь, <_____MYNAME_____>. Очень ценю."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_06",
+   "key": "314229bd",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\nХм-м... Знаешь? Кажется, хочу найти ещё одну\nвещь, прежде чем отправлять.\n<PAGE>\nНадо бы подумать, что именно..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_07",
+   "key": "d6b9a5e7",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nЧто? Что-нибудь с твоей фермы? ...Да! Да,\nотличная идея. Им понравится!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_08",
+   "key": "96901280",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\n<WINDOW_MOJA_L>Нет... нет, беру слова обратно. Не стоит тебя\nтак обременять. Ты моя подруга, и я не хочу\nэтим пользоваться."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_09",
+   "key": "2a2f5b53",
+   "ru": "(Хм... Как бы убедить Хинату?)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_10",
+   "key": "cbae75a6",
+   "ru": "Считай это просьбой любимой!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_11",
+   "key": "92aa2b4b",
+   "ru": "Я хочу помочь тебе, Хината!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_12",
+   "key": "a88dc3f0",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\n<WINDOW_SWEAT_L>Ого... Какой напор, <_____MYNAME_____>."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_13",
+   "key": "f71136dc",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nЛадно, ладно, сдаюсь. Ты победила. Отправлю\nчто-нибудь с твоей фермы."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_14",
+   "key": "602c74a9",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_EXCLAMATION_L>А, точно! Если подумать, на днях я как раз\nкупил кое-что из того, что ты отгружала..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_15",
+   "key": "af51b60c",
+   "ru": "<FACE_APPRENTICE>\r\nАга! Вот оно! Сейчас быстренько заверну и...\nготово."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_16",
+   "key": "18b82a6c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nВот! Идеально."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_17",
+   "key": "433a123a",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Знаю, я это уже говорил...\n<PAGE>\n<WINDOW_JOY_L>Но уверен, семье понравится всё, что сделала\nты.\n<PAGE>\nХе-хе. Не терпится узнать, что они скажут.\nПойду на почту и сразу отправлю."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_18",
+   "key": "e2b7f637",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\n...<_____MYNAME_____>."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_19",
+   "key": "3a7f0622",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nХорошо. Отправлю что-нибудь с твоей фермы."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_20",
+   "key": "cab9506a",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_L>Хотя мне немного неловко. Как будто я, ну...\nпользуюсь тобой."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_21",
+   "key": "d7ae94ec",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\nНу, я же парень, верно? Я собираюсь делать\nвсё, чтобы поддерживать и защищать тебя. Я\nне должен быть тебе обузой.\n<PAGE>\nТак что опираться на тебя в этом как-то... не\nзнаю...\n<PAGE>\nЭгоистично. Некруто. И, кажется, мне не\nхочется быть с тобой эгоистичным и\nнекрутым..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_22",
+   "key": "81bf14b3",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\n<WINDOW_HEART_L>Спасибо, <_____MYNAME_____>.\n<PAGE>\nОбожаю, какая ты всегда добрая и\nснисходительная..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_23",
+   "key": "602c74a9",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_EXCLAMATION_L>А, точно! Если подумать, на днях я как раз\nкупил кое-что из того, что ты отгружала..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_24",
+   "key": "af51b60c",
+   "ru": "<FACE_APPRENTICE>\r\nАга! Вот оно! Сейчас быстренько заверну и...\nготово."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_25",
+   "key": "18b82a6c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nВот! Идеально."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_26",
+   "key": "be4a8d4e",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\nЭм, <_____MYNAME_____>? Тебе не кажется, что ты немного\nпреувеличиваешь?\n<PAGE>\n<FACE_LOVE>Если продолжишь в том же духе, я тоже\nпокраснею.\n<PAGE>\n<FACE_LAUGH>Может, ты придёшь в себя, если я поцелую\nтебя и в другую щёку..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_27",
+   "key": "433a123a",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Знаю, я это уже говорил...\n<PAGE>\n<WINDOW_JOY_L>Но уверен, семье понравится всё, что сделала\nты.\n<PAGE>\nХе-хе. Не терпится узнать, что они скажут.\nПойду на почту и сразу отправлю."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_6_28",
+   "key": "a1a85b9a",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nПоможешь донести всё это?\n<PAGE>\n...Ладно. Если ты не против, обопрусь на тебя и\nв этом. Спасибо, <_____MYNAME_____>."
+  }
+ ]
+}

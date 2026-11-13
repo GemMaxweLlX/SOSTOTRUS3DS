@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Ray",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "b2dd058c",
+   "ru": "<NAME_MOB_RAY>\r\nАлоха! Хороший сегодня день, правда?!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "b2dd058c",
+   "ru": "<NAME_MOB_RAY>\r\nАлоха! Хороший сегодня день, правда?!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "d91825d6",
+   "ru": "<NAME_MOB_RAY>\r\nУхаживать за животными так весело!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "2843af42",
+   "ru": "<NAME_MOB_RAY>\r\nТы ведь тоже любишь животных?"
+  }
+ ]
+}

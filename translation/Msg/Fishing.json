@@ -1,0 +1,159 @@
+{
+ "file": "Fishing",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "Catch",
+   "key": "7b3fbf12",
+   "ru": "Поймано: <BLUE><____ITEMNAME0____></BLUE>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "CatchWithSize",
+   "key": "c915f758",
+   "ru": "Поймано: <BLUE><____ITEMNAME0____></BLUE>!\nРазмер: <MOJI0> см."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "CatchWithNum",
+   "key": "3a6ebdab",
+   "ru": "Поймано: <BLUE><____ITEMNAME0____></BLUE> × <MOJI1>!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "CatchWithSizeNum",
+   "key": "475bf6be",
+   "ru": "Поймано: <BLUE><____ITEMNAME0____></BLUE> × <MOJI1>!\nРазмер: <MOJI0> см."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "CatchDustWithNum",
+   "key": "3a6ebdab",
+   "ru": "Поймано: <BLUE><____ITEMNAME0____></BLUE> × <MOJI1>!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "CatchDustWithSizeNum",
+   "key": "475bf6be",
+   "ru": "Поймано: <BLUE><____ITEMNAME0____></BLUE> × <MOJI1>!\nРазмер: <MOJI0> см."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "CatchFirst",
+   "key": "721461dc",
+   "ru": "Такую рыбу поймали впервые."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "CatchBiggestFish",
+   "key": "f90e129c",
+   "ru": "Новый рекорд размера для этого вида!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "CatchBigFish",
+   "key": "4426e118",
+   "ru": "Вот это громадина!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "EscapeFish",
+   "key": "eb6903df",
+   "ru": "Эх! Сорвалась..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "EscapedFishAndLostFood",
+   "key": "c4f9dcd7",
+   "ru": "Эх! Съела наживку и сорвалась..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "LevelUp",
+   "key": "39e10710",
+   "ru": "Получен ранг <BLUE><MOJI0></BLUE>!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "NothingFishFood",
+   "key": "8f7439e5",
+   "ru": "Наживка закончилась. Купите ещё в магазине."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "BagFull",
+   "key": "70c01285",
+   "ru": "Рыбачить нельзя: сумка полна."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "BagFullForNet",
+   "key": "fbd3a274",
+   "ru": "Нырять нельзя: сумка полна."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "NoFish",
+   "key": "a53637e4",
+   "ru": "Здесь сейчас нет рыбы."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "CanNotFishingHere",
+   "key": "6182e38d",
+   "ru": "Поищем рыбу в другом месте!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "BrokenNet",
+   "key": "65693f4a",
+   "ru": "<BLUE><____ITEMNAME0____></BLUE>: сломалось!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "CanSetNet",
+   "key": "2675f84a",
+   "ru": "Будь у меня <BLUE><____ITEMNAME0____></BLUE>, можно было бы поставить здесь."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "SetNet",
+   "key": "7b97bb5f",
+   "ru": "Поставить: <BLUE><____ITEMNAME0____></BLUE>?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "SelectSet",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "SelectCancel",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

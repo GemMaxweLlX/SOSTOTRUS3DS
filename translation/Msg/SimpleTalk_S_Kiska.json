@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Kiska",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "ccb6c545",
+   "ru": "<NAME_MOB_KISKA>\r\nО, привет."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "c0d3bae5",
+   "ru": "<NAME_MOB_KISKA>\r\nОй, куда я дел список покупок?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "6b0687ef",
+   "ru": "<NAME_MOB_KISKA>\r\nЖена попросила купить сегодня еды."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "2b26aaf5",
+   "ru": "<NAME_MOB_KISKA>\r\nЖена у меня та ещё командирша, знаешь?"
+  }
+ ]
+}

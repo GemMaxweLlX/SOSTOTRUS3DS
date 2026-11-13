@@ -1,0 +1,138 @@
+{
+ "file": "ShopJHairSalon",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_GREETING_000",
+   "key": "afce0d5b",
+   "ru": "Клиника закрыта до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_GREETING_001",
+   "key": "eec4b96f",
+   "ru": "Сегодня заведение уже закрыто."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_GREETING_002",
+   "key": "56bfda77",
+   "ru": "Салон закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_GREETING_003",
+   "key": "2cf7069d",
+   "ru": "<NAME_MOB_SHARAKU>\r\nА, новое лицо!\n<PAGE>\nПриятно познакомиться! Это парикмахерская\n“Сяраку”. Я хозяин, Сяраку. Легко запомнить,\nда?\n<PAGE>\nЯ учился в далёких краях у знаменитого\nмастера и только вчера вернулся.\n<PAGE>\nС сегодняшнего дня открываюсь, жду тебя! За\nплату сменю цвет волос или причёску!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_GREETING_004",
+   "key": "baff70b4",
+   "ru": "<NAME_MOB_SHARAKU>\r\nДобро пожаловать в парикмахерскую “Сяраку”!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_CHOICE_000",
+   "key": "3d1b5094",
+   "ru": "<NAME_MOB_SHARAKU>\r\nХочешь новую причёску?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_CHOICE_001",
+   "key": "bb4730de",
+   "ru": "Сменить причёску"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_CHOICE_002",
+   "key": "42ae100d",
+   "ru": "<CANCEL_SELECT>\r\nНе сейчас"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_000",
+   "key": "e576ba87",
+   "ru": "<NAME_MOB_SHARAKU>\r\nВеликолепно! Доверься мне. Сделаю красоту!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_001",
+   "key": "ff500332",
+   "ru": "Отменить заказ?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_002",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_008",
+   "key": "ebc6eb29",
+   "ru": "Для этой причёски нужно снять шляпу.\nСогласны?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_003",
+   "key": "0f2786ba",
+   "ru": "С тебя <RED><MOJI0></RED>G. Начинаем?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_004",
+   "key": "f4b56ea5",
+   "ru": "<NAME_MOB_SHARAKU>\r\nТы на самом острие моды! Безумно стильно!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_005",
+   "key": "381d7b54",
+   "ru": "<NAME_MOB_SHARAKU>\r\nОтличная причёска! Чистый блеск, скажу я тебе!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_006",
+   "key": "7be9809e",
+   "ru": "<NAME_MOB_SHARAKU>\r\nНо знаешь... Волосы у тебя сильно\nповреждены. Мой их почаще."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_ITEM_007",
+   "key": "e64d238e",
+   "ru": "<NAME_MOB_SHARAKU>\r\nО, выглядит восхитительно!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_GOODBYE_000",
+   "key": "3ef7c596",
+   "ru": "<NAME_MOB_SHARAKU>\r\nСпасибо за визит! Жду в следующий раз!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_HAIRSALON_NAME",
+   "key": "e1e10141",
+   "ru": "Сяраку"
+  }
+ ]
+}

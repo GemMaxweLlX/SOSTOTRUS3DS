@@ -1,0 +1,215 @@
+{
+ "file": "Love_A_Postman_6",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_00",
+   "key": "7cd34d75",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдорово, <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_01",
+   "key": "78a69275",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nВот так встреча.\n<PAGE>\nИдёшь ужинать?\n<PAGE>\nМне надо сначала заскочить на почту, а потом я\nтоже думал перекусить.\n<PAGE>\nХочешь со мной в ресторан?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_02",
+   "key": "4d1184c5",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Тогда подожди минутку. Я мигом."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_03",
+   "key": "b3bfe4ec",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nО, привет, <_____MYNAME_____>!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_04",
+   "key": "1a9da067",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЗдорово. Как поживаешь?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_05",
+   "key": "7dc4f96d",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nУэйн только что был здесь. Чуть-чуть\nразминулись."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_06",
+   "key": "7561de1c",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>. Я тут недавно слышал от Кэрри...\n<PAGE>\nЭто правда, что Уэйн признался тебе в любви\nпрямо перед своими поклонницами?\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_LAUGH><WINDOW_KERAKERA_R>Что? Правда?!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_07",
+   "key": "0212a7d7",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nТо-то я думаю, что его фан-клуб в последнее\nвремя как-то притих.\n<PAGE>\nНеудивительно. Кто бы мог подумать, что\nименно Уэйн вот так остепенится."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_08",
+   "key": "46931fc5",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nОй, прости. Мы не хотим никого обидеть.\n<PAGE>\nПросто это удивительно, понимаешь? Можно\nли нас винить?\n<PAGE>\nВедь с тех пор как Уэйн сюда переехал, вокруг\nнего всегда толпа щебечущих девиц.\n<PAGE>\nВнимание его явно не смущало, но и любимиц\nсреди них у него никогда не было.\n<PAGE>\nОн придерживался правила “легко пришло,\nлегко ушло” и всё время его соблюдал.\n<PAGE>\nПонимаешь теперь, почему мы все не верим\nглазам, что он взял и выбрал кого-то и всем\nоб этом сказал?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_09",
+   "key": "4987cf56",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nУэйн ещё и общительный.\n<PAGE>\nДобр ко всем, с кем встречается, и ни о ком\nдурного слова не скажет.\n<PAGE>\nС одной стороны, это хорошо, а с другой ―\nудобный способ держаться от людей на\nбезопасном расстоянии.\n<PAGE>\nДолгое время он очень следил, чтобы быть со\nвсеми просто милым, особенно с\nпоклонницами.\n<PAGE>\nА теперь взял и сделал то, что может их\nрасстроить, лишь бы показать, как ты ему\nдорога.\n<PAGE>\nВот это действительно большое дело."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_10",
+   "key": "5e8455f7",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>\r\nВидно, это значит, что он настроен серьёзно.\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>Уж пусть будет. Особенно раз он выбрал мою\nродственницу."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_11",
+   "key": "68c5e0da",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nПрости, что заставил ждать, <_____MYNAME_____>."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_12",
+   "key": "f166ec9a",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nПойдём."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_13",
+   "key": "10d3254c",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nЧто, есть не будете?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Прости, не в этот раз. Может, позже.\n<PAGE>\nА, кстати. Слушай, <_____MYNAME_____>?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_14",
+   "key": "2ec91f86",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nМожно попросить тебя подождать ещё секунд\nтридцать? Выйди пока на улицу."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_15",
+   "key": "9a26cf6a",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nФрэнк. Брэд.\n<PAGE>\nЧтоб вы знали, я не из расчётливых.\n<PAGE>\nЯ начинал тот разговор вовсе не для того,\nчтобы кому-то что-то объявлять."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_16",
+   "key": "b2535053",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LOSS>\r\nСлова просто... вырвались.\n<PAGE>\nЯ правда об этом не думал. Говорил одно, и не\nуспел опомниться, как всё сказал.\n<PAGE>\nПросто...\n<PAGE>\n...я не хотел ни от кого скрывать свои чувства\nк ней.\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_L>Со мной такое впервые в жизни."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_17",
+   "key": "45612a39",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nВидно, всё так, как вы говорите... Я правда\nлюблю эту девушку.\n<PAGE>\n<FACE_LAUGH>В общем, это всё, что я хотел сказать.\nБывайте."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_18",
+   "key": "5e004b65",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\n...Ну и обаяшка, а?\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>Впервые могу сказать, что у меня ёкнуло сердце\nиз-за парня.\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_SAD>Сколько он подслушивал?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_19",
+   "key": "4e861131",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nПрости, что снова заставил ждать, <_____MYNAME_____>.\n<PAGE>\nЗнаю, я говорил, что поужинаем в ресторане,\nно, эм... прости.\n<PAGE>\nМожет, лучше сходим в другой город?\nНапример, в чайную в Цуюкусе?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_20",
+   "key": "4e600a91",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nЧто... так заметно, что я странно себя веду?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_21",
+   "key": "6e5a39f8",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nА. Ну, если обещаешь не смеяться...\n<PAGE>\n<WINDOW_MOJA_R>Кажется, я... ну, я...\n<PAGE>\n...я приревновал тебя. В смысле, когда увидел,\nкак ты болтаешь с теми двумя."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_24",
+   "key": "c1ebad54",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_SAD>\r\nХа-ха. Странно, да? Брэд женат, а Фрэнк ―\nтвой дядя.\n<PAGE>\n<FACE_LOSS>Ну и дурак же я.\n<PAGE>\nНо я просто не привык к таким чувствам. Не\nзнаю, что с ними делать.\n<PAGE>\nКак думаешь, что мне делать?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_25",
+   "key": "af52ac5f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nА? Ты рада, что я ревную?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_22",
+   "key": "5df51539",
+   "ru": "Поцеловать его"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_23",
+   "key": "20585dfe",
+   "ru": "Сделать обиженный вид"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_26",
+   "key": "20d36d56",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nПрости, прости.\n<PAGE>\nЯ не хотел тебя расстраивать из-за такого.\n<PAGE>\nПросто хотел немного подразнить. Простишь?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_27",
+   "key": "c5c0e8bb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПонятно. Вот и хорошо.\n<PAGE>\nНехорошо расстраивать тебя из-за такого."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_28",
+   "key": "3d0b379c",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Поймала.\n<PAGE>\nТы здорово умеешь меня зацепить, знаешь?\n<PAGE>\nКогда слышу от тебя такое, кажется, могу\nвлюбиться ещё сильн..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_POSTMAN_6_29",
+   "key": "a729fd0b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Кхм!\n<PAGE>\n<FACE_LAUGH><WINDOW_KERAKERA_R>Прости. Сколько я уже заставляю тебя ждать.\n<PAGE>\n<WINDOW_DEFAULT>Мы же собирались поужинать, да? Пойдём.\n<PAGE>\n<FACE_NORMAL>Поцелуй придётся отложить на потом.\n<PAGE>\n...К сожалению."
+  }
+ ]
+}

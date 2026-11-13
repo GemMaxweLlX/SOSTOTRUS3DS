@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Oyuki",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "dd78ac77",
+   "ru": "Коннитива!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "d644bb02",
+   "ru": "<NAME_MOB_OYUKI>\r\nСтараюсь не отставать от моды."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "ef205b2b",
+   "ru": "<NAME_MOB_OYUKI>\r\nТы стильно одеваешься! Мне нравится."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "e721f5f5",
+   "ru": "<NAME_MOB_OYUKI>\r\nПриветливость прежде всего! Моё правило."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "file": "Story_Town_S_RankB_Collabo_Avatar",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_00",
+   "key": "0f9819dc",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n...В общем, недавно Митра и Лотус обратились\nко мне со странной просьбой."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_01",
+   "key": "fd480f6c",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>\r\nНичего особенного, уверяю.\n<PAGE>\nТрадиционная одежда этой деревни давно\nвышла из обихода, но я бы хотела попытаться\nеё воссоздать.\n<PAGE>\nИ для этого мне нужна твоя помощь.\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>Э-э, профессор? Учитывая, какая это старина,\nэто вообще-то довольно особенное...\n<PAGE>\n<FACE_HISTORIAN><POS_LEFT><FACE_ANGRY>Тихо, Лотус!\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>Есть, мэм!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_02",
+   "key": "805d2b4e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, в одном из недавно найденных\nдревних текстов описано, что носили здешние\nжители.\n<PAGE>\nМы подумали, что было бы здорово\nпопробовать это воссоздать.\n<PAGE>\nНо есть одна проблема. В тексте не сказано, из\nчего была сделана одежда.\n<PAGE>\nОстаётся только сделать кучу образцов из\nразных материалов."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_03",
+   "key": "1c1bc9bf",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВот тут-то и нужна твоя помощь, <_____MYNAME_____>.\n<PAGE>\nМы хотим попросить тебя помочь достать\nнужные материалы.\n<PAGE>\nУ тебя на ферме много разных необычных\nживотных...\n<PAGE>\nВот мы и подумали, что ты, наверное, можешь\nдостать много разных необычных тканей.\n<PAGE>\nЗаставлять не будем, если не хочешь, но как?\nПоможешь?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_04",
+   "key": "a07d21de",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПоможешь? Отлично! Я знал, что ты\nсогласишься.\n<PAGE>\n<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>Превосходно! Фермеры испокон веков народ\nнадёжный и основательный! Друг-фермер ―\nдруг в беде!\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>Э-э, <_____MYNAME_____>, ты точно не против?\n<PAGE>\nМы ведь даже не сказали, какие материалы\nищем."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_05",
+   "key": "a6ba63c2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nА, да, это было бы полезно, верно?\n<PAGE>\n<FACE_NORMAL>Если сможешь, вот что нам нужно...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE> и <BLUE><____ITEMNAME2____></BLUE> <BLUE>x<MOJI4></BLUE>.\n<PAGE>\nСправишься?\n<PAGE>\nКстати, мы не торопимся. Собирай, когда тебе\nудобно."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_06",
+   "key": "19c537fb",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nМахало.\n<PAGE>\nПока ты этим занимаешься, мы спросим бабулю\nи других старожилов, не помнят ли они чего.\n<PAGE>\n<FACE_NORMAL>Как соберёшь всё, просто неси мне.\n<PAGE>\nУдачи с материалами, <_____MYNAME_____>."
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "file": "Story_Town_J_RankA_Collabo_Spa_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_00",
+   "key": "d87bb419",
+   "ru": "<FACE_TEACHER>\r\n<_____MYNAME_____>? Простите, ты не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_01",
+   "key": "25a56269",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nПрости, что беспокою в такой час...\n<PAGE>\nОднако я недавно передала смотрительнице\nкупальни твои материалы.\n<PAGE>\nНе прошло и нескольких часов, как мне\nсообщили, что новые ванны готовы.\n<PAGE>\nРаз твоя роль в этом деле важнейшая,\nсправедливо дать тебе опробовать их в числе\nпервых...\n<PAGE>\nТак что, может, пройдёшь со мной?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_02",
+   "key": "43240c46",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nЧудесно. Тогда идём. Признаться, я и сама в\nпредвкушении."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_03",
+   "key": "e57853cf",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nМуцу. Я привела <_____MYNAME_____>."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_04",
+   "key": "d34b9350",
+   "ru": "<NAME_MOB_MUTSU><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, огромное спасибо!\n<PAGE>\nС твоей помощью у нас появились необычные и\nвесёлые новые ванны."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_05",
+   "key": "19b30b29",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nВо-первых, “Винная ванна”, которая согревает\nтело изнутри и снаружи.\n<PAGE>\nЗатем “Какао-ванна”, полезная для кожи.\n<PAGE>\nИ наконец, освежающая и ароматная “Ванна с\nсисо”.\n<PAGE>\nКакую хочешь попробовать?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_06",
+   "key": "6d134d7a",
+   "ru": "Винная ванна"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_07",
+   "key": "2a175efd",
+   "ru": "Какао-ванна"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_08",
+   "key": "626c39de",
+   "ru": "Ванна с сисо"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_09",
+   "key": "6c83bb88",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nХорошо. Муцу, приготовь, пожалуйста, эту\nванну."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_10",
+   "key": "7f0bf9d4",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nВстретимся потом. С удовольствием послушаю\nтвоё мнение о ванне."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_11",
+   "key": "522ba7e0",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nЧто ж, раз мы обе здесь, может, вместе\nнасладимся ванной и обменяемся\nвпечатлениями?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_12",
+   "key": "65ebf407",
+   "ru": "По всей комнате разносится сладкий фруктовый\nаромат красного вина.\n<PAGE>\n(Всё тело приятно согрелось!)"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_13",
+   "key": "c2badc89",
+   "ru": "По всей комнате разносится ореховый, чуть\nгорьковатый аромат какао.\n<PAGE>\n(О-о! Кожа стала такой шёлковой!)"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_14",
+   "key": "eb296fdc",
+   "ru": "По всей комнате разносится резкий свежий\nтравяной аромат сисо.\n<PAGE>\n(Эта ванна освежила, как прохладный ветерок!)"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_15",
+   "key": "76705fe1",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nКакая чудесная ванна. Кто бы мог подумать,\nчто мы сможем насладиться такой необычной\nроскошью?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_16",
+   "key": "01fd5182",
+   "ru": "<NAME_MOB_MUTSU>\r\nРада, что вам понравилось!\n<PAGE>\nЯ сразу же добавлю эти ванны в категорию\n“Суперлюкс”.\n<PAGE>\nТолько держать их все каждый день было бы\nмноговато...\n<PAGE>\nТак что Винная ванна, Какао-ванна и Ванна с\nсисо будут по очереди."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_17",
+   "key": "b3d15e3a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, каждый день новая ванна ― поистине\nроскошно.\n<PAGE>\nИ всё это благодаря твоей помощи, <_____MYNAME_____>.\n<PAGE>\nА теперь, с твоего позволения, я пойду. Тацуми\nи Сумомо захотят об этом услышать."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_COLLABO_SPA_CLEAR_18",
+   "key": "839fd5bf",
+   "ru": "(В купальне появились ванны “Суперлюкс”!)\n<PAGE>\n(Каждый день будет одна из трёх. Не терпится\nпопробовать остальные две!)"
+  }
+ ]
+}

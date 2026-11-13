@@ -1,0 +1,376 @@
+{
+ "file": "Love_Presenter_3",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_00",
+   "key": "0950ddc7",
+   "ru": "<FACE_SAFFRON><POS_LEFT><FACE_NORMAL>\r\n...Вот я и принесла тебе письмо от твоего\nмастера."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_01",
+   "key": "10d2bf34",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\n“Настоящим вам предписывается переехать на\nкрайний север...”\n<PAGE>\n...!\n<PAGE>\nМеня переводят...?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_02",
+   "key": "355a59f6",
+   "ru": "<FACE_SAFFRON><POS_LEFT><FACE_LAUGH>\r\nЕсли коротко, то да. Похоже, мастер очень\nвысоко ценит твоё мастерство.\n<PAGE>\n<FACE_NORMAL>Северяне славятся тем, что их ничем не\nрасшевелишь, так что, видимо, ты нужнее всего\nименно там."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_03",
+   "key": "6ded3de6",
+   "ru": "<FACE_SAFFRON><POS_LEFT><FACE_NORMAL>\r\nНо не волнуйся, я прекрасно понимаю, что ты\nсейчас чувствуешь. Поэтому я..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_04",
+   "key": "9dc631b9",
+   "ru": "<FACE_SAFFRON><POS_LEFT><FACE_ANGRY>\r\nСтефани!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_05",
+   "key": "7d2f4d4f",
+   "ru": "<FACE_SAFFRON><POS_LEFT><FACE_LOSS>\r\nО, ты ведь тот фермер?\n<PAGE>\nКак раз вовремя. Беги за ней, понял?\n<PAGE>\n<FACE_SAD>Я на двенадцатисантиметровых каблуках, так\nчто бегать мне не с руки."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_06",
+   "key": "eaaa68a5",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\nШафран, прости. Вот так сбежать...\n<PAGE>\nЗнаю, это эгоистично. Приказ есть приказ.\nНельзя его просто так проигнорировать.\n<PAGE>\nЧувствую себя полным провалом как член\nАссоциации ведущих."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_07",
+   "key": "71d9bb59",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\nДо сих пор я всегда думала, что, пока могу\nзаниматься этой работой, мне всё равно, где\nжить.\n<PAGE>\nЯ соблюдала правила ассоциации и нигде, где\nжила, ни с кем не сближалась...\n<PAGE>\nЧестно говоря, знакомых, кроме членов жюри,\nу меня можно пересчитать по пальцам одной\nруки.\n<PAGE>\nПоэтому я никогда не чувствовала\nпривязанности к какому-то месту."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_08",
+   "key": "1ab5c1a8",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\nА теперь...\n<PAGE>\nС тех пор как я сюда переехала, все так добры\nи приветливы, и... я ещё и встретила кое-кого.\n<PAGE>\nКаждый день мечтаю, увижу ли его. И от этого\nя счастлива.\n<PAGE>\nВпервые я нашла место, где чувствую, что мне\nздесь место.\n<PAGE>\nНаверное, поэтому мне и не хочется уезжать.\nТеперь это мой дом."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_09",
+   "key": "6cefc503",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\nХотя, видно, как бы я ни привязалась к\nздешним людям, приказ есть приказ..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_10",
+   "key": "0c506eea",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\n<_____MYNAME_____>?! Ч-что? А где Шафран?!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_11",
+   "key": "df53bb2d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\nЭм, погоди-ка. Ты всё это время был тут?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_12",
+   "key": "46d296ea",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\nП-прости!\n<PAGE>\nНе придавай этому значения! Я, э-э... это\nправда ерунда!\n<PAGE>\n<FACE_NORMAL>Мне просто стало чуточку грустно, вот и всё!\n<PAGE>\nНе волнуйся! Я не доставлю тебе проблем, <_____MYNAME_____>!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_13",
+   "key": "d05dfb58",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nА? Хочешь знать, можно ли как-то избежать\nпереезда?\n<PAGE>\n<FACE_LOSS>Н-ну, наверное, что-то есть, но... Насколько я\nзнаю, всё это не в моей власти.\n<PAGE>\nВедущим, которых Ассоциация признала\nнастоящими профи, дают постоянное место\nжизни и работы. Но...\n<PAGE>\nЯ не могу просто взять и решить, что я\nнастоящий профи. У меня нет таких\nполномочий.\n<PAGE>\nИ, конечно, если бы я вышла замуж, на первом\nместе были бы обстоятельства семьи, но...\n<PAGE>\nК сожалению, у меня никогда не было\nромантических отношений..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_14",
+   "key": "808a1c71",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\nИными словами, шансы у меня не очень.\nПрактически нулевые."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_15",
+   "key": "e97a9675",
+   "ru": "Твоя пара прямо перед тобой"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_16",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_17",
+   "key": "d8e4b684",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\n...Прямо передо мной?\n<PAGE>\n<FACE_NORMAL>...\n<PAGE>\nЧЕГО-О-О-О?!\n<PAGE>\n<FACE_LOVE>Эм, э-э, а? Т-ты хочешь сказать...?\n<PAGE>\n<FACE_LOSS>Но я не могу... Не могу же я ставить тебя в\nтакое положение...\n<PAGE>\nК тому же нельзя выбирать спутницу жизни вот\nтак, сгоряча."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_18",
+   "key": "4d75bc37",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\n...<_____MYNAME_____>. Можно тебя спросить?\n<PAGE>\nПочему ты так стараешься ради меня?\n<PAGE>\n<FACE_LOSS>Если я уеду, моё место займёт другой ведущий.\nТебя это не касается."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_52",
+   "key": "2e1c4b49",
+   "ru": "(Что ей ответить?)"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_19",
+   "key": "78a11473",
+   "ru": "Потому что я люблю тебя, Стефани"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_20",
+   "key": "36e8ca1a",
+   "ru": "Потому что мы друзья"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_21",
+   "key": "ef546ad1",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nТы считаешь меня другом? ...Я так рада.\n<PAGE>\n<FACE_NORMAL>И всё же я не могу втянуть тебя в свои рабочие\nдела на всю жизнь, <_____MYNAME_____>.\n<PAGE>\nМне правда приятно знать, что ты так ко мне\nотносишься, но...\n<PAGE>\nВ конце концов, я даже замуж выйти не могу,\nпока Ассоциация не признает меня настоящим\nпрофи."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_22",
+   "key": "db62567d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nА...?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_23",
+   "key": "f205e848",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\n...!\n<PAGE>\nП-погоди секунду. Может, мне послышалось.\n<PAGE>\nЭм, что ты сейчас сказал?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_24",
+   "key": "9afcbc9d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nТы... любишь меня? Меня?\n<PAGE>\n<_____MYNAME_____>... Ты серьёзно?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_25",
+   "key": "3e24f3c0",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\n...<_____MYNAME_____>.\n<PAGE>\nДаже когда я так думала, я знала, что ни за что\nне смогу этого сказать.\n<PAGE>\nИначе я пошла бы против правил и своих\nсобственных убеждений. Но...\n<PAGE>\nНо... я больше не могу."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_26",
+   "key": "824626a7",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOVE>\r\n<WINDOW_PALPITATION_L>...Я чувствую то же самое. Я тоже тебя люблю.\n<PAGE>\nЗнаю, мы знакомы недолго, но я так тебя\nполюбила, что не знаю, куда себя деть.\n<PAGE>\nНо..."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_27",
+   "key": "83c73506",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\n...Как бы я ни чувствовала, я не могу выйти\nзамуж, пока Ассоциация не признает меня\nнастоящим профи.\n<PAGE>\nТак что выбора у меня нет... Придётся уехать.\nМне так жаль."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_28",
+   "key": "77154355",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\nОб этом можешь не волноваться, Стефани. Ты\nуже настоящий профи."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_29",
+   "key": "b8d0fd9b",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\nОх, сбежала, даже не дослушав...\n<PAGE>\nНу и смелая ты, раз заставила меня тащиться\nсюда на каблуках."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_30",
+   "key": "025a5801",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nШафран... прости, но о чём ты?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_31",
+   "key": "9a30f783",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\nМне ведь тоже предлагали переехать в новый\nрайон.\n<PAGE>\nНо мне сейчас совсем не хочется уезжать ещё\nдальше от дома, так что я сразу отказалась."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_32",
+   "key": "211d5936",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\nТогда-то я и узнала, что тебя тоже собираются\nперевести.\n<PAGE>\nНо я знаю, что ты в шоу-бизнесе куда дольше\nлюбого из нас. С самого детства, да?\n<PAGE>\nВот я и решила, что пора бы признать тебя\nнастоящим профи."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_33",
+   "key": "0b1afdee",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\nТак что мы с Дель Косой, Вуфио и Мацубой\nнаписали письма твоему мастеру.\n<PAGE>\nА вот и ответ, который мы получили.\nПрочитай."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_34",
+   "key": "38da4b27",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\n“Как опытный ведущий, вы проявили\nмастерство, чутьё и задор, достойные\nвысочайшего уровня.\n<PAGE>\nПоэтому, отмечая ваши заслуги, Ассоциация\nведущих с гордостью признаёт вас настоящим\nпрофессионалом.\n<PAGE>\nВ связи с вашим новым статусом приказ о\nпереезде на крайний север отменяется...”\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_L>...Чего-о-о-о?!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_35",
+   "key": "fb688974",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nСлава богу...! Значит, я могу остаться в\nВестауне!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_36",
+   "key": "b0c7954b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКак я счастлива... Мне всё-таки не придётся\nвсех покидать!\n<PAGE>\nОгромное спасибо, Шафран!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_37",
+   "key": "4ea4581b",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\nНе нужно меня благодарить.\n<PAGE>\nЯ просто решила, что ты и так уже почти\nнастоящий профи, так почему бы не попросить\nассоциацию тоже это признать.\n<PAGE>\n<FACE_LAUGH>А в конечном счёте, как бы мы тебя ни\nрекомендовали...\n<PAGE>\nВсё решал твой мастер.\n<PAGE>\n<FACE_NORMAL>Это всего лишь печать, официально\nподтверждающая то, что мы и так знали, но ты\nвсё равно можешь собой гордиться.\n<PAGE>\nЖду долгой совместной работы, так что\nпродолжай оттачивать мастерство, слышишь?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_38",
+   "key": "35b36c83",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\n...Есть!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_39",
+   "key": "27f5fe03",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>... Спасибо, что ты мой друг.\n<PAGE>\nОтныне буду рассчитывать на тебя ещё больше."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_40",
+   "key": "3015c707",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>...! Слава богу!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_41",
+   "key": "b02a334d",
+   "ru": "<FACE_SAFFRON><POS_RIGHT><FACE_NORMAL>\r\nБатюшки. Похоже, я сыграла роль Купидона,\nсама того не желая.\n<PAGE>\nЦветистые подробности того, что будет\nдальше, оставлю вам, безумная молодёжь.\nО-хо-хо."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_42",
+   "key": "f22bc245",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nШафран... Огромное спасибо!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_43",
+   "key": "f63716d7",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOVE>\r\nЭм... <_____MYNAME_____>?\n<PAGE>\nТак вот... похоже, переезжать мне всё-таки не\nпридётся.\n<PAGE>\n...А насчёт того, что ты сказал..."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_44",
+   "key": "ae55ab2c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOVE>\r\nПостой, это кольцо... Это мне?\n<PAGE>\nСпасибо, <_____MYNAME_____>...\n<PAGE>\nЯ... наверное, я уже сказала тебе, что чувствую.\n<PAGE>\nПожалуйста... позволь принять это кольцо.\nЖенись на мне, <_____MYNAME_____>."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_45",
+   "key": "864d0ec2",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R><_____MYNAME_____>. Сейчас я чувствую себя самой счастливой\nженщиной на свете.\n<PAGE>\nЯ всегда жила работой, так что в моей жизни\nбыло мало места для романтики.\n<PAGE>\nНо я всегда надеялась, что, когда придёт\nвремя, всё ещё будет возможно.\n<PAGE>\nМне хотелось полюбить и найти счастье.\n<PAGE>\nПереезжая сюда, я и не думала, что эта мечта\nсбудется так скоро...\n<PAGE>\nДавай сделаем друг друга счастливыми."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_46",
+   "key": "a35e0265",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nА? Свадебная церемония?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_47",
+   "key": "b7e1ab88",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЕсли подумать, ты прав. Но..."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_48",
+   "key": "86b99846",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\nНет, просто... если устраивать церемонию,\nпридётся пригласить всех ведущих со всего\nмира.\n<PAGE>\nЕсли уж устраивать, лучше бы что-нибудь\nскромное и тихое, только для нас двоих...\n<PAGE>\nНо вряд ли это возможно."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_49",
+   "key": "9801a71d",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\n...Прости.\n<PAGE>\n<FACE_NORMAL>Просто я так взволнована тем, что мы\nчувствуем друг к другу одно и то же."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_50",
+   "key": "46e5281b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за понимание.\n<PAGE>\nЭм, я тебе сказала, что люблю тебя. Если\nпозволишь, уточню..."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_LOVE_PRESENTER_3_51",
+   "key": "7e67bcbe",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Я имела в виду, что люблю тебя всем сердцем,\n<_____MYNAME_____>."
+  }
+ ]
+}

@@ -1,0 +1,334 @@
+{
+ "file": "ShopSGeneral1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_003",
+   "key": "c54505f3",
+   "ru": "<NAME_MOB_QINA>\r\nКомо май в универмаг “Поле-поле”! Смотри,\nсмотри!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_004",
+   "key": "c54505f3",
+   "ru": "<NAME_MOB_QINA>\r\nКомо май в универмаг “Поле-поле”! Смотри,\nсмотри!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_005",
+   "key": "0c3a6c54",
+   "ru": "Комо май в универмаг “Поле-поле”! Смотри,\nсмотри!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_006",
+   "key": "5ac23ce6",
+   "ru": "<NAME_MOB_QINA>\r\nК Фруктовой фиесте у нас особая упаковка!\nПопробуй-и-и!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GREETING_007",
+   "key": "67b75fdc",
+   "ru": "<NAME_MOB_QINA>\r\nС <BLUE>24-го по 26-е осени</BLUE> у нас особая упаковка к\n<BLUE>Фруктовой фиесте</BLUE>!\n<PAGE>\nВ эти дни упаковывай всё, что душе угодно!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_000",
+   "key": "daca8633",
+   "ru": "<NAME_MOB_QINA>\r\nЧто желаешь сегодня-я-я?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_001",
+   "key": "882db594",
+   "ru": "<NAME_MOB_QINA>\r\nЧто-нибудь ещё-ё-ё?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_003",
+   "key": "4beeb254",
+   "ru": "Расширить сумку"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_004",
+   "key": "67ec7107",
+   "ru": "Ещё расширить сумку"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_005",
+   "key": "a19fd4bf",
+   "ru": "Упаковка подарков"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_006",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_007",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_008",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_009",
+   "key": "c732316a",
+   "ru": "Упаковать"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_010",
+   "key": "0e8a532e",
+   "ru": "Распаковать"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_011",
+   "key": "c1aade51",
+   "ru": "<CANCEL_SELECT>\r\nНазад"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_CHOICE_012",
+   "key": "29f105aa",
+   "ru": "<NAME_MOB_QINA>\r\nКакая упаковка нужна? М-м-м?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_000",
+   "key": "7ccba40e",
+   "ru": "<NAME_MOB_QINA>\r\nПокупай всё-ё-ё!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_004",
+   "key": "cae47c08",
+   "ru": "<NAME_MOB_QINA>\r\nУ нас но-о-овые товары, если интересно!\nОбязательно! Глянь!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_ITEM_005",
+   "key": "048603c0",
+   "ru": "<NAME_MOB_QINA>\r\nМы с тобой сделали отличные новые товары.\nГлянь! Же!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_000",
+   "key": "07249a2a",
+   "ru": "<NAME_MOB_QINA>\r\nСумку побольше? Без про-о-облем!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_001",
+   "key": "598f2a67",
+   "ru": "<NAME_MOB_QINA>\r\nЕщё больше сумку? Бу-у-удет!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_002",
+   "key": "4726206e",
+   "ru": "<NAME_MOB_QINA>\r\nС тебя <BLUE><MOJI0></BLUE>G. Ла-а-адно?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_003",
+   "key": "a584bb8f",
+   "ru": "Купить сумку"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_004",
+   "key": "ab5f605a",
+   "ru": "<CANCEL_SELECT>\r\nПока нет"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_005",
+   "key": "4243034d",
+   "ru": "<NAME_MOB_QINA>\r\nДеньги, деньги, деньги ― вот что нужно!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_BAG_UP_006",
+   "key": "651990d1",
+   "ru": "<NAME_MOB_QINA>\r\nСумка теперь гора-а-аздо больше! Здорово?\nПотрясающе?!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_000",
+   "key": "cf564f7f",
+   "ru": "<NAME_MOB_QINA>\r\nТак! Что упаковать? И в какую упаковку? Давай\nв рифму!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_002",
+   "key": "d6d95051",
+   "ru": "Сколько упаковать?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_004",
+   "key": "16e47028",
+   "ru": "<NAME_MOB_QINA>\r\nГотово! Готово!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_005",
+   "key": "5747a19f",
+   "ru": "<NAME_MOB_QINA>\r\nНечего распаковывать, если ничего не\nупаковано!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_006",
+   "key": "4e47f665",
+   "ru": "<NAME_MOB_QINA>\r\nЛа-а-адно! С чего снять упаковку?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_007",
+   "key": "14da8735",
+   "ru": "Точно убрать это?"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_008",
+   "key": "b48e5492",
+   "ru": "<NAME_MOB_QINA>\r\nТут нечего упаковать!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_NAME",
+   "key": "bf3aba42",
+   "ru": "Поле-поле"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GOODBYE_000",
+   "key": "25d1dd1a",
+   "ru": "<NAME_MOB_QINA>\r\nМахало! Заходи ещё-ё-ё!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_GOODBYE_001",
+   "key": "709d8fd2",
+   "ru": "Махало! Заходи ещё-ё-ё!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MSG_SHOP_GENERAL1_WRAPPING_START",
+   "key": "f4fc3066",
+   "ru": "<NAME_MOB_QINA>\r\nАх да, теперь я упаковываю подарки!\n<PAGE>\nЗа плату положу что захочешь в красивую\nплетёную коробку!\n<PAGE>\nПолучатель обрадуется ещё больше. Попробуй,\nпопробуй!"
+  }
+ ]
+}

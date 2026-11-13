@@ -1,0 +1,677 @@
+{
+ "file": "Pet_EyeSight_System",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_00",
+   "key": "786493c6",
+   "ru": "(Похоже, снова собачья шкура. Погуляю по\nгороду, пока не вернётся человеческий облик.)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_01",
+   "key": "d6e1bf5f",
+   "ru": "(Хм... Куда бы пойти?)"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_02",
+   "key": "aeb2cf9a",
+   "ru": "(Пора в путь.)"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_02_A",
+   "key": "c606c818",
+   "ru": "На юг Уэстауна"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_03_A",
+   "key": "325efd98",
+   "ru": "К железной дороге"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_04_A",
+   "key": "7aca24ee",
+   "ru": "К бронзовой статуе"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_05_A",
+   "key": "e48754e0",
+   "ru": "К ресторану"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_06_A",
+   "key": "726dd9fd",
+   "ru": "К дому Форда"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_07_A",
+   "key": "88d13e81",
+   "ru": "К мельнице"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_02_J",
+   "key": "cbc700f8",
+   "ru": "К оптовой лавке"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_03_J",
+   "key": "feeb2867",
+   "ru": "К чайной"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_04_J",
+   "key": "20323f09",
+   "ru": "К дому Касуми"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_05_J",
+   "key": "48f00715",
+   "ru": "К берегу реки"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_06_J",
+   "key": "82b7e500",
+   "ru": "К маленькому святилищу"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_07_J",
+   "key": "9ce44a5f",
+   "ru": "На юг Цуюкусы"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_02_S",
+   "key": "b80ecc95",
+   "ru": "На юг Лулукоко"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_03_S",
+   "key": "0b32d095",
+   "ru": "К руинам"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_04_S",
+   "key": "8587ba79",
+   "ru": "К кухне"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_05_S",
+   "key": "fd52e7ba",
+   "ru": "К дому Хаулани"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_06_S",
+   "key": "255226a8",
+   "ru": "К дому близняшек"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_07_S",
+   "key": "2ed3f9af",
+   "ru": "К гостинице"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_TREASURE_00",
+   "key": "b23d1187",
+   "ru": "(Что это там блестит? Пойду посмотрю.)"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_TREASURE_01",
+   "key": "960c0b32",
+   "ru": "Здесь нашлось: <BLUE><____ITEMNAME0____></BLUE>! Здорово!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_CLEAR_00",
+   "key": "568e0548",
+   "ru": "(Получилось! Как хорошо, что удалось\nпомочь.)"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_CLEAR_01",
+   "key": "b19416d1",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Я всё видела!\n<PAGE>\nПомогать людям, даже превратившись в\nсобаку... Ты чудо, <_____MYNAME_____>. ♪\n<PAGE>\nВ благодарность за помощь дарю тебе этот\nподарок, <_____MYNAME_____>. Прими, пожалуйста. ♪"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_CLEAR_02",
+   "key": "ff211ce5",
+   "ru": "(Получено <BLUE>1000G</BLUE>! Ура! ♪)"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_CLEAR_03",
+   "key": "75918847",
+   "ru": "(С жителями стало чуточку ближе! Ура! ♪)"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_CLEAR_04",
+   "key": "e9b07e6d",
+   "ru": "(Ура! Очки связи с городом выросли! ♪)"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_CLEAR_05",
+   "key": "092e9204",
+   "ru": "(Пора снова становиться человеком. Надо\nвозвращаться.)"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_CLEAR_06",
+   "key": "4e85e78a",
+   "ru": "(Ничего...)"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_00",
+   "key": "d850e477",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_SAD>\r\nПроклятье... Не могу найти свою драгоценную\nприправу. Неужто где-то обронил?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_01",
+   "key": "3ca5119e",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_SAD>\r\nХм, пропала наживка для рыбалки. Неужто\nгде-то обронил?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_02",
+   "key": "6f72e64e",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_SAD>\r\nХм... Часть пойманной рыбы пропала. Неужто\nгде-то забыл?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_03",
+   "key": "dffe3c33",
+   "ru": "(Марко в беде! Помогу ему искать.)"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_04",
+   "key": "f7c6d6dd",
+   "ru": "(Где поискать?)"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_05",
+   "key": "7aca24ee",
+   "ru": "У бронзовой статуи"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_06",
+   "key": "e273bf8a",
+   "ru": "Юг Уэстауна"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_07",
+   "key": "325efd98",
+   "ru": "У железной дороги"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_08",
+   "key": "984221c5",
+   "ru": "(Пойдём посмотрим.)"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_09",
+   "key": "f9fc0f99",
+   "ru": "(Есть! Пора назад к Марко.)"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_RestaurantOldman_10",
+   "key": "759bfd4d",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nО-о, нашёл для меня, а? Вот умница! Спасибо!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_00",
+   "key": "44c041c2",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nХм... Где Меган? У меня для неё кое-что есть."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_01",
+   "key": "e95bd8ce",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nГде Лизетта? Хотел спросить её насчёт\nпосылки, что она дала доставить."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_02",
+   "key": "f92236eb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nКуда подевался Фрэнк? У меня для него\nписьмо..."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_03",
+   "key": "9d402c38",
+   "ru": "(Уэйн в беде! Помогу ему искать.)"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_04",
+   "key": "f7c6d6dd",
+   "ru": "(Где поискать?)"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_05",
+   "key": "7aca24ee",
+   "ru": "У бронзовой статуи"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_06",
+   "key": "e273bf8a",
+   "ru": "Юг Уэстауна"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_07",
+   "key": "325efd98",
+   "ru": "У железной дороги"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_08",
+   "key": "984221c5",
+   "ru": "(Пойдём посмотрим.)"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_09",
+   "key": "b29177a8",
+   "ru": "(Есть! Теперь отнесём.)"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Postman_10",
+   "key": "8810d4b4",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЭто мне? О-о, спасибо! Ты меня просто\nвыручил, дружок!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_00",
+   "key": "3a858027",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nХм? Куда делся покупатель? Только что был\nздесь..."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_01",
+   "key": "d5fb8f41",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nОх уж этот Юдзуки! Куда он делся? Хотел у\nнего кое-что спросить..."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_02",
+   "key": "7ae4b537",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nГде Сидзу? Хотел спросить её о товаре, что\nтолько что пришёл..."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_03",
+   "key": "0a63b853",
+   "ru": "(Хината в беде! Помогу ему искать.)"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_04",
+   "key": "f7c6d6dd",
+   "ru": "(Где поискать?)"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_05",
+   "key": "feeb2867",
+   "ru": "У чайной"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_06",
+   "key": "828939ea",
+   "ru": "Юг Цуюкусы"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_07",
+   "key": "82b7e500",
+   "ru": "У маленького святилища"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_08",
+   "key": "984221c5",
+   "ru": "(Пойдём посмотрим.)"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_09",
+   "key": "f5eb46eb",
+   "ru": "(Есть! Пора назад.)"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Apprentice_10",
+   "key": "4435a547",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТы меня здорово выручил, дружок. Спасибо!"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_00",
+   "key": "3174807e",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LOSS>\r\nПропал платок для упаковки, о котором просил\nпокупатель. Ч-что же делать...?"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_01",
+   "key": "8e167bb4",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LOSS>\r\nПропал платок для упаковки, о котором просил\nХината. Ч-что же делать...?"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_02",
+   "key": "0c6060e3",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LOSS>\r\nПропал платок для упаковки, о котором просил\nИттэцу. Ч-что же делать...?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_03",
+   "key": "55ed1641",
+   "ru": "(Сумомо в беде! Помогу ей искать платок.)"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_04",
+   "key": "f7c6d6dd",
+   "ru": "(Где поискать?)"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_05",
+   "key": "feeb2867",
+   "ru": "У чайной"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_06",
+   "key": "99375cb3",
+   "ru": "Юг Цуюкусы"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_07",
+   "key": "82b7e500",
+   "ru": "У маленького святилища"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_08",
+   "key": "984221c5",
+   "ru": "(Пойдём посмотрим.)"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_09",
+   "key": "e516a1db",
+   "ru": "(Нашёлся! Пора отнести его Сумомо.)"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_MigrantGirl_10",
+   "key": "cfd55569",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nАх! Это же мой платок...! Огромное спасибо!"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_00",
+   "key": "127361d5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nНу вот... Куда подевалась Силука? Нет у меня\nна это времени..."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_01",
+   "key": "f2ef92d4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nКуда, чёрт возьми, подевался Лудус? Вечно его\nнет, когда нужен!"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_02",
+   "key": "6d070394",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nКуда, чёрт возьми, подевалась бабуля? Я ведь\nтолько что заварила ей чай!"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_03",
+   "key": "df8740fb",
+   "ru": "(Илука в беде! Помогу ей искать.)"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_04",
+   "key": "f7c6d6dd",
+   "ru": "(Где поискать?)"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_05",
+   "key": "6b4f3352",
+   "ru": "Юг Лулукоко"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_06",
+   "key": "0b32d095",
+   "ru": "У руин"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_07",
+   "key": "8587ba79",
+   "ru": "У кухни"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_08",
+   "key": "984221c5",
+   "ru": "(Пойдём посмотрим.)"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_09",
+   "key": "00b1134d",
+   "ru": "(Есть! Теперь назад к Илуке.)"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_TwinOlder_10",
+   "key": "a4cff8d4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nХм...? Эй, ты случайно не...\n<PAGE>\nДа нет, не может быть. Как бы то ни было,\nмахало, малыш!"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_00",
+   "key": "f88fa485",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LOSS>\r\nХм? Неужели я где-то уронил гравюру?\n...О-ох, профессору это не понравится."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_01",
+   "key": "36d372d5",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LOSS>\r\nХм? Неужели я где-то уронил записи?\n...Профессор будет на меня злиться."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_02",
+   "key": "de1e0ddb",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LOSS>\r\nХм? ...Куда же я дел глиняную фигурку?\nА-а-а, только бы профессор не узнала..."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_03",
+   "key": "79a23847",
+   "ru": "(Лотус в беде. Помогу ему искать!)"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_04",
+   "key": "f7c6d6dd",
+   "ru": "(Где поискать?)"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_05",
+   "key": "6b4f3352",
+   "ru": "Юг Лулукоко"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_06",
+   "key": "0b32d095",
+   "ru": "У руин"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_07",
+   "key": "8587ba79",
+   "ru": "У кухни"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_08",
+   "key": "984221c5",
+   "ru": "(Пойдём посмотрим.)"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_09",
+   "key": "22937c13",
+   "ru": "(Есть! Пора назад к Лотусу.)"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_ANIMAL_PET_SYSTEM_SPY_Assistant_10",
+   "key": "2ce61354",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nАх, ты нашёл это для меня? Ха-ха, да ты\nумнее меня! Спасибо!"
+  }
+ ]
+}

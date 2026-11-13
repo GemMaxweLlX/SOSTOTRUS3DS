@@ -1,0 +1,642 @@
+{
+ "file": "Family_ChildGrowth2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Postman_00",
+   "key": "ad4bc227",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nБерегись! Сейчас поймаю!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Postman_01",
+   "key": "1a4902c8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Postman_02",
+   "key": "bff8709c",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>. Поздновато ты сегодня встаёшь."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Postman_03",
+   "key": "5d165e82",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы с папой играем в догонялки!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Postman_04",
+   "key": "a713eac1",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nХа-ха. Прости. Немного увлёкся.\n<PAGE>\nДаже не верится, что мы с <CHILD_NAME> уже можем вот так\nиграть!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Postman_05",
+   "key": "7d75cb62",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе волнуйся. Впредь буду осторожнее.\n<PAGE>\nБегать в доме опасно, <CHILD_NAME>. В следующий раз\nпоиграем на улице.\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас о-о-очень\nлюблю! <RED>∀</RED>"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Postman_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Doctor_00",
+   "key": "6caaec94",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nСтой! От меня не уйдёшь!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Doctor_01",
+   "key": "1a4902c8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Doctor_02",
+   "key": "b92c389f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nО, здравствуй, <_____MYNAME_____>. Ты сегодня встаёшь позже\nобычного."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Doctor_03",
+   "key": "5d165e82",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы с папой играем в догонялки!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Doctor_04",
+   "key": "071219f7",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nПрошу прощения. Видимо, я не подумал.\n<PAGE>\nНаверное, я так залюбовался: мы с <CHILD_NAME> теперь\nможем без труда бегать и играть!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Doctor_05",
+   "key": "e6a1bd05",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТы, конечно, права. Я позабочусь, чтобы это не\nповторилось.\n<PAGE>\n<CHILD_NAME>, беготня в доме может закончиться травмой.\nОтныне будем играть на улице.\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас о-о-очень\nлюблю! <RED>∀</RED>"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Doctor_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Chaser_00",
+   "key": "a45ebaeb",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nБерегись, <CHILD_NAME>! Сейчас поймаю!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Chaser_01",
+   "key": "1a4902c8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Chaser_02",
+   "key": "8dd729fa",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nО, доброе утро, <_____MYNAME_____>. Надеюсь, мы тебя не\nразбудили своей вознёй."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Chaser_03",
+   "key": "5d165e82",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы с папой играем в догонялки!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Chaser_04",
+   "key": "fc87c4fc",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOSS>\r\nОй, прости, пожалуйста. Видимо, я не подумал.\n<PAGE>\nМеня всё ещё поражает, что мы с <CHILD_NAME> уже можем\nвот так играть."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Chaser_05",
+   "key": "322eb0a4",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nВпредь буду внимательнее.\n<PAGE>\nЗапомни, <CHILD_NAME>: бегать в доме опасно. В следующий\nраз я буду ловить тебя на улице.\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас о-о-очень\nлюблю! <RED>∀</RED>"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Chaser_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Apprentice_00",
+   "key": "702ee7d5",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nБеги, <CHILD_NAME>! От меня не уйдёшь!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Apprentice_01",
+   "key": "1a4902c8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Apprentice_02",
+   "key": "8992d1fd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>! Доброе утро! Только проснулась, да?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Apprentice_03",
+   "key": "5d165e82",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы с папой играем в догонялки!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Apprentice_04",
+   "key": "3382e3fc",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nВиноват, виноват. Так разыгрался, что не\nподумал.\n<PAGE>\nНо разве не здорово? <CHILD_NAME> теперь может бегать и\nиграть в такие игры!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Apprentice_05",
+   "key": "4332aa5c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nБольше ты нас на этом не поймаешь. То есть,\nэ-э, мы больше не будем так играть в доме!\n<PAGE>\nЭй, <CHILD_NAME>? Тут можно ушибиться, так что в\nследующий раз играем на улице, ладно?\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас о-о-очень\nлюблю! <RED>∀</RED>"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Apprentice_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Craftman_00",
+   "key": "8d469765",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nОт меня не убежишь! Я иду!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Craftman_01",
+   "key": "1a4902c8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Craftman_02",
+   "key": "3a41982b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nАлоха, <_____MYNAME_____>. Решила сегодня поспать подольше?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Craftman_03",
+   "key": "5d165e82",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы с папой играем в догонялки!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Craftman_04",
+   "key": "a4e5aaca",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nПрости, <_____MYNAME_____>. Кажется, я увлёкся.\n<PAGE>\nЯ просто так рад, что <CHILD_NAME> теперь может вот так\nбегать и играть!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Craftman_05",
+   "key": "baf3dbe8",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно, ты права. Надо быть осторожнее.\n<PAGE>\n<CHILD_NAME>? Носиться по дому опасно, можно ушибиться,\nтак что отныне в догонялки играем на улице,\nда?\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас о-о-очень\nлюблю! <RED>∀</RED>"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Craftman_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Florist_00",
+   "key": "be73b394",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nА ну вернись! ♪ Не уйдёшь!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Florist_01",
+   "key": "1a4902c8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Florist_02",
+   "key": "973f422c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>. Поздновато сегодня встаёшь?"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Florist_03",
+   "key": "9a4a6908",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы с мамой играем в догонялки!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Florist_04",
+   "key": "f55077f0",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nОх, батюшки! Мне следовало об этом\nподумать.\n<PAGE>\nКак подумаю, что <CHILD_NAME> уже может вот так бегать и\nиграть, всё остальное из головы вылетает."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Florist_05",
+   "key": "3e3d0340",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nВ следующий раз буду осторожнее.\n<PAGE>\n<CHILD_NAME>, бегать здесь опасно, можно ушибиться, так\nчто отныне играем на улице, хорошо?\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас о-о-очень\nлюблю! <RED>∀</RED>"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Florist_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TeaGirl_00",
+   "key": "6e023cee",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nДумаешь, ты быстрее, малыш? А я быстрее!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TeaGirl_01",
+   "key": "1a4902c8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TeaGirl_02",
+   "key": "cd9fa31e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПривет, <_____MYNAME_____>! Ну ты сегодня и заспался."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TeaGirl_03",
+   "key": "9a4a6908",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы с мамой играем в догонялки!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TeaGirl_04",
+   "key": "23014a2d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nОй, прости! Вот я глупая!\n<PAGE>\nНо разве не здорово, что <CHILD_NAME> уже может вот так\nбегать и играть? ♪"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TeaGirl_05",
+   "key": "264a9520",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНо тем больше причин быть осторожнее!\n<PAGE>\n<CHILD_NAME>, помним: в доме бегать опасно, так что в\nдогонялки будем играть на улице.\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас о-о-очень\nлюблю! <RED>∀</RED>"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TeaGirl_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Teacher_00",
+   "key": "07c349d3",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nБерегись, а то поймаю!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Teacher_01",
+   "key": "baa19fb8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Teacher_02",
+   "key": "bc9b1584",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>. Похоже, ты сегодня проспал."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Teacher_03",
+   "key": "9a4a6908",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы с мамой играем в догонялки!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Teacher_04",
+   "key": "dd30419f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nАх, прошу прощения. Не знаю, что на меня\nнашло.\n<PAGE>\nНаверное, меня так впечатляет, что <CHILD_NAME> теперь\nможет играть в такие игры..."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Teacher_05",
+   "key": "9478b5d2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nНо да. С этим нужно заканчивать. Больше\nникакой беготни в доме.\n<PAGE>\nЕсли хотим так играть, <CHILD_NAME>, придётся делать это\nна улице. Безопасность прежде всего.\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас о-о-очень\nлюблю! <RED>∀</RED>"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Teacher_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinOlder_00",
+   "key": "03c2f05b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nОй, даже не думай, что от меня уйдёшь!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinOlder_01",
+   "key": "baa19fb8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinOlder_02",
+   "key": "70388a48",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nО, привет, <_____MYNAME_____>! Только проснулся, соня?"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinOlder_03",
+   "key": "9a4a6908",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы с мамой играем в догонялки!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinOlder_04",
+   "key": "b778613d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nПрости, ха-ха. Кажется, мы немного\nразошлись.\n<PAGE>\nЯ просто так рада, что <CHILD_NAME> теперь может вот так\nбегать и играть!"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinOlder_05",
+   "key": "18216e2a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nОх, ну ладно, ты прав. Впредь буду\nосторожнее.\n<PAGE>\nЭй, <CHILD_NAME>? Тут можно ушибиться, так что больше\nникаких догонялок в доме, ладно? ♪\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас о-о-очень\nлюблю! <RED>∀</RED>"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinOlder_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinYounger_00",
+   "key": "75426af7",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nТебе... не уйти... так просто, <CHILD_NAME>!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinYounger_01",
+   "key": "baa19fb8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinYounger_02",
+   "key": "7a4ed179",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nО, <_____MYNAME_____>. Только проснулся?"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinYounger_03",
+   "key": "9a4a6908",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы с мамой играем в догонялки!"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinYounger_04",
+   "key": "8fee9733",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nОй, прости... Я не подумала...\n<PAGE>\nЯ просто так рада, что <CHILD_NAME> теперь может вот так\nбегать..."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinYounger_05",
+   "key": "c1200df0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНо... больше никакой беготни в доме.\n<PAGE>\n<CHILD_NAME>... Ради безопасности... Отныне играем в\nдогонялки на улице, хорошо?\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас о-о-очень\nлюблю! <RED>∀</RED>"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_TwinYounger_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Inari_00",
+   "key": "7b9fa5f1",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nСтой, проказник!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Inari_01",
+   "key": "baa19fb8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Inari_02",
+   "key": "b52fbd6c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nО, <_____MYNAME_____>! Ты же упускаешь беглеца."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Inari_03",
+   "key": "1fb22d2a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМы играем в догонялки!"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Inari_04",
+   "key": "0ecaade4",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nЭтим утром меня разбудил голос <CHILD_NAME>. Мне стало\nлюбопытно...\n<PAGE>\n...а тут <CHILD_NAME> носится с неуёмной энергией. От такого\nзрелища теплеет на сердце."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Inari_05",
+   "key": "87c2278a",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nПонимаю. Прошу... прошу прощения. Это\nверно. Мы больше не будем бегать в доме.\n<PAGE>\nВсё слышно, <CHILD_NAME>? Бегать по дому опасно.\n<PAGE>\nОтныне будем играть в догонялки на улице.\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас люблю! <RED>∀</RED>"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Inari_06",
+   "key": "efe9c052",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Wantatan_00",
+   "key": "0add098a",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nБеги, а то поймаю!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Wantatan_01",
+   "key": "baa19fb8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Wantatan_02",
+   "key": "8b1a20f5",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>! Ну ты сегодня и поспала."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Wantatan_03",
+   "key": "8b7773e7",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЯ играю в догонялки с папой!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Wantatan_04",
+   "key": "2e54b98a",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LOSS>\r\nАх... Извини. Увлёкся игрой и забыл о\nдомашних правилах.\n<PAGE>\nВидеть, как <CHILD_NAME> носится по дому, ― и я не\nудержался и присоединился."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Wantatan_05",
+   "key": "a3457bca",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nНе волнуйся. Больше не будем бегать в доме.\n<PAGE>\n<FACE_NORMAL><CHILD_NAME>, мама права. Бегать в доме опасно, так что в\nследующий раз поиграем на улице.\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас люблю! <RED>∀</RED>"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Wantatan_06",
+   "key": "1429088d",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Presenter_00",
+   "key": "df29fc49",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nХи-хи, сейчас поймаю!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>Ва-ха-ха! ♪"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Presenter_01",
+   "key": "baa19fb8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, помоги! Спаси меня!"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Presenter_02",
+   "key": "898f0a5e",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>! Ну ты сегодня и отоспался, а?"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Presenter_03",
+   "key": "07f910f7",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЯ играю в догонялки с мамой!"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Presenter_04",
+   "key": "78d0ffa5",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\nОй... В-вот именно. Упс!\n<PAGE>\nМне было так весело с <CHILD_NAME>, что я совсем забыла\nправило про беготню в доме."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Presenter_05",
+   "key": "f043b99a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nТы прав. Отныне в доме мы ходим чинно и\nспокойно.\n<PAGE>\n<CHILD_NAME>, бегать в доме опасно. В следующий раз\nпоиграем на улице, ладно? Там можно бегать\nсколько угодно!\n<PAGE>\n<FACE_CHILD><POS_RIGHT><FACE_LAUGH>Хорошо! Прости, <PARENT>. В следующий раз будем\nиграть на улице!\n<PAGE>\nИ <PARENT> тоже с нами! Папа, мама... Я вас люблю! <RED>∀</RED>"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_2_Presenter_06",
+   "key": "1429088d",
+   "ru": "(<CHILD_NAME> растёт с каждым днём!)\n<PAGE>\n(Впереди нас точно ждёт ещё много новых\nчудесных воспоминаний.)"
+  }
+ ]
+}

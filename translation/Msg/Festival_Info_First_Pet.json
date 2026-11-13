@@ -1,0 +1,82 @@
+{
+ "file": "Festival_Info_First_Pet",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_00",
+   "key": "6154d29d",
+   "ru": "<FACE_PRESENTER>\r\n<_____MYNAME_____>? Тук-тук, я вхожу!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_00_MARRIED",
+   "key": "a6b478eb",
+   "ru": "<FACE_PRESENTER>\r\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_01",
+   "key": "0206eb9a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nДо-о-оброе утро, <_____MYNAME_____>!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_01_MARRIED",
+   "key": "69c57b1b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПроснулись? Доброе утро! ♪"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_02",
+   "key": "6e1e47d6",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня я пришла рассказать вам о\nдолгожданном <RED>Параде питомцев</RED>."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_02_MARRIED",
+   "key": "af6d4ea0",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПодумала, вам будет интересно узнать о\nпредстоящем <RED>Параде питомцев</RED>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_03",
+   "key": "ffccec35",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nКак можно догадаться, Парад питомцев ― это\nконкурс, где судят ваших милых пушистых\nдрузей.\n<PAGE>\nОн проходит каждый год <BLUE>22 весны</BLUE>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_04",
+   "key": "a215267e",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЕсли хотите участвовать, подойдите ко мне на\n<GREEN>перекрёсток</GREEN> <BLUE>с 10:00 до 13:00</BLUE>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_05",
+   "key": "020bbf08",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nУ Парада питомцев тоже есть тема. Помните:\nесли выставить нужное животное, оценка будет\nвыше.\n<PAGE>\nВ классе Новичок темы нет! Можно прийти с\nлюбым питомцем!\n<PAGE>\nЕсли у вас есть питомец, подумайте об участии."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_06",
+   "key": "8fb0060f",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nНа этом всё. Этот праздник бывает лишь раз в\nгоду, так что я бы на вашем месте обязательно\nпоучаствовала.\n<PAGE>\nЖдём вас, <_____MYNAME_____>!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_PET_06_MARRIED",
+   "key": "7b2abc57",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nНа этом всё. Этот конкурс бывает лишь раз в\nгоду, так что не упусти шанс повеселиться!\n<PAGE>\nБолеть за тебя при всех я не могу...\n<PAGE>\n...но знай, в душе я болею за тебя!\n<PAGE>\nНу, а я пошла рассказывать о празднике\nостальным! До встречи! ♪"
+  }
+ ]
+}

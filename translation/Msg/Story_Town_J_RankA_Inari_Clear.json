@@ -1,0 +1,61 @@
+{
+ "file": "Story_Town_J_RankA_Inari_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_CLEAR_00",
+   "key": "3d28c027",
+   "ru": "<FACE_TEAOWNER>\r\n<_____MYNAME_____>! Не спишь уже?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_CLEAR_01",
+   "key": "1489cbf3",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nПрости, что донимаю в такой час, <_____MYNAME_____>.\n<PAGE>\nНо раз материалы теперь у меня, у нас есть всё,\nчтобы обновить святилище.\n<PAGE>\nНечего время терять, так что сегодня весь\nгород соберётся и сделает дело.\n<PAGE>\nЧто скажешь? Придёшь помочь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_CLEAR_02",
+   "key": "82c3dab9",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nОтлично, отлично! Рад, что у тебя, как всегда,\nстолько энтузиазма!\n<PAGE>\nНу, куй железо, пока горячо! Пошли чинить!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_CLEAR_03",
+   "key": "84906d90",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nВот и всё! Отличная работа, народ! Святилище\nполностью обновлено и смотрится\nвеликолепно!\n<PAGE>\nУверен, Инари это очень порадует!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_CLEAR_04",
+   "key": "797d81a0",
+   "ru": "(Святилище Инари обновили!)\n<PAGE>\n(Интересно, понравится ли Инари...)"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_CLEAR_05",
+   "key": "5eed9349",
+   "ru": "<FACE_INARI>\r\n...<_____MYNAME_____>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_CLEAR_06",
+   "key": "47fb779c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nМне пришлось наблюдать издали, чтобы не\nмешать. Благодарю за труды.\n<PAGE>\nМне радостно, что жители так старались ради\nменя."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKA_INARI_CLEAR_07",
+   "key": "ac074b12",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЯ по мере сил слежу за святилищем, но всегда\nприятно, когда кто-то оказывает услугу и\nприбирает его за тебя."
+  }
+ ]
+}

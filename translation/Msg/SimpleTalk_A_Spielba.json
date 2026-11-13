@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Spielba",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "8b7096c1",
+   "ru": "О, привет."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "56642bfb",
+   "ru": "<NAME_MOB_SPIELBA>\r\nХм... Сыграем в карты? Нет?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "630025e5",
+   "ru": "<NAME_MOB_SPIELBA>\r\nВот бы случилось что-то захватывающее."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "3a88f878",
+   "ru": "<NAME_MOB_SPIELBA>\r\nЕсть предложения ― я весь внимание."
+  }
+ ]
+}

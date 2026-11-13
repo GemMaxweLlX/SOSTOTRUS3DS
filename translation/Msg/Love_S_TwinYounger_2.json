@@ -1,0 +1,215 @@
+{
+ "file": "Love_S_TwinYounger_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_00",
+   "key": "2834918e",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nО. <_____MYNAME_____>. Тебе что-то нужно?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_01",
+   "key": "bb9cb0de",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nЧто я делаю?\n<PAGE>\nНаблюдаю за всей твоей фермой...\n<PAGE>\n...с самого рассвета."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_02",
+   "key": "a1f35489",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nСначала я пришла только собрать немного\nцветов.\n<PAGE>\nТут много полевых цветов, которые не растут в\nЛулукоко."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_03",
+   "key": "389d7bb9",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nНо пока я их собирала, кое-что заметила.\n<PAGE>\nУ всех растений здесь красивая аура.\n<PAGE>\n...Нет. Не только у растений.\n<PAGE>\nВсё здесь. Всё наполнено красивой и чистой\nаурой.\n<PAGE>\n<FACE_LAUGH>Деревья. Растения. Почва. Все счастливы и\nживы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_04",
+   "key": "db6b6827",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nЯ подумала, что если стоять тихо и слушать\nголос природы, может, пойму почему.\n<PAGE>\nВот и стою, слушаю. Смотрю.\n<PAGE>\nНо не обращай на меня внимания. Я не\nпомешаю.\n<PAGE>\n...Или ты тоже хочешь посмотреть?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_05",
+   "key": "1e47bcd9",
+   "ru": "Смотреть вместе с Силукой"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_06",
+   "key": "61fe96f5",
+   "ru": "Я сейчас немного занят..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_07",
+   "key": "f6ba8951",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nЛадно, как хочешь. Я ещё немного тут постою."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_08",
+   "key": "a59d113f",
+   "ru": "(Интересно, как там Силука. Может,\nпроверить.)"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_09",
+   "key": "eff356f3",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_10",
+   "key": "eff356f3",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_11",
+   "key": "cd15d7b2",
+   "ru": "(Что-то я начинаю уставать.)"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_12",
+   "key": "e06a7376",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nСдаться"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_13",
+   "key": "1a004167",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nСмотреть дальше"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_14",
+   "key": "eff356f3",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_15",
+   "key": "eff356f3",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_16",
+   "key": "afcb3caf",
+   "ru": "(Голова уже кружится...)"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_17",
+   "key": "ba30af23",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_18",
+   "key": "6e00b88d",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\nВо...\n<PAGE>\nВо...ды..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_19",
+   "key": "b00e4ed4",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Фух.\n<PAGE>\nПохоже, я упала.\n<PAGE>\nЕсли подумать, я весь день ничего не пила."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_20",
+   "key": "d9668b33",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nЭто ты сделал? ...Вкусно.\n<PAGE>\nМне немного лучше."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_21",
+   "key": "90a8aebd",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\nЭ кала маи, <_____MYNAME_____>.\n<PAGE>\nКогда я чем-то увлекаюсь, забываю обо всём\nостальном.\n<PAGE>\nВидно, опять так вышло. Илука тоже вечно\nругает меня за это.\n<PAGE>\nВ общем. Я как-нибудь тебе отплачу."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_22",
+   "key": "31a89209",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nХм...? Тебе ничего не нужно?\n<PAGE>\nТы просто рад, что я в порядке?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_23",
+   "key": "e02cb8b7",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...\n<PAGE>\nЛадно... Махало."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_24",
+   "key": "3ec5ea9b",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nТеперь я знаю, почему эта ферма полна таких\nкрасивых аур.\n<PAGE>\nЭто благодаря тебе, <_____MYNAME_____>.\n<PAGE>\nТы вкладываешь всю душу в заботу об урожае\nи животных.\n<PAGE>\nИ природа отвечает на твою доброту чистотой.\n<PAGE>\nБабуля говорит, что от любви люди хорошеют.\n<PAGE>\nУверена, с растениями и животными так же."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_25",
+   "key": "fff46072",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nНе понимаешь?\n<PAGE>\nНичего, если не понимаешь.\n<PAGE>\nПо-моему, это тоже одно из твоих достоинств."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_26",
+   "key": "bf355d91",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Мне пора.\n<PAGE>\nМне уже гораздо лучше, а Илука, наверное,\nволнуется.\n<PAGE>\nПока, <_____MYNAME_____>."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_27",
+   "key": "26fd53c0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nВы все очень любите <_____MYNAME_____>, да?\n<PAGE>\nПонимаю. Он очень похож на солнце.\n<PAGE>\nВ такого кто угодно влюбится."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_28",
+   "key": "79cf2a3f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nО. Точно. Возьми этот цветок обратно.\n<PAGE>\nКажется, с тобой ему будет лучше."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_2_29",
+   "key": "a58e72a9",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nДаже странно, как тут уютно..."
+  }
+ ]
+}

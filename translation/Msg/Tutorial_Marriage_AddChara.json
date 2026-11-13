@@ -1,0 +1,173 @@
+{
+ "file": "Tutorial_Marriage_AddChara",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_00",
+   "key": "bb4717ab",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nГав-вот это да... Ущипни меня, наверное, я\nсплю.\n<PAGE>\nВот уж не думал, что мы обменяемся клятвами\nв таком чудо-месте."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_01",
+   "key": "be92f21a",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nНу и насыщенный выдался денёк.\n<PAGE>\nС меня наконец сняли чары, ты сказала, что\nлюбишь меня...\n<PAGE>\nИ пусть без большого гулянья, но у нас даже\nбыла своя свадьба.\n<PAGE>\nТакой день не забудешь."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_02",
+   "key": "03ee79e2",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nРаньше я спал в джунглях за деревней, но...\n<PAGE>\nТеперь, выходит, буду жить в отличном доме\nвместе с отличной женой.\n<PAGE>\nКак же здорово, когда есть куда возвращаться."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_03",
+   "key": "953629b6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nАх да, как насчёт такого?\n<PAGE>\nРаз уж мы поженились, может, придумаем друг\nдругу... ласковые прозвища?\n<PAGE>\nВ животном мире, когда двое становятся парой,\nони узнают голоса друг друга даже в толпе.\n<PAGE>\nКонечно, если хочешь оставить обычные имена,\nя тоже не против. Как поступим?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_04",
+   "key": "3268ea3c",
+   "ru": "Прозвища ― это весело!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_05",
+   "key": "21b8e9ff",
+   "ru": "Мне нравятся наши имена"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_06",
+   "key": "f0c4e172",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nОтлично, мне по душе!\n<PAGE>\nВидишь ли, имя “Вуфио” мне дала сова, вожак\nлеса, где я поначалу жил.\n<PAGE>\nИмени, что дали мне родители-люди, я... на\nсамом деле не помню. Так что меня устроит\nлюбое, что придумаешь.\n<PAGE>\nА как мне теперь звать тебя?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_07",
+   "key": "c04518db",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nТак... <BLUE><_____MYNAME_____></BLUE> подойдёт?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_08",
+   "key": "086486cc",
+   "ru": "Отлично"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_09",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_10",
+   "key": "3898e736",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nДоговорились. Тогда отныне буду звать тебя <_____MYNAME_____>.\n<PAGE>\n<_____MYNAME_____>... <_____MYNAME_____>. Да. Мне нравится, как звучит.\n<PAGE>\n<FACE_NORMAL>...Ах, прости. Просто растаял от счастья.\n<PAGE>\n<FACE_SPECIAL>Ну что, <_____MYNAME_____>, сегодня первый день новой жизни для\nнас обоих!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_WANTATAN_11",
+   "key": "309a9af6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nПонимаю тебя.\n<PAGE>\nНаверное, новые имена не нужны: наши\nсобственные станут особенными по мере того,\nкак будут расти наши чувства.\n<PAGE>\nНу что, <_____MYNAME_____>. С нетерпением жду, как мы будем\nпроводить вместе ещё больше времени."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_00",
+   "key": "0d082317",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nФух... До сих пор будто парю над землёй.\n<PAGE>\nНе верится, что бывает такое красивое,\nзахватывающее место...\n<PAGE>\nИ мне довелось надеть такое шикарное\nсвадебное платье. Будто в воздухе была магия."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_01",
+   "key": "41a8cc43",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЧестно, я всегда думала, что с моей работой\nникогда не выйду замуж.\n<PAGE>\nНо благодаря помощи судей наша свадьба\nправда состоялась.\n<PAGE>\nИ вот так у нас вдруг свадьба, о которой мы\nмечтали.\n<PAGE>\nНикогда не думала, что настанет такой день."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_02",
+   "key": "bf7af8b2",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nНо надо же... Выходит, с сегодняшнего дня это\nмой новый дом.\n<PAGE>\nЯ объехала весь мир, но так рада, что наконец\nесть где осесть."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_03",
+   "key": "3ac84244",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nАх, и... эм, раз уж мы поженились, ну... Только\nесли ты хочешь, но...\n<PAGE>\n<FACE_LOVE>...может, будем звать друг друга особыми\nпрозвищами? Только между нами.\n<PAGE>\nКонечно, если тебе нравятся обычные имена,\nэто тоже совершенно нормально, но..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_04",
+   "key": "3268ea3c",
+   "ru": "Прозвища ― это весело!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_05",
+   "key": "21b8e9ff",
+   "ru": "Мне нравятся наши имена"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_06",
+   "key": "ee582127",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nУра! Давай придумаем что-нибудь классное!\n<PAGE>\nЕсть что-то особенное в именах, которыми\nпользуемся только мы вдвоём.\n<PAGE>\n...Итак, как мне тебя звать?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_07",
+   "key": "1e0d7873",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nТак... <BLUE><_____MYNAME_____></BLUE> подойдёт?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_08",
+   "key": "086486cc",
+   "ru": "Отлично"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_09",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_10",
+   "key": "a615c94b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nХорошо! Тогда отныне буду звать тебя <_____MYNAME_____>.\n<PAGE>\n<_____MYNAME_____>. ...<_____MYNAME_____>.\n<PAGE>\nХи-хи, просто хотелось послушать, как звучит!\n<PAGE>\nА меня, ну... зови как хочешь.\n<PAGE>\nЕсли подумать, семья обычно зовёт меня просто\n“сестрёнкой”, а большинство знает как\n“ведущую”, так что...\n<PAGE>\nПо имени меня, по сути, зовёшь только ты, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOVE>Поэтому, если говоришь его с любовью, мне\nбудет приятно любое имя!\n<PAGE>\n<FACE_LAUGH>Ну что ж, <_____MYNAME_____>, жду не дождусь нашей семейной\nжизни!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TUTO_MARRIAGE_ADDCHARA_PRESENTER_11",
+   "key": "6580dce8",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nПоняла! Тогда оставим обычные имена.\n<PAGE>\nЕсли подумать, семья обычно зовёт меня просто\n“сестрёнкой”, а большинство знает как\n“ведущую”, так что...\n<PAGE>\nПо имени меня, по сути, и так зовёшь только\nты, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOVE>Поэтому, если говоришь его с любовью, мне\nбудет приятно любое имя!\n<PAGE>\n<FACE_LAUGH>Ну что ж, <_____MYNAME_____>, жду не дождусь нашей семейной\nжизни!"
+  }
+ ]
+}

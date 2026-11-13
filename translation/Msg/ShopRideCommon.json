@@ -1,0 +1,54 @@
+{
+ "file": "ShopRideCommon",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "Select00",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "Select01",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "Select02",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "SelectCancel",
+   "key": "e8b9a8c2",
+   "ru": "<CANCEL_SELECT>\r\nОтмена"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "SelectBack",
+   "key": "2d9517cc",
+   "ru": "<CANCEL_SELECT>\r\nК выбору города"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "SelectYes",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "SelectNo",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

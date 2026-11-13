@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Nasca",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "9725d486",
+   "ru": "Привет. Ты ведь любишь искусство?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "64cba213",
+   "ru": "<NAME_MOB_NASCA>\r\nЧто нарисовать? Может, пейзаж...?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "4aead401",
+   "ru": "<NAME_MOB_NASCA>\r\nНе знаешь, где продают дешёвую недвижимость?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "4ebfe38d",
+   "ru": "<NAME_MOB_NASCA>\r\nМожно как-нибудь нарисовать твою ферму?"
+  }
+ ]
+}

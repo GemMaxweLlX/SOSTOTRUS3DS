@@ -1,0 +1,327 @@
+{
+ "file": "Love_A_Doctor_5",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_00",
+   "key": "f5a61e59",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nА, <_____MYNAME_____>. Отличный момент.\n<PAGE>\nЯ как раз шёл к тебе на ферму."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_01",
+   "key": "a0eef7e5",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nВидишь ли, сегодня в моём исследовании\nнаступил удобный перерыв, и я, э-э...\n<PAGE>\n<FACE_LOVE>Подумал, не пригласить ли тебя поужинать со\nмной."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_02",
+   "key": "355fed25",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЕсли неудобно, можно, конечно, в другой раз.\nНу как?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_03",
+   "key": "4fbc4fd4",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>\r\nПревосходно! Что ж, идём?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_04",
+   "key": "a0501ec1",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Ущипните меня! Не думал, что доживу до дня,\nкогда Форд придёт на ужин с девушкой.\n<PAGE>\n<FACE_SAD>Ой-ой. Погодите. Кажется, сейчас слеза\nнавернётся..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_05",
+   "key": "0c8551c5",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_ANGER_R>Ну, изви-и-ините, что держу всего лишь\n“такое заведение”."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_06",
+   "key": "69fdd65c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_ANGER_R>Довольно, вы двое!\n<PAGE>\n<WINDOW_DEFAULT><FACE_SAD>Будьте любезны, перестаньте портить нам\nсвидание и оставьте нас в покое."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_07",
+   "key": "fd34cef3",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Ладно, ладно! Будем хорошими и помолчим.\n<PAGE>\nАга. Мы, третьи лишние, просто отойдём вон\nтуда и не будем мешать.\n<PAGE>\n<WINDOW_DEFAULT>Но-о-о перед уходом мне надо спросить\nкое-что.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>Если уж так нужно.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>Скажи, Форд... За что ты влюбился в <_____MYNAME_____>?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_08",
+   "key": "726f5e4b",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Ой! Мне тоже ужасно любопытно. Прямо\nумираю, как хочу знать!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_09",
+   "key": "237bf0b8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\n<FACE_ANGRY>...Не знаю."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_10",
+   "key": "77aec3f6",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Эм-м... Н-ну что-то же должно быть, да?\n<PAGE>\n<FACE_LAUGH>Например, улыбка <_____MYNAME_____> или общие интересы. Ну,\nчто-то такое!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY><WINDOW_MOJA_R>Может, хватит болтать? Я НЕ ЗНАЮ, ясно?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_11",
+   "key": "d3bf181e",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Эм, Брэд? Сдаётся мне, в этот раз ты здорово\nвляпался..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_12",
+   "key": "f2bff838",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>\r\n...!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_13",
+   "key": "0ca46578",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Так, э-э... может, не стоило этого делать, а?\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD><WINDOW_SWEAT_R>Ага. Похоже, завтрашний обед Форда будет за\nсчёт заведения."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_14",
+   "key": "712d669f",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n<_____MYNAME_____>! Вот ты где..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_15",
+   "key": "14b5f884",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_SAD>\r\nУф... Уф...\n<PAGE>\n<FACE_LOSS>Я тебя всюду искал. Не ожидал, что ты вот так\nубежишь."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_16",
+   "key": "f492ebfa",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_SAD>\r\n...\n<PAGE>\nНет, пожалуй, я догадываюсь, почему ты ушла.\n<PAGE>\n<FACE_NORMAL>Во-первых, пойми: то, что я сказал в\nресторане, ― правда."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_17",
+   "key": "b9e726ea",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nОднако... полагаю, я выразился так, что ты\nневерно поняла смысл.\n<PAGE>\nХотелось бы объясниться... Можно мне встать\nрядом?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_18",
+   "key": "80e6a0cb",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКакой чудесный вид...\n<PAGE>\n...\n<PAGE>\n<FACE_LAUGH>Хех. Знаешь, кажется, в последний раз я вот\nтак останавливался полюбоваться пейзажем\nещё подростком."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_19",
+   "key": "ef401c61",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>. Всю жизнь я знал, что должен стать врачом.\n<PAGE>\nЯ вкладывал всё время и силы в учёбу, чтобы\nэтого добиться.\n<PAGE>\n<FACE_SAD>Это была жизнь, далёкая от романтики и\nмечтаний. Я раньше не любил, так что опыта у\nменя мало."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_20",
+   "key": "59079d20",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nКогда я наконец осознал свои чувства к тебе, я\nрастерялся.\n<PAGE>\nПочему я всё время смотрю на тебя? Чем ты\nотличаешься от всех остальных?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_21",
+   "key": "ec89e256",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЯ много размышлял именно об этом... но так и\nне нашёл ответа.\n<PAGE>\nНо это правда: сам того не замечая, я всегда\nобращаю взгляд к тебе.\n<PAGE>\nНе могу точно сформулировать почему, просто\nтак есть. Ответить на этот вопрос мне нечем.\n<PAGE>\nПоэтому я и сказал, что не знаю."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_22",
+   "key": "109700a0",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА ты, <_____MYNAME_____>?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_23",
+   "key": "d93655df",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто тебя во мне привлекло? Ты знаешь?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_24",
+   "key": "b18d28e1",
+   "ru": "Твоя доброта"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_25",
+   "key": "d59b3757",
+   "ru": "Что ты чудак"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_26",
+   "key": "8eb3b3af",
+   "ru": "Твоя внешность"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_27",
+   "key": "2bcc63cb",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nДобрый? Я?\n<PAGE>\nСтранная ты. Из всех, кого я знаю, только ты,\nнаверное, назвала бы меня “добрым”.\n<PAGE>\n...Возможно, именно это меня к тебе и тянет."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_28",
+   "key": "fe531d20",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\n...\n<PAGE>\nЗначит, ты разделяешь в этом общее мнение..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_29",
+   "key": "0b40d63b",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nЧто ж, этого не отрицаю. Меня давно так\nназывают все вокруг. Меня это уже не задевает.\n<PAGE>\n<FACE_LAUGH>Не волнуйся. Мои чувства к тебе не пошатнутся\nиз-за такой мелочи."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_30",
+   "key": "cc6fbedc",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто? Моя странность ― моё главное\nдостоинство...?\n<PAGE>\n<FACE_LOSS>Не уверен, что понимаю..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_31",
+   "key": "aaf9bd86",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА... Потому что мне приходит в голову то, о\nчём больше никто не думает?\n<PAGE>\n<FACE_LAUGH>Хех... Ты единственная, кто когда-либо\nсмотрел на это так.\n<PAGE>\n...Возможно, именно это меня к тебе и тянет."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_32",
+   "key": "c23a6e43",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВнешность? Ты хочешь сказать, что находишь\nменя привлекательным?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_33",
+   "key": "549965a3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм. Похоже, у нас совершенно разные\nпредставления о красоте.\n<PAGE>\nЛично я не придаю значения внешности, но если\nмоя тебя привлекла ― что ж, это допустимо.\n<PAGE>\n<FACE_SAD>Но... тогда выходит, что ты обращаешь\nвнимание на внешнее, а не на внутреннее..."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_34",
+   "key": "2bcc63cb",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nДобрый? Я?\n<PAGE>\nСтранная ты. Из всех, кого я знаю, только ты,\nнаверное, назвала бы меня “добрым”.\n<PAGE>\n...Возможно, именно это меня к тебе и тянет."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_35",
+   "key": "970904b6",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, я не жалую людей без самодисциплины и\nцелеустремлённости. Безо всяких “если” и\n“но”."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_36",
+   "key": "b9d2b2da",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПоэтому большинство держится от меня на\nпочтительном расстоянии.\n<PAGE>\nИ все они рано или поздно говорили мне, что я\nслишком строг к другим. Что мне нужно\nнаучиться быть добрее."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_37",
+   "key": "77afa559",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсе... кроме тебя."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_38",
+   "key": "14071f93",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЯ думал, это факт, признанный и мной, и\nокружающими. Почему же ты не согласилась,\nгадал я."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_39",
+   "key": "ea8ed3ef",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nИ я размышлял над этим. Размышлял и\nразмышлял, пока однажды не пришёл к\nвыводу.\n<PAGE>\nПричина, по которой мне так любопытно,\nпочему ты делаешь всё, что делаешь...\n<PAGE>\n<FACE_LAUGH><WINDOW_PALPITATION_R>...в том, что я в тебя влюблён.\n<PAGE>\nУдовлетворяет ли это тебя как ответ на\nвопрос, что меня к тебе тянет?"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_40",
+   "key": "b2a7f362",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nРад, что недоразумение разрешилось.\n<PAGE>\n...Однако уже довольно темно. Пойдём сегодня\nдомой, хм?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_41",
+   "key": "a90e0c8d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\n...Кхм.\n<PAGE>\n<FACE_SAD><WINDOW_DISCOURAGEMENT_R>Как ты узнала, что у меня вот-вот подогнутся\nколени?\n<PAGE>\n<FACE_LOSS><WINDOW_DISCOURAGEMENT_R>Прости. Я стараюсь ежедневно получать\nнадлежащую физическую нагрузку...\n<PAGE>\n<WINDOW_DISCOURAGEMENT_R>Но и представить не мог, что в моём возрасте\nпридётся во весь опор бежать в гору."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_42",
+   "key": "ef469ea6",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_SAD>\r\nНо вот чего не пойму ― зачем этим голубкам\nпроводить свой редкий вечер вместе в таком\nзаведении?\n<PAGE>\n<FACE_NORMAL>По-моему, большинство пар предпочли бы\nчто-нибудь вроде ужина при свечах."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_43",
+   "key": "f8679b66",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n<_____MYNAME_____>, постой!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_44",
+   "key": "7543d729",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\nЭй, э-э...\n<PAGE>\nПрости, <_____MYNAME_____>."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_DOCTOR_5_45",
+   "key": "5983c109",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nЗнаешь, у меня есть правило ― никогда не\nнестись куда-то как дурак и не потеть...\n<PAGE>\n<FACE_LAUGH>Но когда дело касается тебя, все правила,\nпохоже, летят в окно."
+  }
+ ]
+}

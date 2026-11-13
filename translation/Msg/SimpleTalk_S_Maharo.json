@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Maharo",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "0c6f2f32",
+   "ru": "<NAME_MOB_MAHARO>\r\nОстанешься в гостинице на ночь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "be5a594a",
+   "ru": "<NAME_MOB_MAHARO>\r\nУлыбаться легче, чем хмуриться!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "38f17872",
+   "ru": "<NAME_MOB_MAHARO>\r\nЗдесь скучать не приходится."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "4d6997a9",
+   "ru": "<NAME_MOB_MAHARO>\r\nНадеюсь, тебе весело!"
+  }
+ ]
+}

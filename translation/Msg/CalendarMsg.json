@@ -1,0 +1,607 @@
+{
+ "file": "CalendarMsg",
+ "entries": [
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SCHEDULE_TITLE_BIRTHDAY_PLAYER",
+   "key": "25abc0f8",
+   "ru": "Мой день рождения"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SCHEDULE_TITLE_WEDDING",
+   "key": "947f650a",
+   "ru": "Свадьба"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_SCHEDULE_TITLE_WEDDING_ANNIVERSARY",
+   "key": "b8b61678",
+   "ru": "Годовщина"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_SCHEDULE_TITLE_BIRTHDAY_CHILD",
+   "key": "19e86dee",
+   "ru": "<CHILD_NAME>"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_SCHEDULE_NONE",
+   "key": "7bd40a9e",
+   "ru": "Ничего не запланировано"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_SCHEDULE_WORLD_CUP",
+   "key": "f0457dc2",
+   "ru": "<PINK>Фермерский кубок</PINK>\n\nСоревнование фермеров со всего мира в разных\nфермерских делах. Проходит каждое\nвоскресенье.\n\nЧтобы записаться, загляните к【регистратору\nФермерского кубка】с \n<L_BLUE>9:00</L_BLUE> до \n<L_BLUE>21:00</L_BLUE>."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_PLAYER",
+   "key": "835f9a77",
+   "ru": "Мой день рождения! Надеюсь, меня поздравят."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_SCHEDULE_WEDDING",
+   "key": "2be0cb5a",
+   "ru": "Моя <PINK>свадьба</PINK> с <CHARANAME0>."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_SCHEDULE_WEDDING_ANNIVERSARY",
+   "key": "725a61f8",
+   "ru": "<PINK>Годовщина свадьбы</PINK>\n\nДень моей свадьбы. С <L_BLUE>19:00</L_BLUE> до <L_BLUE>21:00</L_BLUE> надо быть\nдома, чтобы отпраздновать с семьёй."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_CHILD",
+   "key": "33b2901f",
+   "ru": "День рождения: <CHILD_NAME>"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_InnOwner",
+   "key": "c3516bcf",
+   "ru": "День рождения: Тототара"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_AmericaFarmMan",
+   "key": "9ba6a7e3",
+   "ru": "День рождения: Гектор"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_GRUEL",
+   "key": "77a84e1f",
+   "ru": "<PINK>Праздник долголетия</PINK>\n\nПраздник Цуюкусы: дарят рисовую кашу и\nжелают друзьям и родным здоровья на год\nвперёд.\n\n<L_BLUE>Рисовая каша</L_BLUE>, <L_BLUE>каша с травами</L_BLUE> и <L_BLUE>каша на чае</L_BLUE> ―\nлучшие подарки жителям Цуюкусы."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_StoreDaughter",
+   "key": "ffe33c95",
+   "ru": "День рождения: Ноэль"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Craftman",
+   "key": "9949bfce",
+   "ru": "День рождения: <L_BLUE>Лудус</L_BLUE>"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_DRINK_00",
+   "key": "a9a05400",
+   "ru": "<PINK>Праздник напитков</PINK>\n\nРазные культуры делятся идеями напитков.\nУчаствуют все три города! Тема на этот раз:\nновый чёрный чай!\n\nПринесите <L_BLUE>чайные листья</L_BLUE> и поговорите с Меган с\n<L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>, чтобы записаться."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_DRINK_01",
+   "key": "bafd95a7",
+   "ru": "<PINK>Праздник напитков</PINK>\n\nРазные культуры делятся идеями напитков.\nУчаствуют все три города! Тема на этот раз:\nновый зелёный чай!\n\nПринесите <L_BLUE>чайные листья</L_BLUE> и поговорите с\nГиндзиро с <L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>, чтобы записаться."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_DRINK_02",
+   "key": "6d5e57db",
+   "ru": "<PINK>Праздник напитков</PINK>\n\nРазные культуры делятся идеями напитков.\nУчаствуют все три города! Тема на этот раз:\nновый сок!\n\nПринесите <L_BLUE>фрукты</L_BLUE> и поговорите с Тототарой с\n<L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>, чтобы записаться."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Wolesaler",
+   "key": "d80ebfd8",
+   "ru": "День рождения: Мория"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_StuffSonOlder",
+   "key": "6935f9c5",
+   "ru": "День рождения: Тацуми"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Postman",
+   "key": "82cf653a",
+   "ru": "День рождения: <L_BLUE>Уэйн</L_BLUE>"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_RestaurantOldman",
+   "key": "39c17c9d",
+   "ru": "День рождения: Марко"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Goddess",
+   "key": "f7742193",
+   "ru": "День рождения: Десси"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_GODDESS",
+   "key": "5647e914",
+   "ru": "<PINK>Праздник богини</PINK>\n\nПраздник Уэстауна в благодарность богине за\nзащиту города. Все собираются есть пиццу и\nтанцевать.\n\nЧтобы участвовать, поговорите с Меган с <L_BLUE>10:00</L_BLUE>\nдо <L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_TeaOwner",
+   "key": "5b8940fd",
+   "ru": "День рождения: Гиндзиро"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Historian",
+   "key": "d3a35c1b",
+   "ru": "День рождения: Митра"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Assistant",
+   "key": "d7ddada2",
+   "ru": "День рождения: Лотус"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_MigrantGirl",
+   "key": "e94852b7",
+   "ru": "День рождения: Сумомо"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_RestaurantHusbund",
+   "key": "adebc52e",
+   "ru": "День рождения: Брэд"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_FRIENDSHIP_00",
+   "key": "371cf616",
+   "ru": "<PINK>Семейный день</PINK>\n\nПраздник, чтобы сблизиться с семьёй или\nлюбимым человеком. Можно выбрать, в каком\nгороде праздновать.\n\nПодробности о празднике каждого города на\nследующей странице."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_FRIENDSHIP_01",
+   "key": "7fb38f75",
+   "ru": "<PINK>Звёздный бал</PINK>\n\nПроведите вечер с любимым человеком: полёт\nна воздушном шаре и звёзды.\n\nЧтобы участвовать, поговорите с Меган с <L_BLUE>20:00</L_BLUE>\nдо <L_BLUE>23:00</L_BLUE>."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_FRIENDSHIP_02",
+   "key": "12de45e8",
+   "ru": "<PINK>Праздник звёзд</PINK>\n\nНапишите желание, повесьте его на бамбук и\nсмотрите на Шёлковый путь с любимым\nчеловеком.\n\nЧтобы участвовать, поговорите с Гиндзиро с\n<L_BLUE>20:00</L_BLUE> до <L_BLUE>23:00</L_BLUE>."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_FRIENDSHIP_03",
+   "key": "4b7a05c6",
+   "ru": "<PINK>Ночь морских огней</PINK>\n\nПрогулка на лодке с любимым человеком по\nночному морю среди мерцающих морских\nогоньков.\n\nЧтобы участвовать, поговорите с Тототарой с\n<L_BLUE>20:00</L_BLUE> до <L_BLUE>23:00</L_BLUE>."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_StuffWoman",
+   "key": "75210de9",
+   "ru": "День рождения: Сидзу"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Apprentice",
+   "key": "cd162537",
+   "ru": "День рождения: <L_BLUE>Хината</L_BLUE>"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_TeaGirl",
+   "key": "cdc16635",
+   "ru": "День рождения: <PINK>Комари</PINK>"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_GAME_00",
+   "key": "b467494e",
+   "ru": "<PINK>Трилимпиада</PINK>\n\nРазные культуры собираются поиграть.\nУчаствуют все три города! Игра на этот раз:\nпоиск яиц!\n\nЧтобы записаться, поговорите с Меган с <L_BLUE>10:00</L_BLUE> до\n<L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_GAME_01",
+   "key": "54362f7a",
+   "ru": "<PINK>Трилимпиада</PINK>\n\nРазные культуры собираются поиграть.\nУчаствуют все три города! Игра на этот раз:\nнайди дарума!\n\nЧтобы записаться, поговорите с Гиндзиро с <L_BLUE>10:00</L_BLUE>\nдо <L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_GAME_02",
+   "key": "40781246",
+   "ru": "<PINK>Трилимпиада</PINK>\n\nРазные культуры собираются поиграть.\nУчаствуют все три города! Игра на этот раз:\nтурнир рыбаков!\n\nЧтобы записаться, поговорите с Тототарой с\n<L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_FisherWife",
+   "key": "9d73e472",
+   "ru": "День рождения: Каолила"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_AmericaFarmOldwoman",
+   "key": "aa55b2db",
+   "ru": "День рождения: Меган"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_AmericaFarmSon",
+   "key": "f8e3d1e6",
+   "ru": "День рождения: Колин"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_FLOWER",
+   "key": "102a7f8c",
+   "ru": "<PINK>Цветочная ярмарка</PINK>\n\nПраздник Уэстауна: дарят цветы, чтобы\nвыразить благодарность друзьям и родным.\n\n<L_BLUE>Цветы</L_BLUE> и <L_BLUE>букеты</L_BLUE> ― лучшие подарки жителям\nУэстауна."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_JapanFarmOldman",
+   "key": "84f70141",
+   "ru": "День рождения: Умэкити"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Florist",
+   "key": "a3178e77",
+   "ru": "День рождения: <PINK>Лизетта</PINK>"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Chaser",
+   "key": "4824bb30",
+   "ru": "День рождения: <L_BLUE>Юдзуки</L_BLUE>"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_StuffMan",
+   "key": "eba6bf1b",
+   "ru": "День рождения: Иттэцу"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_AnglerGrandson",
+   "key": "aca34565",
+   "ru": "День рождения: Тигре"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Inari",
+   "key": "2507308f",
+   "ru": "День рождения: Инари"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_RICE_EAR",
+   "key": "6153f80c",
+   "ru": "<PINK>Праздник изобилия</PINK>\n\nПраздник Цуюкусы в благодарность Инари за\nзащиту города. Все собираются есть рис из котла\nи танцевать.\n\nЧтобы участвовать, поговорите с Гиндзиро с\n<L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_FisherSon",
+   "key": "7a720c3c",
+   "ru": "День рождения: Шальк"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_JapanFarmOldwoman",
+   "key": "5c463767",
+   "ru": "День рождения: Омиё"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Uncle",
+   "key": "68fce0a0",
+   "ru": "День рождения: Фрэнк"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_TwinOlder",
+   "key": "f5e59439",
+   "ru": "День рождения: <PINK>Илука</PINK> и <PINK>Силука</PINK>"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_FRUIT",
+   "key": "c78ee425",
+   "ru": "<PINK>Фруктовая фиеста</PINK>\n\nПраздник Лулукоко: дарят фрукты в\nблагодарность друзьям и родным.\n\n<L_BLUE>Фрукты</L_BLUE> ― лучший подарок жителям Лулукоко."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Fisher",
+   "key": "10e9ec57",
+   "ru": "День рождения: Захау"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_StuffSonYounger",
+   "key": "bbe91d4a",
+   "ru": "День рождения: Яити"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Witch",
+   "key": "353a9f56",
+   "ru": "День рождения: Ведьмочка"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_SCHEDULE_FESTIVAL_WITCH",
+   "key": "ca96a27b",
+   "ru": "<PINK>Праздник духов</PINK>\n\nПраздник Лулукоко в благодарность духам за\nзащиту деревни. Все собираются есть горячую\nеду и танцевать.\n\nЧтобы участвовать, поговорите с Тототарой с\n<L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_ENJYU",
+   "key": "0ad97945",
+   "ru": "День рождения: Энджу"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_FisherDaughter",
+   "key": "13a60850",
+   "ru": "День рождения: Альма"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_StoreWoman",
+   "key": "4ee3ce03",
+   "ru": "День рождения: Миранда"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_JUAN",
+   "key": "8961c1ba",
+   "ru": "День рождения: <L_BLUE>Хуан</L_BLUE>"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Doctor",
+   "key": "8f8e9ad2",
+   "ru": "День рождения: <L_BLUE>Форд</L_BLUE>"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_RestaurantWife",
+   "key": "27232bc1",
+   "ru": "День рождения: Кэрри"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Teacher",
+   "key": "87b3acfb",
+   "ru": "День рождения: <PINK>Касуми</PINK>"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Angler",
+   "key": "2739ce2d",
+   "ru": "День рождения: Хаулани"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_SCHEDULE_NEW_YEAR_00",
+   "key": "c38e1424",
+   "ru": "<PINK>Новогодний праздник</PINK>\n\nПраздник проводов старого года и встречи\nнового. Можно выбрать, в каком городе\nпраздновать.\n\nПодробности о празднике каждого города на\nследующей странице."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_SCHEDULE_NEW_YEAR_01",
+   "key": "3f38ab6f",
+   "ru": "<PINK>Новый год (Уэстаун)</PINK>\n\nВстречайте Новый год тостом и фейерверком.\n\nЧтобы участвовать, поговорите с Меган с <L_BLUE>20:00</L_BLUE>\nдо <L_BLUE>23:00</L_BLUE>."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_SCHEDULE_NEW_YEAR_02",
+   "key": "abfc0f51",
+   "ru": "<PINK>Новый год (Цуюкуса)</PINK>\n\nКогда колокол возвестит Новый год, делайте\nвместе со всеми свежие моти.\n\nЧтобы участвовать, поговорите с Гиндзиро с\n<L_BLUE>20:00</L_BLUE> до <L_BLUE>23:00</L_BLUE>."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_SCHEDULE_NEW_YEAR_03",
+   "key": "a6ade11f",
+   "ru": "<PINK>Новый год (Лулукоко)</PINK>\n\nПосмотрите танец жрицы, провожающий год, и\nвстречайте новый, танцуя вместе со всеми.\n\nЧтобы участвовать, поговорите с Тототарой с\n<L_BLUE>20:00</L_BLUE> до <L_BLUE>23:00</L_BLUE>."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_SCHEDULE_THANKS",
+   "key": "8eea4803",
+   "ru": "<PINK>День Валентина</PINK>\n\nМожет, сегодня в вас попадёт стрела Купидона?!\nДарите сладости тем, кто вам симпатичен!"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_SCHEDULE_PUMPKIN",
+   "key": "182428a3",
+   "ru": "<PINK>Тыквенный праздник</PINK>\n\nДетская радость и подарки-пудинги!\n\n<L_BLUE>Пудинг</L_BLUE>, <L_BLUE>тыквенный пудинг</L_BLUE> и <L_BLUE>шоколадный пудинг</L_BLUE>\n― лучшие подарки детям."
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_SCHEDULE_CROPS_00",
+   "key": "e7b5c29e",
+   "ru": "<PINK>Праздник урожая</PINK>\n\nКонкурс, где оценивают урожай. У каждого\nкласса своя тема! Не забудьте взять в сумку то,\nчто выставляете!\n\nЧтобы участвовать, поговорите с ведущим с\n<L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_SCHEDULE_CROPS_01",
+   "key": "bc4d9030",
+   "ru": "Тема новичков\n   Нет\nТема бывалых\n   <MOJI1>\nТема знатоков\n   <MOJI2>\nТема легенд\n  \n<MOJI3>"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_SCHEDULE_ANIMAL_00",
+   "key": "b6e369dd",
+   "ru": "<PINK>Праздник животных</PINK>\n\nКонкурс, где оценивают скот. У каждого класса\nсвоя тема!\n\nЧтобы участвовать, поговорите с ведущим с\n<L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_SCHEDULE_ANIMAL_01",
+   "key": "5d2e74a3",
+   "ru": "Тема новичков\n   Нет\nТема бывалых\n   <MOJI1>\nТема знатоков\n  \n<MOJI2>\nТема легенд\n  \n<MOJI3>"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_SCHEDULE_COOKING_00",
+   "key": "b94cf366",
+   "ru": "<PINK>Кулинарная выставка</PINK>\n\nКонкурс, где оценивают кулинарное мастерство.\nУ каждого класса своя тема! Держите продукты\nв сумке или в сундуке.\n\nЧтобы участвовать, поговорите с ведущим с\n<L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_SCHEDULE_COOKING_01",
+   "key": "d4fbeeae",
+   "ru": "Тема новичков\n   Нет\nТема бывалых\n   <MOJI1>\nТема знатоков\n   <MOJI2>\nТема легенд\n   <MOJI3>"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_SCHEDULE_PET_00",
+   "key": "0232b027",
+   "ru": "<PINK>Парад питомцев</PINK>\n\nКонкурс для вас и вашего питомца. У каждого\nкласса своя тема!\n\nЧтобы участвовать, поговорите с ведущим с\n<L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_SCHEDULE_PET_01",
+   "key": "d4fbeeae",
+   "ru": "Тема новичков\n   Нет\nТема бывалых\n   <MOJI1>\nТема знатоков\n   <MOJI2>\nТема легенд\n   <MOJI3>"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_SCHEDULE_FASHION_00",
+   "key": "27829292",
+   "ru": "<PINK>Показ мод</PINK>\n\nПокажите свой вкус на подиуме. У каждого\nкласса своя тема!\n\nЧтобы участвовать, поговорите с ведущим с\n<L_BLUE>10:00</L_BLUE> до <L_BLUE>13:00</L_BLUE>."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_SCHEDULE_FASHION_01",
+   "key": "bc4d9030",
+   "ru": "Тема новичков\n   Нет\nТема бывалых\n   <MOJI1>\nТема знатоков\n   <MOJI2>\nТема легенд\n  \n<MOJI3>"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_SCHEDULE_THEME_ALL",
+   "key": "85b509ef",
+   "ru": "Все события"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Wantatan",
+   "key": "fe1b2ecb",
+   "ru": "День рождения: <L_BLUE>Вуфио</L_BLUE>"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_SCHEDULE_BIRTHDAY_Presenter",
+   "key": "b0efcf3e",
+   "ru": "День рождения: <PINK>Стефани</PINK>"
+  }
+ ]
+}

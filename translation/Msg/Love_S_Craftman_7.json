@@ -1,0 +1,257 @@
+{
+ "file": "Love_S_Craftman_7",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_00",
+   "key": "f43ebfff",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу надо же! Алоха, <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_01",
+   "key": "89b2eadf",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_SAD>\r\nСпасибо, что пришла, но, похоже, ты не\nвовремя.\n<PAGE>\nСегодня утром у Лудуса вдруг появилась новая\nработа, и он весь день ею занят. Даже не\nостановился поесть!\n<PAGE>\nЯ оставила ему завтрак, но он к нему не\nпритронулся."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_02",
+   "key": "a37fe040",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nО! Придумала.\n<PAGE>\n<_____MYNAME_____>, может, приготовишь Лудусу что-нибудь\nпоесть?\n<PAGE>\nЕсли что-то и заставит его сделать перерыв,\nтак это ты и твоя стряпня."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_03",
+   "key": "0232d948",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nМахало, <_____MYNAME_____>.\n<PAGE>\nСоветую воспользоваться общей кухней в\nгороде и приготовить что захочешь!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_04",
+   "key": "ab011f03",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Лудус, надеюсь, ты будешь\nблагодарен своей старой бабуле!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_05",
+   "key": "e7396a27",
+   "ru": "(Готово! Надо скорее отнести это Лудусу. Он,\nнаверное, умирает с голоду!)"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_06",
+   "key": "fa8b6498",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_07",
+   "key": "e21ffd89",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nИщешь Тототару? Боюсь, у неё дела. Она\nненадолго вышла.\n<PAGE>\nПопросила нас присмотреть, пока её нет.\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>О! О! Эй, <_____MYNAME_____>? Что это у тебя? Похоже на десерт."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_08",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_09",
+   "key": "9557bd91",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nАга! Так и знал! Я знал, что это оно!\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>Зачем ты это принесла?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_10",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_11",
+   "key": "7463b708",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nО-о-ох. Наверное, для Лудуса, да?\n<PAGE>\nКстати, бабушка Тототара говорила, что он\nвесь день работает без передышки."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_12",
+   "key": "e38c48c8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_KERAKERA_R>Ах, молодой задор! Как мило. Хо-хо!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_13",
+   "key": "fe12aafe",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nНу-у-у, выглядит о-о-очень вкусно.\n<PAGE>\n<FACE_LAUGH>Эй, <_____MYNAME_____>? А мне можно немножко? Обещаю, Лудусу\nхватит!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_14",
+   "key": "e868b958",
+   "ru": "Прости, это для Лудуса"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_15",
+   "key": "a6a4f8a0",
+   "ru": "Конечно"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_16",
+   "key": "50bc4ae6",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nА? Правда? Класс!! Махало!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_17",
+   "key": "69aff502",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nШальк, не будь эгоистом. Это приготовлено\nдля Лудуса. Таскать кусочки невежливо."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_18",
+   "key": "a8722287",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nДа он не будет против!\n<PAGE>\nЛудус всегда делится! Он ни разу не отказывал,\nкогда я просил..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_19",
+   "key": "0acb39b5",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_20",
+   "key": "be740eab",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nМне показалось, что тут вкусно пахнет.\n<PAGE>\n<FACE_LAUGH>Ты так постаралась и приготовила это для\nменя, <_____MYNAME_____>? Махало."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_21",
+   "key": "0c59e8e3",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо!\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_LAUGH>Ха-ха!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_22",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_23",
+   "key": "cebb58e8",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nПойдём внутрь."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_24",
+   "key": "cf9c96a8",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_EXCLAMATION_R>Ну-у!! Не поделишься с нами? Не будь\nжадиной, Лудус!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_25",
+   "key": "70a1296a",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>\r\nПрости, Шальк. Не в этот раз.\n<PAGE>\n<FACE_LAUGH>Когда-нибудь у тебя появится особенный\nчеловек, который приготовит тебе вкусненькое,\nкогда ты проголодаешься, и ты поймёшь.\n<PAGE>\nХотя не знаю, найдёшь ли ты кого-то такого\nже особенного, как <_____MYNAME_____>."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_26",
+   "key": "914c9fee",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nНу-у-у, Лудус впервые не поделился со мной\nвкусняшками. Видно, для него это правда очень\nважно.\n<PAGE>\n<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>Хо-хо-хо! Именно! Как хорошо быть\nмолодым.\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>Дедушка? Думаешь, я тоже когда-нибудь\nнайду такого человека?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_27",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_28",
+   "key": "1a43b61b",
+   "ru": "..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_29",
+   "key": "0e0ca57c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nМ-м-м! Махало! Спасибо за вкусное ― и такое\nсвоевременное ― угощение, <_____MYNAME_____>."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_30",
+   "key": "42155eda",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nИ всё же..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_31",
+   "key": "58c1d0ea",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nМожет, стоило немного поделиться. Не похоже\nна меня так отказать Шальку.\n<PAGE>\n<FACE_LOSS>Но... ты ведь приготовила это специально для\nменя.\n<PAGE>\nТак что первой мыслью было, что ни с кем не\nхочу делиться.\n<PAGE>\nХотелось бы сказать, что делиться надо всем...\n<PAGE>\nНо когда это от тебя, видно, все правила летят\nв окно."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_32",
+   "key": "57e24746",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Если это от тебя, мне просто... хочется\nоставить всё себе.\n<PAGE>\nДаже ту особенную улыбку, что появляется у\nтебя, когда мне нравится твоя еда. Эта улыбка\nтолько для меня, да?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_33",
+   "key": "d781a089",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nОх. Опять я. Становлюсь слащавым, да? Я\nслишком взрослый, чтобы болтать как\nвлюблённый мальчишка.\n<PAGE>\n<FACE_NORMAL>Хм... Придумал! Может, нам съехаться? Это\nмогло бы немного умерить моё\nсобственничество...\n<PAGE>\nЧто скажешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_34",
+   "key": "db9b1f52",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_KERAKERA_R>Ха-ха-ха!! Да, рановато для этого, а? Э кала\nмаи.\n<PAGE>\n<WINDOW_DEFAULT><FACE_NORMAL>Но когда-нибудь..."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_7_35",
+   "key": "1269a26c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВ общем! С работой я почти закончил.\n<PAGE>\nНо сначала хочу проводить тебя домой. По\nдороге неспешно поболтаем."
+  }
+ ]
+}

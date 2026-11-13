@@ -1,0 +1,33 @@
+{
+ "file": "Story_Sister_Coming_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_2_00",
+   "key": "8f853c45",
+   "ru": "<NAME_UNKNOWN>\r\nПриветик! Я в гости!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_2_01",
+   "key": "ef5f6bd1",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Хи-хи! Я верну-у-улась. ♪ Опять без\nпредупреждения, но ничего ведь, да?\nПовеселимся, как в прошлый раз!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_2_02",
+   "key": "5956e6ff",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\nАх! И мне снова нужна экскурсия по всей\nферме, чтобы всё проверить для мамы с папой."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_COMING_2_03",
+   "key": "bd4c33dc",
+   "ru": "(Линн снова приехала в гости! Всего на\nнесколько дней, но наверняка будет весело!)"
+  }
+ ]
+}

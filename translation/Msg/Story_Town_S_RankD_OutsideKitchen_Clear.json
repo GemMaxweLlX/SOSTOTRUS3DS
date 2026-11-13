@@ -1,0 +1,40 @@
+{
+ "file": "Story_Town_S_RankD_OutsideKitchen_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TOWN_S_RANKD_OUTSIDEKITCHEN_CLEAR_00",
+   "key": "b5ce7eaa",
+   "ru": "<FACE_INNOWNER>\r\n<_____MYNAME_____>, это Тототара. Ты не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TOWN_S_RANKD_OUTSIDEKITCHEN_CLEAR_01",
+   "key": "1ed786ab",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nДоброе утро. Э кала маи, что беспокою в такой\nчас.\n<PAGE>\nВидишь ли, благодаря вчерашним материалам\nу нас всё есть...\n<PAGE>\nИ все решили: раньше начнём ― раньше\nзакончим. Сегодня начинаем приводить в\nпорядок общую кухню.\n<PAGE>\nПоможешь нам, <_____MYNAME_____>?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TOWN_S_RANKD_OUTSIDEKITCHEN_CLEAR_02",
+   "key": "b026a633",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nВот и славно. Махало. Все уже, должно быть,\nждут. Идём со мной."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TOWN_S_RANKD_OUTSIDEKITCHEN_CLEAR_03",
+   "key": "bed6fbd4",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nВсе молодцы. Махало!\n<PAGE>\nНаша общая кухня снова работает! Теперь кто\nугодно может приходить и пользоваться ею.\n<PAGE>\nХотя, подозреваю, чаще всех ею буду\nпользоваться я сама. Хо-хо-хо!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TOWN_S_RANKD_OUTSIDEKITCHEN_CLEAR_04",
+   "key": "0bf2e029",
+   "ru": "(Благодаря общей помощи общая кухня\nвосстановлена! Как приятно видеть её такой\nчистой.)"
+  }
+ ]
+}

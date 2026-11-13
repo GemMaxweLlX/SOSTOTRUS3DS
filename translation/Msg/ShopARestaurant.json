@@ -1,0 +1,215 @@
+{
+ "file": "ShopARestaurant",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_FIRST_000",
+   "key": "0cfac65a",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nХм? А ты кто?\n<PAGE>\nА, новый фермер! Слышал о тебе от твоего\nдяди Фрэнка!\n<PAGE>\nРад наконец познакомиться. Я Брэд, хозяин\n“Садового гриля”.\n<PAGE>\nЗаглядывай в любое время, когда захочется\nхорошей еды."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_000",
+   "key": "b7d005a5",
+   "ru": "Ресторан закрыт до конца праздника."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_001",
+   "key": "eec4b96f",
+   "ru": "Сегодня заведение уже закрыто."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_002",
+   "key": "56bfda77",
+   "ru": "Ресторан закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_003",
+   "key": "01123495",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>! Добро пожаловать!\n<PAGE>\nРад видеть тебя в “Садовом гриле”. Наша еда\n― из лучшего на земле и на небе. Приятного\nаппетита!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_004",
+   "key": "0bc477d8",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать в “Садовый гриль”!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_005",
+   "key": "78c632a4",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nСейчас у нас в меню блюдо, которое мы\nпридумали вместе, <_____MYNAME_____>. Надеюсь, понравится."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GREETING_006",
+   "key": "fe4f4a87",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nМы начали продавать рецепты. Интересно?\nОбязательно посмотри!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_000",
+   "key": "a6efa8d8",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nЧем могу помочь?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_001",
+   "key": "a5df104a",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nЧто-нибудь ещё?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_002",
+   "key": "ad16672e",
+   "ru": "Заказать еду"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_003",
+   "key": "6eb0750d",
+   "ru": "Купить рецепты"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_004",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_005",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_CHOICE_006",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_000",
+   "key": "29882237",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nЧто подать в этот чудесный день?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_002",
+   "key": "81391d63",
+   "ru": "Оформить заказ?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_003",
+   "key": "5bc2fcc7",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за заказ! Располагайся, скоро всё\nпринесу."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_004",
+   "key": "1417d278",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nВ меню новые блюда, надеюсь, попробуешь.\nОчень вкусные!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_COOK_005",
+   "key": "f31539d8",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nСейчас у нас в меню блюдо, которое мы\nпридумали вместе, <_____MYNAME_____>. Пробуй обновлённое меню."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_000",
+   "key": "e0810705",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nЗа качество любого из этих рецептов ручаюсь\nлично. Прошу, посмотри."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_002",
+   "key": "2cb0da37",
+   "ru": "Совершить покупку?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_003",
+   "key": "2bf17029",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nТолько что получили новые рецепты,\nпосмотри."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_004",
+   "key": "f31539d8",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nСейчас у нас в меню блюдо, которое мы\nпридумали вместе, <_____MYNAME_____>. Пробуй обновлённое меню."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_HALF_COMP",
+   "key": "061b0dd5",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nПогоди, <_____MYNAME_____>, похоже, у тебя уже есть все наши\nрецепты.\n<PAGE>\nСо временем появятся новые, тогда и приходи!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_RECIPE_FULL_COMP",
+   "key": "bc7eae01",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nПогоди, <_____MYNAME_____>, похоже, у тебя уже есть все рецепты,\nчто мы продаём."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_GOODBYE_000",
+   "key": "f671c097",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nБольшое спасибо! Приходи ещё!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_RESTAURANT_NAME",
+   "key": "f8c6dd8d",
+   "ru": "Садовый гриль"
+  }
+ ]
+}

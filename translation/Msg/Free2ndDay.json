@@ -1,0 +1,89 @@
+{
+ "file": "Free2ndDay",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_Free2ndDay_Postman",
+   "key": "51688912",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКак дела, <_____MYNAME_____>? А, осматриваешь город, да?\n<PAGE>\nКстати, ты откуда? Если не против, я бы с\nрадостью как-нибудь посидел и поболтал!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_Free2ndDay_Florist",
+   "key": "8432d454",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nНадо же, ты уже ко мне заглядываешь! ♪\n<PAGE>\nВ этом городке есть всё. Думаю, тебе здесь\nпонравится, <_____MYNAME_____>!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_Free2ndDay_RestaurantOldman",
+   "key": "a5b6daa1",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nЯ думал, моё заведение закончится вместе с\nмоим поколением. Но внук Брэд говорит, что\nвозьмёт его на себя!\n<PAGE>\nОн приехал сюда с Кэрри. Я им обоим\nблагодарен."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_Free2ndDay_RestaurantHusbund",
+   "key": "3b360037",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nЧто я люблю? Готовить и... Ну, виноградное\nвино люблю. Бокальчик после закрытия ―\nсамое то!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_Free2ndDay_RestaurantWife",
+   "key": "85a8721a",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nЧто я не люблю? Надо мной всегда смеются,\nпотому что это глуповато, но я не люблю\nострое.\n<PAGE>\n<FACE_SAD>А ещё... Природу я люблю, но жуков терпеть\nне могу-у-у. Ненавижу! И сырую рыбу тоже не\nлюблю!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_Free2ndDay_StoreWoman",
+   "key": "898c5643",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nКак и следовало ожидать, я обожаю болтать с\nлюдьми!\n<PAGE>\nПоэтому мне и нравится работать в этом\nмагазине. Можно поболтать с самыми разными\nлюдьми."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_Free2ndDay_StoreDaughter",
+   "key": "05abac6f",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nМама всегда завязывает мне волосы. Как\nдумаешь, мило? Хе-хе-хе, спасибо!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_Free2ndDay_Mob_Alison",
+   "key": "6bbe4ca3",
+   "ru": "<NAME_MOB_ALISON>\r\nЭто <GREEN>зоомагазин</GREEN>. Мы ещё не открылись, так что\nприходи попозже, ладно?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_Free2ndDay_Mob_Hiraf",
+   "key": "305a9080",
+   "ru": "<NAME_MOB_HIRAF>\r\nЭто <GREEN>магазин материалов</GREEN>. Продаём брёвна,\nкамень, руду и всё такое.\n<PAGE>\nМы ещё не открылись, так что заходи попозже."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_Free2ndDay_Mob_Cortes",
+   "key": "e75240d8",
+   "ru": "<NAME_MOB_CORTES>\r\nЭто <GREEN>универсальный магазин</GREEN>. О-о-о, ты\nфермер? Буду рад, если заглянешь и\nчто-нибудь купишь!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_Free2ndDay_Mob_Natasha",
+   "key": "7f3193c3",
+   "ru": "<NAME_MOB_NATASHA>\r\nБонжур! Это <GREEN>продуктовый магазин</GREEN>. О, вы\nтолько что переехали? Обращайтесь к нам за\nчем угодно!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_Free2ndDay_Mob_Horaz",
+   "key": "55abb880",
+   "ru": "<NAME_MOB_HORAZ>\r\nНовое лицо в наших краях. Это бюро\nподработки."
+  }
+ ]
+}

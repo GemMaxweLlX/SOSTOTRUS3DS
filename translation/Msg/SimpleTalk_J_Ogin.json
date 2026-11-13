@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Ogin",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "a060c7eb",
+   "ru": "Эй! Как дела?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "fd359771",
+   "ru": "<NAME_MOB_OGIN>\r\nНе слышно интересных слухов?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "c649566d",
+   "ru": "<NAME_MOB_OGIN>\r\nНичего неприличного не думаю, клянусь!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "a753f6f7",
+   "ru": "<NAME_MOB_OGIN>\r\nХм. Вид у тебя сильный и здоровый."
+  }
+ ]
+}

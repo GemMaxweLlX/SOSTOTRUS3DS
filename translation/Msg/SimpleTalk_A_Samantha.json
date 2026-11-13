@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Samantha",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "d6ec1857",
+   "ru": "<NAME_MOB_SAMANTHA>\r\nПривет! Ты тоже любишь собак?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "e920e5b2",
+   "ru": "<NAME_MOB_SAMANTHA>\r\nВидишь тут диких животных?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "28455d29",
+   "ru": "<NAME_MOB_SAMANTHA>\r\nОбожаю собак! Мне их всегда мало!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "6aaaae7b",
+   "ru": "<NAME_MOB_SAMANTHA>\r\nЯ бы смотрела на животных весь день."
+  }
+ ]
+}

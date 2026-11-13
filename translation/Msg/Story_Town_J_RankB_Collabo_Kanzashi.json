@@ -1,0 +1,68 @@
+{
+ "file": "Story_Town_J_RankB_Collabo_Kanzashi",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_COLLABO_KANZASHI_00",
+   "key": "9fe90035",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что пришли, <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_COLLABO_KANZASHI_01",
+   "key": "1a6e50be",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗнаю, у тебя наверняка много дел, так что\nпозволь сразу перейти к делу...\n<PAGE>\nХотя твоя работа фермера и моя работа\nювелира совершенно разные, я бы хотел\nсделать с тобой совместный проект."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_COLLABO_KANZASHI_02",
+   "key": "e643853d",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЯ слышал от Комари, как вы вместе придумали\nрецепт нового угощения.\n<PAGE>\nСудя по тому, с каким восторгом она\nрассказывала, она была крайне довольна всей\nзатеей.\n<PAGE>\nПоэтому я и попросил тебя прийти. Её рассказ\nвдохновил меня на собственную идею...\n<PAGE>\nЯ бы хотел создать украшение для волос из\nцветов, выращенных на твоей ферме."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_COLLABO_KANZASHI_03",
+   "key": "a97e9502",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТы с радостью поможешь?\n<PAGE>\nКак чудесно! Для меня это честь."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_COLLABO_KANZASHI_04",
+   "key": "2f2003b2",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nСейчас я обдумываю дизайн, в котором будут\nсочетаться несколько видов цветов.\n<PAGE>\n<FACE_NORMAL>Если ты не против, вот какие цветы я хотел бы\nот тебя получить...\n<PAGE>\n<BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE> и <BLUE><____ITEMNAME2____></BLUE> <BLUE>x<MOJI4></BLUE>.\n<PAGE>\nЗнаю, это немало. Могу я столько у тебя\nпопросить?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_COLLABO_KANZASHI_05",
+   "key": "4c85f989",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nБольшое спасибо.\n<PAGE>\nРазумеется, первый удачный образец я отдам\nтебе, как только закончу.\n<PAGE>\nНе уверен, что он тебе пригодится, но надеюсь,\nты примешь его в знак моей благодарности."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_COLLABO_KANZASHI_06",
+   "key": "fc137b83",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nО? Пригодится? Понятно. Мне очень лестно,\nчто ты будешь его беречь.\n<PAGE>\nЧто ж, с нетерпением жду нашей совместной\nработы."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_COLLABO_KANZASHI_07",
+   "key": "499801b7",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nБольшое спасибо.\n<PAGE>\nРазумеется, первый удачный образец я отдам\nтебе, как только закончу.\n<PAGE>\nИ, чтобы ты знала, я твёрдо намерен сделать\nдизайн, который будет тебе очень к лицу."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_COLLABO_KANZASHI_08",
+   "key": "8a70982b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, с нетерпением жду нашей совместной\nработы."
+  }
+ ]
+}

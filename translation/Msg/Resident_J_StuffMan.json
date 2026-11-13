@@ -1,0 +1,236 @@
+{
+ "file": "Resident_J_StuffMan",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_00",
+   "key": "6fb1c510",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\n...<_____MYNAME_____>, а? Рад видеть.\n<PAGE>\nКстати, раз уж ты здесь, можно тебя ненадолго\nзанять?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_01",
+   "key": "124bbe31",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ хотел купить что-нибудь Тацуми и Яити, но\nничего хорошего в голову не приходит.\n<PAGE>\nС детьми я не очень умею.\n<PAGE>\nДаже толком не знаю, что они любят, а что\nнет.\n<PAGE>\nВот и надеялся, что ты поможешь выбрать\nчто-нибудь для них обоих."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_02",
+   "key": "a2d22a7f",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nПоможешь? Спасибо. Пойдём посмотрим лавки."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_03",
+   "key": "ee4f90bb",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nПришли, но... с чего начать?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_04",
+   "key": "1b75620a",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nХм? Что-то нашлось?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_05",
+   "key": "395f24a2",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\n...Шарф, а?\n<PAGE>\nВерно, Тацуми всегда носит какой-нибудь\nшарф...\n<PAGE>\nНо тот, что на нём сейчас, связала Сидзу.\n<PAGE>\nТацуми из тех, кто дорожит вещами от семьи.\n<PAGE>\nТак что, думаю, он ещё долго будет носить\nэтот шарф... Лучше поискать что-то другое."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_06",
+   "key": "a0d037a4",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nЧто такое? ...А, что любит Яити? Понятия не\nимею.\n<PAGE>\nОн любопытный, так что интересуется многим.\nТолько хочет он, увы, немногого.\n<PAGE>\nВместо игрушек ему бы лучше играть на улице\nи гоняться за жуками. Мне это, правда, не\nпомогает."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_07",
+   "key": "dc397d30",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nПодарить им то, что нравится мне? Ну, то, что\nнравится мне, не особо увлекательно.\n<PAGE>\nОни хорошие дети, но даже их не порадует\nкакая-нибудь картина тушью..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_08",
+   "key": "ad62b7a5",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nЧто-нибудь, что нравится Сидзу? Цветы, что\nли...?\n<PAGE>\nХм, дарить цветы моим мальчишкам...\n<PAGE>\nДумаю, они просто отдадут их Сидзу."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_09",
+   "key": "b69fa9ec",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_SAD>\r\nПрости, <_____MYNAME_____>.\n<PAGE>\nСам попросил помощи, а теперь отметаю все\nтвои идеи."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_10",
+   "key": "0bb956d8",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nНе думаю, что мы далеко продвинемся, стоя\nтут и размышляя...\n<PAGE>\nМожет, сделаем небольшой перерыв на чай?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_11",
+   "key": "838a2034",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_SAD>\r\nПрости, я просто... правда не думал, что будет\nтак трудно."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_12",
+   "key": "f0147426",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nА что порадовало бы тебя, <_____MYNAME_____>? Может, поможет."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_13",
+   "key": "868e9cf9",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nВот как... У всех свои вкусы, видно.\n<PAGE>\nСначала я думал спросить их напрямую, но\nСидзу сказала, что мне надо самому\nразобраться.\n<PAGE>\n<FACE_SAD>Теперь сижу тут, думаю...\n<PAGE>\n...и понимаю... что знаю свою семью не так\nхорошо, как думал."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_14",
+   "key": "7b462db1",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_LAUGH>\r\nХе, никогда бы не подумал, что ты будешь\nменя утешать...\n<PAGE>\nНо спасибо. Мне немного лучше."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_15",
+   "key": "8d3e6725",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\n...Погоди-ка. Тацуми ведь всё время пьёт чай..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_16",
+   "key": "f015dce6",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nКупить чаю?\n<PAGE>\n<FACE_LAUGH>...Да, попить чаю всей семьёй ― звучит\nнеплохо."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_17",
+   "key": "81f2302c",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nКуплю чаю и, пожалуй, пойду домой.\n<PAGE>\nРаз уж ты здесь, может, зайдёшь ко мне?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_18",
+   "key": "49462b24",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nОго, никогда бы не подумал, что ты, пап,\nкупишь чай. Что случилось?\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>Ничего не случилось.\n<PAGE>\n...Просто подумал, что неплохо бы что-то\nпоменять."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_19",
+   "key": "94abe876",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nПодумал, что иногда это неплохо."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_20",
+   "key": "5f4340d5",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nОго! Чай вкусный. А ты разбираешься в чае,\nпап!\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>Ну, в лавке он у нас иногда бывает.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>...Мне нравится.\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_LAUGH>...Я рад."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_21",
+   "key": "84c6590e",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nВ лавке он у нас иногда бывает."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_22",
+   "key": "018688a4",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\n...Вот как."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_23",
+   "key": "018688a4",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\n...Вот как."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_24",
+   "key": "1a06fec1",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nЕщё раз спасибо за помощь. Береги себя по\nдороге домой."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_25",
+   "key": "a31496d0",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL>\r\nПока, <_____MYNAME_____>!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_26",
+   "key": "1b66381c",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>\r\nПока-пока, приходи ещё."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_27",
+   "key": "26364af1",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_NORMAL>\r\nТебе здесь всегда рады. Заходи когда\nзахочешь, голубчик."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_28",
+   "key": "d61ea220",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL>\r\nА, <_____MYNAME_____>! Подожди секунду!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_29",
+   "key": "417e9558",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>\r\nТы ведь сегодня помог(ла) папе выбрать чай?\n<PAGE>\nПапа не очень умеет выбирать подарки, так\nчто, наверное, спросил у тебя совета, да?\n<PAGE>\nПить чай всей семьёй было очень весело.\nСпасибо, <_____MYNAME_____>.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>...Ага, спасибо."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_30",
+   "key": "8942aebf",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Спасибо."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_31",
+   "key": "2467f794",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>\r\nЭто вы о чём?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_RESIDENT_J_StuffMan_32",
+   "key": "b925564e",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nХе-хе, прости, это секрет!\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>Совершенно секретно."
+  }
+ ]
+}

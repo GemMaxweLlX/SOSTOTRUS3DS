@@ -1,0 +1,40 @@
+{
+ "file": "Story_Town_J_RankD_FarmBridge_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TOWN_J_RANKD_FARMBRIDGE_CLEAR_00",
+   "key": "3d28c027",
+   "ru": "<FACE_TEAOWNER>\r\n<_____MYNAME_____>! Не спишь уже?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TOWN_J_RANKD_FARMBRIDGE_CLEAR_01",
+   "key": "10ae3922",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nПрости, что донимаю в такой час, <_____MYNAME_____>.\n<PAGE>\nНо раз материалы теперь у меня, у нас есть всё,\nчтобы починить мост.\n<PAGE>\nНечего время терять, так что сегодня весь\nгород соберётся и сделает дело.\n<PAGE>\nЧто скажешь? Придёшь помочь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TOWN_J_RANKD_FARMBRIDGE_CLEAR_02",
+   "key": "dd97a958",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nОтлично! Рад, что ты с нами!\n<PAGE>\nНу, куй железо, пока горячо! Пошли чинить!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TOWN_J_RANKD_FARMBRIDGE_CLEAR_03",
+   "key": "95b014ec",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nВот и всё! Отличная работа, народ!\n<PAGE>\nСтарый мост починен, и рядом с ним ещё и\nновенький!\n<PAGE>\nБез вас ничего бы не вышло. Спасибо!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TOWN_J_RANKD_FARMBRIDGE_CLEAR_04",
+   "key": "3ce36ffd",
+   "ru": "(Старый мост починен!)\n<PAGE>\n(Теперь Умэкити и Омиё могут переходить его,\nне беспокоясь друг за друга.)"
+  }
+ ]
+}

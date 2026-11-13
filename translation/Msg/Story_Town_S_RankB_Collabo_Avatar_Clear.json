@@ -1,0 +1,103 @@
+{
+ "file": "Story_Town_S_RankB_Collabo_Avatar_Clear",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_00",
+   "key": "7a8bd8f1",
+   "ru": "<FACE_CRAFTMAN>\r\n<_____MYNAME_____>, не спишь?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_01",
+   "key": "576f7565",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nЗнаю, ещё довольно рано. Э кала маи.\n<PAGE>\nНо, понимаешь, как только материалы\nоказались у меня, я сразу отнёс их Митре и\nЛотусу.\n<PAGE>\nИ, видно, получив их, они ужасно захотели\nвзяться за одежду.\n<PAGE>\nВскоре они вернулись и сказали, что поняли,\nкак её делать...\n<PAGE>\n...и что сегодня начнут шить. И ещё просили\nпозвать тебя посмотреть, да?\n<PAGE>\nНу как? Хочешь посмотреть, как появится\nодежда?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_02",
+   "key": "8adc3f3a",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nТак и думал. Пошли."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_03",
+   "key": "d7970070",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_LAUGH>\r\nАга! <_____MYNAME_____>, явились!\n<PAGE>\n<WINDOW_FUN_L>Радуйся! Сегодня тебе выпадет несравненная\nчесть стать свидетелем творящейся истории!\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_SAD><WINDOW_DISCOURAGEMENT_R>*зевает* Доброе утро, <_____MYNAME_____>."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_04",
+   "key": "ba66810d",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nНет, всё в порядке. Я нормально.\n<PAGE>\n<FACE_SAD>Просто профессор посреди ночи вытащила\nменя из постели работать над этим. Я почти не\nспал..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_05",
+   "key": "729d5e4a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЛадно, как говорится: раньше начнём ― раньше\nзакончим. Приступим?\n<PAGE>\n<FACE_LOSS>Ради Лотуса, чтобы он мог пойти поспать."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_06",
+   "key": "0b24439f",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nДа! Наконец-то! Готово!\n<PAGE>\nУзрите! Вот традиционная одежда, которую\nносили жители этой деревни в древние\nвремена!\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Похоже на то. Во всяких исторических\nтонкостях я не разбираюсь, но тебе идёт, <_____MYNAME_____>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_07",
+   "key": "e65e2133",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nФух... Н-наконец закончили.\n<PAGE>\nТеперь можно поспать..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_08",
+   "key": "17727eb3",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nПоспать? Что значит “поспать”, Лотус?\n<PAGE>\nНужно оформить все эти исторические находки\nв отчёт для публикации, пока они свежи в\nпамяти!\n<PAGE>\n<FACE_ANGRY>Сейчас совсем не время спать! Идём, начнём\nнемедленно!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_09",
+   "key": "e319b5e7",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_SAD>\r\nУ-у-у..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_10",
+   "key": "c4f71871",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, Митру больше интересовало, как\nодежда сделана, чем что-то ещё.\n<PAGE>\n<FACE_SAD>Столько труда, а готовый результат её даже не\nинтересует... Жаль."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_11",
+   "key": "0171f0d9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗнаешь что? Может, возьмёшь себе, <_____MYNAME_____>?\n<PAGE>\nЯ вряд ли когда-нибудь её надену, а\nматериалы-то от тебя.\n<PAGE>\nО, и второй комплект, что сделали заодно,\nтоже бери."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_12",
+   "key": "075925fc",
+   "ru": "Получены костюмы <BLUE>Луау (муж.)</BLUE> и <BLUE>Луау (жен.)</BLUE>!\n<PAGE>\n(Это ведь исторически значимая одежда. Надо\nскорее убрать её в шкаф.)"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_S_RANKB_COLLABO_AVATAR_CLEAR_13",
+   "key": "8c8a9235",
+   "ru": "Получены костюмы <BLUE>Луау (муж.)</BLUE> и <BLUE>Луау (жен.)</BLUE>!\n<PAGE>\n(Хочется убрать их в шкаф... но шкафа нет.\nЕсли хочу их носить, надо скорее перестроить\nдом.)"
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Musashi",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "cc71ac58",
+   "ru": "Я готов! А ты?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "d389df50",
+   "ru": "<NAME_MOB_MUSASHI>\r\nТак! Кто хочет побороться один на один?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "07c136ef",
+   "ru": "<NAME_MOB_MUSASHI>\r\nКак назвать мой коронный приём...?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "fba2c0c3",
+   "ru": "<NAME_MOB_MUSASHI>\r\nО да! Круто! ... Чёрт! Я опаздываю!"
+  }
+ ]
+}

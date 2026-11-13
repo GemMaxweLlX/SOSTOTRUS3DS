@@ -1,0 +1,1307 @@
+{
+ "file": "Fes_A_FriendShip_After",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_00",
+   "key": "421aabc0",
+   "ru": "(Ах да, точно! Меган просила меня сегодня\nночью разнести подарки детям.)\n<PAGE>\n(Надо поскорее идти на перекрёсток.)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Postman_CHILD",
+   "key": "16f24fb2",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу-с, <CHILD_NAME> уже спит, так что можно идти.\n<PAGE>\nПравда, будет совсем грустно, если <CHILD_NAME> проснётся,\nа нас нет, понимаешь? Так что давай\nпо-быстрому.\n<PAGE>\nНу, в какой город отправимся, дорогая?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Postman_NOCHILD",
+   "key": "28c61964",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗвёздный бал в этом году был что надо, а, <_____MYNAME_____>?\n<PAGE>\nНо ничего себе, уже так поздно? Надо скорее\nразнести подарки!\n<PAGE>\nНу, в какой город отправимся?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Postman_PARTNER",
+   "key": "42bd6819",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗвёздный бал в этом году был что надо, а, <_____MYNAME_____>?\n<PAGE>\nНо ничего себе, уже так поздно? Надо скорее\nразнести подарки!\n<PAGE>\nПотом я провожу тебя домой, так что не\nволнуйся.\n<PAGE>\nНу, в какой город отправимся?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Doctor_CHILD",
+   "key": "870363fa",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>. <CHILD_NAME> уже в кровати, так что об этом можешь не\nбеспокоиться.\n<PAGE>\nОднако, полагаю, <CHILD_NAME> ужасно расстроится, если\nпроснётся и не найдёт нас, так что обход надо\nсделать поскорее.\n<PAGE>\nИтак, в какой город отправимся?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Doctor_NOCHILD",
+   "key": "5258d820",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТебе понравился вечер, <_____MYNAME_____>?\n<PAGE>\nОднако уже весьма поздно. Давай поскорее\nразберёмся с подарками.\n<PAGE>\nИтак, в какой город отправимся?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Doctor_PARTNER",
+   "key": "6807346b",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТебе понравился праздник, <_____MYNAME_____>?\n<PAGE>\nОднако для дамы уже слишком поздно, чтобы\nгулять одной. Думаю, с подарками лучше\nпокончить побыстрее.\n<PAGE>\nПотом я непременно провожу тебя домой, так\nчто можешь не волноваться.\n<PAGE>\nИтак, в какой город отправимся?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Apprentice_CHILD",
+   "key": "d962899a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЙо, понравился праздник, <_____MYNAME_____>? Я уже уложил\nмалыша спать, без проблем.\n<PAGE>\nНо мне будет очень стыдно, если <CHILD_NAME> проснётся без\nнас, так что давай быстрее.\n<PAGE>\nНу, э-э, какой город ты наметила?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Apprentice_NOCHILD",
+   "key": "1973317a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>! Понравилось на этом балу?\n<PAGE>\nУже довольно поздно, так что давай быстрее.\n<PAGE>\nНу, э-э, какой город ты наметила?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Apprentice_PARTNER",
+   "key": "a6ec8273",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>! Понравилось на этом балу?\n<PAGE>\nУже довольно поздно, так что давай быстрее.\n<PAGE>\nА, не волнуйся! Когда закончим, провожу тебя\nдомой, ладно?\n<PAGE>\nНу, э-э, какой город ты наметила?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Chaser_CHILD",
+   "key": "742b4aec",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nИ снова здравствуй. Тебе будет приятно узнать,\nчто <CHILD_NAME> отправилось в кровать без единой\nжалобы.\n<PAGE>\nИ всё же мне будет ужасно, если <CHILD_NAME> проснётся без\nнас, так что нужно поторопиться.\n<PAGE>\nИтак, какой город ты наметила?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Chaser_NOCHILD",
+   "key": "e17e8d7b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nХорошо провела время на Звёздном балу, <_____MYNAME_____>?\n<PAGE>\nОднако уже довольно поздно, так что надо\nпоскорее разнести подарки.\n<PAGE>\nИтак, какой город ты наметила?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Chaser_PARTNER",
+   "key": "b0e5424d",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nХорошо провела время на Звёздном балу, <_____MYNAME_____>?\n<PAGE>\nОднако уже довольно поздно, так что надо\nпоскорее разнести подарки.\n<PAGE>\nИ, если ты не против, потом я с радостью\nпровожу тебя домой.\n<PAGE>\nИтак, какой город ты наметила?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Craftman_CHILD",
+   "key": "92e69d12",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПонравился праздник, <_____MYNAME_____>? <CHILD_NAME> уже спит без задних\nног, кстати.\n<PAGE>\nПравда, не хотелось бы, чтобы <CHILD_NAME> проснулось, а\nнас нет, да? Так что лучше поторопимся.\n<PAGE>\nНу... Куда хочешь пойти?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Craftman_NOCHILD",
+   "key": "413bb781",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, тебе было весело. Готова идти, <_____MYNAME_____>?\n<PAGE>\nУже довольно поздно, так что лучше\nпоторопиться, да? Раньше начнём ― раньше\nзакончим.\n<PAGE>\nНу... Куда хочешь пойти?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Craftman_PARTNER",
+   "key": "7fcadd02",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nА, вот ты где, <_____MYNAME_____>. Готова идти?\n<PAGE>\nУже довольно поздно, так что лучше\nпоторопиться, да?\n<PAGE>\nНе волнуйся, потом я прослежу, чтобы ты\nблагополучно добралась домой.\n<PAGE>\nНу... Куда хочешь пойти?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Florist_CHILD",
+   "key": "2dd6b25e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХи-хи, вижу, тебе было весело! А, <CHILD_NAME> я уже\nуложила спать, так что не беспокойся.\n<PAGE>\nНо будет ужасно, если <CHILD_NAME> проснётся, а нас нет\nдома, так что поспешим.\n<PAGE>\nКстати, в какой город мы идём?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Florist_NOCHILD",
+   "key": "ecd0718b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nФух, наконец-то вернулись... А Звёздный бал\nбыл чудесный, правда?\n<PAGE>\nНо уже поздно, так что поспешим.\n<PAGE>\nКстати, в какой город мы идём?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Florist_PARTNER",
+   "key": "fd89a22e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nФух... Звёздный бал был чудесный, правда?\n<PAGE>\nНо уже поздно, так что давай поспешим.\n<PAGE>\nКстати, какой город нам достался?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_TeaGirl_CHILD",
+   "key": "f297cf6d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>! Ах да! <CHILD_NAME> я уже уложила спать,\nтак что не переживай!\n<PAGE>\nНо представь, если проснётся, а нас дома нет?\nТем более надо управиться вдвое быстрее, если\nхочешь знать!\n<PAGE>\nТак в какой город мы идём?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_TeaGirl_NOCHILD",
+   "key": "21e473e0",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>! Вижу, тебе понравилось!\n<PAGE>\nУже довольно поздно, так что давай\nпошевеливаться!\n<PAGE>\nТак в какой город мы идём?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_TeaGirl_PARTNER",
+   "key": "9aebcc89",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>! Вижу, тебе понравилось на балу!\n<PAGE>\nУже довольно поздно, так что давай\nпошевеливаться!\n<PAGE>\nТак в какой город мы идём?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Teacher_CHILD",
+   "key": "80df7c81",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>. <CHILD_NAME> я уже уложила спать, так\nчто беспокоиться не о чем.\n<PAGE>\nОднако мне будет просто ужасно, если <CHILD_NAME>\nпроснётся без нас, так что давай поскорее\nразнесём подарки.\n<PAGE>\nСкажи, какой город за нами?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Teacher_NOCHILD",
+   "key": "5aa7368a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуй, <_____MYNAME_____>. Понравилось на Звёздном балу?\n<PAGE>\nОднако уже весьма поздно, так что давай\nпоскорее сделаем обход.\n<PAGE>\nСкажи, какой город за нами?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Teacher_PARTNER",
+   "key": "54d9e822",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуй, <_____MYNAME_____>. Понравилось на Звёздном балу?\n<PAGE>\nУже весьма поздно, так что давай поскорее\nсделаем обход.\n<PAGE>\nКстати, какой город за нами?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_TwinOlder_CHILD",
+   "key": "cf5e0a61",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>. Пока тебя не было, я уложила <CHILD_NAME>. Не\nблагодари. ♪\n<PAGE>\nВ общем, будет нехорошо, если малыш\nпроснётся без нас, так что поторапливаемся.\n<PAGE>\nНу, скажи, в какой город ты нас потащишь?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_TwinOlder_NOCHILD",
+   "key": "738242ab",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>. Похоже, Звёздный бал тебе\nпонравился. Хорошо.\n<PAGE>\nВ общем, уже поздно, так что давай\nзакругляться. Кое-кому нужен сон для красоты.\n...Нет, не мне, я и так достаточно красива.\n<PAGE>\nНу, скажи, в какой город ты нас потащишь?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_TwinOlder_PARTNER",
+   "key": "a80d6a80",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nА, вот ты где, <_____MYNAME_____>. Похоже, Звёздный бал тебе\nпонравился.\n<PAGE>\nВ общем, уже поздно, так что давай\nзакругляться. Кое-кому нужен сон для красоты.\n...Нет, не мне, я и так достаточно красива.\n<PAGE>\nНу, скажи, в какой город ты нас потащишь?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_TwinYounger_CHILD",
+   "key": "cd859480",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nИ снова привет, <_____MYNAME_____>. <CHILD_NAME> я уже уложила.\n<PAGE>\n...Но не хочется, чтобы <CHILD_NAME> проснулось, пока нас\nнет. Надо поторопиться.\n<PAGE>\nТак... в какой город мы идём?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_TwinYounger_NOCHILD",
+   "key": "21e6bf49",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nИ снова привет, <_____MYNAME_____>. Тебе было весело на\nЗвёздном балу?\n<PAGE>\nУже поздно, и мне хочется спать. Надо\nпоторопиться, пока я случайно не задремала.\n<PAGE>\nТак... в какой город мы идём?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_TwinYounger_PARTNER",
+   "key": "c0fca864",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nДобрый вечер, <_____MYNAME_____>. Тебе было весело на Звёздном\nбалу?\n<PAGE>\nУже поздно, и мне хочется спать. Надо\nпоторопиться, пока я случайно не задремала.\n<PAGE>\nТак... в какой город мы идём?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Wantatan_CHILD",
+   "key": "af334d30",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>. <CHILD_NAME> уже в кровати.\n<PAGE>\nНо не хочется, чтобы <CHILD_NAME> проснулось без нас, так\nчто постараемся побыстрее.\n<PAGE>\nКстати... В какой город мы там идём?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Wantatan_NOCHILD",
+   "key": "fe69d80e",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>. Понравился Звёздный бал?\n<PAGE>\nУже поздно, так что постараемся побыстрее.\n<PAGE>\nКстати... Какой город нам там достался?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Wantatan_PARTNER",
+   "key": "444c2c5d",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>. Понравился Звёздный бал?\n<PAGE>\nУже поздно, так что постараемся побыстрее.\n<PAGE>\nА, не бойся. Потом я провожу тебя домой.\n<PAGE>\nКстати... Какой город нам там достался?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Presenter_CHILD",
+   "key": "f79fb8c4",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКак тебе бал, <_____MYNAME_____>? <CHILD_NAME> ― такое солнышко, ни единой\nжалобы перед сном!\n<PAGE>\nНо если <CHILD_NAME> проснётся без нас, мне будет ужасно,\nтак что давай быстро сделаем обход, ладно?\n<PAGE>\nКстати, какой город нам достался?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Presenter_NOCHILD",
+   "key": "9ed4e505",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nНу, <_____MYNAME_____>! Весело было на Звёздном балу?\n<PAGE>\n<FACE_SAD>Я бы с радостью поучаствовала, но у меня была\nработа...\n<PAGE>\nВ общем, уже довольно поздно, так что давай\nзакончим обход, ладно?\n<PAGE>\nКстати, какой город нам достался?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_01_Presenter_PARTNER",
+   "key": "9ed4e505",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nНу, <_____MYNAME_____>! Весело было на Звёздном балу?\n<PAGE>\n<FACE_SAD>Я бы с радостью поучаствовала, но у меня была\nработа...\n<PAGE>\nВ общем, уже довольно поздно, так что давай\nзакончим обход, ладно?\n<PAGE>\nКстати, какой город нам достался?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_02",
+   "key": "5c503509",
+   "ru": "Мы идём в..."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_03",
+   "key": "f0f71409",
+   "ru": "Уэстаун"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_04",
+   "key": "c89dffdf",
+   "ru": "Цуюкуса"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_05",
+   "key": "1fec6563",
+   "ru": "Лулукоко"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_Postman",
+   "key": "e81feb8d",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПонял. После тебя, <_____MYNAME_____>!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_Doctor",
+   "key": "75caea3d",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПонятно. Тогда в путь."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_Apprentice",
+   "key": "22a0e652",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nПонял! Двигаем."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_Chaser",
+   "key": "0adfb642",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПонятно. Тогда в путь."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_Craftman",
+   "key": "cfe764d5",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯсно. Пошли, а?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_Florist",
+   "key": "1d832490",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХорошо-хорошо! ♪ Пошли!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_TeaGirl",
+   "key": "c7f6bf0c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Пошли!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_Teacher",
+   "key": "c69e223e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПоняла. Тогда поспешим."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_TwinOlder",
+   "key": "a29be8cb",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Тогда пошли."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_TwinYounger",
+   "key": "7e912f7c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Пошли."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_Wantatan",
+   "key": "65b5cf9c",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПонял. Двигаем."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_06_Presenter",
+   "key": "d3f84165",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nБудет сделано! Пошли!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_AmericaFarmSon",
+   "key": "080aaa8f",
+   "ru": "(Так, какой подарок оставить Колину?)"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_AmericaFarmSon_GIFT1",
+   "key": "13f56cf9",
+   "ru": "Потрясающая рация"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_AmericaFarmSon_GIFT2",
+   "key": "e4c1548e",
+   "ru": "Гравюра с хрупкой красавицей"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_AmericaFarmSon_GIFT3",
+   "key": "a2e56365",
+   "ru": "Набор красок на 80 цветов"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_08_AmericaFarmSon",
+   "key": "a76c48c9",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_SAD>\r\nМ-м... Тут кто-то есть?\n<PAGE>\nХм?\n<PAGE>\nСтоп, что это? Написано: “Колину”.\n<PAGE>\nПодарок...? Мне?"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_AmericaFarmSon_GIFT1",
+   "key": "7d3fa64e",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nА, это рация?\n<PAGE>\nОчень классная и... угловатая... но я понятия не\nимею, как ею пользоваться.\n<PAGE>\n<FACE_LAUGH>Но, может, с ней я смогу разговаривать с\nпапой!\n<PAGE>\nЗавтра спрошу у него, как ею пользоваться!"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_AmericaFarmSon_GIFT2",
+   "key": "4b131504",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\n...?\n<PAGE>\nЭто рисунок женщины?\n<PAGE>\n<FACE_SAD>Она какая-то грустная. Мне от этого тоже\nгрустно...\n<PAGE>\n<FACE_LAUGH>Таких картинок я раньше не видел, но цвета\nподобраны очень красиво.\n<PAGE>\nМожет, завтра попробую нарисовать что-то\nтакое!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_AmericaFarmSon_GIFT3",
+   "key": "e0b34a4a",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_NORMAL>\r\nА, это набор красок...?\n<PAGE>\n<FACE_LAUGH>Ух ты, 80 цветов! Потрясающе! Столько\nцветов, которых я никогда не видел!\n<PAGE>\nЭто из Лулукоко? Тут столько разных оттенков\nсинего.\n<PAGE>\nО, придумал! С этими красками я, может, смогу\nещё лучше передать красоту сегодняшнего\nЗвёздного бала!"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StoreDaughter",
+   "key": "f8d495b9",
+   "ru": "(Так, какой подарок оставить Ноэль?)"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StoreDaughter_GIFT1",
+   "key": "c19f60f2",
+   "ru": "Пара чашек с розами"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StoreDaughter_GIFT2",
+   "key": "d36afbaf",
+   "ru": "Деревянная шкатулка-мозаика"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StoreDaughter_GIFT3",
+   "key": "1f256a43",
+   "ru": "Одеяло с узором из гибискуса"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_08_StoreDaughter",
+   "key": "8689f69d",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_SAD>\r\nМ-м... Мама...?\n<PAGE>\nОй, что это? Написано: “Ноэль”."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_StoreDaughter_GIFT1",
+   "key": "6d2ab4c3",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nУх ты! Пара одинаковых чашек с розами! ♪\n<PAGE>\nТакие нарядные и красивые... О, придумала!\n<PAGE>\nЗавтра испеку печенье и устрою чаепитие у\nКолина!\n<PAGE>\nДа, отличная мысль! Скорей бы завтра. ♪"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_StoreDaughter_GIFT2",
+   "key": "787c0254",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nЭто... деревянная шкатулка для украшений?\nКак же сделан этот узор?\n<PAGE>\nА ведь красиво! Мне нравится! ♪\n<PAGE>\nО, о, придумала! Положу сюда брошку,\nкоторую мне подарил Колин!\n<PAGE>\nА завтра похвастаюсь ему! У мамы даже такой\nнет!"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_StoreDaughter_GIFT3",
+   "key": "c755d38b",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nЧто это? Розовые цветы на кремовой ткани...\n<PAGE>\nО, это одеяло с узором из гибискуса! Ух ты,\nкакое милое. ♪\n<PAGE>\nПридумала! Попрошу маму сшить из него сумку!\n<PAGE>\nИ платье с таким же узором тоже хочу. Завтра\nпопрошу маму!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StuffSonYounger",
+   "key": "1b44845f",
+   "ru": "(Так, какой подарок оставить Яити?)"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StuffSonYounger_GIFT1",
+   "key": "b7e74101",
+   "ru": "Огромный плюшевый мишка"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StuffSonYounger_GIFT2",
+   "key": "c060e690",
+   "ru": "Набор бумаги для оригами с традиционным\nузором"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StuffSonYounger_GIFT3",
+   "key": "456aacc2",
+   "ru": "Тропический надувной круг"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_08_StuffSonYounger",
+   "key": "7f568375",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_SAD>\r\n...Что-то слышу.\n<PAGE>\n...?\n<PAGE>\n...Что?"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_StuffSonYounger_GIFT1",
+   "key": "9d821f7d",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...!\n<PAGE>\nМишка больше меня. И такой мягкий...\n<PAGE>\nМилый.\n<PAGE>\nЭто мне? Ура."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_StuffSonYounger_GIFT2",
+   "key": "a262d222",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...!\n<PAGE>\n...Бумага для оригами?\n<PAGE>\nТак много. Столько узоров.\n<PAGE>\nЗавтра поиграю... С Тацуми."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_StuffSonYounger_GIFT3",
+   "key": "f3074dfb",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...!\n<PAGE>\nЯ знаю, что это. Надувной круг. Видел такой у\nТигре.\n<PAGE>\nОн плавает в океане. Весело.\n<PAGE>\nСейчас зима, но весной можно будет в воду."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StuffSonOlder",
+   "key": "fc544473",
+   "ru": "(Так, какой подарок оставить Тацуми?)"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StuffSonOlder_GIFT1",
+   "key": "94fe4045",
+   "ru": "Модные перчатки"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StuffSonOlder_GIFT2",
+   "key": "6f572539",
+   "ru": "Миска для риса с драконом"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_StuffSonOlder_GIFT3",
+   "key": "245c089b",
+   "ru": "Набор стамесок"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_08_StuffSonOlder",
+   "key": "5207e20a",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_SAD>\r\n*зевает* ...Что такое, Яити?\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_SAD>Смотри, Тацуми. Мне подарок. И тебе. У\nподушки.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_RIGHT><FACE_SAD>Подарок...?\n<PAGE>\nА, правда! Написано: “Тацуми”. Интересно, от\nкого..."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_StuffSonOlder_GIFT1",
+   "key": "3cd7fb3c",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nА, эй! Какие классные перчатки!\n<PAGE>\nЕсли подумать, старые у меня совсем\nпотрёпанные. Отлично!\n<PAGE>\nПонятия не имею, кто подарил, но буду носить.\n<PAGE>\nЛадно, Яити. Уже поздно, давай обратно спать.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>...Ладно."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_StuffSonOlder_GIFT2",
+   "key": "6fa0fb7f",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nА, это миска для риса. Дракон довольно\nгрозный.\n<PAGE>\nУх ты! Какая классная миска.\n<PAGE>\nЭто папа выбирал? С завтрашнего дня буду из\nнеё есть!\n<PAGE>\nЛадно, Яити. Уже поздно, давай обратно спать.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>...Ладно."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_StuffSonOlder_GIFT3",
+   "key": "e82f49dc",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nА, это стамески для резьбы! Сколько разных\nвидов!\n<PAGE>\nВсегда хотел попробовать что-нибудь\nвырезать!\n<PAGE>\nЗавтра попробую вырезать что-нибудь из\nобрезков дерева дома.\n<PAGE>\nЛадно, Яити. Уже поздно, давай обратно спать.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_NORMAL>...Ладно."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_MigrantGirl",
+   "key": "742703dd",
+   "ru": "(Так, какой подарок оставить Сумомо?)"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_MigrantGirl_GIFT1",
+   "key": "fe2648aa",
+   "ru": "Пушистый шерстяной шарф"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_MigrantGirl_GIFT2",
+   "key": "3ad9c824",
+   "ru": "Деревянные гэта с цветами"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_MigrantGirl_GIFT3",
+   "key": "d3acf470",
+   "ru": "Плетёная сумочка"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_08_MigrantGirl",
+   "key": "035e2195",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_SAD>\r\nМ-м... Ч-что за шум...?\n<PAGE>\n...М?\n<PAGE>\nА? Что это? “Сумомо”?"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_MigrantGirl_GIFT1",
+   "key": "0181e1d5",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nАх! Шерстяной шарф! Ух ты, какой пушистый!\n♪\n<PAGE>\nТакой мя-а-агкий. Наверняка очень\nкачественный!\n<PAGE>\nТеперь мне не будет холодно, когда утром\nподметаю перед лавкой. Ура! ♪"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_MigrantGirl_GIFT2",
+   "key": "6853be14",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nАх, это деревянные гэта! Такие блестящие и\nкрасивые!\n<PAGE>\nИ цветочный узор на пятках милый. ♪\n<PAGE>\nСберегу их для особого дня."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_MigrantGirl_GIFT3",
+   "key": "5b3c3097",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nСумочка...? Ух ты, какая милая!\n<PAGE>\nА внутри жёлтая клетка! У меня никогда не\nбыло такой милой сумочки!\n<PAGE>\nБуду очень-очень беречь!"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_AnglerGrandson",
+   "key": "80b7e5bc",
+   "ru": "(Так, какой подарок оставить Тигре?)"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_AnglerGrandson_GIFT1",
+   "key": "aa466e00",
+   "ru": "Кулинарная книга Уэстауна"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_AnglerGrandson_GIFT2",
+   "key": "c7125f3e",
+   "ru": "Великая книга синоби"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_AnglerGrandson_GIFT3",
+   "key": "e94cbe13",
+   "ru": "Набор для силовых тренировок"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_08_AnglerGrandson",
+   "key": "4738214a",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_SAD>\r\nМ-м... Что? Я чувствую чьё-то присутствие...\n<PAGE>\nА?\n<PAGE>\n“Тигре”?"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_AnglerGrandson_GIFT1",
+   "key": "2673be63",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nО, это кулинарная книга Уэстауна.\n<PAGE>\nИнгредиенты мне незнакомы, но всё выглядит\nочень вкусно.\n<PAGE>\nМожет, дедушка обрадуется, если я расширю\nсвой кулинарный репертуар...\n<PAGE>\nЗавтра схожу в Уэстаун за покупками."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_AnglerGrandson_GIFT2",
+   "key": "460fe421",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nЭто... “Великая книга синоби”? Синоби...? Это\nвроде шпионов, да?\n<PAGE>\nГоворят, в Цуюкусе истории о них передают из\nпоколения в поколение.\n<PAGE>\nОни вроде бы очень сильные. Умеют скрывать\nсвоё присутствие и ходить бесшумно...\n<PAGE>\nЛадно, начну читать завтра."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_AnglerGrandson_GIFT3",
+   "key": "7a7e47a5",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nАх! Это для силовых тренировок!\n<PAGE>\nВот эту штуку сжимают, чтобы тренировать\nхватку... а вот гантель для силовых. Тут много\nвсего.\n<PAGE>\nЯ как раз думал завести что-то такое. Отлично!\nСкорей бы завтра начать.\n<PAGE>\nТолько надо, чтобы Шальк не увидел. Будет\nплохо, если он поранится, играя с этим."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_FisherDaughter",
+   "key": "834ee600",
+   "ru": "(Так, какой подарок оставить Альме?)"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_FisherDaughter_GIFT1",
+   "key": "37f42778",
+   "ru": "Фотоальбом с красавчиками"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_FisherDaughter_GIFT2",
+   "key": "56d16b54",
+   "ru": "Набор для запуска воздушного змея"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_FisherDaughter_GIFT3",
+   "key": "07e8f35e",
+   "ru": "Детский набор для приготовления сока"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_08_FisherDaughter",
+   "key": "f8eac84a",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nМ-м... Шальк? Это ты тут крадёшься?\n<PAGE>\n...Ась?\n<PAGE>\nА? Что это? Написано: “Альме”."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_FisherDaughter_GIFT1",
+   "key": "09ea9f06",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\n...Тут одни парни на фотках? Ух ты, все такие\nкрутые!\n<PAGE>\nХи-хи, и правда красавчики...\n<PAGE>\nНо мне нравятся парни как папа, с мускулами.\n<PAGE>\nЕсли на руке у них не повиснешь, какой смысл?\n<PAGE>\nХм-м-м... да. Вот этот посередине похож на\nпапу!"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_FisherDaughter_GIFT2",
+   "key": "84834693",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nЭто... Ах! Знаю, что это! Та штука, которая\nлетает в небе! В-воздушный змей!\n<PAGE>\nОй, как весело будет! Завтра рано утром пойду\nна пляж запускать!\n<PAGE>\nСтоп, а если привязать змея к себе, я тоже\nполечу?"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_FisherDaughter_GIFT3",
+   "key": "7322fd7e",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nАх! Я видела такое в “Карозелло”!\n<PAGE>\nКладёшь фрукты и выжимаешь сок!\n<PAGE>\nУра! ♪ Завтра соберу фруктов и сделаю сок!"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_FisherSon",
+   "key": "20614a42",
+   "ru": "(Так, какой подарок оставить Шальку?)"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_FisherSon_GIFT1",
+   "key": "6f062c9a",
+   "ru": "Копия карты сокровищ"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_FisherSon_GIFT2",
+   "key": "29df47e0",
+   "ru": "Волчок"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_07_FisherSon_GIFT3",
+   "key": "cf7eabe5",
+   "ru": "Сверкающая удочка"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_08_FisherSon",
+   "key": "a189725b",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nУ-у-у, что такое, Альма...? Я спать пытаюсь...\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_NORMAL>Шальк, проснись! Проснись! Мне подарили\nподарок!\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_ANGRY>Что-о-о?! Тебе подарок?!\n<PAGE>\nА мне? Где мой?"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_FisherSon_GIFT1",
+   "key": "dd0f1b9f",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\n...Э-это карта сокровищ!\n<PAGE>\nПотрясно! Тут показано, что сокровище на...\nвершине горы в Уэстауне?\n<PAGE>\nНадо добыть его раньше, чем кто-то другой!\n<PAGE>\nПойду первым делом завтра! Не терпится!\n<PAGE>\nРаз решено... Альма! Пошли обратно спать!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_LAUGH>Ла-а-адно!"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_FisherSon_GIFT2",
+   "key": "2a2bfde8",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nАх! Знаю, что это! Наматываешь верёвку и\nзапускаешь!\n<PAGE>\nПотрясно! Такой большой и классный!\n<PAGE>\nНо мама с папой, наверное, разозлятся, если\nзапускать его дома...\n<PAGE>\nО, придумал! Схожу к Лудусу, попрошу сделать\nдоску, тогда смогу запускать сколько захочу.\n<PAGE>\nЗавтра попрошу! Как здорово!\n<PAGE>\nРаз решено... Альма! Пошли обратно спать!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_LAUGH>Ла-а-адно!"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_09_FisherSon_GIFT3",
+   "key": "aba25a9d",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nАх, э-это... новенькая удочка!\n<PAGE>\nОго, потрясно! Большая, а почти ничего не\nвесит!\n<PAGE>\nСтарая мне стала маловата с тех пор, как я\nподрос.\n<PAGE>\nСпорим, с этой я поймаю огромную рыбу, как\nпапа!\n<PAGE>\nЗавтра пойду на рыбалку! Не терпится!\n<PAGE>\nРаз решено... Альма! Пошли обратно спать!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_LAUGH>Ла-а-адно!"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_Postman",
+   "key": "b5626058",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nФух. Наконец-то раздали все подарки.\n<PAGE>\nВсе в итоге проснулись... Но я рад, что все\nобрадовались."
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_Doctor",
+   "key": "89276af3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n*вздох* Наконец мы закончили раздавать\nподарки.\n<PAGE>\nХоть мы всех и разбудили, я рад, что подарки\nим понравились."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_Apprentice",
+   "key": "8fe5f114",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nФух! Наконец раздали подарки!\n<PAGE>\nВидно, мы немного шумели... Так или иначе,\nпохоже, детям подарки очень понравились! Я\nрад."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_Chaser",
+   "key": "d91dff5a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nФух, отлично сработано, <_____MYNAME_____>. Наконец мы раздали\nподарки.\n<PAGE>\nВсе в итоге проснулись, но я рад, что подаркам\nобрадовались!"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_Craftman",
+   "key": "cb76bf1a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nФух. Наконец раздали подарки, да?\n<PAGE>\nВ итоге мы всех перебудили, но дети, похоже,\nрады, так что всё обошлось."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_Florist",
+   "key": "b05a4dd9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nФух. Ох, наконец-то раздали подарки.\n<PAGE>\nВсе в итоге проснулись, но дети, похоже, рады,\nтак что всё хорошо!"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_TeaGirl",
+   "key": "4e05fa11",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nФва-а-ах! Наконец раздали подарки!\n<PAGE>\nВ итоге всех разбудили, но я рада, что все так\nобрадовались!"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_Teacher",
+   "key": "244318ba",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n*вздох* Наконец мы закончили раздавать\nподарки.\n<PAGE>\nВ итоге мы разбудили всех детей, но я рада,\nчто они так радовались."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_TwinOlder",
+   "key": "4ab4830a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nФух, наконец-то! Наконец-то раздали\nподарки.\n<PAGE>\nНемного неловко, что разбудили детей, но раз\nони счастливы, то и я рада, а всё хорошо, что\nхорошо кончается, да?"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_TwinYounger",
+   "key": "0aef1a45",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЭто, кажется, последний.\n<PAGE>\nДети в итоге проснулись, но я рада, что они\nтак обрадовались."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_Wantatan",
+   "key": "06fd8e7e",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nФух, я устал как собака. Наконец раздали\nподарки.\n<PAGE>\nВсе в итоге проснулись, но, по крайней мере,\nпохоже, все очень рады."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_10_Presenter",
+   "key": "38f3c13a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nФух. Наконец раздали подарки.\n<PAGE>\nВсе в итоге проснулись, но я так рада, что все\nобрадовались!"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_Postman",
+   "key": "cfd99f60",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nКак ни крути, интересный был опыт.\n<PAGE>\nНе каждый день выпадает пробраться ночью в\nчужой дом. Аж дух захватывало!"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_Doctor",
+   "key": "c3a6f3d8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nДолжен признать, для меня это был\nувлекательный первый опыт.\n<PAGE>\nОбычно не доводится пробираться в чужой дом\nпосреди ночи."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_Apprentice",
+   "key": "9ecca52a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nВообще-то было довольно интересно.\n<PAGE>\nПробираться ночью в чужой дом ― не совсем\nобычное дело. Даже как-то волнующе."
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_Chaser",
+   "key": "3e2685ea",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЕсли подумать, было весьма интересно.\n<PAGE>\nНе часто выпадает случай пробраться в чужой\nдом посреди ночи."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_Craftman",
+   "key": "f5b428de",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nДовольно интересно было, да?\n<PAGE>\nНе скажу, что у меня большой опыт ночных\nпроникновений в чужие дома. Даже весело\nбыло."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_Florist",
+   "key": "97a3ae9f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОх, ну и приключение было, да?\n<PAGE>\nНе думала, что буду пробираться в чужой дом\nпосреди ночи. Даже дух захватывало."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_TeaGirl",
+   "key": "06764562",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nНо ух, это был новый опыт.\n<PAGE>\nНе часто выпадает пробраться в чужой дом\nпосреди ночи. У меня сердце так и колотилось!"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_Teacher",
+   "key": "1bcc3907",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nДолжна признать, опыт весьма интересный.\n<PAGE>\nВозможности пробраться в чужой дом посреди\nночи выпадают нечасто."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_TwinOlder",
+   "key": "b324f51c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nХе, было куда интереснее, чем я думала.\n<PAGE>\nНе каждый день пробираешься в чужой дом\nпосреди ночи. Признаю, было довольно\nволнующе."
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_TwinYounger",
+   "key": "ee8c81b8",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nИнтересный опыт.\n<PAGE>\nПробраться в чужой дом посреди ночи\nвыпадает нечасто. Мне понравилось."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_Wantatan",
+   "key": "8c7d8808",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LAUGH>\r\nА знаешь, это был довольно интересный опыт,\nгав.\n<PAGE>\nМне нечасто приходилось скрывать своё\nприсутствие в мире людей. Будто проверку\nпроходил."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_11_Presenter",
+   "key": "6731e028",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nЭто был очень интересный опыт!\n<PAGE>\nНе скажу, что мне часто доводилось\nпробираться в чужой дом посреди ночи! Было\nвесело. ♪"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_Postman",
+   "key": "b10dba8c",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу вот... Остался только подарок нашего\nангелочка. Пойдём домой, дорогая."
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_Doctor",
+   "key": "40bad43c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто ж... Остался только подарок нашего\nмалыша. Идём."
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_Apprentice",
+   "key": "0f8960ed",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТак! Остался только подарок нашего ребёнка.\nДвигаем домой."
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_Chaser",
+   "key": "63064819",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТак, остался только подарок нашего малыша.\nПоспешим домой."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_Craftman",
+   "key": "47383bc6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТак, остался только подарок нашего малыша,\nда? Пошли домой."
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_Florist",
+   "key": "8baecffa",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nКажется, остался только подарок нашего\nмалыша, да? Пойдём домой?"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_TeaGirl",
+   "key": "546160d5",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак! Остался только подарок нашего сорванца,\nда? Скорее домой!"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_Teacher",
+   "key": "68a29da8",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, остался только подарок нашего\nребёнка. Вернёмся домой."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_TwinOlder",
+   "key": "be4f5cfb",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nХм-м, значит, остался только наш маленький\nшалопай. Ну же, пошли домой."
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_TwinYounger",
+   "key": "a21c1a72",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nОстался только подарок нашего ребёнка...\nПошли."
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_Wantatan",
+   "key": "e6de756e",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nТак, остался только подарок нашего малыша.\nПошли домой."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_12_Presenter",
+   "key": "b6356204",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКажется, остался только подарок нашего\nангелочка, да? Пойдём домой!"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_13",
+   "key": "9ae26790",
+   "ru": "(Какой подарок оставить <CHILD_NAME>?)"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_13_ChildBoy_GIFT1",
+   "key": "1c6026c9",
+   "ru": "Костюм машиниста"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_13_ChildBoy_GIFT2",
+   "key": "e3981185",
+   "ru": "Костюм самурая"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_13_ChildBoy_GIFT3",
+   "key": "e251696d",
+   "ru": "Костюм капитана пиратов"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_14_ChildBoy",
+   "key": "16f96974",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nМ-м, м-м-м...?"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_15_ChildBoy",
+   "key": "2cc6d3f3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА? Мама? Папа? Вы где?\n<PAGE>\nА? Что это за коробка...? Написано: “<CHILD_NAME>”."
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_16_ChildBoy_GIFT1",
+   "key": "e88b3cae",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУх ты! Форма машиниста!\n<PAGE>\nДаже фуражка есть! И перчатки, и ботинки!\n<PAGE>\nКак здорово! Хочу надеть прямо сейчас!"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_16_ChildBoy_GIFT2",
+   "key": "436534da",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА, это одежда самурая!\n<PAGE>\nДаже меч есть! И даже пучок волос...? Не, это\nмне не надо.\n<PAGE>\nУх ты-ы-ы! Как здорово! Хочу надеть прямо\nсейчас!"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_16_ChildBoy_GIFT3",
+   "key": "4f3606a5",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА-а-ах! Похоже на одежду капитана пиратов!\n<PAGE>\nДаже сабля есть, и крюк! О, и чёрная повязка\nна глаз...!\n<PAGE>\nУх ты-ы-ы! Как здорово! Хочу надеть и\nотправиться за добычей!"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_17_ChildBoy",
+   "key": "106ac2cd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nПапа! Мама! Смотрите, смотрите! Мне подарок!\nПодарок только для меня!"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_19_ChildBoy",
+   "key": "fe767315",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nАга! Завтра напишу благодарственное письмо!\n<PAGE>\nСпокойной ночи, папа и мама!"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_13_ChildGirl_GIFT1",
+   "key": "0e6648af",
+   "ru": "Костюм принцессы"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_13_ChildGirl_GIFT2",
+   "key": "a91ccbec",
+   "ru": "Костюм восточной аристократки"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_13_ChildGirl_GIFT3",
+   "key": "0be8d56c",
+   "ru": "Костюм танцовщицы"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_14_ChildGirl",
+   "key": "16f96974",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nМ-м, м-м-м...?"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_15_ChildGirl",
+   "key": "2cc6d3f3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nА? Мама? Папа? Вы где?\n<PAGE>\nА? Что это за коробка...? Написано: “<CHILD_NAME>”."
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_16_ChildGirl_GIFT1",
+   "key": "97248f1e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУх ты! Платье принцессы! Столько розовых\nоборок и камушков. ♪\n<PAGE>\nА это... тиара? Если надеть это платье, я стану\nпринцессой?\n<PAGE>\nТакое красивое! Хочу примерить прямо сейчас!"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_16_ChildGirl_GIFT2",
+   "key": "fadea7c7",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУх ты, это... одежда цуюкусской принцессы?\n<PAGE>\nСтолько разных красивых кимоно... Э-э... Как\nже оно... называется...? А, точно! Это\nдвенадцатислойное кимоно!\n<PAGE>\nПотря-а-асающе! Такое красивое! Хочу\nпримерить прямо сейчас!"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_16_ChildGirl_GIFT3",
+   "key": "eb47fecd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУх ты, это, кажется, одежда танцовщицы\nЛулукоко?\n<PAGE>\nСтолько камушков, всё так и сверкает.\n<PAGE>\nАх, тут даже колокольчик! Так по-взрослому и\nкруто!\n<PAGE>\nИ-и-и! Хочу надеть прямо сейчас!"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_17_ChildGirl",
+   "key": "106ac2cd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nПапа! Мама! Смотрите, смотрите! Мне подарок!\nПодарок только для меня!"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_19_ChildGirl",
+   "key": "6aa08b72",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nАга! ♪ Завтра напишу благодарственное\nписьмо!\n<PAGE>\nСпокойной ночи, папа и мама!"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_Postman",
+   "key": "b60a6acd",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗдорово, правда, <CHILD_NAME>?\n<PAGE>\nУверен, это богиня решила наградить тебя за\nхорошее поведение!\n<PAGE>\nНу, уже поздно, так что поиграем завтра, а\nсейчас спать, ладно?"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_Doctor",
+   "key": "e4228535",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПрекрасный подарок, <CHILD_NAME>.\n<PAGE>\nГотов поспорить, это богиня решила наградить\nтебя за примерное поведение.\n<PAGE>\nА теперь марш в кровать. Завтра наиграешься\nвволю."
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_Apprentice",
+   "key": "0658c4c0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nКлассный подарок, <CHILD_NAME>!\n<PAGE>\nТы в последнее время так хорошо себя ведёшь,\nчто, уверен, это награда от Инари!\n<PAGE>\nА теперь давай в кровать. Уже совсем поздно.\nЗавтра наиграешься."
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_Chaser",
+   "key": "63093a5d",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЧудесно, правда, <CHILD_NAME>?\n<PAGE>\nУверен, это награда от Инари за примерное\nповедение.\n<PAGE>\n...Однако уже весьма поздно, так что поиграем\nзавтра, а сейчас спать. Хорошо?"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_Craftman",
+   "key": "1d7bf4ce",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНеплохой подарок, <CHILD_NAME>.\n<PAGE>\nТы в последнее время так хорошо себя ведёшь,\nвот духи и решили тебя наградить, да?\n<PAGE>\nНо тебе пора спать, малыш. Поиграешь завтра."
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_Florist",
+   "key": "b260c587",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nРазве не чудесно, <CHILD_NAME>?\n<PAGE>\nУверена, богиня решила наградить тебя за то,\nчто ты весь год так хорошо себя ведёшь.\n<PAGE>\nА теперь скорее в кровать. Уже поздно.\nПоиграешь завтра, хорошо, солнышко?"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_TeaGirl",
+   "key": "5e28dfde",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЗдорово, <CHILD_NAME>!\n<PAGE>\nНаверное, это награда от Инари за хорошее\nповедение весь год!\n<PAGE>\n...Но время спать давным-давно прошло, так\nчто марш в кровать. Поиграешь завтра!"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_Teacher",
+   "key": "e7ae0575",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЧудесно, <CHILD_NAME>.\n<PAGE>\nНаверняка это подарок от Инари за примерное\nповедение.\n<PAGE>\n...Но сейчас пора спать. Поиграешь завтра."
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_TwinOlder",
+   "key": "31835398",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nНу разве не мило, <CHILD_NAME>?\n<PAGE>\nБез сомнения, духи решили наградить тебя за\nпримерное поведение.\n<PAGE>\nА теперь живо! Уже поздно. Ложись спать, а\nзавтра наиграешься вдоволь."
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_TwinYounger",
+   "key": "484a7634",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЯ рада за тебя, <CHILD_NAME>.\n<PAGE>\nНаверное, духи подарили это тебе за\nпримерное поведение.\n<PAGE>\n...Но солнышко уже легло спать, и тебе пора.\nПоиграешь завтра."
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_Wantatan",
+   "key": "94e6da69",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LAUGH>\r\nНу разве не здорово, <CHILD_NAME>?\n<PAGE>\nНаверное, духи подарили это тебе в награду за\nпримерное поведение.\n<PAGE>\n...А теперь спать. Уже поздно. Завтра\nнаиграешься вволю."
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_AFTER_18_Presenter",
+   "key": "ecc43e5e",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nМолодец, <CHILD_NAME>!\n<PAGE>\nУверена, богиня решила наградить тебя за\nхорошее поведение!\n<PAGE>\n...Но уже поздно, так что марш в кровать. Игры\nподождут до завтра."
+  }
+ ]
+}

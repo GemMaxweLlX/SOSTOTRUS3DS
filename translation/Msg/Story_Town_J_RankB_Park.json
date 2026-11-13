@@ -1,0 +1,75 @@
+{
+ "file": "Story_Town_J_RankB_Park",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_PARK_00",
+   "key": "0c99cec9",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nТы нам так помогаешь, <_____MYNAME_____>. Ну, с твоей помощью\nмы даже старую купальню снова запустили.\n<PAGE>\nНо раз она теперь такая блестящая и новенькая,\nне кажется ли, что это место торчит, как\nбельмо на глазу?\n<PAGE>\nВзять хоть эти страшненькие скамейки."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_PARK_01",
+   "key": "08de0f7f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nРазве, глядя на них, не хочется подумать про\nсебя...\n<PAGE>\n<FACE_ANGRY><FONT_SIZE_L>ЧТО ЗА ОБШАРПАННАЯ СКАМЕЙКА!\n<PAGE>\n<FACE_NORMAL>Или, может...\n<PAGE>\n<FACE_ANGRY><FONT_SIZE_L>КТО НА ЭТО ВООБЩЕ СЯДЕТ?!\n<PAGE>\n<FACE_NORMAL>...Ну, что-то в этом роде.\n<PAGE>\nРазве такие мысли не лезут в голову всякий\nраз, как видишь эту жалкую картину?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_PARK_02",
+   "key": "678686d3",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_SAD>\r\nЧто? Не лезут?!\n<PAGE>\nТогда надо перестать говорить такое вслух\nкаждый раз, когда прохожу мимо!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_PARK_03",
+   "key": "badd013c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОх, пап, поторопись, а? Если оставить всё тебе,\nничего никогда не сделается."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_PARK_04",
+   "key": "280108a7",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nВ общем, мы думаем превратить это место в\nмилый уголок, где люди смогут отдохнуть.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>Своё старомодное очарование тут есть, но как\nпарк для всех оно, пожалуй, не годится."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_PARK_05",
+   "key": "9d3c808a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу надо же! Похоже, мне и рассказать нечего не\nоставили. Вот, в общем, и всё.\n<PAGE>\nТак что! Для этой затеи нужны деньги и\nматериалы.\n<PAGE>\nМожно и в этот раз попросить тебя помочь?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_PARK_06",
+   "key": "668cf311",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПоможешь? Отлично! Мы очень признательны!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_PARK_07",
+   "key": "761e46cd",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nВот это <_____MYNAME_____>! Никогда не отказывается помочь!\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>Но не только <_____MYNAME_____>. Мы все собираемся помогать по\nмере сил."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_PARK_08",
+   "key": "8beb5628",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nТак, давай к делу.\n<PAGE>\nО деньгах не беспокойся. Это мы возьмём на\nсебя. Но если принесёшь нам материалы, это\nочень поможет!\n<PAGE>\nНам нужно: <BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE> и <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE>.\n<PAGE>\nДумаешь, сможешь их достать?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_J_RANKB_PARK_09",
+   "key": "3ebd8acb",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Значит, решено!\n<PAGE>\nКак соберёшь всё, неси мне, ладно?\n<PAGE>\nМы на тебя рассчитываем, <_____MYNAME_____>!"
+  }
+ ]
+}

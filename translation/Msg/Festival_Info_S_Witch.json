@@ -1,0 +1,96 @@
+{
+ "file": "Festival_Info_S_Witch",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_00",
+   "key": "7708767c",
+   "ru": "<FACE_INNOWNER>\r\n<_____MYNAME_____>? Это я, Тототара. Вхожу."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_01",
+   "key": "6fe9d9bc",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>. Хорошо выглядишь."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_02",
+   "key": "223d3451",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЗашла напомнить, что Праздник духов совсем\nскоро.\n<PAGE>\nПраздник духов пройдёт в тот же день, что и в\nпрошлом году, ― <BLUE>9 зимы</BLUE>.\n<PAGE>\nЕсли хочешь участвовать, подойди ко мне в\nдень праздника <BLUE>с 10:00 до 13:00</BLUE>."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_03",
+   "key": "ec2866ef",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nИ если ты не против, не поможешь снова\nсобрать пожертвования?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_04",
+   "key": "746b61ed",
+   "ru": "Конечно, помогу!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_05",
+   "key": "75e5f696",
+   "ru": "Простите, мне некогда"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_06",
+   "key": "ff03f7eb",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nМахало, махало. Собрать нужно у...\n<PAGE>\n<BLUE>Лудуса</BLUE>, <BLUE>Илуки</BLUE>, <BLUE>Захау</BLUE>, <BLUE>Альмы</BLUE>, <BLUE>Митры</BLUE> и <BLUE>Лотуса</BLUE>.\nТолько у этих шестерых.\n<PAGE>\nСобери деньги и принеси мне до <BLUE>вечера 8-го</BLUE>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_07",
+   "key": "0fbd452c",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nМахало, махало. Собрать нужно у...\n<PAGE>\n<BLUE>Лудуса</BLUE>, <BLUE>Силуки</BLUE>, <BLUE>Каолилы</BLUE>, <BLUE>Шалька</BLUE>, <BLUE>Хаулани</BLUE> и\n<BLUE>Тигре</BLUE>. Только у этих шестерых.\n<PAGE>\nСобери деньги и принеси мне до <BLUE>вечера 8-го</BLUE>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_08",
+   "key": "45be0c9d",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЕсли забудешь, у кого собирать, просто\nподойди ко мне.\n<PAGE>\nРассчитываю на твою помощь, чтобы этот\nпраздник запомнился."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_09",
+   "key": "e28bb321",
+   "ru": "(Так, мне нужно собрать деньги у...)\n<PAGE>\n(<BLUE>Лудуса</BLUE>, <BLUE>Илуки</BLUE>, <BLUE>Захау</BLUE>, <BLUE>Альмы</BLUE>, <BLUE>Митры</BLUE> и\n<BLUE>Лотуса</BLUE>. Понятно!)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_10",
+   "key": "d38e8c6a",
+   "ru": "(Так, мне нужно собрать деньги у...)\n<PAGE>\n(<BLUE>Лудуса</BLUE>, <BLUE>Силуки</BLUE>, <BLUE>Каолилы</BLUE>, <BLUE>Шалька</BLUE>, <BLUE>Хаулани</BLUE> и\n<BLUE>Тигре</BLUE>. Понятно!)"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_11",
+   "key": "6378568d",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nО, понимаю. Если не можешь ― не беспокойся.\n<PAGE>\nНе нужно так извиняться. Всё в порядке.\n<PAGE>\nЗато, когда придёт время, приходи на праздник\nповеселиться. Хорошо?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_S_WITCH_12",
+   "key": "0f3577f0",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, не буду злоупотреблять\nгостеприимством, пойду домой. Заходи когда\nзахочешь. Буду ждать!"
+  }
+ ]
+}

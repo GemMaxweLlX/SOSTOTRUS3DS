@@ -1,0 +1,61 @@
+{
+ "file": "Story_Town_A_RankC_Collabo_Menu1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_00",
+   "key": "1f0c1786",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nВидишь ли, как раз об этом я и хотел\nпоговорить.\n<PAGE>\nЯ в последнее время увлёкся экспериментами с\nновыми рецептами. Хочу придумать фирменное\nблюдо для ресторана!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_01",
+   "key": "233e71b4",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nОтличная же идея? Ну, признай!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_02",
+   "key": "864fd5c5",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nВ общем, я перебирал возможные рецепты и\nвдруг вспомнил о тебе.\n<PAGE>\nТы ведь выращиваешь на ферме всякое, да?\nМожет, даже то, что в наших краях не растёт?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_03",
+   "key": "ca78b95f",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nВот я и решил предложить тебе стать\nпартнёром в этом деле.\n<PAGE>\n<FACE_LAUGH>Разве не здорово вместе придумать совершенно\nновое блюдо?\n<PAGE>\nНу? Ты в деле?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_04",
+   "key": "5dc6172f",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nПравда?! Здорово! Вот видишь, спросить\nникогда не вредно!\n<PAGE>\n<FACE_NORMAL>В общем, какой рецепт хочу сделать, я уже\nпримерно представляю.\n<PAGE>\nПроблема в ингредиентах... и тут в дело\nвступаешь ты.\n<PAGE>\nМожно попросить тебя принести <BLUE><____ITEMNAME0____></BLUE> <BLUE>x<MOJI0></BLUE> и <BLUE><____ITEMNAME1____></BLUE> <BLUE>x<MOJI2></BLUE>?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_05",
+   "key": "66e241e9",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\nАх да, точно. Дороги ведь ещё ремонтируют?\n<PAGE>\nНу ничего. Не вечно же они будут закрыты,\nправда? Когда сможешь попасть в соседние\nгорода, тогда и ладно."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_06",
+   "key": "9cc28972",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nПринесёшь?! Спасибо! Ты мой новый лучший\nдруг! Нет, правда, я серьёзно!\n<PAGE>\nЕсли рецепт удастся, я расскажу всему городу,\nчто придумали его мы вдвоём!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RANKC_COLLABO_MENU1_07",
+   "key": "5d186051",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nЛадно, буду ждать.\n<PAGE>\nКак соберёшь все ингредиенты, неси их мне."
+  }
+ ]
+}

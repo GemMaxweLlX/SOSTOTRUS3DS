@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Wyatt",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "49379b24",
+   "ru": "Здорово, приятель."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "ddce9642",
+   "ru": "<NAME_MOB_WYATT>\r\nВсё в порядке? Скажи, если нужна помощь."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "88167b31",
+   "ru": "<NAME_MOB_WYATT>\r\nЕщё один мирный день! Как я люблю."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "cf06fd38",
+   "ru": "<NAME_MOB_WYATT>\r\nЧто нового на ферме?"
+  }
+ ]
+}

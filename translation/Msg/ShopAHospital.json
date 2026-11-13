@@ -1,0 +1,222 @@
+{
+ "file": "ShopAHospital",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_FIRST_003",
+   "key": "95a74ba0",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм? Новое лицо в наших краях.\n<PAGE>\nА, ты, должно быть, родня Фрэнка. <_____MYNAME_____>, верно?\n<PAGE>\nМеня зовут Форд. Я врач в клинике “Белая\nкапсула”.\n<PAGE>\nМогу подлечить тебя своими особыми уколами\nили продать лекарства в дорогу."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_GREETING_000",
+   "key": "afce0d5b",
+   "ru": "Клиника закрыта до конца праздника."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_GREETING_001",
+   "key": "578258e7",
+   "ru": "По субботам и воскресеньям клиника закрыта."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_GREETING_002",
+   "key": "56bfda77",
+   "ru": "Клиника закрыта. Приходите в часы работы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_GREETING_003",
+   "key": "80c19528",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nО, здравствуй. Ты здесь впервые, верно?\n<PAGE>\nДобро пожаловать в клинику “Белая капсула”.\nЯ лечу особыми уколами и продаю лекарства."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_GREETING_004",
+   "key": "cbea292f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто случилось? Тебе нехорошо?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_GREETING_005",
+   "key": "cbea292f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто случилось? Тебе нехорошо?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_CHOICE_000",
+   "key": "46631ff5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧем могу помочь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_CHOICE_001",
+   "key": "3669b7e0",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто-нибудь ещё?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_CHOICE_002",
+   "key": "b0d73f62",
+   "ru": "Восстановить силы"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_CHOICE_003",
+   "key": "2328a39b",
+   "ru": "Вылечиться"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_CHOICE_004",
+   "key": "9d41c8a4",
+   "ru": "Купить лекарство"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_CHOICE_005",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_CHOICE_006",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_CHOICE_007",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_STRENGTH_000",
+   "key": "210e6813",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм... Насколько я вижу, сил у тебя вполне\nхватает. Укол сейчас не нужен."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_STRENGTH_001",
+   "key": "ec4b9e42",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nО, хочешь восстановить силы? Укол стоит <BLUE><MOJI0></BLUE>.\nДелаем?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_STRENGTH_002",
+   "key": "2140535e",
+   "ru": "Делаем"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_STRENGTH_003",
+   "key": "7ec653b5",
+   "ru": "<CANCEL_SELECT>\r\nМне не по карману"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_STRENGTH_004",
+   "key": "057158a6",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПрости, но денег у тебя маловато."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_STRENGTH_005",
+   "key": "e21feb70",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПрости, но денег у тебя маловато.\n<PAGE>\n...\n<PAGE>\n...*вздох* Ладно. Один раз сделаю укол\nбесплатно. Он тебе нужен. Это экстренный\nслучай!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_STRENGTH_006",
+   "key": "b9c06bf8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм. Не хватает, да? Что ж, не могу же я\nвыставить тебя за дверь в беде. Посмотрю, что\nможно сделать..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_STRENGTH_007",
+   "key": "98903df3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТак, давай руку. Будет чуть-чуть больно, но не\nдвигайся, и всё закончится в мгновение ока."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_STRENGTH_008",
+   "key": "59990f29",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВот и всё!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_ITEM_000",
+   "key": "ed95d303",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм. Ладно. Какое лекарство ищешь?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_ITEM_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_ITEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_ITEM_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_GOODBYE_000",
+   "key": "0fffd5e1",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЕсли больше ничего, можешь идти."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_GOODBYE_001",
+   "key": "2257ff43",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Но если станет нехорошо,\nобязательно скажи. Сделаю всё, что смогу."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_SHOP_HOSPITAL_NAME",
+   "key": "fed301de",
+   "ru": "Белая капсула"
+  }
+ ]
+}

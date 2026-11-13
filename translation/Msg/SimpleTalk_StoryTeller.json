@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_StoryTeller",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "5d28483a",
+   "ru": "<NAME_MOB_JAYDEN>\r\nУ меня есть чудесные истории!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "357d91e9",
+   "ru": "<NAME_MOB_JAYDEN>\r\nГолос у меня как никогда. Кхм!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "391079c5",
+   "ru": "<NAME_MOB_JAYDEN>\r\nЛюбишь смотреть бумажный театр?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "51ec49a8",
+   "ru": "<NAME_MOB_JAYDEN>\r\nЯ в этом деле уже больше 50 лет!"
+  }
+ ]
+}

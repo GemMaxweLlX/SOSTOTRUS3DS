@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Aldo",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "1f543b36",
+   "ru": "<NAME_MOB_ALDO>\r\nАй! Пила оказалась острее, чем я думал!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "a7a6ff39",
+   "ru": "<NAME_MOB_ALDO>\r\nЧёрт! Попал молотком по пальцу!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "0b347906",
+   "ru": "<NAME_MOB_ALDO>\r\nДоктор Форд своё дело знает."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "df335c7e",
+   "ru": "<NAME_MOB_ALDO>\r\nОсторожнее! Нам тут травм хватит."
+  }
+ ]
+}

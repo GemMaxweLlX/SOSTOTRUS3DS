@@ -1,0 +1,341 @@
+{
+ "file": "ShopJAnimal",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_003",
+   "key": "c0827a4e",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nПриветствую. Добро пожаловать в “Сельский\nдвор”. Предлагаем вашему вниманию широкий\nвыбор животных и товаров."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GREETING_004",
+   "key": "1853b954",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nПриветствую. Добро пожаловать в “Сельский\nдвор”."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_000",
+   "key": "70142a5a",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nЧем могу служить?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_001",
+   "key": "0945f16b",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nЧто-нибудь ещё?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_002",
+   "key": "5bb5fe65",
+   "ru": "Купить животных"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_003",
+   "key": "92493652",
+   "ru": "Продать животных"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_004",
+   "key": "ff608c1a",
+   "ru": "Развести животных"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_005",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_006",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_007",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_CHOICE_008",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_000",
+   "key": "e2025530",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nУ нас только лучшие животные. Уверен, вы\nнайдёте подходящее."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_002",
+   "key": "c0eb48c9",
+   "ru": "У вас не хватает места."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_003",
+   "key": "2cb0da37",
+   "ru": "Совершить покупку?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_004",
+   "key": "cc32163b",
+   "ru": "Какое имя ему дать?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_005",
+   "key": "aa31f3f0",
+   "ru": "Имя \"<BLUE><MOJI0></BLUE>\" подходит?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_006",
+   "key": "9780e2b9",
+   "ru": "Отправлено на вашу ферму."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_007",
+   "key": "f7585bbb",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nВозможно, вам будет интересно: недавно к нам\nпоступили новые животные. Взгляните, когда\nудобно."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_BUY_008",
+   "key": "087ddd93",
+   "ru": "Где оно будет жить?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_SELL_000",
+   "key": "cb286755",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nХотите расстаться с животным? Жаль это\nслышать, но понимаю. Кого продадите?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_SELL_001",
+   "key": "db589a68",
+   "ru": "Продать это животное за <BLUE><MOJI0></BLUE>G?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_SELL_002",
+   "key": "05612208",
+   "ru": "Беременных животных продавать нельзя."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_SELL_003",
+   "key": "176c9d77",
+   "ru": "Больных животных продавать нельзя."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_SELL_004",
+   "key": "930a1dc6",
+   "ru": "Сбежавших животных продавать нельзя."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_SELL_005",
+   "key": "a4a68f65",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nК сожалению, похоже, вам нечего мне\nпредложить."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_000",
+   "key": "e345014b",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nХотите развести это животное? Да, с этим\nпомогу."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_001",
+   "key": "4f08936a",
+   "ru": "У вас есть беременное животное."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_002",
+   "key": "c82ecf7a",
+   "ru": "Начать разведение?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_003",
+   "key": "a4a8a0d9",
+   "ru": "Теперь животное беременно."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_004",
+   "key": "b7645b3e",
+   "ru": "В хлеву нет места."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_005",
+   "key": "5d0fc10e",
+   "ru": "Сбежавшее животное нельзя разводить."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_006",
+   "key": "a1416b00",
+   "ru": "Животные не в духе не размножаются."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_007",
+   "key": "c1ae687a",
+   "ru": "Грязное животное нельзя разводить."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PREGNANT_008",
+   "key": "e2dfdf31",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nПохоже, у вас нет животных, которые могут\nзабеременеть..."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_ITEM_000",
+   "key": "12502db8",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nРазумеется. Выберите, что желаете купить."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_ITEM_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_ITEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_ITEM_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_ITEM_004",
+   "key": "3dd39bb8",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nВ ассортименте новинки. Пожалуйста,\nвзгляните."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_ITEM_005",
+   "key": "96207dfe",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nНаше сотрудничество начало действовать.\nПожалуйста, оцените расширенный\nассортимент."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_GOODBYE_000",
+   "key": "d55de0b3",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nСпасибо! Все животные прелестны! Просто\nпрелестны!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_NAME",
+   "key": "ad2d3975",
+   "ru": "Сельский двор"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_PET_START",
+   "key": "923d2d31",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nВозможно, вам будет интересно: теперь мы\nотдаём питомцев в хорошие руки.\n<PAGE>\nЧтобы посмотреть питомцев, выберите “Купить\nживотных” и переключите вкладку <GREEN>кнопкой R</GREEN>."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MSG_SHOP_ANIMAL_HORSE_START",
+   "key": "4aa246ca",
+   "ru": "<NAME_MOB_TAGOSAKU>\r\nВозможно, вам будет интересно: теперь у нас\nесть и лошади.\n<PAGE>\nЧтобы посмотреть, выберите “Купить\nживотных” и переключите вкладку <GREEN>кнопкой R</GREEN>."
+  }
+ ]
+}

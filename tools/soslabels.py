@@ -15,8 +15,13 @@ without a "_0"/"_1" suffix applies to every state of that button. The key
 "_icon": true marks archives whose images start with a round button icon.
 "_fill" and "_ring" set the letter colour and an inner outline ("#rrggbb",
 or "edge" for the outline colour of the original word), "_size" the font
-size in pixels and "_stroke" the outline width. A label may also be an object such as
+size in pixels and "_stroke" the outline width. With "box": [x0, y0, x1, y1] a word inside a
+bigger picture is replaced: the box is painted with its corner colour and
+the new word is drawn there in "fill" colour, without an outline
+("align": "center" centres it in the box). "dx"/"dy" shift a word by pixels. A label may also be an object such as
 {"text": "Весна", "fill": "#ff4f8f"} to override the style for one image.
+"keep_box": true keeps the new word inside the area of the original one,
+for pictures of which the game shows only that part.
 Needs Pillow.
 """
 
@@ -73,7 +78,8 @@ def parse_colour(value, edge):
     return tuple(int(value[i:i + 2], 16) for i in (0, 2, 4)) + (255,)
 
 
-def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12, stroke=2):
+def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12, stroke=2,
+            keep_box=False, dx=0, dy=0):
     """Replace the word in an image.
 
     fill, ring: "#rrggbb", or "edge" for the outline colour of the original
@@ -95,6 +101,10 @@ def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12,
 
     left = x0 + 1 if icon else 1
     room = img.width - 1 - left
+    if keep_box:
+        # the game shows only the part of the picture where the original
+        # word was: keep the new word inside that box
+        left, room = x0, x1 - x0
 
     while True:
         font = ImageFont.truetype(ttf_path, size)
@@ -119,8 +129,38 @@ def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12,
 
     out = img.copy()
     out.paste((0, 0, 0, 0), (x0 if icon else 0, 0, img.width, img.height))
-    pos = left - 2 if icon else round((img.width - width) / 2) - 2
-    out.alpha_composite(layer, (max(pos, 0), 0))
+    if keep_box:
+        pos = left - 2
+    else:
+        pos = left - 2 if icon else round((img.width - width) / 2) - 2
+    out.alpha_composite(layer, (max(pos + dx, 0), dy) if dy >= 0 else (max(pos + dx, 0), 0),
+                        (0, 0) if dy >= 0 else (0, -dy))
+    return out
+
+
+def relabel_box(img, text, ttf_path, box, fill="#ffffff", size=12, align="left",
+                dx=0, dy=0, **_ignored):
+    """Replace a word that sits inside a bigger picture.
+
+    box = [x0, y0, x1, y1]: the area of the old word. It is painted over with
+    the colour found at its top-left corner, and the new word is drawn there
+    without an outline, centred vertically, starting at the left edge."""
+    img = img.convert("RGBA")
+    x0, y0, x1, y1 = box
+    background = img.getpixel((x0, y0))
+    colour = parse_colour(fill, background) or (0, 0, 0, 255)
+    out = img.copy()
+    out.paste(background, (x0, y0, x1, y1))
+    while True:
+        font = ImageFont.truetype(ttf_path, size)
+        bbox = font.getbbox(text)
+        if bbox[2] - bbox[0] <= x1 - x0 or size <= 8:
+            break
+        size -= 1
+    caps = font.getbbox("Н")
+    left = x0 if align == "left" else round((x0 + x1 - (bbox[2] - bbox[0])) / 2)
+    origin = (left - bbox[0] + dx, round((y0 + y1) / 2 - (caps[1] + caps[3]) / 2) + dy)
+    ImageDraw.Draw(out).text(origin, text, font=font, fill=colour)
     return out
 
 
@@ -147,7 +187,10 @@ def main(argv=None):
                 if isinstance(text, dict):          # per-image overrides
                     word = text["text"]
                     options.update({k: v for k, v in text.items() if k != "text"})
-                relabel(Image.open(path), word, ttf_path, **options).save(path)
+                if "box" in options:
+                    relabel_box(Image.open(path), word, ttf_path, **options).save(path)
+                else:
+                    relabel(Image.open(path), word, ttf_path, **options).save(path)
                 done += 1
     print("%s: redrew %d images" % (arc_name, done))
     return 0

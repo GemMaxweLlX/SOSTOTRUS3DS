@@ -1,0 +1,89 @@
+{
+ "file": "Story_Sister_Leave_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_00",
+   "key": "75decd4a",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nДоброе утро, <RELATIONSHIP>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_01",
+   "key": "e04707bf",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nПрости за плохие новости, но мне пора\nуезжать."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_02",
+   "key": "fab6328a",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nЯ бы с радостью ещё побыла, но надо\nвернуться к началу учёбы... к сожалению.\n<PAGE>\nЯ как раз собиралась в Уэстаун, на дилижанс.\nТы ведь меня проводишь, да?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_03",
+   "key": "dbd2df59",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_NORMAL>\r\nОтлично! Ну же, помоги донести чемоданы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_04",
+   "key": "d71ebcd8",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Спасибо, что одолжили кровать, дядя Фрэнк!\nОна была мягкая-премягкая и ужасно удобная!\n♪\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH>Рад слышать! Приезжай снова, слышишь? Я\nдаже испеку домашнюю пиццу, которую ты так\nлюбишь.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_NORMAL>О-о, ура! Было бы здорово! Спасибо, дядя\nФрэнк!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_05",
+   "key": "f7b89a29",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, я обязательно расскажу маме с папой, как\nусердно ты трудишься на ферме."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_06",
+   "key": "9e18268d",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nЕсли найду ещё пару свободных дней, снова\nприеду. Знаю, тебе без меня будет ох как\nодиноко, но постарайся продержаться, ладно?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_07",
+   "key": "64d5cf9e",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\nАх! И знаешь что? За то, что так любезно меня\nприютили, я оставила тебе подарок в\nблагодарность!\n<PAGE>\n<WINDOW_FUN_R>Я спрятала его под кроватью. Поищи, ладно?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_08",
+   "key": "d8f5ac27",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Ну, мне пора. Пока-пока! ♪"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_09",
+   "key": "dac71fea",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНу вот и уехала..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_10",
+   "key": "f8e1a45e",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nУже скучаешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_SISTAR_LEAVE_1_11",
+   "key": "d1515b65",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nНу, если вдруг станет одиноко и захочется\nкомпании, заходи ко мне на ужин в любое\nвремя."
+  }
+ ]
+}

@@ -1,0 +1,320 @@
+{
+ "file": "Love_J_Chaser_7",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_00",
+   "key": "f5547310",
+   "ru": "<FACE_JAPANFARMOLDMAN>\r\nА, <_____MYNAME_____>, проходи!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_01",
+   "key": "78264af8",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nТы чуть-чуть разминулась с Юдзуки, милая. Он\nушёл минуту назад, сказал, что у него дела.\n<PAGE>\n<FACE_LAUGH>Правда, он говорил, что на обратном пути\nзайдёт к тебе. Пожалуй, быстрее подождать\nего там."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_02",
+   "key": "2778dab7",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nИ всё же как я горжусь, что наш Юдзуки нашёл\nне просто спутницу, а такую, как ты, <_____MYNAME_____>.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>Да. Даже не верится, что когда-то он был так\nслаб, что почти каждый день лежал в постели.\n<PAGE>\nКак чудесно видеть его теперь счастливым и\nздоровым."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_03",
+   "key": "8511f7b3",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nКогда Юдзуки был маленьким, стоило ему\nвыйти погулять, и назавтра он почти всегда\nлежал с высокой температурой.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_SAD>Я каждый раз так за него боялась, гадая, не\nстанет ли этот раз последним, когда его тело\nуже не выдержит.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>Конечно, показывать ему эти сомнения я не\nмогла. Поэтому всегда сидела рядом,\nулыбалась и говорила, что всё будет хорошо.\n<PAGE>\n<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>Когда он впервые целую неделю ни разу не\nслёг, мы оба чуть не прыгали от радости."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_04",
+   "key": "c601d342",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nНо Юдзуки всегда был очень стойким\nребёнком. Даже в самые тяжёлые дни почти не\nжаловался.\n<PAGE>\n<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>Если он когда-нибудь начнёт тебе жаловаться,\nбудь к нему добра. Он делает это нечасто."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_05",
+   "key": "b667beeb",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nПозаботься о нём ради нас, хорошо, милая?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_06",
+   "key": "92db6f7e",
+   "ru": "(Интересно, Юдзуки уже пришёл?)"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_07",
+   "key": "7a72df57",
+   "ru": "<FACE_CHASER>\r\nНгх..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_08",
+   "key": "0245a14c",
+   "ru": "<FACE_CHASER>\r\nПрости... мне вдруг... плохо..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_09",
+   "key": "fec141ff",
+   "ru": "<FACE_CHASER>\r\nДа... позови доктора Форда..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_10",
+   "key": "466ea8bc",
+   "ru": "<FACE_CHASER>\r\nПостой..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_11",
+   "key": "1484d4b2",
+   "ru": "<FACE_CHASER>\r\nНе говори... бабушке и дедушке..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_12",
+   "key": "0172cda6",
+   "ru": "<FACE_CHASER>\r\n*стон*"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_13",
+   "key": "849dfcba",
+   "ru": "(Что делать? Рассказать Умэкити и Омиё?)"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_14",
+   "key": "2a4d43eb",
+   "ru": "Рассказать им"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_15",
+   "key": "9ab235f8",
+   "ru": "Не рассказывать"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_16",
+   "key": "d53fd8e6",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЭто лишь лёгкое пищевое отравление.\n<PAGE>\nПо его словам, несколько часов назад он\nсобирал овощи и попробовал дикий гриб на\nперекус.\n<PAGE>\nЯ дал ему лекарство, чтобы успокоить\nжелудок. Теперь ему нужен лишь хороший\nночной сон. К утру ему станет лучше."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_17",
+   "key": "9d745bb0",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_SAD>\r\nОх, хвала небесам! Хвала небесам!\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_SAD>Когда я услышала, что он упал, думала, у меня\nсердце остановится."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_18",
+   "key": "3354f6f8",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_SAD>\r\n...Мне так жаль. Я не хотел вас тревожить..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_19",
+   "key": "a4cd1888",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_SAD>\r\nНичего, Юдзуки, милый.\n<PAGE>\n<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>Ты наш драгоценный внук. Естественно, что мы\nза тебя волнуемся."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_20",
+   "key": "f5dab6ff",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nИтак, мы пойдём вызовем паланкин, чтобы\nотвезти Юдзуки домой...\n<PAGE>\nА потом поговорим с Фордом.\n<PAGE>\n<_____MYNAME_____>, можно попросить тебя побыть с Юдзуки, пока\nне прибудет паланкин?\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_SAD>Ужасно неловко тебя утруждать, но мы были\nбы очень признательны."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_21",
+   "key": "3dbaf1d1",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_SAD>\r\n...Больше всего на свете я не люблю видеть\nтревогу на лицах бабушки и дедушки.\n<PAGE>\nДаже сейчас, когда я взрослый, от одной\nмысли, что это я довёл их до такого, сердце\nсжимается."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_22",
+   "key": "99fa6d80",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_SAD>\r\nНет, не нужно извиняться. Ты поступила\nправильно.\n<PAGE>\nК тому же я наверняка заставил тебя изрядно\nповолноваться. Должно быть, увидеть меня\nтаким было тем ещё потрясением."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_23",
+   "key": "df9d5676",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nСпасибо, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOSS>..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_24",
+   "key": "9e94dea3",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LOSS>\r\nМожет, сейчас не самое подходящее время об\nэтом говорить...\n<PAGE>\n<FACE_LOVE>Но лёжа вот так в твоей постели...\n<PAGE>\nПочти кажется, будто мы живём вместе."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_25",
+   "key": "0f6dcacc",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LOVE>\r\nКогда-нибудь... мы с тобой...\n<PAGE>\nПод одной крышей..."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_26",
+   "key": "24ccdcf2",
+   "ru": "(Спокойной ночи, Юдзуки. Выздоравливай\nскорее.)"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_27",
+   "key": "f51ef094",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЭто лишь лёгкое пищевое отравление.\n<PAGE>\nПо его словам, несколько часов назад он\nсобирал овощи и попробовал дикий гриб на\nперекус.\n<PAGE>\nЯ дал ему лекарство для желудка. Теперь ему\nнужен лишь хороший ночной сон. К\nзавтрашнему дню ему станет лучше."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_28",
+   "key": "f8bdf494",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_SAD>\r\nСпасибо, доктор Форд. Мне очень жаль, что\nвам пришлось идти в такую даль.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Прошу вас. Я врач. Это моя работа.\n<PAGE>\nЕсли вы правда считаете, что нужна\nблагодарность, благодарите <_____MYNAME_____>.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Да, конечно. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_29",
+   "key": "a11731a4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА теперь прошу меня извинить."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_30",
+   "key": "9c67a89b",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nТы не сказала бабушке с дедушкой. ...Спасибо.\nПрости, что попросил о такой странной услуге."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_31",
+   "key": "51bcc4dc",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_SAD>\r\nБольше всего на свете я не люблю видеть\nтревогу на лицах бабушки и дедушки.\n<PAGE>\nКогда я был маленьким и болел, они оба\nсмотрели на меня с очень добрыми, но явно\nвстревоженными улыбками.\n<PAGE>\nХоть моё слабое здоровье и не было моей\nвиной, от одной мысли, что это я причиняю им\nтакое горе...\n<PAGE>\n...мне было больнее, чем от самой болезни."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_32",
+   "key": "55f36005",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nС возрастом я немного окреп. Я воспользовался\nэтим и стал как можно больше заниматься,\nчтобы укрепиться ещё сильнее.\n<PAGE>\nТеперь, когда я достаточно здоров, чтобы не\nболеть постоянно, они оба всегда искренне и\nрадостно мне улыбаются.\n<PAGE>\n<FACE_LAUGH>Видеть эти улыбки для меня всегда такое\nсчастье."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_33",
+   "key": "0a7ee229",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LOSS>\r\nНо теперь здоровье подводит уже бабушку.\n<PAGE>\n<FACE_SAD>Не могу не думать, не моя ли это вина...\n<PAGE>\nПотому что я так долго заставлял её\nнервничать и волноваться."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_34",
+   "key": "a240d5d8",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_SAD>\r\n<_____MYNAME_____>..."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_35",
+   "key": "b9291dec",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_SAD>\r\nТы права... Прости.\n<PAGE>\nТакие мысли огорчили бы бабушку с дедушкой\nбольше всего на свете."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_36",
+   "key": "9f6c5f78",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_SAD>\r\nОднако это давно меня гложет. О таком я\nникогда никому не мог рассказать.\n<PAGE>\n<FACE_NORMAL>Но открывшись тебе и услышав, что это\nнеправда... я чувствую, будто с плеч свалился\nогромный груз."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_37",
+   "key": "f2e9f39c",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LOSS>\r\nБатюшки... Кажется, сегодня я только и делаю,\nчто показываю тебе свои самые жалкие\nстороны.\n<PAGE>\nЯ наверняка заставил тебя изрядно\nповолноваться. Должно быть, увидеть меня\nтаким было тем ещё потрясением."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_38",
+   "key": "3763ebec",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LOVE>\r\nСпасибо, <_____MYNAME_____>.\n<PAGE>\n..."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_39",
+   "key": "9e94dea3",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LOSS>\r\nМожет, сейчас не самое подходящее время об\nэтом говорить...\n<PAGE>\n<FACE_LOVE>Но лёжа вот так в твоей постели...\n<PAGE>\nПочти кажется, будто мы живём вместе."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_40",
+   "key": "0f6dcacc",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LOVE>\r\nКогда-нибудь... мы с тобой...\n<PAGE>\nПод одной крышей..."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_41",
+   "key": "ab627fbf",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nАх. Мне гораздо лучше. Спасибо, что так\nхорошо за мной ухаживала."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_42",
+   "key": "7ac2df9c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nНадеюсь, ты как-нибудь зайдёшь в гости. До\nвстречи..."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_43",
+   "key": "2993f7fb",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nОй, постой. Чуть не забыл кое-что очень\nважное. Можно попросить тебя замереть на\nсекундочку?"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_CHASER_7_44",
+   "key": "6486944f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nПоцелуй в губы прибережём до другого раза...\n<PAGE>\nЯ люблю тебя, <_____MYNAME_____>. Спокойной ночи."
+  }
+ ]
+}

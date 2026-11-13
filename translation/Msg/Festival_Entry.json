@@ -1,0 +1,1517 @@
+{
+ "file": "Festival_Entry",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_BEFORE",
+   "key": "1510ebd9",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник урожая</RED>! Запись <BLUE>с 10:00 до\n13:00</BLUE>, так что подождите немного."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_BAG_ENPTY",
+   "key": "bcafd4cf",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nОй, забыла сказать: победителю положен приз,\nтак что освободите место в сумке."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_START",
+   "key": "eba84025",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник урожая</RED>! В каком классе\nбудете участвовать?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_CHOICE_BEGINNER",
+   "key": "75bf77c5",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите урожай, который хотите\nвыставить.\n<PAGE>\nВ классе Новичок темы нет, так что\nвыставляйте свой лучший урожай."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_CHOICE_00",
+   "key": "e57967b0",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите урожай, который хотите\nвыставить.\n<PAGE>\nКстати, тема на этот раз ― <MOJI0>.\n<PAGE>\nВыберите то, что подходит под тему."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_CHOICE_01",
+   "key": "3fd0336e",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите урожай, который хотите\nвыставить.\n<PAGE>\nКстати, темы на этот раз ― <MOJI0> и <MOJI1>.\n<PAGE>\nВыберите то, что подходит под темы."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_CHOICE_02",
+   "key": "b705b734",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите урожай, который хотите\nвыставить.\n<PAGE>\nКстати, темы на этот раз ― <MOJI0>, <MOJI1> и <MOJI2>.\n<PAGE>\nВыберите то, что подходит под темы."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_THEME_ALL",
+   "key": "0355373d",
+   "ru": "Все"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_DECISION",
+   "key": "9b2dbbe1",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nУчаствуете в классе <RED><MOJI0></RED>, экспонат: <BLUE><MOJI1></BLUE>. Всё верно?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_DECISION_NO",
+   "key": "71b92359",
+   "ru": "Нет, подумаю ещё"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_DECISION_STOP",
+   "key": "81dbe132",
+   "ru": "<CANCEL_SELECT>\r\nЯ не буду участвовать"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_NEED_ITEM",
+   "key": "885d71f8",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nЧтобы участвовать, нужен урожай. Положите\nчто-нибудь в сумку."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_FINISH",
+   "key": "81d28d69",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за участие! Пойдёмте на площадку."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_CANCEL",
+   "key": "1597489f",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПонятно, жаль. Запись до <BLUE>13:00</BLUE>, так что если\nпередумаете ― приходите."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_RECEPTION_END",
+   "key": "34f40c0a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЗапись на сегодня закрыта. Ждём вас в\nследующий раз!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_FES_CROPS_ENTRY_TIMEOVER",
+   "key": "facc3f9c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодняшний праздник окончен. Ждём вас в\nследующий раз!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_BEFORE",
+   "key": "83c176fc",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник животных</RED>! Запись <BLUE>с 10:00 до\n13:00</BLUE>, так что подождите немного."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_BAG_ENPTY",
+   "key": "bcafd4cf",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nОй, забыла сказать: победителю положен приз,\nтак что освободите место в сумке."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_START",
+   "key": "ee4b62c8",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник животных</RED>! В каком классе\nбудете участвовать?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_CHOICE_BEGINNER",
+   "key": "0ad1de07",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите животное, которое хотите\nвыставить.\n<PAGE>\nВ классе Новичок темы нет, так что выбирайте\nживотное, с которым вы ближе всего."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_CHOICE_00",
+   "key": "24818bc9",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите животное, которое хотите\nвыставить.\n<PAGE>\nКстати, тема на этот раз ― <MOJI0>. Выберите\nживотное, которое подходит под тему."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_CHOICE_01",
+   "key": "f840d830",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите животное, которое хотите\nвыставить.\n<PAGE>\nКстати, темы на этот раз ― <MOJI0> и <MOJI1>.\n<PAGE>\nВыберите животное, которое подходит под\nтемы."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_CHOICE_02",
+   "key": "2e922a55",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите животное, которое хотите\nвыставить.\n<PAGE>\nКстати, темы на этот раз ― <MOJI0>, <MOJI1> и <MOJI2>.\n<PAGE>\nВыберите животное, которое подходит под\nтемы."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_THEME_ALL",
+   "key": "0355373d",
+   "ru": "Все"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_DECISION",
+   "key": "89228c5c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nУчаствуете в классе <RED><MOJI0></RED>, участник: <BLUE><MOJI1></BLUE>. Всё верно?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_DECISION_NO",
+   "key": "71b92359",
+   "ru": "Нет, подумаю ещё"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_DECISION_STOP",
+   "key": "81dbe132",
+   "ru": "<CANCEL_SELECT>\r\nЯ не буду участвовать"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_FINISH",
+   "key": "81d28d69",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за участие! Пойдёмте на площадку."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_CANCEL",
+   "key": "1597489f",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПонятно, жаль. Запись до <BLUE>13:00</BLUE>, так что если\nпередумаете ― приходите."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_RECEPTION_END",
+   "key": "34f40c0a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЗапись на сегодня закрыта. Ждём вас в\nследующий раз!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_FES_ANIMAL_ENTRY_TIMEOVER",
+   "key": "facc3f9c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодняшний праздник окончен. Ждём вас в\nследующий раз!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_BEFORE",
+   "key": "26576437",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Парад питомцев</RED>! Запись <BLUE>с 10:00 до\n13:00</BLUE>, так что подождите немного."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_BAG_ENPTY",
+   "key": "bcafd4cf",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nОй, забыла сказать: победителю положен приз,\nтак что освободите место в сумке."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_START",
+   "key": "461e3a68",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Парад питомцев</RED>! В каком классе будете\nучаствовать?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_CHOICE_BEGINNER",
+   "key": "3ca3ad39",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите питомца, которого хотите\nвыставить.\n<PAGE>\nВ классе Новичок темы нет, так что выбирайте\nпитомца, с которым вы ближе всего."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_CHOICE",
+   "key": "c55eafc2",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите питомца, которого хотите\nвыставить.\n<PAGE>\nКстати, тема на этот раз ― <MOJI0>.\n<PAGE>\nВыберите питомца, который подходит под\nтему."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_DECISION",
+   "key": "89228c5c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nУчаствуете в классе <RED><MOJI0></RED>, участник: <BLUE><MOJI1></BLUE>. Всё верно?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_DECISION_NO",
+   "key": "71b92359",
+   "ru": "Нет, подумаю ещё"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_DECISION_STOP",
+   "key": "81dbe132",
+   "ru": "<CANCEL_SELECT>\r\nЯ не буду участвовать"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_FINISH",
+   "key": "81d28d69",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за участие! Пойдёмте на площадку."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_CANCEL",
+   "key": "1597489f",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПонятно, жаль. Запись до <BLUE>13:00</BLUE>, так что если\nпередумаете ― приходите."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_RECEPTION_END",
+   "key": "34f40c0a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЗапись на сегодня закрыта. Ждём вас в\nследующий раз!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MSG_FES_PET_ENTRY_TIMEOVER",
+   "key": "facc3f9c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодняшний праздник окончен. Ждём вас в\nследующий раз!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_BEFORE",
+   "key": "29d2cebe",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Кулинарная выставка</RED>! Запись <BLUE>с 10:00\nдо 13:00</BLUE>, так что подождите немного."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_BAG_ENPTY",
+   "key": "bcafd4cf",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nОй, забыла сказать: победителю положен приз,\nтак что освободите место в сумке."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_START",
+   "key": "de486b2c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Кулинарная выставка</RED>! В каком классе\nбудете участвовать?"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_DEPARTMENT_BEGINNER",
+   "key": "675695e0",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите категорию.\n<PAGE>\nВ классе Новичок темы нет, так что выбирайте\nсвоё лучшее блюдо."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_DEPARTMENT",
+   "key": "d69f938c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, выберите категорию.\n<PAGE>\nКстати, тема на этот раз ― <MOJI0>."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_DEPARTMENT_SINGLE",
+   "key": "8871123f",
+   "ru": "Одно блюдо"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_DEPARTMENT_COURSE",
+   "key": "10e81c5e",
+   "ru": "Полный обед"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_SINGLE_SELECT",
+   "key": "bf13cc68",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nКатегория “Одно блюдо”, понятно. Какое\nблюдо будете готовить?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_DECISION",
+   "key": "80ec8af3",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nУчаствуете в классе <RED><MOJI0></RED>, блюдо: <BLUE><MOJI1></BLUE>. Всё верно?"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_DECISION_NO",
+   "key": "71b92359",
+   "ru": "Нет, подумаю ещё"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_DECISION_STOP",
+   "key": "81dbe132",
+   "ru": "<CANCEL_SELECT>\r\nЯ не буду участвовать"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_FINISH",
+   "key": "116d90f8",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за участие! Пойдёмте на площадку!"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_CANCEL",
+   "key": "1597489f",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПонятно, жаль. Запись до <BLUE>13:00</BLUE>, так что если\nпередумаете ― приходите."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_RECEPTION_END",
+   "key": "34f40c0a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЗапись на сегодня закрыта. Ждём вас в\nследующий раз!"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MSG_FES_COOKING_ENTRY_TIMEOVER",
+   "key": "facc3f9c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодняшний праздник окончен. Ждём вас в\nследующий раз!"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_BEFORE",
+   "key": "c71b61ea",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Показ мод</RED>! Запись <BLUE>с 10:00 до 13:00</BLUE>,\nтак что подождите немного."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_BAG_ENPTY",
+   "key": "bcafd4cf",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nОй, забыла сказать: победителю положен приз,\nтак что освободите место в сумке."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_START",
+   "key": "45eb3ecb",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Показ мод</RED>! В каком классе будете\nучаствовать?"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_COORDINATE_00",
+   "key": "e0d5362e",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nНа этот раз особой темы нет. Выходите в\nнаряде, который считаете самым стильным."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_COORDINATE_01",
+   "key": "9516b267",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nТема на этот раз ― стиль <RED><MOJI0></RED> в цвете <RED><MOJI1></RED>."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_COORDINATE_02",
+   "key": "50bfb761",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nТема на этот раз ― <RED><MOJI0></RED> и стиль <RED><MOJI2></RED> в цвете <RED><MOJI1></RED>."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_COORDINATE_03",
+   "key": "2194070a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nТема на этот раз ― <RED><MOJI0></RED> и <RED><MOJI3></RED> в стиле <RED><MOJI2></RED> в цвете <RED><MOJI1></RED>."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_DECISION",
+   "key": "d10aa6e4",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, участвуете в классе <RED><MOJI0></RED> в нынешнем\nнаряде. Всё верно?"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_DECISION_YES",
+   "key": "8d45044e",
+   "ru": "Да, верно"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_DECISION_NO",
+   "key": "71b92359",
+   "ru": "Нет, подумаю ещё"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_DECISION_STOP",
+   "key": "81dbe132",
+   "ru": "<CANCEL_SELECT>\r\nЯ не буду участвовать"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_FINISH",
+   "key": "81d28d69",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за участие! Пойдёмте на площадку."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_CANCEL",
+   "key": "1597489f",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПонятно, жаль. Запись до <BLUE>13:00</BLUE>, так что если\nпередумаете ― приходите."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_RECEPTION_END",
+   "key": "34f40c0a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЗапись на сегодня закрыта. Ждём вас в\nследующий раз!"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MSG_FES_FASHION_ENTRY_TIMEOVER",
+   "key": "facc3f9c",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nСегодняшний праздник окончен. Ждём вас в\nследующий раз!"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MSG_FES_A_GODDESS_ENTRY_BEFORE",
+   "key": "029da549",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник богини</RED>! Запись <BLUE>с 10:00 до\n13:00</BLUE>, так что придержи коней."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MSG_FES_A_GODDESS_ENTRY_BAG_ENPTY",
+   "key": "09dd7b9d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник богини</RED>! Будут подарки, так\nчто освободи место в сумке."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MSG_FES_A_GODDESS_ENTRY_START",
+   "key": "63b8fcef",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник богини</RED>! На нём мы молим\nбогиню о щедром урожае. Будешь участвовать?"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MSG_FES_A_GODDESS_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MSG_FES_A_GODDESS_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MSG_FES_A_GODDESS_ENTRY_FINISH",
+   "key": "34550a8d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо, тогда провожу тебя на площадку."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MSG_FES_A_GODDESS_ENTRY_CANCEL",
+   "key": "fb4d1bb9",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПонятно, жаль. Если передумаешь, запись до\n<BLUE>13:00</BLUE>."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MSG_FES_A_GODDESS_ENTRY_CAMPA_SUCCESS_00",
+   "key": "7e3df7cc",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ уже говорила, но ещё раз спасибо за помощь\nс пожертвованиями.\n<PAGE>\nДенег собрали предостаточно. Наверное,\nблагодаря тебе мы так основательно\nподготовились.\n<PAGE>\nНу, пойдём."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MSG_FES_A_GODDESS_ENTRY_CAMPA_SUCCESS_01",
+   "key": "49b8aee5",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ уже говорила, но ещё раз спасибо за помощь\nс пожертвованиями.\n<PAGE>\nБлагодаря собранным деньгам подготовка к\nпразднику прошла без проблем.\n<PAGE>\nНу, пойдём."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MSG_FES_A_GODDESS_ENTRY_FAILURE",
+   "key": "b23f1dff",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>? Про сбор пожертвований совсем\nзабылось, да?\n<PAGE>\nИз-за этого нам было трудно собрать средства\nна праздник.\n<PAGE>\nЕсли у тебя остались деньги с пожертвований, я\nих заберу.\n<PAGE>\nНу, пойдём."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MSG_FES_J_RICE_EAR_ENTRY_BEFORE",
+   "key": "32f46adf",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник изобилия</RED>! Запись <BLUE>с 10:00 до\n13:00</BLUE>, так что приходи тогда."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MSG_FES_J_RICE_EAR_ENTRY_BAG_ENPTY",
+   "key": "1795f4b0",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник изобилия</RED>! Будут подарки и\nвсякое такое, так что освободи место в сумке,\nладно?"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MSG_FES_J_RICE_EAR_ENTRY_START",
+   "key": "8f352f29",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник изобилия</RED>! На нём мы\nблагодарим богов за щедрый урожай.\n<PAGE>\nТы с нами, <_____MYNAME_____>?"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MSG_FES_J_RICE_EAR_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MSG_FES_J_RICE_EAR_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MSG_FES_J_RICE_EAR_ENTRY_FINISH",
+   "key": "4c3a33ec",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nТогда давай провожу тебя на площадку."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MSG_FES_J_RICE_EAR_ENTRY_CANCEL",
+   "key": "19cee985",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЖаль. Запись до <BLUE>13:00</BLUE>, так что если\nпередумаешь ― заглядывай."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MSG_FES_J_RICE_EAR_ENTRY_CAMPA_SUCCESS_00",
+   "key": "1f7bc3f5",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nАх да, точно. Я уже говорил, но огромное\nспасибо за помощь со сбором пожертвований.\n<PAGE>\nДенег набрали целую кучу, так что к\nсегодняшнему дню подготовились\nосновательно. Всё благодаря тебе!\n<PAGE>\nНу что, пойдём?"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MSG_FES_J_RICE_EAR_ENTRY_CAMPA_SUCCESS_01",
+   "key": "9db3a7eb",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nАх да, точно. Я уже говорил, но огромное\nспасибо за помощь со сбором пожертвований.\n<PAGE>\nБлагодаря собранным деньгам подготовка к\nпразднику прошла гладко.\n<PAGE>\nНу что, пойдём?"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MSG_FES_J_RICE_EAR_ENTRY_FAILURE",
+   "key": "98bcd00f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКстати, про сбор денег-то совсем забылось,\nда? Нам пришлось туго, денег не хватало.\n<PAGE>\nЕсли у тебя есть собранные деньги, я их заберу.\n<PAGE>\nЯ сам за всё отвечу и верну всем. Ладно,\nпойдём."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MSG_FES_S_WITCH_ENTRY_BEFORE",
+   "key": "2cab617e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник духов</RED>! Запись <BLUE>с 10:00 до\n13:00</BLUE>, так что приходи чуть позже."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MSG_FES_S_WITCH_ENTRY_BAG_ENPTY",
+   "key": "a93cc032",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник духов</RED>! Будут подарки, так\nчто освободи место в сумке, хорошо?"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MSG_FES_S_WITCH_ENTRY_START",
+   "key": "8a1b05f0",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник духов</RED>! На нём мы молимся о\nспокойном океане. Ты ведь, конечно, с нами?"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MSG_FES_S_WITCH_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MSG_FES_S_WITCH_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MSG_FES_S_WITCH_ENTRY_FINISH",
+   "key": "57b2b92e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nРада, что ты так быстро соображаешь.\nПровожу тебя на площадку."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MSG_FES_S_WITCH_ENTRY_CANCEL",
+   "key": "e2e20f5a",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЖаль. Запись до <BLUE>13:00</BLUE>, так что если\nпередумаешь ― присоединяйся."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MSG_FES_S_WITCH_ENTRY_CAMPA_SUCCESS_00",
+   "key": "507ac78d",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nО, кстати. Спасибо за помощь со сбором\nсредств на праздник. Махало.\n<PAGE>\nВ этот раз денег собрали много, так что\nподготовка вышла отличная. Большое спасибо.\n<PAGE>\nНу, пойдём."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MSG_FES_S_WITCH_ENTRY_CAMPA_SUCCESS_01",
+   "key": "89d54e92",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nО, кстати. Спасибо за помощь со сбором\nсредств на праздник.\n<PAGE>\nБлагодаря собранным деньгам подготовка\nпрошла хорошо. Махало.\n<PAGE>\nНу, пойдём."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MSG_FES_S_WITCH_ENTRY_FAILURE",
+   "key": "a4315307",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_SAD>\r\nКстати, про сбор пожертвований на праздник...\nСовсем вылетело из головы, да?\n<PAGE>\nЕсли у тебя есть хоть сколько-то этих денег, я\nпотом их заберу.\n<PAGE>\nЗнаешь, раз уж вызываешься помочь, хоть\nделай своё дело. Ладно, пойдём."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_BEFORE",
+   "key": "6f259f66",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник напитков</RED>! Запись <BLUE>с 10:00 до\n13:00</BLUE>, так что подожди ещё немного."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_BAG_ENPTY",
+   "key": "bf2f0541",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник напитков</RED>! Будут призы, так\nчто освободи место в сумке, хорошо?"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_START",
+   "key": "aafe0302",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник напитков</RED>. Будешь\nучаствовать?"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_CHOICE",
+   "key": "9f21e6af",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nТебя просили принести <BLUE>чайные листья</BLUE>. Выбери\nв сумке листья, которые хочешь использовать."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_DECISION",
+   "key": "3a7e37d3",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЭти чайные листья подойдут?"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_DECISION_NO",
+   "key": "71b92359",
+   "ru": "Нет, подумаю ещё"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_DECISION_CANCEL",
+   "key": "ed94c618",
+   "ru": "<CANCEL_SELECT>\r\nЯ не буду участвовать"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_NEED_ITEM",
+   "key": "e221132b",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_SAD>\r\nЯ просила принести <BLUE>чайные листья</BLUE>, но...\n<PAGE>\nПохоже, в сумке их нет. Прости, но не сходишь\nза ними?"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_FINISH",
+   "key": "fe93f459",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо, провожу тебя на площадку."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_CANCEL",
+   "key": "e820b9af",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПонятно, жаль. Запись до <BLUE>13:00</BLUE>, так что если\nпередумаешь ― приходи."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MSG_FES_A_DRINK_ENTRY_FIRST",
+   "key": "3aa7dd74",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nКак я и говорила, всё нужное для участия\nсегодня я приготовила сама. Чайные листья\nнаготове.\n<PAGE>\nТак что в этот раз можно участвовать и с\nпустыми руками."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_BEFORE",
+   "key": "feed68d9",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник напитков</RED>! Запись <BLUE>с 10:00 до\n13:00</BLUE>, так что приходи тогда."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_BAG_ENPTY",
+   "key": "5ded4057",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник напитков</RED>! Будут призы, так\nчто освободи место в сумке, договорились?"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_START",
+   "key": "8eec7acb",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник напитков</RED>. Будешь\nучаствовать?"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_CHOICE",
+   "key": "2a3b43ad",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nДля участия нужны <BLUE>чайные листья</BLUE>. Достанешь\nиз сумки?"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_DECISION",
+   "key": "289ded50",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЭти чайные листья подойдут?"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_DECISION_NO",
+   "key": "71b92359",
+   "ru": "Нет, подумаю ещё"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_DECISION_CANCEL",
+   "key": "ed94c618",
+   "ru": "<CANCEL_SELECT>\r\nЯ не буду участвовать"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_NEED_ITEM",
+   "key": "f11f844a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_SAD>\r\nЯ просил принести <BLUE>чайные листья</BLUE>, а в сумке у\nтебя пусто.\n<PAGE>\nПрости, но не сходишь за ними?"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_FINISH",
+   "key": "be3b923d",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, провожу тебя на площадку."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MSG_FES_J_DRINK_ENTRY_CANCEL",
+   "key": "fedbfba3",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЖаль. Запись до <BLUE>13:00</BLUE>, так что если вдруг\nпередумаешь ― заглядывай."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_BEFORE",
+   "key": "7ab3684c",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник напитков</RED>! Запись <BLUE>с 10:00 до\n13:00</BLUE>, так что приходи чуть позже."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_BAG_ENPTY",
+   "key": "0d7949d5",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник напитков</RED>! У нас есть призы,\nтак что освободи место в сумке."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_START",
+   "key": "2187e847",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник напитков</RED>. Будешь\nучаствовать?"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_NO",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_CHOICE",
+   "key": "31079462",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВыбери в сумке <BLUE>фрукт</BLUE>."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_DECISION",
+   "key": "1c10caa4",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, участвуешь с этим: <BLUE><____ITEMNAME0____></BLUE>. Всё верно?"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_DECISION_YES",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_DECISION_NO",
+   "key": "71b92359",
+   "ru": "Нет, подумаю ещё"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_DECISION_CANCEL",
+   "key": "ed94c618",
+   "ru": "<CANCEL_SELECT>\r\nЯ не буду участвовать"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_NEED_ITEM",
+   "key": "9dc9a8e4",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_SAD>\r\nОй, фруктов нет? Возвращайся, когда\nположишь в сумку <BLUE>фрукты</BLUE>."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_FINISH",
+   "key": "54897650",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВот и славно. Провожу тебя на площадку."
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MSG_FES_S_DRINK_ENTRY_CANCEL",
+   "key": "23d0f575",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЖаль. Запись до <BLUE>13:00</BLUE>, так что если\nпередумаешь ― приходи участвовать."
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MSG_FES_A_GAME_ENTRY_BEFORE",
+   "key": "7fc5246e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Трилимпиада</RED>! Запись <BLUE>с 10:00 до 13:00</BLUE>,\nтак что придержи коней."
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MSG_FES_A_GAME_ENTRY_BAG_ENPTY",
+   "key": "2ff5c8b1",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Трилимпиада</RED>! Будут призы, так что\nосвободи место в сумке."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MSG_FES_A_GAME_ENTRY_START",
+   "key": "66e3864e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Трилимпиада</RED>! Будешь участвовать?"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MSG_FES_A_GAME_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MSG_FES_A_GAME_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MSG_FES_A_GAME_ENTRY_FINISH",
+   "key": "fe93f459",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо, провожу тебя на площадку."
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MSG_FES_A_GAME_ENTRY_CANCEL",
+   "key": "5cb3a667",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПонятно, жаль. Запись до <BLUE>13:00</BLUE>, так что если\nпередумаешь ― заходи."
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MSG_FES_J_GAME_ENTRY_BEFORE",
+   "key": "d31055b0",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Трилимпиада</RED>! Запись <BLUE>с 10:00 до 13:00</BLUE>,\nтак что приходи тогда."
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MSG_FES_J_GAME_ENTRY_BAG_ENPTY",
+   "key": "17ee6597",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Трилимпиада</RED>! Будут призы, так что\nосвободи место в сумке."
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MSG_FES_J_GAME_ENTRY_START",
+   "key": "35d8bb8a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Трилимпиада</RED>! Ты ведь участвуешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MSG_FES_J_GAME_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MSG_FES_J_GAME_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MSG_FES_J_GAME_ENTRY_FINISH",
+   "key": "c7bbc646",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, провожу тебя на площадку."
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MSG_FES_J_GAME_ENTRY_CANCEL",
+   "key": "1e424c10",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЖаль. Ну, запись до <BLUE>13:00</BLUE>, так что если\nпередумаешь ― заглядывай."
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MSG_FES_S_GAME_ENTRY_BEFORE",
+   "key": "eb27e254",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Трилимпиада</RED>! Запись <BLUE>с 10:00 до 13:00</BLUE>,\nтак что подожди немного."
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MSG_FES_S_GAME_ENTRY_BAG_ENPTY",
+   "key": "a0052754",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Трилимпиада</RED>! У нас есть призы, так\nчто освободи место в сумке!"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MSG_FES_S_GAME_ENTRY_START",
+   "key": "d4005d62",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Трилимпиада</RED>! Ты ведь, конечно,\nучаствуешь?"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MSG_FES_S_GAME_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MSG_FES_S_GAME_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MSG_FES_S_GAME_ENTRY_FINISH",
+   "key": "02329cc2",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВот и славно. Хорошо, провожу тебя на\nплощадку."
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MSG_FES_S_GAME_ENTRY_CANCEL",
+   "key": "d9ff8f4e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЖаль. Запись до <BLUE>13:00</BLUE>, так что если вдруг\nпередумаешь ― заходи."
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MSG_FES_A_NEW_YEAR_ENTRY_BEFORE",
+   "key": "22c7d60e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Новогодний праздник</RED>! Запись <BLUE>с 20:00\nдо 23:00</BLUE>, так что придержи коней."
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MSG_FES_A_NEW_YEAR_ENTRY_BAG_ENPTY",
+   "key": "9f136040",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Новогодний праздник</RED>! У нас подарки,\nтак что освободи место в сумке!"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MSG_FES_A_NEW_YEAR_ENTRY_START",
+   "key": "0f7f8165",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Новогодний праздник</RED>!\nПрисоединишься?"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MSG_FES_A_NEW_YEAR_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MSG_FES_A_NEW_YEAR_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MSG_FES_A_NEW_YEAR_ENTRY_FINISH",
+   "key": "b728bde1",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо, провожу тебя на площадку."
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MSG_FES_A_NEW_YEAR_ENTRY_CANCEL",
+   "key": "ab9701ce",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПравда? Жаль. Запись до <BLUE>23:00</BLUE>, так что если\nпередумаешь ― приходи."
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MSG_FES_J_NEW_YEAR_ENTRY_BEFORE",
+   "key": "cae75f4a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Новогодний праздник</RED>! Запись <BLUE>с 20:00\nдо 23:00</BLUE>. Смотри не усни."
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MSG_FES_J_NEW_YEAR_ENTRY_BAG_ENPTY",
+   "key": "a17c4918",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Новогодний праздник</RED>! У нас подарки,\nтак что освободи место в сумке!"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MSG_FES_J_NEW_YEAR_ENTRY_START",
+   "key": "b85ac9f6",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Новогодний праздник</RED>! Ты ведь тоже\nучаствуешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MSG_FES_J_NEW_YEAR_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MSG_FES_J_NEW_YEAR_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MSG_FES_J_NEW_YEAR_ENTRY_FINISH",
+   "key": "fdb7b0c6",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, провожу тебя на площадку."
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MSG_FES_J_NEW_YEAR_ENTRY_CANCEL",
+   "key": "b6cae4a0",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЭх, жаль. Запись до <BLUE>23:00</BLUE>, так что если\nпередумаешь ― приходи."
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MSG_FES_S_NEW_YEAR_ENTRY_BEFORE",
+   "key": "ba2db3bb",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Новогодний праздник</RED>! Запись <BLUE>с 20:00\nдо 23:00</BLUE>, так что подожди немного."
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MSG_FES_S_NEW_YEAR_ENTRY_BAG_ENPTY",
+   "key": "7fcefe1a",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Новогодний праздник</RED>! У нас подарки,\nтак что освободи место в сумке!"
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MSG_FES_S_NEW_YEAR_ENTRY_START",
+   "key": "fb4e0c13",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Новогодний праздник</RED>! Ты ведь,\nконечно, тоже участвуешь?"
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MSG_FES_S_NEW_YEAR_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MSG_FES_S_NEW_YEAR_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MSG_FES_S_NEW_YEAR_ENTRY_FINISH",
+   "key": "72ccfe40",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЧудесно! Идём на площадку."
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MSG_FES_S_NEW_YEAR_ENTRY_CANCEL",
+   "key": "e5434fee",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЖаль. Очень жаль. Что ж, запись до <BLUE>23:00</BLUE>, так\nчто если передумаешь ― приходи."
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_ENTRY_BEFORE",
+   "key": "9fba63b4",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня вечером <RED>Звёздный бал</RED>! Запись <BLUE>с 20:00\nдо 23:00</BLUE>, так что придержи коней."
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_ENTRY_BAG_ENPTY",
+   "key": "5799de3d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Звёздный бал</RED>! У нас подарки, так что\nосвободи место в сумке."
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_ENTRY_START",
+   "key": "254868a4",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Звёздный бал</RED>! Присоединишься?"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_ENTRY_FINISH",
+   "key": "9913dba2",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Провожу тебя на площадку."
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_ENTRY_CANCEL",
+   "key": "4b0688cb",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПонятно, жаль. Запись до <BLUE>23:00</BLUE>, так что если\nпередумаешь ― заходи."
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_DLC_00",
+   "key": "1c84dc3a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОй, погоди... Хочу рассказать о том, что мы\nустраиваем после Звёздного бала.\n<PAGE>\nВ другом городе есть праздник, похожий на\nЗвёздный бал.\n<PAGE>\nНо там ещё есть традиция: взрослые приносят\nспящим детям подарки и оставляют у подушки.\n<PAGE>\nЧудесно, правда? Мы, старшие, собрались и\nрешили попробовать это и у нас.\n<PAGE>\nПодарков для всех детей мы уже наготовили.\n<PAGE>\nНо разносить их некому. Будет поздняя ночь, а\nтаким старичкам, как мы, это тяжеловато.\n<PAGE>\nВот мы и хотим попросить кого-то молодого и\nполного сил разнести подарки.\n<PAGE>\nТут-то и пригодишься ты. Ну как? Поможешь\nпорадовать детишек?"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_DLC_05",
+   "key": "d5749ea1",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОй, погоди, не убегай... Хочу рассказать о том,\nчто мы устраиваем после Звёздного бала.\n<PAGE>\nКак и в прошлом году, хотим разнести подарки\nдетям наших городов.\n<PAGE>\nПоможешь нам в этом году?"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_DLC_01",
+   "key": "0bbce983",
+   "ru": "Считайте, подарки доставлены!"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_DLC_02",
+   "key": "1e51980d",
+   "ru": "Простите, не могу"
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_DLC_03",
+   "key": "ec35fb07",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЧудесно! Я знала, что на тебя можно\nположиться!\n<PAGE>\nТогда, может, объединишься с <CHARANAME0>?\n<PAGE>\n<FACE_NORMAL>Начнём сразу после Звёздного бала. Мы на тебя\nрассчитываем.\n<PAGE>\nНу-с! Не будем тянуть, провожу тебя на\nплощадку."
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MSG_FES_A_FRIENDSHIP_DLC_04",
+   "key": "c9d1ae9d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nПонятно. Жаль, но вполне понятно.\n<PAGE>\nРабота у тебя начинается рано, и поздняя ночь\nможет быть тяжеловата.\n<PAGE>\nПрости, что многого прошу. Не беспокойся.\n<PAGE>\nНу-с! Не будем тянуть, провожу тебя на\nплощадку."
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MSG_FES_J_FRIENDSHIP_ENTRY_BEFORE",
+   "key": "357051ca",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня вечером <RED>Праздник звёзд</RED>! Запись <BLUE>с\n20:00 до 23:00</BLUE>. Смотри не усни."
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MSG_FES_J_FRIENDSHIP_ENTRY_BAG_ENPTY",
+   "key": "3e24b714",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник звёзд</RED>! У нас подарки, так что\nосвободи место в сумке."
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MSG_FES_J_FRIENDSHIP_ENTRY_START",
+   "key": "95a2ce6f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Праздник звёзд</RED>! Ты ведь участвуешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MSG_FES_J_FRIENDSHIP_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MSG_FES_J_FRIENDSHIP_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MSG_FES_J_FRIENDSHIP_ENTRY_FINISH",
+   "key": "c7bbc646",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, провожу тебя на площадку."
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MSG_FES_J_FRIENDSHIP_ENTRY_CANCEL",
+   "key": "14fd738b",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПонятно, понятно. Жаль. Ну, запись до <BLUE>23:00</BLUE>,\nтак что если передумаешь ― приходи."
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MSG_FES_S_FRIENDSHIP_ENTRY_BEFORE",
+   "key": "ced0740f",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Ночь морских огней</RED>! Запись <BLUE>с 20:00 до\n23:00</BLUE>, так что подожди."
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MSG_FES_S_FRIENDSHIP_ENTRY_BAG_ENPTY",
+   "key": "7c00c7cf",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Ночь морских огней</RED>! У нас подарки,\nтак что освободи место в сумке."
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MSG_FES_S_FRIENDSHIP_ENTRY_START",
+   "key": "1e797409",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nСегодня <RED>Ночь морских огней</RED>! Ты ведь, конечно,\nучаствуешь?"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MSG_FES_S_FRIENDSHIP_ENTRY_YES",
+   "key": "22c4391e",
+   "ru": "Да, буду"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MSG_FES_S_FRIENDSHIP_ENTRY_NO",
+   "key": "94fff113",
+   "ru": "<CANCEL_SELECT>\r\nНет, не буду"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MSG_FES_S_FRIENDSHIP_ENTRY_FINISH",
+   "key": "562e3c61",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВот и славно. Провожу тебя на площадку."
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MSG_FES_S_FRIENDSHIP_ENTRY_CANCEL",
+   "key": "f2dec237",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЖаль. Так или иначе, запись до <BLUE>23:00</BLUE>, так что\nесли передумаешь ― приходи участвовать."
+  }
+ ]
+}

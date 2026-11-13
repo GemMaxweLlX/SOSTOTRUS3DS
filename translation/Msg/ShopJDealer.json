@@ -1,0 +1,82 @@
+{
+ "file": "ShopJDealer",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_000",
+   "key": "050e4726",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>. Вовремя. Вообще-то есть одно дело,\nкоторое хочу с тобой обсудить.\n<PAGE>\nМне недавно попал в руки особенно ценный\nтовар.\n<PAGE>\nТы отличный клиент, вот я и подумал: может,\nуступить его тебе? За разумную цену, конечно."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_001",
+   "key": "d7f19546",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nСлушай, <_____MYNAME_____>. Есть мысли насчёт нашего разговора?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_002",
+   "key": "b5f47ace",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nВот этот <BLUE><MOJI0></BLUE>. <BLUE><MOJI1></BLUE> шт., если точно.\n<PAGE>\nВсего <BLUE><MOJI2></BLUE>G. Что скажешь?\n<PAGE>\nТакая сделка долго не продержится. Завтра её\nможет уже не быть."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_003",
+   "key": "13cd6fc3",
+   "ru": "Беру"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_004",
+   "key": "7a5e0731",
+   "ru": "Откажусь"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_005",
+   "key": "ac25b395",
+   "ru": "Подумаю"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_006",
+   "key": "74e213e6",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nСправедливо. Но если надумаешь, то поскорее:\nтакое предложение долго не продержится."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_007",
+   "key": "b6975f6f",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nХм. Как знаешь. Придётся предложить кому-то\nдругому. Скоро поймёшь, что это была\nошибка."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_008",
+   "key": "b112e93c",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nЧто? Денег нет? *вздох* Похоже, я сильно\nошибся..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_009",
+   "key": "971372d1",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nХм? Сумка полна? Обсудим, когда освободишь\nместо.\n<PAGE>\nИ советую поторопиться. Если не договоримся\nсегодня, завтра не обещаю."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_J_DEALER_ITEM_010",
+   "key": "ab933518",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nМудрое решение. У тебя деловая хватка. Всё\nтвоё."
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "file": "Festival_Info_First_A_Friendship",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_A_FRIENDSHIP_00",
+   "key": "8771f11f",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\n<_____MYNAME_____>, ты дома? Прошу прощения!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_A_FRIENDSHIP_01",
+   "key": "99e69182",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуй, <_____MYNAME_____>! Прохладно сегодня, правда?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_A_FRIENDSHIP_02",
+   "key": "819d6e1a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНе знаю, дошли ли до тебя слухи, но завтра в\nУэстауне традиционный <RED>Звёздный бал</RED>.\n<PAGE>\nЯ буду рада видеть тебя там, вот и зашла\nрассказать."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_A_FRIENDSHIP_03",
+   "key": "d35d9cf0",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЗвёздный бал ― давняя традиция Уэстауна.\n<PAGE>\nЭто прекрасная возможность провести время с\nтем, кто тебе нравится, катаясь на воздушном\nшаре и любуясь звёздами."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_A_FRIENDSHIP_04",
+   "key": "35568ce8",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЕсли в Уэстауне есть кто-то, кто тебе дорог...\n<PAGE>\nЧто ж, жаль было бы упустить такую\nвозможность, правда?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_A_FRIENDSHIP_05",
+   "key": "7e8fd1e2",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\n...Можно провести романтический вечер с <CHARANAME0>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_A_FRIENDSHIP_06",
+   "key": "d4b2562e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nХотя у тебя ведь есть <CHARANAME0>, так что, возможно,\nпроводить время с кем-то другим не захочется.\n<PAGE>\nЕсли всё же пойдёшь, можно провести вечер и с\nдругом своего пола."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_A_FRIENDSHIP_07",
+   "key": "4463ac96",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nЗапись на Звёздный бал ― <BLUE>с 20:00 до 23:00</BLUE> на\nперекрёстке. Захочешь поучаствовать ―\nприходи!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_A_FRIENDSHIP_08",
+   "key": "18118fa8",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, вот и всё, дорогуша. Береги себя."
+  }
+ ]
+}

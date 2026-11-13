@@ -1,0 +1,488 @@
+{
+ "file": "ShopSAllrounder",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_000",
+   "key": "1b1ccc0b",
+   "ru": "Магазин закрыт до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_001",
+   "key": "7f8f8593",
+   "ru": "По воскресеньям и четвергам мастерская\nзакрыта."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_003",
+   "key": "dcab83ca",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКомо май, <_____MYNAME_____>. Рад тебя видеть! Это мастерская\n“Реласьон”, мастер на все руки!\n<PAGE>\nСделать или разобрать круг фермы, задумать\nпристройку к дому ― тебе сюда!\n<PAGE>\nКстати, если расширять дом, то чем раньше,\nтем лучше.\n<PAGE>\nС кухней или шкафом возможностей станет ещё\nбольше!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_004",
+   "key": "fd35132d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКомо май. Это значит “добро пожаловать”.\nДобро пожаловать в мастерскую “Реласьон”!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_005",
+   "key": "a562aa5b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКомо май. Это мастерская “Реласьон”. Глянь,\nчто я могу для тебя сделать."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_006",
+   "key": "626ea4ed",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТеперь я ещё и шью. Попробуй!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_007",
+   "key": "e4caacfc",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТеперь я ещё и обставляю интерьер. Попробуй!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_008",
+   "key": "c1932dc7",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>, тянет на рыбалку, да?\n<PAGE>\nЕсли нужно насадить на удочку идеальную\nнаживку, только скажи, ладно?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_009",
+   "key": "e511c7f8",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТеперь я меняю фасад и интерьер домов.\n<PAGE>\nИ то и другое можно поменять, не расширяя\nдом, так что пробуй на нынешнем."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_SHOPKEEPER_FIRST",
+   "key": "bd894cbf",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nО, новое лицо! Я Лудус. Рад знакомству."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_CHOICE_000",
+   "key": "52b771d3",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧем помочь?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_CHOICE_001",
+   "key": "4d7d3d8c",
+   "ru": "Пошив одежды"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_CHOICE_002",
+   "key": "84af011f",
+   "ru": "Улучшение инструментов"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_CHOICE_003",
+   "key": "fcca6130",
+   "ru": "Наживка для удочки"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_CHOICE_004",
+   "key": "2a366de8",
+   "ru": "Круги фермы"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_CHOICE_005",
+   "key": "f96e3eea",
+   "ru": "Оформление дома"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_CHOICE_006",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_CHOICE_00７",
+   "key": "33583dc8",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто-нибудь ещё нужно?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAYBAY_000",
+   "key": "d558f0a2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПонятно. Заходи ещё."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_NOCLOSET_000",
+   "key": "8f2f8d78",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nШкафа у тебя нет, так что шить одежду\nособого смысла нет, верно?\n<PAGE>\nРасширь дом, а как появится шкаф, приходи\nснова."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_AVATAR_GET_000",
+   "key": "50cd4382",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗаказ готов! Глянь!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_AVATAR_GET_001",
+   "key": "a41ca20f",
+   "ru": "Получено: <BLUE><MOJI0></BLUE>! Вещь ждёт в шкафу."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_ITEM_000",
+   "key": "76c39b29",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПошив, да? Без проблем. Что сшить?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_ITEM_001",
+   "key": "b2d02b89",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nМахало за заказ. К завтра управлюсь, приходи\nзабирать."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_ITEM_002",
+   "key": "41b8365f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nМахало за заказ. К завтра управлюсь, приходи\nзабирать, пока открыто."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_ITEM_003",
+   "key": "8720afa2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nОго, представляешь, <_____MYNAME_____>? Похоже, у тебя уже есть\nвсё, что я могу предложить."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_ITEM_004",
+   "key": "bd60c517",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nОдежды у нас стало больше. Глянешь?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_ITEM_005",
+   "key": "697036cd",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНаша совместная одежда себя оправдала. Глянь\nна новинки!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_ITEM_006",
+   "key": "5b8cbe03",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ начинаю здесь <BLUE>пошив одежды</BLUE>. Интересно?\nЗаходи глянуть."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_000",
+   "key": "a4f1895b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nУлучшить инструмент, да? Какой улучшаем?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_REMODELING_NO",
+   "key": "42d729d9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nБоюсь, у тебя нет инструментов, которые\nможно улучшить."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_ASK_000",
+   "key": "581c030b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто сделать с наживкой?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_SELECT_000",
+   "key": "96b86fc2",
+   "ru": "Насадить наживку"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_SELECT_001",
+   "key": "f5516171",
+   "ru": "Снять наживку"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_SELECT_002",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_000",
+   "key": "51982fc5",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nБез проблем. На какую удочку насадить?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_001",
+   "key": "8ded5859",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭ? Но у тебя нет наживки!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITRIMOVE_000",
+   "key": "5b1bb956",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно. С какой удочки снять наживку?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITRIMOVE_001",
+   "key": "bf9ddf31",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПохоже, сумка полна. Так наживку не снять."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_ROD_NO",
+   "key": "9d4b601b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nХм? Похоже, у тебя нет удочки..."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_ASK_000",
+   "key": "00ee7a76",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКруги фермы? Конечно, что нужно?"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_SELECT_000",
+   "key": "775a8168",
+   "ru": "Сделать круг фермы"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_SELECT_001",
+   "key": "82e65170",
+   "ru": "Разобрать круг фермы"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_SELECT_002",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_000",
+   "key": "899904fc",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто хочешь сделать?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_001",
+   "key": "cfca4af7",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВообще-то только что пришли новинки. Глянь,\nесли хочешь."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_008",
+   "key": "737b6c36",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<MOJI0>? Заказ принят! Идём к тебе на ферму."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_PANELGET_009",
+   "key": "a9be599f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЕсли что-то понадобится, ты знаешь, где меня\nнайти."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_APART_005",
+   "key": "9858c30f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВыбери, что разобрать."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEEXTENSION_ASK_000",
+   "key": "cae011d1",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто хочешь сделать с домом?"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEEXTENSION_SELECT_000",
+   "key": "6b255e44",
+   "ru": "Расширить"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEEXTENSION_SELECT_001",
+   "key": "6806b877",
+   "ru": "Фасад"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEEXTENSION_SELECT_004",
+   "key": "b3836649",
+   "ru": "Интерьер"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEEXTENSION_SELECT_002",
+   "key": "43d7c207",
+   "ru": "Сделать мебель"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEEXTENSION_SELECT_003",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEEXTENSION_000",
+   "key": "cc96971b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно, расширю.\n<PAGE>\nПри перестройке всё, что лежит в доме, уйдёт\nв сумку или в сундук.\n<PAGE>\nПредупреждаю: если места не хватит, эти вещи\nпропадут.\n<PAGE>\nИтак, выбери размер и стиль дома."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEEXTENSION_002",
+   "key": "dcef9573",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗаказ принят! Идём к тебе на ферму, начнём."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEEXTENSION_HALF_COMP",
+   "key": "3cb9d85e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, к дому пока больше нечего пристроить.\n<PAGE>\nПриходи, когда у меня появятся новые\nварианты."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEAPPEARANCE_000",
+   "key": "d5ad4016",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь сменить фасад? Ладно. Выбери стиль."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEINTERIOR_000",
+   "key": "31fd7ba7",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно, могу сменить интерьер.\n<PAGE>\nПри переделке всё, что лежит в доме, уйдёт в\nсумку или в сундук.\n<PAGE>\nПредупреждаю: если места не хватит, эти вещи\nпропадут.\n<PAGE>\nИтак, выбери стиль."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEAPPEARANCE_001",
+   "key": "dcef9573",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗаказ принят! Идём к тебе на ферму, начнём."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEFURNITURE_000",
+   "key": "c8b58970",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно, мебель ― одно из моих любимых\nдел. Что ищешь?"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEFURNITURE_001",
+   "key": "e425d7a9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Сейчас же поставлю!"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEFURNITURE_HALF_COMP",
+   "key": "f94df5e8",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, похоже, у тебя уже вся мебель, что у меня\nесть.\n<PAGE>\nКак появятся новинки, приходи снова."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_HOMEFURNITURE_FULL_COMP",
+   "key": "26816a1b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, похоже, у тебя уже вся мебель, что у меня\nесть."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_HALF_COMP",
+   "key": "059748bd",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, интерьеров для смены пока нет.\n<PAGE>\nПриходи, когда появятся новые."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_GREETING_HALF_COMP_2",
+   "key": "c0b20364",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, фасадов для смены пока нет.\n<PAGE>\nПриходи, когда появятся новые."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_NAME",
+   "key": "56314a39",
+   "ru": "Реласьон"
+  }
+ ]
+}

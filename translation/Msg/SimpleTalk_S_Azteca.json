@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_S_Azteca",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "3c0ad553",
+   "ru": "Алоха!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "a7adf7f5",
+   "ru": "<NAME_MOB_MACHU>\r\nМожет ли остров парить в воздухе? Хм-м..."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "17243d6b",
+   "ru": "<NAME_MOB_MACHU>\r\nЛетающий остров... Есть идеи?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "6fea8420",
+   "ru": "<NAME_MOB_MACHU>\r\nЕсли он взлетит, как им управлять...?"
+  }
+ ]
+}

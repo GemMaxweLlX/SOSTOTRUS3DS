@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_A_Audrey",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "00cc152b",
+   "ru": "Здравствуй. Рада тебя видеть."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "611508e7",
+   "ru": "<NAME_MOB_AUDREY>\r\nО, привет! Как у тебя сегодня дела?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "2fbd7443",
+   "ru": "<NAME_MOB_AUDREY>\r\nДавай поболтаем, когда будет время!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "681edf67",
+   "ru": "<NAME_MOB_AUDREY>\r\nХм, может, пойти что-нибудь нарисовать..."
+  }
+ ]
+}

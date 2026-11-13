@@ -1,0 +1,173 @@
+{
+ "file": "Resident_A_RestHusbund",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_00",
+   "key": "6d64041a",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_SAD>\r\nОх, <_____MYNAME_____>...\n<PAGE>\n<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_SAD>У нас тут небольшая неприятность."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_01",
+   "key": "7f9747f0",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_SAD>\r\nПонимаешь... Брэд сломал свой любимый\nкухонный нож.\n<PAGE>\nС тех пор так и сидит на коленях в шоке."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_02",
+   "key": "f46043b9",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\n...Это был не просто кухонный нож."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_03",
+   "key": "64dbc470",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\n...Это был драгоценный нож, который\nподарила мне ты, Кэрри.\n<PAGE>\nКакое бы блюдо я ни готовил, всегда брал\nего...\n<PAGE>\nКогда увидел, что он сломался пополам, будто\nи сердце моё сломалось.\n<PAGE>\nБез этого ножа я даже лук почистить не могу!\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_SAD>Ох, Брэд...\n<PAGE>\nЧтобы почистить лук, нож не нужен.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>Просто дайте мне погоревать в одиночестве,\nпожалуйста. *всхлип*..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_04",
+   "key": "2c247aa1",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_SAD>\r\nВпервые вижу, чтобы наш беззаботный Брэд\nтак пал духом.\n<PAGE>\nПохоже, придётся мне взять готовку на себя,\nпока он не очнётся..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_05",
+   "key": "724473d4",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\n...Нет, дедушка.\n<PAGE>\nОн мой муж. Я сама разберусь.\n<PAGE>\nПока что не усадишь его на стул?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_06",
+   "key": "fd040a9a",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\nНеловко просить, <_____MYNAME_____>, но не поможешь мне?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_07",
+   "key": "6e535ed0",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\nЯ приготовлю для Брэда одно блюдо."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_08",
+   "key": "a6e2e41d",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\nНе волнуйся. Можешь на меня положиться.\n<PAGE>\nПриправы и подачу беру на себя. А ты будешь\nмне помогать, <_____MYNAME_____>.\n<PAGE>\nТы не против?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_09",
+   "key": "9c80fa4b",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nСпасибо. Как хорошо, что ты здесь, <_____MYNAME_____>.\n<PAGE>\n<FACE_NORMAL>Когда я прошу помощи у дедушки, он в итоге\nделает почти всё сам.\n<PAGE>\nЕсли готовить буду не я, всё это теряет смысл.\n<PAGE>\nТак, не будем терять времени. За готовку!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_10",
+   "key": "abbfcd5d",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nБрэд, я тебе кое-что приготовила. Поешь?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_11",
+   "key": "64800078",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\nНе знаю, Кэрри... Честно говоря, не думаю, что\nу меня сейчас хватит сил есть твою стряпню..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_12",
+   "key": "fdd0677d",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\nХотя пахнет вкусно..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_13",
+   "key": "10e1606c",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_ANGRY>\r\nЧто за...?!\n<PAGE>\n<FACE_NORMAL>Это же вкусно!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_14",
+   "key": "fe1aa4c2",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nПомнишь, Брэд?\n<PAGE>\nЭто было ещё до свадьбы...\n<PAGE>\nКогда ты только начинал, это было первое,\nчто ты для меня приготовил."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_15",
+   "key": "61a8ac4a",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\nЯ была так тронута этим вкусом.\n<PAGE>\n<FACE_LAUGH>Это был самый вкусный гратен, что я\nкогда-либо ела.\n<PAGE>\nМне хотелось научиться его готовить, так что\nкаждый раз, когда посетитель его заказывал...\n<PAGE>\nя тайком смотрела, как ты его делаешь.\n<PAGE>\nПоэтому это единственное блюдо, которое у\nменя получается точно как у тебя. ♪"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_16",
+   "key": "7c94f80e",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\nКэрри...\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>Никогда не забуду, что ты сказал мне тогда.\n<PAGE>\n“Как повару, мне больше всего на свете\nприятно видеть, как кто-то ест мою еду с\nтаким удовольствием, как ты”."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_17",
+   "key": "3b28fdd9",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\nПомню, глядя на твою улыбку, я подумала: “Я\nвыйду за этого человека”.\n<PAGE>\nТы так гордился своей работой, и мне\nхотелось быть рядом на каждом шагу."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_18",
+   "key": "555704f2",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\nЯ знаю, как ты дорожил ножом, что я тебе\nподарила.\n<PAGE>\nИ знаю, как тебе жаль, что он сломался.\n<PAGE>\nНо больше всего мне больно смотреть, как ты\nиз-за него мучаешься.\n<PAGE>\nТак что не огорчай меня, Брэд.\n<PAGE>\nЯ уже скучаю по тебе, который с радостью\nстоял на кухне и готовил всевозможные блюда.\nВернёшь мне его?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_19",
+   "key": "0111f78e",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nТы права. Прости... Сам не знаю, что на меня\nнашло.\n<PAGE>\nХватит хандрить. Спасибо, Кэрри."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_20",
+   "key": "25c1697b",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\n...Ну и жена у моего внука."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_21",
+   "key": "df0ef44c",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nИ ведь, вопреки всему, ей правда удалось\nчто-то приготовить... Потрясающе."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_22",
+   "key": "4dd3e0e1",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nО, точно, кажется, я должен тебя\nпоблагодарить.\n<PAGE>\nТы, похоже, всегда приглядываешь за моей\nсемьёй, и я за это благодарен. Прости, если\nсегодня мы доставили хлопот."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_RestHusbund_23",
+   "key": "99645615",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nУ Брэда не только отличная жена, но и\nпо-настоящему отличный друг. Везучий парень."
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "file": "Couple_A_Florist_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_00",
+   "key": "32d51b03",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nАх..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_01",
+   "key": "1e472179",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_MOJA_R>П-прости, <_____MYNAME_____>. Я тебя разбудила?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_02",
+   "key": "c3819131",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ как раз заканчивала рабочий день. Хотела\nкое-что доделать, пока не стало слишком\nпоздно."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_03",
+   "key": "e716294c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nВолнуешься за меня? Хи-хи, спасибо!\n<PAGE>\nНо не стоит. Честно говоря, осталось совсем\nнемного."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_04",
+   "key": "b68835fe",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>Знаешь, с тех пор как я вышла за тебя,\nработать в цветочной лавке стало гораздо\nприятнее.\n<PAGE>\n...Наверное, потому что теперь есть кому меня\nподдержать.\n<PAGE>\n<FACE_NORMAL>Так что дай мне ещё немножко поработать."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_05",
+   "key": "4905b7e9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n...Вот! Теперь к завтрашнему дню всё готово."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_06",
+   "key": "a5db46ad",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Ого! Какой чудесный запах. Это ты приготовил,\n<_____MYNAME_____>?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_07",
+   "key": "f353d5df",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Спасибо. ♪ Выпью, пока тёплое."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_08",
+   "key": "65bc1740",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nМ-м, вкусно. <RED>∀</RED>\n<PAGE>\nНежный аромат трав будто успокаивает и тело,\nи душу. Божественно! ♪"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_09",
+   "key": "de5e4570",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЧто за работу я делала?\n<PAGE>\n<FACE_LOSS>Ну... обещаешь не смеяться?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_10",
+   "key": "211e72e5",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n...Я перепроверяла следующую поставку\nцветов, что заказала.\n<PAGE>\nНа работе отвлеклась, и заказы как-то вышли\nиз-под контроля..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_11",
+   "key": "3f9b26d5",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nТы для меня как солнышко...\n<PAGE>\n<FACE_SAD>И я так задумалась о тебе, что незаметно\nзаказала кучу супер-ярких, пёстрых цветов.\n<PAGE>\n<FACE_SAD>В прошлый раз пришли одни красные,\nпредставляешь?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_12",
+   "key": "526bebd5",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_MOJA_R>Э-эй, ты же обещал не смеяться!\n<PAGE>\nУ меня много покупателей, которые любят\nхолодные цвета, так что пора прекращать\nтакие ошибки.\n<PAGE>\nВот я и решила перепроверять заказы, когда\nголова ясная.\n<PAGE>\n<FACE_ANGRY>Вся проблема в том, что моя семейная жизнь\nслишком прекрасна!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_13",
+   "key": "87ec66a7",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nАх да. Кстати о заказах...\n<PAGE>\nПомнишь девочку, что приходила\nпоблагодарить за цветы?\n<PAGE>\nНу, покупательницу, которой ты помог."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_14",
+   "key": "03775b49",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nТак вот, на днях она снова заходила в лавку с\nмамой.\n<PAGE>\n<FACE_LAUGH>Похоже, она всерьёз учится, чтобы стать\nфлористом.\n<PAGE>\nОна сказала: “Иметь мечту ― это так весело”,\n― и широко-широко улыбнулась."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_15",
+   "key": "4e14de26",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nИ я подумала, что мне надо собраться и\nработать усерднее.\n<PAGE>\nНу, как опытному флористу. И..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_16",
+   "key": "cfc42a8b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nКогда подумаю, что однажды сама могу стать\nмамой, понимаю, что надо привести себя в\nформу.\n<PAGE>\nЕсли навсегда останусь растяпой, даже наш\nребёнок будет надо мной смеяться."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_17",
+   "key": "31d0751f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PALPITATION_R>Брак ― это и правда чудесно.\n<PAGE>\nНе то что когда я жила одна: в сердце всё\nвремя какое-то загадочное тепло.\n<PAGE>\nНаверное, это и называют покоем.\n<PAGE>\nПока ты каждый день рядом, чтобы\nприжаться...\n<PAGE>\n...мне кажется, я справлюсь с чем угодно, что\nбы ни ждало впереди."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_18",
+   "key": "0b604723",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПоэтому, когда устанешь или загрустишь,\nобязательно скажи мне.\n<PAGE>\n<FACE_LAUGH>Я заварю травяной чай для ТЕБЯ, и всё\nналадится."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_19",
+   "key": "e7f18f5e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЕщё раз спасибо за чай, <_____MYNAME_____>."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_20",
+   "key": "611f255c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_HEART_R>Хи-хи. Это просто маленькое спасибо."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_21",
+   "key": "48164103",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЭм... <_____MYNAME_____>? У меня к тебе капризная просьба..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_22",
+   "key": "78700677",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_HEART_R>Сегодня хочу уснуть в твоих объятиях.\n<PAGE>\nИ хочу, чтобы ты весь день меня баловал...\nМожно?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_23",
+   "key": "4c0f9c4e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_HEART_R>Правда? Я так счастлива! <RED>∀</RED>\n<PAGE>\n<FACE_LOVE>Эй, <_____MYNAME_____>? Знаешь, даже если наша семья станет\nбольше...\n<PAGE>\nДа даже если нет ― даже если мы вдвоём\nсостаримся и поседеем, я всегда буду тебя\nлюбить.\n<PAGE>\nДавай будем вместе всегда-всегда."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_24",
+   "key": "43d92cea",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХа-ха, мы зевнули одновременно.\n<PAGE>\nПожалуй, пора спать. Завтра рано вставать."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_COUPLE_A_FLORIST_1_25",
+   "key": "082223cf",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n...Спокойной ночи, <_____MYNAME_____>"
+  }
+ ]
+}

@@ -1,0 +1,236 @@
+{
+ "file": "Love_S_TwinYounger_6",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_00",
+   "key": "2a7cdf9c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nО. Алоха, <_____MYNAME_____>.\n<PAGE>\nТы к Силуке?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_01",
+   "key": "a35b5624",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nНу, неудачно ты зашёл. Она сейчас по делам\nушла."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_02",
+   "key": "3a9441db",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nХо-хо-хо! Уже скучаешь? Как мило! Полагаю,\nу вас с Силукой всё хорошо?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_03",
+   "key": "b4e8504b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nУж надеюсь.\n<PAGE>\nВедь Силука отказалась от Редкой розы,\nтолько чтобы помочь <_____MYNAME_____>.\n<PAGE>\nНикогда в жизни ничто не было для неё важнее\nеё трав, а уж тем более другой человек."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_04",
+   "key": "64c1f691",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nЧто, ты не знаешь?\n<PAGE>\nЕщё до того, как вы стали встречаться,\nКаолила попросила тебя последить за её\nлавкой...\n<PAGE>\n...а Силука зашла тебе помочь. Не\nприпоминаешь?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_05",
+   "key": "361e400e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nСилука тогда как раз шла сорвать Редкую розу.\n<PAGE>\n<FACE_LOSS>Это очень редкий цветок, он цветёт раз в год.\nОна ушла с самого утра, такая взволнованная.\n<PAGE>\nНо потом вернулась без него. Мне это\nпоказалось странным, и я спросила...\n<PAGE>\n<FACE_NORMAL>И что бы ты думал ― это потому, что она\nостановилась тебе помочь."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_06",
+   "key": "fce96c20",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nХм? Другой способ добыть Редкую розу?\n<PAGE>\n<FACE_SAD>Хм-м... Боюсь, в этот сезон её никак не\nдостать.\n<PAGE>\n<FACE_NORMAL>Розы вообще не растут в наших краях. Их\nродина ― Вестаун."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_07",
+   "key": "f7ac5630",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nКстати, в Вестауне ведь есть цветочница?\n<PAGE>\nЕсли спросить её, может, она знает другой\nспособ её раздобыть."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_08",
+   "key": "ad6cd88b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\n...Может, не стоило мне об этом говорить."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_09",
+   "key": "673bf496",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nСомневаюсь, что Силука сама бы об этом\nсказала. Это был хороший случай."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_10",
+   "key": "bb303289",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>, привет!\n<PAGE>\nЧем могу помочь?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_11",
+   "key": "14c2df32",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_SAD>\r\nРедкая роза...?\n<PAGE>\nСлышала о ней, да. Но..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_12",
+   "key": "c574dcd8",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LOSS>\r\nРедкие розы ― дикий сорт. Садовую почти\nневозможно найти."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_13",
+   "key": "e913cbc9",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LOSS>\r\nМне жаль, что я не смогла помочь."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_14",
+   "key": "92cefe06",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nО! Привет, <_____MYNAME_____>!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_15",
+   "key": "8b11551e",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЧего такой грустный? Что-то случилось?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_16",
+   "key": "c9633c80",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_SAD>\r\nНе можешь найти “редкую розу” и\nпереживаешь?\n<PAGE>\nХм. “Редкая роза”... “редкая роза”..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_17",
+   "key": "ccf9d4c3",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nО, точно! Вспомнила!\n<PAGE>\nКажется, у меня есть одна!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_18",
+   "key": "fde107a6",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nВидишь? Вот она, в моём венке. Вот эта.\n<PAGE>\nПравда, чудесно пахнет? Одна из моих\nлюбимых!\n<PAGE>\n<FACE_NORMAL>..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_19",
+   "key": "d20b8508",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nНо... если она тебе нужна, <_____MYNAME_____>, можешь её взять."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_20",
+   "key": "4faa61d8",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nДержи.\n<PAGE>\nЯ своим волшебством сохранила её такой же\nсвежей и душистой, как в момент, когда\nсорвала.\n<PAGE>\nНадеюсь, ты будешь её беречь."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_21",
+   "key": "0496302e",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nНет-нет. Мне совсем не жалко.\n<PAGE>\nТы столько мне помогаешь, честно будет и мне\nчто-то для тебя сделать! ♪"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_22",
+   "key": "f35dbc16",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>? Что такое? Почему ты так запыхался?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_23",
+   "key": "be43cb54",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЧто? Ты извиняешься, что из-за тебя я\nупустила Редкую розу?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_24",
+   "key": "f9009e46",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\n...Илука рассказала."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_25",
+   "key": "964397f2",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nТы бежал сюда, чтобы извиниться за это?\n<PAGE>\nНе переживай. Правда.\n<PAGE>\n<FACE_LAUGH>Я бы больше жалела, если бы бросила тебя в\nбеде, чем об упущенном цветке.\n<PAGE>\nК тому же у меня будет ещё шанс найти Редкую\nрозу."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_26",
+   "key": "74322d6d",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nАх...!\n<PAGE>\n<FACE_LOSS>Но... сейчас же не сезон. Как ты...?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_27",
+   "key": "5bc0719f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНе знаю, как ты её достал...\n<PAGE>\nНо что бы ты ни сделал... ты сделал это для\nменя."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_28",
+   "key": "25f4fd65",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЭто было непросто. Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_29",
+   "key": "61508349",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЗнаешь, этот цветок ещё называют “Небесной\nрозой”. Говорят, если заварить его в чае, он\nизлечит любую болезнь.\n<PAGE>\nМне так хотелось раздобыть её хоть раз."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_30",
+   "key": "cec333f1",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nНо больше, чем сам цветок...\n<PAGE>\nМеня радует, что ты сделал всё возможное,\nчтобы найти его, только ради меня.\n<PAGE>\nЯ очень благодарна."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_31",
+   "key": "84320c0f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>Благодарна и за розу, и за силы, что ушли на\nеё поиски.\n<PAGE>\nСейчас это всё, что я могу для тебя сделать...\nно это мои искренние чувства.\n<PAGE>\nМахало, <_____MYNAME_____>."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINYOUNGER_6_32",
+   "key": "d2ccc5c1",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМ-м. Как приятно пахнет.\n<PAGE>\nЗнаю, ты столько сил потратил, чтобы её для\nменя достать...\n<PAGE>\n<FACE_LAUGH>Но теперь она мне так дорога, что, кажется, я\nне смогу её использовать."
+  }
+ ]
+}

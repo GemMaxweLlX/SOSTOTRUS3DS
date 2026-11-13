@@ -1,0 +1,82 @@
+{
+ "file": "Festival_Info_First_Fashion",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_00",
+   "key": "70eb7ee1",
+   "ru": "<FACE_PRESENTER>\r\nАу-у, <_____MYNAME_____>? Тук-тук, я вхожу!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_00_MARRIED",
+   "key": "a6b478eb",
+   "ru": "<FACE_PRESENTER>\r\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_01",
+   "key": "0206eb9a",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nДо-о-оброе утро, <_____MYNAME_____>!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_01_MARRIED",
+   "key": "266c5a5b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПроснулись? Доброе утро, соня! ♪"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_02",
+   "key": "826c908f",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nНадеюсь, вы готовы блистать! Ведь сегодня я\nпришла рассказать вам о самом <RED>Показе мод</RED>!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_02_MARRIED",
+   "key": "49209b36",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nПодумала, вам будет интересно узнать о\nпредстоящем <RED>Показе мод</RED>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_03",
+   "key": "04154ec0",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nПоказ мод ― это конкурс, где нужно подобрать\nодежду, шляпу и очки под тему!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_04",
+   "key": "91a16c40",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nОн проходит каждый год <BLUE>22 осени</BLUE>, так что\nследите за календарём!\n<PAGE>\nЕсли будете участвовать, подойдите ко мне на\n<GREEN>перекрёсток</GREEN> <BLUE>с 10:00 до 13:00</BLUE>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_05",
+   "key": "c53de0b8",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nАх да! Обычно у Показа мод есть тема...\n<PAGE>\nНо класс Новичок ― исключение, так что\nприходите в любом наряде, какой душа\nпожелает!\n<PAGE>\nИ ещё одно предупреждение...\n<PAGE>\nВ день показа салон Сяраку закрыт...\n<PAGE>\nТак что если вам ОЧЕНЬ нужна какая-то шляпа,\nсоветую <RED>купить её накануне</RED>."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_06",
+   "key": "703349d9",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nВот и всё! Показ мод бывает лишь раз в году,\nтак что не упустите шанс повеселиться!\n<PAGE>\nЖдём вас, <_____MYNAME_____>! Пока-пока!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_INFO_FIRST_FASHION_06_MARRIED",
+   "key": "7b2abc57",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nНа этом всё. Этот конкурс бывает лишь раз в\nгоду, так что не упусти шанс повеселиться!\n<PAGE>\nБолеть за тебя при всех я не могу...\n<PAGE>\n...но знай, в душе я болею за тебя!\n<PAGE>\nНу, а я пошла рассказывать о празднике\nостальным! До встречи! ♪"
+  }
+ ]
+}

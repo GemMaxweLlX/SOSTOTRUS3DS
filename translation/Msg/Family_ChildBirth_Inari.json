@@ -1,0 +1,390 @@
+{
+ "file": "Family_ChildBirth_Inari",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_00",
+   "key": "3d374bad",
+   "ru": "<FACE_INARI>\r\nТы не спишь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_01",
+   "key": "e4e5509c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_02",
+   "key": "1dec0b1c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nНаставник хочет, чтобы мы с тобой пришли в\nгород."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_03",
+   "key": "0050732b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nМой наставник и весь мир духов знают о наших\nотношениях.\n<PAGE>\nИ, похоже, хотят официально отпраздновать\nнаш союз."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_04",
+   "key": "b9e129dd",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nМне бы очень хотелось получить их\nблагословение вместе...\n<PAGE>\nПойдёшь со мной?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_05",
+   "key": "c172d46f",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЧудесно! Тогда в путь."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_06",
+   "key": "cf24382d",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nХм? Редко тебя увидишь в такую рань, <_____MYNAME_____>."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_07",
+   "key": "e48ffb6e",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nАга, Яити рано проснулся, вот мы и вышли на\nутреннюю прогулку.\n<PAGE>\nНо эй, видно, мне сегодня везёт, раз я встретил\nтебя так рано, <_____MYNAME_____>.\n<PAGE>\nПравда, Яити?\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>...Ага. Я... рад видеть <_____MYNAME_____>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_08",
+   "key": "d4973dc2",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\n...А, прости. У тебя ведь куча дел, да?\n<PAGE>\nМы пойдём. Не будем задерживать.\n<PAGE>\n<FACE_LAUGH>До встречи!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_09",
+   "key": "c5172a6d",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nО нет, всё в порядке. Мы не спешим."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_10",
+   "key": "5549a225",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nПросто... Будь я человеком...\n<PAGE>\nМогли бы мы иметь ребёнка, как...?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_11",
+   "key": "c549bc9b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nНичего. Пойдём."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_12",
+   "key": "96b638aa",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nМы пришли.\n<PAGE>\nНо... что это за странное чувство?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_13",
+   "key": "b638853e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_ANGRY>\r\nЯ чувствую здесь силу мощного заклинания.\n<PAGE>\nЧто-то... приближается."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_14",
+   "key": "51cc2edf",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nМла... младенец? Что же здесь делает\nмладенец?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_15",
+   "key": "3cd39314",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\n<FACE_SAD>Нет... Постой.\n<PAGE>\nГлаза у этого малыша очень похожи на твои, <_____MYNAME_____>.\n<PAGE>\nА цвет волос и глаз ― совсем как у меня.\n<PAGE>\nНе может быть..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_16",
+   "key": "867a6ecb",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nНеужели этот ребёнок...?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_17",
+   "key": "e6385be8",
+   "ru": "<FACE_WITCH>\r\nЭто же должен быть праздник, чего такой\nмрачный вид?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_18",
+   "key": "be27fa1c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nГоспожа Ведьмочка, госпожа Десси...\n<PAGE>\nВы что-нибудь знаете об этом ребёнке?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_19",
+   "key": "17285256",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_ANGRY>\r\nЕщё бы! Было же ТАК видно, как сильно тебе\nхочется ребёнка.\n<PAGE>\n<FACE_NORMAL>Вот мы и решили попробовать и поговорили с\nтвоим наставником."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_20",
+   "key": "bc998c82",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nТвоему наставнику тоже было очень жаль, что\nвсё так складывалось.\n<PAGE>\nИ вот... этот ребёнок родился из соединённых\nсил тебя и <_____MYNAME_____>."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_21",
+   "key": "7883ee27",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nЧто...? Подумать только, всё это происходило\nза моей спиной...\n<PAGE>\n<FACE_LAUGH>Но знаешь, даже без объяснений... что-то\nподсказывало мне.\n<PAGE>\nСила, окружающая этого ребёнка, несомненно,\nтой же природы, что и твоя, <_____MYNAME_____>.\n<PAGE>\nЭто наш ребёнок."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_22",
+   "key": "851fc6c1",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nНаш ребёнок...\n<PAGE>\nНадежды уже не было, что этот день\nкогда-нибудь настанет.\n<PAGE>\nНеужели мне правда можно испытывать такое\nсчастье? Такую радость...?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_23",
+   "key": "84c509f9",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nЗдорово же, Инари?\n<PAGE>\nЯ знаю, сколько было переживаний из-за\nэтого...\n<PAGE>\nОй, у меня тоже уже глаза на мокром месте!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_24",
+   "key": "ce16f389",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nВечная вам благодарность, госпожа Десси,\nгоспожа Ведьмочка.\n<PAGE>\nКазалось, это навсегда останется лишь мечтой.\nТем, что нельзя было даже произнести вслух...\n<PAGE>\nУ меня поистине невероятные подруги."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_25",
+   "key": "ab12e80a",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_SAD>\r\nЭ-э... Да, ну...\n<PAGE>\n<FACE_NORMAL>Во-о-обще-то мы как раз принесли ещё и\nподарок.\n<PAGE>\n<FACE_GODDES><POS_RIGHT><FACE_LAUGH>Ах да! Надеюсь, понравится!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_26",
+   "key": "6644f5b2",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЕщё и подарок вдобавок ко всему? Не выразить\nсловами, как велика моя благодарность."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_27",
+   "key": "e7907e33",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_NORMAL>\r\nКстати...\n<PAGE>\nДолго ты собираешься звать малыша “наш\nребёнок”?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_28",
+   "key": "d36553bb",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nО, пожалуй, это верно.\n<PAGE>\nНаш ребёнок заслуживает настоящего имени.\nХорошего имени."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_29_BOY",
+   "key": "123d6327",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nИтак... есть идеи?\n<PAGE>\nЭто здоровый малыш-мальчик.\n<PAGE>\nМне нравится несколько имён. Если бы выбор\nбыл за мной, то...\n<PAGE>\n<MOJI0>, <MOJI1> или <MOJI2>.\n<PAGE>\n<FACE_LAUGH>Нравится какое-нибудь? Конечно, я не против,\nесли имя дашь ты, <_____MYNAME_____>."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_29_GIRL",
+   "key": "427f7680",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nИтак... есть идеи?\n<PAGE>\nЭто здоровая малышка-девочка.\n<PAGE>\nМне нравится несколько имён. Если бы выбор\nбыл за мной, то...\n<PAGE>\n<MOJI0>, <MOJI1> или <MOJI2>.\n<PAGE>\n<FACE_LAUGH>Нравится какое-нибудь? Конечно, я не против,\nесли имя дашь ты, <_____MYNAME_____>."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_30",
+   "key": "0e0fe33c",
+   "ru": "<MOJI0>"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_31",
+   "key": "1714d27d",
+   "ru": "<MOJI1>"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_32",
+   "key": "3c3981be",
+   "ru": "<MOJI2>"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_33",
+   "key": "98d7df71",
+   "ru": "Другое"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_34",
+   "key": "f10d3e7e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<MOJI0> подойдёт?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_35",
+   "key": "cb4fdf9f",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХорошо"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_36",
+   "key": "ba649575",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХочу придумать имя самостоятельно"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_37",
+   "key": "df59911b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЧудесно! Тогда назовём нашего ребёнка <CHILD_NAME>!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_38",
+   "key": "0395fe0d",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nПонятно. Если это имя тебе по-настоящему\nнравится, я не возражаю.\n<PAGE>\nЧто у тебя на уме?"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_39",
+   "key": "bb3c1955",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nЗначит, ты выбираешь <MOJI0>?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_40",
+   "key": "99d27341",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>...?\n<PAGE>\nДа! Отличное имя. Стоило мне произнести его\nвслух, как растения вокруг благословили его."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_41",
+   "key": "825b530e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nПохоже, <CHILD_NAME> тоже очень нравится это имя.\n<PAGE>\nВот, подержи малыша."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_42",
+   "key": "90e34dd9",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, у меня есть мысль... Сможешь растить нашего\nребёнка у себя дома?"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_43",
+   "key": "dd2b7b6d",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nДумаю, малышу будет лучше расти среди\nлюдей, как один из них.\n<PAGE>\nЕсли останется со мной, то наверняка всё\nбольше будет отдаляться от человеческого.\n<PAGE>\nИз-за моего положения я не смогу проводить с\nнашим ребёнком каждый день, но...\n<PAGE>\n<FACE_LAUGH>Я всегда буду присматривать за <CHILD_NAME> отсюда.\n<PAGE>\nДаже вдали я всегда буду всеми силами\nоберегать наше прекрасное дитя."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_44",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_45",
+   "key": "66c5ca6d",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nХм. Конечно, сомневаешься. Имя для ребёнка\n― дело огромной важности.\n<PAGE>\n<FACE_LAUGH>Не волнуйся. Давай вместе ещё раз всё\nобдумаем.\n<PAGE>\nМне нравятся <MOJI0>, <MOJI1> и <MOJI2>.\n<PAGE>\nНравится какое-нибудь из этих имён?"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_100",
+   "key": "1dd252b1",
+   "ru": "Такэру"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_101",
+   "key": "2816e893",
+   "ru": "Ямато"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_102",
+   "key": "15293cd3",
+   "ru": "Наюта"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_103",
+   "key": "b68ca9d4",
+   "ru": "Кагари"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_104",
+   "key": "92196031",
+   "ru": "Саё"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_105",
+   "key": "afd49109",
+   "ru": "Микото"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_NAMING_00",
+   "key": "f38e20c8",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_INARI_NAMING_01",
+   "key": "cdfc6e09",
+   "ru": "Назад"
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "file": "Marriage_S",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_01",
+   "key": "7a56ce42",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nВстречайте жениха и невесту! Поприветствуйте\nих в этот необыкновенный день."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_07",
+   "key": "f1452a73",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nВсе присутствующие, кто благословляет этот\nсоюз, пожалуйста, наградите их тёплыми\nаплодисментами."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_08",
+   "key": "03bfa57a",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nИтак, властью, данной мне, и с благословения\nвсех присутствующих объявляю вас мужем и\nженой!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_09",
+   "key": "8760a1dd",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nА теперь самое священное... Можете\nпоцеловаться."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_16",
+   "key": "9b215eaf",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nПоздравляю! О-о-ох, я так за вас обоих рада!\n♪\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_LAUGH>Слышали, как мы зазвонили в Колокол\nблагословения, когда вы поцеловались?\nКрасиво, правда?\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_LAUGH>Редко доводилось видеть столь радостное\nсобытие. Очень трогательно. Идёмте. Позвоним\nв колокол ещё раз."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_00_Craftman",
+   "key": "327416c5",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nДамы и господа, мы собрались здесь, чтобы\nзасвидетельствовать союз <_____MYNAME_____> и моего внука <CHARANAME0>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_02_Craftman",
+   "key": "90346e9c",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\n<CHARANAME0>.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_WEDDING>Да?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_03_Craftman",
+   "key": "693ccb42",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nБерёшь ли ты <_____MYNAME_____> в свои единственные любимые,\nбыть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_04_Craftman",
+   "key": "9d744bab",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_WEDDING>\r\nБеру. Без сомнений."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_05_Craftman",
+   "key": "84d3eed8",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_06_Craftman",
+   "key": "9095db8a",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nБерёшь ли ты <CHARANAME0> в свои единственные любимые,\nбыть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_10_Craftman",
+   "key": "efd0e52a",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх, моя малышка <_____MYNAME_____> ― самая красивая невеста на\nсвете. Ты была чудесна, солнышко!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Как же летит время. Кажется, только вчера ты\nбыла ребёнком, а теперь посмотри на себя.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Сестрёнка, ты потрясающе выглядишь! Счастья\nтебе и моему новому старшему брату! ♪\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>, Лудус. Поздравляю со свадьбой! Будьте\nсчастливы, ладно?!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_11_Craftman",
+   "key": "bb3c8513",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЛудус! Береги <_____MYNAME_____> как следует, понял? Не то чтобы\nя волновалась... но всё же!\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Поздравляю. В нашей охане пополнение.\nХи-хи.\n<PAGE>\n<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>Поздравляю, детки! Уверен, ваш брак будет\nдолгим и чудесным!\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_LEFT><FACE_LAUGH>Вы оба сегодня прекрасно выглядите. Удачи!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_13_Craftman",
+   "key": "236bd08c",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! Пусть ваша любовь друг к другу\nярко горит долгие годы. ♪\n<PAGE>\n<FACE_FISHER><POS_LEFT><FACE_LAUGH><_____MYNAME_____>, ты выбрала отличного парня. Берегите друг\nдруга, ладно?\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>О-о-о! <_____MYNAME_____>, ты в этом наряде суперкрасивая!\nПрямо принцесса!\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_LAUGH>И Лудус тоже крутой! Вам обоим идут эти\nнарядные костюмы!\n<PAGE>\n<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>Традиционный свадебный наряд этого города\nвам к лицу. Пусть ваша совместная жизнь будет\nполна открытий.\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>П-поздравляю! Какая трогательная церемония.\nКажется, я с-сейчас заплачу..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_14_Craftman",
+   "key": "0be2d271",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_LAUGH>\r\nТрадиционный свадебный наряд этого города\nвам к лицу. Пусть ваша совместная жизнь будет\nполна открытий."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_15_Craftman",
+   "key": "c182671b",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nП-поздравляю! Какая трогательная церемония.\nКажется, я с-сейчас заплачу..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_17_Craftman",
+   "key": "e26c85c8",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_WEDDING>\r\n<WINDOW_PALPITATION_R>Если это сон, не хочу просыпаться. Никогда\nещё мне не было так хорошо. Я люблю тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_00_TwinOlder",
+   "key": "01254dac",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nДамы и господа, мы собрались здесь сегодня,\nчтобы засвидетельствовать союз <CHARANAME0> и <_____MYNAME_____>."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_02_TwinOlder",
+   "key": "84d3eed8",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_03_TwinOlder",
+   "key": "9095db8a",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nБерёшь ли ты <CHARANAME0> в свои единственные любимые,\nбыть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_04_TwinOlder",
+   "key": "74291a5c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_WEDDING>\r\nАга! А как же!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_05_TwinOlder",
+   "key": "3e6c6ccf",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\n<CHARANAME0>.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_WEDDING>Да?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_06_TwinOlder",
+   "key": "693ccb42",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nБерёшь ли ты <_____MYNAME_____> в свои единственные любимые,\nбыть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_10_TwinOlder",
+   "key": "5e840973",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх, мой малыш <_____MYNAME_____> ― самый красивый жених на\nсвете. Ты был чудесен, солнышко!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Как же летит время. Кажется, только вчера ты\nбыл ребёнком, а теперь посмотри на себя.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Как я горжусь, что у меня такая классная новая\nстаршая сестра! Счастья вам обоим!\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>, Илука. Поздравляю со свадьбой! Будьте\nсчастливы, ладно?!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_11_TwinOlder",
+   "key": "264a8488",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю. В нашей охане пополнение.\nХи-хи. Будь счастлива, Илука.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>Будто родная сестра замуж выходит. <_____MYNAME_____>, Илука.\nБудьте добры друг к другу, да?\n<PAGE>\n<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>Поздравляю, детки! Уверен, ваш брак будет\nдолгим и чудесным!\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_LEFT><FACE_LAUGH>Вы оба сегодня прекрасно выглядите. Удачи!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_13_TwinOlder",
+   "key": "ce8fbe06",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! Пусть ваша любовь друг к другу\nярко горит долгие годы. ♪\n<PAGE>\n<FACE_FISHER><POS_LEFT><FACE_LAUGH>Всеобщая любимица Илука и правда вышла\nзамуж! Это определённо повод для праздника.\nПоздравляю!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>О-о-о! Илука, ты в этом наряде суперкрасивая!\nПрямо принцесса!\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_LAUGH>И <_____MYNAME_____> тоже крутой! Вам обоим идут эти нарядные\nкостюмы!\n<PAGE>\n<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>Традиционный свадебный наряд этого города\nвам к лицу. Пусть ваша совместная жизнь будет\nполна открытий.\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>П-поздравляю! Какая трогательная церемония.\nКажется, я с-сейчас заплачу..."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_14_TwinOlder",
+   "key": "816f48fb",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! Пусть ваша любовь друг к другу\nярко горит долгие годы. ♪"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_15_TwinOlder",
+   "key": "eb51cdd5",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю вас обоих. Береги Илуку как\nследует, <_____MYNAME_____>!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_17_TwinOlder",
+   "key": "17bfbf5e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_WEDDING>\r\n<WINDOW_PALPITATION_R>Ну и ну. Кто бы мог подумать, что от одной\nцеремонии можно стать такой счастливой?\nЭ-это как во сне...\n<PAGE>\nЯ люблю тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_00_TwinYounger",
+   "key": "01254dac",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nДамы и господа, мы собрались здесь сегодня,\nчтобы засвидетельствовать союз <CHARANAME0> и <_____MYNAME_____>."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_02_TwinYounger",
+   "key": "84d3eed8",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_03_TwinYounger",
+   "key": "9095db8a",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nБерёшь ли ты <CHARANAME0> в свои единственные любимые,\nбыть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_04_TwinYounger",
+   "key": "f5cc58cc",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_WEDDING>\r\nБеру."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_05_TwinYounger",
+   "key": "6524d315",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\n<CHARANAME0>.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_WEDDING>Да?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_06_TwinYounger",
+   "key": "693ccb42",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nБерёшь ли ты <_____MYNAME_____> в свои единственные любимые,\nбыть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_10_TwinYounger",
+   "key": "687b9d3f",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх, мой малыш <_____MYNAME_____> ― самый красивый жених на\nсвете. Ты был чудесен, солнышко!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Как же летит время. Кажется, только вчера ты\nбыл ребёнком, а теперь посмотри на себя.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Как я горжусь, что у меня такая славная новая\nстаршая сестра! Счастья вам обоим!\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>, Силука. Поздравляю со свадьбой! Будьте\nсчастливы, ладно?!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_11_TwinYounger",
+   "key": "c2fb37ce",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nНу что, <_____MYNAME_____>, теперь мы, выходит, семья. Но если\nне сделаешь мою сестру счастливой, тебе\nнесдобровать, понял?\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>Будто родная сестра замуж выходит. <_____MYNAME_____>, Силука.\nБудьте добры друг к другу, да?\n<PAGE>\n<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>Поздравляю, детки! Уверен, ваш брак будет\nдолгим и чудесным!\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_LEFT><FACE_LAUGH>Вы оба сегодня прекрасно выглядите. Удачи!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_13_TwinYounger",
+   "key": "82297a4b",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! Пусть ваша любовь друг к другу\nярко горит долгие годы. ♪\n<PAGE>\n<FACE_FISHER><POS_LEFT><FACE_LAUGH>Загадочная Силука и правда вышла замуж! Это\nопределённо повод для праздника. Поздравляю!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>О-о-о! Силука, ты в этом наряде\nсуперкрасивая! Прямо принцесса!\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_LAUGH>И <_____MYNAME_____> тоже крутой! Вам обоим идут эти нарядные\nкостюмы!\n<PAGE>\n<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>Традиционный свадебный наряд этого города\nвам к лицу. Пусть ваша совместная жизнь будет\nполна открытий.\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>П-поздравляю! Какая трогательная церемония.\nКажется, я с-сейчас заплачу..."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_14_TwinYounger",
+   "key": "816f48fb",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! Пусть ваша любовь друг к другу\nярко горит долгие годы. ♪"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_15_TwinYounger",
+   "key": "e1d227cf",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю вас обоих. Береги Силуку как\nследует, <_____MYNAME_____>!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_MARRIAGE_17_TwinYounger",
+   "key": "a71ad2c0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_WEDDING>\r\n<WINDOW_PALPITATION_R>Это было чудесно. Мне сейчас так хорошо.\n<PAGE>\nЯ люблю тебя, <_____MYNAME_____>..."
+  }
+ ]
+}

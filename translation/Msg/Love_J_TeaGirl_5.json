@@ -1,0 +1,271 @@
+{
+ "file": "Love_J_TeaGirl_5",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_00",
+   "key": "f72e2747",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nФух! Похоже, наплыв посетителей на сегодня\nнаконец спадает."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_01",
+   "key": "e2d075cc",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nХм? Что такое, Комари? Ты витаешь в\nоблаках."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_02",
+   "key": "41bfd1ba",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nА? Я витала в облаках? Эм, н-ничего такого,\nправда...\n<PAGE>\n<FACE_NORMAL>Кстати, похоже, всё успокаивается. Мне нужно\nпо делу, так что я выйду ненадолго."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_03",
+   "key": "ff110666",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nКонечно. Теперь я и сам справлюсь.\n<PAGE>\nЧто, за покупками? Или с кем-то увидеться?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_04",
+   "key": "e34962ce",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nВ-вроде того.\n<PAGE>\nВ общем, я скоро вернусь. Пока!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_05",
+   "key": "744808f5",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\n<WINDOW_INCOMPREHENSIBLE_L>И что это было? Ёрзала больше обычного и\nвыглядела прямо... взволнованной."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_06",
+   "key": "042cecfa",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_LINE_L><WINDOW_EXCLAMATION_L>Постой...! Неужели она идёт на... на СВИДАНИЕ\nс <_____MYNAME_____>?!\n<PAGE>\nЕсли бы она просто шла к Касуми, так бы не\nёрзала. Точно свидание!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_07",
+   "key": "483c6cf6",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_MOJA_L>Чёрт. Теперь я всерьёз беспокоюсь, что <_____MYNAME_____> может\nзадумать с Комари.\n<PAGE>\n<FACE_SAD>Но мне же надо следить за чайной..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_08",
+   "key": "ee4b176a",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\n...Ненадолго ― ничего страшного."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_09",
+   "key": "111fbf6f",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nТак, чайная временно закрыта.\n<PAGE>\nВсего на пару минут. Только чтобы одним\nглазком глянуть, что там эти двое затевают.\nНичего страшного."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_10",
+   "key": "72beb0d4",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_EXCLAMATION_L>Ага! Значит, встречаются на мосту, а?\nИнтересно, о чём они говорят..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_11",
+   "key": "c119f58a",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\nПрости, <_____MYNAME_____>. Сама попросила тебя найти время, а\nсама же и опоздала."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_12",
+   "key": "8b21d754",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOVE>\r\nЧ-что, ты рад меня просто видеть...? Н-ну,\nвидно, всё хорошо, что хорошо кончается, а?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_13",
+   "key": "cad89ada",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\nМр-р-р! Этот <_____MYNAME_____> говорит нежности с совершенно\nсерьёзным лицом...!\n<PAGE>\nДаже я никогда не видел, чтобы Комари так\nзаливалась краской!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_14",
+   "key": "7adb5e2e",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOVE>\r\nЭм, слушай, э-э...\n<PAGE>\n<WINDOW_PALPITATION_L>Я-я тоже очень рада тебя видеть!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_15",
+   "key": "fa9010c5",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOVE>\r\nЯ-я решила, что тоже должна тебе это сказать.\nЧ-чтобы было честно."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_16",
+   "key": "df5e5082",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_LINE_L><WINDOW_EXCLAMATION_L>Комари... МОЯ малышка Комари превращается\nв краснеющую влюблённую девицу?!\n<PAGE>\nЭто важное событие!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_17",
+   "key": "be14372c",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Так, эм... Мы ведь собирались сегодня вместе\nпройтись по магазинам?\n<PAGE>\nДавай осмотримся, <_____MYNAME_____>!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_18",
+   "key": "b38f3258",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\nЯ собирался только одним глазком на них\nглянуть и сразу обратно в чайную...\n<PAGE>\n<FACE_ANGRY>Но, похоже, приглядывать за ними надо\nвнимательнее, чем я думал!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_19",
+   "key": "c6e51b39",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nЯ особо не хожу по магазинам, кроме как по\nделам чайной. Но теперь, как присмотрелась,\nтут столько всего продаётся."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_20",
+   "key": "44c28f51",
+   "ru": "О, Комари! У нас есть резинки для волос,\nкоторые девушкам вроде тебя точно\nпонравятся.\n<PAGE>\nХочешь посмотреть?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_21",
+   "key": "e7c7315b",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Ого, какая миленькая!\n<PAGE>\n<FACE_NORMAL><WINDOW_DEFAULT>Ой, эм..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_22",
+   "key": "0d334a69",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>. Как думаешь, эм... мне пойдёт?\n<PAGE>\n<FACE_LAUGH><WINDOW_HEART_L>Раз уж ты тут, может, выберешь мне?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_23",
+   "key": "891f9535",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOVE>\r\n<WINDOW_INCOMPREHENSIBLE_L>А...? Эм, ч-что такое...?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_24",
+   "key": "7923a9a0",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_ANGER_L>(<_____MYNAME_____>!! Это слишком, СЛИШКОМ близко к моей\nдочери!!)"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_25",
+   "key": "d15ebaef",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOVE>\r\nОй. У меня в волосах застрял листок?\n<PAGE>\n<FACE_LAUGH>Ух ты, и правда. Совсем не заметила. Спасибо,\n<_____MYNAME_____>."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_26",
+   "key": "60984a5b",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\nЧто? Листок?! Только и всего? Листок в\nволосах?!\n<PAGE>\n<FACE_SAD>Ну надо же... Я чуть не закричал вслух."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_27",
+   "key": "7b733059",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nА? Гиндзиро? Здравствуйте. Вас почти никогда\nне видно за покупками в это время."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_28",
+   "key": "dc0dc2c8",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_EXCLAMATION_L>Хината?! Ах ты...!! Не так громко!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_29",
+   "key": "6edcc4fe",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_MOJA_R>Пап? Ты что тут делаешь?!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_30",
+   "key": "40dd16d0",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_ANGER_R>Ох!! Ты о чём думал, шпионя за нами?! Как ты\nмог так со мной!!\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LOSS><WINDOW_SWEAT_L>И ради этого вы даже закрыли чайную.\n<PAGE>\nВсе и так знают, но ого, вы и правда тот ещё\nсверхзаботливый родитель, Гиндзиро."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_31",
+   "key": "0896ea26",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nИ ради этого вы даже закрыли чайную.\n<PAGE>\nВсе и так знают, но ого, вы и правда тот ещё\nсверхзаботливый родитель, Гиндзиро."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_32",
+   "key": "13f86dd1",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\n<WINDOW_MOJA_L>Эй! Я просто чуточку беспокоился, ясно? Хотел\nтолько одним глазком глянуть и вернуться в\nчайную.\n<PAGE>\nПростите, что вот так вам помешал, Комари. <_____MYNAME_____>."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_33",
+   "key": "76605dfb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_MOJA_R>Ох, пап!\n<PAGE>\n<FACE_NORMAL>Я же с <_____MYNAME_____>! Должен понимать, что беспокоиться не\nо чем."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_34",
+   "key": "fa498848",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Ха-ха-ха! Ну, Комари, ты прямо без ума от <_____MYNAME_____>,\nа?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_35",
+   "key": "19f875ef",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_MOJA_R>Хината! Не дразнись!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_36",
+   "key": "54e3fc25",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\nНу что ж. В общем!\n<PAGE>\n<_____MYNAME_____>, видно, какая-то часть меня ещё не до конца\nдоверяла тебе как спутнику Комари.\n<PAGE>\n<FACE_NORMAL>Но увидев, как Комари тебе улыбается... что\nж. Она знает тебя лучше меня, так что пора ей\nдовериться.\n<PAGE>\n<_____MYNAME_____>. Пожалуйста, береги мою дочь. Но помни...\n<PAGE>\n<WINDOW_ANGER_L>Если доведёшь её до слёз, за себя не ручаюсь!\nЯсно?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_TEAGIRL_5_37",
+   "key": "e333d640",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_SWEAT_R>Пап...! Ох!\n<PAGE>\n<FACE_LAUGH><WINDOW_FUN_R>Уж об этом можешь не волноваться! Правда, <_____MYNAME_____>?"
+  }
+ ]
+}

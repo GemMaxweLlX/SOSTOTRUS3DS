@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Tsukumo",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "75829fbd",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nЭй, ты! Подходи, посмотри!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "56c2d512",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nЯ всегда стараюсь держать лавку полной."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "f3e1342d",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nХм-м... Вложиться в рисовые лепёшки...?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "c162a3b0",
+   "ru": "<NAME_MOB_TSUKUMO>\r\nРасскажи друзьям о моей лавке!"
+  }
+ ]
+}

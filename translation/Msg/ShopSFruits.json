@@ -1,0 +1,145 @@
+{
+ "file": "ShopSFruits",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_000",
+   "key": "a1c484d0",
+   "ru": "Лавка закрыта до конца праздника."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_001",
+   "key": "b6abdb38",
+   "ru": "Магазин на сегодня закрыт."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_002",
+   "key": "c6acc082",
+   "ru": "Магазин закрыт. Приходите в часы работы."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_003",
+   "key": "fdd20100",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nДобро пожаловать во фруктовую лавку\n“Санто-ду-Манго”! Всё только что сорвано,\nсочное и вкусное!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_004",
+   "key": "d144d246",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nКомо май! Рады видеть тебя в\n“Санто-ду-Манго”!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GREETING_005",
+   "key": "245a8591",
+   "ru": "Комо май! Рады видеть тебя в\n“Санто-ду-Манго”!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_000",
+   "key": "f7d65d66",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nФруктовое счастье к вашим услугам! Что\nсегодня?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_001",
+   "key": "f1219df7",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nЧем ещё помочь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_002",
+   "key": "abbd2e45",
+   "ru": "Купить товары"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_003",
+   "key": "6741ab03",
+   "ru": "Работа"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_004",
+   "key": "a39a6a22",
+   "ru": "Спросить о совместной работе"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_CHOICE_005",
+   "key": "e9f69236",
+   "ru": "<CANCEL_SELECT>\r\nНичего"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_000",
+   "key": "1d63515c",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nЧто тебе дать?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_001",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_002",
+   "key": "0669bcc9",
+   "ru": "Сколько купить?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_003",
+   "key": "2f264a35",
+   "ru": "В сумке не хватает места."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_004",
+   "key": "7f34b84e",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nТолько что привезли новые фрукты. Глянь!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_ITEM_005",
+   "key": "dd36d17a",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nТеперь вместе с <_____MYNAME_____> у нас больше товаров.\nПосмотри!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_NAME",
+   "key": "ccc32b05",
+   "ru": "Санто-ду-Манго"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MSG_SHOP_FOODSTUFF_GOODBYE_000",
+   "key": "52a5e401",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nМахало! До следующего раза!"
+  }
+ ]
+}

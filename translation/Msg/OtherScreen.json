@@ -1,0 +1,1209 @@
+{
+ "file": "OtherScreen",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "CommonMsgID00",
+   "key": "40725de7",
+   "ru": "Выберите действие на верхнем экране."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "SelectMenuMsgID00",
+   "key": "33b2ecb4",
+   "ru": "Надеть"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "SelectMenuMsgID01",
+   "key": "6f2c1806",
+   "ru": "Снять"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "SelectMenuMsgID02",
+   "key": "8acd29d0",
+   "ru": "Съесть/выпить"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "SelectMenuMsgID03",
+   "key": "bff8a239",
+   "ru": "Взять"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "SelectMenuMsgID04",
+   "key": "4aa54781",
+   "ru": "В сумку"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "SelectMenuMsgID05",
+   "key": "b5dc7cc9",
+   "ru": "Положить"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "SelectMenuMsgID06",
+   "key": "8bf10d56",
+   "ru": "Выбросить"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "SelectMenuMsgID07",
+   "key": "a68f2242",
+   "ru": "Закрепить"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "SelectMenuMsgID08",
+   "key": "12cde031",
+   "ru": "Открепить"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "SelectMenuMsgID09",
+   "key": "0a605f0d",
+   "ru": "Объединить все"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "SelectMenuMsgID10",
+   "key": "69928d4a",
+   "ru": " объединено"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "SelectMenuMsgID11",
+   "key": "7db5c317",
+   "ru": "Выбрать и объединить"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "SelectMenuMsgID12",
+   "key": "51bac044",
+   "ru": "Отмена"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "SelectMenuMsgID13",
+   "key": "2aa8b85d",
+   "ru": "Объединить"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "SelectMenuMsgID14",
+   "key": "65b61ccd",
+   "ru": "Высокое кач."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "SelectMenuMsgID15",
+   "key": "d4ee4481",
+   "ru": "Низкое кач."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "SelectMenuMsgID16",
+   "key": "9d7eb22b",
+   "ru": "Больше всего"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "SelectMenuMsgID17",
+   "key": "236f2ea1",
+   "ru": "Сумка"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "SelectMenuMsgID18",
+   "key": "9bc722a8",
+   "ru": "Хранилище"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "SelectMenuMsgID19",
+   "key": "fd4f8317",
+   "ru": "Осмотреть"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "SelectMenuMsgID20",
+   "key": "e6aa172e",
+   "ru": "Добавить продукт"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "SelectMenuMsgID21",
+   "key": "87943a3a",
+   "ru": "Отменить"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "SelectMenuMsgID22",
+   "key": "b132b226",
+   "ru": "Ничего"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "SelectMenuMsgID23",
+   "key": "d70c5314",
+   "ru": "В питомник"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "SelectMenuMsgID24",
+   "key": "4758fe67",
+   "ru": "В улей"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "SelectMenuMsgID25",
+   "key": "4f060335",
+   "ru": "Советы фермеру"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "SelectMenuMsgID26",
+   "key": "a4fd5d35",
+   "ru": "Ранг связи"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "SelectMenuMsgID27",
+   "key": "732750d9",
+   "ru": "Заметки о работе"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "SelectMenuMsgID28",
+   "key": "cdfc6e09",
+   "ru": "Назад"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "SelectMenuMsgID29",
+   "key": "c0eacf74",
+   "ru": "Сменить имя"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "SelectMenuMsgID30",
+   "key": "f36a8f36",
+   "ru": "Сменить название фермы"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "ItemGenreMsgID00",
+   "key": "2b3bf173",
+   "ru": "Инструменты"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "ItemGenreMsgID01",
+   "key": "33e8c2d9",
+   "ru": "Семена"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "ItemGenreMsgID02",
+   "key": "bdff68fe",
+   "ru": "Урожай"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "ItemGenreMsgID03",
+   "key": "5fe1d66b",
+   "ru": "Блюда"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "ItemGenreMsgID04",
+   "key": "4acc380c",
+   "ru": "Продукты"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "ItemGenreMsgID05",
+   "key": "9f46eb0d",
+   "ru": "Рыба"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "ItemGenreMsgID06",
+   "key": "18991a24",
+   "ru": "Другое"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "BagMsgID00",
+   "key": "78bb8028",
+   "ru": "Сколько выбросить?"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "BagMsgID01",
+   "key": "35ec2d52",
+   "ru": "Сколько положить?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "BagMsgID02",
+   "key": "dee06c31",
+   "ru": "Объединить выбранное?"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "BagMsgID03",
+   "key": "b06d59d9",
+   "ru": "Сколько съесть/выпить?"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "BagMsgID04",
+   "key": "34584086",
+   "ru": "Выберите, что объединить."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "BagMsgID05",
+   "key": "a74fbd49",
+   "ru": "Сумка полна!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "BagMsgID06",
+   "key": "165880dc",
+   "ru": "Принять этот предмет?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "StorageMsgID00",
+   "key": "817928c0",
+   "ru": "Сколько положить?"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "StorageMsgID01",
+   "key": "6fac06d0",
+   "ru": "Сколько взять?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "StorageMsgID02",
+   "key": "2d567562",
+   "ru": "Хранилище полно!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "StorageMsgID03",
+   "key": "1bd52721",
+   "ru": "Ящик инструментов полон!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "CategoryMsgID00",
+   "key": "9bc722a8",
+   "ru": "Место"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "CategoryMsgID01",
+   "key": "0b090ddd",
+   "ru": "Цена"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "CategoryMsgID02",
+   "key": "d95d5328",
+   "ru": "Откуда"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "DestStorage00",
+   "key": "1ea30fcb",
+   "ru": "Сундук"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "DestStorage01",
+   "key": "2e2e965a",
+   "ru": "Ящик инстр."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "DestStorage02",
+   "key": "1edc58b6",
+   "ru": "Шкаф"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "DestStorage03",
+   "key": "abbfd79d",
+   "ru": "Силос"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "CookMsgID00",
+   "key": "eb7a5c10",
+   "ru": "Сколько сделать?"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "CookMsgID01",
+   "key": "49a294c1",
+   "ru": "Не хватает материалов."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "CookMsgID02",
+   "key": "ede3d10d",
+   "ru": "Из гигантского урожая\nвыйдет гораздо больше обычного!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "CookMsgID03",
+   "key": "4e7b0593",
+   "ru": "Это будет вкусно сверх\nвсяких ожиданий!"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "CookMsgID04",
+   "key": "18bdbe3f",
+   "ru": "Без добавки."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "CookMsgID05",
+   "key": "dfa2aff1",
+   "ru": "Нет"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "CookMsgID06",
+   "key": "35296a0d",
+   "ru": "Вернуться к выбору рецепта?"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "CookMsgID07",
+   "key": "3ece7cbe",
+   "ru": "???"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "CookMsgID08",
+   "key": "52ee0cb6",
+   "ru": "Нужна кулинария ур. <MOJI0>!"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "ShipmentMsg000",
+   "key": "f25cc902",
+   "ru": "Сколько отправить?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "AnimalCategoryMsg00",
+   "key": "ee4fb996",
+   "ru": "Хлев"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "AnimalCategoryMsg01",
+   "key": "c4fd408e",
+   "ru": "Продукт"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "AnimalCategoryMsg02",
+   "key": "783bd306",
+   "ru": "Характ."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "AnimalCategoryMsg03",
+   "key": "fa72d7a0",
+   "ru": "Умение"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "AnimalHutMsg00",
+   "key": "ee4fb996",
+   "ru": "Хлев"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "AnimalHutMsg01",
+   "key": "590ea286",
+   "ru": "Курятник"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "AnimalHutMsg02",
+   "key": "73edeb8d",
+   "ru": "Домик"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "AnimalHutMsg03",
+   "key": "0bd3a3a1",
+   "ru": "Конюшня"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "AnimalCropsMsg00",
+   "key": "1c143328",
+   "ru": "Молоко"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "AnimalCropsMsg01",
+   "key": "92743e01",
+   "ru": "Шерсть"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "AnimalCropsMsg02",
+   "key": "707a9fa2",
+   "ru": "Яйца"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "AnimalPersonality00",
+   "key": "8edc928a",
+   "ru": "Ласковый"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "AnimalPersonality01",
+   "key": "4cb2f934",
+   "ru": "Активный"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "AnimalPersonality02",
+   "key": "f3700b43",
+   "ru": "Робкий"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "AnimalPersonality03",
+   "key": "e8a20174",
+   "ru": "Весёлый"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "AnimalPersonality04",
+   "key": "1bbbb096",
+   "ru": "Спокойный"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "AnimalPersonality05",
+   "key": "275e2e00",
+   "ru": "Малыш"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "SaveWriting",
+   "key": "0daad5dc",
+   "ru": "Идёт запись дневника.\nНе выключайте консоль."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "SaveWriteEnd",
+   "key": "a64fc5c2",
+   "ru": "Запись сделана."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "SaveWriteError",
+   "key": "25d13ca6",
+   "ru": "Не удалось записать дневник. Выключите\nконсоль, извлеките карту и вставьте\nеё снова."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "SaveRewritefast",
+   "key": "9f3a9e2b",
+   "ru": "Сделать запись здесь?"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "SaveRewriteConfirm",
+   "key": "94ebed77",
+   "ru": "Перезаписать эту запись?"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "SaveReadConfirm",
+   "key": "a8154dca",
+   "ru": "Прочитать эту запись?"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "SaveReadEnd",
+   "key": "a64fc5c2",
+   "ru": "Запись сделана."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "SaveEmptyData",
+   "key": "2f83c549",
+   "ru": "Записей нет."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "ReturnTitle",
+   "key": "86af032e",
+   "ru": "Вернуться на титульный экран?\n(Несохранённое будет потеряно.)"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "SaveLoading",
+   "key": "ed4096ea",
+   "ru": "Дневник читается.\nНе выключайте консоль."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "SaveDeleteReceiveCec",
+   "key": "207faf43",
+   "ru": "Данные StreetPass повреждены\nи будут удалены."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "SaveLoadSelectMenuMsgID00",
+   "key": "ca39f4b8",
+   "ru": "Сделать запись"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "SaveLoadSelectMenuMsgID01",
+   "key": "dfbce499",
+   "ru": "Читать дневник"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "SaveLoadSelectMenuMsgID02",
+   "key": "1f88c31b",
+   "ru": "Настройки"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "SaveLoadSelectMenuMsgID03",
+   "key": "af714ab6",
+   "ru": "В главное меню"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "SaveLoadSelectMenuMsgID04",
+   "key": "68291829",
+   "ru": "Назад"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "InitialSettingGenderSelectInfo",
+   "key": "11b97318",
+   "ru": "Выберите пол."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "InitialSettingGenderSelectMale",
+   "key": "f5bf4f97",
+   "ru": "Мужской"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "InitialSettingGenderSelectFemale",
+   "key": "4dd88f5a",
+   "ru": "Женский"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "InitialSettingGenderSelectCancel",
+   "key": "3a0ad72a",
+   "ru": "Вернуться на титульный экран?"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "InitialSettingTutorial",
+   "key": "d4321801",
+   "ru": "*Внешность*\nКрестовиной выберите, что изменить, и\n<BLUE>нажмите кнопку A</BLUE>! <BLUE>Кнопка B</BLUE> вернёт\nна экран назад. Когда закончите,\nвыберите “Принять”!"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "InitialSettingType",
+   "key": "cf9e94a2",
+   "ru": "*Характер*\nОт характера немного зависит,\nчто у вас будет получаться лучше.\nВыбирайте любой."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "InitialSettingExtraType",
+   "key": "56232179",
+   "ru": "С этим характером часть данных\nпрошлого сохранения перейдёт в игру."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "InitialSettingConfirmNameFormat",
+   "key": "031caa5d",
+   "ru": "<BLUE>%ls</BLUE> подходит?"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "InitialSettingConfirmSetting",
+   "key": "efa2a84b",
+   "ru": "Начать с этими настройками?"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "InitialSettingConfirmCancel",
+   "key": "de03ece7",
+   "ru": "Вернуться к выбору пола?"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "ClosetTakeoff",
+   "key": "6f2c1806",
+   "ru": "Снять"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "AnimalState00",
+   "key": "7f2caccd",
+   "ru": "Доволен"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "AnimalState01",
+   "key": "44bbebf4",
+   "ru": "Расстроен"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "AnimalState02",
+   "key": "2b4a0f4b",
+   "ru": "Болен"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "AnimalState03",
+   "key": "8771a9a5",
+   "ru": "Берем."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "AnimalState04",
+   "key": "f8ec6ab0",
+   "ru": "Толстый"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "AnimalBirthSeason00",
+   "key": "6c92115f",
+   "ru": "Весна"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "AnimalBirthSeason01",
+   "key": "25284c1a",
+   "ru": "Лето"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "AnimalBirthSeason02",
+   "key": "5b627032",
+   "ru": "Осень"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "AnimalBirthSeason03",
+   "key": "1aeb439e",
+   "ru": "Зима"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "AnimalBirthYear",
+   "key": "1bb0dc09",
+   "ru": "Год"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "AnimalBirthMonth",
+   "key": "f7485e9f",
+   "ru": "Сезон"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "AnimalBirthDay",
+   "key": "dded6f70",
+   "ru": "День"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "AnimalHutFarm00",
+   "key": "6974a88c",
+   "ru": "Хлев (центр)"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "AnimalHutFarm01",
+   "key": "3d6d7fec",
+   "ru": "Хлев (запад)"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "AnimalHutFarm02",
+   "key": "a82f2c59",
+   "ru": "Хлев (восток)"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "AnimalCanNotMoving",
+   "key": "c7163407",
+   "ru": "Нет свободных хлевов."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "AnimalSelectMovingHut",
+   "key": "19e87b5c",
+   "ru": "Выберите хлев для животного."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "AnimalCanNotMovingPregnant",
+   "key": "e071aaae",
+   "ru": "Беременное животное нельзя\nпереселить. Выберите другое."
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "AnimalCanNotMovingSick",
+   "key": "485106bc",
+   "ru": "Больное животное нельзя\nпереселить. Выберите другое."
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "AnimalCanNotMovingSenilityDeath",
+   "key": "1ae46ff8",
+   "ru": "Расстроенное животное нельзя\nпереселить. Выберите другое."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "AnimalMovingSwap",
+   "key": "0a9aec4f",
+   "ru": "Там нет места. Выберите,\nс кем поменять местами."
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "AnimalMovingEnd",
+   "key": "bb5c176b",
+   "ru": "Животное переселено."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "AnimalMovingCheck",
+   "key": "f7b6e45c",
+   "ru": "Поменять животных местами?"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "AnimalFes00",
+   "key": "02ea7e07",
+   "ru": "Победы"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_GO_BACK",
+   "key": "d841be63",
+   "ru": "Вернуться к жидким удобрениям?"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MSG_FERTILIZWR_TANK_CREATE",
+   "key": "99d0d0db",
+   "ru": "Продолжить?"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_REPLACE",
+   "key": "a2ecfb97",
+   "ru": "Сменить наживку?"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_SET",
+   "key": "f00de3e7",
+   "ru": "Насадить наживку?"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_ERASE",
+   "key": "4393d27b",
+   "ru": "Снять наживку?"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MSG_SHOP_A_ALLROUNDER_BAITSET_NOTSET",
+   "key": "5c2f7e91",
+   "ru": "У вас нет наживки."
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "FishFoodNone",
+   "key": "dfa2aff1",
+   "ru": "Нет"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "FishFoodNum",
+   "key": "d25624a8",
+   "ru": "Есть"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "PostOfficeContent00",
+   "key": "19ef42e4",
+   "ru": "Кому"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "PostOfficeContent01",
+   "key": "8d2c76e0",
+   "ru": "Бумага"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "PostOfficeContent02",
+   "key": "4d8c7321",
+   "ru": "Содержание"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "PostOfficeLetterKind00",
+   "key": "ab4b643d",
+   "ru": "Письмо домой"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "PostOfficeLetterKind01",
+   "key": "ea3d18f4",
+   "ru": "Отправить подарок"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "PostOfficeLetterKind02",
+   "key": "b1b2e8f6",
+   "ru": "Поздравить с днём рожд."
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "PostOfficeLetterNGComment00",
+   "key": "a11e1ac8",
+   "ru": "У вас не хватает денег."
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "PostOfficeLetterNGComment01",
+   "key": "a272324c",
+   "ru": "С таким содержанием письмо\nне отправить."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "PostOfficeLetterNGComment02",
+   "key": "67ca490b",
+   "ru": "Сегодня письмо уже отправлено."
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "PostOfficeLetterNGComment03",
+   "key": "827cb696",
+   "ru": "Этот человек сейчас у вас в гостях."
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "PostOfficeLetterNGComment04",
+   "key": "c4b9c777",
+   "ru": "Это можно только в день рождения."
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "PostOfficeLetterNGComment05",
+   "key": "d0fc075b",
+   "ru": "Подарок уже отправлен."
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "PostOfficeLetterNGComment06",
+   "key": "80f0517a",
+   "ru": "Пока не придёт ответ,\nписьмо не отправить."
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "PostOfficeLetterSelectItem",
+   "key": "24c10d8e",
+   "ru": "Выберите подарок."
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "PostOfficeLetterSelectMessage",
+   "key": "67e3e57a",
+   "ru": "Выберите сообщение."
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "PostOfficeLetterCheck",
+   "key": "d39a9944",
+   "ru": "Отправить это письмо?"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "PostOfficeNotRecent",
+   "key": "dba6f9e0",
+   "ru": "Семейные письма можно\nотправлять только семье."
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "IncomeExpenditureYear",
+   "key": "9c22e129",
+   "ru": "Всего, год %2d"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "TitleNewGame",
+   "key": "f5003f27",
+   "ru": "Новая игра"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "TitleContinue",
+   "key": "ea954889",
+   "ru": "Продолжить"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "TitleNetwork",
+   "key": "30704eab",
+   "ru": "StreetPass"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "TitleNormal",
+   "key": "467145eb",
+   "ru": "Режим ветерана"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "TitleEasy",
+   "key": "9ebc41a2",
+   "ru": "Режим ростка"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "TitleNormalDesc",
+   "key": "9a135951",
+   "ru": "Режим для бывалых фермеров,\nкоторые уже знают все тонкости\nфермерской жизни."
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "TitleEasyDesc",
+   "key": "3e1d0954",
+   "ru": "Режим для новичков, которые\nвпервые пробуют жизнь\nна ферме."
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PET_DECISION_ASK",
+   "key": "10f12f2e",
+   "ru": "Зарегистрировать этого питомца?"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PET_ALREADY",
+   "key": "eb401b8a",
+   "ru": "Этот питомец уже зарегистрирован."
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MSG_SHOP_A_GODDESS_SURECHIGAI_PET_REPLACEMENT",
+   "key": "c648ae63",
+   "ru": "Поменять питомцев?"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "AnimalBirthFormat",
+   "key": "7eb4e92a",
+   "ru": "Год <MOJI2>, <MOJI0> <MOJI1>"
+  }
+ ]
+}

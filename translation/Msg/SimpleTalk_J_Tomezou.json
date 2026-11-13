@@ -1,0 +1,33 @@
+{
+ "file": "SimpleTalk_J_Tomezou",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_SIMPLETALK_SHOP",
+   "key": "0a1230c2",
+   "ru": "Как поживаете?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_SIMPLETALK_00",
+   "key": "51b945af",
+   "ru": "<NAME_MOB_TOMEZOU>\r\nСкажу так... рисовые шарики ― объедение!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_SIMPLETALK_01",
+   "key": "d079b5b9",
+   "ru": "<NAME_MOB_TOMEZOU>\r\nОдин в поле не воин. Надо помогать друг другу!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_SIMPLETALK_02",
+   "key": "453de076",
+   "ru": "<NAME_MOB_TOMEZOU>\r\nВ детстве я часто играл на рисовых полях."
+  }
+ ]
+}

@@ -1,0 +1,572 @@
+{
+ "file": "Festival_J_RiceEar",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_00",
+   "key": "e43f9df2",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nТак, похоже, все в сборе. Начинаем Праздник\nизобилия!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_01",
+   "key": "49941b5b",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nСначала все отведают особого огромного котла\nриса, который мы приготовили к сегодняшнему\nдню!\n<PAGE>\nЭтим угощением мы благодарим Инари за\nпрошедший год.\n<PAGE>\nЗдесь, в Цуюкусе, верят, что духи живут во\nвсём, вплоть до самого маленького рисового\nзёрнышка.\n<PAGE>\nТак что, наслаждаясь каждой ложкой риса,\nвспомним о благах, полученных в этом году.\n<PAGE>\nВ этом году мы готовили из продуктов с полей\nУмэкити и Иттэцу, так что вышло очень вкусно.\n<PAGE>\n<FACE_LAUGH>Ну, все, налетайте, пока горячее!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_03",
+   "key": "ce1a90a1",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nИ напоследок, друзья, мы поднесём Инари\nтанец в знак благодарности.\n<PAGE>\nПомните: это благодарность за урожай этого\nгода! Выкладывайтесь!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_04",
+   "key": "2bcb8eae",
+   "ru": "(Я тоже потанцую. Похоже, партнёра можно\nвыбрать любого.)"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_05",
+   "key": "ed1194eb",
+   "ru": "(С кем бы потанцевать?)"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_06",
+   "key": "ce1a191c",
+   "ru": "Танцевать с мужчиной"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_07",
+   "key": "dde07988",
+   "ru": "Танцевать с женщиной"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_08",
+   "key": "171220c2",
+   "ru": "Танцевать с ребёнком"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_09",
+   "key": "78efe202",
+   "ru": "Пригласить: <CHARANAME0>?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_009",
+   "key": "fb5c3116",
+   "ru": "Пригласить: <CHILD_NAME>?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_10",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_11",
+   "key": "f22e0cbd",
+   "ru": "Нет"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_CANCEL",
+   "key": "68291829",
+   "ru": "Назад"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_12",
+   "key": "23f8e3d8",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nПраздник изобилия этого года подходит к\nконцу. Всем было весело?\n<PAGE>\nАх да, из оставшегося риса мы сделали рис с\nовощами, так что берите домой!\n<PAGE>\nВсе сегодня молодцы! Обязательно приходите\nповеселиться в следующем году."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_13",
+   "key": "4ba85d4a",
+   "ru": "<FACE_INARI>\r\nА вот и ты, <_____MYNAME_____>. Я тебя жду."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_14",
+   "key": "07d70520",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nСегодня был чудесный день. Подумать только,\nвы, люди, так заботитесь обо мне, хоть совсем\nменя не видите...\n<PAGE>\nМне невероятно повезло. Спасибо.\n<PAGE>\nПоблагодарить всех я не могу, так что хотя бы\nтебе скажу спасибо, <_____MYNAME_____>.\n<PAGE>\nЯ ещё неопытное божество, но постараюсь и\nдальше оберегать всех."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_15",
+   "key": "bcfdd548",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nКстати... Ты ведь помогаешь собирать деньги\nна праздник? Все тебя хвалили.\n<PAGE>\nПохоже, жители стали гораздо лучше к тебе\nотноситься, <_____MYNAME_____>. Как же это радует.\n<PAGE>\nУже жду не дождусь следующего Праздника\nизобилия. Надеюсь, ты снова придёшь."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_16",
+   "key": "79fa2fa3",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nКстати... Ты ведь помогаешь собирать деньги\nна праздник? Все тебя хвалили.\n<PAGE>\nПохоже, жители стали лучше к тебе\nотноситься, <_____MYNAME_____>. Как же это радует.\n<PAGE>\nУже жду не дождусь следующего Праздника\nизобилия. Надеюсь, ты снова придёшь."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_17",
+   "key": "c6de6871",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nУже жду не дождусь следующего Праздника\nизобилия. Надеюсь, ты снова придёшь."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_18",
+   "key": "ee158af8",
+   "ru": "(Праздник изобилия удался. В следующем году\nтоже приду!)"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_00",
+   "key": "4fae16f0",
+   "ru": "Юдзуки"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_01",
+   "key": "25e1f085",
+   "ru": "Хината"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_02",
+   "key": "b1ab22f8",
+   "ru": "Умэкити"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_03",
+   "key": "5b1e5344",
+   "ru": "Мория"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_04",
+   "key": "c6a08342",
+   "ru": "Гиндзиро"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_05",
+   "key": "ab638e37",
+   "ru": "Иттэцу"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_06",
+   "key": "4a81e1f5",
+   "ru": "Тацуми"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_07",
+   "key": "abe453c2",
+   "ru": "Яити"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_08",
+   "key": "6601f7d1",
+   "ru": "Комари"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_09",
+   "key": "bf826c2e",
+   "ru": "Касуми"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_10",
+   "key": "b13b5982",
+   "ru": "Омиё"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_11",
+   "key": "8d737ea5",
+   "ru": "Сумомо"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_12",
+   "key": "f5ba798a",
+   "ru": "Сидзу"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_SELECT_13",
+   "key": "19e86dee",
+   "ru": "<CHILD_NAME>"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_KAMAMESHI_A_01",
+   "key": "14bfcf53",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nМ-м-м-м! В такой хороший день рис из котла\nещё вкуснее. ♪\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Это потому, что осенний ветер разносит\nаромат. Сразу есть хочется.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>Будто мы втроём, парни, в поход выбрались.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Поход, говоришь... А может, втроём и правда\nскоро куда-нибудь съездим?\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>О, точно! Я недавно узнал про горячий источник\nглубоко в горах. Поехали туда!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Звучит здорово. От одной мысли уже радостно.\nЖду не дождусь!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_KAMAMESHI_B_01",
+   "key": "caa77520",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУх, как вкусно. Папин рис из котла ― лучший\nна свете!\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>Стряпня Гиндзиро и меня впечатляет. Должно\nбыть, он долго учился.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>Ну да. Он учился в каком-то знаменитом\nресторане, так что долго был на самых низах.\n<PAGE>\n<FACE_LOSS>Ну там, работал по хозяйству ещё младенцем,\nвзял нож, как только научился ходить...\n<PAGE>\n<FACE_ANGRY>“Хватит шутить, Комари!” ― вот что кто-то\nиз вас должен был сказать! Никакой реакции на\nмладенца?!\n<PAGE>\nА-а! Опять говорю только я!\n<PAGE>\n<FACE_SAD>Вы слишком тихие. Будто сама с собой\nразговариваю.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Когда ты начинаешь говорить, вставить слово\nтрудно, Комари. Правда, <_____MYNAME_____>?\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>И ты тоже киваешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_KAMAMESHI_C_01",
+   "key": "15da234e",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\n...Чего ещё ждать от Гиндзиро. Отменный рис\nиз котла.\n<PAGE>\nОн прекрасно раскрыл вкус овощей Иттэцу.\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_NORMAL>...Спасибо.\n<PAGE>\nНо, Умэкити, ваши овощи тоже сладкие и\nвкусные.\n<PAGE>\nПо сравнению с вами... мне ещё расти и расти.\n<PAGE>\nХочу вырастить что-то ещё лучше.\n<PAGE>\n<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>Ха-ха, мы будто только и делаем, что хвалим\nдруг друга.\n<PAGE>\n<FACE_NORMAL>Ты ещё молод. У тебя полно времени, чтобы\nрасправить крылья и стать лучше.\n<PAGE>\nНе торопись. Уверен, у тебя получится что-то\nчудесное.\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_LAUGH>...Я буду стараться изо всех сил."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_KAMAMESHI_D_01",
+   "key": "06c9798a",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nХм. Неплохо. При таком качестве Инари в этом\nгоду наверняка доволен.\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>Ого, комплимент от Мории! Ну да, в этом году\nприправы были на мне.\n<PAGE>\n<FACE_WOLESALER><POS_RIGHT><FACE_ANGRY>Хм, мой комплимент был продуктам, а не\nприправам. Умэкити и Иттэцу превзошли себя.\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>Н-неужели нельзя хоть раз искренне кого-то\nпохвалить...?!\n<PAGE>\n<FACE_SAD>Ну и ладно. Пойду найду того, кто меня\nпохвалит!\n<PAGE>\n<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>...Подумать только, такой легкомысленный\nчеловек готовит так вкусно. Каждый раз\nудивляюсь.\n<PAGE>\nОн умеет раскрыть вкус продуктов.\n<PAGE>\nГлядя на него, ни за что не подумаешь, что он\nна такое способен. Правда ведь, <_____MYNAME_____>?\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>Ну знаешь...! <_____MYNAME_____>, заступись за меня, а?"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_KAMAMESHI_E_01",
+   "key": "996433cc",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОх, рис такой пышный, и начинка вкусная.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>Чего и ждать от Гиндзиро. Он же повар.\n<PAGE>\nЯ ем его стряпню довольно часто и не\nзадумываюсь, но...\n<PAGE>\nЕсли подумать, это ведь, пожалуй, высокая\nкухня.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>С такой вкусной едой я бы с удовольствием\nсобрала обед с собой, когда иду смотреть\nспектакль.\n<PAGE>\n<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>Отличная мысль, Омиё! В следующий раз\nвозьмём на спектакль коробочки с обедом!\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>Да. Спасибо, Сидзу. Буду ждать!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_KAMAMESHI_F_01",
+   "key": "1eeac4d6",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>\r\nЭй, эй! Вы когда-нибудь видели Инари?\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>Не-а.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>И я нет. Интересно, как выглядит Инари.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>Ну, Инари же вроде бога, да? Значит, точно\nпрекрасный и крутой.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>Боги сильные. Наверное, Инари страшный, как\nдемон в моей книжке с картинками.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>А по-моему, Инари всегда спокойный и\nневозмутимый. Прямо идеальный человек.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL><_____MYNAME_____>? У тебя какая-то странная улыбка.\n<PAGE>\nЕсли увидишь Инари, <_____MYNAME_____>, расскажи, как он\nвыглядит!"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_Chaser_00",
+   "key": "f1d77a34",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nСо мной? Я вовсе не против. Праздник же,\nдавай повеселимся."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_Chaser_00",
+   "key": "94b3c5fb",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nСо мной? С удовольствием.\n<PAGE>\n<FACE_LAUGH>Танцевать с тобой ― честь для меня, <_____MYNAME_____>. Но,\nпризнаюсь, я немного волнуюсь. Давай\nповеселимся."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_LOVER_Chaser_00",
+   "key": "6bcfcbe8",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nДа, конечно. Я с радостью потанцую с тобой.\n<PAGE>\n<FACE_LOVE>...Ведь танцевать мне хочется только с тобой."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MARRIAGE_Chaser_00",
+   "key": "47c5e1db",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nДа, моя принцесса. Потанцуем.\n<PAGE>\nКогда ты танцуешь, мне хочется, чтобы ты\nбыла только моей."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_Apprentice_00",
+   "key": "cd8570f0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nО! Только парни? Повеселимся!"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_Apprentice_00",
+   "key": "dc115d37",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nВот уж не думал, что ты пригласишь меня на\nтанец. Конечно, <_____MYNAME_____>.\n<PAGE>\nПраздник же, в конце концов. Оторвёмся как\nследует! Пошли!"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_LOVER_Apprentice_00",
+   "key": "f864a975",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТы пригласила на танец меня, как и положено.\nУмница!\n<PAGE>\n<FACE_LOVE>...Как я рад, что ты не пошла к другому. Ты\nмоя и только моя."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MARRIAGE_Apprentice_00",
+   "key": "5c43314e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТы и здесь только моя, <_____MYNAME_____>?\n<PAGE>\n<FACE_LOVE>Вот же мне повезло... Никогда тебя не отпущу."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_TeaGirl_00",
+   "key": "7ea76be4",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\nТы уверен, что хочешь с такой, как я? Я ведь\nмогу отдавить тебе ноги, знаешь?\n<PAGE>\n<FACE_LAUGH>Шучу! Это шутка! Шутка! Просто пытаюсь\nскрыть смущение. Оторвёмся по полной!"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_TeaGirl_00",
+   "key": "1567a162",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУра! Как я рада. ♪ Конечно, с удовольствием.\nДавай зажжём."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_LOVER_TeaGirl_00",
+   "key": "bbe816e7",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nА? А-а... Ты будешь танцевать со мной.\nКонечно... Я-я же твоя девушка.\n<PAGE>\n<FACE_LOVE>Миловаться у всех на виду ещё смущённее...\nТанцуй как следует, ладно?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MARRIAGE_TeaGirl_00",
+   "key": "929a6852",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЯ так и знала, что ты это скажешь. Отличный\nшанс поворковать при всех.\n<PAGE>\nДалеко мы, наверное, не зайдём, но пошли,\nдорогой. <RED>∀</RED>"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_Teacher_00",
+   "key": "10aca4ba",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\n...Со мной? Нет, ничего.\n<PAGE>\n<FACE_NORMAL>Что ж, полагаю, отказывать было бы\nневежливо..."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_Teacher_00",
+   "key": "9b1ccc27",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nСо мной? Как пожелаешь. Я рада, что мы\nпотанцуем вместе.\n<PAGE>\nМожет, удивишься, но танцевать я умею\nнеплохо. Положись на меня."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_LOVER_Teacher_00",
+   "key": "2a909489",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\nТ-танцевать с тобой при всех...\n<PAGE>\nТ-так принято у пар...? Ладно, поняла. Веди,\nхорошо?"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MARRIAGE_Teacher_00",
+   "key": "af6835aa",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nКак твоя жена, я доведу это до конца как\nследует.\n<PAGE>\n<FACE_LOVE>Но всё равно неловко..."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_JapanFarmOldman_00",
+   "key": "1e035335",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь танцевать со мной...? Что ж, если тебя\nустраивает старик, я с радостью составлю тебе\nкомпанию, <_____MYNAME_____>."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_JapanFarmOldman_00",
+   "key": "7cc15f0d",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nСо мной...?\n<PAGE>\n<FACE_LAUGH>Зачем тебе танцевать со старой развалиной\nвроде меня? Немного неловко, но раз ты не\nпротив, с радостью потанцую."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_JapanFarmOldwoman_00",
+   "key": "e2ce42bf",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nСо мной? Ох, не ожидала, что меня пригласят\nна танец...\n<PAGE>\n<FACE_LAUGH>Спасибо. Я просто... немного растерялась."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_JapanFarmOldwoman_00",
+   "key": "436b415b",
+   "ru": "<FACE_JAPANFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОго, ты приглашаешь меня на танец?\n<PAGE>\nСпасибо! Я тоже рада потанцевать с тобой."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_Wolesaler_00",
+   "key": "c0c5b38e",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_SAD>\r\n...О чём ты думаешь? Пригласи кого-нибудь\nдругого.\n<PAGE>\nНу хорошо. Составлю тебе компанию."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_Wolesaler_00",
+   "key": "b3479462",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_SAD>\r\nЯ всегда считал тебя странной, но, право, не\nпонимаю, о чём ты думаешь.\n<PAGE>\nТанцевать со мной ― никакой выгоды. Ты ведь\nэто понимаешь, да?"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_MigrantGirl_00",
+   "key": "270a84ef",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nС-со мной? Ох, спасибо!\n<PAGE>\nНадо постараться не отдавить тебе ноги!\nПоехали!"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_MigrantGirl_00",
+   "key": "f28bcc98",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nТы потанцуешь со мной? Ура! Спасибо!\n<PAGE>\nМне кажется, с тобой будет весело, <_____MYNAME_____>. Танцуем!"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_TeaOwner_00",
+   "key": "b6706e90",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nТы будешь танцевать со мной? Точно? Мог бы\nс девушкой потанцевать, знаешь ли.\n<PAGE>\nНу, раз ты так говоришь! Повеселимся!"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_TeaOwner_00",
+   "key": "f9fcd623",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nА? Со мной? Да брось, тебе бы\nвоспользоваться случаем и потанцевать с\nмолодым парнем.\n<PAGE>\n<FACE_LAUGH>...П-правда? Я немного волнуюсь, когда танцую\nс девушкой... Ладно, вперёд!"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_StuffMan_00",
+   "key": "67d085ce",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСо мной? Хорошо.\n<PAGE>\nЯ не против, но вы уверены, <_____MYNAME_____>? Вот как."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_StuffMan_00",
+   "key": "3fbc9cc0",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_NORMAL>\r\nСо мной? Хорошо.\n<PAGE>\nЯ немного волнуюсь. Я почти ни с кем, кроме\nСидзу, не танцевал, так что..."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_StuffWoman_00",
+   "key": "8d3030a6",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОх. Вы уверены, что я подхожу? Вам бы\nпригласить девушку помоложе.\n<PAGE>\n<FACE_LAUGH>Хи-хи, но мне приятно. Надо постараться не\nопозориться."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_StuffWoman_00",
+   "key": "4481d3df",
+   "ru": "<FACE_STUFFWOMAN><POS_RIGHT><FACE_NORMAL>\r\nОх, меня? Вы уверены, что не хотите\nпригласить парня?\n<PAGE>\n<FACE_LAUGH>Хи-хи, шучу. Вы ведь специально меня\nпригласили. Потанцуем."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_StuffSonOlder_00",
+   "key": "c1ab63f2",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>? Только не говори, что хочешь\nпотанцевать со мной.\n<PAGE>\n<FACE_LAUGH>Ха-ха, ну раз предлагаешь, как я могу\nотказать?"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_StuffSonOlder_00",
+   "key": "83b1fc45",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nЭ, ты будешь танцевать со мной? Ух ты, как я\nрад! Всегда хотел хоть раз потанцевать с\nтобой, <_____MYNAME_____>.\n<PAGE>\nВыложусь на полную! Повеселимся, <_____MYNAME_____>."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_StuffSonYounger_00",
+   "key": "db6a1c34",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>... Ты потанцуешь со мной?"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_StuffSonYounger_00",
+   "key": "8b1ee4e2",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nХорошо. Потанцуем... Ура."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_ChildBoy_00",
+   "key": "6b2ff712",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты потанцуешь со мной?\n<PAGE>\n<FACE_LAUGH>Ура! Скорее возьмёмся за руки. ♪"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_ChildBoy_00",
+   "key": "cc1970ff",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты потанцуешь со мной?\n<PAGE>\n<FACE_LAUGH>Как я рад. ♪ Давай я буду вести!"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_MAN_ChildGirl_00",
+   "key": "8b4385d3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты потанцуешь со мной?\n<PAGE>\n<FACE_LAUGH>Как я рада! Только веди меня как следует,\nладно? ♪"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_DANCE_WOMAN_ChildGirl_00",
+   "key": "0ec1c44b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, ты потанцуешь со мной?\n<PAGE>\n<FACE_LAUGH>Хе-хе-хе, тогда скорее возьмёмся за руки. ♪"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_GO_HOME_00",
+   "key": "390bffd9",
+   "ru": "Пойти домой?"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_GO_HOME_01",
+   "key": "4daa7349",
+   "ru": "Да"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_FES_A_RICE_EAR_GO_HOME_02",
+   "key": "8ca7d9b7",
+   "ru": "<CANCEL_SELECT>\r\nНет"
+  }
+ ]
+}

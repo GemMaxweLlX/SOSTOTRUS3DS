@@ -1,0 +1,1349 @@
+{
+ "file": "Resident_Father",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_00",
+   "key": "84dd2037",
+   "ru": "<FACE_FATHER>\r\n“<_____MYNAME_____>, как тебе семейная жизнь?\n<PAGE>\nНа днях мы с мамой говорили о тебе...\n<PAGE>\n...и я понял, что всё произошло так быстро,\nчто мне так и не удалось как следует\nпознакомиться с твоей второй половинкой.\n<PAGE>\nПоэтому мы с мамой и сестрой приедем в гости\nв такой день:\n<PAGE>\n<MOJI0> <MOJI1>\n<PAGE>\nМы сможем пробыть только полдня, так что о\nночлеге для нас не беспокойся. ― Твой отец,\nДэрил”"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_WANTATAN_00",
+   "key": "284c3325",
+   "ru": "<FACE_FATHER>\r\n“<_____MYNAME_____>, прочёл твоё письмо о свадьбе.\n<PAGE>\nНе верится, что ты взяла и вышла замуж,\nничего не сказав родным родителям.\n<PAGE>\nКак бы то ни было, я посмотрел присланную\nфотографию. Он выглядит добрым человеком.\n<PAGE>\nПодумать только, знаменитый дрессировщик\nВуфио ― такой красивый молодой человек.\n<PAGE>\nОчень хочу с ним познакомиться, так что\nприеду на твою ферму с мамой и сестрой в\nтакой день:\n<PAGE>\n<MOJI0> <MOJI1>\n<PAGE>\nМы сможем пробыть только полдня, так что о\nночлеге не беспокойся. ― Твой отец, Дэрил”"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_PRESENTER_00",
+   "key": "f62071d0",
+   "ru": "<FACE_FATHER>\r\n“<_____MYNAME_____>, прочёл твоё письмо о свадьбе.\n<PAGE>\nНе верится, что ты взял и женился, ни словом\nне обмолвившись родным родителям.\n<PAGE>\nКак бы то ни было, я посмотрел присланную\nфотографию. Она настоящая красавица.\n<PAGE>\nОчень хочу познакомиться с твоей женой, так\nчто приеду на твою ферму с мамой и сестрой в\nтакой день:\n<PAGE>\n<MOJI0> <MOJI1>\n<PAGE>\nМы сможем пробыть только полдня, так что о\nночлеге не беспокойся. ― Твой отец, Дэрил”"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_POSTMAN",
+   "key": "287619e5",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_DOCTOR",
+   "key": "f3831bb9",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВ чём дело, <_____MYNAME_____>?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_CHASER",
+   "key": "e0761f43",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЧто случилось, <_____MYNAME_____>?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_APPRENTICE",
+   "key": "0bbd8b24",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЧто стряслось, <_____MYNAME_____>?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_CRAFTMAN",
+   "key": "bb021fd9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто-то не так, <_____MYNAME_____>?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_FLORIST",
+   "key": "3fb6137e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось, <_____MYNAME_____>?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_TEAGIRL",
+   "key": "19b6dc0e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЧто стряслось, <_____MYNAME_____>?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_TEACHER",
+   "key": "91967ae8",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nТебя что-то тревожит, <_____MYNAME_____>?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_TWINOLDER",
+   "key": "95dbbc8b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЭй, что за лицо, <_____MYNAME_____>?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_TWINYOUNGER",
+   "key": "ef296763",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...Что-то случилось, <_____MYNAME_____>?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_TWINOLDER",
+   "key": "95dbbc8b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЭй, что за лицо, <_____MYNAME_____>?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_TWINYOUNGER",
+   "key": "ef296763",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...Что-то случилось, <_____MYNAME_____>?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_WANTATAN",
+   "key": "ff63a554",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nЧто стряслось, <_____MYNAME_____>?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_01_PRESENTER",
+   "key": "4bb32801",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nТебя что-то беспокоит, <_____MYNAME_____>?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_POSTMAN",
+   "key": "94273692",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПравда?\n<PAGE>\nТогда давай-ка готовить угощение..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_DOCTOR",
+   "key": "2d2f1769",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВот как.\n<PAGE>\nВ таком случае нужно приготовить им\nчто-нибудь поесть."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_CHASER",
+   "key": "42165f9c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nОх...\n<PAGE>\nТогда нам лучше приготовить угощение."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_APPRENTICE",
+   "key": "69d946a5",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nСерьёзно?\n<PAGE>\nТак чего мы ждём? За готовку!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_CRAFTMAN",
+   "key": "31e45fa2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто? Сегодня?\n<PAGE>\nТогда лучше начать готовить угощение, а?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_FLORIST",
+   "key": "b0e6b17e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nС-сегодня?\n<PAGE>\nНадо скорее готовиться! Наверняка они\nпроголодаются с дороги."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_TEAGIRL",
+   "key": "a7e49052",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nСегодня?!\n<PAGE>\nНадо скорее готовить еду! Живо!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_TEACHER",
+   "key": "baee6ce0",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nСегодня, говоришь?\n<PAGE>\nТогда следует поспешить и приготовить им\nчто-нибудь поесть..."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_TWINOLDER",
+   "key": "1e89b21a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧто, правда?\n<PAGE>\nТогда надо готовить, и побыстрее..."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_TWINYOUNGER",
+   "key": "f66bbd87",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...Сегодня?\n<PAGE>\nЯсно. Тогда надо скорее что-нибудь им\nприготовить..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_WANTATAN",
+   "key": "b7f4949e",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nОни приедут сегодня? Гав, ситуация лохматая...\n<PAGE>\nНадо скорее приготовить жратву."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_02_PRESENTER",
+   "key": "cd3818c4",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nОни приедут сегодня? Ой, нет!\n<PAGE>\nНадо скорее готовить угощение!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_03",
+   "key": "d31e132d",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nПривет, <RELATIONSHIP>! Привет, <CHARANAME0>!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_04",
+   "key": "c022228b",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nКак я рада снова тебя видеть, родное моё. У\nвас всё хорошо?\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Прости, что нагрянули вот так, <_____MYNAME_____>."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_04_WANTATAN",
+   "key": "c8a2e9d1",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nКак я рада снова тебя видеть, родная.\n<PAGE>\nИ Вуфио! Мы ведь впервые встречаемся лично.\nОчень приятно познакомиться.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Простите, что нагрянули вот так, <_____MYNAME_____>. Вуфио."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_04_PRESENTER",
+   "key": "12758fd9",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nКак я рада снова тебя видеть, родной.\n<PAGE>\nИ Стефани! Мы ведь впервые встречаемся\nлично. Очень приятно познакомиться.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Простите, что нагрянули вот так, <_____MYNAME_____>. Стефани."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_05",
+   "key": "91f386ff",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nМы ведь не виделись со свадьбы, <CHARANAME0>?\n<PAGE>\nПрости, что не заглядывал чаще. Но рад снова\nтебя видеть.\n<PAGE>\n...И, если не ошибаюсь, в вашем городе\nздороваются именно так, верно?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_05_WANTATAN",
+   "key": "255d3601",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНаконец-то рад познакомиться, Вуфио.\nПростите, что так долго не приезжал\nпоздороваться."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_05_PRESENTER",
+   "key": "050de1ed",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНаконец-то рад познакомиться, Стефани.\nПростите, что так долго не приезжал\nпоздороваться."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_POSTMAN",
+   "key": "23d8487f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно! Всегда рад вас видеть.\n<PAGE>\n<FACE_LAUGH>И мне приятно, что вы знаете, как у нас\nздороваются!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Ну, я подумал, что не могу проявить\nневежливость перед мужем своей дочери, вот и\nразузнал всё перед свадьбой."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_DOCTOR",
+   "key": "b067e41a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНет, это мне очень приятно. Рад снова видеть\nвас, Дэрил.\n<PAGE>\n<FACE_LAUGH>И должен сказать, приятно удивлён, что вы\nвыучили, как у нас здороваются.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Ну, я подумал, что не могу проявить\nневежливость перед мужем своей дочери, вот и\nразузнал всё перед свадьбой."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_CHASER",
+   "key": "4a1c1d2a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nНет-нет, это мне очень приятно. Рад вас\nвидеть, отец.\n<PAGE>\n<FACE_LAUGH>Для меня большая честь, что вы знаете и наше\nместное приветствие.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Ну, я подумал, что не могу проявить\nневежливость перед мужем своей дочери, вот и\nразузнал всё перед свадьбой."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_APPRENTICE",
+   "key": "137ff30d",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nНе, это мне очень приятно! Рад вас видеть, сэр.\n<PAGE>\n<FACE_LAUGH>Да вы даже наше местное приветствие знаете!\nВпечатляет!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Ну, я подумал, что не могу проявить\nневежливость перед мужем своей дочери, вот и\nразузнал всё перед свадьбой."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_CRAFTMAN",
+   "key": "295aa657",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНет, это мне приятно. Рад вас видеть, Дэрил.\n<PAGE>\n<FACE_LAUGH>Удивительно, что вы специально выучили, как\nу нас здороваются. Махало за внимание.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Ну, я подумал, что не могу проявить\nневежливость перед мужем своей дочери, вот и\nразузнал всё перед свадьбой."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_FLORIST",
+   "key": "39b9845a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nБатюшки! Это мне очень приятно! Я так ждала\nновой встречи, Дэрил!\n<PAGE>\n<FACE_LAUGH>Вы даже знаете, как у нас здороваются! Какая\nчесть.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Ну, я подумал, что не могу проявить\nневежливость перед женой своего сына, вот и\nразузнал всё перед свадьбой."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_TEAGIRL",
+   "key": "e8c2aca3",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nНе-не! Это мне очень приятно! Всегда рада вас\nвидеть.\n<PAGE>\n<FACE_LAUGH>Вижу, вы и наше приветствие подучили!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Ну, я подумал, что не могу проявить\nневежливость перед женой своего сына, вот и\nразузнал всё перед свадьбой."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_TEACHER",
+   "key": "d91d0f7b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nНет, это мне приятно. Рада вас видеть, Дэрил.\n<PAGE>\n<FACE_LAUGH>Подумать только, вы знаете, как в нашем\nгороде здороваются... Ваша\nпредупредительность трогает.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Ну, я подумал, что не могу проявить\nневежливость перед женой своего сына, вот и\nразузнал всё перед свадьбой."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_TWINOLDER",
+   "key": "d48441bf",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНет, это мне очень приятно! Вам здесь всегда\nрады. ♪\n<PAGE>\nВы даже знаете, как у нас здороваются!\nВпечатляет.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Ну, я подумал, что не могу проявить\nневежливость перед женой своего сына, вот и\nразузнал всё перед свадьбой."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_TWINYOUNGER",
+   "key": "5170602d",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНет, это мне приятно. Я ждала новой встречи.\n<PAGE>\n<FACE_LAUGH>Не думала, что вы знаете, как у нас\nздороваются... Махало.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Ну, я подумал, что не могу проявить\nневежливость перед женой своего сына, вот и\nразузнал всё перед свадьбой."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_WANTATAN",
+   "key": "e716641b",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nНет-нет, это мне очень приятно, сэр.\n<PAGE>\nДля меня честь, что вы меня знаете."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_06_PRESENTER",
+   "key": "bef622c5",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nДа, очень приятно познакомиться!\n<PAGE>\nМне так лестно, что вы меня знаете."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_07",
+   "key": "a9234d52",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nГоворишь, мы приехали так внезапно, что вы\nне готовы нас как следует принять?\n<PAGE>\nЭто ни к чему. Выдалось свободное время, вот\nи заехал посмотреть, как вы поживаете. Только\nи всего."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_POSTMAN",
+   "key": "5bc0baa7",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>, может, покажем твоим родным Вестаун?\n<PAGE>\nХороший шанс показать им, как мы живём изо\nдня в день."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_DOCTOR",
+   "key": "5c22ac77",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, позволь предложить показать им Вестаун.\n<PAGE>\nДумаю, это хорошая возможность показать\nтвоей семье, как мы живём изо дня в день."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_CHASER",
+   "key": "5fc85dd9",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, как ты смотришь на то, чтобы показать семье\nЦуюкусу?\n<PAGE>\nДумаю, это чудесный шанс увидеть, где мы\nживём."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_APPRENTICE",
+   "key": "146d6a23",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>, может, покажем им Цуюкусу?\n<PAGE>\nРазве не хочется, чтобы семья увидела, где мы\nживём?"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_CRAFTMAN",
+   "key": "eb538881",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, что скажешь, если покажем семье Лулукоко?\n<PAGE>\nДумаю, это хороший шанс показать им, как мы\nздесь живём, а?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_FLORIST",
+   "key": "b4a812a0",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nО, <_____MYNAME_____>. Может, покажем им Вестаун?\n<PAGE>\nПознакомим твою семью со всеми местами, где\nмы часто бываем!"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_TEAGIRL",
+   "key": "5acee040",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, если ты не против, как насчёт показать семье\nЦуюкусу?\n<PAGE>\nДумаю, это хороший шанс для них узнать\nпобольше о том, где мы живём!"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_TEACHER",
+   "key": "223be9dd",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, если ты не против, я подумала, что можно\nпоказать твоей семье Цуюкусу.\n<PAGE>\nПолагаю, это хорошая возможность для них\nузнать побольше о нашей жизни здесь."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_TWINOLDER",
+   "key": "1d9a474f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>, а давай покажем твоей семье Лулукоко?\n<PAGE>\nИдеальный шанс для них узнать, как мы живём,\nразве нет?"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_TWINYOUNGER",
+   "key": "a86e6754",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...<_____MYNAME_____>. Что скажешь, если показать твоей семье\nЛулукоко?\n<PAGE>\nХочу, чтобы они побольше узнали о том, как\nмы вместе проводим дни."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_WANTATAN",
+   "key": "329a65b1",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>. Тогда, может, покажем твоей семье\nЛулукоко?\n<PAGE>\nЭто важное место для нас обоих, а раз твоя\nсемья из города, им наверняка будет особенно\nинтересно."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_08_PRESENTER",
+   "key": "c5578f4b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>. Что скажешь, если покажем им Вестаун?\n<PAGE>\nРесторан там высший класс, и все такие\nрадушные, уверена, им понравится."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_09",
+   "key": "d2c281f7",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nХм, звучит как план. Тогда полагаюсь на тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_10",
+   "key": "d60129c5",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nПрости, родное моё, но мы с Линн ужасно\nустали с долгой дороги, так что, пожалуй,\nотдохнём дома. Идите без нас.\n<PAGE>\n<FACE_SISTER><POS_LEFT><FACE_ANGRY>Чего-о-о?! Серьёзно? Зачем мы тогда вообще\nехали?\n<PAGE>\n<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>Линн."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_11",
+   "key": "1110872c",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\n(Это идеальная возможность для папы и <CHARANAME0>\nсблизиться.)\n<PAGE>\n(Если мы увяжемся, будем болтать без умолку\nи только мешать.)\n<PAGE>\n<FACE_SISTER><POS_LEFT><FACE_LAUGH>(А! И правда!)"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_12",
+   "key": "f0d29ee8",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\nМы сами себе что-нибудь приготовим, так что\nза нас не волнуйтесь.\n<PAGE>\nНадеюсь, вы не против, если мы займём вашу\nкухню!"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_13",
+   "key": "7cca207f",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_NORMAL>\r\nА пока вас нет, мы присмотрим за <CHILD_NAME>!"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_14",
+   "key": "18f9d802",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nХм. Что ж, отправимся?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_15",
+   "key": "8c01bfd8",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nМ-м, приятно удивлён качеством здешней еды.\nОчень вкусно."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_POSTMAN",
+   "key": "0863cf4b",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Ну, с <_____MYNAME_____> легко сохранять хорошее настроение.\n<PAGE>\nЕё не застанешь без улыбки или доброго слова.\nТакая доброта заразительна, понимаете?\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвела на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_DOCTOR",
+   "key": "64771206",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>Это прямое следствие характера <_____MYNAME_____>. Она всегда\nтак добра и ко мне, и ко всем здесь.\n<PAGE>\nПоэтому все горожане её так любят и балуют.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвела на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_CHASER",
+   "key": "7a7585de",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Это потому, что у <_____MYNAME_____> такое прекрасное сердце.\n<PAGE>\nОна добрая и всегда думает о других.\nОкружающим просто хочется быть рядом с ней.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвела на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_APPRENTICE",
+   "key": "837542da",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Это потому, что <_____MYNAME_____> сама по себе такой хороший\nчеловек!\n<PAGE>\n<_____MYNAME_____> неважно, получит ли она что-то взамен, она\nдобра ко всем вокруг. И мы её за это любим!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвела на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_CRAFTMAN",
+   "key": "eb218516",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Я бы сказал, это прямое следствие характера <_____MYNAME_____>.\n<PAGE>\nДоброта порождает доброту, как говорится. А\nдобрее <_____MYNAME_____> никого нет.\n<PAGE>\nРядом с ней невозможно не улыбаться.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвела на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_FLORIST",
+   "key": "353f8f1b",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Это потому, что <_____MYNAME_____> сам по себе такой\nобаятельный!\n<PAGE>\nКогда и где угодно <_____MYNAME_____> всегда рядом, готов\nпротянуть руку помощи или подарить добрую\nулыбку.\n<PAGE>\nДумаю, поэтому люди к нему так и тянутся.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвёл на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_TEAGIRL",
+   "key": "b4543d6a",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>По-моему, это потому, что <_____MYNAME_____> всегда\nсуперсердечен с окружающими!\n<PAGE>\nНет на свете человека, который мог бы\nненавидеть такого, как <_____MYNAME_____>!\n<PAGE>\nА если есть? Будет иметь дело со мной.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>В-вот как...\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвёл на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_TEACHER",
+   "key": "b46572f7",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Отчасти это благодаря характеру <_____MYNAME_____>...\n<PAGE>\nВ Цуюкусе есть поговорка: “Добро, сделанное\nдругим, делаешь себе”.\n<PAGE>\nТо есть доброта, которую проявляешь к\nокружающим, со временем к тебе вернётся.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвёл на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_TWINOLDER",
+   "key": "4c0f4347",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Это потому, что <_____MYNAME_____> такой дура... Ах, то есть...\n<PAGE>\n...Такой мягкосердечный с окружающими.\n<PAGE>\nАура вокруг <_____MYNAME_____> такая тёплая и яркая, что люди\nсами к нему тянутся.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвёл на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_TWINYOUNGER",
+   "key": "11f6cdb4",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Это благодаря отношениям, которые <_____MYNAME_____>\nвыстраивает день за днём.\n<PAGE>\nЕго доброта успокаивает. В нём есть особое\nтепло...\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвёл на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_WANTATAN",
+   "key": "b5e074a1",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_WANTATAN><POS_RIGHT><FACE_LAUGH>Это благодаря тому, как <_____MYNAME_____> держится каждый\nдень.\n<PAGE>\nПо работе я весь день хожу в собачьем\nкостюме, но она обращается со мной\nсовершенно нормально.\n<PAGE>\n...Думаю, естественно, что такую женщину\nлюбят окружающие.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвела на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_16_PRESENTER",
+   "key": "d6dab573",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nНо должен сказать... какой оживлённый город.\n<PAGE>\nИ люди здесь такие открытые и добрые.\n<PAGE>\n<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>Полностью согласна! Люди в этом городе такие\nрадушные и добрые.\n<PAGE>\nНо рядом с <_____MYNAME_____> я чувствую это ещё сильнее.\n<PAGE>\nНаверное, он так добр, что окружающим\nхочется отплатить ему вдесятеро.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как?\n<PAGE>\n<_____MYNAME_____>, похоже, ты произвёл на здешних людей\nсильное впечатление."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_17",
+   "key": "6c59446b",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_18",
+   "key": "1b08d2d1",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nМожешь пойти вперёд?\n<PAGE>\nХочу немного поговорить с <CHARANAME0>."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_POSTMAN",
+   "key": "566bd6ce",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nУэйн, насчёт моей дочери...\n<PAGE>\n<FACE_SAD>Она... Она справляется с жизнью на ферме?"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_DOCTOR",
+   "key": "b656983a",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nФорд, насчёт моей дочери...\n<PAGE>\n<FACE_SAD>Она... Она справляется с жизнью на ферме?"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_CHASER",
+   "key": "b050f5bd",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nЮдзуки, насчёт моей дочери...\n<PAGE>\n<FACE_SAD>Она... Она справляется с жизнью на ферме?"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_APPRENTICE",
+   "key": "11557497",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nХината, насчёт моей дочери...\n<PAGE>\n<FACE_SAD>Она... Она справляется с жизнью на ферме?"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_CRAFTMAN",
+   "key": "a70f36d2",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nЛудус, насчёт моей дочери...\n<PAGE>\n<FACE_SAD>Она... Она справляется с жизнью на ферме?"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_FLORIST",
+   "key": "6d78ea3d",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nЛизетта, насчёт моего сына...\n<PAGE>\n<FACE_SAD>Он... Он справляется с жизнью на ферме?"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_TEAGIRL",
+   "key": "be383433",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nКомари, насчёт моего сына...\n<PAGE>\n<FACE_SAD>Он... Он справляется с жизнью на ферме?"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_TEACHER",
+   "key": "d09ca8a5",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nКасуми, насчёт моего сына...\n<PAGE>\n<FACE_SAD>Он... Он справляется с жизнью на ферме?"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_TWINOLDER",
+   "key": "0ebf1f32",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИлука, насчёт моего сына...\n<PAGE>\n<FACE_SAD>Он... Он справляется с жизнью на ферме?"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_TWINYOUNGER",
+   "key": "50f4ea2c",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nСилука, насчёт моего сына...\n<PAGE>\n<FACE_SAD>Он... Он справляется с жизнью на ферме?"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_WANTATAN",
+   "key": "c47561f2",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nВуфио, насчёт моей дочери...\n<PAGE>\n<FACE_SAD>Она... Она справляется с жизнью на ферме?"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_19_PRESENTER",
+   "key": "3f50324d",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nСтефани, насчёт моего сына...\n<PAGE>\n<FACE_SAD>Он... Он справляется с жизнью на ферме?"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_POSTMAN",
+   "key": "53a166ff",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЕщё бы!\n<PAGE>\n<_____MYNAME_____> встаёт ни свет ни заря каждый день. И у неё\nещё хватает сил помогать мне по дому."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_DOCTOR",
+   "key": "6a279e0e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nНесомненно.\n<PAGE>\nМоё профессиональное мнение как врача: <_____MYNAME_____>\nведёт здоровую, сбалансированную жизнь.\n<PAGE>\nИ выносливость у неё поразительная ― помимо\nсвоих обязанностей она ещё помогает мне по\nдому."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_CHASER",
+   "key": "36152d95",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nНу конечно!\n<PAGE>\n<_____MYNAME_____> не только прекрасно управляется с фермой, но\nи помогает мне по дому. Она потрясающая\nжена."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_APPRENTICE",
+   "key": "cc8fac1d",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nКонечно!\n<PAGE>\nПо-моему, нет ничего, что <_____MYNAME_____> не по силам. Она не\nперестаёт меня поражать."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_CRAFTMAN",
+   "key": "752a535d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nОпределённо, да.\n<PAGE>\nОна выполняет работу, которая и мне далась\nбы с трудом, а сверх того помогает мне со\nвсеми делами."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_FLORIST",
+   "key": "2cff8a58",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nКонечно! ♪\n<PAGE>\nХоть он и так усердно трудится, <_____MYNAME_____> всегда\nнаходит время помочь мне по дому."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_TEAGIRL",
+   "key": "579a2076",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nО, безусловно!\n<PAGE>\n<_____MYNAME_____> всегда занят на ферме, но всегда находит\nвремя мне помочь! Он супернадёжный."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_TEACHER",
+   "key": "d7827e88",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nБезусловно.\n<PAGE>\nХоть у <_____MYNAME_____> работа без выходных, он всегда\nпомогает мне по дому."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_TWINOLDER",
+   "key": "dd55b817",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nКонечно! ♪\n<PAGE>\n<_____MYNAME_____> всегда занят на ферме, но как-то находит\nвремя помогать мне по дому...\n<PAGE>\nОн огромная помощь."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_TWINYOUNGER",
+   "key": "c5892198",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...Определённо.\n<PAGE>\n<_____MYNAME_____> ― идеальный муж."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_WANTATAN",
+   "key": "411c0c5f",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LAUGH>\r\nБезусловно.\n<PAGE>\nЛюбому было бы трудно совмещать\nполноценную работу с домашними делами, но...\n<PAGE>\nОна потрясающе справляется и с тем, и с\nдругим... За это я её уважаю."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_20_PRESENTER",
+   "key": "65df9b6b",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nНу конечно!\n<PAGE>\nОн всегда занят работой, но всё равно находит\nвремя помочь мне по дому...\n<PAGE>\n<_____MYNAME_____> такой потрясающий муж, что мне даже\nнеловко!"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_21",
+   "key": "e4eeb0ab",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nВот как? Я рад.\n<PAGE>\nЧестно говоря, я думал, что желание <_____MYNAME_____> стать\nфермером ― наивная мечта от тепличного\nвоспитания, но...\n<PAGE>\nДети так быстро растут, правда?"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_POSTMAN",
+   "key": "6c2933e0",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, она казалась ещё\nнезрелой.\n<PAGE>\nУверен, во многом она выросла благодаря\nтебе, Уэйн. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_DOCTOR",
+   "key": "d87fc3f2",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, она казалась ещё\nнезрелой.\n<PAGE>\nУверен, во многом она выросла благодаря\nтебе, Форд. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_CHASER",
+   "key": "b5852d7f",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, она казалась ещё\nнезрелой.\n<PAGE>\nУверен, во многом она выросла благодаря\nтебе, Юдзуки. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_APPRENTICE",
+   "key": "d3a094fc",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, она казалась ещё\nнезрелой.\n<PAGE>\nУверен, во многом она выросла благодаря\nтебе, Хината. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_CRAFTMAN",
+   "key": "50c3db35",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, она казалась ещё\nнезрелой.\n<PAGE>\nУверен, во многом она выросла благодаря\nтебе, Лудус. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_FLORIST",
+   "key": "1edd6c88",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, он казался ещё\nнезрелым.\n<PAGE>\nУверен, во многом он вырос благодаря тебе,\nЛизетта. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_TEAGIRL",
+   "key": "40be4455",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, он казался ещё\nнезрелым.\n<PAGE>\nУверен, во многом он вырос благодаря тебе,\nКомари. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_TEACHER",
+   "key": "80833ade",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, он казался ещё\nнезрелым.\n<PAGE>\nУверен, во многом он вырос благодаря тебе,\nКасуми. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_TWINOLDER",
+   "key": "981e7b91",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, он казался ещё\nнезрелым.\n<PAGE>\nУверен, во многом он вырос благодаря тебе,\nИлука. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_TWINYOUNGER",
+   "key": "d9d316e8",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, он казался ещё\nнезрелым.\n<PAGE>\nУверен, во многом он вырос благодаря тебе,\nСилука. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_WANTATAN",
+   "key": "a1d7a689",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, она казалась ещё\nнезрелой.\n<PAGE>\nУверен, во многом она выросла благодаря вам,\nВуфио. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_22_PRESENTER",
+   "key": "e08907bc",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nИ всё же, уходя из дома, он казался ещё\nнезрелым.\n<PAGE>\nУверен, во многом он вырос благодаря вам,\nСтефани. Я за это благодарен. Спасибо."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_POSTMAN",
+   "key": "e6b284c2",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНе, вряд ли я тут при чём.\n<PAGE>\nОна... Она такая потрясающая, что я чувствую\nсебя её недостойным.\n<PAGE>\nНе будет большим преувеличением сказать, что\nвсё счастье в моей жизни сейчас ― заслуга <_____MYNAME_____>.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что мою дочь любит такой человек, как\nты."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_DOCTOR",
+   "key": "e7b1142f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nНет, это совсем не так...\n<PAGE>\nОна... Ваша дочь слишком хороша для меня.\n<PAGE>\nНикогда не думал, что настанет день, когда мне\nбудет уютно жить с кем-то, но вот я здесь.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что мою дочь любит такой человек, как\nты."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_CHASER",
+   "key": "d8383246",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПрошу прощения, но я вынужден не\nсогласиться.\n<PAGE>\nДля меня нет никого совершеннее <_____MYNAME_____>.\n<PAGE>\nКогда она рядом, мне спокойно так, как ни с\nкем другим.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что мою дочь любит такой человек, как\nты."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_APPRENTICE",
+   "key": "a57386d0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nНе, вовсе нет.\n<PAGE>\n<_____MYNAME_____> ― девушка моей мечты... Любовь с первого\nвзгляда.\n<PAGE>\nЭто мне надо благодарить за то, что рядом со\nмной кто-то настолько потрясающий.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что мою дочь любит такой человек, как\nты."
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_CRAFTMAN",
+   "key": "936fbdcb",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, но не скажу, что я тут при чём.\n<PAGE>\nПо мне, нет женщины потрясающее <_____MYNAME_____>.\n<PAGE>\nНе думаю, что когда-нибудь захочу сделать\nкого-то счастливым так, как хочу сделать\nсчастливой её.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что мою дочь любит такой человек, как\nты."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_FLORIST",
+   "key": "603c061e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nБатюшки. Это совсем не так...\n<PAGE>\nПо мне, <_____MYNAME_____> ― прямо настоящий сказочный принц.\n<PAGE>\nЭто скорее благодаря ему выросла я.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что моего сына любит такой человек,\nкак ты."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_TEAGIRL",
+   "key": "f4bb9d30",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nНе, совсем не так!\n<PAGE>\nЭто благодаря <_____MYNAME_____> я решила стать поженственнее.\n<PAGE>\n...Я смогла измениться благодаря <_____MYNAME_____>. Это я\nвыросла.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что моего сына любит такой человек,\nкак ты."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_TEACHER",
+   "key": "cd97a051",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nНет, это совсем не так.\n<PAGE>\n...Честно говоря, по определённым причинам\nмне всегда было трудно с мужчинами.\n<PAGE>\nНо <_____MYNAME_____> помог освободить моё сердце. Пусть\nтолько с ним, но я смогла снова доверять.\n<PAGE>\nДля меня нет мужчины удивительнее его.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что моего сына любит такой человек,\nкак ты."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_TWINOLDER",
+   "key": "602c629c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n...Нет, это совсем не так.\n<PAGE>\n<_____MYNAME_____> увидел меня. Настоящую меня... и всё равно\nполюбил.\n<PAGE>\nЭта доброта всегда была в <_____MYNAME_____>... Поэтому я ему\nтак благодарна.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что моего сына любит такой человек,\nкак ты."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_TWINYOUNGER",
+   "key": "7f6ca8ef",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...Нет, вовсе нет.\n<PAGE>\n<_____MYNAME_____> был таким с самого начала.\n<PAGE>\nВ его доброте есть глубина, которую не\nподделать и не сыграть...\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что моего сына любит такой человек,\nкак ты."
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_WANTATAN",
+   "key": "768a8bd6",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nНет, Дэрил. Это я благодарен.\n<PAGE>\nОна помогла мне вырасти, измениться.\n<PAGE>\nМеня влекло к ней с первой встречи, но дело не\nтолько в этом.\n<PAGE>\nЯ... у неё в долгу. В долгу, который мне\nникогда не вернуть сполна.\n<PAGE>\nПоэтому я решил посвятить остаток жизни\nтому, чтобы сделать вашу дочь самой\nсчастливой женщиной на свете.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nТогда я рад, что мою дочь любит такой\nчеловек, как вы."
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_23_PRESENTER",
+   "key": "4f26d149",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nНет, это скорее я хочу выразить СВОЮ\nблагодарность.\n<PAGE>\nБлагодаря ему сбылась мечта, от которой я\nдавно отказалась. Он помог мне так вырасти...\n<PAGE>\n<FACE_NORMAL>Мы будем невероятно счастливы вместе, так\nчто, пожалуйста, присматривайте за нами.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Ха-ха... Вот как.\n<PAGE>\nЯ рад, что моего сына любит такой человек,\nкак вы."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_POSTMAN",
+   "key": "657e321a",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nУэйн, я рад, что мы сегодня поговорили.\n<PAGE>\nЯ, конечно, беспокоился за <_____MYNAME_____>, но...\n<PAGE>\nДолжен признаться, на самом деле я приехал\nпосмотреть, за какого человека вышла моя\nдочь.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>...Да. Я с самого начала подозревал.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как. Ты умный человек, как я и думал.\n<PAGE>\nПрошу прощения. Надеюсь, простишь мне эту\nхитрость.\n<PAGE>\n...И, пожалуйста, береги мою дочь."
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_DOCTOR",
+   "key": "f6b91a97",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nФорд, я рад, что мы сегодня поговорили.\n<PAGE>\nЯ, конечно, беспокоился за <_____MYNAME_____>, но...\n<PAGE>\nДолжен признаться, на самом деле я приехал\nпосмотреть, за какого человека вышла моя\nдочь.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>...Да. Я подозревал, что дело в этом.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как. Ты умный человек, как я и думал.\n<PAGE>\nПрошу прощения. Надеюсь, простишь мне эту\nхитрость.\n<PAGE>\n...И, пожалуйста, береги мою дочь."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_CHASER",
+   "key": "dc68d755",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nЮдзуки, я рад, что мы сегодня поговорили.\n<PAGE>\nЯ, конечно, беспокоился за <_____MYNAME_____>, но...\n<PAGE>\nДолжен признаться, на самом деле я приехал\nпосмотреть, за какого человека вышла моя\nдочь.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>...Да, у меня было такое чувство.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как. Ты умный человек, как я и думал.\n<PAGE>\nПрошу прощения. Надеюсь, простишь мне эту\nхитрость.\n<PAGE>\n...И, пожалуйста, береги мою дочь."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_APPRENTICE",
+   "key": "175b8dcc",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nХината, я рад, что мы сегодня поговорили.\n<PAGE>\nЯ, конечно, беспокоился за <_____MYNAME_____>, но...\n<PAGE>\nДолжен признаться, на самом деле я приехал\nпосмотреть, за какого человека вышла моя\nдочь.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>...Да, я знаю.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как. Ты умный человек, как я и думал.\n<PAGE>\nПрошу прощения. Надеюсь, простишь мне эту\nхитрость.\n<PAGE>\n...И, пожалуйста, береги мою дочь."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_CRAFTMAN",
+   "key": "a8ab69a9",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nЛудус, я рад, что мы сегодня поговорили.\n<PAGE>\nЯ, конечно, беспокоился за <_____MYNAME_____>, но...\n<PAGE>\nДолжен признаться, на самом деле я приехал\nпосмотреть, за какого человека вышла моя\nдочь.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>...Да, нутром чуял, что вы за этим и приехали.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как. Ты умный человек, как я и думал.\n<PAGE>\nПрошу прощения. Надеюсь, простишь мне эту\nхитрость.\n<PAGE>\n...И, пожалуйста, береги мою дочь."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_FLORIST",
+   "key": "31ffae15",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nЛизетта, я рад, что мы сегодня поговорили.\n<PAGE>\nЯ, конечно, беспокоился за <_____MYNAME_____>, но...\n<PAGE>\nДолжен признаться, на самом деле я приехал\nпосмотреть, на ком женился мой сын.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>...Да. Честно говоря, я так и поняла.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как. Ты умная девушка, как я и думал.\n<PAGE>\nПрошу прощения. Надеюсь, простишь мне эту\nхитрость.\n<PAGE>\n...И, пожалуйста, береги моего сына."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_TEAGIRL",
+   "key": "c3654fcc",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nКомари, я рад, что мы сегодня поговорили.\n<PAGE>\nЯ, конечно, беспокоился за <_____MYNAME_____>, но...\n<PAGE>\nДолжен признаться, на самом деле я приехал\nпосмотреть, на ком женился мой сын.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>...Так и знала. Да, было у меня такое чувство.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как. Ты умная девушка, как я и думал.\n<PAGE>\nПрошу прощения. Надеюсь, простишь мне эту\nхитрость.\n<PAGE>\n...И, пожалуйста, береги моего сына."
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_TEACHER",
+   "key": "49bfcde8",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nКасуми, я рад, что мы сегодня поговорили.\n<PAGE>\nЯ, конечно, беспокоился за <_____MYNAME_____>, но...\n<PAGE>\nДолжен признаться, на самом деле я приехал\nпосмотреть, на ком женился мой сын.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>...Да. Я так и предполагала.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Вот как. Ты умная девушка, как я и думал.\n<PAGE>\nПрошу прощения. Надеюсь, простишь мне эту\nхитрость.\n<PAGE>\n...И, пожалуйста, береги моего сына."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_TWINOLDER",
+   "key": "e6c7916a",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nИлука, я рад, что мы сегодня поговорили.\n<PAGE>\nЯ, конечно, беспокоился за <_____MYNAME_____>, но...\n<PAGE>\nДолжен признаться, на самом деле я приехал\nпосмотреть, на ком женился мой сын.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Да. Честно говоря, я сразу поняла это по вашей\nауре.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>По моей... чему? Ты... весьма загадочная\nдевушка, верно?\n<PAGE>\nКак бы то ни было, прошу прощения за\nхитрость. Надеюсь, простишь.\n<PAGE>\n...И, пожалуйста, береги моего сына."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_TWINYOUNGER",
+   "key": "1aeb90a4",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nСилука, я рад, что мы сегодня поговорили.\n<PAGE>\nЯ, конечно, беспокоился за <_____MYNAME_____>, но...\n<PAGE>\nДолжен признаться, на самом деле я приехал\nпосмотреть, на ком женился мой сын.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>...Я знаю. Это видно по цвету вашей ауры.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>По моей... чему? Ты... весьма загадочная\nдевушка, верно?\n<PAGE>\nКак бы то ни было, прошу прощения за\nхитрость. Надеюсь, простишь.\n<PAGE>\n...И, пожалуйста, береги моего сына."
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_WANTATAN",
+   "key": "342c239b",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nВуфио, я рад, что мы сегодня встретились.\n<PAGE>\nЯ полагал, что всё в порядке, ведь доверяю\nвыбору дочери, но...\n<PAGE>\nМне нужно было убедиться самому. Можно\nсказать, на самом деле я приехал посмотреть,\nза какого человека она вышла.\n<PAGE>\n<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>Понимаю. Отцу естественно волноваться за\nдочь.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Я... Спасибо. Мне легче слышать это от вас.\n<PAGE>\nКак бы то ни было, прошу прощения за\nхитрость. Надеюсь, простите.\n<PAGE>\n...И, пожалуйста, берегите мою дочь."
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_24_PRESENTER",
+   "key": "d5c68027",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nСтефани, я рад, что мы сегодня встретились.\n<PAGE>\nЯ полагал, что всё в порядке, ведь доверяю\nвыбору сына, но...\n<PAGE>\nМне нужно было убедиться самому. Можно\nсказать, на самом деле я приехал посмотреть,\nна ком женился мой сын.\n<PAGE>\n<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>Понимаю. По-моему, естественно, что вы\nбеспокоились.\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_NORMAL>Я... Спасибо. Мне легче слышать это от вас.\n<PAGE>\nКак бы то ни было, прошу прощения за\nхитрость. Надеюсь, простите.\n<PAGE>\n...И, пожалуйста, берегите моего сына."
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_POSTMAN",
+   "key": "128b940f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно. Я буду вечно дорожить вашей\nдочерью."
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_DOCTOR",
+   "key": "719a1c13",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКонечно. Я буду заботиться о вашей дочери."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_CHASER",
+   "key": "0f37eae9",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n...Понимаю. Я буду о ней заботиться."
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_APPRENTICE",
+   "key": "9b83a5ee",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nБудет сделано. Я буду о ней заботиться."
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_CRAFTMAN",
+   "key": "a8712a0b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Конечно. Я всегда буду рядом с ней."
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_FLORIST",
+   "key": "10377ef8",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХи-хи. Не волнуйтесь, я всегда буду рядом с\nним."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_TEAGIRL",
+   "key": "faec65f4",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nДа, можете на меня положиться."
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_TEACHER",
+   "key": "ae8f6f80",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nБудьте уверены, я всегда буду рядом с ним."
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_TWINOLDER",
+   "key": "0977dcab",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nДа, конечно. Я всегда буду рядом с ним."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_TWINYOUNGER",
+   "key": "a480a1bd",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...Конечно. Я буду о нём заботиться."
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_WANTATAN",
+   "key": "2c18d461",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\n...Да. Я сделаю её счастливой."
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_25_PRESENTER",
+   "key": "f146cfb5",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nДа! Я буду о нём заботиться!"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_26",
+   "key": "da21e766",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх-ох! Похоже, они прекрасно поладили!\n<PAGE>\n<FACE_SISTER><POS_LEFT><FACE_LAUGH>Всё, как ты и задумала, мам!"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_27",
+   "key": "976c90e6",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>... у тебя чудесная половинка.\n<PAGE>\nИ я рад видеть, что у тебя всё так хорошо.\nЗагляну ненадолго к Фрэнку, и мы поедем\nдомой.\n<PAGE>\nПрощай."
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_POSTMAN",
+   "key": "2a96e177",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nОх-ох-ох, я там весь взмок!\n<PAGE>\n<FACE_NORMAL>Боялся, что он сочтёт меня каким-то чудаком."
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_DOCTOR",
+   "key": "f3ce1516",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nФух... Признаюсь, это было довольно\nволнительно.\n<PAGE>\nХоть внешне я и кажусь нормальным\nчеловеком, прекрасно знаю, что порой\nпроизвожу странное впечатление.\n<PAGE>\nНадеюсь, у твоего отца такого впечатления не\nсложилось."
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_CHASER",
+   "key": "ce961d1b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOSS>\r\nОх, <_____MYNAME_____>... Я так нервничал.\n<PAGE>\nНадеюсь, он не счёл меня каким-то нелюдимым\nмолчуном."
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_APPRENTICE",
+   "key": "d94d267f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nОх, вот это было испытание.\n<PAGE>\nДумал, если говорить как с клиентом, выйду\nслишком отстранённым, но и панибратствовать\nне хотелось...\n<PAGE>\nТолько бы он не счёл меня после этого\nкаким-то чудиком."
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_CRAFTMAN",
+   "key": "ea255533",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nФух... Сердце до сих пор колотится как\nбешеное.\n<PAGE>\nНадеюсь, твой папа не счёл меня каким-то\nчудаком, а?"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_FLORIST",
+   "key": "269af754",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nБатюшки... Я так нервничала.\n<PAGE>\nУлыбка была нормальная? Не натянутая?"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_TEAGIRL",
+   "key": "ef5fa18d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nФух! Кажется, это стоило мне десяти лет\nжизни...\n<PAGE>\nНе хотела, чтобы он счёл меня шумной, вот и\nстаралась быть как можно тише... Не\nперестаралась?"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_TEACHER",
+   "key": "bfa9dc5d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nЧто ж, это было определённо напряжённо...\n<PAGE>\nНадеюсь, я не показалась грубой, но, пожалуй,\nтеперь волноваться об этом нет смысла."
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_TWINOLDER",
+   "key": "60b4b1d7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nХа-а-ах, такой стресс не может быть полезен\nдля человека.\n<PAGE>\nНу как я? Ничего не испортила?"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_TWINYOUNGER",
+   "key": "af51ef13",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\n...Фух, было страшно.\n<PAGE>\nНе хочу, чтобы твой папа меня невзлюбил, <_____MYNAME_____>... Я\nхорошо справилась?"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_WANTATAN",
+   "key": "de02623a",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LOSS>\r\nОх... Это было волнительнее, чем судить на\nчемпионате мира.\n<PAGE>\nЯ нормально держался? Казался...\nотносительно нормальным человеком?"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_28_PRESENTER",
+   "key": "e1b1b583",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LOSS>\r\nФух... Это было волнительнее, чем вести\nчемпионат мира!\n<PAGE>\nЯ ничего грубого не сделала? Я хорошо\nсправилась?"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_POSTMAN",
+   "key": "4fbe5a03",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nО? Думаешь, я неплохо справился? Ха-ха,\nспасибо, дорогая.\n<PAGE>\nТвой отец ― настоящий порядочный человек.\nРад, что выпал шанс с ним поговорить."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_DOCTOR",
+   "key": "5ab55084",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nДумаешь, я справился? ...Что ж, раз ты так\nговоришь.\n<PAGE>\nТвой отец прекрасен, как и подобает тому, кто\nтебя вырастил. Рад, что мы познакомились."
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_CHASER",
+   "key": "dd645fd1",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nХм? Ты знала, что всё будет хорошо?\n<PAGE>\n...Правда? Твоя вера в меня так трогает.\n<PAGE>\nТвой отец так же прекрасен, как ты. Рад, что\nудалось как следует познакомиться."
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_APPRENTICE",
+   "key": "97414fcd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nДумаешь, я справился? П-правда?\n<PAGE>\nНу, рад, что снова с ним увиделся! Твой папа\nклассный."
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_CRAFTMAN",
+   "key": "ff6ad95f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы знала, что всё будет хорошо? ...Правда?\n<PAGE>\n<FACE_LAUGH>Ну, я и сам давно хотел поговорить с твоим\nпапой с глазу на глаз, так что рад, что выпал\nшанс."
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_FLORIST",
+   "key": "efec86c0",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nТы знал, что за меня не о чем волноваться?\n<PAGE>\nБатюшки, как приятно это слышать.\n<PAGE>\nЯ рада, что смогла как следует познакомиться с\nтвоим отцом, <_____MYNAME_____>."
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_TEAGIRL",
+   "key": "0ec9e37b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nА? Ты знал, что я ему понравлюсь? П-правда?\n<PAGE>\nНу, я тоже думала, что хочу когда-нибудь с\nним познакомиться. Ну, по-настоящему. Рада,\nчто наконец получилось."
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_TEACHER",
+   "key": "0ceee394",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n...Ты точно знал, что у меня не будет проблем?\nПравда?\n<PAGE>\n<FACE_LAUGH>Я всегда хотела как следует познакомиться с\nтвоим отцом, <_____MYNAME_____>. Рада, что наконец\nпредставилась возможность."
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_TWINOLDER",
+   "key": "aad0b1f5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧто? Ты знал, что я справлюсь?\n<PAGE>\n<FACE_LAUGH>Н-ну конечно! Речь ведь обо мне!\n<PAGE>\nУ твоего папы тоже чудесная аура.\n<PAGE>\n...Рада, что выпал шанс с ним поговорить."
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_TWINYOUNGER",
+   "key": "40b7d989",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nТы знал, что я справлюсь?\n<PAGE>\n<FACE_LAUGH>...Правда? Как приятно.\n<PAGE>\nЯ всегда хотела познакомиться с человеком,\nкоторый тебя вырастил."
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_WANTATAN",
+   "key": "20eba0a2",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nЧто? Ты знала, что я справлюсь?\n<PAGE>\nП-правда...? Я готовился к худшему, ведь их\nдочь замужем за человеком, который вечно\nходит в собачьем костюме...\n<PAGE>\nНо удивляться не стоило. Это же твои\nродители. Их, похоже, это ничуть не смутило.\n<PAGE>\n...Я рад, что познакомился с ними."
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_29_PRESENTER",
+   "key": "873625df",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_NORMAL>\r\nЧто? Ты знал, что я справлюсь?\n<PAGE>\nП-правда...? Ха-ха, мне лестно...\n<PAGE>\nЯ давно хотела познакомиться с твоими\nродителями, <_____MYNAME_____>. Рада, что всё так вышло."
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_30_POSTMAN",
+   "key": "2bf173d7",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\n*зевок* Уже спать хочется... Ещё рано, но,\nможет, ляжем?\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>. Сладких снов."
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_30_DOCTOR",
+   "key": "b6e9f7a7",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\n*зевок* Довольно клонит в сон... Знаю, ещё\nрано, но как насчёт лечь спать?\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>."
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_30_CHASER",
+   "key": "d9fcfd56",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOSS>\r\n*зевок* Немного хочется спать... Знаю, рано,\nно давай ляжем.\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>."
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_30_APPRENTICE",
+   "key": "2ced81c4",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n*зевок* Уже хочется спать... Рановато, но\nдавай ляжем.\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>."
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_30_CRAFTMAN",
+   "key": "a2aeed65",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nФух, уже хочется спать... Ещё рано, но давай\nляжем, а?\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>."
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_30_FLORIST",
+   "key": "3327c511",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nФух, я немного устала... Знаю, ещё рано, но,\nможет, ляжем?\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>."
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_30_TEAGIRL",
+   "key": "dbbcf37a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\n*зевок* Что-то спать хочется... Знаю, рано, но\nдавай ляжем.\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>."
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_30_TEACHER",
+   "key": "51effae2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nМне несколько хочется спать... Сегодня ещё\nрано, но давай ляжем.\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>."
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_30_TWINOLDER",
+   "key": "f5a6f2fd",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\n*зевок* Что-то спать хочется... Ещё довольно\nрано, но давай поспим, ладно?\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>."
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_30_TWINYOUNGER",
+   "key": "8db8e640",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nЯ немного устала... Рано, но... давай ляжем.\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>."
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FATHER_31",
+   "key": "32ffb5da",
+   "ru": "(Как хорошо, что они поладили!)\n<PAGE>\n(Горжусь тобой, <CHARANAME0>! Ты сегодня молодец.)"
+  }
+ ]
+}
