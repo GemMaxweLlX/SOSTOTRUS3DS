@@ -51,6 +51,13 @@
    "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХорошая работа, <_____MYNAME_____>. Путь верный, просто в этот\nраз не сложилось. Жаль!"
   },
   {
+   "n": 9,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Postman_PET_WIN_EXPERT",
+   "key": "d14afd73",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! Ты как-то говорила,\nчто я для тебя слишком хорош! Но я-то знаю,\nчто всё наоборот.\n<PAGE>\n<FACE_LOVE>Ты очаровательная, добрая и всех разносишь\nна любом конкурсе!\n<PAGE>\nОт всего сердца считаю, что это ты слишком\nхороша для меня, <_____MYNAME_____>!\n<PAGE>\nПоэтому хочу, чтобы ты была так же... нет!\nещё больше уверена в моей любви, чем в своих\nнавыках!"
+  },
+  {
    "n": 10,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_Postman_PET_WIN_VETERAN",
@@ -212,6 +219,13 @@
    "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nКонечно, ты одержала верх над соперниками.\nКак муж, я всё это время видел, как ты\nтрудишься.\n<PAGE>\nЯ прекрасно знаю, на что ты способна. Поэтому\nничуть не удивлён."
   },
   {
+   "n": 50,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Doctor_PET_LOSE_LEGEND",
+   "key": "38cb4ae5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOVE>\r\nК-кидайся... Кидайся ко мне в объятия!\n<PAGE>\n<FACE_SAD>Ба! Будь ты неладен, Уэйн, со своими советами!\n<PAGE>\nУверял, что так можно утешить прекрасный\nпол? Больше никогда не стану слушать этого\nтроглодита.\n<PAGE>\n<FACE_NORMAL>Прошу прощения. У тебя был такой\nстрадальческий вид, что я решил утешить тебя\nспособом одного... знакомого.\n<PAGE>\n<FACE_SAD>Похоже, способ ошибочен. Или нет? Раз ты\nсмеёшься, значит, сработало?\n<PAGE>\n<FACE_LAUGH>Хочется стереть всё сказанное, но раз ты так\nулыбаешься, оно того стоило."
+  },
+  {
    "n": 51,
    "f": 2,
    "id": "MES_MARRIAGE_FREE_EVENT_Doctor_PET_LOSE_EXPERT",
@@ -350,6 +364,20 @@
    "id": "MES_MARRIAGE_FREE_EVENT_Chaser_PET_LOSE_VETERAN",
    "key": "5e332282",
    "ru": "<FACE_CHASER><POS_RIGHT><FACE_SAD>\r\nКак бы я ни старался, мне не стереть всё, что\nтебя огорчает.\n<PAGE>\n<FACE_NORMAL>Но как твой муж я могу бороться рядом с\nтобой и поддерживать тебя.\n<PAGE>\n<FACE_LAUGH>Если я могу что-то сделать, пожалуйста,\nскажи. Всё будет хорошо. Я знаю, в следующий\nраз ты победишь."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Chaser_PET_LOSE_BEGINNER",
+   "key": "49f649ba",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nХорошая работа. Когда устаёшь, надо себя\nбаловать.\n<PAGE>\nДома можем полакомиться сладостями и\nпродумать стратегию на следующий конкурс!"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_PET_WIN_EXPERT",
+   "key": "28776ee3",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nОтличная работа! Удача на твоей стороне,\nвижу!\n<PAGE>\n<FACE_LAUGH>Эй, пожмёшь мне руку? Может, и мне чуток\nперепадёт!"
   },
   {
    "n": 92,
@@ -513,6 +541,13 @@
    "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nСегодня выступление было за тобой, а я\nсмотрел и отлично провёл время. Махало, <_____MYNAME_____>."
   },
   {
+   "n": 129,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Craftman_PET_WIN_EXPERT",
+   "key": "97e77462",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Эх, я надеялся, что ты\nот избытка чувств страстно меня обнимешь.\n<PAGE>\nНе хочешь при всех? Ну, тогда заходи ко мне\nпосле этого, начнём с начала?\n<PAGE>\nСлишком уж я тебя дразню, а? Просто ты\nвсегда так мило реагируешь, <_____MYNAME_____>."
+  },
+  {
    "n": 130,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_Craftman_PET_WIN_VETERAN",
@@ -639,6 +674,13 @@
    "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nБатюшки, <_____MYNAME_____>, поздравляю с победой!\n<PAGE>\nНет, эм... Просто ты был такой крутой и\nтакой... ну, я сейчас просто не могу на тебя\nсмотреть, <_____MYNAME_____>.\n<PAGE>\n<FACE_LOVE>Батюшки, наверное, у меня сейчас лицо\nужа-а-асно красное!\n<PAGE>\nИ вообще нечестно, что я не могу на тебя\nсмотреть, <_____MYNAME_____>, а ты на меня можешь!"
   },
   {
+   "n": 160,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Florist_PET_WIN_VETERAN",
+   "key": "f97aa192",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой, <_____MYNAME_____>.\n<PAGE>\nГлядя, как ты выкладываешься, мне тоже\nхочется!\n<PAGE>\nЭто так вдохновляет, <_____MYNAME_____>. ♪"
+  },
+  {
    "n": 161,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_Florist_PET_WIN_BEGINNER",
@@ -651,6 +693,13 @@
    "id": "MES_LOVER_FREE_EVENT_Florist_PET_LOSE_LEGEND",
    "key": "c3abbee5",
    "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nГоворят, в трудные времена тепло другого\nчеловека успокаивает сердце.\n<PAGE>\n<FACE_LAUGH>Так что... я тебя немного вот так подержу.\n<PAGE>\n<FACE_LOVE>...Попался.\n<PAGE>\n<FACE_LAUGH>Всё хорошо. Все знают, как ты трудишься, <_____MYNAME_____>.\nДень награды обязательно настанет!"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Florist_PET_LOSE_EXPERT",
+   "key": "cd1e7440",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПо пути домой не хочешь зайти ко мне, <_____MYNAME_____>?\n<PAGE>\n<FACE_LAUGH>По-моему, ты всё это время так старался,\nхочу, чтобы хотя бы сегодня ты отдохнул, <_____MYNAME_____>.\n<PAGE>\nВсё будет хорошо. С твоими навыками день\nпобеды скоро настанет. Не нужно паниковать.\n<PAGE>\nОбещаю! Так что для начала, может,\nпогордишься тем, что сделал сегодня?"
   },
   {
    "n": 164,
@@ -700,6 +749,13 @@
    "id": "MES_MARRIAGE_FREE_EVENT_Florist_PET_LOSE_EXPERT",
    "key": "865ef5a5",
    "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ лучше всех знаю, как ты готовился к\nсегодняшнему дню, <_____MYNAME_____>.\n<PAGE>\nМожет, результат тебя не радует. Может,\nотвлечёшься и просто отдохнёшь сегодня?\n<PAGE>\n<FACE_LAUGH>Дома приготовлю много вкусного. Принимаю\nзаказы! ♪"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Florist_PET_LOSE_VETERAN",
+   "key": "1151a46c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nЖаль, что не победа. Хм... Чего же не\nхватило?\n<PAGE>\n<FACE_NORMAL>Я тоже подумаю к следующему конкурсу. Если\nобъединим силы, победа точно не за горами!"
   },
   {
    "n": 173,
@@ -1073,6 +1129,13 @@
    "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nЧего такой унылый? Не победил ― не повод\nтак киснуть.\n<PAGE>\n<FACE_LOVE>Ох! Дай сюда лоб на секунду!\n<PAGE>\n<FACE_LOVE>Это заклинание-поцелуй. Чтобы ты наверняка\nпобедил на следующем конкурсе.\n<PAGE>\n<FACE_LOSS>Что? Лучше бы в губы? Это заклинание,\nдурачок!\n<PAGE>\n<FACE_LOVE>Но если победишь... ну, так и быть, подумаю\nнасчёт губ. Может быть."
   },
   {
+   "n": 253,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinOlder_PET_LOSE_EXPERT",
+   "key": "6dd9ee73",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nЧто за раздражающая мина? Не победил, но\nразглядывать землю так уж весело?\n<PAGE>\n<FACE_NORMAL>Алло-о-о? Твоя прелестная возлюбленная\nпрямо перед тобой, знаешь ли. Если уж\nсмотреть, то на меня, а не на землю!\n<PAGE>\n<FACE_LOVE>Я-то всегда смотрю на ТЕБЯ, что бы ни было."
+  },
+  {
    "n": 254,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_TwinOlder_PET_LOSE_VETERAN",
@@ -1381,6 +1444,13 @@
    "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЕсли продолжать трудиться, как всегда,\nоднажды получишь желаемый результат.\n<PAGE>\nДоказательство прямо перед тобой. Именно\nпотому, что ты не сдаёшься, я рядом с тобой\nкак спутница жизни."
   },
   {
+   "n": 323,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Inari_PET_LOSE_BEGINNER",
+   "key": "2255ff10",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nКак бы ни оценили твоё выступление другие, я\nставлю высший балл. Я ведь вижу, как ты\nтрудишься день за днём.\n<PAGE>\n<FACE_LAUGH>Даже если отбросить пристрастие супруги,\nтвои старания огромны.\n<PAGE>\nМожет, нужно время, но труд всегда приносит\nплоды. Это я обещаю. ♪"
+  },
+  {
    "n": 331,
    "f": 2,
    "id": "MES_FREE_EVENT_AmericaFarmOldwoman_PET_WIN_EXPERT",
@@ -1414,6 +1484,55 @@
    "id": "MES_FREE_EVENT_AmericaFarmOldwoman_PET_LOSE_BEGINNER",
    "key": "77363e83",
    "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nОх, <_____MYNAME_____>. Ты, наверное, совсем без сил! Дома\nотдохни."
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_PET_WIN_LEGEND",
+   "key": "f2b8e7de",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\nПотрясающе, <_____MYNAME_____>! Класс “Легенда” ― крепкий\nорешек!\n<PAGE>\nА-ха-ха! Не скромничай.\n<PAGE>\nЭто результат всех твоих стараний, <_____MYNAME_____>, так что\nдержи голову высоко.\n<PAGE>\nАх да, чуть не забыла: поздравляю с победой!"
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_PET_LOSE_EXPERT",
+   "key": "ebad4db3",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nБыло близко. В этот раз жаль, но это не конец.\n<PAGE>\nТак ведь? Ну же, нечего так вешать нос. В\nследующий раз будет победа!"
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_PET_LOSE_VETERAN",
+   "key": "0fbba9f2",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, не переживай так.\n<PAGE>\nВ следующий раз ведь победа, да? Тогда выше\nголову! ♪"
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreWoman_PET_LOSE_BEGINNER",
+   "key": "2c8f2d1b",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЭто же класс “Новичок”. Не надо так\nнервничать.\n<PAGE>\nВ следующий раз результат должен быть\nлучше! Я на тебя рассчитываю! ♪"
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_PET_LOSE_EXPERT",
+   "key": "fc8acd68",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nЖаль... но было близко. Всё будет хорошо, <_____MYNAME_____>.\n<PAGE>\nУверена, в этом классе победа будет! ♪"
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_PET_LOSE_VETERAN",
+   "key": "e153ecee",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>, тебе грустно?\n<PAGE>\n<FACE_LAUGH>Всё хорошо? Вот как. Я знала, что всё будет\nхорошо, <_____MYNAME_____>! Удачи в следующий раз!"
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "MES_FREE_EVENT_StoreDaughter_PET_LOSE_BEGINNER",
+   "key": "6501ba8f",
+   "ru": "<FACE_STOREDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nНе переживай. Это ведь класс “Новичок”, да?\n<PAGE>\nШансов победить будет полно!"
   },
   {
    "n": 403,
