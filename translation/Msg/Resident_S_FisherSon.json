@@ -1,0 +1,264 @@
+{
+ "file": "Resident_S_FisherSon",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_01",
+   "key": "e1571a58",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_SAD>\r\nОх... Алоха, <_____MYNAME_____>..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_02",
+   "key": "0bfaa182",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_SAD>\r\nЯ в порядке, просто кое-что не выходит из\nголовы...\n<PAGE>\nПомнишь, как мы с тобой раздавали всю рыбу,\nчто поймал папа?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_03",
+   "key": "188b4968",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_SAD>\r\nУгу... Папу все хвалили. Не нашлось ни одного\nчеловека, кто бы не сказал о нём доброго\nслова.\n<PAGE>\nСтать как папа всегда было моей целью, но...\n<PAGE>\nОказывается, он ещё больше, чем я думал.\n<PAGE>\nА я... рядом с ним такой маленький."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_04",
+   "key": "e68ebee4",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_NORMAL>\r\nНо я сделаю всё, чтобы стать больше похожим\nна папу!\n<PAGE>\nХочу трудиться и стать замечательным\nчеловеком, как он!\n<PAGE>\n<_____MYNAME_____>! Поможешь мне?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_05",
+   "key": "d7768eda",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_LAUGH>\r\nПравда?! Махало! Я так и надеялся!\n<PAGE>\nЛадно, знаю, это быстро, но... давай\nпридумаем план.\n<PAGE>\n<FACE_NORMAL>Как сделать, чтобы люди считали меня\nнадёжным и добрым?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_06",
+   "key": "54f7ea96",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_NORMAL>\r\nПерестать делать то, из-за чего я выгляжу\nвредным...?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_07",
+   "key": "96f7eb9f",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_LAUGH>\r\nА, понял! Тогда хватит розыгрышей!\n<PAGE>\nКогда я как-то разыграл Альму, она назвала\nменя вредным.\n<PAGE>\nЗначит, если такого не делать, я не буду\nвредным, так?!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_08",
+   "key": "040706d8",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_NORMAL>\r\nРешено! Больше никаких розыгрышей!\n<PAGE>\n<_____MYNAME_____>! Следи, чтобы я ненароком никого не\nразыграл!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_09",
+   "key": "06fd7ac9",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nМ-м, не разыгрывать ― это хорошо, но что\nтогда делать?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_10",
+   "key": "aa1aac7f",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nБыть добрым к тем, кого обычно\nразыгрываю...? Отличная мысль!\n<PAGE>\nТогда они точно решат, что я добрый!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_11",
+   "key": "259d9bd3",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nО, смотри, Лотос! Вот мой шанс!\n<PAGE>\nДам ему этот банан на перекус! Швырну прямо\nему под ноги одним броском!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_12",
+   "key": "99707157",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nОй... Точно.\n<PAGE>\nЧуть не разыграл по привычке. Махало, <_____MYNAME_____>.\n<PAGE>\nНадо быть добрым."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_13",
+   "key": "ec04bf1b",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nЭй, Лотос! Всё ещё возишься?\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_SAD>А, Шальк..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_14",
+   "key": "dd057cd9",
+   "ru": "<FACE_ASSISTANT>\r\nУва-а-а!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_15",
+   "key": "2360cf6b",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nВот! Это последний. В следующий раз будь\nосторожнее!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_16",
+   "key": "68295f38",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nЧ-что?!\n<PAGE>\nЭ, ладно. Спасибо."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_17",
+   "key": "cb79fe80",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nЭ-э... Ты не будешь... меня р-разыгрывать?\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>Конечно нет. Я пришёл помочь."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_18",
+   "key": "e97b1918",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nП-правда? Обычно ты разыгрываешь меня,\nедва увидишь...\n<PAGE>\nН-неужели... у тебя жар, Шальк?\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>А? С чего ты взял?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_19",
+   "key": "b9fdf5c8",
+   "ru": "<NAME_UNKNOWN>\r\nШальк!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_20",
+   "key": "ef646937",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_ANGRY>\r\nЧто с тобой такое? Опять донимал Лотоса?!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_21",
+   "key": "e1af16ac",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nОй, н-нет, что вы!\n<PAGE>\nШальк мне, наоборот, помогал..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_22",
+   "key": "77d7474e",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_SAD>\r\nЧто?! Правда?!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_23",
+   "key": "73d2d50f",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_SAD>\r\nШальк, с тобой всё в порядке?!\n<PAGE>\nОй, нет! Ты ударился головой?!\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_ANGRY>Ну вот. И ты, мам? Почему вы все так\nговорите?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_24",
+   "key": "701fca87",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nЭх, все спрашивают, нет ли у меня жара, не\nударился ли я головой...\n<PAGE>\nПонятно, почему Лотос так, но все\nостальные...? Я в кои-то веки ничего плохого\nне сделал!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_25",
+   "key": "219f518e",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nХм, может, я изменился слишком быстро?\nВидно, в этом смысле я их напугал.\n<PAGE>\nОх, уже не знаю, что делать..."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_26",
+   "key": "ce5467c8",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nО, Шальк. Вот ты где.\n<PAGE>\nТы в порядке? Многие спрашивают, не\nударился ли ты головой или ещё чего.\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_SAD>...Пап!\n<PAGE>\nПап, все такие вредные! А я просто пытался\nбыть добрым!\n<PAGE>\n<FACE_FISHER><POS_RIGHT><FACE_NORMAL>Э-э... <_____MYNAME_____>? Объяснишь, что тут было?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_27",
+   "key": "e2eebbc7",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nПап! Все такие вредные! А я просто пытался\nбыть добрым!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_28",
+   "key": "1aa6bb1b",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_NORMAL>\r\nЧто случилось, <_____MYNAME_____>?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_29",
+   "key": "d22814e2",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nТак вот чем вы занимались...\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_SAD>Ну... Я просто хочу быть как ты, пап. И\nпытался понять как...\n<PAGE>\nТы такой большой и добрый, вот я и подумал,\nчто тоже должен быть таким."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_30",
+   "key": "04bf8826",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nНу... Я просто хочу быть как ты, пап. Поэтому\nи пытался понять как...\n<PAGE>\nПап, ты такой большой и добрый, и я подумал,\nчто тоже должен быть таким."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_31",
+   "key": "af955c7a",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nНу ты и глупыш, Шальк. Тебе не обязательно\nбыть мной.\n<PAGE>\nПойми правильно, я рад, что ты всё твердишь,\nчто хочешь пойти по моим стопам...\n<PAGE>\nНо тебе нужно стать таким рыбаком, который\nподходит тебе самому."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_32",
+   "key": "881738d3",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_ANGRY>\r\nНо почему? Почему мне нельзя быть как ты,\nпап?!\n<PAGE>\n<FACE_FISHER><POS_RIGHT><FACE_NORMAL>Потому что быть мной могу только я.\n<PAGE>\nЯ хочу, чтобы ты стал лучшим рыбаком, каким\nтолько можешь, ― лучше меня.\n<PAGE>\n<FACE_LAUGH>Но не выйдет, если всё время гоняться за моей\nтенью, Шальк! Если превзойдёшь меня,\nоставаясь собой, я буду более чем доволен!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_33",
+   "key": "1132e633",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_NORMAL>\r\nПотому что быть мной могу только я.\n<PAGE>\nЯ хочу, чтобы ты стал рыбаком ещё лучше\nменя.\n<PAGE>\n<FACE_LAUGH>Поэтому будь собой, Шальк! Если превзойдёшь\nменя так, я буду доволен."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_34",
+   "key": "eec309c1",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Пап...!\n<PAGE>\nПонял! Однажды я стану рыбаком ещё лучше\nтебя!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_35",
+   "key": "c732ed73",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_LAUGH>\r\nЗначит, быть собой ― это продолжать\nразыгрывать всех, да?\n<PAGE>\nМахало, пап! Буду стараться изо всех сил!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_36",
+   "key": "f13b1a8c",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_SWEAT_R>Чёрт... Я не это имел в виду...\n<PAGE>\nПрости, <_____MYNAME_____>. Похоже, мой сын доставил тебе\nсегодня хлопот."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERSON_37",
+   "key": "1babb742",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nМне легче слышать это от тебя.\n<PAGE>\nЗнаю, у Шалька есть всё, чтобы меня\nпревзойти... Он ведь сын мой и Каолилы.\n<PAGE>\n<FACE_LAUGH>Слушай, <_____MYNAME_____>...\n<PAGE>\nЕсли что случится ― ну, как сегодня, ―\nпоможешь ему?\n<PAGE>\nВ конце концов, мы с ним оба к тебе очень\nпривязались."
+  }
+ ]
+}
