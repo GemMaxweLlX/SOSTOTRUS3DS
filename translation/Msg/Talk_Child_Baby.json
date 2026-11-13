@@ -1,0 +1,6816 @@
+{
+ "file": "Talk_Child_Baby",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_MAN_FIRST_MEETING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_WOMAN_FIRST_MEETING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_LONG_INTERVAL",
+   "key": "d4d0234b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n...?\n<PAGE>\n<FACE_LAUGH>Ха-ха! <PARENT>! ♪ На ючки! Хочу на ючки!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_LOVER_LONG_INTERVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_MARRIAGE_LONG_INTERVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PLAYER_DOWN",
+   "key": "4a8af47b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_ANGRY>\r\n<PARENT>! Не падать! Падать бо-бо!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "WORKING_REQUEST_000",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "WORKING_REQUEST_001",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "WORKING_DELIVERY_000",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "WORKING_DELIVERY_001",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRIDGE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BELL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRONZE_STATUE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_GODDESS_STATUE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_PERFUME",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BRIDGE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BATHSHOP",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_RELIEF",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_SHRINE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_TEA",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_BATH",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_ACCESSORY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_KITCHEN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_BONFIRE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_INN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_LANDING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_FOOD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_TEA",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_DRESS",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SPRING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SPRING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_SPRING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SUMMER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SUMMER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_SUMMER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_AUTUMN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_AUTUMN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_AUTUMN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_WINTER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_WINTER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_WINTER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SPRING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SPRING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_SPRING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SUMMER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SUMMER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_SUMMER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_AUTUMN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_AUTUMN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_AUTUMN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_WINTER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_WINTER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_WINTER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_SPRING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_SPRING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_SPRING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_SUMMER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_SUMMER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_SUMMER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_AUTUMN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_AUTUMN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_AUTUMN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_WINTER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_WINTER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_WINTER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_WEATHER_TYPHOON",
+   "key": "3c184744",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПах! Вах! Бу-бу-у-ум! Хи-хи-хи! ♪"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_WEATHER_HEAVYSNOW",
+   "key": "b0347396",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСнег! Снег! Снег! Хи-хи! ♪\n<PAGE>\n<FACE_ANGRY>А-А-АПЧХИ!!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_MARRIAGE_WEATHER_TYPHOON",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_MORNING_TALK_00",
+   "key": "cf768db0",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, доб-ое ут-о! На ючки! Хочу на ючки!"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_MORNING_TALK_01",
+   "key": "eb01b2c8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nМ-м... М-м... Баиньки..."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_MORNING_TALK_02",
+   "key": "097f96ea",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, доб-ое ут-о! На ючки! Хочу на ючки!"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_MORNING_TALK_03",
+   "key": "eb01b2c8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nМ-м... М-м... Баиньки..."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_AFTERNOON_TALK_00",
+   "key": "d2ca2b6e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, обнимашки! ♪"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_AFTERNOON_TALK_01",
+   "key": "485bf8cc",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT> ♪ Хомя, хомя! Пивет!"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_AFTERNOON_TALK_02",
+   "key": "d2ca2b6e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, обнимашки! ♪"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_AFTERNOON_TALK_03",
+   "key": "485bf8cc",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT> ♪ Хомя, хомя! Пивет!"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EVENING_TALK_00",
+   "key": "11b2abfd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, баиньки?"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EVENING_TALK_01",
+   "key": "200ed601",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nМ-м... Баиньки..."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EVENING_TALK_02",
+   "key": "11b2abfd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, баиньки?"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EVENING_TALK_03",
+   "key": "200ed601",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nМ-м... Баиньки..."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_0",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_1",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_2",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_FEERING_GOOD_TALK_00",
+   "key": "b02e5c40",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nБа-ба-бу! ♪ Хи-хи-хи! ♪"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_FEERING_GOOD_TALK_01",
+   "key": "06e086ca",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nБабу! Хи-хи! <PARENT>! <PARENT>! ♪"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_GOOD_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_GOOD_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_GOOD_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_GOOD_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_FEERING_TIRED_TALK_00",
+   "key": "b2df3b7e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nЫ-ы-ы... ха-а-а... *шмыг-шмыг* <PARENT>..."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_FEERING_TIRED_TALK_01",
+   "key": "795fbfd6",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_ANGRY>\r\nЫ-ы-ы... Неть! Неть!"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_TIRED_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_TIRED_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_TIRED_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_TIRED_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_MAN_CHANGE_FEELING_GOOD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_WOMAN_CHANGE_FEELING_GOOD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_GOOD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_MARRIAGE_CHANGE_FEELING_GOOD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_MAN_CHANGE_FEELING_BAD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_WOMAN_CHANGE_FEELING_BAD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_BAD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_MARRIAGE_CHANGE_FEELING_BAD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_TODAY_GODDESS",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_TODAY_RICE_EAR",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_TODAY_WITCH",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_TODAY_GAME",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_TODAY_DRINK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_MAN_TODAY_FRIENDSHIP",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_WOMAN_TODAY_FRIENDSHIP",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FRIENDSHIP",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FRIENDSHIP",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_TODAY_NEW_YEAR",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FLOWER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FLOWER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER_NOT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_FORGET_FLOWER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_FLOWER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_FLOWER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_GRUEL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_GRUEL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL_NOT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_FORGET_GRUEL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_GRUEL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_GRUEL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FRUIT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FRUIT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT_NOT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_FORGET_FRUIT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_FRUIT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_FRUIT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_PUMPKIN_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_NO_EMPTY_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_CAMPAIGN_FINISH",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_CAMPAIGN_1_MORE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_CAMPAIGN_2_MORE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_CAMPAIGN_3_MORE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_CAMPAIGN_4_MORE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_CAMPAIGN_5_MORE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_CAMPAIGN_6_MORE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_MAP_FARM_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_MAP_FARM_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_MAP_THREE_FORKED_ROAD_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_MAP_THREE_FORKED_ROAD_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_04",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_05",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_04",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_05",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_04",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_05",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_MAP_SHOOTING_STAR",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_MAP_WINDMILL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_A",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_MAP_SNOWMAN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_MAP_TREE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_MAP_WIND_BELL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_J",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_MAP_FIREFLY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_MAP_MORNING_GRLORY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_MAP_SILVER_GRASS",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_MAP_DRAGONFLY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_MAP_STRAW",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_MAP_DRIED_PERSIMMON",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_MAP_THUNDERHEAD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_MAP_NOCTILUCA",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_S",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_S",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_MAP_GULL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_PLAYER_HOUSE_00",
+   "key": "8c0d35e3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>? Гуять? Хочу иглать!"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_PLAYER_HOUSE_01",
+   "key": "21a49abe",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, лошадка! Будь лошадкой! Хочу кататься!"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_MY_HOUSE_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_MY_HOUSE_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_FRIEND_HOUSE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_04",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_05",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_06",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_07",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_08",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_09",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_04",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_06",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_08",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_09",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_05",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_07",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_08",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_09",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_OPEN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SHOP_OPEN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "MES_SCHEDULE_SLEEP",
+   "key": "946137ac",
+   "ru": "<FACE_CHILD>\r\nМ-м-м... <PARENT>... люблю..."
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SLEEP",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SLEEP",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MES_SCHEDULE_SICK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SICK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SICK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_MEAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MES_LOVER_MEAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MES_MEAL_RESTAURANT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_MEAL_JAPANESE_TEA",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_MEAL_SOUTH_TEA",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_MEAL_WITH_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_MEAL_WITH_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MES_MEAL_WITH_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_04",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_05",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_06",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_07",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_08",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_09",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_10",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_11",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_12",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_13",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_14",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_15",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_00",
+   "key": "d850b69f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>! И-и-и! Хи-хи!"
+  },
+  {
+   "n": 297,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_01",
+   "key": "d9b7e168",
+   "ru": "Попросить помощи"
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_02",
+   "key": "93b0cd0c",
+   "ru": "Не просить помощи"
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_CANCEL",
+   "key": "d850b69f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>! И-и-и! Хи-хи!"
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_OK",
+   "key": "d850b69f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>! И-и-и! Хи-хи!"
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_RESULT_00",
+   "key": "d850b69f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>! И-и-и! Хи-хи!"
+  },
+  {
+   "n": 302,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_00",
+   "key": "d850b69f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>! И-и-и! Хи-хи!"
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_01",
+   "key": "0d69934d",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, кач-кач-кач! Хи-хи-хи! ♪ <PARENT> сийный!"
+  },
+  {
+   "n": 304,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_02",
+   "key": "e31a6655",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКу-ку... БУ! Хи-хи-хи! ♪"
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_03",
+   "key": "9c041f74",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, а знаес? Вот! Вот сколько! В животике!"
+  },
+  {
+   "n": 306,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_04",
+   "key": "1e9c24b8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, люблю! Люблю мно-мно-мнофко!"
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_00",
+   "key": "9109035b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, обнимашки! Хочу обнимашки! Многа\nобнимашек!"
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_01",
+   "key": "3d2e4605",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, по головке! Погладь! Позязя?"
+  },
+  {
+   "n": 309,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_02",
+   "key": "e31a6655",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКу-ку... БУ! Хи-хи-хи! ♪"
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_03",
+   "key": "9c041f74",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, а знаес? Вот! Вот сколько! В животике!"
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_04",
+   "key": "30bfe1e3",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, люблю! Мнофко люблю! Хи-хи!"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 316,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_04",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 317,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_05",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 318,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 319,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 320,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 321,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 322,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_04",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_05",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_06",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 347,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 352,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 353,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 354,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 355,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 356,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 357,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 358,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 359,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 360,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 361,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 362,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 366,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 367,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 368,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 369,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 370,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 371,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 372,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 373,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 374,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 375,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 377,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 378,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 379,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 380,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 381,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 382,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 383,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 384,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 385,
+   "f": 2,
+   "id": "MES_PROPOSAL_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 386,
+   "f": 2,
+   "id": "MES_PROPOSAL_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 387,
+   "f": 2,
+   "id": "MES_PROPOSAL_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 390,
+   "f": 2,
+   "id": "MES_CONFESSION_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "MES_CONFESSION_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 392,
+   "f": 2,
+   "id": "MES_CONFESSION_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 393,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "MES_LOVERS_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 396,
+   "f": 2,
+   "id": "MES_LOVERS_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 397,
+   "f": 2,
+   "id": "MES_LOVERS_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "MES_ENGAGEMENT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 399,
+   "f": 2,
+   "id": "MES_MARRIAGE_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 400,
+   "f": 2,
+   "id": "MES_MARRIAGE_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 401,
+   "f": 2,
+   "id": "MES_MARRIAGE_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 402,
+   "f": 2,
+   "id": "MES_MARRIAGE_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 403,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 404,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 405,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 406,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_LOVER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 407,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_LOVER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 408,
+   "f": 2,
+   "id": "MES_BLESSING_LOVER_OTHER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 409,
+   "f": 2,
+   "id": "MES_BLESSING_LOVER_FAMILY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 410,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_ENGAGEMENT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 411,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_ENGAGEMENT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 412,
+   "f": 2,
+   "id": "MES_BLESSING_ENGAGEMENT_OTHER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 413,
+   "f": 2,
+   "id": "MES_BLESSING_ENGAGEMENT_FAMILY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 414,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_MARRIAGE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 415,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_MARRIAGE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 416,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_OTHER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 417,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_PRESENT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 418,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_FAMILY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 419,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_FAMILY_PRESENT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 420,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_CHILD_BIRTH",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 421,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_CHILD_BIRTH",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 422,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_OTHER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 423,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_PRESENT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 424,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 425,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY_PRESENT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 426,
+   "f": 2,
+   "id": "MES_COMING_SYSTER_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 427,
+   "f": 2,
+   "id": "MES_COMING_MOTHER_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 428,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 429,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 430,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 431,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 432,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 433,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 434,
+   "f": 2,
+   "id": "MES_MAN_PLAYER_BIRTHDAY_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 435,
+   "f": 2,
+   "id": "MES_MAN_PLAYER_BIRTHDAY_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 436,
+   "f": 2,
+   "id": "MES_WOMAN_PLAYER_BIRTHDAY_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 437,
+   "f": 2,
+   "id": "MES_WOMAN_PLAYER_BIRTHDAY_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 438,
+   "f": 2,
+   "id": "MES_LOVER_PLAYER_BIRTHDAY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 439,
+   "f": 2,
+   "id": "MES_MARRIAGE_PLAYER_BIRTHDAY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 440,
+   "f": 2,
+   "id": "MES_NO_EMPTY_BIRTHDAY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 441,
+   "f": 2,
+   "id": "MES_FORGET_BIRTHDAY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 442,
+   "f": 2,
+   "id": "MES_TOWN_BIRTHDAY_PARTY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 443,
+   "f": 2,
+   "id": "MES_BLUE_SHUTTLECOCK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 444,
+   "f": 2,
+   "id": "MES_LOVER_BLUE_SHUTTLECOCK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 445,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 446,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 447,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 448,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 449,
+   "f": 2,
+   "id": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 450,
+   "f": 2,
+   "id": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 451,
+   "f": 2,
+   "id": "MES_PENDANT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 452,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 453,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_SELECT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 454,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_SELECT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 455,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 456,
+   "f": 2,
+   "id": "MES_LOVER_PENDANT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 457,
+   "f": 2,
+   "id": "MES_MARRIAGE_PENDANT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 458,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_BLUE_SHUTTLECOCK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 459,
+   "f": 2,
+   "id": "MES_MARRIAGE_ANGER_BLUE_SHUTTLECOCK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_PENDANT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 461,
+   "f": 2,
+   "id": "MES_MARRIAGE_ANGER_PENDANT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 462,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_00",
+   "key": "d9540b85",
+   "ru": "Сейчас ей не до подарков. Зайду\nпопозже."
+  },
+  {
+   "n": 463,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_01",
+   "key": "2e261109",
+   "ru": "Ей сегодня уже был подарок. Оставлю\nэто до завтра."
+  },
+  {
+   "n": 464,
+   "f": 2,
+   "id": "MES_WRAPPING_FLOWER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 465,
+   "f": 2,
+   "id": "MES_WRAPPING_RICE_GRUEL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 466,
+   "f": 2,
+   "id": "MES_WRAPPING_FRUIT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 467,
+   "f": 2,
+   "id": "MES_WRAPPING_LIKE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 468,
+   "f": 2,
+   "id": "MES_WRAPPING_NORMAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 469,
+   "f": 2,
+   "id": "MES_PRESENT_BEST",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 470,
+   "f": 2,
+   "id": "MES_PRESENT_VERY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 471,
+   "f": 2,
+   "id": "MES_PRESENT_LIKE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 472,
+   "f": 2,
+   "id": "MES_PRESENT_NORMAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 473,
+   "f": 2,
+   "id": "MES_PRESENT_DISLIKE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 474,
+   "f": 2,
+   "id": "MES_PRESENT_HATE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 475,
+   "f": 2,
+   "id": "MES_PRESENT_WORST",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 476,
+   "f": 2,
+   "id": "MES_PRESENT_HUGE_VERY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 477,
+   "f": 2,
+   "id": "MES_PRESENT_HUGE_LIKE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 478,
+   "f": 2,
+   "id": "MES_PRESENT_GOLD_VERY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 479,
+   "f": 2,
+   "id": "MES_PRESENT_GOLD_LIKE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 480,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_BEST",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 481,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_VERY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 482,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_LIKE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 483,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_NORMAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 484,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_DISLIKE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 485,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HATE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 486,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_WORST",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 487,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HUGE_VERY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 488,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HUGE_LIKE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 489,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_GOLD_VERY",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 490,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_GOLD_LIKE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 491,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 492,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 493,
+   "f": 2,
+   "id": "MES_MARRIAGE_FLOWER_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 494,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL_RETURN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 495,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL_RETURN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 496,
+   "f": 2,
+   "id": "MES_MARRIAGE_FLOWER_FESTIVAL_RETURN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 497,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 498,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 499,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 500,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 501,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 502,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 503,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 504,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 505,
+   "f": 2,
+   "id": "MES_MARRIAGE_FRUIT_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 506,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL_RETURN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 507,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL_RETURN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 508,
+   "f": 2,
+   "id": "MES_MARRIAGE_FRUIT_FESTIVAL_RETURN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 509,
+   "f": 2,
+   "id": "MES_NO_EMPTY_FESTIVAL",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 510,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_HARVEST",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 511,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_COOKING",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 512,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FLOWER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 513,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_PRODUCT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 514,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FOOD",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 515,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FLOWER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 516,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_OTHER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 517,
+   "f": 2,
+   "id": "MES_RETURN_PRESENT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 518,
+   "f": 2,
+   "id": "MES_LOVER_RETURN_PRESENT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 519,
+   "f": 2,
+   "id": "MES_MARRIAGE_RETURN_PRESENT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 520,
+   "f": 2,
+   "id": "MES_Tosa",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 521,
+   "f": 2,
+   "id": "MES_Great_Pyrenees",
+   "key": "7ceafb76",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nИ-и-и-и! Бойсая собацька!"
+  },
+  {
+   "n": 522,
+   "f": 2,
+   "id": "MES_Bernese",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 523,
+   "f": 2,
+   "id": "MES_Weimaraner",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 524,
+   "f": 2,
+   "id": "MES_Husky",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 525,
+   "f": 2,
+   "id": "MES_Doberman",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 526,
+   "f": 2,
+   "id": "MES_Shepherd",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 527,
+   "f": 2,
+   "id": "MES_Bull_Terrier",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 528,
+   "f": 2,
+   "id": "MES_Tibetan",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 529,
+   "f": 2,
+   "id": "MES_Border_Collie",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 530,
+   "f": 2,
+   "id": "MES_Jack_Russell_Terrier",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 531,
+   "f": 2,
+   "id": "MES_Dachshund",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 532,
+   "f": 2,
+   "id": "MES_Beagle",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 533,
+   "f": 2,
+   "id": "MES_Shiba",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 534,
+   "f": 2,
+   "id": "MES_Chihuahua",
+   "key": "131b2b9c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nГав-гав...?"
+  },
+  {
+   "n": 535,
+   "f": 2,
+   "id": "MES_Poodle",
+   "key": "d52f6010",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nИ-и-и-и! Пушыстая собацька!"
+  },
+  {
+   "n": 536,
+   "f": 2,
+   "id": "MES_CatA",
+   "key": "f24f7251",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКиса...!"
+  },
+  {
+   "n": 537,
+   "f": 2,
+   "id": "MES_CatB",
+   "key": "f24f7251",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКиса...!"
+  },
+  {
+   "n": 538,
+   "f": 2,
+   "id": "MES_CatC",
+   "key": "f24f7251",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКиса...!"
+  },
+  {
+   "n": 539,
+   "f": 2,
+   "id": "MES_CatD",
+   "key": "f24f7251",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКиса...!"
+  },
+  {
+   "n": 540,
+   "f": 2,
+   "id": "MES_CatE",
+   "key": "f24f7251",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКиса...!"
+  },
+  {
+   "n": 541,
+   "f": 2,
+   "id": "MES_CatLongHairA",
+   "key": "f24f7251",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКиса...!"
+  },
+  {
+   "n": 542,
+   "f": 2,
+   "id": "MES_CatLongHairB",
+   "key": "f24f7251",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКиса...!"
+  },
+  {
+   "n": 543,
+   "f": 2,
+   "id": "MES_CatLongHairC",
+   "key": "f24f7251",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКиса...!"
+  },
+  {
+   "n": 544,
+   "f": 2,
+   "id": "MES_CatLongHairD",
+   "key": "7908cea9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМяу! Мяу! Хоёсая киса!"
+  },
+  {
+   "n": 545,
+   "f": 2,
+   "id": "MES_CatLongHairE",
+   "key": "f24f7251",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКиса...!"
+  },
+  {
+   "n": 546,
+   "f": 2,
+   "id": "MES_KapibaraA",
+   "key": "8bfa31ed",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКа-пи...?"
+  },
+  {
+   "n": 547,
+   "f": 2,
+   "id": "MES_KapibaraB",
+   "key": "8bfa31ed",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКа-пи...?"
+  },
+  {
+   "n": 548,
+   "f": 2,
+   "id": "MES_Cacatua",
+   "key": "8bfa31ed",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКа-пи...?"
+  },
+  {
+   "n": 549,
+   "f": 2,
+   "id": "MES_Turtle",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 550,
+   "f": 2,
+   "id": "MES_Shoebill",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 551,
+   "f": 2,
+   "id": "MES_Eagle",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 552,
+   "f": 2,
+   "id": "MES_Kiji",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 553,
+   "f": 2,
+   "id": "MES_RainbowBird",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 554,
+   "f": 2,
+   "id": "MES_Monkey",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 555,
+   "f": 2,
+   "id": "MES_Verreauxi",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 556,
+   "f": 2,
+   "id": "MES_RacoonDog",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 557,
+   "f": 2,
+   "id": "MES_Grizzly",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 558,
+   "f": 2,
+   "id": "MES_Ermine",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 559,
+   "f": 2,
+   "id": "MES_Fox",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 560,
+   "f": 2,
+   "id": "MES_Sparrow",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 561,
+   "f": 2,
+   "id": "MES_Chicken",
+   "key": "83442644",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nОй! Цыпа! Ко-ко-ко!"
+  },
+  {
+   "n": 562,
+   "f": 2,
+   "id": "MES_Chicken_Huge",
+   "key": "eaf9129a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКо-ко-ко!"
+  },
+  {
+   "n": 563,
+   "f": 2,
+   "id": "MES_Silky",
+   "key": "eaf9129a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКо-ко-ко!"
+  },
+  {
+   "n": 564,
+   "f": 2,
+   "id": "MES_Silky_Huge",
+   "key": "eaf9129a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКо-ко-ко!"
+  },
+  {
+   "n": 565,
+   "f": 2,
+   "id": "MES_Quail",
+   "key": "e5336a96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКо-ко?"
+  },
+  {
+   "n": 566,
+   "f": 2,
+   "id": "MES_Quail_Huge",
+   "key": "e5336a96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nКо-ко?"
+  },
+  {
+   "n": 567,
+   "f": 2,
+   "id": "MES_AngoraRabbitA",
+   "key": "2f7930cd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЗайка! Зайчик! Прыг, прыг!"
+  },
+  {
+   "n": 568,
+   "f": 2,
+   "id": "MES_AngoraRabbitA_Huge",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 569,
+   "f": 2,
+   "id": "MES_AngoraRabbitB",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 570,
+   "f": 2,
+   "id": "MES_AngoraRabbitB_Huge",
+   "key": "f0f4b02a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЗыверь!"
+  },
+  {
+   "n": 571,
+   "f": 2,
+   "id": "MES_Hamutaro",
+   "key": "562a2369",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХомя!"
+  },
+  {
+   "n": 572,
+   "f": 2,
+   "id": "MES_TALK_0",
+   "key": "3397c32f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЦыпа говоит ко-ко! Хи-хи! Смешно! ♪"
+  },
+  {
+   "n": 573,
+   "f": 2,
+   "id": "MES_TALK_1",
+   "key": "de786d41",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\n<PARENT>! Бух... бо-бо... и баиньки... *шмыг-шмыг*"
+  },
+  {
+   "n": 574,
+   "f": 2,
+   "id": "MES_TALK_2",
+   "key": "31f0ab30",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, поздно! Поздно плохо! Не поиглать вместе!"
+  },
+  {
+   "n": 575,
+   "f": 2,
+   "id": "MES_TALK_3",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 576,
+   "f": 2,
+   "id": "MES_TALK_4",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 577,
+   "f": 2,
+   "id": "MES_TALK_5",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 578,
+   "f": 2,
+   "id": "MES_TALK_6",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 579,
+   "f": 2,
+   "id": "MES_TALK_7",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 580,
+   "f": 2,
+   "id": "MES_TALK_8",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 581,
+   "f": 2,
+   "id": "MES_TALK_9",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 582,
+   "f": 2,
+   "id": "MES_TALK_10",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 583,
+   "f": 2,
+   "id": "MES_TALK_11",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 584,
+   "f": 2,
+   "id": "MES_TALK_12",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 585,
+   "f": 2,
+   "id": "MES_TALK_13",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 586,
+   "f": 2,
+   "id": "MES_TALK_14",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 587,
+   "f": 2,
+   "id": "MES_TALK_15",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 588,
+   "f": 2,
+   "id": "MES_TALK_16",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 589,
+   "f": 2,
+   "id": "MES_TALK_17",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 590,
+   "f": 2,
+   "id": "MES_TALK_18",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 591,
+   "f": 2,
+   "id": "MES_TALK_19",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 592,
+   "f": 2,
+   "id": "MES_TALK_20",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 593,
+   "f": 2,
+   "id": "MES_TALK_21",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 594,
+   "f": 2,
+   "id": "MES_TALK_22",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 595,
+   "f": 2,
+   "id": "MES_TALK_23",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 596,
+   "f": 2,
+   "id": "MES_TALK_24",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 597,
+   "f": 2,
+   "id": "MES_TALK_25",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 598,
+   "f": 2,
+   "id": "MES_TALK_26",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 599,
+   "f": 2,
+   "id": "MES_TALK_27",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 600,
+   "f": 2,
+   "id": "MES_TALK_28",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 601,
+   "f": 2,
+   "id": "MES_TALK_29",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 602,
+   "f": 2,
+   "id": "MES_TALK_30",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 603,
+   "f": 2,
+   "id": "MES_TALK_31",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 604,
+   "f": 2,
+   "id": "MES_TALK_32",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 605,
+   "f": 2,
+   "id": "MES_TALK_33",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 606,
+   "f": 2,
+   "id": "MES_TALK_34",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 607,
+   "f": 2,
+   "id": "MES_TALK_35",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 608,
+   "f": 2,
+   "id": "MES_TALK_36",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 609,
+   "f": 2,
+   "id": "MES_TALK_37",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 610,
+   "f": 2,
+   "id": "MES_TALK_38",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 611,
+   "f": 2,
+   "id": "MES_TALK_39",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 612,
+   "f": 2,
+   "id": "MES_TALK_40",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 613,
+   "f": 2,
+   "id": "MES_TALK_41",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 614,
+   "f": 2,
+   "id": "MES_TALK_42",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 615,
+   "f": 2,
+   "id": "MES_TALK_43",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 616,
+   "f": 2,
+   "id": "MES_TALK_44",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 617,
+   "f": 2,
+   "id": "MES_TALK_45",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 618,
+   "f": 2,
+   "id": "MES_TALK_46",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 619,
+   "f": 2,
+   "id": "MES_TALK_47",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 620,
+   "f": 2,
+   "id": "MES_TALK_48",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 621,
+   "f": 2,
+   "id": "MES_TALK_49",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 622,
+   "f": 2,
+   "id": "MES_TALK_50",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 623,
+   "f": 2,
+   "id": "MES_TALK_51",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 624,
+   "f": 2,
+   "id": "MES_TALK_52",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 625,
+   "f": 2,
+   "id": "MES_TALK_53",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 626,
+   "f": 2,
+   "id": "MES_TALK_54",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 627,
+   "f": 2,
+   "id": "MES_TALK_55",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 628,
+   "f": 2,
+   "id": "MES_TALK_56",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 629,
+   "f": 2,
+   "id": "MES_TALK_57",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 630,
+   "f": 2,
+   "id": "MES_TALK_58",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 631,
+   "f": 2,
+   "id": "MES_TALK_59",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 632,
+   "f": 2,
+   "id": "MES_TALK_60",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 633,
+   "f": 2,
+   "id": "MES_TALK_61",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 634,
+   "f": 2,
+   "id": "MES_FASHION_NOT_MATCH_HOT",
+   "key": "63cff142",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, жарко?"
+  },
+  {
+   "n": 635,
+   "f": 2,
+   "id": "MES_FASHION_NOT_MATCH_COOL",
+   "key": "5c907130",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n<PARENT>, холодно?"
+  },
+  {
+   "n": 636,
+   "f": 2,
+   "id": "MES_FASHION_BASICBOYWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 637,
+   "f": 2,
+   "id": "MES_FASHION_BASICGIRLWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 638,
+   "f": 2,
+   "id": "MES_FASHION_SALOPETTEBOY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 639,
+   "f": 2,
+   "id": "MES_FASHION_SALOPETTEGIRL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 640,
+   "f": 2,
+   "id": "MES_FASHION_SUSPENDERS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 641,
+   "f": 2,
+   "id": "MES_FASHION_OVERALL",
+   "key": "d7f2743b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКаасный! Каасный касивый! Хи-хи-хи!"
+  },
+  {
+   "n": 642,
+   "f": 2,
+   "id": "MES_FASHION_JINBEIBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 643,
+   "f": 2,
+   "id": "MES_FASHION_JINBEIBLACK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 644,
+   "f": 2,
+   "id": "MES_FASHION_MATABIKI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 645,
+   "f": 2,
+   "id": "MES_FASHION_MINO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 646,
+   "f": 2,
+   "id": "MES_FASHION_SIMPLENORAGI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 647,
+   "f": 2,
+   "id": "MES_FASHION_SAOTOME",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 648,
+   "f": 2,
+   "id": "MES_FASHION_KAPPOUGI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 649,
+   "f": 2,
+   "id": "MES_FASHION_WILDFARMER",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 650,
+   "f": 2,
+   "id": "MES_FASHION_WORKINGWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 651,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPRED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 652,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 653,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPCASUAL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 654,
+   "f": 2,
+   "id": "MES_FASHION_WORKINGSHORTPANTS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 655,
+   "f": 2,
+   "id": "MES_FASHION_CAPECASUAL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 656,
+   "f": 2,
+   "id": "MES_FASHION_KONOHANAWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 657,
+   "f": 2,
+   "id": "MES_FASHION_KUNGFUFARMER",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 658,
+   "f": 2,
+   "id": "MES_FASHION_BLUEBELLWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 659,
+   "f": 2,
+   "id": "MES_FASHION_WARKINGCHINA",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 660,
+   "f": 2,
+   "id": "MES_FASHION_DOTCULOTTEBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 661,
+   "f": 2,
+   "id": "MES_FASHION_DOTCULOTTERED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 662,
+   "f": 2,
+   "id": "MES_FASHION_GUNMAN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 663,
+   "f": 2,
+   "id": "MES_FASHION_COWBOYSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 664,
+   "f": 2,
+   "id": "MES_FASHION_COWSPOTCOWBOY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 665,
+   "f": 2,
+   "id": "MES_FASHION_COWGIRL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 666,
+   "f": 2,
+   "id": "MES_FASHION_FRINGECASUAL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 667,
+   "f": 2,
+   "id": "MES_FASHION_KNICKERBOCKERS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 668,
+   "f": 2,
+   "id": "MES_FASHION_CHECKVEST",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 669,
+   "f": 2,
+   "id": "MES_FASHION_GREENCARDIGAN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 670,
+   "f": 2,
+   "id": "MES_FASHION_GILLETVEST",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 671,
+   "f": 2,
+   "id": "MES_FASHION_POLOSHIRTSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 672,
+   "f": 2,
+   "id": "MES_FASHION_SPRINGAPRONSKIRT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 673,
+   "f": 2,
+   "id": "MES_FASHION_COUNTRYONEPIECE",
+   "key": "1343e01f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nИ-и-и-и-и! Хи-хи-хи! ♪"
+  },
+  {
+   "n": 674,
+   "f": 2,
+   "id": "MES_FASHION_APRONDRESS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 675,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERAPRONDRESS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 676,
+   "f": 2,
+   "id": "MES_FASHION_MAXIAPRONDRESS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 677,
+   "f": 2,
+   "id": "MES_FASHION_YUKATABOYBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 678,
+   "f": 2,
+   "id": "MES_FASHION_YUKATABOYRED",
+   "key": "d7f2743b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКаасный! Каасный касивый! Хи-хи-хи!"
+  },
+  {
+   "n": 679,
+   "f": 2,
+   "id": "MES_FASHION_OKAPPIKI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 680,
+   "f": 2,
+   "id": "MES_FASHION_KABUKIFASHION",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 681,
+   "f": 2,
+   "id": "MES_FASHION_HAIKARASANRED",
+   "key": "e8d02c40",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПушыстый! Пушыстый касивый! Хи-хи! ♪"
+  },
+  {
+   "n": 682,
+   "f": 2,
+   "id": "MES_FASHION_HAIKARASANGREEN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 683,
+   "f": 2,
+   "id": "MES_FASHION_YUKATAGIRLBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 684,
+   "f": 2,
+   "id": "MES_FASHION_YUKATAGIRLRED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 685,
+   "f": 2,
+   "id": "MES_FASHION_OLDTOWNSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 686,
+   "f": 2,
+   "id": "MES_FASHION_NADESHIKOSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 687,
+   "f": 2,
+   "id": "MES_FASHION_KYUDOWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 688,
+   "f": 2,
+   "id": "MES_FASHION_FARMERTSHIRT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 689,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNTANKTOP",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 690,
+   "f": 2,
+   "id": "MES_FASHION_WHITEPONCHO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 691,
+   "f": 2,
+   "id": "MES_FASHION_ARABIANSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 692,
+   "f": 2,
+   "id": "MES_FASHION_RESORTCASUAL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 693,
+   "f": 2,
+   "id": "MES_FASHION_HULADANCEBOY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 694,
+   "f": 2,
+   "id": "MES_FASHION_TUBETOP",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 695,
+   "f": 2,
+   "id": "MES_FASHION_HULADANCEGIRL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 696,
+   "f": 2,
+   "id": "MES_FASHION_REDPONCHO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 697,
+   "f": 2,
+   "id": "MES_FASHION_TUNICGOLD",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 698,
+   "f": 2,
+   "id": "MES_FASHION_TUNICSILVER",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 699,
+   "f": 2,
+   "id": "MES_FASHION_BLUEWHITENOSLEEVE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 700,
+   "f": 2,
+   "id": "MES_FASHION_QUILTWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 701,
+   "f": 2,
+   "id": "MES_FASHION_YELLOWSWEATER",
+   "key": "21868907",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nЗёйтый! Зё... Жё... Зёйтый!"
+  },
+  {
+   "n": 702,
+   "f": 2,
+   "id": "MES_FASHION_COOLVESTWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 703,
+   "f": 2,
+   "id": "MES_FASHION_WHITEJACKET",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 704,
+   "f": 2,
+   "id": "MES_FASHION_AQUACOAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 705,
+   "f": 2,
+   "id": "MES_FASHION_RIDINGCLOTHESBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 706,
+   "f": 2,
+   "id": "MES_FASHION_RIDINGCLOTHESRED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 707,
+   "f": 2,
+   "id": "MES_FASHION_SCHWARZCOAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 708,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKCOAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 709,
+   "f": 2,
+   "id": "MES_FASHION_NOBLEJACKET",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 710,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERSKIRT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 711,
+   "f": 2,
+   "id": "MES_FASHION_DOTSKIRT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 712,
+   "f": 2,
+   "id": "MES_FASHION_CLASSICSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 713,
+   "f": 2,
+   "id": "MES_FASHION_ELEGANTONEPIECE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 714,
+   "f": 2,
+   "id": "MES_FASHION_CREAMONEPIECE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 715,
+   "f": 2,
+   "id": "MES_FASHION_RAINCOAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 716,
+   "f": 2,
+   "id": "MES_FASHION_BUTTONDRESS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 717,
+   "f": 2,
+   "id": "MES_FASHION_HIGHWAISTSKIRT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 718,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKDRESS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 719,
+   "f": 2,
+   "id": "MES_FASHION_MODERNKIMONO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 720,
+   "f": 2,
+   "id": "MES_FASHION_AKINDOAOTAKE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 721,
+   "f": 2,
+   "id": "MES_FASHION_AKINDOYANAGI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 722,
+   "f": 2,
+   "id": "MES_FASHION_SAMURAISTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 723,
+   "f": 2,
+   "id": "MES_FASHION_PLAYBOYSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 724,
+   "f": 2,
+   "id": "MES_FASHION_OMMYOJI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 725,
+   "f": 2,
+   "id": "MES_FASHION_SNOWKIMONO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 726,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERKIMONO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 727,
+   "f": 2,
+   "id": "MES_FASHION_UROKOKIMONO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 728,
+   "f": 2,
+   "id": "MES_FASHION_KIMONODRESS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 729,
+   "f": 2,
+   "id": "MES_FASHION_KNEEHIGHKIMONO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 730,
+   "f": 2,
+   "id": "MES_FASHION_MICHIYUKICOAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 731,
+   "f": 2,
+   "id": "MES_FASHION_GREENHOODIE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 732,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 733,
+   "f": 2,
+   "id": "MES_FASHION_RESORTFORMAL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 734,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 735,
+   "f": 2,
+   "id": "MES_FASHION_ASYMMETRYSKIRT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 736,
+   "f": 2,
+   "id": "MES_FASHION_FRILLSKIRT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 737,
+   "f": 2,
+   "id": "MES_FASHION_RESORTONEPIECEGREEN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 738,
+   "f": 2,
+   "id": "MES_FASHION_RESORTONEPIECERED",
+   "key": "d7f2743b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКаасный! Каасный касивый! Хи-хи-хи!"
+  },
+  {
+   "n": 739,
+   "f": 2,
+   "id": "MES_FASHION_SARIBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 740,
+   "f": 2,
+   "id": "MES_FASHION_SARIYELLOW",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 741,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICJADE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 742,
+   "f": 2,
+   "id": "MES_FASHION_WILDROCKER",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 743,
+   "f": 2,
+   "id": "MES_FASHION_HUIPIL",
+   "key": "295b63d0",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nХи-хи-хи! Ой-ой? Ой-ой?"
+  },
+  {
+   "n": 744,
+   "f": 2,
+   "id": "MES_FASHION_NORDICDRESSPINK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 745,
+   "f": 2,
+   "id": "MES_FASHION_NORDICDRESSBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 746,
+   "f": 2,
+   "id": "MES_FASHION_ALPSSKIRT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 747,
+   "f": 2,
+   "id": "MES_FASHION_GOTHICSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 748,
+   "f": 2,
+   "id": "MES_FASHION_RUBYREDCHINA",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 749,
+   "f": 2,
+   "id": "MES_FASHION_SAPPHIRECHINA",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 750,
+   "f": 2,
+   "id": "MES_FASHION_SNOWCOAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 751,
+   "f": 2,
+   "id": "MES_FASHION_DRACULACLOAK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 752,
+   "f": 2,
+   "id": "MES_FASHION_PUMPKINSTYE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 753,
+   "f": 2,
+   "id": "MES_FASHION_EUROPEANARMOR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 754,
+   "f": 2,
+   "id": "MES_FASHION_CLOWNWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 755,
+   "f": 2,
+   "id": "MES_FASHION_COCKWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 756,
+   "f": 2,
+   "id": "MES_FASHION_BUTLERWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 757,
+   "f": 2,
+   "id": "MES_FASHION_MAIDROYAL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 758,
+   "f": 2,
+   "id": "MES_FASHION_KUNOICHI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 759,
+   "f": 2,
+   "id": "MES_FASHION_NINJASTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 760,
+   "f": 2,
+   "id": "MES_FASHION_HIBAKAMA",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 761,
+   "f": 2,
+   "id": "MES_FASHION_SMITHWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 762,
+   "f": 2,
+   "id": "MES_FASHION_HAPPI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 763,
+   "f": 2,
+   "id": "MES_FASHION_HAPPIGIRL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 764,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTTUXEDO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 765,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTDRESS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 766,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIHAORI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 767,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 768,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORMAN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 769,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORLADY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 770,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKITOWNBOY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 771,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKITOWNGIRL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 772,
+   "f": 2,
+   "id": "MES_FASHION_REGERWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 773,
+   "f": 2,
+   "id": "MES_FASHION_MENOUWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 774,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECATBODY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 775,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEDOGBODY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 776,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEBEARBODY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 777,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPANDABODY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 778,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPENGUINBODY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 779,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECOWBODY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 780,
+   "f": 2,
+   "id": "MES_FASHION_POSTMANWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 781,
+   "f": 2,
+   "id": "MES_FASHION_DOCTORWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 782,
+   "f": 2,
+   "id": "MES_FASHION_CHASERWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 783,
+   "f": 2,
+   "id": "MES_FASHION_APPRENTICEWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 784,
+   "f": 2,
+   "id": "MES_FASHION_CRAFTMANWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 785,
+   "f": 2,
+   "id": "MES_FASHION_FLORISTWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 786,
+   "f": 2,
+   "id": "MES_FASHION_TEAGIRLWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 787,
+   "f": 2,
+   "id": "MES_FASHION_TEACHERWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 788,
+   "f": 2,
+   "id": "MES_FASHION_TWIN1WEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 789,
+   "f": 2,
+   "id": "MES_FASHION_TWIN2WEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 790,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGMAN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 791,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGLADY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 792,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGLADY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 793,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGMAN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 794,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGMAN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 795,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGLADY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 796,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBROWN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 797,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBLACK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 798,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEWHITE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 799,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 800,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBROWN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 801,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBLACK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 802,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 803,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATRED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 804,
+   "f": 2,
+   "id": "MES_FASHION_COWGIRLHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 805,
+   "f": 2,
+   "id": "MES_FASHION_STRAWHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 806,
+   "f": 2,
+   "id": "MES_FASHION_KASAHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 807,
+   "f": 2,
+   "id": "MES_FASHION_HOKKAMURI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 808,
+   "f": 2,
+   "id": "MES_FASHION_HACHIMAKI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 809,
+   "f": 2,
+   "id": "MES_FASHION_TROPICAL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 810,
+   "f": 2,
+   "id": "MES_FASHION_KANKANHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 811,
+   "f": 2,
+   "id": "MES_FASHION_KANKANHATWHITE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 812,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNSTRAWHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 813,
+   "f": 2,
+   "id": "MES_FASHION_DARKBROWNSTRAWHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 814,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERCROWNWHITE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 815,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERCROWNRED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 816,
+   "f": 2,
+   "id": "MES_FASHION_ORNAMENTFEATHER",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 817,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICHEADBAND",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 818,
+   "f": 2,
+   "id": "MES_FASHION_KOSAKHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 819,
+   "f": 2,
+   "id": "MES_FASHION_BERET",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 820,
+   "f": 2,
+   "id": "MES_FASHION_KNITCAP",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 821,
+   "f": 2,
+   "id": "MES_FASHION_TOPHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 822,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 823,
+   "f": 2,
+   "id": "MES_FASHION_GOGGLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 824,
+   "f": 2,
+   "id": "MES_FASHION_GOTHICHEADBAND",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 825,
+   "f": 2,
+   "id": "MES_FASHION_GORGEOUSHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 826,
+   "f": 2,
+   "id": "MES_FASHION_ELEGANTHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 827,
+   "f": 2,
+   "id": "MES_FASHION_RIBBONPURPLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 828,
+   "f": 2,
+   "id": "MES_FASHION_RIBBONRED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 829,
+   "f": 2,
+   "id": "MES_FASHION_BONNET",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 830,
+   "f": 2,
+   "id": "MES_FASHION_BENIKANZASHI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 831,
+   "f": 2,
+   "id": "MES_FASHION_FUJIKANZASHI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 832,
+   "f": 2,
+   "id": "MES_FASHION_BEKKOUKANZASHI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 833,
+   "f": 2,
+   "id": "MES_FASHION_GORGEOUSKANZASHI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 834,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGYELLOW",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 835,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGRED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 836,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGWHITE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 837,
+   "f": 2,
+   "id": "MES_FASHION_MAIDHEADBAND",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 838,
+   "f": 2,
+   "id": "MES_FASHION_CROWNHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 839,
+   "f": 2,
+   "id": "MES_FASHION_ONIMASK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 840,
+   "f": 2,
+   "id": "MES_FASHION_FOXMASK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 841,
+   "f": 2,
+   "id": "MES_FASHION_NINJAHOOD",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 842,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 843,
+   "f": 2,
+   "id": "MES_FASHION_SOFTTOYCAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 844,
+   "f": 2,
+   "id": "MES_FASHION_WITCHHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 845,
+   "f": 2,
+   "id": "MES_FASHION_MONSTERMASK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 846,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 847,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTSILKHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 848,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKIHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 849,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKIBANDANA",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 850,
+   "f": 2,
+   "id": "MES_FASHION_ROYALCROWN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 851,
+   "f": 2,
+   "id": "MES_FASHION_COCKCAP",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 852,
+   "f": 2,
+   "id": "MES_FASHION_CATHEADBAND",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 853,
+   "f": 2,
+   "id": "MES_FASHION_DOGHEADBAND",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 854,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECATHEAD",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 855,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEDOGHEAD",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 856,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEBEARHEAD",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 857,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPANDAHEAD",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 858,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPENGUINHEAD",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 859,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECOWHEAD",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 860,
+   "f": 2,
+   "id": "MES_FASHION_MENOUHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 861,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGLADYHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 862,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGLADYHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 863,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGLADYHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 864,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGMANHAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 865,
+   "f": 2,
+   "id": "MES_FASHION_EUROPEANHELM",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 866,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEBLACK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 867,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 868,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMERED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 869,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEYELLOW",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 870,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEGREEN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 871,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEBLACK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 872,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 873,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMERED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 874,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEYELLOW",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 875,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEGREEN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 876,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEBLACK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 877,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEBLUE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 878,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMERED",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 879,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEYELLOW",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 880,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEGREEN",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 881,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEWHITE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 882,
+   "f": 2,
+   "id": "MES_FASHION_SUNGLASSES",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 883,
+   "f": 2,
+   "id": "MES_FASHION_ROUNDSUNGLASSES",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 884,
+   "f": 2,
+   "id": "MES_FASHION_ROUNDGLASSES",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 885,
+   "f": 2,
+   "id": "MES_FASHION_MONOCLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 886,
+   "f": 2,
+   "id": "MES_FASHION_EYEPATCHBLACK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 887,
+   "f": 2,
+   "id": "MES_FASHION_EYEPATCHWHITE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 888,
+   "f": 2,
+   "id": "MES_FASHION_BUTTERFLYMASK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 889,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEGLASSES",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 890,
+   "f": 2,
+   "id": "MES_FASHION_STEAMGOGGLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 891,
+   "f": 2,
+   "id": "MES_FASHION_SETMINO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 892,
+   "f": 2,
+   "id": "MES_FASHION_SETSAOTOME",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 893,
+   "f": 2,
+   "id": "MES_FASHION_SETKAPPOUGI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 894,
+   "f": 2,
+   "id": "MES_FASHION_SETCOWGIRL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 895,
+   "f": 2,
+   "id": "MES_FASHION_SETSTEAMPUNKCOAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 896,
+   "f": 2,
+   "id": "MES_FASHION_SETSTEAMPUNKDRESS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 897,
+   "f": 2,
+   "id": "MES_FASHION_SETGOTHICSTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 898,
+   "f": 2,
+   "id": "MES_FASHION_SETCLOWNWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 899,
+   "f": 2,
+   "id": "MES_FASHION_SETEUROPEANARMOR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 900,
+   "f": 2,
+   "id": "MES_FASHION_SETHAPPI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 901,
+   "f": 2,
+   "id": "MES_FASHION_SETHAPPIGIRL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 902,
+   "f": 2,
+   "id": "MES_FASHION_SETCOCKWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 903,
+   "f": 2,
+   "id": "MES_FASHION_SETMAIDROYAL",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 904,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMECATBODY",
+   "key": "cdfbdd38",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМяу-мяу! Киса мяу-мяу!"
+  },
+  {
+   "n": 905,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEDOGBODY",
+   "key": "e47b8494",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nГав-гав! Хоёсая собацька!"
+  },
+  {
+   "n": 906,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEBEARBODY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 907,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEPANDABODY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 908,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEPENGUINBODY",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 909,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMECOWBODY",
+   "key": "4e5caf1a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nМу-му? Му-му коёвка! Му-му коёвка!"
+  },
+  {
+   "n": 910,
+   "f": 2,
+   "id": "MES_FASHION_SETMENOUWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 911,
+   "f": 2,
+   "id": "MES_FASHION_SETDESSERTTUXEDO",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 912,
+   "f": 2,
+   "id": "MES_FASHION_SETDESSERTDRESS",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 913,
+   "f": 2,
+   "id": "MES_FASHION_SETWAGASHIHAORI",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 914,
+   "f": 2,
+   "id": "MES_FASHION_SETWAGASHIWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 915,
+   "f": 2,
+   "id": "MES_FASHION_SETFRUITSPARLORMAN",
+   "key": "87519421",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nИ-и-и! Фуукты! Фуукты вкусные! А-ха-ха!"
+  },
+  {
+   "n": 916,
+   "f": 2,
+   "id": "MES_FASHION_SETFRUITSPARLORLADY",
+   "key": "87519421",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nИ-и-и! Фуукты! Фуукты вкусные! А-ха-ха!"
+  },
+  {
+   "n": 917,
+   "f": 2,
+   "id": "MES_FASHION_SETNINJASTYLE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 918,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEBOYWHITE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 919,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEBOYRED",
+   "key": "d7f2743b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКаасный! Каасный касивый! Хи-хи-хи!"
+  },
+  {
+   "n": 920,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEGIRLWHITE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 921,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEGIRLRED",
+   "key": "d7f2743b",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nКаасный! Каасный касивый! Хи-хи-хи!"
+  },
+  {
+   "n": 922,
+   "f": 2,
+   "id": "MES_FASHION_SETSNOWCOAT",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 923,
+   "f": 2,
+   "id": "MES_FASHION_SETDRACULACLOAK",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 924,
+   "f": 2,
+   "id": "MES_FASHION_SETPUMPKINSTYE",
+   "key": "43583b04",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, тыква? Хи-хи! ♪"
+  },
+  {
+   "n": 925,
+   "f": 2,
+   "id": "MES_FASHION_SETBUTLERWEAR",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 926,
+   "f": 2,
+   "id": "MES_FASHION_SETELEGANTONEPIECE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 927,
+   "f": 2,
+   "id": "MES_FASHION_SETCREAMONEPIECE",
+   "key": "c08fbf96",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУа-и! ♪"
+  },
+  {
+   "n": 928,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_00",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 929,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_01",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 930,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_02",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 931,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_03",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 932,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_04",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 933,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_05",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 934,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_06",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 935,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_07",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 936,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_08",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 937,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_09",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 938,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_10",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 939,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_11",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 940,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_12",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 941,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_13",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 942,
+   "f": 2,
+   "id": "MES_MISSION_START",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 943,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKD_BRIDGE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 944,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_BELLTOWER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 945,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_COLLABO_MENU1",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 946,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_BRONZE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 947,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_COLLABO_PERFUME",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 948,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_GODDESS",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 949,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_COLLABO_MENU2",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 950,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKD_FARMBRIDGE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 951,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_SPA",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 952,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_COLLABO_MENU",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 953,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_PARK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 954,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_COLLABO_KANZASHI",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 955,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_INARI",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 956,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_COLLABO_SPA",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 957,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 958,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_FIRE",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 959,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 960,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_INNAROUND",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 961,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_COLLABO_AVATAR",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 962,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_PIER",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 963,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_COLLABO_MENU",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 964,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_00",
+   "key": "60e0c33d",
+   "ru": "Отдать материалы"
+  },
+  {
+   "n": 965,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_01",
+   "key": "83e95a11",
+   "ru": "Не отдавать"
+  },
+  {
+   "n": 966,
+   "f": 2,
+   "id": "MES_MISSION_NG",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 967,
+   "f": 2,
+   "id": "MES_MISSION_OK",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 968,
+   "f": 2,
+   "id": "MES_MISSION_CANNOT",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 969,
+   "f": 2,
+   "id": "MES_MISSION_CLEAR",
+   "key": "f4da3a26",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nБа-ба-бу! ♪"
+  },
+  {
+   "n": 970,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_00",
+   "key": "80416b76",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>!"
+  },
+  {
+   "n": 971,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_01",
+   "key": "46a56058",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1> и\n<MOJI2> ×<MOJI3>!"
+  },
+  {
+   "n": 972,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_02",
+   "key": "525df9b9",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>...\n<PAGE>\n...<MOJI2> ×<MOJI3> и\n<MOJI4> ×<MOJI5>!"
+  }
+ ]
+}

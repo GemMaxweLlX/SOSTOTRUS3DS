@@ -1,0 +1,68 @@
+{
+ "file": "Talk_Child_Boy",
+ "entries": [
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_00",
+   "key": "d2282c23",
+   "ru": "Поесть вместе."
+  },
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_01",
+   "key": "98bd8e4e",
+   "ru": "Не есть вместе."
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_01",
+   "key": "4d64bcc9",
+   "ru": "Попросить помощи."
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_02",
+   "key": "07f11ea4",
+   "ru": "Не просить помощи."
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_00",
+   "key": "cd00159a",
+   "ru": "(Похоже, ему сейчас не до подарков.\nЗайду попозже.)"
+  },
+  {
+   "n": 461,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_01",
+   "key": "2ad2d316",
+   "ru": "(Ему сегодня уже был подарок. Лучше\nприберечь это до завтра.)"
+  },
+  {
+   "n": 969,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_00",
+   "key": "80416b76",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>!"
+  },
+  {
+   "n": 970,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_01",
+   "key": "46a56058",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1> и\n<MOJI2> ×<MOJI3>!"
+  },
+  {
+   "n": 971,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_02",
+   "key": "ec856f16",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>...\n<PAGE>\n...<MOJI2> ×<MOJI3> и <MOJI4> ×<MOJI5>!"
+  }
+ ]
+}

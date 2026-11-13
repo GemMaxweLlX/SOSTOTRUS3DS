@@ -30,11 +30,32 @@
    "ru": "Что такое?"
   },
   {
+   "n": 276,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_00",
+   "key": "9a600731",
+   "ru": "Поесть с Стефани"
+  },
+  {
    "n": 277,
    "f": 2,
    "id": "MES_MEAL_SELECT_01",
    "key": "93efdefa",
    "ru": "Не сегодня"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_01",
+   "key": "7f559f35",
+   "ru": "Было бы кстати. Спасибо!"
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_02",
+   "key": "4f4e63b2",
+   "ru": "Пока не нужно. Но спасибо!"
   },
   {
    "n": 384,
@@ -98,6 +119,55 @@
    "id": "MES_EVENT_PENDANT_00",
    "key": "df05040d",
    "ru": "Что такое?"
+  },
+  {
+   "n": 464,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_00",
+   "key": "b98a6ac7",
+   "ru": "(Похоже, ей сейчас не до подарков.\nЗайду попозже.)"
+  },
+  {
+   "n": 465,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_01",
+   "key": "2287dbba",
+   "ru": "(Ей сегодня уже был подарок. Лучше\nприберечь это до завтра.)"
+  },
+  {
+   "n": 977,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_00",
+   "key": "b270ad16",
+   "ru": "Отдать ей."
+  },
+  {
+   "n": 978,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_01",
+   "key": "5afb30ad",
+   "ru": "Не отдавать ей."
+  },
+  {
+   "n": 983,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_00",
+   "key": "4f1ae424",
+   "ru": "Отдано: <BLUE><____ITEMNAME0____></BLUE>\n<BLUE>×<MOJI0></BLUE>!"
+  },
+  {
+   "n": 984,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_01",
+   "key": "243dedb9",
+   "ru": "Отдано: <BLUE><____ITEMNAME0____></BLUE>\n<BLUE>×<MOJI0></BLUE> и\n<BLUE><____ITEMNAME1____></BLUE>\n<BLUE>×<MOJI2></BLUE>!"
+  },
+  {
+   "n": 985,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_02",
+   "key": "7adfed55",
+   "ru": "Отдано: <BLUE><____ITEMNAME0____></BLUE>\n<BLUE>×<MOJI0></BLUE>,\n<BLUE><____ITEMNAME1____></BLUE>\n<BLUE>×<MOJI2></BLUE>...\n<PAGE>\n...и <BLUE><____ITEMNAME2____></BLUE>\n<BLUE>×<MOJI4></BLUE>!"
   }
  ]
 }

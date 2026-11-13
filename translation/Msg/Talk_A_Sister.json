@@ -1,0 +1,54 @@
+{
+ "file": "Talk_A_Sister",
+ "entries": [
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_01",
+   "key": "4d64bcc9",
+   "ru": "Попросить помощи."
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_02",
+   "key": "07f11ea4",
+   "ru": "Не просить помощи."
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_00",
+   "key": "b98a6ac7",
+   "ru": "(Похоже, ей сейчас не до подарков.\nЗайду попозже.)"
+  },
+  {
+   "n": 461,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_01",
+   "key": "250607d8",
+   "ru": "(Ей сегодня уже был подарок. Лучше\nприберечь это на другой день.)"
+  },
+  {
+   "n": 969,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_00",
+   "key": "80416b76",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>!"
+  },
+  {
+   "n": 970,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_01",
+   "key": "ce048ef5",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>...\n<PAGE>\n...и <MOJI2> ×<MOJI3>!"
+  },
+  {
+   "n": 971,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_02",
+   "key": "a8d83389",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>...\n<PAGE>\n...<MOJI2> ×<MOJI3>...\n<PAGE>\n...и <MOJI4> ×<MOJI5>!"
+  }
+ ]
+}

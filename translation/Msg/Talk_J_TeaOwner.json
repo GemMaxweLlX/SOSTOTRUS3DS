@@ -2,11 +2,81 @@
  "file": "Talk_J_TeaOwner",
  "entries": [
   {
+   "n": 276,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_00",
+   "key": "c20c71eb",
+   "ru": "Поесть с Гиндзиро"
+  },
+  {
    "n": 277,
    "f": 2,
    "id": "MES_MEAL_SELECT_01",
    "key": "93efdefa",
    "ru": "Не сегодня"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_01",
+   "key": "4d64bcc9",
+   "ru": "Попросить помощи."
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_02",
+   "key": "07f11ea4",
+   "ru": "Не просить помощи."
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_00",
+   "key": "cd00159a",
+   "ru": "(Похоже, ему сейчас не до подарков.\nЗайду попозже.)"
+  },
+  {
+   "n": 461,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_01",
+   "key": "311ec593",
+   "ru": "(Ему сегодня уже был подарок. Лучше\nприберечь это на другой день.)"
+  },
+  {
+   "n": 966,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_00",
+   "key": "60e0c33d",
+   "ru": "Отдать материалы"
+  },
+  {
+   "n": 967,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_01",
+   "key": "09b07635",
+   "ru": "Не отдавать материалы"
+  },
+  {
+   "n": 972,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_00",
+   "key": "28c3c363",
+   "ru": "Отдано: <BLUE><MOJI0></BLUE><MOJI1>!"
+  },
+  {
+   "n": 973,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_01",
+   "key": "f7ff22cd",
+   "ru": "Отдано: <BLUE><____ITEMNAME0____></BLUE>\n<BLUE>×<MOJI0></BLUE> и <BLUE><____ITEMNAME1____></BLUE>\n<BLUE>×<MOJI2></BLUE>!"
+  },
+  {
+   "n": 974,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_02",
+   "key": "84693683",
+   "ru": "Отдано: <BLUE><____ITEMNAME0____></BLUE>\n<BLUE>×<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE>\n<BLUE>×<MOJI2></BLUE>...\n<PAGE>\n...и <BLUE><MOJI4></BLUE>G!"
   }
  ]
 }

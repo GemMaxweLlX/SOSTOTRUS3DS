@@ -2,11 +2,109 @@
  "file": "Talk_S_FisherWife",
  "entries": [
   {
+   "n": 172,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_00",
+   "key": "22b37260",
+   "ru": "Слёзно умолять"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_01",
+   "key": "0d23f37d",
+   "ru": "Уговорить её"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_02",
+   "key": "d931124c",
+   "ru": "Сделать недовольное лицо"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_03",
+   "key": "ace26435",
+   "ru": "Надуть губы"
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_00",
+   "key": "f1e2b321",
+   "ru": "Поесть с Каолилой"
+  },
+  {
    "n": 277,
    "f": 2,
    "id": "MES_MEAL_SELECT_01",
    "key": "93efdefa",
    "ru": "Не сегодня"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_01",
+   "key": "4d64bcc9",
+   "ru": "Попросить помощи."
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_02",
+   "key": "07f11ea4",
+   "ru": "Не просить помощи."
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_00",
+   "key": "212ae6a4",
+   "ru": "(Похоже, ей сейчас не до подарков.\nЗайду попозже.)"
+  },
+  {
+   "n": 461,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_01",
+   "key": "250607d8",
+   "ru": "(Ей сегодня уже был подарок. Лучше\nприберечь это на другой день.)"
+  },
+  {
+   "n": 966,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_00",
+   "key": "60e0c33d",
+   "ru": "Отдать материалы"
+  },
+  {
+   "n": 967,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_01",
+   "key": "09b07635",
+   "ru": "Не отдавать материалы"
+  },
+  {
+   "n": 972,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_00",
+   "key": "4f1ae424",
+   "ru": "Отдано: <BLUE><____ITEMNAME0____></BLUE>\n<BLUE>×<MOJI0></BLUE>!"
+  },
+  {
+   "n": 973,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_01",
+   "key": "f7ff22cd",
+   "ru": "Отдано: <BLUE><____ITEMNAME0____></BLUE>\n<BLUE>×<MOJI0></BLUE> и <BLUE><____ITEMNAME1____></BLUE>\n<BLUE>×<MOJI2></BLUE>!"
+  },
+  {
+   "n": 974,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_02",
+   "key": "90e511cf",
+   "ru": "Отдано: <BLUE><____ITEMNAME0____></BLUE>\n<BLUE>×<MOJI0></BLUE>, <BLUE><____ITEMNAME1____></BLUE>\n<BLUE>×<MOJI2></BLUE>...\n<PAGE>\n...и <BLUE><____ITEMNAME2____></BLUE>\n<BLUE>×<MOJI4></BLUE>!"
   }
  ]
 }
