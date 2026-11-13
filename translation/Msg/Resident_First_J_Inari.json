@@ -97,7 +97,7 @@
    "f": 2,
    "id": "MES_EV_RESIDENT_FIRST_J_INARI_13",
    "key": "cbb9ea0e",
-   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Ах, да. Ты так учтиво выказываешь мне\nпочтение, а я не ответила тем же.\n<PAGE>\nКакая постыдная невежливость."
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Ах, да. Ты так учтиво выказываешь мне\nпочтение, а у меня не нашлось ответной\nучтивости.\n<PAGE>\nКакая постыдная невежливость."
   },
   {
    "n": 14,
@@ -125,14 +125,14 @@
    "f": 2,
    "id": "MES_EV_RESIDENT_FIRST_J_INARI_17",
    "key": "e0d790df",
-   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nЧто? Я спала?!\n<PAGE>\n<FACE_SAD>Как это случилось? Последнее, что я помню..."
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nЧто? Это был сон?!\n<PAGE>\n<FACE_SAD>Как это случилось? Последнее, что я помню..."
   },
   {
    "n": 18,
    "f": 2,
    "id": "MES_EV_RESIDENT_FIRST_J_INARI_18",
    "key": "19701335",
-   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\n<WINDOW_EXCLAMATION_R>Точно! Я помогала вам обеим с заклинанием\nслияния, которое вы отрабатывали...\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_ANGRY>Ага. Заклинание должно было создать лягушку,\nкоторая вместо икры несёт бесконечные горы\nклубники...\n<PAGE>\n<WINDOW_DEFAULT><FACE_GODDES><POS_RIGHT><FACE_SAD>Но, э-э... я-я напутала и запечатала тебя на\nнесколько лет..."
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\n<WINDOW_EXCLAMATION_R>Точно! Мы вместе работали над заклинанием\nслияния, которое вы отрабатывали...\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_ANGRY>Ага. Заклинание должно было создать лягушку,\nкоторая вместо икры несёт бесконечные горы\nклубники...\n<PAGE>\n<WINDOW_DEFAULT><FACE_GODDES><POS_RIGHT><FACE_SAD>Но, э-э... я-я напутала и запечатала тебя на\nнесколько лет..."
   },
   {
    "n": 19,
@@ -181,7 +181,7 @@
    "f": 2,
    "id": "MES_EV_RESIDENT_FIRST_J_INARI_25",
    "key": "8fc79920",
-   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nПожалуй, это так. Я виновата не меньше, раз\nпросто стояла рядом, вместо того чтобы\nпопытаться вас остановить.\n<PAGE>\nЗакрыть глаза на свой проступок и винить\nтолько вас двоих было бы едва ли достойно."
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nПожалуй, это так. Моя вина не меньше, ведь\nмне следовало не стоять в стороне, вместо того\nчтобы попытаться вас остановить.\n<PAGE>\nЗакрыть глаза на свой проступок и винить\nтолько вас двоих было бы едва ли достойно."
   },
   {
    "n": 26,
@@ -202,7 +202,7 @@
    "f": 2,
    "id": "MES_EV_RESIDENT_FIRST_J_INARI_28",
    "key": "9c58752a",
-   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nТак! Раз все извинились, оставим это позади и\nпойдём дальше. С возвращением, Инари.\n<PAGE>\n<FACE_GODDES><POS_RIGHT><FACE_NORMAL>Да. Так хорошо, что ты вернулась.\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>И я рада вернуться. Как хранительница\nхранительнице, надеюсь, мы снова станем\nдобрыми подругами."
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_NORMAL>\r\nТак! Раз все извинились, оставим это позади и\nпойдём дальше. С возвращением, Инари.\n<PAGE>\n<FACE_GODDES><POS_RIGHT><FACE_NORMAL>Да. Так хорошо, что ты вернулась.\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_NORMAL>И мне радостно вернуться. Как хранитель\nхранителю, надеюсь, мы снова станем добрыми\nдрузьями."
   },
   {
    "n": 29,
