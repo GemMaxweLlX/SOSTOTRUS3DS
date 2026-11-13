@@ -1,0 +1,187 @@
+{
+ "file": "Love_S_Craftman_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_00",
+   "key": "e7ea006c",
+   "ru": "(А? Это кошка мяукнула?)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_01",
+   "key": "1dd28e44",
+   "ru": "(Застряла там наверху? Надо, пожалуй, помочь\nей спуститься...)"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_02",
+   "key": "a3f3319d",
+   "ru": "(Почти... достала...)"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_03",
+   "key": "a7eb6faf",
+   "ru": "(Ой?!)"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_04",
+   "key": "79494514",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_ANGRY>\r\nЭй!! Ты что...?!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_05",
+   "key": "bf3882b4",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nОй..."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_06",
+   "key": "24d0c21c",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nФух... Хорошо хоть успел.\n<PAGE>\n<FACE_ANGRY>ДУРОЧКА!!\n<PAGE>\nТы о чём думала, карабкаясь по скале посреди\nночи?!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_07",
+   "key": "2508fedb",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nТы в порядке, да? Не ушиблась?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_08",
+   "key": "cf11d6d5",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nЗнаю. Ты просто хотела спасти кошку.\n<PAGE>\nНо... это было не нужно. Видишь? С ней всё\nхорошо."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_09",
+   "key": "7ad00fde",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nХвала духу моря, ты не пострадала.\n<PAGE>\nОх, я на минуту по-настоящему испугался."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_10",
+   "key": "7424b319",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nИ всё же... я правда восхищаюсь тем, что ты\nпыталась сделать, <_____MYNAME_____>.\n<PAGE>\nДля этого нужна смелость. Не многие на такое\nрешатся. Я горжусь."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_11",
+   "key": "f57c91d2",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nИ всё же это было довольно опасно. Если бы\nчто-то случилось и ты пострадала, все,\nособенно я, очень расстроились бы.\n<PAGE>\nТак что больше никаких безумных лазаний по\nскалам посреди ночи, ладно?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_12",
+   "key": "a418c0be",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nХорошо. В общем, уже очень поздно. Иди\nдомой и отдохни."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_13",
+   "key": "5afa8820",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nА? Всё-таки что-то не так?\n<PAGE>\nПодвернула ногу?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_14",
+   "key": "292698d8",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>\r\nНу, не оставаться же тебе тут.\n<PAGE>\nПойдём. Доведу тебя до дома. Вот, обхвати\nменя за плечи..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_15",
+   "key": "d53ee8e4",
+   "ru": "Я сама справлюсь"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_16",
+   "key": "46573e6e",
+   "ru": "Помоги, братик!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_17",
+   "key": "9edab31d",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nНе-а. Прости. Уважаю желание справиться\nсамой, но иногда разумнее опереться на\nкого-то.\n<PAGE>\n<FACE_NORMAL>А если от ходьбы ноге станет хуже? Тебе ведь\nэтого не надо."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_18",
+   "key": "1c251b68",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nБ-братик...?\n<PAGE>\n<FACE_LOSS>Э-э, <_____MYNAME_____>? Ох.\n<PAGE>\nЗнаю, я сказал, что можешь считать меня\nбратом, но, э-э...\n<PAGE>\n<FACE_SAD>Может, обойдёмся без “братика”? Неловко\nкак-то."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_19",
+   "key": "4bed766e",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_ANGRY>\r\nПогоди-и-ка... Ты же просто меня дразнишь,\nа?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_20",
+   "key": "25527a2e",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_ANGRY>\r\nОх. Да ты больше похожа на близняшек, чем я\nдумал!\n<PAGE>\n<FACE_NORMAL>Ну и ладно. Зови как хочешь! Пойдём.\nОбопрись на плечо “братика”."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_21",
+   "key": "a63b9f1e",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nВообще-то...\n<PAGE>\nДавай забудем про “братика”. Не надо так.\nЕсли уж хочешь ласковое прозвище, придумай\nчто-нибудь другое."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_22",
+   "key": "8e408d36",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nА пока главное, чтобы ты поправилась.\n<PAGE>\nЕсли дома как следует перевяжешь ногу и\nприложишь лёд, должно пройти.\n<PAGE>\nЗнаешь, <_____MYNAME_____>... ты гораздо стройнее, чем я думал."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_23",
+   "key": "3b6d2a44",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nА? Да ничего. Просто немного удивился, вот и\nвсё.\n<PAGE>\nНу, от работы на ферме мышцы растут.\nПочему-то я думал, что ты... не знаю...\nкрупнее.\n<PAGE>\n<FACE_SAD>А у тебя плечи и руки такие тонкие, знаешь?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_24",
+   "key": "e18dd349",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>\r\nЭ-э, не обращай внимания. Э кала маи. Сам не\nзнаю, что болтаю.\n<PAGE>\n<FACE_NORMAL>В общем, обязательно дай ноге отдохнуть,\nладно?\n<PAGE>\nСпокойной ночи, <_____MYNAME_____>."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_2_25",
+   "key": "554429fc",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOVE>\r\n<WINDOW_MOJA_L>Серьёзно... Что я такое говорил...?"
+  }
+ ]
+}

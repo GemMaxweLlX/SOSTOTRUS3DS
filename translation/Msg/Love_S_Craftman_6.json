@@ -2,11 +2,144 @@
  "file": "Love_S_Craftman_6",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_00",
+   "key": "b0900a1b",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nЭй! Алоха, <_____MYNAME_____>. Как дела?\n<PAGE>\nТы ко мне?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_01",
+   "key": "f4ba91be",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nОтлично!\n<PAGE>\nЗнаешь, я как раз о тебе думал."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_02",
+   "key": "7395df4c",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nУвидел одну из статуй в руинах и подумал:\n“Похожа на <_____MYNAME_____>”."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_03",
+   "key": "26b9d2bf",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_KERAKERA_L>Ха-ха-ха!\n<PAGE>\nДа я дурачусь. Не надо злиться."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_04",
+   "key": "fa557a4b",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nНо я правда рад, что ты зашла. Может, закрою\nмастерскую пораньше? Побудем вместе."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_05",
+   "key": "cefcd216",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nНе, ничего страшного. Тут все спокойные.\n<PAGE>\nЕсли меня нет, просто зайдут завтра.\n<PAGE>\nТак что, может..."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_06",
+   "key": "89c4b732",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_LINE_L>ЛУДУС!!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_07",
+   "key": "299c745f",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nБеру слова обратно. НЕ ВСЕ в городе\nспокойные..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_08",
+   "key": "4c332b16",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>\r\nЛудус! У нас там доска в полу...\n<PAGE>\n<FACE_NORMAL>О. А ты что тут делаешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_09",
+   "key": "1ccdfb23",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_10",
+   "key": "3047a197",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭ кала маи, Илука. Мы с <_____MYNAME_____> как раз собирались на\nсвидание. Может подождать до завтра?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_11",
+   "key": "5aa95314",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_SAD>\r\nБа. Видно, придётся, да? Ну ладно.\n<PAGE>\n<FACE_NORMAL>Просто я уронила горшок и помяла одну доску\nв полу. Только это и надо починить."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_12",
+   "key": "42f9326c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nИ всё? Из-за такой мелочи я нужен прямо\nсейчас?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_13",
+   "key": "da802bcb",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>\r\nОх! Что за отношение? Мы что, не клиенты?\n<PAGE>\nЯ ещё и пыталась быть доброй, предлагая\nподождать, раз уж от тебя наконец прозвучало\nслово “свидание”."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_14",
+   "key": "1349f517",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LOSS>\r\nГрубо..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_15",
+   "key": "505c0fb9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nЛадно, ладно. Понял. Я ужасный человек. Э\nкала маи.\n<PAGE>\n<FACE_NORMAL>Но завтра я посмотрю, обещаю."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_16",
+   "key": "4c911325",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНу, пойдём."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_17",
+   "key": "0051a5b2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nЛудус...\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_SAD>Может выйти нехорошо..."
+  },
+  {
    "n": 18,
    "f": 2,
    "id": "MES_EV_LOVE_S_CRAFTMAN_6_18",
    "key": "1a43b61b",
    "ru": "..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_19",
+   "key": "6ff65956",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nАга. Кажется, назревает буря.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Но это шанс.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Тут ты права.\n<PAGE>\nМожет, это поможет им признаться в своих\nнастоящих чувствах друг к другу."
   },
   {
    "n": 20,
@@ -21,6 +154,153 @@
    "id": "MES_EV_LOVE_S_CRAFTMAN_6_21",
    "key": "1a43b61b",
    "ru": "..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_22",
+   "key": "2a6cac7b",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\n...а потом бабуля как повалится, прямо на\nдедушку Хаулани...!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_23",
+   "key": "6aeca55f",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>? Что такое?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_24",
+   "key": "5c1e8476",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nНичего? Точно?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_25",
+   "key": "3a7343c4",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nПравда, что не так?\n<PAGE>\n<FACE_NORMAL>Если что-то тебя тревожит, скажи.\nПожалуйста."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_26",
+   "key": "591cf59e",
+   "ru": "(Промолчать)"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_27",
+   "key": "00e30765",
+   "ru": "Я для тебя всё ещё просто сестра?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_28",
+   "key": "33215fd2",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nО.\n<PAGE>\nТебе... тебе неприятно, что я потрепал Илуку\nпо голове?\n<PAGE>\n<FACE_NORMAL>Похоже, я веду себя с тобой так же, как с\nблизняшками, да?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_29",
+   "key": "10b801a3",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nНу, раз так... Не буду заставлять тебя\nговорить, если не хочешь.\n<PAGE>\nНо я не ясновидящий. Не могу прочесть твои\nмысли и понять, что тебя так тревожит.\n<PAGE>\nЕсли хочешь что-то высказать, я был бы рад,\nесли бы ты..."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_30",
+   "key": "0f7052be",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nЧто за...? Меня вдруг пробрал холодок по\nспине."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_31",
+   "key": "321d81bd",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nЭто была чёрная аура Илуки... Близняшки\nоткуда-то за нами шпионят?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_32",
+   "key": "91f88c89",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nПостой-ка...\n<PAGE>\nТолько не говори... Тебе было неприятно, что\nя потрепал Илуку по голове?\n<PAGE>\n<FACE_SAD>Видно, кажется, что я обращаюсь с тобой так\nже, как с близняшками."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_33",
+   "key": "b1567978",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nЭ кала маи. Старые привычки так просто не\nуходят, понимаешь?\n<PAGE>\nЯ не пытаюсь обращаться с тобой как с\nсестрой.\n<PAGE>\nИ с тех пор как мы встречаемся, я тебя сестрой\nне считаю."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_34",
+   "key": "ac350205",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nСловами этого не решить, да?\n<PAGE>\nЛадно. Тогда покажу."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_35",
+   "key": "7444f907",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nТеперь понимаешь?\n<PAGE>\nЕсли бы я хоть чуточку считал тебя сестрой, я\nбы так не сделал.\n<PAGE>\nЕдинственный человек на свете, которого я\nхочу так целовать, ― это ты, <_____MYNAME_____>."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_36",
+   "key": "ef256e09",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>\r\nЧестно говоря, я давно хотел это сделать.\n<PAGE>\nРаньше не хотел признаваться, но когда ты\nзашла ко мне в комнату ещё до того, как мы\nначали встречаться...\n<PAGE>\n<FACE_SAD>...чувства к тебе стали такими сильными, что я\nедва мог их сдержать.\n<PAGE>\nПосле этого я убедил себя, что должен\nдержать их в узде. И с тех пор сдерживался."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_37",
+   "key": "be59655e",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>\r\nМожет, тебе я казался спокойным и\nуверенным...\n<PAGE>\nНо на самом деле я всё ещё неуверенный\nмальчишка, который до ужаса боится\nвыпустить свои чувства и спугнуть тебя.\n<PAGE>\n<FACE_LOSS>И в итоге всё равно тебя расстроил. Э кала\nмаи."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_38",
+   "key": "9fb7664a",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nНо отныне обещаю, что не буду делать ничего,\nчто тебя расстроит или заставит сомневаться.\n<PAGE>\nТак ты простишь меня? Пожалуйста?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_39",
+   "key": "94a0bfa4",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nМахало.\n<PAGE>\nКак я рад."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_40",
+   "key": "d033345f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nВсё уладилось..."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_41",
+   "key": "3b8ece24",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>\r\nПохоже на то! К счастью. Это всё Лудус\nвиноват, балбес такой.\n<PAGE>\nКонечно, <_____MYNAME_____> будет волноваться, если он так ведёт\nсебя с другими девушками!\n<PAGE>\n<FACE_NORMAL>Ох! Вот дурак. Когда он поймёт, что не обязан\nвечно быть “старшим братом”?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS><_____MYNAME_____> тоже была неправа.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Что правда, то правда.\n<PAGE>\nЧто бы он ни говорил, Лудус никогда не считал\n<_____MYNAME_____> младшей сестрой. Даже в первый день\nзнакомства.\n<PAGE>\nСо стороны это было совершенно очевидно, но\nэти двое ничего не замечали."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_CRAFTMAN_6_42",
+   "key": "98a2e3cf",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nОх! Ну и хлопот с нашей оханой! Что бы этот\nбольшой ребёнок делал без сестёр, которые\nего выручают?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Оба балбесы..."
   },
   {
    "n": 43,

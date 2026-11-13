@@ -9,11 +9,25 @@
    "ru": "Не сегодня"
   },
   {
+   "n": 384,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_00",
+   "key": "a6a4f8a0",
+   "ru": "Конечно"
+  },
+  {
    "n": 386,
    "f": 2,
    "id": "MES_PROPOSAL_01",
    "key": "e9bc52bb",
    "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nКласс! Пойдём. Найдём место, где никого нет."
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_00",
+   "key": "a6a4f8a0",
+   "ru": "Конечно"
   },
   {
    "n": 394,
