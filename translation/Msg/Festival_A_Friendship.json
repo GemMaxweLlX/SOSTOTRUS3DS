@@ -2,6 +2,34 @@
  "file": "Festival_A_Friendship",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_00",
+   "key": "393dc329",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nНу-с! Все в сборе.\n<PAGE>\n<FACE_LAUGH>Не будем тянуть: начинаем Звёздный бал\nУэстауна!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_01",
+   "key": "50be086d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_LAUGH>\r\nПохоже, воздушные шары готовы к полёту.\n<PAGE>\nПраздник этот весьма романтичный...\n<PAGE>\nТак что вы, молодёжь, пригласите кого-нибудь\nособенного."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_02",
+   "key": "d9df44de",
+   "ru": "(Может, пригласить кого-то\nпротивоположного пола? Хм, кого бы\nвыбрать?)"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_03",
+   "key": "f1fba2ae",
+   "ru": "(Приглашу Лизетту!)"
+  },
+  {
    "n": 4,
    "f": 2,
    "id": "MES_EV_FES_A_FRIENDSHIP_04",
@@ -14,6 +42,20 @@
    "id": "MES_EV_FES_A_FRIENDSHIP_05",
    "key": "8b66ead5",
    "ru": "Форд"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_06",
+   "key": "3912271b",
+   "ru": "(Не хочу огорчать <CHARANAME0>, так что в этот раз\nприглашу кого-то своего пола.)\n<PAGE>\n(Кого бы выбрать?)"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_07",
+   "key": "047b18f9",
+   "ru": "(У меня есть <CHARANAME0>, так что приглашу Лизетту.)"
   },
   {
    "n": 8,
@@ -30,11 +72,1201 @@
    "ru": "Форд"
   },
   {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_10",
+   "key": "18c16865",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nНу, пора подниматься на шаре! Все на борт!"
+  },
+  {
    "n": 11,
    "f": 2,
    "id": "MES_EV_FES_A_FRIENDSHIP_11",
    "key": "1a43b61b",
    "ru": "..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_12",
+   "key": "fb0aa566",
+   "ru": "(Приглашу Уэйна!)"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_13",
+   "key": "670c117a",
+   "ru": "(У меня есть <CHARANAME0>, так что приглашу Уэйна.)"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_OTHERSEX_00",
+   "key": "aa7c7307",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_OTHERSEX_01",
+   "key": "2e469b60",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nО, хочешь подняться со мной?\n<PAGE>\n<FACE_LAUGH>Это честь для меня. Уверен, будет здорово."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_00",
+   "key": "ca3a1a70",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>? Ты витаешь в облаках. Пойдём.\n<PAGE>\n<FACE_LAUGH>Постой, неужели ты так ждала сегодняшнего\nдня, что плохо спала ночью?\n<PAGE>\nХа-ха, если так, то мы в одной лодке."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_MARRIAGE_00",
+   "key": "df7bb9b5",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nВот ты где, <_____MYNAME_____>. Готова?\n<PAGE>\n<FACE_LAUGH>Я так ждал, когда мы будем вместе смотреть на\nзвёзды."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_00",
+   "key": "defbd4d3",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>? Тебе что-то нужно?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_01",
+   "key": "054d20c0",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь подняться на шаре со мной? Понятно... <CHARANAME0>\nбудет волноваться, если ты полетишь с\nдевушкой.\n<PAGE>\n<FACE_LAUGH>Без проблем. С радостью полечу с тобой. Чисто\nмужской компанией тоже весело!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_01_Presenter",
+   "key": "328ffec8",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь подняться на шаре со мной? А, понятно.\nСтефани будет волноваться, если ты полетишь\nс другой девушкой.\n<PAGE>\n<FACE_LAUGH>Конечно, с радостью полечу с тобой. Чисто\nмужской компанией тоже весело!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_02",
+   "key": "defbd4d3",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>? Тебе что-то нужно?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_03",
+   "key": "f68fb353",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь подняться на шаре со мной?\n<PAGE>\n<FACE_LAUGH>Конечно, с радостью полечу с тобой. Чисто\nмужской компанией тоже весело."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_OTHERSEX_BALLOON_00",
+   "key": "c7c7f8bd",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nСколько раз ни летаю, всегда волнуюсь, когда\nшар начинает подниматься.\n<PAGE>\nЛюблю смотреть, как земля всё удаляется, а\nдеревья становятся всё меньше.\n<PAGE>\nБудто я превращаюсь в звезду, восходящую на\nнебеса."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_OTHERSEX_BALLOON_01",
+   "key": "0cc91959",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nМы уже довольно высоко.\n<PAGE>\nОх, лучше вниз не смотреть. Голова\nзакружится.\n<PAGE>\nЛучше посмотри вон туда. Звёзды такие\nкрасивые."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_OTHERSEX_BALLOON_02",
+   "key": "16a76f9a",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКрасота... Всё небо усыпано звёздами.\n<PAGE>\nЯ очень люблю звёзды. Обычно я подолгу\nсмотрю на небо.\n<PAGE>\nНо с воздушного шара всё совсем по-другому."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_OTHERSEX_BALLOON_03",
+   "key": "b8021205",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗвёзды такие загадочные.\n<PAGE>\nКогда вижу их блеск на небе, тревога уходит, а\nсил прибавляется.\n<PAGE>\n<FACE_LAUGH>Вообще-то они напоминают мне тебя.\n<PAGE>\nРядом с тобой мне спокойно, как дома...\n<PAGE>\nА твоё весёлое лицо и голос всегда придают\nмне сил."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_OTHERSEX_BALLOON_08",
+   "key": "45eb41ab",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Похоже, всё подходит к концу. Хотелось ещё\nнемного погулять по небу."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_OTHERSEX_BALLOON_09",
+   "key": "98f038fd",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nБлагодаря тебе мне сегодня было здорово.\nСпасибо, <_____MYNAME_____>.\n<PAGE>\nВернёмся к остальным?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_OTHERSEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_BALLOON_00",
+   "key": "3d37723a",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы держишься как следует? Это опасно, так что\nне вертись... А, шар поднимается."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_BALLOON_01",
+   "key": "e9a78bdc",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЛюблю смотреть, как земля всё удаляется, а\nдеревья становятся всё меньше.\n<PAGE>\n...Мы уже довольно высоко. Посмотри туда,\nзвёзды такие красивые."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_BALLOON_02",
+   "key": "7e809feb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗвёздное небо прекрасно...\n<PAGE>\n...\n<PAGE>\n<FACE_LOSS>...Ого, похоже, я волнуюсь сильнее, чем думал.\n<PAGE>\nКак подумаю, что ты рядом и мы вместе\nсмотрим на звёзды... Сердце так и колотится.\n<PAGE>\nПодумать только, даже нужных слов не\nподобрать...\n<PAGE>\nМожет, я на самом деле из стеснительных.\nДаже не знал.\n<PAGE>\n<FACE_NORMAL>...А может, я такой только потому, что это ты."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_BALLOON_03",
+   "key": "2b0a5b4a",
+   "ru": "Молча смотреть ему в лицо"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_BALLOON_04",
+   "key": "1c1d47e1",
+   "ru": "Нежно взять его за руку"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_BALLOON_05",
+   "key": "725f4f00",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\n...Не смотри на меня так. Я и сам знаю, что\nлицо у меня сейчас жалкое.\n<PAGE>\nНе хочу, чтобы ты видела меня таким.\n<PAGE>\n...А? Ты рада увидеть у любимого человека\nновые выражения лица?\n<PAGE>\n<FACE_LOVE>...Это нечестно, <_____MYNAME_____>. Если ты такое говоришь, что\nже мне..."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_BALLOON_06",
+   "key": "206dd40f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOVE>\r\n...!\n<PAGE>\nТы смелее, чем я думал, ― вот так вдруг взять\nменя за руку.\n<PAGE>\n<FACE_LOSS>Эх, я думал, это моя работа.\n<PAGE>\n<FACE_NORMAL>Слушай, чувствуешь, как у меня забилось\nсердце?\n<PAGE>\n<FACE_LAUGH>...Что такое? Ты вся смутилась.\n<PAGE>\nХа-ха, значит, теперь мы квиты?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_BALLOON_07",
+   "key": "c19f62e4",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...<_____MYNAME_____>, можешь закрыть глаза?\n<PAGE>\n<FACE_LAUGH>“Зачем?” Скромничаешь? Мне что, по буквам\nобъяснять?"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_BALLOON_08",
+   "key": "3d28c2bb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Похоже, время вышло. Хотел провести с\nтобой ещё немного времени, но...\n<PAGE>\nВидно, ничего не поделаешь. Как говорится,\nсчастливые часов не наблюдают."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_BALLOON_09",
+   "key": "02c2910f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nСегодня я обрёл воспоминание, которое буду\nхранить долгие годы. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_LOVER_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_MARRIAGE_BALLOON_00",
+   "key": "b686cc3b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ всегда жду полёта на воздушном шаре, но в\nэтот раз волнуюсь не только из-за него.\n<PAGE>\nЭто потому, что я с тобой... Сердце колотится\nи не унимается."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_MARRIAGE_BALLOON_01",
+   "key": "8fe0a170",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗемля всё удаляется. Глянь, какие маленькие\nуже дома.\n<PAGE>\nМы довольно высоко. Посмотри туда, звёзды\nтакие красивые."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_MARRIAGE_BALLOON_02",
+   "key": "9323172e",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКакое прекрасное ночное небо...\n<PAGE>\nКажется, будто оно поглощает всё вокруг, и\nтебя, и меня.\n<PAGE>\nЯ вижу звёзды почти каждый день, но...\n<PAGE>\nПочему же рядом с тобой у меня так на\nсердце?"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_MARRIAGE_BALLOON_03",
+   "key": "b592e00b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы помогла мне увидеть мир по-новому.\n<PAGE>\nРядом с тобой у меня колотится сердце.\n<PAGE>\nА когда мы едим вместе, еда вкуснее обычного.\n<PAGE>\nБлагодаря тебе я будто каждый день открываю\nчто-то новое. Мой мир становится всё ярче.\n<PAGE>\n<FACE_LOSS>...Интересно, смог ли я сделать то же самое\nдля тебя.\n<PAGE>\n<FACE_LAUGH>...Правда? Слава богу. Ничто не сделает меня\nсчастливее, чем подарить тебе то же, что ты\nподарила мне."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_MARRIAGE_BALLOON_07",
+   "key": "f508eefd",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...<_____MYNAME_____>, можешь закрыть глаза?\n<PAGE>\n<FACE_LAUGH>Мне правда надо объяснять зачем? Ты ведь и\nтак знаешь."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_MARRIAGE_BALLOON_08",
+   "key": "a619900f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\n...Похоже, время вышло. Хотел провести с\nтобой ещё немного времени, но...\n<PAGE>\n<FACE_NORMAL>Видно, ничего не поделаешь. Как говорится,\nсчастливые часов не наблюдают.\n<PAGE>\n<FACE_LAUGH>Слушай, можно я ещё немного подержу тебя за\nруку? ...Спасибо."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_MARRIAGE_BALLOON_09",
+   "key": "00e24c3e",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...В следующем году давай снова смотреть на\nзвёзды вместе. Обещаешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_MARRIAGE_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_B_BALLOON_00",
+   "key": "aaf73660",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТак, шар поднимается! Как волнительно!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_B_BALLOON_01",
+   "key": "1503c609",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, гляди, рядом с нами летят птицы.\nВыходит, вот так они нас всё время и видят.\n<PAGE>\nА там... кролик, что ли? Видишь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_B_BALLOON_02",
+   "key": "a65b9afb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНаверху такой приятный ветерок. Хорошо, что\nпогода прояснилась. Звёзды прекрасно видно."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_B_BALLOON_03",
+   "key": "a53926b1",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗвёздное небо ― чудо. Как оно мерцает и\nсияет, просто красота.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Их же так много, может, хоть одну можно\nвзять домой?\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Ха-ха, и то правда. Но если все возьмут по\nодной, ни одной не останется.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ой. И правда. Тогда не буду брать!\n<PAGE>\nЭй, папа, мама! Посмотрите на те звёзды... Если\nих соединить, получится корова!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>И правда! Ха-ха. Ну что за солнышко.\n<PAGE>\nИ не только <CHILD_NAME>... Ты тоже киваешь с широкой\nулыбкой, <_____MYNAME_____>."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_B_BALLOON_08",
+   "key": "a273eb3e",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nК сожалению, на сегодня всё. Мы снижаемся."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_B_BALLOON_09",
+   "key": "0e4eb38b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНеужели жизнь может быть такой чудесной?\nНа сердце тепло, и я так счастлив.\n<PAGE>\nИ в следующем году, и через год хочу снова\nсмотреть на звёзды втроём."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_B_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_G_BALLOON_00",
+   "key": "3a482bf1",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТак, шар поднимается! Как волнительно."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_G_BALLOON_01",
+   "key": "1503c609",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, гляди, рядом с нами летят птицы.\nВыходит, вот так они нас всё время и видят.\n<PAGE>\nА там... кролик, что ли? Видишь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_G_BALLOON_02",
+   "key": "a65b9afb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНаверху такой приятный ветерок. Хорошо, что\nпогода прояснилась. Звёзды прекрасно видно."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_G_BALLOON_03",
+   "key": "6f03f233",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗвёздное небо ― чудо. Как оно мерцает и\nсияет, просто красота.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Их же так много, может, хоть одну можно\nвзять домой?\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Ха-ха, и то правда. Но если все возьмут по\nодной, ни одной не останется.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Ой. И правда. Тогда не буду брать!\n<PAGE>\nЭй, папа, мама! Посмотрите на те звёзды... Если\nих соединить, получится корова!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>И правда! Ха-ха, ну что за солнышко.\n<PAGE>\nИ не только <CHILD_NAME>... Ты тоже улыбаешься и киваешь,\n<_____MYNAME_____>."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_G_BALLOON_08",
+   "key": "a273eb3e",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nК сожалению, на сегодня всё. Мы снижаемся."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_G_BALLOON_09",
+   "key": "0e4eb38b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНеужели жизнь может быть такой чудесной?\nНа сердце тепло, и я так счастлив.\n<PAGE>\nИ в следующем году, и через год хочу снова\nсмотреть на звёзды втроём."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_CHILD_G_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_BALLOON_00",
+   "key": "e049f618",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы держишься как следует? Это опасно, так что\nне вертись... О, шар поднимается."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_BALLOON_01",
+   "key": "874b0ae4",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗемля всё удаляется. Глянь, какие маленькие\nуже дома.\n<PAGE>\nМы довольно высоко. Посмотри туда, звёзды\nтакие красивые."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_BALLOON_02",
+   "key": "16a76f9a",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКрасота... Всё небо усыпано звёздами.\n<PAGE>\nЯ очень люблю звёзды. Обычно я подолгу\nсмотрю на небо.\n<PAGE>\nНо с воздушного шара всё совсем по-другому."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_BALLOON_03",
+   "key": "7ae8b3c0",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗвёзды такие загадочные.\n<PAGE>\nКогда вижу их блеск на небе, тревога уходит, а\nсил прибавляется.\n<PAGE>\n<FACE_LAUGH>Вообще-то они напоминают мне тебя.\n<PAGE>\nС тобой мне спокойно, как дома.\n<PAGE>\nА твоё весёлое лицо и голос всегда придают\nмне сил."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_BALLOON_08",
+   "key": "45eb41ab",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Похоже, всё подходит к концу. Хотелось ещё\nнемного погулять по небу."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_BALLOON_09",
+   "key": "ab31beeb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nБлагодаря тебе мне сегодня было здорово.\nСпасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Postman_SAMESEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_OTHERSEX_00",
+   "key": "c4f3cbd0",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>? Что такое?"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_OTHERSEX_01",
+   "key": "e7ba4795",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм... Странная ты, раз хочешь провести время\nсо мной.\n<PAGE>\nНет, я не то чтобы против. Просто удивлён...\nПойдём, <_____MYNAME_____>."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_00",
+   "key": "80bc4d36",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOVE>\r\nКхм, ну, полагаю... да. Мы ведь, так сказать,\nпара...\n<PAGE>\n...Я надеялся провести этот день с тобой, так\nчто... э-э... что скажешь?"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_MARRIAGE_00",
+   "key": "aa96ecc0",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПрости, что заставил ждать... Пойдём, <_____MYNAME_____>. Ты\nведь проведёшь вечер со мной...?\n<PAGE>\n<FACE_LOVE>Хоть мы и женаты, мне всё равно нужно немало\nсмелости, чтобы тебя пригласить, знаешь ли."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_00",
+   "key": "01cd898a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>? Что такое?"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_01",
+   "key": "d5a3a48a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм... Странный ты, раз хочешь провести день\nсо мной.\n<PAGE>\n...А, понятно. С девушкой тебе лететь нельзя,\nвот и...\n<PAGE>\nНет, я вовсе не против. Просто застал\nврасплох... Пойдём, <_____MYNAME_____>."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_02",
+   "key": "01cd898a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>? Что такое?"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_03",
+   "key": "34fc9621",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм... Странный ты, раз хочешь провести день\nсо мной.\n<PAGE>\nНет, я вовсе не против. Просто застал\nврасплох... Пойдём, <_____MYNAME_____>."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_OTHERSEX_BALLOON_00",
+   "key": "abd6a6b0",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНе высовывайся так, это опасно. Держись за\nпоручень."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_OTHERSEX_BALLOON_01",
+   "key": "b06aae53",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм, мы поднялись довольно высоко. Взгляни\nтуда."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_OTHERSEX_BALLOON_02",
+   "key": "5d793b41",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКакой прекрасный вид.\n<PAGE>\n...Хм? Ты неважно выглядишь. Только не\nговори, что это высотная болезнь."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_OTHERSEX_BALLOON_03",
+   "key": "ba9ba423",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\n...Просто ещё не привыкла летать на\nвоздушном шаре? А, вот оно что. Не пугай меня\nтак.\n<PAGE>\n<FACE_NORMAL>Честно говоря... в моём родном городе тоже не\nбыло традиции летать на воздушных шарах.\n<PAGE>\nПоначалу и я не был уверен, стоит ли садиться,\nно со временем привыкаешь.\n<PAGE>\n...Держись за поручни и смотри на вид. Это\nтебя отвлечёт.\n<PAGE>\n<FACE_LAUGH>Для меня это тоже приятная смена обстановки.\n<PAGE>\nОбычно я люблю проводить время в\nодиночестве, но... с тобой я не против."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_OTHERSEX_BALLOON_08",
+   "key": "5029b6ea",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПохоже, звонят колокола. Ты насмотрелась на\nвид?\n<PAGE>\nПревосходно. Возвращаемся на землю."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_OTHERSEX_BALLOON_09",
+   "key": "e35889b1",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧестно говоря, сначала мне не очень хотелось\nподниматься. Но в итоге день прошёл хорошо.\n<PAGE>\n<FACE_LAUGH>Возможно, благодаря тебе. Благодарю, <_____MYNAME_____>."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_OTHERSEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_BALLOON_00",
+   "key": "74dfa127",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...Рад, что тебе, похоже, весело. Но не\nвысовывайся так, это опасно. Отойди немного."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_BALLOON_01",
+   "key": "cd0b39bf",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nМы поднялись довольно высоко. Взгляни, <_____MYNAME_____>."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_BALLOON_02",
+   "key": "da8ab0ce",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКакое потрясающее звёздное небо... Хоть и\nночь, а почти слепит."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_BALLOON_03",
+   "key": "2b0a5b4a",
+   "ru": "Молча смотреть ему в лицо"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_BALLOON_04",
+   "key": "1c1d47e1",
+   "ru": "Нежно взять его за руку"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_BALLOON_05",
+   "key": "49709f55",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nЧто такое, <_____MYNAME_____>? Ты покраснела... Только не\nговори, что тебе плохо?!\n<PAGE>\n<FACE_NORMAL>Дай взгляну... Хм, пульс немного учащён...\nТемпература... Кроме того, что лицо горячее,\nдругих проблем не вижу.\n<PAGE>\nС дыханием всё в порядке. Похоже, ничего\nстрашного.\n<PAGE>\n...Что такое? Почему ты так сердито на меня\nсмотришь?\n<PAGE>\n<FACE_LOSS>Ох! Опасно вот так в меня вцепляться...\n<PAGE>\nНу и хлопотная же ты. Как мне понять, в чём\nдело, если ты молчишь?\n<PAGE>\n<FACE_LAUGH>Хех... Похоже, я тебя немного подразнил. Ну\nже, подними голову."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_BALLOON_06",
+   "key": "26082084",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nЧто такое, <_____MYNAME_____>? ...Только не говори, что тебе\nплохо?!\n<PAGE>\n<FACE_LOVE>...Ты хочешь, чтобы я... погладил тебя по\nголове, потому что хочешь почувствовать моё\nтепло?\n<PAGE>\nВ-вот как... Раз так, я буду рад исполнить.\n<PAGE>\n<FACE_NORMAL>...Не хочу, чтобы ты думала обо мне хуже, но\nя не очень люблю прикасаться к людям... Это\nкажется негигиеничным.\n<PAGE>\nНо к тебе я прикоснусь без колебаний. Более\nтого, я не могу удержаться.\n<PAGE>\n<FACE_LOVE>Эту перемену во мне совершила ты...\nПонимаешь, как ты мне дорога...?"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_BALLOON_07",
+   "key": "662a01bc",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOVE>\r\n...Можешь закрыть глаза?"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_BALLOON_08",
+   "key": "cdde088b",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOVE>\r\nПора... Не хочу тебя отпускать, но ничего не\nподелаешь.\n<PAGE>\nПозволь хотя бы держать тебя за руку, пока не\nспустимся."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_BALLOON_09",
+   "key": "3e2218ee",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nТолько благодаря тебе я так чудесно провёл\nвремя.\n<PAGE>\n...Если получится, давай придём сюда снова.\nТолько вдвоём."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_LOVER_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_MARRIAGE_BALLOON_00",
+   "key": "74dfa127",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\n...Рад, что тебе, похоже, весело. Но не\nвысовывайся так, это опасно. Отойди немного."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_MARRIAGE_BALLOON_01",
+   "key": "cd0b39bf",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nМы поднялись довольно высоко. Взгляни, <_____MYNAME_____>."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_MARRIAGE_BALLOON_02",
+   "key": "18b8523f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nКакое потрясающее звёздное небо... Хоть и\nночь, а почти слепит."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_MARRIAGE_BALLOON_03",
+   "key": "c83639ab",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nНу же, опасно так высовываться из корзины. Я\nже только что говорил.\n<PAGE>\n<FACE_NORMAL>Ох... Ты просто неисправима.\n<PAGE>\nВидимо, любоваться видом ты сможешь,\nтолько если я тебя обниму, да?\n<PAGE>\n...Думаешь, я сегодня особенно смел?\n<PAGE>\n<FACE_LAUGH>Конечно. Сегодня мы только вдвоём. С чего\nмне сдерживаться?\n<PAGE>\nТы... прекрасна в лунном свете.\n<PAGE>\n<FACE_LOVE>Не только ты не любуешься звёздами. Я не могу\nотвести от тебя глаз."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_MARRIAGE_BALLOON_07",
+   "key": "e9f4247e",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOVE>\r\n...Закрой глаза."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_MARRIAGE_BALLOON_08",
+   "key": "c70b65c4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nПора... Не хочу тебя отпускать, но ничего не\nподелаешь.\n<PAGE>\n<FACE_LAUGH>Продолжим, когда вернёмся домой."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_MARRIAGE_BALLOON_09",
+   "key": "baafc8a9",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nСпасибо. Только благодаря тебе я так чудесно\nпровёл время.\n<PAGE>\n...Помнишь, что я сказал? Хорошо. Скорее бы\nдомой."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_MARRIAGE_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_B_BALLOON_00",
+   "key": "b0c04f70",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\n<CHILD_NAME>, не высовывайся так, это опасно. Держись за\nпоручень."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_B_BALLOON_01",
+   "key": "6bac22b3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nХм, мы поднялись довольно высоко. Взгляните,\nвы двое."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_B_BALLOON_02",
+   "key": "18b8523f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nКакое потрясающее звёздное небо... Хоть и\nночь, а почти слепит."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_B_BALLOON_03",
+   "key": "550abea5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nИ вниз посмотрите. Мы только что стояли там,\nа теперь земля такая маленькая.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>У-у, мне ничего внизу не видно. Папа, подними\nменя?\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Хех... Ладно, так уж и быть. Только не\nвертись, это опасно... Опля.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ура! Как высоко! ...Ух ты, правда! Видно наш\nдом! Мама, смотри!\n<PAGE>\nХе-хе-хе. Папа с мамой всегда так заняты на\nработе, мы давно так не гуляли!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>...Верно. Похоже, тебе с нами было одиноко, <CHILD_NAME>.\n<PAGE>\nВ следующий выходной проведём его втроём.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ура-а! Жду не дождусь! Обещаете!"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_B_BALLOON_08",
+   "key": "b82cf949",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЗвонит колокол. К сожалению, время вышло...\nПойдёмте домой."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_B_BALLOON_09",
+   "key": "ebd5da14",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nДавно мне не было так хорошо с вами двумя.\n<PAGE>\n...И, конечно, я помню наше обещание. Скоро\nсделаем что-нибудь вместе."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_B_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_G_BALLOON_00",
+   "key": "b0c04f70",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\n<CHILD_NAME>, не высовывайся так, это опасно. Держись за\nпоручень."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_G_BALLOON_01",
+   "key": "6bac22b3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nХм, мы поднялись довольно высоко. Взгляните,\nвы двое."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_G_BALLOON_02",
+   "key": "18b8523f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nКакое потрясающее звёздное небо... Хоть и\nночь, а почти слепит."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_G_BALLOON_03",
+   "key": "550abea5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nИ вниз посмотрите. Мы только что стояли там,\nа теперь земля такая маленькая.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_SAD>У-у, мне ничего внизу не видно. Папа, подними\nменя?\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Хех... Ладно, так уж и быть. Только не\nвертись, это опасно... Опля.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ура! Как высоко! ...Ух ты, правда! Видно наш\nдом! Мама, смотри!\n<PAGE>\nХе-хе-хе. Папа с мамой всегда так заняты на\nработе, мы давно так не гуляли!\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>...Верно. Похоже, тебе с нами было одиноко, <CHILD_NAME>.\n<PAGE>\nВ следующий выходной проведём его втроём.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Ура-а! Жду не дождусь! Обещаете!"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_G_BALLOON_08",
+   "key": "b82cf949",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЗвонит колокол. К сожалению, время вышло...\nПойдёмте домой."
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_G_BALLOON_09",
+   "key": "ebd5da14",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nДавно мне не было так хорошо с вами двумя.\n<PAGE>\n...И, конечно, я помню наше обещание. Скоро\nсделаем что-нибудь вместе."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_CHILD_G_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_BALLOON_00",
+   "key": "2c8c8828",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНе высовывайся так, это опасно. Держись за\nпоручень."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_BALLOON_01",
+   "key": "b06aae53",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм, мы поднялись довольно высоко. Взгляни\nтуда."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_BALLOON_02",
+   "key": "5d793b41",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКакой прекрасный вид.\n<PAGE>\n...Хм? Ты неважно выглядишь. Только не\nговори, что это высотная болезнь."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_BALLOON_03",
+   "key": "f5c44424",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\n...Просто ещё не привык летать на воздушном\nшаре? А, вот оно что. Не пугай меня так.\n<PAGE>\n<FACE_NORMAL>Честно говоря... в моём родном городе тоже не\nбыло традиции летать на воздушных шарах.\n<PAGE>\nПоначалу и я не был уверен, стоит ли садиться.\nПривыкнешь.\n<PAGE>\n...Держись за поручни и смотри на вид. Это\nтебя отвлечёт."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_BALLOON_08",
+   "key": "1c1866e0",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПохоже, звонят колокола. Насмотрелся на вид?\n<PAGE>\nПревосходно. Возвращаемся на землю."
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_BALLOON_09",
+   "key": "3d37ee06",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧестно говоря, сначала мне не очень хотелось\nподниматься. Но в итоге день прошёл хорошо.\n<PAGE>\n<FACE_LAUGH>Возможно, благодаря тебе. Благодарю."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Doctor_SAMESEX_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_OTHERSEX_00",
+   "key": "fba1a413",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nДа, <_____MYNAME_____>? Что такое?"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_OTHERSEX_01",
+   "key": "f4b36ca4",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nС-со мной? ...Если ты не против, я с радостью\nсоставлю тебе компанию."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_00",
+   "key": "ad253b97",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ просто не могла тебя дождаться, <_____MYNAME_____>, вот и\nпришла сама.\n<PAGE>\n<FACE_LAUGH>Я ждала сегодняшнего дня целую вечность.\nСкорее пойдём!"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_MARRIAGE_00",
+   "key": "c03c366f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nСкорее пойдём, <_____MYNAME_____>.\n<PAGE>\nЯ так ждала сегодняшнего дня."
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_00",
+   "key": "bd7dfa1a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>?"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_01",
+   "key": "efc499fb",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nСо мной?\n<PAGE>\nА, точно. Ты не хочешь, чтобы <CHARANAME0> волновался.\n<PAGE>\n<FACE_LAUGH>Понимаю. Я полечу с тобой. Хи-хи, не\nтерпится."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_01_Wantatan",
+   "key": "3d6fab14",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОх, со мной?\n<PAGE>\nА, понятно. Ты не хочешь, чтобы Вуфио\nволновался.\n<PAGE>\n<FACE_LAUGH>Понимаю. С радостью полечу с тобой! Хи-хи,\nне терпится."
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_02",
+   "key": "111a8ac8",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>?"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_03",
+   "key": "71ab9f88",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nСо мной?\n<PAGE>\n<FACE_LAUGH>Понимаю. Полетим вместе. Хи-хи, не терпится."
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_OTHERSEX_BALLOON_00",
+   "key": "df14d47b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОх, от одной мысли о том, что мы увидим,\nсердце колотится."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_OTHERSEX_BALLOON_01",
+   "key": "a20f3555",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nМы поднялись довольно высоко. Ты как? Не\nстрашно?\n<PAGE>\nКажется, мне кто-то говорил: если боишься\nвысоты, смотри на горизонт..."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_OTHERSEX_BALLOON_02",
+   "key": "74a8c25e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nКак красиво... Будто небо усыпано\nдрагоценными камнями."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_OTHERSEX_BALLOON_03",
+   "key": "66d3dd75",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХм-м... Кажется, мой родной дом где-то там.\n<PAGE>\nА тебе видно город, где ты жил раньше, <_____MYNAME_____>?\n<PAGE>\nПонятно, он очень далеко. А в какой он\nстороне, знаешь?\n<PAGE>\nЗначит, за той горой твой прежний город, <_____MYNAME_____>...\n<PAGE>\nЗнакомства ― такая загадочная штука...\n<PAGE>\nМы так привыкли друг к другу, а ведь\nвстретились здесь, в этом городе...\n<PAGE>\n<FACE_LAUGH>Хи-хи, я рада, что познакомилась с тобой, <_____MYNAME_____>. ♪"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_OTHERSEX_BALLOON_08",
+   "key": "1cf5e550",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nАх, звук колокола... Жаль. Похоже, пора\nспускаться."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_OTHERSEX_BALLOON_09",
+   "key": "011b7a8a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nХи-хи, мне было так весело смотреть с тобой\nна красивый вид. ♪\n<PAGE>\nНу что, вернёмся к остальным?"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_OTHERSEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_BALLOON_00",
+   "key": "57a0a600",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nТак странно лететь на воздушном шаре, когда\nон всё поднимается... Может, поэтому мне\nнемного не по себе.\n<PAGE>\n<FACE_LOSS>Я начинаю беспокоиться, всё ли с нами будет\nхорошо..."
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_BALLOON_01",
+   "key": "7603b30e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nМы поднялись довольно высоко. Даже\nсоседний город видно."
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_BALLOON_02",
+   "key": "9da95fff",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nВоздух здесь такой свежий и бодрящий. Даже\nветер пахнет иначе, чем внизу.\n<PAGE>\nСмотри, <_____MYNAME_____>. Там очень высокое здание!\nИнтересно, что это...\n<PAGE>\n<FACE_NORMAL>...Звёздное небо такое красивое. Будто смотрю\nна картину.\n<PAGE>\n...\n<PAGE>\n<FACE_LOVE>...Э-э, мне немного неловко, когда ты так\nмолчишь, может, скажешь что-нибудь...?"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_BALLOON_03",
+   "key": "2491fdcc",
+   "ru": "Молча смотреть ей в лицо"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_BALLOON_04",
+   "key": "10e1fe30",
+   "ru": "Нежно взять её за руку"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_BALLOON_05",
+   "key": "216faf3c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n...М-мне неловко, когда ты так на меня\nсмотришь... Не дразни меня.\n<PAGE>\nОтчего я так волнуюсь?\n<PAGE>\nТы такой вредный, <_____MYNAME_____>. Как тут не волноваться\nнаедине с тобой.\n<PAGE>\nК тому же сегодня ты даже классней, чем\nобычно...\n<PAGE>\nТак что если ты так на меня смотришь, я,\nконечно же, начну..."
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_BALLOON_06",
+   "key": "a19e285a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nП-пожалуйста, не держи меня так за руку...\n<PAGE>\nПочему...? Ну, в последнее время они\nзагрубели от работы...\n<PAGE>\nУ меня милые руки...? Да ну, неправда...\n<PAGE>\nЭ-это просто у тебя большие руки, вот мои и\nкажутся маленькими! Вот и всё! Точно!\n<PAGE>\nТак и запишем. То есть так оно и есть!\n<PAGE>\nНу вот, <_____MYNAME_____>!\n<PAGE>\nЗато у тебя такие большие и сильные руки, <_____MYNAME_____>, с\nними мне спокойно... Они замечательные."
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_BALLOON_07",
+   "key": "a3f0828b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n...Э-э, можно мне на кое-что понадеяться, <_____MYNAME_____>?"
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_BALLOON_08",
+   "key": "bd266172",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n...Слышен колокол. Уже пора...?\n<PAGE>\nХочу побыть с тобой подольше... Жаль."
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_BALLOON_09",
+   "key": "64fd39d0",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nСпасибо за такой чудесный вечер.\n<PAGE>\n<FACE_LOVE>Если получится, хочу и в следующем году\nпровести праздник с тобой."
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_LOVER_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_MARRIAGE_BALLOON_00",
+   "key": "57a0a600",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nТак странно лететь на воздушном шаре, когда\nон всё поднимается... Может, поэтому мне\nнемного не по себе.\n<PAGE>\n<FACE_LOSS>Я начинаю беспокоиться, всё ли с нами будет\nхорошо..."
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_MARRIAGE_BALLOON_01",
+   "key": "ae7cbd25",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nМы поднялись довольно высоко. Даже\nсоседний город видно."
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_MARRIAGE_BALLOON_02",
+   "key": "9da95fff",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nВоздух здесь такой свежий и бодрящий. Даже\nветер пахнет иначе, чем внизу.\n<PAGE>\nСмотри, <_____MYNAME_____>. Там очень высокое здание!\nИнтересно, что это...\n<PAGE>\n<FACE_NORMAL>...Звёздное небо такое красивое. Будто смотрю\nна картину.\n<PAGE>\n...\n<PAGE>\n<FACE_LOVE>...Э-э, мне немного неловко, когда ты так\nмолчишь, может, скажешь что-нибудь...?"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_MARRIAGE_BALLOON_03",
+   "key": "f077c458",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\n...Да, с тех пор как я тебя встретила, столько\nвсего случилось.\n<PAGE>\nС первой встречи ты всегда был для меня\nкем-то особенным, но...\n<PAGE>\nЕсли бы мне тогда сказали, что я выйду за тебя\nзамуж, интересно, поверила бы я...\n<PAGE>\n<FACE_LAUGH>Хи-хи, нет, скорее мне хочется сказать себе\nпрошлой, что сейчас я самая счастливая\nженщина на свете.\n<PAGE>\nСтранно, да? Хочу похвастаться самой себе. Но\nвот настолько я счастлива, понимаешь?"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_MARRIAGE_BALLOON_07",
+   "key": "b757656b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nХи-хи, мне немного неловко.\n<PAGE>\n...Э-э, можно мне здесь на кое-что\nпонадеяться, <_____MYNAME_____>...?"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_MARRIAGE_BALLOON_08",
+   "key": "4e43dc26",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nМожешь крепко меня обнять...?\n<PAGE>\n<FACE_NORMAL>Вот... достаточно. Спасибо."
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_MARRIAGE_BALLOON_09",
+   "key": "a69c99d4",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nХи-хи, у меня сейчас переполнено сердце. Так\nтепло.\n<PAGE>\nКажется, сейчас я могу свернуть горы."
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_MARRIAGE_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_B_BALLOON_00",
+   "key": "9dc72c50",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nВы оба готовы? Сейчас взлетаем."
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_B_BALLOON_01",
+   "key": "0455590f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЗвёздное небо такое красивое. Смотри, <CHILD_NAME>. Тебе\nхорошо видно?"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_B_BALLOON_02",
+   "key": "a9c9d637",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nВетер пахнет цветами и травой. Может, это\nаромат цветов из соседнего города."
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_B_BALLOON_03",
+   "key": "4da000fd",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nАх, <CHILD_NAME>, не вертись, это опасно.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хоро-о-ошо!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Хороший ответ. Ты у меня такое умное\nсолнышко.\n<PAGE>\nСмотри! Птицы улетают вдаль.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>А им не страшно летать в темноте?\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Может быть, но некоторые птицы в полёте\nнаходят путь по звёздам.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Правда? Здорово! Интересно, куда они летят.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Хи-хи, это перелётные птицы, так что, может,\nпереселяются в другую страну.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Переселяются, значит...? Вот бы птицы нашли\nтам много новых друзей.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Да, наверняка найдут много друзей. ♪"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_B_BALLOON_08",
+   "key": "47da6f75",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nАх, это колокол... К сожалению, наше\nпутешествие по небу подходит к концу."
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_B_BALLOON_09",
+   "key": "00ba60f9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nКакой волшебный вид. Сегодня у нас появилось\nвоспоминание, которое я никогда не забуду."
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_B_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_G_BALLOON_00",
+   "key": "9dc72c50",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nВы оба готовы? Сейчас взлетаем."
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_G_BALLOON_01",
+   "key": "0455590f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЗвёздное небо такое красивое. Смотри, <CHILD_NAME>. Тебе\nхорошо видно?"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_G_BALLOON_02",
+   "key": "6e6a557f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nВетер несёт аромат цветов и травы. Может,\nэто пахнут цветы, распустившиеся в соседнем\nгороде."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_G_BALLOON_03",
+   "key": "4da000fd",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nАх, <CHILD_NAME>, не вертись, это опасно.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_LAUGH>Хоро-о-ошо!\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Хороший ответ. Ты у меня такое умное\nсолнышко.\n<PAGE>\nСмотри! Птицы улетают вдаль.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>А им не страшно летать в темноте?\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Может быть, но некоторые птицы в полёте\nнаходят путь по звёздам.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Правда? Здорово! Интересно, куда они летят.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Хи-хи, это перелётные птицы, так что, может,\nпереселяются в другую страну.\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Переселяются, значит...? Вот бы птицы нашли\nтам много новых друзей.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Да, наверняка найдут много друзей. ♪"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_G_BALLOON_08",
+   "key": "47da6f75",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nАх, это колокол... К сожалению, наше\nпутешествие по небу подходит к концу."
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_G_BALLOON_09",
+   "key": "00ba60f9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nКакой волшебный вид. Сегодня у нас появилось\nвоспоминание, которое я никогда не забуду."
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_CHILD_G_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_BALLOON_00",
+   "key": "347351e5",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nХи-хи, от одной мысли о том, что мы увидим,\nсердце колотится."
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_BALLOON_01",
+   "key": "fec697b3",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nМы поднялись довольно высоко. Ты как? Не\nстрашно?"
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_BALLOON_02",
+   "key": "4ca83271",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nКажется, мне кто-то говорил: если боишься\nвысоты, смотри на горизонт..."
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_BALLOON_03",
+   "key": "66d3dd75",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХм-м... Кажется, мой родной дом где-то там.\n<PAGE>\nА тебе видно город, где ты жила раньше, <_____MYNAME_____>?\n<PAGE>\nПонятно, он очень далеко. А в какой он\nстороне, знаешь?\n<PAGE>\nЗначит, за той горой твой прежний город, <_____MYNAME_____>...\n<PAGE>\nЗнакомства ― такая загадочная штука...\n<PAGE>\nМы так привыкли друг к другу, а ведь\nвстретились здесь, в этом городе...\n<PAGE>\n<FACE_LAUGH>Хи-хи, я рада, что познакомилась с тобой, <_____MYNAME_____>. ♪"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_BALLOON_08",
+   "key": "1cf5e550",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nАх, звук колокола... Жаль. Похоже, пора\nспускаться."
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_BALLOON_09",
+   "key": "fe59c9a8",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nХи-хи, мне было так весело болтать с тобой\nсегодня, <_____MYNAME_____>. ♪\n<PAGE>\nЕсли ты не против, я с радостью составлю тебе\nкомпанию когда угодно. Поболтаем ещё,\nпо-девичьи."
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_Florist_SAMESEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
    "n": 181,
@@ -56,6 +1288,13 @@
    "id": "MES_EV_FES_A_FRIENDSHIP_GO_HOME_02",
    "key": "f22e0cbd",
    "ru": "Нет"
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_EV_FES_A_FRIENDSHIP_GO_CROSSROAD_00",
+   "key": "f9737114",
+   "ru": "Пойти на перекрёсток?"
   }
  ]
 }

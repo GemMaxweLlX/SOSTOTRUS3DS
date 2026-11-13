@@ -2,6 +2,13 @@
  "file": "Festival_J_Friendship",
  "entries": [
   {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_02",
+   "key": "d9df44de",
+   "ru": "(Может, пригласить кого-то\nпротивоположного пола? Хм, кого бы\nвыбрать?)"
+  },
+  {
    "n": 3,
    "f": 2,
    "id": "MES_EV_FES_J_FRIENDSHIP_03",
@@ -35,6 +42,188 @@
    "id": "MES_EV_FES_J_FRIENDSHIP_12",
    "key": "1a43b61b",
    "ru": "..."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_OTHERSEX_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_04",
+   "key": "2b0a5b4a",
+   "ru": "Молча смотреть ему в лицо"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_LOVER_STAR_05",
+   "key": "1c1d47e1",
+   "ru": "Нежно взять его за руку"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Chaser_SAMESEX_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_OTHERSEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_04",
+   "key": "2b0a5b4a",
+   "ru": "Молча смотреть ему в лицо"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_STAR_05",
+   "key": "1c1d47e1",
+   "ru": "Нежно взять его за руку"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_LOVER_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_MARRIAGE_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_B_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_CHILD_G_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Apprentice_SAMESEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_OTHERSEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_04",
+   "key": "2491fdcc",
+   "ru": "Молча смотреть ей в лицо"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_LOVER_STAR_05",
+   "key": "10e1fe30",
+   "ru": "Нежно взять её за руку"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_B_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_CHILD_G_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_TeaGirl_SAMESEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_OTHERSEX_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_LOVER_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_MARRIAGE_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_B_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Teacher_CHILD_G_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_MARRIAGE_MONOLOGUE",
+   "key": "e3b0f57d",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_B_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "MES_EV_FES_J_FRIENDSHIP_Inari_CHILD_G_MONOLOGUE",
+   "key": "c7713da3",
+   "ru": "(Чудесный был праздник... Надеюсь, в\nследующем году снова приду.)"
   },
   {
    "n": 310,
