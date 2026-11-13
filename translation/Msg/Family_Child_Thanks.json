@@ -1,0 +1,740 @@
+{
+ "file": "Family_Child_Thanks",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_00_Child_Boy",
+   "key": "dcba0d98",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_SAD>\r\nХм-м-м..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_02_Child_Boy",
+   "key": "c3e947f5",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nЗнаешь что? Хочу сделать что-нибудь\nособенное. Пусть <PARENT> обрадуется!\n<PAGE>\nСтолько работы каждый день... Хочу сказать\nспасибо как-нибудь здорово!\n<PAGE>\nНо не знаю, что придумать! Как думаешь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_04_Child_Boy",
+   "key": "c943e573",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nДа! Это то, что надо!\n<PAGE>\nПриготовлю огромный обед. Будет\nсупервкусно!\n<PAGE>\nНо сначала поспрашиваю, что лучше\nприготовить."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_05_Child_Boy",
+   "key": "b8afad7f",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\n<MOJI0>. Пойдёшь со мной?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_06_Child_Boy",
+   "key": "5b47d028",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nУра! Пошли!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_09_Child_Boy",
+   "key": "778dd58b",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nБрэд! Марко! Вы же отлично готовите. Научите\nменя какому-нибудь рецепту?\n<PAGE>\nХочу приготовить что-нибудь полезное и очень\nвкусное. Пусть <PARENT> порадуется!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_13_Child_Boy",
+   "key": "9aa15c5a",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nЗдравствуйте, Гиндзиро! Можно спросить?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_18_Child_Boy",
+   "key": "e881d875",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_SAD>\r\nОх, идти дольше, чем казалось...\n<PAGE>\nНо уже почти пришли!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_24_Child_Boy",
+   "key": "3e0ba5cd",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_ANGRY>\r\nТс-с-с! Пока ничего не говори!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_27_Child_Boy",
+   "key": "821d2420",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nСегодня хочу сказать спасибо! <PARENT>, это особенное\nугощение для тебя!\n<PAGE>\nКартофельный салат, салат из огурцов с умэ,\nтарамасалата...\n<PAGE>\nЖители города научили меня классным\nрецептам!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_29_Child_Boy",
+   "key": "82a1e062",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nНравится? Ура!\n<PAGE>\n<PARENT>, спасибо, что так много работаешь! И что\nвсегда со мной играешь!\n<PAGE>\nЕшь побольше, чтобы сил и здоровья было\nмного!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_00_Child_Girl",
+   "key": "dcba0d98",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_SAD>\r\nХм-м-м..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_02_Child_Girl",
+   "key": "6db238fb",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nХочу сегодня сделать что-нибудь приятное.\nПусть <PARENT> порадуется!\n<PAGE>\nСтолько работы каждый день... Хочу подарить\nчто-нибудь особенное, чтобы было радостно.\n<PAGE>\nНо ничего не придумывается! Что делать?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_04_Child_Girl",
+   "key": "b778a273",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nДа! Особенный обед ― это то, что надо!\n<PAGE>\nНаучусь готовить что-нибудь супервкусное.\n<PAGE>\nМожет, у жителей города есть идеи..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_05_Child_Girl",
+   "key": "5336c538",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\n<MOJI0>. Ты ведь пойдёшь со мной?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_06_Child_Girl",
+   "key": "c70be3d3",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nХорошо! Пошли!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_09_Child_Girl",
+   "key": "5b3a1acf",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_NORMAL>\r\nБрэд! Марко! Вы же отлично готовите. Научите\nменя какому-нибудь рецепту?\n<PAGE>\nЧто бы такое приготовить полезное и очень\nвкусное? Пусть <PARENT> порадуется!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_13_Child_Girl",
+   "key": "2b4a9c8b",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nЗдравствуйте, Гиндзиро! У меня к вам вопрос!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_18_Child_Girl",
+   "key": "9ac50a66",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_SAD>\r\nОх, идти дольше, чем казалось...\n<PAGE>\nНо уже почти пришли!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_24_Child_Girl",
+   "key": "3e0ba5cd",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_ANGRY>\r\nТс-с-с! Пока ничего не говори!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_27_Child_Girl",
+   "key": "7976c550",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nСегодня хочу сказать спасибо! <PARENT>, это особенное\nугощение для тебя!\n<PAGE>\nКартофельный салат, салат из огурцов с умэ,\nтарамасалата...\n<PAGE>\nЖители города научили меня куче классных\nрецептов!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_29_Child_Girl",
+   "key": "3d629f94",
+   "ru": "<FACE_CHILD><POS_LEFT><FACE_LAUGH>\r\nНравится? Ура-а-а!\n<PAGE>\n<PARENT>, спасибо, что так много работаешь! И что\nвсегда со мной играешь!\n<PAGE>\nЕшь побольше, чтобы сил и здоровья было\nмного!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_08",
+   "key": "9f9e2ac1",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nПривет, <CHILD_NAME>. Нечасто тебя тут увидишь без\nродителей.\n<PAGE>\n<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>Впечатляет ― прийти сюда одному. Чем можем\nпомочь?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_10",
+   "key": "e1dcf4d5",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nА, понятно...!\n<PAGE>\nЧто ж, если собираешься готовить, начинать\nнадо с чего-то простого.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>На кухне нам ведь несчастные случаи ни к чему.\n<PAGE>\nИ блюдо должно быть полезным..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_11",
+   "key": "e36297df",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nДа, верно.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>У меня есть как раз то, что нужно!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_12",
+   "key": "d690fd65",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <CHILD_NAME>! Гуляешь?\n<PAGE>\nВ чайную в одиночку? У тебя хороший вкус!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_14",
+   "key": "77656d64",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nКонечно! Спрашивай. Может, у меня даже\nнайдётся ответ, ха-ха!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_15",
+   "key": "818edaa1",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nО? Так вот почему моё ненаглядное внучатко\nпроделал такой путь, чтобы меня повидать!\n<PAGE>\nНо конечно! Спрашивай. Может, у меня даже\nнайдётся ответ, ха-ха!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_16",
+   "key": "ab41c58a",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nА, понятно. Хочешь угостить кое-кого. Ну, <PARENT>\nбудет в восторге.\n<PAGE>\nРаз ты ещё совсем кроха, лучше взять\nчто-нибудь простое. Не хватало ещё\nпораниться.\n<PAGE>\nЧто-нибудь простое, но питательное...\nХм-м-м..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_17",
+   "key": "28c4bc14",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nДа, думаю, это будет идеально!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_19",
+   "key": "3ab896f3",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nАлоха, <CHILD_NAME>. Что тебя привело?\n<PAGE>\n<FACE_CHILD><POS_LEFT><FACE_NORMAL>Привет, Каолила! Хочу у вас кое-что\nспросить..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_20",
+   "key": "9ef42649",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nУ меня? Конечно! Тем более после такого пути.\n<PAGE>\nЧто тебя волнует?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_21",
+   "key": "e523be2a",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, это та-а-ак мило!\n<PAGE>\nПовезло же <_____MYNAME_____>.\n<PAGE>\nЗначит, что-то простое и полезное, да? Тогда\nя знаю, что посоветовать."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_22",
+   "key": "6386fae5",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nДавай я прямо сейчас покажу, как это\nготовить...\n<PAGE>\n...и <_____MYNAME_____> получит особенный обед!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_30",
+   "key": "3d4cc8d4",
+   "ru": "(Угощение от <CHILD_NAME> было восхитительным! Какой\nнеожиданный подарок!)"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_01_Postman",
+   "key": "479557fd",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nЭй, <CHILD_NAME>. О чём думаешь?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_03_Postman",
+   "key": "2e083384",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНу, будь я на твоём месте, попробовал бы\nчто-нибудь приготовить.\n<PAGE>\nУверен, <PARENT> будет в восторге от чего-нибудь\nвкусного и полезного."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_07_Postman",
+   "key": "2d9e9abe",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOVE>\r\nЧто ж, будет интересно посмотреть, что из\nэтого выйдет!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_23_Postman",
+   "key": "39d7653e",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>. У <CHILD_NAME> сегодня столько дел..."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_25_Postman",
+   "key": "7736edaf",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, не волнуйся. Я ничего не сказал."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_26_Postman",
+   "key": "6eff9e63",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nПохоже, это пока секрет! Но скоро всё будет\nготово."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_28_Postman",
+   "key": "7d2a8fb6",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nКак мило, что все помогли. Хорошо, что у меня\nсалатное настроение!\n<PAGE>\nПолезно и достаточно просто для <CHILD_NAME>. Отличный\nвыбор.\n<PAGE>\nДолжен сказать...\n<PAGE>\nУ <CHILD_NAME> всё получилось. Собрать всё это ―\nнастоящее достижение."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_01_Doctor",
+   "key": "c01dd286",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nВсё в порядке, <CHILD_NAME>? Ты хорошо себя чувствуешь?"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_03_Doctor",
+   "key": "4fca98ca",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nТогда, пожалуй, могу предложить приготовить\nчто-нибудь.\n<PAGE>\nУверен, <PARENT> оценит что-нибудь полезное и\nпитательное."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_07_Doctor",
+   "key": "7dcb13ce",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOVE>\r\nИнтересно, хорошая ли это была идея..."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_23_Doctor",
+   "key": "39325065",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>. Если ищешь <CHILD_NAME>..."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_25_Doctor",
+   "key": "208d2626",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПрошу прощения. Я ни слова не скажу."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_26_Doctor",
+   "key": "11dc5598",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПохоже, это пока секрет. Но, уверен, скоро ты\nвсё узнаешь."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_28_Doctor",
+   "key": "d73e84e5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nРад, что столько людей вызвались помочь. Не\nслишком разнообразно, зато весьма\nпитательно.\n<PAGE>\nОчень разумно было посоветовать <CHILD_NAME> простые, но\nполезные блюда.\n<PAGE>\nК тому же у <CHILD_NAME> всё получилось без чьей-либо\nпомощи. Весьма впечатляет. Весьма!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_01_Chaser",
+   "key": "1a42c53f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <CHILD_NAME>. Что-то беспокоит?"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_03_Chaser",
+   "key": "fde4fda4",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nХм, понятно. Что ж, может, попробуешь\nприготовить что-нибудь?\n<PAGE>\nУверен, <PARENT> будет рада, если угощение будет от\nтебя."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_07_Chaser",
+   "key": "232035b8",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOVE>\r\nНадеюсь, это была хорошая идея..."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_23_Chaser",
+   "key": "ef159122",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>. <CHILD_NAME> сейчас..."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_25_Chaser",
+   "key": "e1444a9b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха. Прости. Я ничего не скажу!"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_26_Chaser",
+   "key": "d999013b",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПохоже, это сюрприз. Но скоро <CHILD_NAME> всё тебе\nпокажет."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_28_Chaser",
+   "key": "65ec1118",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЖители города очень заботливо помогли. Три\nвкусных салата!\n<PAGE>\nИ приготовить их было легко. Никаких\nпроисшествий на кухне!\n<PAGE>\nЧестно говоря, мне хотелось помочь, но я так\nгоржусь, что у <CHILD_NAME> всё получилось самостоятельно."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_01_Apprentice",
+   "key": "044ecdbf",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nО, эй, <CHILD_NAME>! О чём думаешь?"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_03_Apprentice",
+   "key": "39d3b2d1",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nНу... может, приготовишь что-нибудь?\n<PAGE>\nЕсли сделаешь что-нибудь вкусное и полезное,\nспорим, <PARENT> будет в восторге!"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_07_Apprentice",
+   "key": "e40e2f85",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nХм-м-м, может, стоит волноваться? Не, всё\nбудет нормально."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_23_Apprentice",
+   "key": "197091a7",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>. Сейчас <CHILD_NAME>..."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_25_Apprentice",
+   "key": "7a9f7681",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nОй! Виноват. Но я ничего не сказал, так что не\nволнуйся."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_26_Apprentice",
+   "key": "98ab5a86",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nНу, это пока секрет, но подожди пару минут.\nСкоро будет готово!"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_28_Apprentice",
+   "key": "74fa7404",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nХа-ха! Получился настоящий салатный пир!\n<PAGE>\nНе то чтобы это плохо! Всё полезное и\nнастолько простое, что для <CHILD_NAME> никаких проблем.\n<PAGE>\nСегодня <CHILD_NAME> ― большой молодец. Я так горжусь!"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_01_Craftman",
+   "key": "912c12f0",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось, <CHILD_NAME>?"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_03_Craftman",
+   "key": "715af934",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЯсно, ясно. Знаешь, что было бы здорово?\nПриготовить еду!\n<PAGE>\nЧто-нибудь вкусное и полезное, чтобы <PARENT>\nнабралась сил, да?"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_07_Craftman",
+   "key": "efcb8859",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nНадеюсь, малыш справится сам..."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_23_Craftman",
+   "key": "1665bc33",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>! Ни за что не угадаешь, чем\nзанят <CHILD_NAME>!"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_25_Craftman",
+   "key": "82852fc4",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nЛадно, ладно! Прости! Но не волнуйся, я ничего\nне скажу."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_26_Craftman",
+   "key": "0ab49997",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, придётся подождать, но скоро всё\nузнаешь!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_28_Craftman",
+   "key": "667317d3",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПо-моему, всё вышло отлично. Хороший салат\n― это сила!\n<PAGE>\nПохоже, все очень старались научить <CHILD_NAME> полезным\nи простым рецептам, да?\n<PAGE>\nЯ очень горжусь, старанием <CHILD_NAME>. Вот молодчина."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_01_Florist",
+   "key": "c9327a73",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nО, <CHILD_NAME>. О чём думаешь?"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_03_Florist",
+   "key": "044c8161",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nНу, может, попробуешь что-нибудь\nприготовить?\n<PAGE>\nДумаю, полезный обед ― как раз то, что\nнужно. <PARENT> его заслужил.\n<PAGE>\nДа, думаю, он будет в восторге."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_07_Florist",
+   "key": "f8ac0d3d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nНу вот! Надеюсь, у <CHILD_NAME> всё получится."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_23_Florist",
+   "key": "e3da4d9a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nС возвращением, <_____MYNAME_____>!\n<PAGE>\nЕсли ищешь <CHILD_NAME>..."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_25_Florist",
+   "key": "e0c5faa8",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОй! Не волнуйся. Я не испорчу сюрприз."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_26_Florist",
+   "key": "8dc26c31",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nСкоро всё будет готово. Подожди секундочку,\nладно?"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_28_Florist",
+   "key": "d8a384a9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nМило, что помогли столько людей, но забавно,\nчто всё ― салаты.\n<PAGE>\nЗато полезно и достаточно просто: <CHILD_NAME> всё по\nсилам и без помощи.\n<PAGE>\nВообще-то впечатляет! Столько усилий. И всё\nэто для тебя."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_01_TeaGirl",
+   "key": "46638652",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>? Всё в порядке? Хочешь о чём-то поговорить?"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_03_TeaGirl",
+   "key": "9e70a2dd",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nА, понятно! Ну, как насчёт приготовить\nчего-нибудь?\n<PAGE>\nУверена, папа будет в восторге, если сделаешь\nчто-то специально для него! ♪"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_07_TeaGirl",
+   "key": "4b138757",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nУх, как быстро умчались. Интересно, что\nпридумают...?"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_23_TeaGirl",
+   "key": "f71bff22",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>! Угадаешь, чем занят <CHILD_NAME>?"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_25_TeaGirl",
+   "key": "97af2660",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПрости, прости! Ладно, молчу!"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_26_TeaGirl",
+   "key": "71f4c091",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nПока не скажу, но подожди минутку ― и скоро\nсам всё узнаешь!"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_28_TeaGirl",
+   "key": "dbc0a2f2",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nХе-хе. Одни салаты, да?\n<PAGE>\nЛогично! Они полезные и простые, так что для <CHILD_NAME>\nникакого труда.\n<PAGE>\nНо всё равно столько стараний! Я так горжусь."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_01_Teacher",
+   "key": "c9deee99",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>. Что-то случилось?"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_03_Teacher",
+   "key": "7895a521",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nА, понятно. Может, попробуешь что-нибудь\nприготовить?\n<PAGE>\nУверена, папа будет очень рад, если ты\nприготовишь что-то специально для него, <CHILD_NAME>."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_07_Teacher",
+   "key": "fa5a66c8",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nНадеюсь, всё будет хорошо и без взрослых..."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_23_Teacher",
+   "key": "85ea2c2a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>. С возвращением.\n<PAGE>\n<CHILD_NAME> сейчас..."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_25_Teacher",
+   "key": "751cfdcb",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nАх, прошу прощения. Больше ни слова."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_26_Teacher",
+   "key": "d3896603",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХа-ха. Похоже, <CHILD_NAME> хочет рассказать обо всём\nлично."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_28_Teacher",
+   "key": "0657d76d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, похоже, жители города все предложили\nрецепты салатов.\n<PAGE>\nОни специально выбрали простые и полезные\nблюда, чтобы у <CHILD_NAME> не было трудностей.\n<PAGE>\nНо наш ребёнок, безусловно, очень постарался.\nДостойно восхищения."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_01_TwinOlder",
+   "key": "a5118e10",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <CHILD_NAME>! О чём думаешь?"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_03_TwinOlder",
+   "key": "549596e0",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nА, поняла. Так приготовь что-нибудь! Это у нас\nсемейное!\n<PAGE>\nСпорим, <PARENT> будет в восторге!"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_07_TwinOlder",
+   "key": "3febff59",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nТолько пятки сверкают! Вот это запал!"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_23_TwinOlder",
+   "key": "9f33cd2b",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>!\n<PAGE>\nУ <CHILD_NAME> сегодня столько дел!"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_25_TwinOlder",
+   "key": "6ea92739",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nПрости, прости! ♪ Не волнуйся, буду держать\nрот на замке, ха-ха."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_26_TwinOlder",
+   "key": "e4e0eec4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНу, раз <CHILD_NAME> говорит ждать, значит, ждём!"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_28_TwinOlder",
+   "key": "03acd5d5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nХа! Одни салаты! Представляешь?!\n<PAGE>\nНаверное, давали рецепты, с которыми <CHILD_NAME>\nсправится легко и безопасно.\n<PAGE>\nА я даже ни капельки не помогала! Мы\nвырастили очень старательного ребёнка!"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_01_TwinYounger",
+   "key": "725e0ed5",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<CHILD_NAME>? О чём думаешь?"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_03_TwinYounger",
+   "key": "6f744a4c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНу... Может, приготовишь что-нибудь?\n<PAGE>\nУверена, <PARENT> обрадуется."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_07_TwinYounger",
+   "key": "2177f2f0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nТолько пятки сверкают..."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_23_TwinYounger",
+   "key": "51d6ea3d",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>. С возвращением.\n<PAGE>\nСейчас <CHILD_NAME>..."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_25_TwinYounger",
+   "key": "0bc11d1a",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПрости. Не волнуйся, я ничего не скажу."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_26_TwinYounger",
+   "key": "eadf9722",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, придётся немного подождать..."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_CHILD_THANKS_28_TwinYounger",
+   "key": "767cfb90",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nИтак... три салата.\n<PAGE>\nПолезно. Вкусно. Просто. Безопасно. Хороший\nвыбор для <CHILD_NAME>.\n<PAGE>\n<CHILD_NAME> ― молодец: всё сделано без помощи. Можно\nгордиться, <_____MYNAME_____>."
+  }
+ ]
+}

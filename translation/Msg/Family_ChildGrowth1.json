@@ -1,0 +1,460 @@
+{
+ "file": "Family_ChildGrowth1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Postman_00",
+   "key": "37958f14",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНу-ка, <CHILD_NAME>. Ух ты, как здорово у тебя получается!\nНу что за прелесть!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Postman_01",
+   "key": "811556f3",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>. Глянь-ка, что у меня тут.\n<PAGE>\nСмотри, <CHILD_NAME>! Это твоя мама!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH><PARENT>!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Postman_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Postman_03",
+   "key": "f5fb602d",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНаш малыш ― такое солнышко. Я прямо таю.\n<PAGE>\nУже ползает, понемногу слова подхватывает...\nПохоже, растёт как надо."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Postman_04",
+   "key": "a2b292d9",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Doctor_00",
+   "key": "5aba9a64",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nОчень хорошо, <CHILD_NAME>. Весьма впечатляюще! Вот так\nи надо!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Doctor_01",
+   "key": "54611806",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nО, доброе утро, <_____MYNAME_____>. Взгляни-ка.\n<PAGE>\nПокажи маме, что ты умеешь, <CHILD_NAME>!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH><PARENT>!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Doctor_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Doctor_03",
+   "key": "925f8578",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоразительно, не правда ли?\n<PAGE>\nПолзает, запоминает слова... Это измеримый\nуспех! Я очень доволен развитием нашего\nребёнка."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Doctor_04",
+   "key": "a2b292d9",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Chaser_00",
+   "key": "d94f120a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nМолодец, <CHILD_NAME>! Отлично получилось! ♪ Иди к папе!\n♪\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Chaser_01",
+   "key": "3c30b341",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nО, доброе утро, <_____MYNAME_____>. Ты должна это увидеть.\n<PAGE>\nСмотри, <CHILD_NAME>! Мама пришла! ♪\n<PAGE>\n<FACE_CHILD><FACE_LAUGH><PARENT>!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Chaser_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Chaser_03",
+   "key": "7e27eed1",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nУдивительно, правда? И так мило!\n<PAGE>\nПолзает, начинает учить слова... Наш малыш\nрастёт прямо на глазах."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Chaser_04",
+   "key": "055095ac",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Apprentice_00",
+   "key": "04464d1e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nДавай, <CHILD_NAME>! Вперёд! Так держать!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Apprentice_01",
+   "key": "e3fbc6b3",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>! Доброе утро! Глянь-ка!\n<PAGE>\nНу, <CHILD_NAME>. Покажи маме, что ты умеешь!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH><PARENT>!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Apprentice_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Apprentice_03",
+   "key": "9a01e141",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nНу разве не прелесть?!\n<PAGE>\nНе верится, что это наш малыш? Уже ползает и\nслова учит! Ух, как быстро они растут!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Apprentice_04",
+   "key": "055095ac",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Craftman_00",
+   "key": "2f365e0e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nВот так, <CHILD_NAME>. Это было потрясающе! Просто\nздорово!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Craftman_01",
+   "key": "1bc6f6ec",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nАлоха, <_____MYNAME_____>. Только посмотри, что я тебе\nприготовил!\n<PAGE>\nЭй, <CHILD_NAME>. Смотри! Это твоя мама!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH><PARENT>!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Craftman_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Craftman_03",
+   "key": "b6a11525",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nУдивительно, да? Такая прелесть, я прямо таю.\n<PAGE>\nУх ты. Уже ползает и учит слова...\n<PAGE>\nНаверное, это очевидно, но я так рад, что наш\nмалыш растёт здоровым и крепким."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Craftman_04",
+   "key": "a2b292d9",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Florist_00",
+   "key": "3d7237a3",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nНу же, <CHILD_NAME>! Какой молодец! Вот тебе поцелуйчик.\n♪\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Florist_01",
+   "key": "f5a87b83",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Иди сюда, посмотри!\n<PAGE>\nСмотри, <CHILD_NAME>! Это твой папа! ♪\n<PAGE>\n<FACE_CHILD><FACE_LAUGH><PARENT>!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Florist_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Florist_03",
+   "key": "6caaccbc",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nНу разве не прелесть? ♪\n<PAGE>\nНаш малыш и правда начинает расти, а? ♪"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Florist_04",
+   "key": "a2b292d9",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TeaGirl_00",
+   "key": "57a56ae9",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУх ты, <CHILD_NAME>. Гляди, как шустро! Вот тебе\nпоцелуйчик от мамы.\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TeaGirl_01",
+   "key": "54b9494b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>! Иди глянь!\n<PAGE>\nСмотри, <CHILD_NAME>! Это твой папа!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH><PARENT>!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TeaGirl_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TeaGirl_03",
+   "key": "f4141409",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nНу. Что. За. ПРЕЛЕСТЬ! Я прям не могу! ♪\n<PAGE>\nУже ползает, да ещё и слова учит...\n<PAGE>\nНаш малыш вырастет, и глазом моргнуть не\nуспеем!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TeaGirl_04",
+   "key": "a2b292d9",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Teacher_00",
+   "key": "f3af51b6",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nОчень хорошо, <CHILD_NAME>. Превосходно! ♪\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Teacher_01",
+   "key": "ed934294",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>.\n<PAGE>\nПодойди, пожалуйста. Тебе стоит это увидеть.\n<PAGE>\nСмотри, <CHILD_NAME>. Это твой папа.\n<PAGE>\n<FACE_CHILD><FACE_LAUGH><PARENT>!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Teacher_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Teacher_03",
+   "key": "614ad25f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nАх, какая прелесть.\n<PAGE>\nНаверное, это естественно. Сначала ползать...\n<PAGE>\n...а теперь учить слова, пусть и немногие.\n<PAGE>\nПоистине удивительно видеть, как растёт наш\nребёнок."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Teacher_04",
+   "key": "a2b292d9",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TwinOlder_00",
+   "key": "4aade1f5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nОго! Отлично получается, <CHILD_NAME>. Так держать!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TwinOlder_01",
+   "key": "1b03c533",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Иди сюда, посмотри на эту кроху!\n<PAGE>\n<CHILD_NAME>. Видишь папу?\n<PAGE>\n<FACE_CHILD><FACE_LAUGH><PARENT>!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TwinOlder_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TwinOlder_03",
+   "key": "5efaef53",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЗдорово, правда? ♪ Кто бы знал, что у нас\nбудет такой чудесный малыш?\n<PAGE>\nУже ползает и учит слова... Скоро станет умнее\nтебя, ха-ха!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TwinOlder_04",
+   "key": "055095ac",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TwinYounger_00",
+   "key": "81faded0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, <CHILD_NAME>. У тебя так хорошо получается...\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TwinYounger_01",
+   "key": "a5cff95c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nАлоха, <_____MYNAME_____>. Посмотри...\n<PAGE>\nВидишь, <CHILD_NAME>? Это папа.\n<PAGE>\n<FACE_CHILD><FACE_LAUGH><PARENT>!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TwinYounger_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TwinYounger_03",
+   "key": "6692eb39",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nТакая прелесть...\n<PAGE>\nПолзает... и слова учит.\n<PAGE>\nСмотреть, как растёт наш малыш... Это\nчудесно, хи-хи."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_TwinYounger_04",
+   "key": "055095ac",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Inari_00",
+   "key": "2c69b1ea",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nМолодец, <CHILD_NAME>. Весьма достойное старание.\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Inari_01",
+   "key": "933ab24c",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nДоброе утро, <_____MYNAME_____>.\n<PAGE>\nГолос <CHILD_NAME> разносился с самого утра, и мне стало\nлюбопытно, что же так обрадовало малыша.\n<PAGE>\nНу-ка, <CHILD_NAME>, <PARENT> тоже хочет посмотреть, что ты\nумеешь!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH> <PARENT>!"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Inari_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Inari_03",
+   "key": "2ec5aa74",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nНаш ребёнок начал ползать, а теперь даже\nпроизносит первые слова...\n<PAGE>\nРост ребёнка ― удивительная вещь. Каждый\nдень он трогает меня до глубины души."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Inari_04",
+   "key": "055095ac",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Wantatan_00",
+   "key": "be2137b2",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nВот молодец, <CHILD_NAME>. Ты просто вожак стаи!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH>А-а! ♪"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Wantatan_01",
+   "key": "dc8b9c30",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nДоброе утро, <_____MYNAME_____>. Эй, взгляни-ка!\n<PAGE>\n<FACE_NORMAL><CHILD_NAME>, покажи маме то же, что и мне.\n<PAGE>\n<FACE_CHILD><FACE_LAUGH> <PARENT>!"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Wantatan_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Wantatan_03",
+   "key": "31062183",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nЯ думал, малыш вылитый я, но теперь видно и\nтвои черты.\n<PAGE>\n<FACE_NORMAL>Сначала ползание на четвереньках, теперь\nпервые слова...\n<PAGE>\nНикогда не думал, что буду так радоваться,\nглядя, как растёт наш ребёнок. Каждый день я\nпоражён и тронут."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Wantatan_04",
+   "key": "a2b292d9",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Presenter_00",
+   "key": "97b19dec",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nВот так, <CHILD_NAME>. Получается! <RED>∀</RED>"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Presenter_01",
+   "key": "fd7216fa",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nО, <_____MYNAME_____>. Доброе утро!\n<PAGE>\nЭй, подойди на секундочку!\n<PAGE>\nСмотри, <CHILD_NAME>, это твой папа!\n<PAGE>\n<FACE_CHILD><FACE_LAUGH> <PARENT>!"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Presenter_02",
+   "key": "e270053e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>А-а! У-у! ♪"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Presenter_03",
+   "key": "674ff729",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME> в последнее время ― просто сгусток энергии,\nтак что я знала, что это лишь вопрос времени...\n<PAGE>\nНо всё равно не верится, что малыш уже\nползает! Я так горжусь!"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_CHILD_GROWTH_1_Presenter_04",
+   "key": "055095ac",
+   "ru": "(<CHILD_NAME> так быстро растёт. Просто невероятно!)\n<PAGE>\n(Сколько ещё интересного впереди! <CHILD_NAME> ещё не раз\nнас удивит.)"
+  }
+ ]
+}
