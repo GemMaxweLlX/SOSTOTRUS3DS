@@ -1,0 +1,194 @@
+{
+ "file": "Resident_J_Teacher_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_00",
+   "key": "24936ab9",
+   "ru": "Одна страница, две страницы, три страницы..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_01",
+   "key": "abee67e5",
+   "ru": "Одна страница, две страницы, три страницы...\n<PAGE>\nНе хватает ещё одной... Её нет...\n<PAGE>\nЕё нет... Ах... Что же делать..."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_02",
+   "key": "2ae07c85",
+   "ru": "Вижу тебя!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_03",
+   "key": "f9bd321d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n...Здравствуй. Как самочувствие?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_04",
+   "key": "0b461fec",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, я...\n<PAGE>\n<FACE_SAD><WINDOW_DISCOURAGEMENT_R>Мне правда очень жаль."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_05",
+   "key": "4a8eca64",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_INCOMPREHENSIBLE_R>...Призрак? Ох...\n<PAGE>\n<FACE_NORMAL><WINDOW_DEFAULT>Это был не призрак. Это была я."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_06",
+   "key": "45cb6a89",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nДело в том... что я кое-что искала и...\n<PAGE>\nУвидела, как кто-то возник из ниоткуда, и\nмашинально ударила ладонью, чтобы\nобезвредить..."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_07",
+   "key": "a41aa448",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_SAD>\r\nНе верится, что я подняла руку на женщину...\nКакой позор."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_08",
+   "key": "7e88d72a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>Я была в некоторой панике, и волосы\nрастрепались...\n<PAGE>\n...Наверное, поэтому меня и приняли за\nпризрака."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_09",
+   "key": "20b73ebb",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХм? Что я искала?\n<PAGE>\n<FACE_LOSS>...\n<PAGE>\nХотелось бы сохранить это в тайне, но...\n<PAGE>\n<FACE_SAD>...Тетрадь с хайку."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_10",
+   "key": "e7d49767",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХайку... Это нечто вроде стихотворения.\n<PAGE>\nМне нравится сочинять хайку, любуясь видами\nгорода, когда вокруг никого.\n<PAGE>\n<FACE_LOSS>Но страницы тетради, в которой я обычно\nпишу, разметало порывом ветра.\n<PAGE>\n...Если кто-нибудь прочтёт написанное в ней,\nмоя жизнь кончена.\n<PAGE>\n<FACE_NORMAL>Поэтому я отчаянно ищу все страницы."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_11",
+   "key": "60dc5549",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nОсталось найти лишь одну страницу...\nНаверное, она зацепилась за ветку или упала в\nозеро...\n<PAGE>\n<FACE_NORMAL>Так или иначе, я должна продолжать поиски.\n<PAGE>\nЯ принесла тебя сюда, ведь это по моей вине\nты потерял(а) сознание. Но...\n<PAGE>\nКак придёшь в себя, пожалуйста, иди домой."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_12",
+   "key": "26976b02",
+   "ru": "Предложить помочь с поисками"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_13",
+   "key": "179ef597",
+   "ru": "Принять предложение и отдохнуть"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_14",
+   "key": "4d2994bf",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХочешь искать... вместе?\n<PAGE>\nНет, я не могу тебя о таком просить.\n<PAGE>\n<FACE_LOSS>К тому же у великодушия есть предел.\n<PAGE>\nЯ ведь тебя оглушила."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_15",
+   "key": "2923bd01",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nВдвоём искать быстрее?\n<PAGE>\nНу, да, это так...\n<PAGE>\n<FACE_NORMAL>Хорошо. Когда ты так говоришь, отказываться\nот помощи было бы глупо.\n<PAGE>\nИскать нужно, пока темно, чтобы никто не\nузнал, что мы ищем. Пойдём."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_16",
+   "key": "75b75b64",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nХм? Что такое?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_17",
+   "key": "a821a717",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_ANGRY>\r\nПоследняя страница!\n<PAGE>\n<FACE_NORMAL>Она намокла и прилипла к моей спине...\n<PAGE>\nНеудивительно, что я не могла её найти."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_18",
+   "key": "2eee8393",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n...Похоже, сегодня я ненароком показала тебе\nсвою неловкую сторону. Прошу прощения.\n<PAGE>\nНо... спасибо."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_19",
+   "key": "29bf4fb1",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nКстати...\n<PAGE>\n<FACE_LAUGH>Ты ведь, конечно, понимаешь, что читать её\nтолько что не следовало?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_20",
+   "key": "05096473",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nНе читал? Слава богу.\n<PAGE>\nЕсли бы ты прочёл...\n<PAGE>\n<FACE_SAD>Мне, возможно, пришлось бы снова ударить\nтебя ладонью."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_21",
+   "key": "9adfe9a4",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n...Шучу.\n<PAGE>\nШутки в сторону, я искренне благодарна за\nтвою доброту."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_22",
+   "key": "7e778be3",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ всегда думала, что мужчины ― создания,\nкоторые ничего не делают без выгоды, но...\n<PAGE>\nПохоже, бывают и такие люди, как ты."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_23",
+   "key": "7dec8bfd",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n...Нет, ничего. Не обращай внимания.\n<PAGE>\nХм-хм-хм. ♪"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_24",
+   "key": "0f13aceb",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПонимаешь? Слава богу.\n<PAGE>\nЕсли бы прочла...\n<PAGE>\n...Что ж, теперь это неважно."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_25",
+   "key": "c3bf9f6e",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЯ благодарна за твою доброту, <_____MYNAME_____>.\n<PAGE>\nМне поистине повезло, что ты такой добрый\nчеловек.\n<PAGE>\n<FACE_LOSS>Как видишь, я из тех, кто направо и налево\nраздаёт удары ладонью...\n<PAGE>\n<FACE_LAUGH>Постараюсь, чтобы такое больше не\nповторилось, так что... надеюсь, мы останемся\nдрузьями."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_2_26",
+   "key": "18360973",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, береги себя."
+  }
+ ]
+}

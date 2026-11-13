@@ -1,0 +1,285 @@
+{
+ "file": "Resident_J_TeaOwner",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_00",
+   "key": "f739c322",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\nГоворю же, это не сочетается!\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>Да ладно! Я так делаю ещё с тех пор, как тебя\nна свете не было!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_01",
+   "key": "fb2932e7",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\nТы что, дурочка?! Я их всю жизнь вместе\nкладу!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_02",
+   "key": "a2164f6d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nОх, <_____MYNAME_____>.\n<PAGE>\nПрости, я сейчас не в духе и могу ненароком на\nтебе сорваться.\n<PAGE>\n...Прости, что тебе пришлось нас такими\nувидеть."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_03",
+   "key": "22991846",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\nТут я с тобой никак не соглашусь, пап."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_04",
+   "key": "139cdabe",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\nЭй! Комари?!\n<PAGE>\nВзяла и ушла... А лавка уже открыта! Как\nможно быть такой безответственной?!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_05",
+   "key": "ba46e466",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\nПрости уж за всё это, <_____MYNAME_____>. Мы иногда\nсталкиваемся лбами из-за характеров...\n<PAGE>\nНеловко просить, но не поможешь немножко в\nлавке?\n<PAGE>\nТут ещё не всё готово... Умоляю!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_06",
+   "key": "d9fb8a8f",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nКомари? Да ничего с ней не будет. Остынет и\nскоро вернётся домой."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_07",
+   "key": "95c32c52",
+   "ru": "Посетителей прибавилось. Чем помочь?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_08",
+   "key": "55d7f136",
+   "ru": "Подавать еду"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_09",
+   "key": "37a9b4a7",
+   "ru": "Мыть посуду"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_10",
+   "key": "34c7e26b",
+   "ru": "Перекусить"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_11",
+   "key": "05460ea4",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nНе-не, это я сам. Подавать еду ― часть\nработы повара.\n<PAGE>\nМожет, лучше займёшься посудой?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_12",
+   "key": "ce11933a",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nОтлично! Спасибо, что сообразил(а)!\n<PAGE>\nКогда я тут один, до посуды руки не доходят,\nтак что это огромная помощь."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_13",
+   "key": "b438a889",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nЭй, ты же тут помогаешь, не забыл(а)?\nВитаешь в облаках? Ну ты и забавный человек,\n<_____MYNAME_____>!\n<PAGE>\nКак закончим, накормлю сладостями сколько\nзахочешь. А пока помоешь посуду?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_14",
+   "key": "13da2e01",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nОх-ох-ох... Справились... кое-как. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_15",
+   "key": "53777550",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nГоворишь, приятно быть полезным?\n...Хороший ты человек, <_____MYNAME_____>.\n<PAGE>\n...Так, серьёзно, куда же подевалась Комари?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_16",
+   "key": "d25b9de2",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\nИз-за чего мы поругались? Я бы не назвал это\nссорой, но..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_17",
+   "key": "d8dca86b",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\nКомари?!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_18",
+   "key": "06ba4429",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\n...А, это всего лишь ты."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_19",
+   "key": "8b347dec",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nПростите, что я не ваша дочь. Пришёл забрать\nданго, что заказывал."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_20",
+   "key": "7f4c2389",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\nДа-да. Всё готово."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_21",
+   "key": "07d5f653",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nСнова ругаешься с дочерью из-за ерунды?\nКомари бродит снаружи с весьма кислым\nлицом.\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>Не из-за ерунды! У нас просто крошечное\nрасхождение во мнениях!\n<PAGE>\n<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>Ты слишком её опекаешь. Дай ей немного\nсвободы.\n<PAGE>\nА ты, <_____MYNAME_____>, не думаешь, что ввязываться в их\nглупые споры отца с дочерью ― пустая трата\nвремени?\n<PAGE>\n...Хотя, наверное, я зря сотрясаю воздух. До\nвстречи, Гиндзиро. Вот деньги за данго."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_22",
+   "key": "eeeeecd5",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\nНе из-за ерунды! У нас просто крошечная\nразница во мнениях!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_23",
+   "key": "8f303fa2",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nТы слишком её опекаешь. Дай ей немного\nвздохнуть.\n<PAGE>\n<_____MYNAME_____>, тебе тоже не кажется, что ввязываться в эти\nглупые споры отца с дочерью ― пустая трата\nвремени?\n<PAGE>\n...Бесполезно. Ну, до встречи. Деньги оставлю\nздесь."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_24",
+   "key": "fd6e5278",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\nТьфу! Что он понимает? Не нужны мне его\nсоветы!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_25",
+   "key": "bb1396f0",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nА... Нет, <_____MYNAME_____>. Я на самом деле не сержусь.\n<PAGE>\nМория всегда такой, к этому привыкаешь."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_26",
+   "key": "bf9d9df9",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЙо, Гиндзиро! А? И <_____MYNAME_____>? Ты что тут делаешь?\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Какая приятная неожиданность. Тоже к\nГиндзиро перекусить?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_27",
+   "key": "f2bf4333",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nПривет! Тоже к Гиндзиро перекусить, <_____MYNAME_____>?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_28",
+   "key": "4df3c3d4",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЧто-о-о? Опять? Дай угадаю, из-за какой-то\nерунды, да?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_29",
+   "key": "35ea50c3",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\nОй, ну хватит! И ты туда же, Хината? Сначала\nМория, теперь ты... Сегодня мне не дают\nпередохнуть!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_30",
+   "key": "9e7cf337",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, ну, как говорится, клиент всегда прав!\nДа ладно, вы же скоро помиритесь.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Говорят, чем больше ссоришься, тем ближе\nстановишься.\n<PAGE>\nЕсли так посмотреть, может, это и к лучшему,\nнет?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_31",
+   "key": "572226c4",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nЧем больше ссоришься, тем ближе\nстановишься.\n<PAGE>\nЭто ведь хорошо, правда?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_32",
+   "key": "1ca89ad3",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\nДа что с вами всеми...? Если Комари меня\nиз-за этого возненавидит, мне конец!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_33",
+   "key": "83a189e2",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nПривет, пап..."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_34",
+   "key": "fc9ec6ae",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_ANGRY>\r\nКомари! Наконец-то ты вернулась!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_35",
+   "key": "fa9c6860",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nПап, прости, что вспылила.\n<PAGE>\nРасстроиться и раскричаться из-за такого...\n<PAGE>\nВ смысле... может, это и неважно.\n<PAGE>\n<FACE_LAUGH>Лишь бы было вкусно, какая разница, поливать\nли яичницу соевым соусом?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_36",
+   "key": "2aff31f8",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nВот! Вот это моя дочь! Я знал, что ты поймёшь!\n<PAGE>\nИ, пожалуй, признаю, что старые добрые соль\nс перцем тоже неплохи!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Ага! Это правда вкусно, попробуй! И... знаю, я\nгодами от этого нос воротила, но...\n<PAGE>\nВ следующий раз попробую полить яичницу\nсоевым соусом! Обещаю! ♪"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_37",
+   "key": "6124839d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nАга! Это правда вкусно, попробуй! И... я годами\nне хотела пробовать, но...\n<PAGE>\nВ следующий раз попробую полить яичницу\nсоевым соусом, ладно? ♪"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_38",
+   "key": "c138d72a",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n...Это оказалось ещё нелепее, чем я ожидал.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Что ж, главное, что в итоге помирились."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_TEAOWNER_39",
+   "key": "fda13b82",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nНо я рад, что они помирились."
+  }
+ ]
+}

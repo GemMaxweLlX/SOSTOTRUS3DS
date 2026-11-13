@@ -1,0 +1,166 @@
+{
+ "file": "Resident_J_Teacher_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_00",
+   "key": "c01dff5b",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nБлагодарю.\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>Прости, что ждать заставляем. Комари вот-вот\nвернётся.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Прошу, не беспокойтесь обо мне. Дело не\nсрочное."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_01",
+   "key": "4da787af",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n...Алло? Гиндзиро?\n<PAGE>\n<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>*пристальный взгляд*\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>...Да?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_02",
+   "key": "3cad77ba",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nЭ-э, подождите, Гиндзиро...!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_03",
+   "key": "15d98ae2",
+   "ru": "(Похоже, ей неловко... Что делать?)"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_04",
+   "key": "c7167a99",
+   "ru": "Остановить его"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_05",
+   "key": "57a7fad8",
+   "ru": "Сделать вид, что ничего не видишь"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_06",
+   "key": "1e9cb5cc",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_L>А? <_____MYNAME_____>?\n<PAGE>\n<WINDOW_DEFAULT><FACE_TEACHER><POS_RIGHT><FACE_NORMAL>...Фух."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_07",
+   "key": "f0c32ad8",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_SAD>\r\nАх, точно! Чёрт, Комари ведь мне всё время\nговорит...!\n<PAGE>\nЯ просто думал, как рад, что у моей дочки\nтакая хорошая подруга!\n<PAGE>\nСовсем забыл, что тебе трудно с мужчинами!\n<PAGE>\nПрости меня, Касуми!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Н-нет, ничего..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_08",
+   "key": "0d00c6f7",
+   "ru": "Прости-и-ите, еда ещё не готова?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_09",
+   "key": "1da11271",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nАх, чёрт. Заставил посетителя ждать.\n<PAGE>\nЛадно, вы двое, отдыхайте!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_10",
+   "key": "8b1311fb",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nБлагодарю, <_____MYNAME_____>.\n<PAGE>\nРаз он отец Комари, я изо всех сил старалась\nне быть грубой...\n<PAGE>\nНо сделай он ещё шаг, мне пришлось бы\nударить его ладонью."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_11",
+   "key": "30a73c0d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n...Как бы то ни было, благодарю за помощь."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_12",
+   "key": "1d152770",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, хорошего дня."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_13",
+   "key": "9e5f0ea7",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nО, привет, Касуми! Пришла потусоваться?\n<PAGE>\nПогоди, что-то случилось? У тебя такое лицо.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>...Нет, ничего.\n<PAGE>\nТеперь всё в порядке.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>П-правда? Ну, раз ты так говоришь."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_14",
+   "key": "6b9fa017",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\n...Хи-хи...\n<PAGE>\nПодумать только, ворваться вот так...\n<PAGE>\n<FACE_NORMAL>...Нет, смеяться нельзя. Это ведь было ради\nменя."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_15",
+   "key": "e19945ef",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_INCOMPREHENSIBLE_R>Касуми, ты иногда та ещё чудачка, знаешь?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_16",
+   "key": "2712e4ec",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_LINE_R>А-а-а-а! Стой! Пап, ты что творишь?!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_17",
+   "key": "906d5d28",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_ANGER_R>Я ж тебе всё время говорю, что к Касуми\nнельзя близко подходить!\n<PAGE>\nНе видишь, что ей неприятно?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_18",
+   "key": "3830f437",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_DISCOURAGEMENT_L>Ох! Т-точно!\n<PAGE>\nПрости меня, Касуми. Всё время забываю и...\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>...Нет, ничего."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_19",
+   "key": "301e4a9f",
+   "ru": "(Благодаря Комари беды удалось избежать,\nно...)\n<PAGE>\n(...Может, стоило вмешаться и помочь.)"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_20",
+   "key": "e61a5d82",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nТак у тебя какое-то дело к Комари?\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Нет, ничего особенного. Просто зашла её\nповидать."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_21",
+   "key": "f89a8f6e",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_LINE_L>Ох, Касуми! Я... я так тронут!\n<PAGE>\nЗайти повидаться просто так, без всякой\nпричины!\n<PAGE>\nПодумать только, у моей Комари такая\nбескорыстная подруга...!\n<PAGE>\nОгромное спасибо, Касуми! Я-я так счастлив!\n*всхлип*"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEACHER_1_22",
+   "key": "179fea9b",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nДержи, Касуми."
+  }
+ ]
+}
