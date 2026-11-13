@@ -1,0 +1,215 @@
+{
+ "file": "Resident_S_TwinOlder_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_00",
+   "key": "b9cd1b27",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>...Так что завтра будет отличная погода. ♪\nОсобенно хорошо пойдёт сардина!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_01",
+   "key": "1af36007",
+   "ru": "Ух ты, огромное спасибо!\n<PAGE>\nНе зря я поверил слухам о жрице, что\nпредсказывает погоду, и приплыл сюда!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_02",
+   "key": "6a5e4f2b",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Всегда пожалуйста!\n<PAGE>\nКстати, с вас 15 800 G. ♪"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_03",
+   "key": "8d2cc637",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>15 800 G..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_04",
+   "key": "c11a683f",
+   "ru": "Н-не дороговато ли?!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_05",
+   "key": "545b725a",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nНичуть! С таким завтрашним уловом вы всё\nокупите с лихвой. <RED>∀</RED>"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_06",
+   "key": "3f4a0d9c",
+   "ru": "И то верно... Будет знатный улов!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_07",
+   "key": "eaf667ff",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nБлагодарю за доверие! ♪"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_08",
+   "key": "62fd740a",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nОй, смотрите, кто пришёл.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL> Привет, <_____MYNAME_____>.\n<PAGE>\nИлука, 15 800 G за прогноз погоды ― это же\nграбёж. Правда, <_____MYNAME_____>?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_09",
+   "key": "8da987a7",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>\r\nНе впутывай сюда <_____MYNAME_____>!\n<PAGE>\nЧтоб ты знал, с гостей гостиницы и с жителей\nдеревни я денег не беру.\n<PAGE>\nИ вообще, тот человек ― рыбак.\n<PAGE>\nКакой же он рыбак, если сам не может по\nморю понять, какая будет погода?\n<PAGE>\nНе дам незнакомцам пользоваться моим даром\nзадаром!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_10",
+   "key": "af13ba0b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, в чём-то ты права, но..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_11",
+   "key": "89448d74",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\n...Как я узнаю, какая будет погода?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_12",
+   "key": "8a38eb8c",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nХе-хе. Проще говоря, я чувствую ауру\nприроды.\n<PAGE>\nАуры я чувствую с самого рождения.\n<PAGE>\nПо течению ветра и облаков я вижу, какой\nбудет погода.\n<PAGE>\nДаже движение волн могу прочесть. Из меня\nвышел бы отличный штурман. ♪"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_13",
+   "key": "4eea0e29",
+   "ru": "А как же тогда вы попали в кораблекрушение?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_14",
+   "key": "f4239860",
+   "ru": "Потрясающе!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_15",
+   "key": "e2158c14",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВот это вопрос на миллион G, да?\n<PAGE>\nЕсли она читает погоду, как же нас тогда\nугораздило потерпеть крушение?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_16",
+   "key": "53dde5fd",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nПравда? У нас с Силукой удивительные\nспособности!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>Хотя читать погоду Илука от рождения не\nумела."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_17",
+   "key": "8511b350",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу а что, правда же?\n<PAGE>\nПодумай: если она читает погоду, как мы тогда\nпотерпели крушение?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_18",
+   "key": "1b6b454c",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_SAD>\r\n...Заткнись, Людус.\n<PAGE>\n<FACE_LOSS>...Ладно, <_____MYNAME_____> можно и рассказать, что тогда\nслучилось."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_19",
+   "key": "cfdd544c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nДело в том, что тогда Илука ещё не умела\nчитать погоду.\n<PAGE>\nОна и научилась-то этому как раз из-за того\nслучая."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_20",
+   "key": "f9499698",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nДа. Я чувствовала ауру природы, но ничего не\nпонимала в погоде.\n<PAGE>\nКогда мы чудом вернулись домой, я попросила\nбабулю научить меня читать погоду.\n<PAGE>\nНаверное, оказавшись между жизнью и\nсмертью, я о многом задумалась."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_21",
+   "key": "ef24c08f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nДа, приключение было что надо.\n<PAGE>\nВсё началось с того, что Илуке захотелось\nуплыть на лодке и поиграть в\nпутешественников.\n<PAGE>\nМы с Силукой, как всегда, увязались за ней,\nно...\n<PAGE>\nВ море вдруг налетел тайфун, и нас выбросило\nна необитаемый остров."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_22",
+   "key": "4bfa9ef5",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nСилука хорошо знала растения и искала еду, а\nИлука ныряла за рыбой.\n<PAGE>\nА я... рубил деревья и мастерил нам место для\nсна.\n<PAGE>\nТак мы прожили около месяца, пока нас не\nзаметила и не спасла проходившая мимо лодка."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_23",
+   "key": "f74f097d",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nЧто это у тебя за лицо?\n<PAGE>\nТоже скажешь, что я была дурой?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_24",
+   "key": "62127751",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\n...Хмф, не хочу больше об этом говорить.\nПойду проветрюсь."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_25",
+   "key": "01041b04",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНе бери в голову. Илука всегда так, когда об\nэтом заходит речь.\n<PAGE>\nМы вернулись целыми, и нас с Силукой это уже\nне тревожит, но...\n<PAGE>\nПосуди... Илука подвергла опасности самого\nдорогого человека ― младшую сестру.\n<PAGE>\nНаверняка она до сих пор чувствует вину."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_26",
+   "key": "994072d6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВот именно. Илука не виновата, что нам не\nповезло попасть в тайфун...\n<PAGE>\nА благодаря тому случаю она выучилась читать\nпогоду.\n<PAGE>\nЭто здорово помогает людям в деревне.\nПо-моему, в итоге всё сложилось хорошо."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_27",
+   "key": "93efe459",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>\r\nЛюдус! <_____MYNAME_____>!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_28",
+   "key": "006daa44",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nСилука принесла целую гору лекарственных\nтрав!\n<PAGE>\nОни тяжёлые, идите помогите донести до\nдома!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_1_29",
+   "key": "35a6e33b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>Ну и девчонка...\n<PAGE>\nЧем переживать из-за того случая, лучше бы\nотучилась от своих замашек принцессы."
+  }
+ ]
+}
