@@ -1,0 +1,278 @@
+{
+ "file": "Resident_S_FisherDaughter",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_00",
+   "key": "91401d05",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nХм-м-м..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_01",
+   "key": "96ebc92c",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_02",
+   "key": "8ae65232",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nЧто я делаю?\n<PAGE>\n...Решаю большую проблему."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_03",
+   "key": "7c291d59",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nТы знаешь блюдо под названием “саймин”?\n<PAGE>\nЭто тропический рамен, который обожает папа.\n<PAGE>\nВот я и подумала сделать свой особенный\nсаймин и подарить ему.\n<PAGE>\n<FACE_LAUGH><WINDOW_FUN_R>Он называется “Господин Мишка из\nТаинственного Сайминового Леса”. Классное\nназвание, правда?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_04",
+   "key": "e4d79d33",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\n...Но мне не хватает цветов!\n<PAGE>\n<FACE_ANGRY>Саймин без нужных ингредиентов ― как\n“Реласьон” без Лудуса!\n<PAGE>\n<FACE_SAD>...А я так хотела приготовить папе саймин..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_05",
+   "key": "3ab09c26",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nВ других городах могут быть хорошие цветы?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_06",
+   "key": "1d2352d5",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nТочно! Есть же другие города!\n<PAGE>\nК тому же если ты со мной, <_____MYNAME_____>, мне не влетит за\nто, что я ушла из деревни."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_07",
+   "key": "45febe41",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Ура! Я знала, что на тебя можно положиться, <_____MYNAME_____>!\n<PAGE>\nА поможешь ещё кое с чем, кроме цветов? Мне\nнужны сорняки и грязевые колобки!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_08",
+   "key": "f2dba2c2",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_R>А? Мы играем в дочки-матери?\n<PAGE>\n<WINDOW_DEFAULT><FACE_ANGRY>Мы не играем в дочки-матери! Как грубо! Не\nобращайся со мной как с малышкой!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_09",
+   "key": "c9e65141",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nНу ладно. Прощаю.\n<PAGE>\nЛа-а-адно! Раз знаем, что делать, пошли\nискать ингредиенты!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_10",
+   "key": "8c8a6e43",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_NORMAL>\r\nЯ набрала кучу редких цветов! Теперь сорняков\nи цветов более чем хватает. Отлично."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_11",
+   "key": "b2afb61a",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_NORMAL>\r\nСмотри, если сорняки скрутить совсем тонко,\nполучится как лапша.\n<PAGE>\n<FACE_LAUGH>Цветы ― главный ингредиент! Насыплем их,\nкак креветки или ракушки. ♪\n<PAGE>\n<FACE_NORMAL>Для бульона сойдёт вода, так что осталось\nтолько..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_12",
+   "key": "dfe35d81",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_NORMAL>\r\nОй, точно. Я забыла про господина Мишку! Вот\nглупая.\n<PAGE>\nЕсли нет господина Мишки, какой же это\n“Господин Мишка из Таинственного\nСайминового Леса”?\n<PAGE>\nГосподина Мишку слепим из грязевых\nколобков.\n<PAGE>\n<_____MYNAME_____>, поможешь слепить грязевые колобки в\nЛулукоко?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_13",
+   "key": "32099652",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nГрязевые колобки готовы!\n<PAGE>\n<FACE_NORMAL>Я очень хорошо умею их лепить. Мы же всё\nвремя лепим их с Шальком. ♪"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_14",
+   "key": "b3524629",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nНу, осталось положить колобки в саймин и\nполить всё мёдом!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_15",
+   "key": "14ad59db",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nХм? Зачем мёд? Ты что, серьёзно, <_____MYNAME_____>?\n<PAGE>\nГосподин Мишка же без мёда никак, правда?\nПоэтому его надо добавить как секретный\nингредиент.\n<PAGE>\nНе волнуйся, мёд я принесла из дома."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_16",
+   "key": "cb334f66",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nСейчас положу сверху.\n<PAGE>\nПодожди секу-у-ундочку."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_17",
+   "key": "c541b2eb",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nУра, наконец готово!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_18",
+   "key": "fea852cf",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nНу? Неплохо, правда? Что скажешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_19",
+   "key": "71e43bb6",
+   "ru": "Ну и цвет у него!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_20",
+   "key": "8672cddb",
+   "ru": "В-выглядит аппетитно!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_21",
+   "key": "10401a15",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nНу и цвет? Конечно.\n<PAGE>\nЭто же не какой-то обычный саймин. Это\nсаймин “Господин Мишка”.\n<PAGE>\n<FACE_ANGRY><WINDOW_ANGER_R>Ох, <_____MYNAME_____>, как можно такого не знать?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_22",
+   "key": "25349819",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nПравда? Правда? Выглядит супервкусно, да?!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_23",
+   "key": "cc8f2e46",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\n...Как думаешь, папе понравится?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_24",
+   "key": "3d4385f4",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Хи-хи, ура! Ладно, понесли ему!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_25",
+   "key": "17a865b7",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nПапа!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_26",
+   "key": "77b67251",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_NORMAL>\r\nЭй! Что такое, вы двое?\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL><_____MYNAME_____> помог(ла) мне сделать тебе подарок!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_28",
+   "key": "5b23b842",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nОн называется “Господин Мишка из\nТаинственного Сайминового Леса”! Классно,\nправда?\n<PAGE>\n<FACE_FISHER><POS_LEFT><FACE_NORMAL>Это мне?\n<PAGE>\n<FACE_LAUGH><WINDOW_KERAKERA_L>Ну и повезло же мне! Махало, Альма! И тебе, <_____MYNAME_____>."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_30",
+   "key": "4af36e3e",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nТы рад, правда?\n<PAGE>\nСкажи, как тебе!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_31",
+   "key": "5fc94093",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Погоди... Ты хочешь, чтобы я это съел?\n<PAGE>\n...Прямо здесь?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_32",
+   "key": "cce62f1a",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_SAD>\r\nА это вообще съедобно...? Цвет какой-то\nочень странный...\n<PAGE>\nА эти штуки в мёде... Ужасно похожи на\nгрязь..."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_33",
+   "key": "4f07b35e",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nКоне-е-ечно! Я так старалась приготовить это\nдля тебя, папа!\n<PAGE>\n<FACE_SAD>Тебе... не нравится?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_34",
+   "key": "f1903e47",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_LAUGH>\r\nНет-нет, обожаю! Не терпится попробовать!\n<PAGE>\n<FACE_NORMAL>...\n<PAGE>\n<FACE_SAD>(Это ради дочки. Ради дочки...)\n<PAGE>\n<WINDOW_LINE_L><FACE_ANGRY>Ну, поехали!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_35",
+   "key": "d4175baf",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_LAUGH>\r\nУх, это было су-у-упер вкусно! Махало,\nАльма!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_36",
+   "key": "c0a107a0",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Ура! Мой подарок имел огромный успех! ♪\n<PAGE>\n<WINDOW_DEFAULT><FACE_FISHER><POS_LEFT><FACE_NORMAL>...Так, а теперь иди в дом и вымой руки.\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>Ладно!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_39",
+   "key": "de81828a",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, махало за помощь!\n<PAGE>\nМне сегодня было очень весело!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_40",
+   "key": "ad73f89c",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\n...\n<PAGE>\n<FACE_ANGRY><WINDOW_DISCOURAGEMENT_L>У-у-ух... У-р-р-гх..."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_41",
+   "key": "20c3d965",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_L>Не переживай... Твоей вины тут нет, <_____MYNAME_____>.\n<PAGE>\nОткуда тебе было знать, что она правда\nзаставит меня это съесть..."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERDAUGHTER_42",
+   "key": "bf974684",
+   "ru": "Захау немедленно отнесли в клинику."
+  }
+ ]
+}
