@@ -1,0 +1,131 @@
+{
+ "file": "Love_S_TwinOlder_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_00",
+   "key": "fca105d9",
+   "ru": "(Фух, пить хочется. Может, зайти выпить\nчего-нибудь в Карозелло.)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_01",
+   "key": "2fc8a6ce",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nКомо маи! Добро пожаловать в Карозелло. <RED>∀</RED>\nЧто будете заказывать?\n<PAGE>\n<FACE_NAME_OFF>Эм... Мне чай масала, поке из тунца...\n<PAGE>\n<FACE_NAME_OFF>...и “Особое от Силуки”."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_02",
+   "key": "3fa73878",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\n“О-особое от Силуки”?\n<PAGE>\nЭм, боюсь, его я не посоветую.\n<PAGE>\n<FACE_SAD>Оно, э-э... не очень вкусное...\n<PAGE>\n<FACE_NAME_OFF>Что? Правда? Я слышал, оно очень вкусное, но,\nможет, я ослышался.\n<PAGE>\n<FACE_NAME_OFF>И всё же... я проделал такой путь, только\nчтобы его попробовать.\n<PAGE>\n<FACE_NAME_OFF>Всё равно принесите одно, пожалуйста!\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_03",
+   "key": "7259fa67",
+   "ru": "(Что-то Илука долго. “Особое от Силуки” всё\nещё не готово?)"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_04",
+   "key": "22d95030",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\n<_____MYNAME_____>? Ты что тут делаешь?\n<PAGE>\nМне сейчас некогда с тобой болтать, так что\nвыйди из кухни, а?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_05",
+   "key": "bd410e26",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nНу а чего ты ждал? Это всё тот упрямый тип,\nчто заказал “Особое от Силуки”.\n<PAGE>\nЯ могу приготовить почти всё, что готовит\nСилука. Кроме этого блюда. Его как следует\nумеет делать только она.\n<PAGE>\n<FACE_LOSS>Беда в том, что её нет и она ещё не скоро\nвернётся. Я посмотрела её записи с рецептом,\nно там ничего не понять.\n<PAGE>\n<FACE_SAD>Но это заказ клиента. Ничего не остаётся,\nкроме как импровизировать..."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_06",
+   "key": "9b96ab4e",
+   "ru": "Может, сказать, что блюда нет?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_07",
+   "key": "9f7e6818",
+   "ru": "Хочешь, помогу?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_08",
+   "key": "e6d720d4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nТы что, дурак?\n<PAGE>\n<FACE_ANGRY>Ни за что не скажу клиенту, что единственного\nблюда, ради которого он проделал такой путь,\nнет!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_09",
+   "key": "266df405",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nПостой, придумала! А давай ты его и\nприготовишь?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_10",
+   "key": "60631c49",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nХм-хм-хм ♪ Ты даже не представляешь, на\nчто сейчас подписался."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_11",
+   "key": "33bd105e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВот именно, теперь ты мой. Слушай, я буду\nчитать рецепт вслух, а ты делай ровно то, что\nя скажу. Понял?\n<PAGE>\nТогда начинаем!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_12",
+   "key": "37d22138",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nЭ кала маи, что так долго! ♪\n<PAGE>\n<FACE_NAME_OFF>Ага! Наконец-то. Я уж думал, буду ждать\nвечность."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_13",
+   "key": "525095a2",
+   "ru": "М-м, вкуснотища!\n<PAGE>\n<FACE_TWINOLDER><FACE_LAUGH><POS_LEFT>Ну, это же фирменное блюдо нашего кафе.\nКонечно, вкусно. ♪\n<PAGE>\n<FACE_NAME_OFF>А? Вы же раньше говорили обратное?\n<PAGE>\n<FACE_TWINOLDER><FACE_LAUGH><POS_LEFT>..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_14",
+   "key": "bf04e79f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nМахало! Приходите ещё! ♪"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_15",
+   "key": "4aef5dc3",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nТак, э-э... на кухне ты был довольно ловок.\n<PAGE>\n<FACE_NORMAL>Хотя, когда помогаешь кому-то вроде меня,\nвыкладываться по полной ― это само собой!\n<PAGE>\n<FACE_ANGRY>Так что “махало” я не скажу. Понял?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_16",
+   "key": "06431038",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nОх. Ты слишком добрый себе во вред, знаешь?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_1_17",
+   "key": "6ef95aa6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\n...*вздох*... Видно, надо мне подтянуть\nготовку."
+  }
+ ]
+}
