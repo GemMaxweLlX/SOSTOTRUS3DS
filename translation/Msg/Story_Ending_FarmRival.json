@@ -1,0 +1,278 @@
+{
+ "file": "Story_Ending_FarmRival",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_00",
+   "key": "7dc023d6",
+   "ru": "(А-ах! Как хорошо выспаться. Пора идти и\nвыкладываться ещё один день.)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_01",
+   "key": "f8f42c92",
+   "ru": "<FACE_UNCLE>\r\n<_____MYNAME_____>! <_____MYNAME_____>, это Фрэнк! Прошу прощения."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_02",
+   "key": "84af5711",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Поздравляю, <_____MYNAME_____>!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_03",
+   "key": "afd6bf89",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЧто значит “с чем”? С советами по ферме! Всё\nведь выполнено, так?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_04",
+   "key": "f3b8005e",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nНаконец-то! Отлично, <_____MYNAME_____>. Просто отлично!\n<PAGE>\n<WINDOW_FUN_R>Я видел, как усердно ты трудишься, от начала\nдо конца, так что поверь: тебе есть чем\nгордиться."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_05",
+   "key": "6c0565da",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nЯ устроил у себя дома небольшую вечеринку.\nНу как? Как насчёт праздника?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_06",
+   "key": "e302f27f",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Тогда пошли потихоньку!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_07",
+   "key": "4e01483c",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nЯ встал пораньше, чтобы устроить тебе\nнастоящий пир."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_08",
+   "key": "76dc4225",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nНо это ещё не всё. Пошли. У меня для тебя ещё\nодин сюрприз."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_09",
+   "key": "282fe66b",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nСюда."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_10",
+   "key": "67f84ae0",
+   "ru": "<FACE_SISTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Хи-хи! Удивили мы тебя?\n<PAGE>\nДядя Фрэнк дал знать, и мы примчались к\nпразднику!\n<PAGE>\nМы все вместе приготовили этот пир для тебя,\nтак что ешь побольше, ладно?\n<PAGE>\n<WINDOW_FUN_R><FACE_MOTHER><POS_RIGHT><FACE_LAUGH>Поздравляю, <_____MYNAME_____>, ты молодец. Я так тобой\nгоржусь.\n<PAGE>\nТы прекрасно справляешься: все испытания отца\nпройдены одно за другим. Это было очень\nвпечатляюще."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_11",
+   "key": "9c1a8051",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_NORMAL>\r\nУ нас для тебя ещё один гость, <_____MYNAME_____>."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_12",
+   "key": "d1e4b7cc",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nМожешь заходить!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_13",
+   "key": "201317ef",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\nОН тоже пришёл тебя поздравить."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_14",
+   "key": "38e7fef3",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nПоздравляю, <_____MYNAME_____>. Я и подумать не мог, что ты\nдобьёшься такого блестящего успеха.\n<PAGE>\nРодное дитя, а всё равно меня удивляешь.\nВидно, фермерство у нас в крови."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_15",
+   "key": "73b37fcb",
+   "ru": "<NAME_FATHER_ANOTHER_NAME>\r\nЧто, всё ещё не узнать меня? Это я."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_16",
+   "key": "0dcd187e",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_SAD>\r\n<WINDOW_MOJA_L>...\n<PAGE>\nПрости, что ничего не сказал.\n<PAGE>\nТы ведь моё дитя. Я за тебя беспокоюсь.\nВидно, не смог удержаться.\n<PAGE>\nНо после нашей ссоры, да ещё раз испытания\nпридумал я, встречаться лично было бы...\nнеловко.\n<PAGE>\nЭто был единственный способ, что пришёл мне\nв голову, чтобы приехать и увидеть тебя."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_17",
+   "key": "5088b859",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nПусть я и был переодет, но ни разу не солгал\nтебе ни в чём.\n<PAGE>\nТы действительно достойный соперник. И...\n<PAGE>\n<FACE_LAUGH>Думаю, из тебя вырос прекрасный фермер."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_18",
+   "key": "1c2bedb8",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nТы доказываешь мне и своё мастерство, и свою\nпреданность делу.\n<PAGE>\nЕсли ты по-прежнему хочешь быть фермером,\nя даю тебе своё благословение.\n<PAGE>\nКак фермер, как твой соперник... и как твой\nотец."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_19",
+   "key": "210ec798",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Ещё раз поздравляю, <_____MYNAME_____>.\n<PAGE>\n<FACE_MOTHER><POS_LEFT><FACE_LAUGH>Поздравляю, солнышко!\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Ура! Так держать!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_20",
+   "key": "d0704b15",
+   "ru": "<FACE_UNCLE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Ну-с. Может, начнём вечеринку? Сто лет мы не\nсобирались всей семьёй.\n<PAGE>\nУверен, нам будет о чём поговорить."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_21",
+   "key": "223918f9",
+   "ru": "И день пролетел в вихре веселья и смеха..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_22",
+   "key": "9b73052e",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nФух. Сто лет столько не ел. И не говорил\nстолько.\n<PAGE>\nНочной ветерок такой приятный, правда?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_23",
+   "key": "6d6f4f23",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>... скажи честно. Неужели правда не было\nдогадок, что под маской я?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_24",
+   "key": "9f9c125d",
+   "ru": "Вообще-то догадка была"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_25",
+   "key": "7771a2b0",
+   "ru": "Нет. Даже не подозревалось"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_26",
+   "key": "483edc69",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_MOJA_L>Неудивительно, что мою хлипкую маскировку\nраскусили.\n<PAGE>\n<WINDOW_DEFAULT>А притворство, что ничего не замечено, тебе\nнеплохо удавалось столько времени.\n<PAGE>\nЧестно говоря, участвовать во всех тех\nконкурсах мне помог Фрэнк.\n<PAGE>\n<FACE_LAUGH>И, кстати, раскусили меня и другие. Марлена и\nЛинн сразу поняли, что я затеял.\n<PAGE>\nОбе ужасно завидовали, что я так часто езжу к\nтебе один.\n<PAGE>\nКаждый раз, возвращаясь, я должен был\nподробно докладывать, как у тебя дела. А ещё\nони выклянчили у меня кучу сувениров."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_27",
+   "key": "a6400a40",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nЧто ж, учитывая, как отчаянно я маскировался,\nнеудивительно, что никто не заметил.\n<PAGE>\nЧестно говоря, участвовать во всех тех\nконкурсах мне помог Фрэнк.\n<PAGE>\n<FACE_LAUGH>К сожалению, Марлена и Линн сразу поняли,\nчто я затеял.\n<PAGE>\nОбе ужасно завидовали, что я так часто езжу к\nтебе один.\n<PAGE>\nКаждый раз, возвращаясь, я должен был\nподробно докладывать, как у тебя дела. А ещё\nони выклянчили у меня сувениров."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_28",
+   "key": "b581fe14",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nХм? Почему я бросил фермерство?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_29",
+   "key": "a79af6b2",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nЧто ж, всё началось с болезни твоего дедушки\n― моего отца.\n<PAGE>\nОн занялся торговлей сразу после того, как я\nначал работать фермером.\n<PAGE>\nВ то время мы с Фрэнком вместе вели ферму."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_30",
+   "key": "40d3356f",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nНо однажды отец вдруг слёг. Как раз тогда,\nкогда его торговое дело наконец заработало.\n<PAGE>\nПоначалу мне и в голову не приходило бросить\nфермерство...\n<PAGE>\nНо отец всегда выглядел таким печальным,\nкогда мы говорили, что из-за болезни ему,\nвозможно, придётся оставить дело.\n<PAGE>\nВ конце концов я подумал, что ему станет\nлегче, если я скажу, что возьму его дело на\nсебя."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_31",
+   "key": "9cc96676",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nКогда он поправился, мы стали работать\nвместе.\n<PAGE>\nЧерез несколько лет я встретил Марлену. Мы\nпоженились, и вскоре в нашей жизни появились\nты и твоя сестра.\n<PAGE>\nТвоё желание стать фермером меня очень\nудивило.\n<PAGE>\nЯ сам этим занимался и слишком хорошо знал,\nкакая это изнурительная и тяжёлая работа.\n<PAGE>\nЯ не удержался и вспылил. Сам не заметил, как\nнаговорил много резкого."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_32",
+   "key": "8f7b1f55",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\n...Но, похоже, волноваться мне было не о чем."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_33",
+   "key": "f3d5d49d",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_NORMAL>\r\nНе стану просить тебя делать это ради меня, но\nхотел бы, чтобы фермерство осталось с тобой\nещё надолго.\n<PAGE>\nФермерство ― благородное занятие, и я\nиспытываю к нему величайшее уважение."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_34",
+   "key": "4bf6a0e6",
+   "ru": "<FACE_FATHER><POS_LEFT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Я это ценю."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_35",
+   "key": "110d87e0",
+   "ru": "<NAME_UNKNOWN>\r\nАга! Вот вы где!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_36",
+   "key": "ff8a26ee",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_FUN_R>Что вы тут делаете? Скорее возвращайтесь в\nдом!\n<PAGE>\n<FACE_LAUGH>Мы привезли все старые семейные альбомы,\nбудем смотреть их за десертом.\n<PAGE>\n<WINDOW_DISCOURAGEMENT_L><FACE_FATHER><POS_LEFT><FACE_SAD>Ты их все привезла? Неудивительно, что у тебя\nбыло столько багажа.\n<PAGE>\n<WINDOW_DEFAULT><FACE_SISTER><POS_RIGHT><FACE_ANGRY>Эй! Ты сам сказал, что это отличный повод,\nвот я и привезла! Что в этом такого?\n<PAGE>\n<WINDOW_FUN_R><FACE_LAUGH>Ну же, вы двое! Мы вас все ждём!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_37",
+   "key": "7e9488e9",
+   "ru": "<FACE_SISTER><POS_RIGHT><FACE_NORMAL>\r\nЧто вы тут делаете? Скорее возвращайтесь в\nдом!\n<PAGE>\n<FACE_LAUGH>Мы привезли все старые семейные альбомы,\nбудем смотреть их за десертом.\n<PAGE>\n<FACE_MOTHER><POS_LEFT><FACE_SAD>Ты их все привезла? Неудивительно, что у тебя\nбыло столько багажа.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_ANGRY>Эй! Ты сама сказала, что это отличный повод,\nвот я и привезла! Что в этом такого?\n<PAGE>\n<FACE_NORMAL>Ну же, вы двое! Мы вас все ждём!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "EV_STORY_ENDING_FARMRIVAL_38",
+   "key": "2de19954",
+   "ru": "<FACE_FATHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, пойдём обратно, <_____MYNAME_____>."
+  }
+ ]
+}

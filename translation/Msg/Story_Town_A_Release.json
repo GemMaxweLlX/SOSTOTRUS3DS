@@ -1,0 +1,390 @@
+{
+ "file": "Story_Town_A_Release",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_00",
+   "key": "878e7950",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nДоброе утро, <_____MYNAME_____>. Хорошо спалось?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_01",
+   "key": "25038246",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nСегодня, пожалуй, покажу тебе город.\n<PAGE>\nНо сначала надо поздороваться с Меган. Она\nведь старейшина города."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_02",
+   "key": "17c542d7",
+   "ru": "<FACE_UNCLE>\r\nДоброго утра, Меган."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_03",
+   "key": "9c987453",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Здравствуй, Фрэнк. Я тебя ждала. Это и есть\nтвоя родня, о которой ты рассказывал?\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>Да, мэм. Это <_____MYNAME_____>."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_04",
+   "key": "d70aa7ed",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Очень приятно познакомиться, <_____MYNAME_____>. Меня зовут\nМеган. Я старейшина Уэстауна.\n<PAGE>\nА ещё я фермер, как и Фрэнк. Думаю, скажу за\nвесь город: мы очень рады, что ты здесь."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_05",
+   "key": "43a8744f",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nЧто ж, отправимся на большую экскурсию?\n<PAGE>\nКак видишь, весь город стоит на склоне горы.\nЗдесь всегда было очень хорошо разводить\nскот.\n<PAGE>\nКрасная почва, холмы и высокие утёсы ― вот\nособенности здешних мест."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_06",
+   "key": "0232228d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nЗдешняя земля идеальна для ферм, где нужно\nмного воды и растут зелёные овощи. И корма\nтут можно собрать много.\n<PAGE>\nВон та дорога ведёт к ферме, где ты скоро\nбудешь жить.\n<PAGE>\nА дорога за мостом наверх ведёт в центр\nгорода.\n<PAGE>\nПойдём сначала туда, расскажу тебе о лавках и\nдругих интересных местах."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_07",
+   "key": "f0387e9b",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nВот мы и пришли, это сердце Уэстауна."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_08",
+   "key": "02398d67",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nНу? Что скажешь? Впечатляющий город,\nправда?\n<PAGE>\nДавным-давно это был шахтёрский городок. И\nпроцветающий, к тому же."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_09",
+   "key": "5acab005",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, давай немного пройдёмся? Сюда,\nпойдём."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_10",
+   "key": "6b512fec",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nЗдесь <GREEN>Продукты</GREEN>, <GREEN>Материалы</GREEN>, <GREEN>Универмаг</GREEN> и\n<GREEN>Магазин животных</GREEN>.\n<PAGE>\nК сожалению, лавка материалов сейчас закрыта\nна ремонт.\n<PAGE>\nНо скоро она снова откроется. Потерпи\nнемного.\n<PAGE>\nВсе эти лавки работают каждый день с <BLUE>10:00\nдо 18:00</BLUE>, запомни."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_11",
+   "key": "6302e26f",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>\r\nА теперь, если позволишь, обрати внимание\nналево..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_12",
+   "key": "20c69975",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nЗдесь у нас <GREEN>Почта</GREEN>.\n<PAGE>\nЕсли захочешь отправить письмо семье, заходи\nтуда.\n<PAGE>\nХотя, похоже, она ещё не открылась. С\nписьмами, может, придётся немного\nподождать."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_13",
+   "key": "4abf0c65",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nНу надо же! Лёгок на помине ― вот и наш\nпочтальон. Здравствуй!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_14",
+   "key": "964b866d",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Доброе утро, Меган. Фрэнк.\n<PAGE>\nВот сюрприз ― вы оба тут. По какому случаю?\n<PAGE>\nНет, погодите. Дайте угадаю. Устраиваете\nбольшую экскурсию нашему новому соседу, да?\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>Ха-ха-ха! Ага! Как всегда, в точку. Это та\nродня, о которой я тебе рассказывал.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Ага! Так я и знал! Имя было... секундочку,\nсейчас вспомню... <_____MYNAME_____>, верно?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_15",
+   "key": "864a5370",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЯ Уэйн, почтальон Уэстауна.\n<PAGE>\n<WINDOW_JOY_L>Парней нашего возраста в этих краях немного.\nБуду рад познакомиться поближе, приятель!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_16",
+   "key": "11506346",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЯ Уэйн, почтальон Уэстауна.\n<PAGE>\n<WINDOW_JOY_L>Когда Фрэнк сказал, что к нему едет родня, я\nникак не ожидал такую красавицу.\n<PAGE>\nМы всегда рады новым жителям, но такой\nмилой девушке ― особенно."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_17",
+   "key": "a79fb941",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nНу, с вашего позволения, мне пора разносить\nпочту. До встречи, <_____MYNAME_____>."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_18",
+   "key": "56f549fb",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nС знакомствами покончено, продолжим\nэкскурсию?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_19",
+   "key": "8fdd0abd",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nЗдесь у нас три самые популярные лавки в\nгороде.\n<PAGE>\nЗелёное здание ― <GREEN>Ресторан</GREEN>. Розовое ―\n<GREEN>Цветочная лавка</GREEN>, а жёлтое ― <GREEN>Универмаг</GREEN>.\n<PAGE>\nСемена можно купить и в цветочной лавке, и в\nунивермаге...\n<PAGE>\n...так что, думаю, ты будешь бывать здесь\nчастенько."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_20",
+   "key": "f08d8145",
+   "ru": "<NAME_UNKNOWN>\r\nО, доброе утро, Меган."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_21",
+   "key": "477ea277",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nДоброе утро, Лизетта. И тебе доброе утро,\nМиранда.\n<PAGE>\n<_____MYNAME_____>, познакомься: Лизетта, наша цветочница, и\nМиранда, хозяйка универмага.\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>Лизетта. Миранда. Это <_____MYNAME_____>, моя родня, о которой\nя вам рассказывал."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_22",
+   "key": "1c8134ea",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОчень приятно познакомиться. Меня зовут\nЛизетта. Я веду цветочную лавку."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_23",
+   "key": "d3b10b95",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Так ты племянник Фрэнка? Он нам столько о\nтебе рассказывал.\n<PAGE>\n<FACE_LAUGH>Заходи поздороваться когда захочешь."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_24",
+   "key": "15b3c16d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Так ты племянница Фрэнка? Он нам столько о\nтебе рассказывал.\n<PAGE>\n<FACE_LAUGH>Не передать, как я рада, что здесь появился\nкто-то моего возраста! Буду очень рада, если\nкак-нибудь заглянешь поздороваться."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_25",
+   "key": "fb4bbfb4",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nПростите, что прерываю, но мне надо\nприбраться. Поговорим позже.\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_NORMAL>А меня дочка ждёт к обеду. До встречи, <_____MYNAME_____>."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_26",
+   "key": "fee0c3a0",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nИдём дальше, посмотрим вот сюда."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_27",
+   "key": "a169ff34",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN>\r\nВон там <GREEN>Клиника</GREEN>. Если почувствуешь усталость\nили недомогание, загляни к здешнему доктору.\n<PAGE>\n<FACE_UNCLE>Скажу заранее: док ещё строже меня.\n<PAGE>\nСейчас он уехал на какой-то модный\nврачебный семинар, так что познакомить вас\nпока не получится.\n<PAGE>\nНо к концу недели он вроде бы вернётся. Тогда\nи представишься."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_28",
+   "key": "726e81f3",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nВот и всё! Это наш маленький Уэстаун.\nНадеюсь, экскурсия понравилась."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_29",
+   "key": "58e42acc",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nБатюшки! Что такое, милая душа?\n<PAGE>\n<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>Похоже, ещё стесняется обниматься.\n<PAGE>\nТам, откуда <_____MYNAME_____>, так не принято.\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>Ах, вот в чём дело? Понятно."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_30",
+   "key": "7261bece",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_LAUGH>\r\nНе переживай так, <_____MYNAME_____>. Скоро привыкнешь."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_31",
+   "key": "5b4184f3",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nГоворят, ты родом из далёких краёв, <_____MYNAME_____>.\n<PAGE>\n<FACE_LAUGH>Уже привыкаешь обниматься при встрече?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_32",
+   "key": "4c579ac2",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nБуду рад познакомиться поближе. Заходи\nпоболтать когда захочешь."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_33",
+   "key": "6508bd44",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nЧто ж, иди осмотрись. Как закончишь,\nвозвращайся ко мне."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_40",
+   "key": "87bdbf59",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nНу, на сегодня всё. А теперь, если не\nвозражаешь, у меня дела дома."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_41",
+   "key": "e7641bd0",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nНет-нет, не нужно благодарить. Мне было\nприятно показать тебе город. Береги себя, <_____MYNAME_____>."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_42",
+   "key": "a693c242",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nРаз уж мы здесь, может, осмотришься по\nгороду? Ну, знаешь, освойся.\n<PAGE>\nИ с остальными поздоровайся.\n<PAGE>\nЕсли захочешь зайти в какое-то здание,\nподойди к двери и <BLUE>нажми кнопку A</BLUE>."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_43",
+   "key": "71e23843",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, как разговаривать с людьми и\nсмотреть карту? Если нет, могу объяснить."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_44",
+   "key": "d920fb53",
+   "ru": "Да, объясни, пожалуйста"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_45",
+   "key": "feb8ab87",
+   "ru": "Нет, я разберусь"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_46",
+   "key": "a04bf5e0",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nКонечно! Слушай внимательно, ладно?\n<PAGE>\nЧтобы поговорить с человеком, подойди к нему\nи <BLUE>нажми кнопку A</BLUE>.\n<PAGE>\nА если хочешь просто быстро поздороваться,\n<BLUE>нажми кнопку L</BLUE>. Тебе ответят."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_47",
+   "key": "07b290c4",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЕсли заблудишься, можно посмотреть на карту,\nчтобы понять, где ты.\n<PAGE>\nВзгляни на сенсорный экран."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_48",
+   "key": "680f4db4",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nЭто карта того места, где ты находишься.\n<PAGE>\nВидишь значок со шляпой? Он показывает, где\nты сейчас стоишь."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_51",
+   "key": "bc70587a",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nПравда? Рад слышать."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_52",
+   "key": "427bbdc6",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nВ общем, я пойду домой. Как насмотришься и\nнаговоришься, возвращайся.\n<PAGE>\nПросто иди по дороге на юг отсюда, она\nприведёт прямо ко мне."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_53",
+   "key": "d4bd71a7",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНу, иди. Пусть все тебя увидят и\nпоздороваются. Пока, <_____MYNAME_____>."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_54",
+   "key": "12d5187c",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R> Очень приятно познакомиться, <_____MYNAME_____>. Я Миранда.\nДержу универмаг.\n<PAGE>\nЕсли нужны семена, тебе ко мне."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_55",
+   "key": "6037f923",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nАга. Похоже, люпины цветут. Глянь, <_____MYNAME_____>."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_56",
+   "key": "fcf54f8e",
+   "ru": "<FACE_UNCLE>\r\nВ этих краях полно дикого люпина, алоэ и\nсливы.\n<PAGE>\nДикие растения ― хорошие подарки.\nНекоторые можно даже пустить в готовку.\n<PAGE>\nКогда они блестят, их можно собирать. Просто\nподойди и <BLUE>нажми кнопку A</BLUE>, чтобы сорвать."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_57",
+   "key": "00169f48",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nНу что, пошли. Давай."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_58",
+   "key": "5d16e248",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nДом Меган ― вон то здание внизу справа."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_59",
+   "key": "ba00d6d8",
+   "ru": "<FACE_UNCLE><POS_RIGHT><FACE_NORMAL>\r\nПошли, давай."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_60",
+   "key": "0f512237",
+   "ru": "Вернуться в дом дяди Фрэнка?"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_61",
+   "key": "6f3ac62e",
+   "ru": "Да, пора возвращаться"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_STORY_TOWN_A_RELEASE_62",
+   "key": "92404022",
+   "ru": "<CANCEL_SELECT>\r\nНет, хочу ещё осмотреться"
+  }
+ ]
+}
