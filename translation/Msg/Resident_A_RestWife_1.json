@@ -1,0 +1,145 @@
+{
+ "file": "Resident_A_RestWife_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_00",
+   "key": "336f446a",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>.\n<PAGE>\n<FACE_SAD>Неприятно говорить это, когда ты только\nпришёл(шла), но тебе лучше уйти домой.\nПрямо сейчас."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_01",
+   "key": "8ff784e4",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nО, это ты, <_____MYNAME_____>?\n<PAGE>\nКак я рада, что ты здесь! Еда будет готова в\nмгновение ока, так что садись к остальным и\nжди!\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>Поздно..."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_02",
+   "key": "7298e6c5",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>. Рад видеть, что к нашему делу\nпримкнула ещё одна несчастная душа.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>Проклятье... Зачем ты здесь, глупая голова..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_03",
+   "key": "9f2dfb00",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_SAD>\r\nОх, нет... Тебя тоже позвали, <_____MYNAME_____>?\n<PAGE>\nНе хочется подвергать даму такому, так что я\nих стараюсь не звать, но...\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>Просто неудачно совпало. Она случайно\nзаглянула секунду назад.\n<PAGE>\nНа твоём месте, <_____MYNAME_____>, я бы просто сдался и принял\nсудьбу.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_SAD>Бедная душа..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_04",
+   "key": "d55f01cb",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>А! Точно, <_____MYNAME_____>, я ведь ещё не объяснил, в чём\nдело?\n<PAGE>\nКак вы все прекрасно знаете, моя жена\nсовершенно не умеет готовить.\n<PAGE>\n<FACE_ANGRY>Поэтому обычно я не пускаю её на кухню, но...\n<PAGE>\n<FACE_SAD>Время от времени ей приходит идея нового\nблюда, которое ей ОБЯЗАТЕЛЬНО надо\nпопробовать."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_05",
+   "key": "e6de5a27",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>\r\n...Иными словами, сегодня у нас вечеринка в\nчесть новейших... кулинарных творений моей\nжены.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>Ага, вечеринка боли...\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>А ещё сегодня я подаю жалобу богу, который\nбыл так жесток, что это допустил."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_06",
+   "key": "208631e7",
+   "ru": "<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_NORMAL>\r\nИ почему меня вечно на такое зовут?\n<PAGE>\nОна твоя жена, разве не тебе самому с этим\nразбираться?\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_ANGRY>Ни за что! Съесть всё одному невозможно, если\nне смертельно!\n<PAGE>\nНадо разделить ношу между собой. Это\nединственный выход.\n<PAGE>\nЧто будешь делать, если она решит отдать\nМеган или Колину биологическую угрозу,\nкоторую я называю “остатками”?\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_ANGRY><WINDOW_SWEAT_R>Ах ты! Прикрываться моей семьёй...! Трус!\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_ANGRY><WINDOW_DEFAULT>...Слушайте. Нужно лишь непоколебимое\nсердце и мощная притворная улыбка.\n<PAGE>\nА главное, доброта, чтобы не огорчить Кэрри.\nРассчитываю на вас всех, ладно?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_07",
+   "key": "e97ec40b",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Та-да-а-ам! Сегодня я попробовала испечь\nвишнёвые тарты в деревенском стиле!\n<PAGE>\nДаже обстановку для атмосферы устроила.\nНачинка ― сек-рет!\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD><WINDOW_DEFAULT>...Ты вообще понимаешь, что значит\n“деревенский стиль”?\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>Что-что?\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>Э, ничего...\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>Ешьте на здоровье, все! ♪"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_08",
+   "key": "251e13c3",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\nГа-а...\n<PAGE>\n<FACE_AMERICAFARMMAN><FACE_SAD>Гу-у...\n<PAGE>\n<FACE_POSTMAN><FACE_SAD>Фу..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_09",
+   "key": "42956cca",
+   "ru": "(Ужасно хрустит, будто ешь песок...)\n<PAGE>\n(Погодите... это И ЕСТЬ песок.)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_10",
+   "key": "5f1ed18f",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\n...Ну? Как?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_11",
+   "key": "7ece9292",
+   "ru": "Будто я в раю"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_12",
+   "key": "2e2457ff",
+   "ru": "Будто жую песок"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_13",
+   "key": "2adfd1ef",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\nПравда? Впервые кто-то так хвалит мою\nстряпню!\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>(Отлично. Очень ловко сказано!)\n<PAGE>\n<FACE_AMERICAFARMMAN><FACE_NORMAL><POS_LEFT>(Ну, в каком-то смысле и правда...)\n<PAGE>\n<FACE_POSTMAN><FACE_NORMAL><POS_RIGHT>(Верно, я и правда чувствую себя ближе к раю.)"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_14",
+   "key": "f215be70",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_SAD>\r\nА? Песок я использовала только для\nатмосферы. Внутрь не клала...\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>Н-нет! <_____MYNAME_____> имеет в виду, что вкус напоминает\nземлю родного края!\n<PAGE>\nА взбитые сливки, кстати, просто\nпревосходные!\n<PAGE>\n<FACE_POSTMAN><FACE_LAUGH><POS_LEFT>Ага, думаю, коровы и представить не могли,\nчто их молоко однажды станет вот этим.\n<PAGE>\n<FACE_AMERICAFARMMAN><FACE_SAD><POS_RIGHT>...Бедные коровы."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_15",
+   "key": "fc16a92c",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nУ-у-ух ты, никак не могу отложить вилку!\nА-ха-ха...!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_16",
+   "key": "22680d58",
+   "ru": "Превозмогая вкус, <_____MYNAME_____> и остальные кое-как съели\nтарты."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_17",
+   "key": "2968ffd6",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\nВсе молодцы...\n<PAGE>\nЕсли у кого будут проблемы с животом, идите\nв клинику Форда.\n<PAGE>\n...Лечение оплачу я."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_18",
+   "key": "1cf95aa6",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\n*вздох* Я ведь пытался предупредить...\nПрости, но теперь тебе тоже придётся."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_RESTWIFE_1_19",
+   "key": "c9e16fda",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nТак, готово!\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_SAD>О радость, готово..."
+  }
+ ]
+}

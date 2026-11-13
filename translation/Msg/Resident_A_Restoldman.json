@@ -1,0 +1,124 @@
+{
+ "file": "Resident_A_Restoldman",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_00",
+   "key": "24aa6eab",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nО, это ты, <_____MYNAME_____>? Чудная сегодня погода, а?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_01",
+   "key": "6243e79b",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nВот как, вот как. Рад слышать.\n<PAGE>\n<FACE_SAD>А у меня, похоже, дела неважные. Ни единой\nпоклёвки."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_02",
+   "key": "70d17d15",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nО, хочешь составить мне компанию? Да\nконечно, почему нет? Компания мне не\nпомешает!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_03",
+   "key": "82ecb72f",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nО?! Кажется, клюнуло!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_04",
+   "key": "31b7d097",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_ANGRY>\r\nОх, тяжёлая...! Громадина попалась!\n<PAGE>\nГья-а-а!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_05",
+   "key": "4e6651e1",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_SAD>\r\nУф... Слишком напрягся, и спину прихватило!\n<PAGE>\nПрости, что прошу, но... не поможешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_06",
+   "key": "f6a4bcef",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nФух! Кое-как вытащили эту громадину из\nводы!\n<PAGE>\n<FACE_LAUGH>Давно я не ловил ничего настолько крупного.\nСпасибо за помощь."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_07",
+   "key": "f021a62c",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nВ знак благодарности давай-ка я приготовлю\nиз этого аппетитного красавца что-нибудь\nпоесть?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_08",
+   "key": "372d1c6e",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nХм? А, спина уже в порядке. Видно, это было\nвременно.\n<PAGE>\n<FACE_NORMAL>...Но разделать такую большую рыбу одному,\nпожалуй, тяжеловато.\n<PAGE>\nПрости за беспокойство, но не поможешь мне и\nс этим?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_09",
+   "key": "93260843",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nТак, начнём разделывать этого здоровяка."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_10",
+   "key": "98b1e1a8",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nВкусно? Рад, что тебе нравится. Я очень\nгоржусь блюдом, что мы приготовили.\n<PAGE>\nКстати, хватит и на добавку, так что угощайся.\n<PAGE>\n<FACE_LAUGH>Но не думал, что в реке ещё водятся такие\nогромные рыбы.\n<PAGE>\nМир рыбалки глубже, чем я думал!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_11",
+   "key": "86f1d6d2",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nО, <_____MYNAME_____>! Поесть пришёл(шла)?\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>Вот это да! Что это за гигантское рыбное\nблюдо?!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_12",
+   "key": "576eb825",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nОх! Вот это да! Дедушка, ты правда поймал\nтакую большую?\n<PAGE>\n<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>Хо-хо, а то как же. Вместе с <_____MYNAME_____>."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_13",
+   "key": "15034f1c",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nХо-хо, а то как же. Вместе с <_____MYNAME_____>."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_14",
+   "key": "347469aa",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nОго, поймали вместе? Жаль, я сам не видел!\n<PAGE>\nРаз получилось такое большое блюдо, рыба,\nнаверное, была настоящим чудищем.\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>Ха-ха, раз уже вместе рыбачите, вы, видно,\nблизки!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_15",
+   "key": "1bfeaa95",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nХа-ха, раз вместе рыбачите, вы, видно,\nблизки."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_A_Restoldman_16",
+   "key": "c49d48d2",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nАга! <_____MYNAME_____> любезно составил(а) компанию старику.\n<PAGE>\nЧто скажешь, <_____MYNAME_____>? Будешь мне как родной внук\nили внучка? Будем рыбачить каждый день!"
+  }
+ ]
+}
