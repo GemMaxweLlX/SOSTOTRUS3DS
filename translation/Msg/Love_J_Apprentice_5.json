@@ -1,0 +1,278 @@
+{
+ "file": "Love_J_Apprentice_5",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_00",
+   "key": "749a3c5c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nА! Привет, <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_01",
+   "key": "df98d461",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nКак дела? Ты пришла только чтобы меня\nувидеть?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_02",
+   "key": "937ed9ee",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nХе-хе, класс. Ты не представляешь, как мне\nприятно.\n<PAGE>\n<WINDOW_PALPITATION_R><FACE_LOVE>...Ух. Знаешь, от такого и правда доходит, что\nмы теперь, ну... вместе."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_03",
+   "key": "2603859f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>? У тебя есть свободное время? Хочешь\nпрогуляться со мной прямо сейчас?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_04",
+   "key": "1421197c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТогда это свидание! Пойдём."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_05",
+   "key": "e8f6d0ed",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Ох, даже просто проводить с тобой время ―\nуже здорово."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_06",
+   "key": "dd6f89a6",
+   "ru": "<NAME_UNKNOWN>\r\nАга! Вижу-вижу... Хинату и <_____MYNAME_____>!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_07",
+   "key": "45663fcc",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nА. Вы трое.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>Ну-у-у...! Ты как будто нам не рад.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL> Здрасьте.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>Что вы тут делаете?\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>Разве не видно? Разговариваем. Мы с <_____MYNAME_____> теперь\nпара, знаете ли. Пары так и делают."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_08",
+   "key": "b540b853",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_EXCLAMATION_L><WINDOW_LINE_R>П-п-пара! Ой-ой! Ты так легко это сказал! Вот\nони, взрослые!\n<PAGE>\n<WINDOW_DEFAULT><FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>И смотрите, как воркуют! Прямо выставляются.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>Воркуют."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_09",
+   "key": "de6101ef",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_KERAKERA_L>Ну да! Конечно! Почему бы не заставить всех\nзавидовать, что у меня такая милая и классная\nдевушка?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_10",
+   "key": "881d613d",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____> покраснела.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>Работает! ♪ Я очень завидую.\n<PAGE>\n<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>О, придумал! А покажите-ка ещё! Хочу\nпосмотреть, как парочки ПО-НАСТОЯЩЕМУ\nворкуют!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_11",
+   "key": "6a757048",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_JOY_L>Ой! Обнимашки и тискашки! Это будет так\nмило! Хочу посмотреть! ♪\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>Я тоже."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_12",
+   "key": "a3173136",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\n<WINDOW_MOJA_L>...Серьёзно? Ну, раз вы настаиваете...\n<PAGE>\n<FACE_NORMAL><_____MYNAME_____>, посмотри-ка сюда секундочку, пожалуйста?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_13",
+   "key": "4ce26dfd",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_JOY_R>Ого, он правда это сделал! Вот это воркование!\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>Ой-ой-ой, у меня от одного вида сердечко так\nи стучит!\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL><_____MYNAME_____> покраснела ещё сильнее."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_14",
+   "key": "521a69ca",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nВот. Довольны? А теперь мы хотим побыть\nвдвоём. Может, пойдёте поиграете где-нибудь\nещё?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_15",
+   "key": "56e0563c",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Ага! Мы супердовольны! ♪\n<PAGE>\n<WINDOW_JOY_R><FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>Простите, что помешали свиданию. Но спасибо\nза показ!\n<PAGE>\n<WINDOW_JOY_R><FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>Хорошего дня."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_16",
+   "key": "9b82c578",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nУх, как быстро бегают. Надеюсь, не споткнутся!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_17",
+   "key": "c9667897",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nНу, раз эта мелюзга умчалась, давай вернёмся\nк..."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_18",
+   "key": "2454078d",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n...? <_____MYNAME_____>, что такое?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_19",
+   "key": "8ca1d72c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>Ах! Стой! Погоди! Почему ты так злишься?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_20",
+   "key": "8108bbbb",
+   "ru": "Это было стыдно!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_21",
+   "key": "7bb6097c",
+   "ru": "Подумай сам!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_22",
+   "key": "4f6038c1",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n<WINDOW_MOJA_R>Ой! П-прости. Да, если подумать, когда тебя\nобнимают на людях, это может быть неловко.\n<PAGE>\nЛично мне всё равно, кто смотрит, так что мне\nдаже в голову не пришло..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_23",
+   "key": "7bb40425",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nОх. Только послушай меня, оправдываюсь. Как\nжалко. Надо было подумать, а я не подумал,\nвот и всё.\n<PAGE>\n<FACE_ANGRY><_____MYNAME_____>! Я сделал то, что тебя расстроило, и мне очень\nжаль!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_24",
+   "key": "7907eae7",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТы меня прощаешь...? Спасибо! Обещаю,\nбольше такого не будет."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_25",
+   "key": "07a66741",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nФух! А я уж думал, что влип по-крупному...\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>Стоп, погоди!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_26",
+   "key": "fee484c8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nЧтобы я правильно понял: ты расстроилась,\nпотому что я обнял тебя, когда люди\nсмотрели...\n<PAGE>\n<FACE_LOVE>Но... если бы никто не смотрел, ты бы не\nвозражала?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_27",
+   "key": "2d0be642",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЯ хочу спросить... дело ведь не в самих\nобъятиях. ...Да?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_28",
+   "key": "1aef279b",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R>...Какое облегчение. Не знаю, что бы я делал,\nесли бы ты сказала, что тебе не нравится,\nкогда я тебя обнимаю."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_29",
+   "key": "f86e5b0e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЗнаю, о таком немного неловко говорить так\nпрямо, но я очень рад, что мы поговорили.\n<PAGE>\n<WINDOW_HEART_R>К тому же... когда любишь кого-то, по-моему,\nважно эту любовь показывать. Надеюсь, ты\nтоже будешь показывать свою любовь ко мне."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_30",
+   "key": "724073b1",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_31",
+   "key": "99ecb8ec",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>А? Подумать самому...? Эм-м-м..."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_32",
+   "key": "420bcfbd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n...А. Ты злишься, что я тебя обнял?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_33",
+   "key": "6a241fd0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nОх. Только послушай меня, оправдываюсь. Как\nжалко. Надо было подумать, а я не подумал,\nвот и всё.\n<PAGE>\n<FACE_ANGRY><_____MYNAME_____>! Я сделал то, что тебя расстроило, и мне очень\nжаль!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_34",
+   "key": "7907eae7",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТы меня прощаешь...? Спасибо! Обещаю,\nбольше такого не будет."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_35",
+   "key": "f3facd66",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nФух! А я уж думал, что влип по-крупному."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_36",
+   "key": "e78e5bec",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nА? Ты не будешь меня за это ненавидеть? Это\nкак понимать?\n<PAGE>\n<WINDOW_JOY_R><FACE_LAUGH>И всё же мне очень приятно это слышать.\nСпасибо, <_____MYNAME_____>!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_37",
+   "key": "1bca8cc8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_R>А-А-АХ! Чёрт! Прости, тело сработало\nраньше, чем голова...!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_5_38",
+   "key": "b19be879",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_L>Хината всё извиняется и извиняется. ...У них всё\nбудет хорошо?\n<PAGE>\n<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL><WINDOW_DEFAULT>Да, думаю, будет. Но...\n<PAGE>\n<FACE_LAUGH>Если они поженятся, ясно же, что главной в\nдоме будет <_____MYNAME_____>!\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>Подкаблучник."
+  }
+ ]
+}

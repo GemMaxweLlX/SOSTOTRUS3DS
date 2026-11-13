@@ -1,0 +1,264 @@
+{
+ "file": "Love_J_Apprentice_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_00",
+   "key": "0e9df2c8",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>. Приветствую. Пришла за покупками?\n<PAGE>\nУ нас много нового и интересного товара.\nПрошу, смотри сколько угодно."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_01",
+   "key": "9d99b78b",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nНет-нет. Не обращай на меня внимания. Сейчас\nя просто наблюдаю, как Хината обслуживает\nпокупателя.\n<PAGE>\nОни вон там. Видишь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_02",
+   "key": "d8366e31",
+   "ru": "Скажи-ка, юный Хината, эта ткань ― чесуча?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_03",
+   "key": "07f18458",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nСовершенно верно. Как видите, у неё\nсвоеобразная фактура и узор, так что ткань\nдовольно необычная...\n<PAGE>\n<FACE_LAUGH>Но с вашими мужественными чертами и\nсдержанной манерой, думаю, она вам отлично\nподойдёт.\n<PAGE>\nМожет, наденете её на собрание любителей\nхайку в следующем месяце?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_04",
+   "key": "a7095cc2",
+   "ru": "Ого! Забавно, что ты это говоришь! Я и сам о\nтом же подумал. Кстати, а где изготовлена эта\nткань...?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_05",
+   "key": "8a68e663",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nЭтот пожилой господин ― один из наших\nлучших покупателей. Он всегда приходит в\nопределённое время и покупает дорогие ткани.\n<PAGE>\nХината ― его любимец. Он всегда просит,\nчтобы его обслуживал именно Хината."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_06",
+   "key": "c591a980",
+   "ru": "Ха-ха-ха! Понятно, понятно! Что ж, убедил!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_07",
+   "key": "03f46aa0",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nПрекрасный выбор. Благодарю за покупку."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_08",
+   "key": "8bbeb931",
+   "ru": "Батюшки, ну и красноречив же ты, юноша.\nКаждый раз, как прихожу, покупки ― одно\nудовольствие."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_09",
+   "key": "1848a097",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nБольшое спасибо, что зашли сегодня. Мне тоже\nвсегда приятны наши беседы.\n<PAGE>\nЕсли пожелаете, приходите ещё взглянуть на\nнаш выбор тканей."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_10",
+   "key": "944c0a90",
+   "ru": "Да, наверное, загляну, когда снова буду в этих\nкраях.\n<PAGE>\nМожет, тогда наконец посмотрю ваши\nфуросики. Давно их не видел."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_11",
+   "key": "f0b53b69",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nКак пожелаете. Я обязательно подготовлю\nподборку на каждый день, а также для любого\nособого случая."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_12",
+   "key": "8bff56f6",
+   "ru": "Отлично, отлично. Будь добр. Ну, всего\nхорошего."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_13",
+   "key": "0f2cd8f2",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_NORMAL>\r\nХорошая работа, Хината."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_14",
+   "key": "1b9f4788",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nСпасибо."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_15",
+   "key": "6d03b09c",
+   "ru": "<FACE_WOLESALER><POS_RIGHT><FACE_LAUGH>\r\nТак или иначе, с этим покупателем ты\nсправился очень хорошо.\n<PAGE>\nЭта ткань весьма высокого качества. Я очень\nрад, что она попала к ценителю.\n<PAGE>\n<FACE_NORMAL>Ну, ты весь день крутишься. Почему бы тебе не\nпойти в подсобку и немного не передохнуть?\n<PAGE>\n<FACE_LAUGH><FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>Спасибо. Так и сделаю."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_16",
+   "key": "c0144136",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nЭй, придумал. <_____MYNAME_____>, может, пойдёшь со мной и\nпосидим, пока у меня перерыв?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_17",
+   "key": "b01bec19",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nКласс! Пойдём."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_18",
+   "key": "c359aa22",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\nФух! Наконец-то можно перевести дух."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_19",
+   "key": "2890c3e4",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nХа-ха-ха! Спасибо за комплимент.\n<PAGE>\nПокупатель доволен, начальник доволен.\nПо-моему, это победа!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_20",
+   "key": "853c7170",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nЯ хорошо обслуживаю покупателей? Приятно,\nчто ты так думаешь, но я ничего особенного не\nделаю.\n<PAGE>\nОбслуживать ― значит просто помогать найти\nто, что хочется, и чтобы покупать было\nвесело, да?\n<PAGE>\nВот я и повторяю то, что делаю, когда мы с\nЮдзуки вместе ходим по магазинам. Меняю\nтолько тон на вежливый."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_21",
+   "key": "de0564d2",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nН-ну хватит. Не надо меня так захваливать. Я\nпокраснею.\n<PAGE>\nИли я и правда так круто выглядел, когда\nстроил из себя серьёзного? ...Хех, шучу."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_22",
+   "key": "39f90759",
+   "ru": "Ага! Ты был красавцем!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_23",
+   "key": "a43d5800",
+   "ru": "Молча уставиться на него"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_24",
+   "key": "8744974c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nДа, точно? Совсем на меня не похоже..."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_25",
+   "key": "2f787072",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\n<WINDOW_LINE_L><WINDOW_EXCLAMATION_L>ОГО, ПОСТОЙ, ДАВАЙ НАЗАД!\n<PAGE>\nТы правда считаешь, что я был... красавцем?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_26",
+   "key": "eb7b0ae7",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\nА. Эм... спасибо."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_27",
+   "key": "4e126fa1",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nА-ха-ха... Прости, что раскричался. Просто,\nэ-э... серьёзный комплимент от того, с кем мы,\nэ-э, хорошие друзья...\n<PAGE>\n<WINDOW_FUN_L>Ну, от этого мне очень приятно. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_28",
+   "key": "51fc94b7",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nОй! Мне пора обратно в зал. Не хочу, чтобы\nначальник наорал."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_29",
+   "key": "53613998",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nК тому же ты ведь пришла за покупками, да?\nПрости, что так долго отвлекал.\n<PAGE>\nЗа посуду не волнуйся, я уберу. Иди обратно в\nзал."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_30",
+   "key": "2ce9197a",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\n“Красавцем”, значит? ...Ох.\n<PAGE>\nПосле таких слов как я теперь могу не\nобращать на тебя ЕЩЁ больше внимания? Эх."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_31",
+   "key": "53380df5",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n..."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_32",
+   "key": "4cfcc3ba",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\nЭ-эй. Что за каменное молчание, а? Только что\nты сыпала комплиментами."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_33",
+   "key": "8752d8b6",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Эм, я-я же просто пошутил. Не принимай\nвсерьёз.\n<PAGE>\n<WINDOW_DEFAULT>Ну, мне хочется думать, что с тобой я веду\nсебя как обычно. А тот манерный тон ― просто\nигра для работы."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_34",
+   "key": "2421fb4d",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nВ общем... мне пора обратно в зал. Не хочу,\nчтобы начальник наорал."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_35",
+   "key": "53613998",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nК тому же ты ведь пришла за покупками, да?\nПрости, что так долго отвлекал.\n<PAGE>\nЗа посуду не волнуйся, я уберу. Иди обратно в\nзал."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_2_36",
+   "key": "8a5c24a6",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>! Чуть тебя не проглядел! Добро пожаловать."
+  }
+ ]
+}

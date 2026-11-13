@@ -1,0 +1,250 @@
+{
+ "file": "Love_J_Apprentice_7",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_00",
+   "key": "de66d144",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Возвращаешься с дел?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_01",
+   "key": "6a604fe2",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nА у меня скоро спектакль, вот я и зашёл\nпомолиться, чтобы всё прошло хорошо."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_02",
+   "key": "40e32b78",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nСпектакли почти всегда играют днём...\n<PAGE>\nНо этот ― история ужасов, так что решили в\nвиде исключения играть ночью.\n<PAGE>\n<WINDOW_FUN_L><FACE_LAUGH>У меня маленькая роль, но всё равно впервые\nбуду играть ночью. Жду не дождусь!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_03",
+   "key": "10905c71",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Что, ты тоже помолишься за меня? Спасибо!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_04",
+   "key": "276154ca",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_ANGRY>\r\nПусть спектакль пройдёт без сучка без\nзадоринки! Пусть спектакль пройдёт без сучка\nбез задоринки!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_05",
+   "key": "5e9f09c0",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nРаз мы помолились вдвоём, точно сбудется."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_06",
+   "key": "47ecd768",
+   "ru": "Ага! Вот он. Хината!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_07",
+   "key": "33b060e7",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\nЭто один из работников сцены. Что-то\nслучилось?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_08",
+   "key": "a599a986",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\nЗачем ты пришёл в такую даль? До поднятия\nзанавеса ещё уйма времени..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_09",
+   "key": "6bf226a9",
+   "ru": "Чрезвычайное происшествие. Нужно\nпоговорить."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_10",
+   "key": "9ce06a2a",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\nЧ-что? Я?!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_11",
+   "key": "ab0f3c14",
+   "ru": "Ага. Так решил режиссёр. Удачи, Хината."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_12",
+   "key": "b95e429b",
+   "ru": "И за кулисами ты нужен пораньше. Как\nсоберёшь вещи, сразу приходи, ладно?\n<PAGE>\nПойду предупрежу остальных актёров и\nкоманду. Не опаздывай!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_13",
+   "key": "898a6011",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nОдин из актёров внезапно простудился, и\nрежиссёр велел мне заменить его ― а это одна\nиз главных ролей."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_14",
+   "key": "d7176305",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n...Я никогда не играл такую большую роль."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_15",
+   "key": "3b92f095",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nОх, ч-что же мне делать? Я и близко не дорос\nдо этой роли!\n<PAGE>\nТ-то есть реплики-то я выучил, н-но не могу\nже я играть такую важную роль почти без\nподготовки!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_16",
+   "key": "a393d982",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\n<WINDOW_MOJA_R>Я-я точно всё испорчу ― и при всех этих\nлюдях! Что делать? Что же делать?!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_17",
+   "key": "8a61cfed",
+   "ru": "(Хината начинает паниковать. Что делать?)"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_18",
+   "key": "15d25c83",
+   "ru": "Успокоить его"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_19",
+   "key": "55047d06",
+   "ru": "Подбодрить его"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_20",
+   "key": "5d4662c5",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_21",
+   "key": "741376c7",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nПрости, я немного запаниковал."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_22",
+   "key": "6e1f9c66",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_SAD>\r\nЯ всё ещё очень волнуюсь. Сердце будто\nвот-вот выпрыгнет из груди.\n<PAGE>\n<FACE_LAUGH>Но раз ты столько для меня делаешь, не могу\nже я поджать хвост и сбежать. Это было бы\nсовсем жалко.\n<PAGE>\nЛадно! Новичок или нет, я всё-таки актёр!\nРоль дали ― остаётся стиснуть зубы и сыграть."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_23",
+   "key": "b39ea991",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nВ общем, мне пора. Надо заскочить домой за\nвещами, а потом на сцену."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_24",
+   "key": "62706374",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nВызовешь мне паланкин? Отличная мысль, <_____MYNAME_____>.\nСпасибо."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_25",
+   "key": "11336c68",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nНу вот и мой транспорт."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_26",
+   "key": "5a011843",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТак, э-э, увидимся..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_27",
+   "key": "3d3f99f8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nЭй, вообще-то, если ты не против... придёшь\nпосмотреть спектакль?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_28",
+   "key": "0adbdd36",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nНу, сегодня мне надо сыграть лучше, чем\nкогда-либо, верно?\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_R>И, понимаешь, эм... мне всегда хочется изо всех\nсил выглядеть перед тобой круто, знаешь?\n<PAGE>\nТ-так что если ты будешь в зале, мне это\nправда поможет ни пуха ни пера..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_29",
+   "key": "334414d8",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_FUN_R>Правда? Придёшь?! Ты не представляешь, как\nмне сразу полегчало. Ладно, увидимся там!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_30",
+   "key": "42fc1a10",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Фух! Ну и вечер. Отыграл весь спектакль, не\nпропустив ни одной реплики.\n<PAGE>\nКогда упал занавес, у меня от облегчения чуть\nноги не подкосились."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_31",
+   "key": "ab0434dd",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nДа я даже сам удивился, как хорошо сегодня\nсыграл. Кажется, это моё лучшее выступление.\n<PAGE>\nДаже режиссёр сказал, что правильно сделал,\nвыбрав меня на замену."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_32",
+   "key": "899c56ab",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nСмешно вспоминать, каким жалким нервным\nкомком я был всего несколько часов назад...\n<PAGE>\n<FACE_LOVE>Но потому что ты была рядом и пришла меня\nподдержать, я смог выложиться по полной.\n<PAGE>\nБез тебя я бы не справился, <_____MYNAME_____>."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_33",
+   "key": "fd547192",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\nТак что, э-э-э... знаю, я обещал так не делать,\nно... можно я тебя обниму?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_7_34",
+   "key": "e6dae4da",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\n<WINDOW_HEART_L>Я люблю тебя, <_____MYNAME_____>."
+  }
+ ]
+}

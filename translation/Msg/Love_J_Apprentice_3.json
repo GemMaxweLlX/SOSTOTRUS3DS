@@ -1,0 +1,222 @@
+{
+ "file": "Love_J_Apprentice_3",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_00",
+   "key": "d1240b86",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_L>Эх... И что мне теперь делать?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_01",
+   "key": "6da43c8e",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nО, эй, это же... Эй, <_____MYNAME_____>! <_____MYNAME_____>, сюда!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_02",
+   "key": "79944d35",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nХа-ха! Рад тебя видеть! Как дела?\nВозвращаешься из Лулукоко?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_03",
+   "key": "ddf0705c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\nА? Что-то не так? Ох, я что, правда так плохо\nвыгляжу?\n<PAGE>\n<WINDOW_SWEAT_L>Не, ничего, э-э... “плохого” как такового.\nСкорее я попал в затруднительное положение..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_04",
+   "key": "9c4aa6ca",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nО, придумал! Слушай, можно тебя попросить?\nПрости, что так вдруг, но...\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_L>Можно попросить тебя порепетировать со мной\nреплики?! Пожалуйста?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_05",
+   "key": "7a7fd93c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nОдин мой любимый актёр подарил мне\nсценарий спектакля, в котором играл\nмного-много лет назад.\n<PAGE>\nТы не представляешь, как я обрадовался.\nТолько набрался смелости начать\nрепетировать...\n<PAGE>\n<FACE_SAD>Но мне никак не удаётся войти в роль. Нужен\nкто-то, кто будет подыгрывать, пока я читаю.\n<PAGE>\n<WINDOW_MOJA_L>Я попросил Юдзуки, но он отказался...\n<PAGE>\nА просить Сидзу или Комари как-то неловко.\n<PAGE>\n<FACE_ANGRY><WINDOW_DEFAULT>Ты единственная, кого я могу попросить, <_____MYNAME_____>!\nВсего на пару минут, обещаю!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_06",
+   "key": "bb5edb7c",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Класс! Огромное спасибо! Я твой должник, <_____MYNAME_____>!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_07",
+   "key": "6aa7bd32",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nВремя не ждёт, так что начнём. Хотя\nсосредоточиться, наверное, проще там, где\nпотише. Пойдём, за мной!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_08",
+   "key": "89ef810e",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nТак, перед чтением, может, пробежишь\nсценарий глазами? Там, где закладка.\n<PAGE>\n<FACE_LOSS>Реплик не так уж много, так что вряд ли будет\nсложно..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_09",
+   "key": "7b4e08d4",
+   "ru": "(Посмотрим...)"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_10",
+   "key": "ad5f1b4f",
+   "ru": "●МЕСТО: Под деревом ●СЦЕНА: Разговор\nДзиро и Орин\n<PAGE>\nДЗИРО: Возможно, это мой последний шанс,\nпоэтому скажу... я люблю тебя.\n<PAGE>\nДЗИРО: Я не знал, что такое любовь, пока не\nвстретил тебя, и теперь знаю, что никого\nбольше не полюблю.\n<PAGE>\nДЗИРО: Я буду наблюдать за тобой издалека и\nкаждый день молиться о твоём счастье.\n<PAGE>\nОРИН: Но, Дзиро, я чувствую то же самое. Я\nвсегда тебя любила...\n<PAGE>\nОРИН: Неужели нам правда нужно расстаться? Я\nне хочу тебя покидать. Прошу, возьми меня с\nсобой!\n<PAGE>\nДЗИРО: Орин... Ты серьёзно? Ты правда\nбудешь моей?\n<PAGE>\n●Орин кивает.\n<PAGE>\nДЗИРО: Спасибо, Орин. Огромное спасибо... Я\nбольше никогда тебя не отпущу."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_11",
+   "key": "5c7862c6",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\n<WINDOW_MOJA_L>...Да, это должна быть довольно страстная\nсцена. Понимаю, почему ты так отреагировала.\n<PAGE>\nНу что ж. Видно, придётся бросить затею\nрепетировать с кем-то и как-нибудь самому..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_12",
+   "key": "60005ee2",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nА? Правда? Ты согласна?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_13",
+   "key": "34a03df1",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Отлично! Только помни: это всё игра, так что\nне стесняйся, ладно?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_14",
+   "key": "fe0df097",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\nВозможно, это мой последний шанс, поэтому\nскажу... я люблю тебя.\n<PAGE>\nЯ не знал, что такое любовь, пока не встретил\nтебя, и теперь знаю, что никого больше не\nполюблю.\n<PAGE>\n<FACE_SAD>Я буду наблюдать за тобой издалека и каждый\nдень молиться о твоём счастье."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_15",
+   "key": "cc4f82ad",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\n..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_16",
+   "key": "4cd27d91",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_ANGRY>\r\n<_____MYNAME_____>... ты серьёзно? Ты правда будешь моей?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_17",
+   "key": "fcbf4cff",
+   "ru": "(Ой-ой! Он назвал меня по имени вместо\n“Орин”. Поправить его?)"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_18",
+   "key": "2ffeecd7",
+   "ru": "Поправить"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_19",
+   "key": "fea5e228",
+   "ru": "Продолжить как есть"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_20",
+   "key": "088130c9",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\n<WINDOW_EXCLAMATION_L>...ОЙ! Чёрт, прости!\n<PAGE>\nТы стоишь прямо передо мной, вот оно как-то\nи вырвалось..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_21",
+   "key": "943db40f",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Огромное спасибо... Я больше\nникогда тебя не отпущу."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_22",
+   "key": "e481aacf",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\nОй! Чёрт, прости."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_23",
+   "key": "b82860a7",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\n<WINDOW_MOJA_L>Кажется, я немного увлёкся."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_24",
+   "key": "ba37bd45",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\n<WINDOW_EXCLAMATION_L>Что...? Я всё время говорил твоё имя вместо\n“Орин”?!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_25",
+   "key": "627be018",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\nОх... я так вжился в роль, что забыл, что,\nэ-э... КХМ!\n<PAGE>\nЯ совсем не заметил. Прости, пожалуйста."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_26",
+   "key": "8b75be16",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\nОх! Вживаться в роль ― это важно, но, видно,\nнадо следить, чтобы не вжиться СЛИШКОМ\nсильно.\n<PAGE>\nДумаю, на сегодня репетиций хватит. Мне\nнужно время прийти в себя. Пойдём, провожу\nтебя немного."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_27",
+   "key": "9bc258d2",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nСпасибо за помощь. Я, э-э... хорошо\nпотренировался."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_28",
+   "key": "fdcee2ef",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nТебе тоже было весело? Рад слышать. Нет,\nправда. Я рад."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_29",
+   "key": "c218e00d",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nВ-в общем, ещё увидимся, <_____MYNAME_____>."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_APPRENTICE_3_30",
+   "key": "a6748d6b",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_SAD>\r\n<WINDOW_MOJA_L>Ничего себе, неужели я правда это сделал?!\nЭ-это была не игра... Я правда...\n<PAGE>\n<FACE_LOVE><_____MYNAME_____> ведь не заметила, правда? Пожа-а-алуйста,\nпусть она не заметила."
+  }
+ ]
+}
