@@ -2,6 +2,62 @@
  "file": "Family_ChildBirth",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_00",
+   "key": "895c8245",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы в порядке, <_____MYNAME_____>?\n<PAGE>\n<FACE_ANGRY>Неужели...?! Батюшки!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_01",
+   "key": "923a9bd0",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_ANGRY>\r\nНачинаются роды?! Я мигом отвезу тебя в\nклинику!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_02",
+   "key": "e11a6c6c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо. Беспокоиться не о чем.\nСкоро ты станешь мамой!\n<PAGE>\nПомни: глубокие вдохи!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_03",
+   "key": "f3f043cb",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители прекрасного\nмальчика.\n<PAGE>\nИ ты, и малыш, судя по всему, вполне здоровы,\nтак что не волнуйся, <_____MYNAME_____>."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_04",
+   "key": "678544b3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители очаровательной\nдевочки.\n<PAGE>\nИ ты, и малышка, судя по всему, вполне\nздоровы, так что не волнуйся, <_____MYNAME_____>."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_05",
+   "key": "e2367ec6",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nТы, наверное, совсем без сил, <_____MYNAME_____>. Ты была\nпотрясающей. Я так тобой горжусь.\n<PAGE>\nМамы и правда невероятные.\n<PAGE>\nКак новоиспечённый отец, я так благодарен,\nчто мама моего ребёнка ― ты."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_06",
+   "key": "b072ace8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_07",
+   "key": "3b46b882",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nВообще-то у меня есть пара имён, которые\nмогут подойти.\n<PAGE>\n<FACE_NORMAL>Я думал: <MOJI0>, <MOJI1> или <MOJI2>.\n<PAGE>\nЧто скажешь? Нравится какое-нибудь?"
+  },
+  {
    "n": 8,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Postman_08",
@@ -30,6 +86,13 @@
    "ru": "Другое"
   },
   {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_12",
+   "key": "0391da20",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Значит, назовём <MOJI0>?"
+  },
+  {
    "n": 13,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Postman_13",
@@ -37,11 +100,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_15",
+   "key": "5fbf9ec7",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Я уже с неделю пытался придумать\nчто-нибудь хорошее!\n<PAGE>\nИ я очень рад, что тебе тоже нравится, <_____MYNAME_____>.\n<PAGE>\nТы, я и <CHILD_NAME>... У нас будет куча незабываемых\nвоспоминаний."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_16",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_17",
+   "key": "373c4281",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nКонечно, <_____MYNAME_____>. Что ты задумала?"
+  },
+  {
    "n": 18,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Postman_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_19",
+   "key": "70dc8da9",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>, значит? Мне нравится, как звучит.\n<PAGE>\nУверен, малышу тоже понравится!\n<PAGE>\nТы, я и <CHILD_NAME>... У нас будет куча незабываемых\nвоспоминаний."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_20",
+   "key": "31d212b0",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗнаю, решить трудно. Не волнуйся.\n<PAGE>\nТоропиться некуда. Давай немного подумаем.\n<PAGE>\nЯ склонялся к <MOJI0>, <MOJI1> или <MOJI2>. Может, одно из них?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_100",
+   "key": "8381f237",
+   "ru": "Джулиус"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_101",
+   "key": "70b3449a",
+   "ru": "Остин"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_102",
+   "key": "0caddeb4",
+   "ru": "Роджер"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_103",
+   "key": "d7db7fc3",
+   "ru": "Амелия"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_104",
+   "key": "2880e5e9",
+   "ru": "Мира"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Postman_105",
+   "key": "5c677567",
+   "ru": "Джордан"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_00",
+   "key": "2c7c27d1",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nТы в порядке? Что-то случилось?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_01",
+   "key": "e0773f89",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nБоль в животе...? Да, понятно! Определённо\nначинаются роды! Наш ребёнок готов родиться,\nно не волнуйся.\n<PAGE>\nЯ заранее рассчитал, что это случится сегодня,\nи договорился о транспорте.\n<PAGE>\nМожет немного трясти, но я постараюсь, чтобы\nтебе было как можно удобнее. Поехали!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_02",
+   "key": "a3794349",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nДумаю, малыш вот-вот появится.\n<PAGE>\n<FACE_AMERICAFARMOLDWOMAN><POS_RIGHT><FACE_NORMAL>Спокойно. Постарайся расслабиться и глубоко\nвдохни. Вот так. А теперь тужься на выдохе...\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Видишь? Всё будет хорошо. Беспокоиться\nсовершенно не о чем. Почти... Почти...!\n<PAGE>\nХорошо! Ещё один глубокий вдох!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_03",
+   "key": "605b3453",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители чудесного\nмальчика.\n<PAGE>\nИ ты, и малыш, похоже, в порядке, так что не\nволнуйся, <_____MYNAME_____>."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_04",
+   "key": "651deb48",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители чудесной\nдевочки.\n<PAGE>\nИ ты, и малышка, похоже, в порядке, так что\nне волнуйся, <_____MYNAME_____>."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_05",
+   "key": "d388d0cb",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nФух! Признаюсь, я немного нервничал!\n<PAGE>\nЯ ведь этими самыми руками помог нашему\nребёнку появиться на свет... Никогда не забуду\nэтот день."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_06",
+   "key": "12a5c023",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nАх да! Ты, должно быть, ужасно устала, но,\nпожалуй, надо выбрать имя, как думаешь?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Нужно выбрать имя, которым\nребёнок сможет гордиться."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_07",
+   "key": "00fb9565",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nВообще-то я оценивал ряд возможных имён.\n<PAGE>\nСузил до трёх: <MOJI0>, <MOJI1> или <MOJI2>. Что скажешь?"
   },
   {
    "n": 35,
@@ -72,6 +275,13 @@
    "ru": "Другое"
   },
   {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_12",
+   "key": "6dfd426b",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nО? Значит, тебя устраивает <MOJI0>?"
+  },
+  {
    "n": 40,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Doctor_13",
@@ -79,11 +289,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_15",
+   "key": "a68ff980",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПревосходно. Я всю неделю оценивал имена,\nчтобы выбрать лучшее.\n<PAGE>\nРад, что тебе нравится.\n<PAGE>\nОтныне ты, я и <CHILD_NAME> ― одна большая и деятельная\nсемья."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_16",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_17",
+   "key": "b85b8689",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, тогда имя оставляю на тебя, <_____MYNAME_____>. Что ты\nзадумала?"
+  },
+  {
    "n": 45,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Doctor_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_19",
+   "key": "934f6aa5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>... Да, по-моему, превосходное имя.\n<PAGE>\nУверен, нашему ребёнку тоже понравится.\n<PAGE>\nОтныне ты, я и <CHILD_NAME> ― одна большая и деятельная\nсемья."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_20",
+   "key": "d449b6b8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nДа, имя ― очень важное решение! Оно на всю\nжизнь. Давай вместе ещё раз подумаем.\n<PAGE>\nЯ бы предложил <MOJI0>, <MOJI1> или <MOJI2>. Может, одно из них?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_100",
+   "key": "abb01127",
+   "ru": "Кевин"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_101",
+   "key": "2ef6fe7c",
+   "ru": "Кром"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_102",
+   "key": "64ecf7f5",
+   "ru": "Терри"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_103",
+   "key": "3b490284",
+   "ru": "Мари"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_104",
+   "key": "5cfcc2ee",
+   "ru": "Неон"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Doctor_105",
+   "key": "942d7550",
+   "ru": "Селена"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_00",
+   "key": "bc2f82bd",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_SAD>\r\nТы в порядке? Хм? Думаешь, малыш на\nподходе?!"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_01",
+   "key": "80f0843c",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЯ сейчас же отвезу тебя в больницу!"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_02",
+   "key": "e11a6c6c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо. Беспокоиться не о чем.\nСкоро ты станешь мамой!\n<PAGE>\nПомни: глубокие вдохи!"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_03",
+   "key": "4c6b607f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители прекрасного\nмальчика.\n<PAGE>\nИ мама, и малыш, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_04",
+   "key": "d81e6707",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители очаровательной\nдевочки.\n<PAGE>\nИ мама, и малышка, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_05",
+   "key": "d47f254f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТеперь можно расслабиться, <_____MYNAME_____>. Ты была очень\nсмелой.\n<PAGE>\n<FACE_LOVE> А я теперь отец. Какое потрясающее чувство.\n<PAGE>\nОгромное спасибо, что подарила миру нашего\nребёнка."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_06",
+   "key": "b072ace8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_07",
+   "key": "72dce110",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nУ меня есть пара вариантов, <_____MYNAME_____>.\n<PAGE>\nТочнее, три. <MOJI0>, <MOJI1> или <MOJI2>. Что скажешь?"
   },
   {
    "n": 62,
@@ -114,6 +464,13 @@
    "ru": "Другое"
   },
   {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_12",
+   "key": "a8c15cf3",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nОчень хорошо. Значит, тебе нравится <MOJI0>?"
+  },
+  {
    "n": 67,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Chaser_13",
@@ -121,11 +478,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_15",
+   "key": "e3bb76a1",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nЯ рад, что тебе нравится. Признаться, я\nпридумывал эти имена дольше, чем хотелось\nбы.\n<PAGE>\nСпасибо, <_____MYNAME_____>. Ха-ха.\n<PAGE>\nТы, я и <CHILD_NAME> ― у нас будет много весёлых\nвоспоминаний."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_16",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_17",
+   "key": "65c7c10a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nКонечно. Уверен, ты выберешь отличное имя, <_____MYNAME_____>.\nЧто предложишь?"
+  },
+  {
    "n": 72,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Chaser_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_19",
+   "key": "a4879c75",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>. Чудесное имя!\n<PAGE>\nУверен, нашему ребёнку тоже понравится.\n<PAGE>\nТы, я и <CHILD_NAME> ― у нас будет много весёлых\nвоспоминаний."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_20",
+   "key": "acb1c6f3",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТы права. Имя очень важно, торопиться не\nстоит. Давай ещё подумаем.\n<PAGE>\nЯ думаю о <MOJI0>, <MOJI1> или <MOJI2>. Как тебе?"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_100",
+   "key": "178fe998",
+   "ru": "Саку"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_101",
+   "key": "438a1a38",
+   "ru": "Сидзума"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_102",
+   "key": "76dadfe3",
+   "ru": "Муцуки"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_103",
+   "key": "eaff174f",
+   "ru": "Хацуми"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_104",
+   "key": "e919ffee",
+   "ru": "Канна"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Chaser_105",
+   "key": "d97c78fd",
+   "ru": "Сацуки"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_00",
+   "key": "f0090181",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nЭй, что такое? О? Неужели...?"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_01",
+   "key": "0fad0c37",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nТы рожаешь?! Едем в больницу!"
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_02",
+   "key": "e11a6c6c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо. Беспокоиться не о чем.\nСкоро ты станешь мамой!\n<PAGE>\nПомни: глубокие вдохи!"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_03",
+   "key": "4c6b607f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители прекрасного\nмальчика.\n<PAGE>\nИ мама, и малыш, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_04",
+   "key": "d81e6707",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители очаровательной\nдевочки.\n<PAGE>\nИ мама, и малышка, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_05",
+   "key": "bc87b860",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nОтдыхай, <_____MYNAME_____>. Знаю, было непросто, но я так\nтобой горжусь.\n<PAGE>\nИ не верится, что я теперь отец! Да ещё такого\nмилого малыша! Я вне себя!"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_06",
+   "key": "b072ace8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_07",
+   "key": "767bcce4",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, <_____MYNAME_____>, я уже давно придумываю имена...\n<PAGE>\nКак насчёт <MOJI0>, <MOJI1> или <MOJI2>? Что скажешь?"
   },
   {
    "n": 89,
@@ -156,6 +653,13 @@
    "ru": "Другое"
   },
   {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_12",
+   "key": "d9c6e77e",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nПравда? Значит, тебе нравится <MOJI0>, а?"
+  },
+  {
    "n": 94,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Apprentice_13",
@@ -163,11 +667,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_15",
+   "key": "30042c4c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Я неделями пытался придумать\nчто-нибудь хорошее!\n<PAGE>\nРад, что тебе тоже нравится, <_____MYNAME_____>. Ха-ха.\n<PAGE>\nТак! Берегись, мир! Ты, я и <CHILD_NAME> ― будет куча\nвеселья!"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_16",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_17",
+   "key": "7ead194c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nКонечно, как хочешь, <_____MYNAME_____>. Что придумала?"
+  },
+  {
    "n": 99,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Apprentice_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_19",
+   "key": "ddf84735",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>? Да, отлично!\n<PAGE>\nУверен, нашему малышу тоже очень\nпонравится.\n<PAGE>\nТак! Берегись, мир! Ты, я и <CHILD_NAME> ― будет куча\nвеселья!"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_20",
+   "key": "db989f7d",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nХм, да, с именами непросто. Не хочется\nошибиться! Давай ещё раз подумаем.\n<PAGE>\nМне нравятся <MOJI0>, <MOJI1> и <MOJI2>. Что скажешь?"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_100",
+   "key": "e5209193",
+   "ru": "Косиро"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_101",
+   "key": "ff3cec7b",
+   "ru": "Кикуноскэ"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_102",
+   "key": "36e6cd96",
+   "ru": "Сакон"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_103",
+   "key": "dd12031c",
+   "ru": "Яэ"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_104",
+   "key": "100234e4",
+   "ru": "Синобу"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Apprentice_105",
+   "key": "0240cd54",
+   "ru": "Ботан"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_00",
+   "key": "19016154",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭй, ты как? Что-то не так?\n<PAGE>\nО, неужели...?!"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_01",
+   "key": "d4cfb03c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nМалыш на подходе?! Держись, я сейчас же\nотвезу тебя в больницу!"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_02",
+   "key": "e11a6c6c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо. Беспокоиться не о чем.\nСкоро ты станешь мамой!\n<PAGE>\nПомни: глубокие вдохи!"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_03",
+   "key": "4c6b607f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители прекрасного\nмальчика.\n<PAGE>\nИ мама, и малыш, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_04",
+   "key": "d81e6707",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители очаровательной\nдевочки.\n<PAGE>\nИ мама, и малышка, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_05",
+   "key": "2595728e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПолучилось, <_____MYNAME_____>! Ты, наверное, без сил, но\nогромное спасибо, что подарила миру нашего\nребёнка. Махало.\n<PAGE>\nИ слушай... какой милый малыш! Немножко на\nтебя похож, ха-ха! Я уже у него на крючке."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_06",
+   "key": "b072ace8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_07",
+   "key": "b0408dc6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nАга, вообще-то я уже перебирал варианты.\nХочешь послушать, <_____MYNAME_____>?\n<PAGE>\n<FACE_NORMAL>Мои три фаворита: <MOJI0>, <MOJI1> и <MOJI2>. Нравится\nкакое-нибудь?"
   },
   {
    "n": 116,
@@ -198,6 +842,13 @@
    "ru": "Другое"
   },
   {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_12",
+   "key": "7ae1956c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЛадно! Тебе нравится <MOJI0>, да?"
+  },
+  {
    "n": 121,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Craftman_13",
@@ -205,11 +856,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_15",
+   "key": "4ae8a0a4",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nСпасибо! Признаюсь, придумывать хорошие\nимена трудно!\n<PAGE>\nРад, что выбрал то, что тебе нравится, <_____MYNAME_____>.\n<PAGE>\nТы, я и <CHILD_NAME> создадим чудесные воспоминания.\nТеперь мы настоящая охана!"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_16",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_17",
+   "key": "9e30404e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nБез проблем. Уверен, у тебя отличные идеи, <_____MYNAME_____>.\nЧто думаешь?"
+  },
+  {
    "n": 126,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Craftman_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_19",
+   "key": "584a881d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<CHILD_NAME>...? Да, идеально! И я знаю, нашему малышу\nтоже понравится.\n<PAGE>\nТы, я и <CHILD_NAME> создадим чудесные воспоминания.\nТеперь мы настоящая охана!"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_20",
+   "key": "3fefbfd5",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНичего. Решение трудное, торопиться не стоит.\nДавай ещё раз подумаем.\n<PAGE>\nМне нравятся <MOJI0>, <MOJI1> или <MOJI2>. А тебе?"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_100",
+   "key": "bd931d49",
+   "ru": "Мака"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_101",
+   "key": "4fd13115",
+   "ru": "Илима"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_102",
+   "key": "b473777d",
+   "ru": "Тито"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_103",
+   "key": "8dda3a40",
+   "ru": "Моана"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_104",
+   "key": "0bf4f21e",
+   "ru": "Лаки"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Craftman_105",
+   "key": "9dacb870",
+   "ru": "Руэллия"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_00",
+   "key": "e9a12624",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_SAD>\r\nОй, батюшки... Живот... Кажется, малыш на\nподходе!"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_01",
+   "key": "1983c7f2",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nДа, в клинике мне станет легче. Спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_02",
+   "key": "f0ad5dff",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо, <CHARANAME0>. Беспокоиться не о чем.\nСкоро вы станете мамой!\n<PAGE>\nПомните: глубокие вдохи!"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_03",
+   "key": "4c6b607f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители прекрасного\nмальчика.\n<PAGE>\nИ мама, и малыш, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_04",
+   "key": "d81e6707",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители очаровательной\nдевочки.\n<PAGE>\nИ мама, и малышка, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_05",
+   "key": "ad2d6fa4",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nПолучилось, <_____MYNAME_____>! Теперь можно расслабиться,\nха-ха.\n<PAGE>\nИ только посмотри на это сокровище...\nПрелесть, правда?\n<PAGE>\nЯ так рада, что всё прошло без проблем."
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_06",
+   "key": "b072ace8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_07",
+   "key": "7a17d3c1",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nУ меня есть несколько имён, которые мне\nнравятся. Хочешь послушать, <_____MYNAME_____>?\n<PAGE>\n<MOJI0>, <MOJI1> и <MOJI2> ― мои любимые. Может, одно из них?"
   },
   {
    "n": 143,
@@ -240,6 +1031,13 @@
    "ru": "Другое"
   },
   {
+   "n": 147,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_12",
+   "key": "66dcf9a1",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nЗначит, тебе нравится <MOJI0>?"
+  },
+  {
    "n": 148,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Florist_13",
@@ -247,11 +1045,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 149,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_15",
+   "key": "83d8fcc6",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nЗначит, решено!\n<PAGE>\nЯ целую вечность пыталась придумать хорошее\nимя и остановилась на этих.\n<PAGE>\nЯ рада, что придумала то, что понравилось и\nтебе, <_____MYNAME_____>!\n<PAGE>\nТы, я и <CHILD_NAME>... Теперь мы будем большой\nсчастливой семьёй! ♪"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_16",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_17",
+   "key": "60182154",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nХорошо. Какое имя ты хочешь, <_____MYNAME_____>?"
+  },
+  {
    "n": 153,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Florist_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_19",
+   "key": "e2591bd1",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nТы сказал <CHILD_NAME>? Ох, какое отличное имя!\n<PAGE>\nЯ точно знаю, малышу тоже понравится!\n<PAGE>\nТы, я и <CHILD_NAME>... Теперь мы будем большой\nсчастливой семьёй! ♪"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_20",
+   "key": "80dbcc7c",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nОх, трудно решить, правда?\n<PAGE>\nЭто довольно важно, так что давай ещё раз всё\nобдумаем, ладно?\n<PAGE>\nКак тебе <MOJI0>, <MOJI1> или <MOJI2>?"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_100",
+   "key": "f7df99cb",
+   "ru": "Саймон"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_101",
+   "key": "8f5bfae7",
+   "ru": "Кент"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_102",
+   "key": "fa9d480e",
+   "ru": "Рональд"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_103",
+   "key": "57112505",
+   "ru": "Лили"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_104",
+   "key": "f55eec1c",
+   "ru": "Синди"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Florist_105",
+   "key": "47c7543f",
+   "ru": "Джулия"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_00",
+   "key": "3ae4192e",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_SAD>\r\nОх, у меня в животе прямо борцовский\nпоединок!"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_01",
+   "key": "a8a0e546",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nДа, кажется, малыш на подходе, <_____MYNAME_____>. Едем в\nбольницу!"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_02",
+   "key": "f0ad5dff",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо, <CHARANAME0>. Беспокоиться не о чем.\nСкоро вы станете мамой!\n<PAGE>\nПомните: глубокие вдохи!"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_03",
+   "key": "4c6b607f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители прекрасного\nмальчика.\n<PAGE>\nИ мама, и малыш, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_04",
+   "key": "d81e6707",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители очаровательной\nдевочки.\n<PAGE>\nИ мама, и малышка, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_05",
+   "key": "f620b71c",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nФух, как хорошо, что всё позади, <_____MYNAME_____>!\n<PAGE>\nБыло тяжеловато, но теперь мы родители\nэтого очаровательного малыша!"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_06",
+   "key": "b072ace8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_07",
+   "key": "e4f20274",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>?\n<PAGE>\nЯ уже придумала пару вариантов.\n<PAGE>\nМои три фаворита: <MOJI0>, <MOJI1> и <MOJI2>. Что скажешь?"
   },
   {
    "n": 170,
@@ -282,6 +1220,13 @@
    "ru": "Другое"
   },
   {
+   "n": 174,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_12",
+   "key": "dcc61758",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nОтлично! Значит, тебе нравится <MOJI0>, да?"
+  },
+  {
    "n": 175,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_TeaGirl_13",
@@ -289,11 +1234,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 176,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_14",
+   "key": "b66b12b4",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_15",
+   "key": "d988c5f2",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nОтлично! А я боялась, что ничего хорошего не\nпридумаю, знаешь?\n<PAGE>\nЯ очень рада, что тебе тоже нравится, <_____MYNAME_____>.\n<PAGE>\nТы, я и <CHILD_NAME>... Нам вместе будет очень весело!"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_16",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_17",
+   "key": "50e808fb",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nТогда оставляю это тебе, <_____MYNAME_____>! Ну-ка, что ты\nпридумал?"
+  },
+  {
    "n": 180,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_TeaGirl_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_19",
+   "key": "64ad20e5",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\n<CHILD_NAME>? По-моему, мне нравится!\n<PAGE>\nИ нашему малышу тоже понравится.\n<PAGE>\nТы, я и <CHILD_NAME>... Нам вместе будет очень весело!"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_20",
+   "key": "97dedd86",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nДа, трудный выбор, правда?\n<PAGE>\nДавай начнём сначала и ещё раз всё обдумаем.\n<PAGE>\nМои фавориты: <MOJI0>, <MOJI1> и <MOJI2>. Что скажешь?"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_100",
+   "key": "0db307c3",
+   "ru": "Микаса"
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_101",
+   "key": "dedef2b4",
+   "ru": "Кохаку"
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_102",
+   "key": "06162ca5",
+   "ru": "Титосэ"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_103",
+   "key": "b379c779",
+   "ru": "Каноко"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_104",
+   "key": "476e0737",
+   "ru": "Адзуки"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TeaGirl_105",
+   "key": "88a961d8",
+   "ru": "Сасара"
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_00",
+   "key": "f1c44685",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_SAD>\r\nОх... Батюшки... Живот... Кажется, малыш на\nподходе!"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_01",
+   "key": "148e8b86",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nТы прав, дорогой. В больнице мне наверняка\nстанет легче.\n<PAGE>\nСпасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_02",
+   "key": "f0ad5dff",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо, <CHARANAME0>. Беспокоиться не о чем.\nСкоро вы станете мамой!\n<PAGE>\nПомните: глубокие вдохи!"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_03",
+   "key": "4c6b607f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители прекрасного\nмальчика.\n<PAGE>\nИ мама, и малыш, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_04",
+   "key": "d81e6707",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители очаровательной\nдевочки.\n<PAGE>\nИ мама, и малышка, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_05",
+   "key": "18b6bd16",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>... Мне всё-таки удалось. Какое облегчение.\n<PAGE>\nНе могу поверить, что мы родители такого\nпрекрасного ребёнка. Будто сон."
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_06",
+   "key": "b072ace8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_07",
+   "key": "f22919d6",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nУ меня уже есть несколько идей, <_____MYNAME_____>.\n<PAGE>\nКак тебе <MOJI0>, <MOJI1> или <MOJI2>?"
   },
   {
    "n": 197,
@@ -324,6 +1409,13 @@
    "ru": "Другое"
   },
   {
+   "n": 201,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_12",
+   "key": "a65b0657",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nЗначит, тебя устраивает <MOJI0>?"
+  },
+  {
    "n": 202,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Teacher_13",
@@ -331,11 +1423,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 203,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_15",
+   "key": "90e05e96",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nСпасибо. Я в последнее время много думала об\nименах.\n<PAGE>\nРада, что ты помог мне выбрать, <_____MYNAME_____>.\n<PAGE>\nУверена, ты, я и <CHILD_NAME> будем чудесно счастливы\nвместе."
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_16",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_17",
+   "key": "95f1c91c",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nПонимаю. Тогда оставляю это тебе, <_____MYNAME_____>.\n<PAGE>\nКакое имя ты выберешь?"
+  },
+  {
    "n": 207,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Teacher_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_19",
+   "key": "2e566522",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nДа. <CHILD_NAME>. Прекрасно.\n<PAGE>\nУверена, наш ребёнок согласится.\n<PAGE>\nУверена, ты, я и <CHILD_NAME> будем чудесно счастливы\nвместе."
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_20",
+   "key": "20f39c1a",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LOSS>\r\nДа, это очень важное дело. Нужно хорошенько\nподумать.\n<PAGE>\nДавай ещё раз всё обдумаем.\n<PAGE>\nКак ты смотришь на то, чтобы назвать ребёнка\n<MOJI0>, <MOJI1> или <MOJI2>?"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_100",
+   "key": "adb4863e",
+   "ru": "Иори"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_101",
+   "key": "ef37be0b",
+   "ru": "Дзюбэй"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_102",
+   "key": "dbc0ed72",
+   "ru": "Юкимура"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_103",
+   "key": "13212dc2",
+   "ru": "Комати"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_104",
+   "key": "15d0bdbe",
+   "ru": "Сидзука"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Teacher_105",
+   "key": "b68ca9d4",
+   "ru": "Кагари"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_00",
+   "key": "9256a10d",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_SAD>\r\nАй! Живот...! Ох, кажется, этот малыш не\nпринимает отказов!"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_01",
+   "key": "39f079f0",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nНу же, <_____MYNAME_____>! Вези меня в клинику, живо!"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_02",
+   "key": "f0ad5dff",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо, <CHARANAME0>. Беспокоиться не о чем.\nСкоро вы станете мамой!\n<PAGE>\nПомните: глубокие вдохи!"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_03",
+   "key": "4c6b607f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители прекрасного\nмальчика.\n<PAGE>\nИ мама, и малыш, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_04",
+   "key": "d81e6707",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители очаровательной\nдевочки.\n<PAGE>\nИ мама, и малышка, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_05",
+   "key": "5cf90632",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LOVE>\r\nФух! Справилась, <_____MYNAME_____>! Для мамы я пока неплохо\nдержусь, а?\n<PAGE>\nОй, посмотри на эту прелесть. Можешь\nповерить, что это мы родители?!"
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_06",
+   "key": "b072ace8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_07",
+   "key": "a7259812",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nНе знаю, как ты, <_____MYNAME_____>, а я уже придумала пару\nимён.\n<PAGE>\n<MOJI0>, <MOJI1> или <MOJI2>. Неплохо, правда?"
   },
   {
    "n": 224,
@@ -366,6 +1598,13 @@
    "ru": "Другое"
   },
   {
+   "n": 228,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_12",
+   "key": "ecf872fb",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nДа! Я знала, что тебе понравится <MOJI0>."
+  },
+  {
    "n": 229,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_TwinOlder_13",
@@ -373,11 +1612,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 230,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_15",
+   "key": "fc697bbf",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nМахало, <_____MYNAME_____>! ♪ Я в последнее время много думала\nоб именах, так что знала, что есть хорошие!\n<PAGE>\nЯ рада, что одно понравилось и тебе, <_____MYNAME_____>!\n<PAGE>\nТы, я и <CHILD_NAME> ― впереди нас ждёт много веселья!\nГотовься!"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_16",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_17",
+   "key": "ecb46b84",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nЛадно, умник. И какая у тебя гениальная идея?"
+  },
+  {
    "n": 234,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_TwinOlder_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_19",
+   "key": "97e2768a",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\n<CHILD_NAME>, да? Ага, вообще-то очень хорошо! И я знаю,\nнашему малышу тоже понравится!\n<PAGE>\nТы, я и <CHILD_NAME> ― впереди нас ждёт много веселья!\nГотовься!"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_20",
+   "key": "6dca90f7",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nЧто ж, в таком деле не стоит торопиться.\nДавай не спеша попробуем ещё раз.\n<PAGE>\nЛично я бы выбрала <MOJI0>, <MOJI1> или <MOJI2>. А ты?"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_100",
+   "key": "cb063829",
+   "ru": "Кай"
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_101",
+   "key": "bd6f9a7a",
+   "ru": "Ио"
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_102",
+   "key": "0c24ca6f",
+   "ru": "Кино"
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_103",
+   "key": "78588e69",
+   "ru": "Лана"
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_104",
+   "key": "b617658e",
+   "ru": "Айла"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinOlder_105",
+   "key": "a4fe639a",
+   "ru": "Леа"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_00",
+   "key": "81800c80",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_SAD>\r\nОх... Живот... Больно...\n<PAGE>\nМалыш... на подходе..."
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_01",
+   "key": "a8c976f6",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nДа... В клинику было бы хорошо. Махало, <_____MYNAME_____>."
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_02",
+   "key": "f0ad5dff",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо, <CHARANAME0>. Беспокоиться не о чем.\nСкоро вы станете мамой!\n<PAGE>\nПомните: глубокие вдохи!"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_03",
+   "key": "4c6b607f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители прекрасного\nмальчика.\n<PAGE>\nИ мама, и малыш, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_04",
+   "key": "d81e6707",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители очаровательной\nдевочки.\n<PAGE>\nИ мама, и малышка, судя по всему, вполне\nздоровы, так что можете не волноваться, <_____MYNAME_____>."
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_05",
+   "key": "d61b52d7",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nВсё... Я так счастлива, <_____MYNAME_____>.\n<PAGE>\nИ малыш такой милый. Я так счастлива быть\nмамой."
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_06",
+   "key": "b072ace8",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_07",
+   "key": "fb02a45d",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nУ меня есть несколько идей...\n<PAGE>\n<MOJI0>, <MOJI1> или <MOJI2>. Может, одно из них?"
   },
   {
    "n": 251,
@@ -408,6 +1787,13 @@
    "ru": "Другое"
   },
   {
+   "n": 255,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_12",
+   "key": "8fe7dd3c",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nЗначит, тебе нравится <MOJI0>?"
+  },
+  {
    "n": 256,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_TwinYounger_13",
@@ -415,11 +1801,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 257,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_15",
+   "key": "f1105606",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nЯ в последнее время думаю об именах... даже\nво сне.\n<PAGE>\nРада, что ты помог мне выбрать, <_____MYNAME_____>.\n<PAGE>\nМы втроём... Ты, я и <CHILD_NAME>... У нас будет много\nсчастливых воспоминаний."
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_16",
+   "key": "a8372142",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Расти\nздоровеньким! Мы тебя любим! ♪)"
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_17",
+   "key": "663b2823",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nХорошо. Тогда решать тебе, <_____MYNAME_____>."
+  },
+  {
    "n": 261,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_TwinYounger_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_19",
+   "key": "057c51d6",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\n<CHILD_NAME>... Прекрасное имя. Нашему ребёнку тоже\nпонравится.\n<PAGE>\nМы втроём... Ты, я и <CHILD_NAME>... У нас будет много\nсчастливых воспоминаний."
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_20",
+   "key": "1f070017",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>, сомневаешься? Ничего. Давай ещё подумаем...\n<PAGE>\nМожет, <MOJI0>, <MOJI1> или <MOJI2>?"
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_100",
+   "key": "43464e9d",
+   "ru": "Лео"
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_101",
+   "key": "a850ab8e",
+   "ru": "Уру"
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_102",
+   "key": "a7d6b704",
+   "ru": "Куроро"
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_103",
+   "key": "c0e4e90c",
+   "ru": "Мана"
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_104",
+   "key": "f7bf4805",
+   "ru": "Пиппи"
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_TwinYounger_105",
+   "key": "d2352a27",
+   "ru": "Нэнэ"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_00",
+   "key": "d34f03f4",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>. Что случилось?\n<PAGE>\nУ-уже пора?!"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_01",
+   "key": "4e348d49",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nМалыш на подходе, да? Надо скорее в клинику!"
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_02",
+   "key": "e11a6c6c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо. Беспокоиться не о чем.\nСкоро ты станешь мамой!\n<PAGE>\nПомни: глубокие вдохи!"
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_03",
+   "key": "f3f043cb",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители прекрасного\nмальчика.\n<PAGE>\nИ ты, и малыш, судя по всему, вполне здоровы,\nтак что не волнуйся, <_____MYNAME_____>."
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_04",
+   "key": "678544b3",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю, <_____MYNAME_____>, <CHARANAME0>. Вы родители очаровательной\nдевочки.\n<PAGE>\nИ ты, и малышка, судя по всему, вполне\nздоровы, так что не волнуйся, <_____MYNAME_____>."
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_05",
+   "key": "c83698a0",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nТы была потрясающей, <_____MYNAME_____>. Наверное, устала как\nсобака.\n<PAGE>\nЯ видел и даже помогал при родах самых\nразных животных...\n<PAGE>\n...но подумать только ― увидеть, как родился\nмой собственный ребёнок!\n<PAGE>\nСпасибо, что подарила миру нашего ребёнка, <_____MYNAME_____>."
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_06",
+   "key": "f00ff4ac",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_07",
+   "key": "8707c44e",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\n...Ну, раз уж вы спросили, у меня есть пара\nимён для этого щеночка.\n<PAGE>\nКак насчёт <MOJI0>, <MOJI1> или <MOJI2>?\n<PAGE>\nКонечно, если тебе по душе какое-то другое\nимя, я тоже не против. Что скажешь?"
   },
   {
    "n": 278,
@@ -450,6 +1976,13 @@
    "ru": "Другое"
   },
   {
+   "n": 282,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_12",
+   "key": "10723d14",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПонятно. Значит, тебя устраивает <MOJI0>?"
+  },
+  {
    "n": 283,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Wantatan_13",
@@ -457,11 +1990,151 @@
    "ru": "Хорошо"
   },
   {
+   "n": 284,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_15",
+   "key": "38c797b7",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nОтлично! Это имя крутилось у меня в голове с\nтех пор, как мы узнали о беременности.\n<PAGE>\n<FACE_NORMAL>Я гав-ужасно рад, что оно нравится и тебе, <_____MYNAME_____>.\n<PAGE>\nДавай построим счастливый дом вместе: ты, я\nи <CHILD_NAME>."
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_16",
+   "key": "ee977410",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Мы\nтебя любим, расти здоровеньким! ♪)"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_17",
+   "key": "7992355a",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nПонял.\n<PAGE>\nИмя нашему ребёнку выбирай ты, <_____MYNAME_____>. Есть что-то\nна примете?"
+  },
+  {
    "n": 288,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Wantatan_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_19",
+   "key": "aaf3d812",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\n<CHILD_NAME>, да? По-моему, здорово!\n<PAGE>\n<FACE_NORMAL>Уверен, малышу тоже понравится. Звучит\nкрасиво.\n<PAGE>\nДавай построим счастливый дом вместе: ты, я\nи <CHILD_NAME>."
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_20",
+   "key": "e6f1e10b",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nНе волнуйся! Такое решение нельзя принимать\nлегкомысленно.\n<PAGE>\nТоропиться незачем. Давай вместе придумаем\nимя, которое понравится нам обоим.\n<PAGE>\nМне нравятся <MOJI0>, <MOJI1> или <MOJI2>. Какое-нибудь по душе?"
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_100",
+   "key": "b2d20f1c",
+   "ru": "Робин"
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_101",
+   "key": "6c22e69c",
+   "ru": "Фриц"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_102",
+   "key": "a0abd89e",
+   "ru": "Уолт"
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_103",
+   "key": "bf5f450d",
+   "ru": "Ильза"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_104",
+   "key": "ecf3d7bd",
+   "ru": "Эврика"
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Wantatan_105",
+   "key": "192733bc",
+   "ru": "Агата"
+  },
+  {
+   "n": 297,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_00",
+   "key": "364287cc",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_SAD>\r\n*ах* Ох... живот. Мне... как-то совсем\nнехорошо...\n<PAGE>\nК-кажется, малыш на подходе."
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_01",
+   "key": "998342c5",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nТы прав. Надо в клинику.\n<PAGE>\nСпасибо, что заботишься обо мне, <_____MYNAME_____>."
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_02",
+   "key": "adc43359",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nВсё будет хорошо, <CHARANAME0>. Беспокоиться не о чем.\nСкоро вы станете мамой!\n<PAGE>\nПомните: глубокие вдохи!"
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_03",
+   "key": "19e02e30",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю вас обоих. Вы родители\nпрекрасного мальчика.\n<PAGE>\nИ мама, и малыш, судя по всему, вполне\nздоровы, так что можете не волноваться."
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_04",
+   "key": "d6d8b873",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю вас обоих. Вы родители\nочаровательной девочки.\n<PAGE>\nИ мама, и малышка, судя по всему, вполне\nздоровы, так что можете не волноваться."
+  },
+  {
+   "n": 302,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_05",
+   "key": "19ec2733",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>... Это была настоящая битва. Я вымоталась.\n<PAGE>\n<FACE_NORMAL>Это... это наш прекрасный ребёнок. Мы теперь\nродители. Представляешь?"
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_06",
+   "key": "f00ff4ac",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКстати, вы уже выбрали имя для ребёнка?\n<PAGE>\nКак говорится, имя и характер нередко\nсходятся. Выберите имя, которым ребёнок\nсможет гордиться."
+  },
+  {
+   "n": 304,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_07",
+   "key": "64074213",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nВообще-то, <_____MYNAME_____>, у меня был, так сказать, список\nлучших имён...\n<PAGE>\nКак насчёт <MOJI0>, <MOJI1> или <MOJI2>?"
   },
   {
    "n": 305,
@@ -492,6 +2165,13 @@
    "ru": "Другое"
   },
   {
+   "n": 309,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_12",
+   "key": "2b18d177",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nЗначит, тебя устраивает <MOJI0>?"
+  },
+  {
    "n": 310,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Presenter_13",
@@ -499,11 +2179,102 @@
    "ru": "Хорошо"
   },
   {
+   "n": 311,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_14",
+   "key": "406dc35b",
+   "ru": "Хочу придумать имя самостоятельно"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_15",
+   "key": "c4f2864b",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nЗдорово! Честно говоря, эти имена давно у\nменя на примете. Ещё до знакомства с тобой.\n<PAGE>\nЯ с детства мечтала стать мамой...\n<PAGE>\nЯ так рада, что тебе понравился мой выбор, <_____MYNAME_____>.\n<PAGE>\nДавай создадим счастливую семью: ты, я и <CHILD_NAME>."
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_16",
+   "key": "ee977410",
+   "ru": "(Здравствуй, <CHILD_NAME>! Мы твои мама и папа.)\n<PAGE>\n(Спасибо, что ты теперь в нашей семье. Мы\nтебя любим, расти здоровеньким! ♪)"
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_17",
+   "key": "220e0722",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nХорошо! Тогда имя нашему ребёнку выбираешь\nты, <_____MYNAME_____>.\n<PAGE>\nНе знаю, что ты задумал, но уверена, будет\nздорово!"
+  },
+  {
    "n": 315,
    "f": 2,
    "id": "MES_EV_CHILD_BIRTH_Presenter_18",
    "key": "986b7979",
    "ru": "<MOJI0> ― правильно?"
+  },
+  {
+   "n": 316,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_19",
+   "key": "8ef9a064",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\n<CHILD_NAME>...\n<PAGE>\nМне очень нравится! Уверена, малышу тоже.\n<PAGE>\nВот и наша счастливая семья: ты, я и <CHILD_NAME> ― нас\nтрое!"
+  },
+  {
+   "n": 317,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_20",
+   "key": "1bb18a1d",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nНе можешь выбрать то, что по душе, да?\n<PAGE>\nНе волнуйся. Давай придумаем вместе.\n<PAGE>\nМне нравятся <MOJI0>, <MOJI1> или <MOJI2>. Ничего не ёкнуло?"
+  },
+  {
+   "n": 318,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_100",
+   "key": "c2a1988c",
+   "ru": "Клем"
+  },
+  {
+   "n": 319,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_101",
+   "key": "7a1a06e9",
+   "ru": "Сардж"
+  },
+  {
+   "n": 320,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_102",
+   "key": "c22c196f",
+   "ru": "Ред"
+  },
+  {
+   "n": 321,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_103",
+   "key": "bc379e48",
+   "ru": "Энджи"
+  },
+  {
+   "n": 322,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_104",
+   "key": "545f9225",
+   "ru": "Шоколя"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_Presenter_105",
+   "key": "3a012bca",
+   "ru": "Роза"
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_EV_CHILD_BIRTH_NAMING_00",
+   "key": "f38e20c8",
+   "ru": "Хорошо"
   },
   {
    "n": 325,
