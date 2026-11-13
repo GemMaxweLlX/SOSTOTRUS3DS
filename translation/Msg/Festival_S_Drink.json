@@ -2,6 +2,41 @@
  "file": "Festival_S_Drink",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_00",
+   "key": "e76be348",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nОтлично. Похоже, все в сборе.\n<PAGE>\nИтак, начинаем Праздник напитков в Лулукоко!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_01",
+   "key": "5cdcb686",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВ этот раз праздник проводит Лулукоко, так\nчто тема ― “сок”.\n<PAGE>\nВсе принесли ингредиенты для вкусного сока?\n<PAGE>\nВы соберётесь в команды по четыре и сделаете\nсвой собственный сок.\n<PAGE>\nКоманда с самым вкусным соком получит\nотличный приз, так что выкладывайтесь!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_02",
+   "key": "0e156a00",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nНу, а теперь собирайте команды.\n<PAGE>\nКогда команда соберётся, подойдите ко мне."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_03",
+   "key": "376d0d04",
+   "ru": "В команде всего четыре человека. Обязательно\nспроси, кто что принёс, и уже потом выбирай\nнапарников."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_04",
+   "key": "7c4ea88e",
+   "ru": "Пригласить в команду: <CHARANAME0>?"
+  },
+  {
    "n": 5,
    "f": 2,
    "id": "MES_EV_FES_DRINK_05",
@@ -14,6 +49,2155 @@
    "id": "MES_EV_FES_DRINK_06",
    "key": "f22e0cbd",
    "ru": "Нет"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_32",
+   "key": "4e1a37ba",
+   "ru": "...Команда полная, больше никого не\nпригласить. Сначала отпусти кого-то из\nкоманды."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_33",
+   "key": "eb811f94",
+   "ru": "<CHARANAME0> теперь в команде!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_07",
+   "key": "093c60df",
+   "ru": "Убрать из команды: <CHARANAME0>?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_08",
+   "key": "6f2c1806",
+   "ru": "Убрать"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_09",
+   "key": "9cc7e9d2",
+   "ru": "Не убирать"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_10",
+   "key": "0fac1779",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, похоже, команда собрана полностью.\n<PAGE>\nЗначит, в команде <CHARANAME0>, <CHARANAME1>, <CHARANAME2> и <CHARANAME3>?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_11",
+   "key": "a62d5c27",
+   "ru": "Ага!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_12",
+   "key": "91a8d439",
+   "ru": "Подумаю ещё"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_13",
+   "key": "3a7e5588",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, когда решишь, подойди ко мне."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_FES_DRINK_14",
+   "key": "96f9d60b",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВ команде четыре человека. Когда соберёшь\nвсех, подойди ко мне."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_15",
+   "key": "b41a656c",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nРаз все собрались, представляю команды!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_16",
+   "key": "9bd2bb1b",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Звезда”! Состав (<MOJI5>):\n<PAGE>\n<MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_17",
+   "key": "affafe10",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Луна”! Состав (<MOJI5>):\n<PAGE>\n<MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_18",
+   "key": "dad83730",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Океан”! Состав (<MOJI5>):\n<PAGE>\n<MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_19",
+   "key": "249f5ca4",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Ветер”! Состав (<MOJI5>):\n<PAGE>\n<MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_20",
+   "key": "1fa39b36",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКоманда “Небо”! Состав (<MOJI5>):\n<PAGE>\n<MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_21",
+   "key": "08554e56",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nТак. Начинаем состязание! Как только команда\nбудет готова, можно делать напитки."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_22",
+   "key": "a3fb5184",
+   "ru": "(В этот раз наша команда победит!)"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_23",
+   "key": "1bbe6bc1",
+   "ru": "Получился свой сок! Дегустация будет\nинтересной. ♪"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_24",
+   "key": "f802fa8c",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, все команды закончили с соком, так\nчто переходим к дегустации.\n<PAGE>\nПопробуйте все напитки, сравните...\n<PAGE>\nИ проголосуйте за команду, чей напиток,\nпо-вашему, лучший.\n<PAGE>\nНачнём с сока команды “Звезда”."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_25",
+   "key": "211b5010",
+   "ru": "(Похоже, другим наш напиток нравится.\nМожет, мы победим!)"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_26",
+   "key": "4c8fcac1",
+   "ru": "(Похоже, другие считают наш напиток\nдовольно неплохим. Хороший знак!)"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_27",
+   "key": "cd3e8138",
+   "ru": "(Похоже, другим наш напиток не очень по\nдуше. Хм... С этим соком победить будет\nтрудновато.)"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_28",
+   "key": "20207a9f",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nКхм, простите, что заставила ждать! Итоги\nголосования готовы, объявляем!\n<PAGE>\nКоманда с самым высоко оценённым напитком\nна этом Празднике напитков ― это..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_29",
+   "key": "eae244b5",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n“<MOJI4>”! Поздравляем: <MOJI0>, <MOJI1>, <MOJI2> и <MOJI3>!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_30",
+   "key": "990e87b2",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nА победителям, команде “<MOJI4>”, вручаем приз: <BLUE><____ITEMNAME0____></BLUE>!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_31",
+   "key": "07d622c7",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nНа этом Праздник напитков в Лулукоко\nзавершён!\n<PAGE>\nВсе сегодня молодцы. Идите домой и как\nследует отдохните."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TEAMNAME_A",
+   "key": "69e9f52a",
+   "ru": "Звезда"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TEAMNAME_B",
+   "key": "43dee8d6",
+   "ru": "Луна"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TEAMNAME_C",
+   "key": "ade27f1a",
+   "ru": "Океан"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TEAMNAME_D",
+   "key": "8139fbc0",
+   "ru": "Ветер"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TEAMNAME_E",
+   "key": "3e6b320f",
+   "ru": "Небо"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_INVITE",
+   "key": "32f6a963",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nУ меня <BLUE><____ITEMNAME0____></BLUE>. Я и у бабули спросил, но... что\nскажешь?"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_JOIN",
+   "key": "ea915520",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nРад, что меня позвали. Вперёд."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_CONFIRM",
+   "key": "6b130627",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, что у меня? <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_RELEASE",
+   "key": "44875ad7",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nБывает. Не переживай."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_GREETING",
+   "key": "36f594b1",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПривет всем. Чувствую, с этой командой мы\nможем победить."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_GOOD_COMMENT",
+   "key": "ce1538fd",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nСладкое я не очень, но это вкусно."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_OTHER_GOOD_COMMENT",
+   "key": "5680a0ec",
+   "ru": "<FACE_CRAFTMAN>\r\nНе только пьётся легко, но и вкус мне нравится."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_NORMAL_COMMENT",
+   "key": "cc6d1ada",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nДля меня сладковато, но, думаю, может быть\nнеплохо."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_OTHER_NORMAL_COMMENT",
+   "key": "108b0161",
+   "ru": "<FACE_CRAFTMAN>\r\nОчень мягкий вкус. Что они туда положили?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_BAD_COMMENT",
+   "key": "621e010f",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nСлишком сладко. Больше не могу это пить."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Craftman_OTHER_BAD_COMMENT",
+   "key": "0da84482",
+   "ru": "<FACE_CRAFTMAN>\r\n...Да, никто не сочтёт это хорошим."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_INVITE",
+   "key": "3cb1f034",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nО, у меня с собой <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_JOIN",
+   "key": "bc745883",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНу, раз уж ты так настаиваешь, так и быть,\nвступлю в твою команду."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_CONFIRM",
+   "key": "8300b430",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, что у меня? <BLUE><____ITEMNAME0____></BLUE>. Не заставляй\nповторять по сто раз."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_RELEASE",
+   "key": "6287f495",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nВсё, с меня хватит. Думаешь, без меня у тебя\nесть шанс победить?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_GREETING",
+   "key": "bd0fc6cc",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nСо мной в команде проиграть невозможно."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_GOOD_COMMENT",
+   "key": "4b52ea33",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nКак я и ожидала. Мы уже победили."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_OTHER_GOOD_COMMENT",
+   "key": "fab21d7e",
+   "ru": "<FACE_TWINOLDER>\r\nНе хочется признавать, но это очень хорошо."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_NORMAL_COMMENT",
+   "key": "dccd196a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНу, вкусно, пожалуй. Средне так."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_OTHER_NORMAL_COMMENT",
+   "key": "825ed5d9",
+   "ru": "<FACE_TWINOLDER>\r\nНеплохо."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_BAD_COMMENT",
+   "key": "6af3c714",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nКто это сделал?! Кто положил в сок что-то\nстранное?!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinOlder_OTHER_BAD_COMMENT",
+   "key": "6e99ca52",
+   "ru": "<FACE_TWINOLDER>\r\nЭто даже напитком назвать нельзя. Фу."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_INVITE",
+   "key": "ec896cb9",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nУ меня с собой <BLUE><____ITEMNAME0____></BLUE>. Думаю, будет хорошо.\n...Наверное."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_JOIN",
+   "key": "f0a3d68e",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Это, пожалуй, приятно."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_CONFIRM",
+   "key": "e54d19e0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____ITEMNAME0____></BLUE>... Что скажешь?"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_RELEASE",
+   "key": "32071f3f",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, сегодня наши ауры не совпадают..."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_GREETING",
+   "key": "03a5a8d4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nСделаю что-нибудь вкусное. Очень постараюсь."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_GOOD_COMMENT",
+   "key": "122b07ff",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМожет, это не хуже, чем у Илуки."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_OTHER_GOOD_COMMENT",
+   "key": "f050b44e",
+   "ru": "<FACE_TWINYOUNGER>\r\nЯ по ауре вижу, вкусно ли."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_NORMAL_COMMENT",
+   "key": "8d7f46c8",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nДумаю, я тоже могла бы такое сделать..."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_OTHER_NORMAL_COMMENT",
+   "key": "ab3e5343",
+   "ru": "<FACE_TWINYOUNGER>\r\nЕсли описывать, как Илука, то “неплохо”."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_BAD_COMMENT",
+   "key": "e3c393de",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_SAD>\r\n...Ох. Это плохо отзывается в моей ауре."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TwinYounger_OTHER_BAD_COMMENT",
+   "key": "3336d5bf",
+   "ru": "<FACE_TWINYOUNGER>\r\nУ этого тёмная аура. Не хочу это пить."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_INVITE",
+   "key": "4e9a748d",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nХм? Я? У меня <BLUE><____ITEMNAME0____></BLUE>. Думаю, сойдёт!"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_JOIN",
+   "key": "8849c66e",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nАга! Мы непобедимая команда!"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_CONFIRM",
+   "key": "dc4c5095",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nХм? У меня <BLUE><____ITEMNAME0____></BLUE>, а что?"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_RELEASE",
+   "key": "c3edfa2a",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nНе хочешь в команду? Серьёзно? Жаль. Но\nудачи тебе."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_GREETING",
+   "key": "bdf773af",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nС этой командой мы никак не проиграем!"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_GOOD_COMMENT",
+   "key": "d16cd53d",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЧертовски вкусно! С этим можно и на первое\nместо замахнуться!"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_OTHER_GOOD_COMMENT",
+   "key": "c86b7960",
+   "ru": "<FACE_FISHER>\r\nКажется, этому мы проиграли."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_NORMAL_COMMENT",
+   "key": "f1ca088c",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nО? Это может быть наш билет наверх."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_OTHER_NORMAL_COMMENT",
+   "key": "ed96390d",
+   "ru": "<FACE_FISHER>\r\nНу, вполне ничего."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_BAD_COMMENT",
+   "key": "27a7b4d0",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\n“Отлично!”... вот чего я никак не могу сказать\nоб этом напитке."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Fisher_OTHER_BAD_COMMENT",
+   "key": "27445cc8",
+   "ru": "<FACE_FISHER>\r\nЭй, что сюда положили? Вкус ужасный."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_INVITE",
+   "key": "dece6bc4",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nУ меня с собой <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\nЯ ведь работаю в лавке, так что качество вкуса\nгарантирую!"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_JOIN",
+   "key": "b936e17c",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nО, здорово! Доверься моему чутью!"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_CONFIRM",
+   "key": "6f89a080",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nХм? Что такое? <BLUE><____ITEMNAME0____></BLUE> вызывает сомнения?"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_RELEASE",
+   "key": "2ce76224",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nНу, что есть, то есть. Хотя я уверена, что\nвыиграю."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_GREETING",
+   "key": "5e6d9e81",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nЗажжём и сделаем это!"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_GOOD_COMMENT",
+   "key": "eaa9469e",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nДа! Вышло, как я и думала. Лучше всех!"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_OTHER_GOOD_COMMENT",
+   "key": "68ea369a",
+   "ru": "<FACE_FISHERWIFE>\r\nПусть они соперники, но это надо похвалить."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_NORMAL_COMMENT",
+   "key": "73872eb1",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nОтличный вкус! С этим можно дойти до конца."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_OTHER_NORMAL_COMMENT",
+   "key": "5caa4279",
+   "ru": "<FACE_FISHERWIFE>\r\nПонятно... Мне такое и в голову не приходило."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_BAD_COMMENT",
+   "key": "a504c4e9",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_SAD>\r\nХм... Вкус такой же... своеобразный, как я и\nдумала."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherWife_OTHER_BAD_COMMENT",
+   "key": "fd57aeff",
+   "ru": "<FACE_FISHERWIFE>\r\nТак вот что значит перевести ингредиенты."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_INVITE",
+   "key": "3c1958a9",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nА, <BLUE><____ITEMNAME0____></BLUE>! Гляди, у меня <BLUE><____ITEMNAME0____></BLUE>! Аппетитно же, да?!"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_JOIN",
+   "key": "6df77650",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nНу, так и быть. Вступлю в твою команду, <_____MYNAME_____>!"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_CONFIRM",
+   "key": "4b2e1a09",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nПамять отшибло? Я ж сказал, у меня <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_RELEASE",
+   "key": "2ffff0d7",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nБу-у. Ну и что не так? Так обнадёжить и\nобломать ― это подло."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_GREETING",
+   "key": "714f94a2",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nПобедим!"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_GOOD_COMMENT",
+   "key": "08a8b28d",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nВышло потрясно, <_____MYNAME_____>!"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_OTHER_GOOD_COMMENT",
+   "key": "e3641dc8",
+   "ru": "<FACE_FISHERSON>\r\nКоманда <_____MYNAME_____> сделала очень вкусный напиток!"
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_NORMAL_COMMENT",
+   "key": "5711ce74",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nДовольно вкусно. Мне точно нравится."
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_OTHER_NORMAL_COMMENT",
+   "key": "c0490a7b",
+   "ru": "<FACE_FISHERSON>\r\nЗагадочный вкус, но... совсем недурно."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_BAD_COMMENT",
+   "key": "be1047d4",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nФу-у-у..."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherSon_OTHER_BAD_COMMENT",
+   "key": "6cea381e",
+   "ru": "<FACE_FISHERSON>\r\nГадость."
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_INVITE",
+   "key": "ccf3b8d5",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nУ меня с собой <BLUE><____ITEMNAME0____></BLUE>! Ну как? Аппетитно, правда? ♪"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_JOIN",
+   "key": "d9c4edc8",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nУра! ♪ Буду делать напитки вместе с <_____MYNAME_____>! ♪\nПостараемся изо всех-всех сил!"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_CONFIRM",
+   "key": "95696e71",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nА? Мой ингредиент? <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_RELEASE",
+   "key": "e380fd05",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nУ-у, почему?! <_____MYNAME_____>, ты вредина. Не разговаривай\nсо мной."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_GREETING",
+   "key": "25088fc0",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nХи-хи. ♪ Поехали! ♪"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_GOOD_COMMENT",
+   "key": "edf345a2",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nВкусно. ♪ <_____MYNAME_____>, ты гений! Можно ещё, пожалуйста?"
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_OTHER_GOOD_COMMENT",
+   "key": "d2ccaf0b",
+   "ru": "<FACE_FISHERDAUGHTER>\r\nСок <_____MYNAME_____> о-о-очень вкусный. ♪ Завидую!"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_NORMAL_COMMENT",
+   "key": "32f01a05",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nХм-м, вкусно? Немного загадочно."
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_OTHER_NORMAL_COMMENT",
+   "key": "9b4ae18a",
+   "ru": "<FACE_FISHERDAUGHTER>\r\nПахнет не так, как всё, что я пробовала."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_BAD_COMMENT",
+   "key": "b366491c",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nФу! Гадость."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_FisherDaughter_OTHER_BAD_COMMENT",
+   "key": "e3b27ba3",
+   "ru": "<FACE_FISHERDAUGHTER>\r\nБольше не буду пить! Не буду! Не буду!"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_INVITE",
+   "key": "706c55aa",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nРешил тоже поучаствовать. У меня <BLUE><____ITEMNAME0____></BLUE>!"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_JOIN",
+   "key": "67ffe583",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Сухофруктов ведь нет, надеюсь?"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_CONFIRM",
+   "key": "2d79576d",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nЧто? <BLUE><____ITEMNAME0____></BLUE> тебя не устраивает?"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_RELEASE",
+   "key": "2cfb80fe",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nХм. Я так и предполагал."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_GREETING",
+   "key": "e187d95d",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nНадеюсь, получится хотя бы что-то пригодное\nдля питья."
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_GOOD_COMMENT",
+   "key": "258827d4",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_LAUGH>\r\nХо, совсем недурно. Удивлён. Надо записать\nнашу методику."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_OTHER_GOOD_COMMENT",
+   "key": "7d27992e",
+   "ru": "<FACE_HISTORIAN>\r\nУ них вышло лучше, чем я ожидал!"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_NORMAL_COMMENT",
+   "key": "a5093cff",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nНеплохо."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_OTHER_NORMAL_COMMENT",
+   "key": "d14cce83",
+   "ru": "<FACE_HISTORIAN>\r\nСносно. Больше мне сказать нечего."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_BAD_COMMENT",
+   "key": "71347400",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\nНет уж, спасибо."
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Historian_OTHER_BAD_COMMENT",
+   "key": "68de4f34",
+   "ru": "<FACE_HISTORIAN>\r\n..."
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_INVITE",
+   "key": "2c37a4e0",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nНашёл аппетитный <BLUE><____ITEMNAME0____></BLUE> и принёс."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_JOIN",
+   "key": "5dc765ae",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nА? Ты точно хочешь со мной? Хе-хе-хе...\nСпасибо."
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_CONFIRM",
+   "key": "3610ec69",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nА? Повторить? У меня с собой <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_RELEASE",
+   "key": "e4579f37",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nО, п-понятно... Да, логично... Кто вообще\nзахочет быть со мной в команде?"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_GREETING",
+   "key": "addf3d54",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nПостараюсь не тянуть команду вниз."
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_GOOD_COMMENT",
+   "key": "2125e65c",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nОго! Ужасно вкусно!"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_OTHER_GOOD_COMMENT",
+   "key": "f0c66b8e",
+   "ru": "<FACE_ASSISTANT>\r\nОни сделали такую вкусноту. Завидую."
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_NORMAL_COMMENT",
+   "key": "dc18af9a",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nХе-хе-хе. На вкус немного странно, но\nхорошо."
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_OTHER_NORMAL_COMMENT",
+   "key": "6b48f2c8",
+   "ru": "<FACE_ASSISTANT>\r\nНемного щиплет. К такому можно\nпристраститься."
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_BAD_COMMENT",
+   "key": "8a5ecfac",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nУжасно пахнет. *вздох*"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Assistant_OTHER_BAD_COMMENT",
+   "key": "8a0b7654",
+   "ru": "<FACE_ASSISTANT>\r\nНапоминает напиток, который меня однажды\nобманом заставили выпить ради шутки."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_INVITE",
+   "key": "1372fea8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nУ меня с собой <BLUE><____ITEMNAME0____></BLUE>. Посмотрим, улыбнётся ли мне\nсегодня удача."
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_JOIN",
+   "key": "bae90e38",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо, надеюсь, всё получится."
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_CONFIRM",
+   "key": "d4043490",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, что у меня? <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_RELEASE",
+   "key": "7e3a88dd",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nПолагаю, ничего не поделаешь. Без обид, кто\nбы ни победил."
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_GREETING",
+   "key": "2c09a5a1",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nПолагаюсь на вас, друзья. Сделаем что-нибудь\nчудесное."
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_GOOD_COMMENT",
+   "key": "f5040d87",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nОх, весьма недурно, скажу я вам. С этим можем\nи победить."
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_OTHER_GOOD_COMMENT",
+   "key": "e0b169ea",
+   "ru": "<FACE_ANGLER>\r\nХм, весьма недурно. Что же они туда\nположили?"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_NORMAL_COMMENT",
+   "key": "3d82175d",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nНемного своеобразно, но мне не противно."
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_OTHER_NORMAL_COMMENT",
+   "key": "46edd433",
+   "ru": "<FACE_ANGLER>\r\nИнтересное послевкусие. Мне весьма нравится."
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_BAD_COMMENT",
+   "key": "73d0362d",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nУ нас вышло то, что я предпочёл бы не пить."
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Angler_OTHER_BAD_COMMENT",
+   "key": "5d590d7c",
+   "ru": "<FACE_ANGLER>\r\nЧто это за странное ощущение на языке?"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_INVITE",
+   "key": "a112bbcd",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nУ меня был аппетитный <BLUE><____ITEMNAME0____></BLUE>, его и принёс."
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_JOIN",
+   "key": "e5b3040c",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nПостараюсь не обмануть ожиданий."
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_CONFIRM",
+   "key": "4b24e592",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nХочешь знать, что у меня? <BLUE><____ITEMNAME0____></BLUE>. Это подойдёт?"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_RELEASE",
+   "key": "e3fdb0e8",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\n...Понятно. Тогда, может, в другой раз."
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_GREETING",
+   "key": "b75e404e",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nСделаю всё, чтобы у нас вышло что-то\nхорошее."
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_GOOD_COMMENT",
+   "key": "8d02d5d2",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_LAUGH>\r\nХорошо получилось. Надо записать, что мы\nиспользовали."
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_OTHER_GOOD_COMMENT",
+   "key": "a7e5a57b",
+   "ru": "<FACE_ANGLERGRANDSON>\r\nБольно признавать, но вкусно. Хм, что же там?"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_NORMAL_COMMENT",
+   "key": "469427db",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL>\r\nПо-моему, весьма хорошо, но чего-то будто\nне хватает."
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_OTHER_NORMAL_COMMENT",
+   "key": "6948fab8",
+   "ru": "<FACE_ANGLERGRANDSON>\r\n...Остренько? Не знаю, вкус очень\nсвоеобразный, но, думаю, и так неплохо."
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_BAD_COMMENT",
+   "key": "6bf7178f",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_SAD>\r\n...Впредь постараюсь никогда больше это не\nсмешивать."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_AnglerGrandson_OTHER_BAD_COMMENT",
+   "key": "20089e79",
+   "ru": "<FACE_ANGLERGRANDSON>\r\nОх... Что за резкий запах?"
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_INVITE",
+   "key": "c3fb6b7c",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nУ меня с собой <BLUE><____ITEMNAME0____></BLUE>. Дома я его частенько\nупотребляю."
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_JOIN",
+   "key": "b3e46883",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПолагаю, это значит, что <BLUE><____ITEMNAME0____></BLUE> для сока годится.\nМне немного спокойнее."
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_CONFIRM",
+   "key": "63a9bcfa",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nУ меня с собой <BLUE><____ITEMNAME0____></BLUE>, но... что-то не так?"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_RELEASE",
+   "key": "368f9611",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nПонятно. Видно, <BLUE><____ITEMNAME0____></BLUE> для сока и правда не годится?"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_GREETING",
+   "key": "1fd8d251",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nКхм. Я к такому не привык, но выложусь на все\nсто."
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_GOOD_COMMENT",
+   "key": "f80b2a53",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nХм. Освежающе и вкусно. Не вижу никаких\nпроблем."
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_OTHER_GOOD_COMMENT",
+   "key": "c3135eac",
+   "ru": "<FACE_DOCTOR>\r\nПьётся легко, заметных проблем нет. Команда <_____MYNAME_____>\nсделала хороший сок."
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_NORMAL_COMMENT",
+   "key": "cc9463fa",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХм. Сладковато, но ничего страшного."
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_OTHER_NORMAL_COMMENT",
+   "key": "73ff9692",
+   "ru": "<FACE_DOCTOR>\r\nВполне можно пить."
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_BAD_COMMENT",
+   "key": "427df7e6",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nПо-моему, слишком сладко. Как мы это\nдопустили?"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Doctor_OTHER_BAD_COMMENT",
+   "key": "f9f3f2b9",
+   "ru": "<FACE_DOCTOR>\r\nЧто за запах...?! Если извлечь некоторые\nкомпоненты, выйдет неплохое средство от\nнасекомых."
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_INVITE",
+   "key": "f80b4d98",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nСегодня я принёс из дома <BLUE><____ITEMNAME0____></BLUE>. Думаю, отлично\nподойдёт."
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_JOIN",
+   "key": "136a68f8",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nТак! Вперёд. С тобой в команде, <_____MYNAME_____>, я спокоен."
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_CONFIRM",
+   "key": "167ebca7",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nУ меня с собой <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_RELEASE",
+   "key": "fa9c80be",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_SAD>\r\nЭй, не забывай, что я повар в ресторане! Точно\nхочешь от меня избавиться?"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_GREETING",
+   "key": "8d5051c2",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nРад со всеми работать! Сделаем чертовски\nхороший сок и победим!"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_GOOD_COMMENT",
+   "key": "9a218c6b",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nО! Безумно вкусно! Вышло даже лучше, чем я\nждал. Думаешь, мы с этим победим?"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_OTHER_GOOD_COMMENT",
+   "key": "aa3a446a",
+   "ru": "<FACE_RESTAURANTHUSBUND>\r\nДа, отлично! Сок команды <_____MYNAME_____> ― это нечто. Будет\nнепросто."
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_NORMAL_COMMENT",
+   "key": "430e827f",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_NORMAL>\r\nВышло нормально. По крайней мере, не плохо.\nДаже вкус мне весьма нравится."
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_OTHER_NORMAL_COMMENT",
+   "key": "19ac4202",
+   "ru": "<FACE_RESTAURANTHUSBUND>\r\nХм... Ну... Этот вкус разделит мнения."
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_BAD_COMMENT",
+   "key": "2398e940",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_ANGRY>\r\nОх... К-какая странная химическая реакция тут\nслучилась?! В каком-то смысле мы сотворили\nнечто невероятное..."
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantHusbund_OTHER_BAD_COMMENT",
+   "key": "d1f78bd5",
+   "ru": "<FACE_RESTAURANTHUSBUND>\r\nКакой... примечательный вкус. Как они, чёрт\nвозьми, это сделали?"
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_INVITE",
+   "key": "74f665b6",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nСегодня у меня с собой <BLUE><____ITEMNAME0____></BLUE>. Для сока отлично\nподойдёт, правда?"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_JOIN",
+   "key": "64da21e5",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nСпасибо, что пригласили! ♪ Раз уж так,\nнацелимся на победу и сделаем вкусный сок!"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_CONFIRM",
+   "key": "e6cf48b1",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nУ меня <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_RELEASE",
+   "key": "b195c104",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nОх, правда? Жаль. Я была бы так рада\nоказаться в одной команде."
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_GREETING",
+   "key": "72e49234",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nСпасибо, что приняли, все! Сделаем вкусный\nсок и победим!"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_GOOD_COMMENT",
+   "key": "20fcd927",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nОчень вкусно! Напиток прекрасно раскрывает\nкачество ингредиентов.\n<PAGE>\nРаз так вкусно, мы можем победить!"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_OTHER_GOOD_COMMENT",
+   "key": "d60aee4b",
+   "ru": "<FACE_RESTAURANTWIFE>\r\nО, сок команды <_____MYNAME_____>... очень вкусный! Интересно,\nможно ли ещё?"
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_NORMAL_COMMENT",
+   "key": "3300926a",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nЕсть какое-то послевкусие, да...? Кому-то это\nможет не понравиться."
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_OTHER_NORMAL_COMMENT",
+   "key": "ff790fd6",
+   "ru": "<FACE_RESTAURANTWIFE>\r\nВкус мне нравится, но, кажется, он довольно\nсвоеобразный."
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_BAD_COMMENT",
+   "key": "4ef6a873",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\n*кхе* Я-я и представить не могла, что вкус\nвыйдет таким."
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_RestaurantWife_OTHER_BAD_COMMENT",
+   "key": "85926ee2",
+   "ru": "<FACE_RESTAURANTWIFE>\r\nЧто же надо туда намешать, чтобы был такой\nвкус? Какой причудливый."
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_INVITE",
+   "key": "1ee7ceaa",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nУ меня <BLUE><____ITEMNAME0____></BLUE>. Понятия не имею, подойдёт ли к соку,\nно само по себе вкусно!"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_JOIN",
+   "key": "8696ecca",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЯ знала, что на тебя можно положиться, <_____MYNAME_____>.\nПонимаешь толк! Нацелимся на вершину!"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_CONFIRM",
+   "key": "9636d04c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЧто, повторить? У меня <BLUE><____ITEMNAME0____></BLUE>. И <BLUE><____ITEMNAME0____></BLUE> отличный, между\nпрочим."
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_RELEASE",
+   "key": "a92d75b4",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЧто? Хочешь убрать меня из команды? А ты\nнерешительнее, чем я думала."
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_GREETING",
+   "key": "000ca89a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nЯ Комари из чайной! Привет, народ!"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_GOOD_COMMENT",
+   "key": "f58103a5",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОго, даже лучше, чем я представляла! Может,\nдобавить это в меню чайной? Что скажешь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_OTHER_GOOD_COMMENT",
+   "key": "114656c1",
+   "ru": "<FACE_TEAGIRL>\r\nСок команды <_____MYNAME_____> и пахнет, и на вкус ― просто\nкласс!"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_NORMAL_COMMENT",
+   "key": "a550f800",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЯ немного волновалась, но вышло на удивление\nздорово. Хотя, чувствую, понравится не всем."
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_OTHER_NORMAL_COMMENT",
+   "key": "e096ece4",
+   "ru": "<FACE_TEAGIRL>\r\nДа, в летнюю жару ― самое то."
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_BAD_COMMENT",
+   "key": "5cc708be",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nФу, гадость... Кто это сделал?! А, это мы..."
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaGirl_OTHER_BAD_COMMENT",
+   "key": "018dfe76",
+   "ru": "<FACE_TEAGIRL>\r\nЭ-это... Не надо было это пить..."
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_INVITE",
+   "key": "8d32213d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nУ меня с собой <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_JOIN",
+   "key": "af85d5f2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПоняла. Постараюсь быть полезной команде."
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_CONFIRM",
+   "key": "59c26a4d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nУ меня с собой <BLUE><____ITEMNAME0____></BLUE>. С этим какая-то проблема?"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_RELEASE",
+   "key": "d7b7d2ce",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nВ этом состязании очень важна командная\nработа, так что, полагаю, решение верное."
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_GREETING",
+   "key": "7e54669f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nВсе, давайте работать сообща."
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_GOOD_COMMENT",
+   "key": "3a4c6eec",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nНе хуже того, что подают в чайной."
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_OTHER_GOOD_COMMENT",
+   "key": "2a847c71",
+   "ru": "<FACE_TEACHER>\r\nВкусно. Как им удалось так раскрыть вкус?"
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_NORMAL_COMMENT",
+   "key": "3e95a84c",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nИногда такой вкус может быть хорош."
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_OTHER_NORMAL_COMMENT",
+   "key": "f31f805f",
+   "ru": "<FACE_TEACHER>\r\nНичего особенного, но вкус интересный."
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_BAD_COMMENT",
+   "key": "91cfb8c2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_ANGRY>\r\nБоюсь, у меня сейчас лицо, которое детям\nлучше не видеть."
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Teacher_OTHER_BAD_COMMENT",
+   "key": "e517ddf4",
+   "ru": "<FACE_TEACHER>\r\nОт добавки придётся воздержаться."
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_INVITE",
+   "key": "428c7688",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nЧто я принёс? Только самый лучший <BLUE><____ITEMNAME0____></BLUE>!\n<PAGE>\n<FACE_LAUGH>Я ж держу чайную. Проигрывать не собираюсь!"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_JOIN",
+   "key": "cf1f5339",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nЧего ещё от тебя ждать, <_____MYNAME_____>! Позвать меня в\nкоманду! Рассчитываю на тебя, дружище."
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_CONFIRM",
+   "key": "4435d791",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nДа-да. У меня с собой <BLUE><____ITEMNAME0____></BLUE>!"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_RELEASE",
+   "key": "8625d6bb",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_SAD>\r\nЭй, ты серьёзно? Ну и ладно."
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_GREETING",
+   "key": "53bbf167",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nПривет всем! Нацелимся на победу!"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_GOOD_COMMENT",
+   "key": "766c5814",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>! Вкус вышел непобедимый! Не стыдно и у\nменя в заведении продавать!"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_GOOD_COMMENT",
+   "key": "db242f46",
+   "ru": "<FACE_TEAOWNER>\r\nА?! Ч-что это...?! Подумать только, кто-то\nсделал напиток не хуже, чем в моей лавке..."
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_NORMAL_COMMENT",
+   "key": "3855dfbf",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_NORMAL>\r\nХм-м. Значит, вот так? Чувствую, тут ещё\nможно кое-что подправить."
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_NORMAL_COMMENT",
+   "key": "7bae153c",
+   "ru": "<FACE_TEAOWNER>\r\nА неплохо. Мне даже нравится."
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_BAD_COMMENT",
+   "key": "7f45cc1f",
+   "ru": "<FACE_TEAOWNER><POS_RIGHT><FACE_SAD>\r\nОх! Это не для людей!"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_BAD_COMMENT",
+   "key": "f4b26fb1",
+   "ru": "<FACE_TEAOWNER>\r\nОни сотворили нечто ужасное. Это правда\nдолжно быть напитком?"
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_INVITE",
+   "key": "8ff5ce57",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nТа-а-ак! Сегодня у меня с собой <BLUE><____ITEMNAME0____></BLUE>!"
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_JOIN",
+   "key": "10b694a4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПравда? Ура! Раз <PARENT> со мной, делать сок будет\nвесело. ♪"
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_CONFIRM",
+   "key": "f673f25a",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЭ-э... у меня <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_RELEASE",
+   "key": "5e1a2802",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nУ-у, правда? Ладно, <PARENT>, я сделаю, как скажешь."
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_GREETING",
+   "key": "827096a9",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nЯ <CHILD_NAME>. Хочу сделать вкусный сок, так что буду\nмного помогать!"
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_GOOD_COMMENT",
+   "key": "4b92f836",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУх ты, ужа-а-асно вкусно! Могу выпить много.\n♪ <PARENT>, попробуй тоже."
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_OTHER_GOOD_COMMENT",
+   "key": "c7e8cf45",
+   "ru": "<FACE_CHILD>\r\nСок команды, где <PARENT>, такой вкусный! Хочу взять\nдомой."
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_NORMAL_COMMENT",
+   "key": "e6af80a1",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\n...Хм-м, своеобразный вкус. Вкусно или нет ―\nзависит от того, кто пьёт."
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_OTHER_NORMAL_COMMENT",
+   "key": "cb6c8ec6",
+   "ru": "<FACE_CHILD>\r\nХм... Ну, не ужасно, но... не знаю."
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_BAD_COMMENT",
+   "key": "c755157d",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nФу, почему такой вкус? Там что-то странное?"
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Boy_OTHER_BAD_COMMENT",
+   "key": "159f5d75",
+   "ru": "<FACE_CHILD>\r\nФу, я-я не могу это пить. <PARENT>, можно оставить?"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_INVITE",
+   "key": "1c444ce6",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nТа-а-ак! У меня с собой <BLUE><____ITEMNAME0____></BLUE>!"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_JOIN",
+   "key": "23c18837",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nПравда? Ура! Когда <PARENT> в команде, делать сок\nбудет так весело. ♪"
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_CONFIRM",
+   "key": "87f16521",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nУ меня <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_RELEASE",
+   "key": "5e1a2802",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nУ-у, правда? Ладно, <PARENT>, я сделаю, как скажешь."
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_GREETING",
+   "key": "7d1cbb6c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nМеня зовут <CHILD_NAME>. Хочу сделать вкусный сок, так что\nбуду много помогать!"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_GOOD_COMMENT",
+   "key": "d47d748c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУх ты, ужа-а-асно вкусно! Могу выпить много.\n♪ <PARENT>, попробуй тоже."
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_OTHER_GOOD_COMMENT",
+   "key": "e83d765e",
+   "ru": "<FACE_CHILD>\r\nСок команды, где <PARENT>, такой вкусный! Вот бы\nвзять немного домой."
+  },
+  {
+   "n": 277,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_NORMAL_COMMENT",
+   "key": "6dcd4e76",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХм, своеобразный вкус. Вкусно или нет ―\nзависит от того, кто пьёт."
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_OTHER_NORMAL_COMMENT",
+   "key": "cb6c8ec6",
+   "ru": "<FACE_CHILD>\r\nХм... Ну, не ужасно, но... не знаю."
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_BAD_COMMENT",
+   "key": "f50b0841",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nФу, почему такой вкус? Там что-то\nстранное...?"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Child_Girl_OTHER_BAD_COMMENT",
+   "key": "10242b3c",
+   "ru": "<FACE_CHILD>\r\nФу, я-я не могу это пить... <PARENT>, можно оставить?"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_INVITE",
+   "key": "7381e125",
+   "ru": "<NAME_MOB_TETO>\r\nУ меня <BLUE><____ITEMNAME0____></BLUE>. Ну как?"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_JOIN",
+   "key": "13bde609",
+   "ru": "<NAME_MOB_TETO>\r\nМахало."
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_CONFIRM",
+   "key": "d6fef4ee",
+   "ru": "<NAME_MOB_TETO>\r\n...<BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_RELEASE",
+   "key": "f9448548",
+   "ru": "<NAME_MOB_TETO>\r\nПонятно. Ясно."
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_GREETING",
+   "key": "d16c4851",
+   "ru": "<NAME_MOB_TETO>\r\nГотовить я не мастер. Оставлю это вам."
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_GOOD_COMMENT",
+   "key": "519df7d3",
+   "ru": "<NAME_MOB_TETO>\r\n...К этому вкусу претензий нет."
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_OTHER_GOOD_COMMENT",
+   "key": "519df7d3",
+   "ru": "<NAME_MOB_TETO>\r\n...К этому вкусу претензий нет."
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_NORMAL_COMMENT",
+   "key": "4d8bcbda",
+   "ru": "<NAME_MOB_TETO>\r\n...Ну, что есть, то есть."
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_OTHER_NORMAL_COMMENT",
+   "key": "4d8bcbda",
+   "ru": "<NAME_MOB_TETO>\r\n...Ну, что есть, то есть."
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_BAD_COMMENT",
+   "key": "ac38c6a4",
+   "ru": "<NAME_MOB_TETO>\r\n...Лучше уж сироп от кашля выпить."
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Teto_OTHER_BAD_COMMENT",
+   "key": "ac38c6a4",
+   "ru": "<NAME_MOB_TETO>\r\n...Лучше уж сироп от кашля выпить."
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_INVITE",
+   "key": "38098e05",
+   "ru": "<NAME_MOB_HOALA>\r\nСок с <BLUE><____ITEMNAME0____></BLUE>... Звучит неплохо, правда?"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_JOIN",
+   "key": "03fa5831",
+   "ru": "<NAME_MOB_HOALA>\r\nМахало, что взяли в команду. Я постараюсь."
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_CONFIRM",
+   "key": "222daa9e",
+   "ru": "<NAME_MOB_HOALA>\r\nСок с <BLUE><____ITEMNAME0____></BLUE>... Не хочешь такой сделать?"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_RELEASE",
+   "key": "6f9f6c86",
+   "ru": "<NAME_MOB_HOALA>\r\nПонятно... Что ж, заставлять не буду."
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_GREETING",
+   "key": "3e4f34f3",
+   "ru": "<NAME_MOB_HOALA>\r\nРада быть здесь. Надеюсь, сделаем хороший\nсок."
+  },
+  {
+   "n": 297,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_GOOD_COMMENT",
+   "key": "a0934a59",
+   "ru": "<NAME_MOB_HOALA>\r\nВсе улыбаются. После такой вкусноты иначе и\nбыть не может."
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_OTHER_GOOD_COMMENT",
+   "key": "a0934a59",
+   "ru": "<NAME_MOB_HOALA>\r\nВсе улыбаются. После такой вкусноты иначе и\nбыть не может."
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_NORMAL_COMMENT",
+   "key": "11736bf2",
+   "ru": "<NAME_MOB_HOALA>\r\nУ всех разные лица. Вкус на любителя. Тут уж\nничего не поделаешь."
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_OTHER_NORMAL_COMMENT",
+   "key": "fc35dc26",
+   "ru": "<NAME_MOB_HOALA>\r\nУ всех разные лица. Вкус на любителя. Тут уж\nничего не поделаешь."
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_BAD_COMMENT",
+   "key": "94031c2b",
+   "ru": "<NAME_MOB_HOALA>\r\nУ всех мрачные лица. Что ж, при таком вкусе\nсока неудивительно."
+  },
+  {
+   "n": 302,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Hoala_OTHER_BAD_COMMENT",
+   "key": "94031c2b",
+   "ru": "<NAME_MOB_HOALA>\r\nУ всех мрачные лица. Что ж, при таком вкусе\nсока неудивительно."
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_INVITE",
+   "key": "78f872ff",
+   "ru": "<NAME_MOB_MAHARO>\r\n*вздох* Совсем забыла про сегодняшний\nпраздник. Успела раздобыть только <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 304,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_JOIN",
+   "key": "10006a4b",
+   "ru": "<NAME_MOB_MAHARO>\r\nКак хорошо, что меня позвали."
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_CONFIRM",
+   "key": "5e2dea10",
+   "ru": "<NAME_MOB_MAHARO>\r\nВ панике схватила <BLUE><____ITEMNAME0____></BLUE>, но..."
+  },
+  {
+   "n": 306,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_RELEASE",
+   "key": "3b3e2c7f",
+   "ru": "<NAME_MOB_MAHARO>\r\nПростите, что ничем не смогла помочь."
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_GREETING",
+   "key": "b8e3cdb7",
+   "ru": "<NAME_MOB_MAHARO>\r\nЖду не дождусь совместной работы. Давайте\nвесело сделаем сок!"
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_GOOD_COMMENT",
+   "key": "88028610",
+   "ru": "<NAME_MOB_MAHARO>\r\nУх ты, как вкусно. Кажется, вся усталость\nсейчас улетучится."
+  },
+  {
+   "n": 309,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_OTHER_GOOD_COMMENT",
+   "key": "88028610",
+   "ru": "<NAME_MOB_MAHARO>\r\nУх ты, как вкусно. Кажется, вся усталость\nсейчас улетучится."
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_NORMAL_COMMENT",
+   "key": "43a9e309",
+   "ru": "<NAME_MOB_MAHARO>\r\nМожет, стоит что-то добавить. Или, наоборот,\nчто-то убрать...?"
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_OTHER_NORMAL_COMMENT",
+   "key": "fe477258",
+   "ru": "<NAME_MOB_MAHARO>\r\nИм, наверное, стоило что-то добавить. Или,\nнаоборот, что-то убрать...?"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_BAD_COMMENT",
+   "key": "b07e4f6d",
+   "ru": "<NAME_MOB_MAHARO>\r\nЕсли продавать такой напиток в гостинице,\nбоюсь, все постояльцы разбегутся."
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Maharo_OTHER_BAD_COMMENT",
+   "key": "b07e4f6d",
+   "ru": "<NAME_MOB_MAHARO>\r\nЕсли продавать такой напиток в гостинице,\nбоюсь, все постояльцы разбегутся."
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_INVITE",
+   "key": "2761e46b",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nХочу сделать из <BLUE><____ITEMNAME0____></BLUE> новый сок!"
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_JOIN",
+   "key": "22cc9e01",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nЧто ж, очень благодарна. Махало."
+  },
+  {
+   "n": 316,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_CONFIRM",
+   "key": "2761e46b",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nХочу сделать из <BLUE><____ITEMNAME0____></BLUE> новый сок!"
+  },
+  {
+   "n": 317,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_RELEASE",
+   "key": "f6bbdc0e",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nДумаю, из <BLUE><____ITEMNAME0____></BLUE> точно получится что-то вкусное, но\nраз ты так говоришь..."
+  },
+  {
+   "n": 318,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_GREETING",
+   "key": "e36e90ab",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nУ меня фруктовая лавка, знаешь ли. Соки ―\nмоя специальность. Только скажите, что нужно."
+  },
+  {
+   "n": 319,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_GOOD_COMMENT",
+   "key": "74a392c1",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nВот оно! Тот самый вкус, который я искала!\nАх, как я счастлива."
+  },
+  {
+   "n": 320,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_OTHER_GOOD_COMMENT",
+   "key": "74a392c1",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nВот оно! Тот самый вкус, который я искала!\nАх, как я счастлива."
+  },
+  {
+   "n": 321,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_NORMAL_COMMENT",
+   "key": "0d27f4a9",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nХм... При правильном балансе ингредиентов\nмогло бы быть ещё лучше."
+  },
+  {
+   "n": 322,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_OTHER_NORMAL_COMMENT",
+   "key": "0d27f4a9",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nХм... При правильном балансе ингредиентов\nмогло бы быть ещё лучше."
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_BAD_COMMENT",
+   "key": "8e539646",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nПочему такой вкус? Как грустно."
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Cocopaya_OTHER_BAD_COMMENT",
+   "key": "8e539646",
+   "ru": "<NAME_MOB_COCOPAYA>\r\nПочему такой вкус? Как грустно."
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_INVITE",
+   "key": "baf9002a",
+   "ru": "<NAME_MOB_FUNDY>\r\nСмотри, <BLUE><____ITEMNAME0____></BLUE>. Аппетитно, правда?"
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_JOIN",
+   "key": "24642130",
+   "ru": "<NAME_MOB_FUNDY>\r\nАга! Ты понимаешь толк!"
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_CONFIRM",
+   "key": "baf9002a",
+   "ru": "<NAME_MOB_FUNDY>\r\nСмотри, <BLUE><____ITEMNAME0____></BLUE>. Аппетитно, правда?"
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_RELEASE",
+   "key": "565c1018",
+   "ru": "<NAME_MOB_FUNDY>\r\nА ведь так вкусно... Какая жалость."
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_GREETING",
+   "key": "fe97ff9d",
+   "ru": "<NAME_MOB_FUNDY>\r\nНенавижу проигрывать! Выложимся и сделаем\nчертовски хороший сок!"
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_GOOD_COMMENT",
+   "key": "fce29030",
+   "ru": "<NAME_MOB_FUNDY>\r\nОбъедение! Так вкусно, что можно продавать\nкак фирменный напиток Лулукоко!"
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_OTHER_GOOD_COMMENT",
+   "key": "fce29030",
+   "ru": "<NAME_MOB_FUNDY>\r\nОбъедение! Так вкусно, что можно продавать\nкак фирменный напиток Лулукоко!"
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_NORMAL_COMMENT",
+   "key": "90bff132",
+   "ru": "<NAME_MOB_FUNDY>\r\nНеплохо. Неплохо, но... вкусным я бы это не\nназвал."
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_OTHER_NORMAL_COMMENT",
+   "key": "90bff132",
+   "ru": "<NAME_MOB_FUNDY>\r\nНеплохо. Неплохо, но... вкусным я бы это не\nназвал."
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_BAD_COMMENT",
+   "key": "f0096253",
+   "ru": "<NAME_MOB_FUNDY>\r\n...Я-я больше не могу это пить! Организм не\nдаёт влить в рот ни капли."
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_Mob_Fundy_OTHER_BAD_COMMENT",
+   "key": "f0096253",
+   "ru": "<NAME_MOB_FUNDY>\r\n...Я-я больше не могу это пить! Организм не\nдаёт влить в рот ни капли."
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_INVITE",
+   "key": "8d01e32a",
+   "ru": "<NAME_MOB_QINA>\r\nКак насчёт сока, где много <BLUE><____ITEMNAME0____></BLUE>?"
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_JOIN",
+   "key": "a22b71ef",
+   "ru": "<NAME_MOB_QINA>\r\nВот именно! Так и надо!"
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_CONFIRM",
+   "key": "6907ee46",
+   "ru": "<NAME_MOB_QINA>\r\nХочу сделать сок, где много <BLUE><____ITEMNAME0____></BLUE>."
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_RELEASE",
+   "key": "b6fac10d",
+   "ru": "<NAME_MOB_QINA>\r\nО? Не годится? Жаль."
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_GREETING",
+   "key": "11275324",
+   "ru": "<NAME_MOB_QINA>\r\nВсем привет! ♪ Сделаем сок такой вкусный,\nчтобы все расплакались от счастья!"
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_GOOD_COMMENT",
+   "key": "583939a1",
+   "ru": "<NAME_MOB_QINA>\r\nХорошо, даже лучше всех! Ни к сладости, ни к\nаромату претензий нет. ♪"
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_GOOD_COMMENT",
+   "key": "583939a1",
+   "ru": "<NAME_MOB_QINA>\r\nХорошо, даже лучше всех! Ни к сладости, ни к\nаромату претензий нет. ♪"
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_NORMAL_COMMENT",
+   "key": "eea4f0e9",
+   "ru": "<NAME_MOB_QINA>\r\nВкус вышел заурядней, чем я думала. Жаль."
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_NORMAL_COMMENT",
+   "key": "ae3a1146",
+   "ru": "<NAME_MOB_QINA>\r\nВкус вышел довольно заурядный. Жаль их."
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_BAD_COMMENT",
+   "key": "b4b3d2dc",
+   "ru": "<NAME_MOB_QINA>\r\nДаже я не справлюсь с этим соком. Сдаюсь!"
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "MES_EV_FES_S_DRINK_TeaOwner_OTHER_BAD_COMMENT",
+   "key": "b4b3d2dc",
+   "ru": "<NAME_MOB_QINA>\r\nДаже я не справлюсь с этим соком. Сдаюсь!"
   },
   {
    "n": 347,
