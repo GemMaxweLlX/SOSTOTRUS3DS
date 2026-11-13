@@ -1,0 +1,236 @@
+{
+ "file": "Resident_S_FisherWife",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_01",
+   "key": "d6d6ddf9",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nНу надо же, <_____MYNAME_____>! Отличная сегодня погода, а?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_02",
+   "key": "dfbaafdb",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nЯ как раз собиралась пройтись по другим\nгородам, собрать продукты для клиентов.\n<PAGE>\n<FACE_LAUGH>Пойдёшь со мной? Хотя если у тебя есть дела,\nничего страшного."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_03",
+   "key": "37912638",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Тогда пошли.\n<PAGE>\nПервая по списку ― Цуюкуса. Идём."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_04",
+   "key": "9350c465",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nПросто идти прямо куда надо как-то скучно,\nправда?\n<PAGE>\nЕсть место, куда тебе хочется, <_____MYNAME_____>?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_05",
+   "key": "3873e81e",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nО! Отлично! Место что надо. Давай сначала\nтуда!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_06",
+   "key": "03bd985b",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nПришли!\n<PAGE>\nМои постоянные клиенты обожают дикие\nтравы, что растут вокруг Цуюкусы.\n<PAGE>\nПриступим, а?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_07",
+   "key": "2446ed8e",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>. Погоди секунду."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_08",
+   "key": "50ecc491",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nСегодня я собираюсь набрать ЦЕЛУЮ ГОРУ\nдиких трав.\n<PAGE>\nВдвоём это, наверное, слишком долго, так что\nпозову подкрепление."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_09",
+   "key": "0dbe7312",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nТы в порядке? Что-то ты уж очень пристально\nсмотришь..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_10",
+   "key": "4b38ceb3",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nА, мои звериные дружки? Давным-давно тут\nбыли плохие люди, которые обижали здешних\nзверей.\n<PAGE>\n<FACE_ANGRY>Это было так ужасно, что пришлось вмешаться\nи слегка их поколотить.\n<PAGE>\n<FACE_NORMAL>С тех пор звери приходят на помощь, стоит\nмне попросить."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_11",
+   "key": "9582c441",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nФух, хорошо, что столько трав набрали.\n<PAGE>\nБез моих дружков не справились бы. Надёжные\nони, правда?\n<PAGE>\n<FACE_NORMAL>Так, <_____MYNAME_____>. Теперь займёмся настоящими\nпродуктами!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_12",
+   "key": "e5b3a097",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nНа этот раз ищем не дикие травы, а кое-что\nсовсем другое.\n<PAGE>\nНе волнуйся, найти будет нетрудно. Глянь-ка\nтуда."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_13",
+   "key": "6a430592",
+   "ru": "<FACE_FISHERWIFE>\r\nЯ возьму яйца из птичьего гнезда на вершине\nтого утёса!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_14",
+   "key": "2ccace46",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nКонечно, я полезу. Как ещё туда попасть?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_15",
+   "key": "d96dc605",
+   "ru": "<FACE_FISHERWIFE>\r\nЭ-э-эй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_16",
+   "key": "0f40aea6",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nНе волнуйся за меня, я в порядке!\n<PAGE>\n<FACE_NORMAL>В своё время я хорошо натренировалась. Пусть\nя и постарела, но такое мне всё ещё раз\nплюнуть!\n<PAGE>\nАх, только не вздумай повторять за мной,\nладно?\n<PAGE>\nТебе ведь не доводилось плавать с острова на\nостров и бегать по краю утёса, правда?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_17",
+   "key": "905e7670",
+   "ru": "<FACE_RESTAURANTWIFE>\r\nО, Каолила и <_____MYNAME_____>, это вы?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_18",
+   "key": "a9ac3d9c",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nО, э-э, я могу спросить тебя о том же!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_19",
+   "key": "8a72bb51",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\nНу, я гуляла неподалёку и услышала громкий\nгрохот.\n<PAGE>\nСтало любопытно, что это, вот и подошла,\nно... Вы не видели, что случилось?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_20",
+   "key": "65ae2243",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nА-ха-ха-ха-ха-ха! Мы тут просто немного\nдурачились с <_____MYNAME_____>!\n<PAGE>\nНо раз уж ты здесь, Кэрри, вот яйца, которые\nты просила."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_21",
+   "key": "a924015b",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nОх! Как быстро. Лучшее от Каолилы! ♪\n<PAGE>\n<FACE_NORMAL>Но знаешь, мне всегда было интересно... где ты\nвообще берёшь яйца?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_22",
+   "key": "99fec982",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nД-да недалеко! Ты бы удивилась, как близко\nэто место.\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>Правда? Может, в следующий раз сама поищу.\n<PAGE>\n<FACE_LAUGH>В общем, спасибо. Теперь наконец смогу\nопробовать новые рецепты!\n<PAGE>\nМоё следующее творение ― блюдо, от\nкоторого почувствуешь, будто паришь, как\nорёл!\n<PAGE>\n<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH><WINDOW_SWEAT_R>...\n<PAGE>\nЗвучит интересно! Жду не дождусь, что\nполучится!\n<PAGE>\n<FACE_SAD>(...Хотя боюсь, воспарит в итоге твой муж...)\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL><WINDOW_DEFAULT>Хм? Ты что-то сказала, Каолила?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_23",
+   "key": "532b0475",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nЯ полезу. Подождёшь тут и постоишь на\nстрёме?\n<PAGE>\n<FACE_SAD>Однажды кто-то из города застал меня там и\nужасно расстроился."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_24",
+   "key": "4b4693b4",
+   "ru": "<FACE_FISHERWIFE>\r\nЯ спускаюсь, так что лучше отойди!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_25",
+   "key": "191b4959",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\nТак и знала! Вы такие близкие, раз вот так\nпроводите время вместе. ♪\n<PAGE>\nТак... что вы тут делаете?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_26",
+   "key": "5acfdb87",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nНе-а! Я ни слова не сказала! Может, птица\nкаркнула?\n<PAGE>\nСлушай, тебе разве не пора возвращаться в\nресторан?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_27",
+   "key": "31ea8a13",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_NORMAL>\r\nОй, и правда! Надо вернуться и помочь Брэду.\nДо встречи."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_28",
+   "key": "0eb3a895",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nПочему я не сказала Кэрри, чем мы\nзанимались?\n<PAGE>\nНу, Кэрри та ещё сплетница. Скажешь ей\nчто-нибудь, и не успеешь оглянуться, как весь\nгород знает.\n<PAGE>\nНе хочу, чтобы кто-то узнал об этом месте, а\nглавное, не хочу, чтобы дети пытались за мной\nповторять!\n<PAGE>\nТак что и ты никому ни слова, ладно? Если\nкогда-нибудь захочешь залезть на этот утёс, я\nсама тебя научу."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_29",
+   "key": "2e2ce13a",
+   "ru": "(Кажется, я понимаю, почему Захау и Шальк\nговорят, что никогда не перечат Каолиле.)"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_30",
+   "key": "787eaee3",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nПростите, что беспокою, но не поможете нам\nсобрать побольше диких трав?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_31",
+   "key": "1d19516e",
+   "ru": "<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>, приходи попробовать моё новое блюдо, когда\nбудет готово.\n<PAGE>\nХа-ха-ха, жду не дождусь. ♪"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_32",
+   "key": "624ec568",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nЭ-э-эй, выходите, ребята!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_RESIDENT_S_FISHERWIFE_33",
+   "key": "e3cb67dc",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, тогда и нам пора к ним.\n<PAGE>\nПокажу тебе своё потрясающее мастерство\nсобирательства!"
+  }
+ ]
+}
