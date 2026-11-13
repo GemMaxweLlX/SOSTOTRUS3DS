@@ -1,0 +1,82 @@
+{
+ "file": "Resident_First_S_Angler",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_00",
+   "key": "ca672e24",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nО! Алоха. В гости пришёл(шла)?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_01",
+   "key": "b3e906be",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nВот как, вот как. Знаешь, я тебе всегда рада, <_____MYNAME_____>."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_02",
+   "key": "5aa362b8",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nХм? У меня сегодня особенно хорошее\nнастроение? Хо-хо-хо-хо! Так и есть!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_03",
+   "key": "d974e8e0",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nВидишь ли, хозяин вон того домика вот-вот\nвернётся домой.\n<PAGE>\n<FACE_LAUGH>Мы с ним дружим давным-давно. Я решила,\nчто встретить его ― самое правильное дело."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_04",
+   "key": "350db9a2",
+   "ru": "<NAME_UNKNOWN>\r\nХо-хо-хо! Да это же Тототара!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_05",
+   "key": "1f1e8708",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nХаулани! С возвращением, старый друг! Я тебя\nждала.\n<PAGE>\nПока ты гостил на родине, мне было ужасно\nодиноко без старого собеседника, с кем\nпосплетничать."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_06",
+   "key": "1758759a",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Хо-хо-хо, прошу прощения, но это было\n400-летие основания моей родины, а? Я не мог\nНЕ поехать.\n<PAGE>\nНо теперь, когда всё позади, я снова могу\nнаслаждаться тихой жизнью в любимой\nдеревушке."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_07",
+   "key": "60f89ecc",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\n<NAME_UNKNOWN>Кстати, кто это с тобой?\n<PAGE>\n<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>Это <_____MYNAME_____>, наш новый фермер по соседству.\n<PAGE>\nПрибыл(а) к нам через несколько дней после\nвашего отъезда.\n<PAGE>\n<FACE_ANGLER><NAME_UNKNOWN><POS_LEFT><FACE_NORMAL>О, вот как? Тогда, пожалуй, стоит\nпредставиться, хм?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_08",
+   "key": "cda60616",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_LAUGH>\r\nРад знакомству, <_____MYNAME_____>. Я Хаулани.\n<PAGE>\nВ молодости я был солдатом у себя на родине,\nа теперь на покое и наслаждаюсь тихой\nрыбацкой жизнью здесь, в Лулукоко."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_09",
+   "key": "2dc4b6a1",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_NORMAL>\r\nА это мой внук, Тигре.\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>Приятно познакомиться, <_____MYNAME_____>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_FIRST_S_ANGLER_10",
+   "key": "864a255d",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nРаз эти двое вернулись из поездки, наверняка\nбудешь встречать их в городе. Говори им\nиногда “алоха”."
+  }
+ ]
+}
