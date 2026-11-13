@@ -100,11 +100,25 @@
    "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТех, кто прошёл этот путь, называют\nзнатоками.\n<PAGE>\n<FACE_LAUGH>И твоё мастерство несомненно достойно этого\nзвания. Снимаю шляпу!"
   },
   {
+   "n": 29,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_FASHION_WIN_BEGINNER",
+   "key": "9a079c83",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПрежде всего поздравляю. Однако победы в\nклассе “Новичок” тебе мало, верно?\n<PAGE>\nТалантливым следует стремиться выше. Если\nдовольствоваться тем, что есть, это просто\nрастрата превосходных генов."
+  },
+  {
    "n": 32,
    "f": 2,
    "id": "MES_FREE_EVENT_Doctor_FASHION_LOSE_VETERAN",
    "key": "d905a193",
    "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПусть в этот раз не вышло, а в следующий? И\nчерез раз? И ещё через раз?\n<PAGE>\nТот, кто по-настоящему старается, в итоге\nбывает вознаграждён. Мыслить сиюминутно ―\nудел лишённых честолюбия."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Doctor_FASHION_LOSE_BEGINNER",
+   "key": "92d340d7",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЛюбой класс “Новичок” ― лишь врата к\nнастоящему соревнованию. Остановишься здесь\n― до высшего класса будет далеко.\n<PAGE>\nОднако стать первым в любой дисциплине,\nкакой бы она ни была, ― немалое достижение.\n<PAGE>\nПуть может быть долгим и трудным, но нужно\nбросать себе вызов, пока не будешь довольна."
   },
   {
    "n": 34,
@@ -140,6 +154,13 @@
    "id": "MES_LOVER_FREE_EVENT_Doctor_FASHION_LOSE_EXPERT",
    "key": "49afca6e",
    "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПобеда в классе “Мастер” ― дело непростое.\nНе грусти так.\n<PAGE>\n<FACE_LOSS>Что? Если я погажу тебя по черепу, станет\nлегче? У этого так называемого “средства” нет\nнаучного обоснования.\n<PAGE>\n<FACE_LAUGH>Но на этот раз сделаю исключение. Если ты\nснова улыбнёшься, научная обоснованность меня\nничуть не волнует."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Doctor_FASHION_LOSE_VETERAN",
+   "key": "65c45b09",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nТы не из тех, кто на этом остановится. В\nтрудностях ты расцветаешь.\n<PAGE>\n<FACE_LAUGH>Иными словами, отныне будь в себе уверена. В\nследующий раз покажи всем на конкурсе, на что\nты способна."
   },
   {
    "n": 41,
@@ -212,6 +233,13 @@
    "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой в классе “Мастер”.\n<PAGE>\nЭто напоминание, что и мне нужно смело идти\nк своим целям и усердно их добиваться."
   },
   {
+   "n": 63,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Chaser_FASHION_WIN_BEGINNER",
+   "key": "cdaa7e49",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой. Я верил, что ты\nпобедишь!"
+  },
+  {
    "n": 65,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_Chaser_FASHION_LOSE_EXPERT",
@@ -282,6 +310,20 @@
    "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nХорошая попытка! Ох, у участников класса\n“Легенда” совсем другая аура.\n<PAGE>\nСразу видно, что они знают своё дело. Но я\nзнаю, ты можешь их потеснить!"
   },
   {
+   "n": 85,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Apprentice_FASHION_LOSE_BEGINNER",
+   "key": "49efd238",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЯ смотрел. Ты была супер, <_____MYNAME_____>. Молодчина!"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Apprentice_FASHION_WIN_LEGEND",
+   "key": "8a61d210",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>! Поздравляю с победой! Я знал, что ты всех\nразнесёшь!\n<PAGE>\n<FACE_NORMAL>Что? Не хочешь, чтобы я так обнимал тебя при\nвсех?\n<PAGE>\n<FACE_LOVE>Ничего не могу поделать! Когда увидел твою\nпобеду, руки сами потянулись!"
+  },
+  {
    "n": 88,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_Apprentice_FASHION_WIN_VETERAN",
@@ -343,6 +385,13 @@
    "id": "MES_MARRIAGE_FREE_EVENT_Apprentice_FASHION_WIN_BEGINNER",
    "key": "0a15820d",
    "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой, <_____MYNAME_____>! Все твои старания\nтого стоили!"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_MARRIAGE_FREE_EVENT_Apprentice_FASHION_LOSE_EXPERT",
+   "key": "80abd78b",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, в жизни бывают взлёты и падения.\n<PAGE>\nДаже если не получилось, не сдавайся. Прими\nвызов!\n<PAGE>\nПроигрываешь не тогда, когда не выиграла\nконкурс. Проигрываешь, когда перестала\nдумать о победе!\n<PAGE>\n<FACE_LAUGH>Так что пусть немного тяжело, соберись и в\nследующий раз выложись по полной!\n<PAGE>\nА теперь покажи мне своё боевое лицо!"
   },
   {
    "n": 100,
@@ -415,6 +464,13 @@
    "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nИди сюда, <_____MYNAME_____>. Если я тебя так обниму, ты не\nувидишь никого вокруг.\n<PAGE>\nИ никто не увидит твоего лица. Так что...\nтеперь можно поплакать, да? Ты молодец, <_____MYNAME_____>."
   },
   {
+   "n": 118,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_Craftman_FASHION_LOSE_VETERAN",
+   "key": "3a777ed2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nХорошая попытка, <_____MYNAME_____>. Если ты свободна после\nэтого, пойдём перекусим вместе?\n<PAGE>\nУгощу чем захочешь. Пусть ты не на первом\nместе, хочу наградить тебя за старания."
+  },
+  {
    "n": 119,
    "f": 2,
    "id": "MES_LOVER_FREE_EVENT_Craftman_FASHION_LOSE_BEGINNER",
@@ -476,6 +532,13 @@
    "id": "MES_MARRIAGE_FREE_EVENT_Craftman_FASHION_LOSE_BEGINNER",
    "key": "33907c8d",
    "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nЧто ж, всякое бывает.\n<PAGE>\nТы выложилась по полной. Я это знаю лучше\nвсех. Не переживай о победах и поражениях."
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Florist_FASHION_WIN_BEGINNER",
+   "key": "71f16dfe",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nМолодец! Не верится, что победа твоя!\nПоздравляю!\n<PAGE>\nВ следующий раз, может, возьмёшься за класс\nпосложнее?"
   },
   {
    "n": 137,
@@ -562,6 +625,13 @@
    "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой в классе “Мастер”!\n<PAGE>\n<FACE_NORMAL>Хм... Похоже, для тебя это ерунда. Теперь мне\nнеловко, что я так разволновалась."
   },
   {
+   "n": 159,
+   "f": 2,
+   "id": "MES_FREE_EVENT_TeaGirl_FASHION_WIN_BEGINNER",
+   "key": "9fce503f",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с победой! Сегодня точно день для\nсэкихана. Какой праздник без сэкихана!"
+  },
+  {
    "n": 160,
    "f": 2,
    "id": "MES_FREE_EVENT_TeaGirl_FASHION_LOSE_LEGEND",
@@ -639,6 +709,13 @@
    "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nХорошая попытка. Эй, чего такой надутый? Не\nкисни из-за одного-двух проигрышей!\n<PAGE>\n<FACE_LAUGH>Сколько раз надо проиграть, чтобы можно\nбыло расстраиваться? Ну, посмотрим...\nПроиграй хотя бы раз тридцать, тогда можно!\n<PAGE>\n<FACE_SAD>Стоп, что я вообще несу! Какая разница\nсколько раз?! Не в этом дело!\n<PAGE>\n<FACE_LAUGH>Ну, раз я ещё могу так дурачиться, видно, всё\nбудет нормально."
   },
   {
+   "n": 171,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TeaGirl_FASHION_LOSE_BEGINNER",
+   "key": "59fce080",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТы молодец, <_____MYNAME_____>. Жаль, что ты не победил.\n<PAGE>\n<FACE_LAUGH>Но я уверена, всё будет хорошо. Верю, что в\nследующий раз ты победишь."
+  },
+  {
    "n": 173,
    "f": 2,
    "id": "MES_MARRIAGE_FREE_EVENT_TeaGirl_FASHION_WIN_EXPERT",
@@ -714,6 +791,13 @@
    "id": "MES_FREE_EVENT_Teacher_FASHION_LOSE_EXPERT",
    "key": "e7d1addc",
    "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nКакой бы ни был путь, овладеть им никогда не\nбывает легко.\n<PAGE>\nВажно учиться на поражениях."
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Teacher_FASHION_LOSE_VETERAN",
+   "key": "b24794fa",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, к победе в этом классе ты ещё не\nсовсем готов. Исправить курс поможет лишь\nодно: усердные тренировки!"
   },
   {
    "n": 189,
@@ -1031,6 +1115,13 @@
    "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nХорошая работа. Может, потом поедим\nвместе? <_____MYNAME_____>, можно?\n<PAGE>\n<FACE_LAUGH>У тебя такой грустный вид, <_____MYNAME_____>. Не могу оставить\nтебя одного. К тому же хочу побыть с тобой\nподольше!"
   },
   {
+   "n": 249,
+   "f": 2,
+   "id": "MES_LOVER_FREE_EVENT_TwinYounger_FASHION_LOSE_BEGINNER",
+   "key": "e33599d3",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_SAD>\r\nКак тебя подбодрить, <_____MYNAME_____>? Если я что-то могу\nсделать, пожалуйста, скажи.\n<PAGE>\nКогда тебе грустно, мне тоже грустно! *вздох*"
+  },
+  {
    "n": 250,
    "f": 2,
    "id": "MES_MARRIAGE_FREE_EVENT_TwinYounger_FASHION_WIN_LEGEND",
@@ -1241,11 +1332,25 @@
    "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nУ-у-у-ху-у-у-у! Поздравляю с большой\nпобедой! Это было невероятно! ♪"
   },
   {
+   "n": 369,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Goddes_FASHION_WIN_BEGINNER",
+   "key": "7abdda1d",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю с большой победой! Я знала, что\nты сможешь! Вперё-ё-ёд, <_____MYNAME_____>! *хлоп-хлоп*\n*хлопхлопхлоп* ♪"
+  },
+  {
    "n": 372,
    "f": 2,
    "id": "MES_FREE_EVENT_Goddes_FASHION_LOSE_VETERAN",
    "key": "27a1d4fc",
    "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nПраздник был весёлый. Даже как-то грустно,\nчто он закончился..."
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "MES_FREE_EVENT_Witch_FASHION_WIN_LEGEND",
+   "key": "bc00fee0",
+   "ru": "<FACE_WITCH><POS_RIGHT><FACE_LAUGH>\r\nЭй, погоди-ка! Победа в высшем классе ― не\nшутки!\n<PAGE>\n<FACE_NORMAL>Ха! Н-не то чтобы я рада или взволнована\nтвоей победой!\n<PAGE>\n<FACE_LAUGH>Просто, ну... у тебя был такой вид, будто ты\nждёшь, что я что-то скажу, вот я и сказала.\nТолько и всего!"
   },
   {
    "n": 377,
