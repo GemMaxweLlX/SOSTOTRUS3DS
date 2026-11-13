@@ -1,0 +1,355 @@
+{
+ "file": "Love_S_TwinOlder_7",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_00",
+   "key": "e32b1752",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_NORMAL>\r\nО! <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_01",
+   "key": "d5d09e58",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_LAUGH>\r\nАлоха, <_____MYNAME_____>!\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>З-здравствуйте...\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_LAUGH>Мы как раз просили Лотуса рассказать про\nвсякие странные проклятия и приметы в\nруинах!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_02",
+   "key": "7912a67e",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nА есть ещё куча хороших, от которых люди\nвлюбляются или парам везёт!\n<PAGE>\nПравда же, ужасно романтично?!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_03",
+   "key": "5722c56a",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nОни правы.\n<PAGE>\nВ этой книге описаны и проклятия, и более\nбезобидные поверья о руинах. Самое\nромантичное из них...\n<PAGE>\n...гласит, что если двое влюблённых встанут\nперед алтарём в руинах в свете полной луны в\nночь на <MOJI0> <MOJI1>...\n<PAGE>\nИх навеки свяжет вечная любовь.\n<PAGE>\nЗвучит очень мило, правда?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_04",
+   "key": "5afe8fe6",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\nПравда?! Так это же сегодня!\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_NORMAL>Точно! Ого, вот это совпадение!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_05",
+   "key": "e4b3be66",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nЭ-э, да. Это и правда сегодня.\n<PAGE>\n<FACE_LAUGH>Ну, для одиночки вроде меня это поверье мало\nчто значит."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_06",
+   "key": "7c5e249c",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nО! Но вы с Илукой ведь пара, так что...\n<PAGE>\nМожет, вы попробуете?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_07",
+   "key": "31935759",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nСкорее пригласи Илуку.\n<PAGE>\nВ книге сказано, что поверье не сработает, если\nлуну не видно полностью."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_08",
+   "key": "2e0c0683",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nО! О! <_____MYNAME_____> и сестричка Илука будут целоваться?\nХочу посмотреть! Хочу посмотреть!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_09",
+   "key": "7cc76fa1",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_SAD>\r\nНу-ну, Альма. Нехорошо мешать двоим, когда\nони наедине."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_10",
+   "key": "93dc4657",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nЛотус. Вот ты где."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_11",
+   "key": "56e816dc",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nХм?\n<PAGE>\nЗачем ты таскаешь эту книгу городских легенд?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_12",
+   "key": "b75affeb",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_SAD>\r\nЧ-что? Эти истории ненастоящие?\n<PAGE>\n<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>Конечно, нет. Всё в этой книге ― выдумка.\n<PAGE>\nТолько не говори, что ты в них поверил. И ты\nещё называешь себя историком?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_13",
+   "key": "665fc767",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_SAD>\r\nП-простите, профессор..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_14",
+   "key": "14d2008f",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nИ перед вами двумя мне тоже нужно\nизвиниться. Кажется, я невольно вам соврал."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_15",
+   "key": "b74e363e",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\nЗабудь! Как ты смеешь уходить, когда я занята!\nИдём, работа ждёт!\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>Д-да, мэм."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_16",
+   "key": "a5f2fe04",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_SAD>\r\nНу-у, это всё выдумка?\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_NORMAL><_____MYNAME_____> ведь совсем поверил. Надо скорее сказать ему\nправду!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_17",
+   "key": "eeebaaac",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\nНет, постой!\n<PAGE>\nЕсли не мешать, мы, может, увидим, как <_____MYNAME_____> и\nИлука целуются!\n<PAGE>\nБудет прямо как в сказке!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_18",
+   "key": "68cc4545",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>\r\n...Так что не говори им. Это наш секрет,\nладно?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_19",
+   "key": "79917e19",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_NORMAL>\r\nА?\n<PAGE>\nНу ладно. Раз ты так говоришь."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_20",
+   "key": "a6f8ae60",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВ чём дело, <_____MYNAME_____>? Зачем ты привёл меня сюда в\nтакой поздний час?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_21",
+   "key": "573d2435",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nХм? Если двое влюблённых поцелуются перед\nалтарём в эту самую ночь, их свяжет вечная\nлюбовь?\n<PAGE>\n<FACE_LOSS>Погоди. Повтори. Двое влюблённых...\nцелуются... перед алтарём...?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_22",
+   "key": "12bb8fe2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nТы хочешь, чтобы мы поцеловались?! Здесь?!\n<PAGE>\nНет! Ни за что! Не буду я делать ничего такого\nстыдного!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_23",
+   "key": "9515ae74",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nВо-первых, тут кто-то может быть!\nПодглядывать за нами! Прямо сейчас!\n<PAGE>\nНе можешь же ты всерьёз ждать, что я..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_24",
+   "key": "d25a2aae",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nЧто я... буду стоять и ничего не делать, пока\nты смотришь на меня как побитый щенок."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_25",
+   "key": "2e2d9ff7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\n...\n<PAGE>\nН-ну...\n<PAGE>\nЕсли ты прям настаиваешь, так и быть, по\nдоброте душевной можно попробовать."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_26",
+   "key": "a2b44530",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nХотя, признаю, я сомневаюсь, что это\n“поверье” правда...\n<PAGE>\nГ-готов? Ну, начинаю..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_27",
+   "key": "92445359",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_LAUGH>\r\n(И-и-и! <RED>∀</RED> Как волнительно...!)\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_ANGRY>Уф! Альма...! Не толкайся!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_28",
+   "key": "0d601c30",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_ANGRY>\r\nЭй! Не ори, дурачок! Они же услышат!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_29",
+   "key": "d888d802",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_ANGRY>\r\nЭто кто тут дурачок?! Ты первая меня\nтолкнула!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_30",
+   "key": "3337f59c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nЧто вы двое тут делаете?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_31",
+   "key": "21641eec",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_SAD>\r\nНу вот! Попались."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_32",
+   "key": "03fba1b4",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nЭто ты виновата, что толкалась.\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_ANGRY>Нет! Это ТЫ виноват, что шумел!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_33",
+   "key": "49cceb67",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nТихо. Оба."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_34",
+   "key": "afaebb71",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_SAD>\r\nС-сестричка, эм... злее, чем обычно.\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_ANGRY>Н-не смотри на меня! Я хотел прийти и\nсказать, что это всё выдумка, а Альма не\nпустила!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_35",
+   "key": "d1edb332",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nВыдумка? Всё это поверье ― выдумка...?\n<PAGE>\n<FACE_FISHERSON><POS_LEFT><FACE_NORMAL>Ой..."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_36",
+   "key": "575a20c4",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_SAD>\r\nЭм, м-мы сначала все думали, что правда, но\nпотом пришла профессор Митра и сказала, что\nнет.\n<PAGE>\n<FACE_ANGRY>Но мне так хотелось посмотреть, как вы\nцелуетесь, это же так романтично! Что в этом\nплохого?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_37",
+   "key": "335cec60",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_ANGRY>\r\nЭй! Не оправдывайся!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_38",
+   "key": "4fbfe864",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_SAD>\r\nВ-в общем, э кала маи!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_39",
+   "key": "e6245467",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\n...\n<PAGE>\nНе надо делать такой несчастный вид.\n<PAGE>\nЯ так и подозревала."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_40",
+   "key": "6207b8ef",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЯ ведь всю жизнь живу в этой деревне и ни\nразу о таком не слышала.\n<PAGE>\nНаверное, это просто байка, которую выдумал\nкто-то, кто не знает здешних мест.\n<PAGE>\n<FACE_LAUGH>К тому же я жрица этих руин. Если бы тут\nпроисходило что-то мистическое, я бы знала."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_41",
+   "key": "872ab060",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНе то чтобы я пыталась тебя успокоить.\n<PAGE>\nДаже если бы поверье было правдой...\n<PAGE>\nНам с тобой ведь не нужна помощь чудес."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_42",
+   "key": "d356667f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nПравда?\n<PAGE>\nВедь я полюбила тебя. А ты полюбил меня.\n<PAGE>\nЭто уже само по себе невероятное чудо.\n<PAGE>\nВообще-то, чудеснее ничего и не придумать."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_43",
+   "key": "3611e107",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nК тому же вечную любовь не стоит\nвыпрашивать у высших сил."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_44",
+   "key": "1f6159bf",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЯ буду любить тебя всю жизнь, и безо всякого\nбожественного вмешательства.\n<PAGE>\nНе хочу принижать поверья...\n<PAGE>\nНо пока мы оба доверяем и верим друг другу,\nмы можем быть счастливы без чьей-либо\nпомощи.\n<PAGE>\nТак что нам не нужны никакие обряды, чтобы\n“связать” нас навеки. Согласен?"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_45",
+   "key": "32c8b6e7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЗнаю.\n<PAGE>\nТы ведь просто хотел меня порадовать,\nспорим."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_46",
+   "key": "04bc40ba",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_PALPITATION_R>Запомни, <_____MYNAME_____>.\n<PAGE>\nДля меня твои чувства ко мне дороже всего.\n<PAGE>\nЭто единственное, во что я верю\nбезоговорочно.\n<PAGE>\n<FACE_LOVE>Пока у меня есть ты, мне больше ничего не\nнужно."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_47",
+   "key": "059f85e0",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nЯ люблю тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_48",
+   "key": "03d7e3e6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nА теперь...\n<PAGE>\nНадо обязательно наказать этих двух проныр\nза то, что подглядывали.\n<PAGE>\nОх, как бы им получше отплатить..."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_7_49",
+   "key": "4018cb0a",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nИтак, о следующем разделе этой книги..."
+  }
+ ]
+}

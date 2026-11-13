@@ -1,0 +1,369 @@
+{
+ "file": "Love_S_TwinOlder_5",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_00",
+   "key": "f48f47e9",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nОХ! Сколько раз тебе повторять, что я просто\nхочу проверить! Просто для уверенности!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_01",
+   "key": "d443b499",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_ANGRY>\r\nА сколько раз тебе повторять, что это глупо?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_02",
+   "key": "b25f1f33",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nМр-р-ргх!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_03",
+   "key": "0c0cc45b",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_ANGRY>\r\nМр-р-рн!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_04",
+   "key": "a3425779",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\n<_____MYNAME_____>?\n<PAGE>\nЧ-что уставился? Тебя это не касается.\n<PAGE>\nИли подглядывать, как люди ссорятся, ― твоё\nжуткое хобби?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_05",
+   "key": "c46593c4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\n...Постой."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_06",
+   "key": "7f602ec6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nТы ведь просто пришёл ко мне. ...Не стоило на\nтебя срываться. Эм... Э кала маи.\n<PAGE>\nМожет, подождёшь в Лала Салама? Я скоро\nтуда приду."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_07",
+   "key": "4fea8280",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nИлука."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_08",
+   "key": "5546487d",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nЛадно. Сделаю, как ты говоришь."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_09",
+   "key": "938ec9cd",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЧто? Ты застал ссору Илуки и Силуки?\n<PAGE>\nА потом тебе велели прийти и подождать\nздесь... Понятно.\n<PAGE>\nЧто ж! Не знаю, что происходит, но для тебя,\nнаверное, это неприятный поворот.\n<PAGE>\nПозволь извиниться за них. Э кала маи, <_____MYNAME_____>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_10",
+   "key": "a06c7012",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nИ всё же если эти двое ссорились, значит, дело\nи правда серьёзное..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_11",
+   "key": "9ebe851f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЭй, надеюсь, я не заставила тебя долго ждать."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_12",
+   "key": "59bf8945",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nО! Алоха, бабуля. Ты развлекала <_____MYNAME_____>?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_13",
+   "key": "2c8c6a0e",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nХо-хо-хо! Скорее <_____MYNAME_____> развлекал меня!\n<PAGE>\nНо как бы то ни было... Илука."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_14",
+   "key": "fe7bcf82",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nНе знаю, что между вами двумя происходит...\n<PAGE>\n<FACE_SAD>Но невежливо выплёскивать это так, чтобы\nстрадали другие, вроде <_____MYNAME_____>.\n<PAGE>\nПередай это и сестре, хорошо?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_15",
+   "key": "6c9ec9fe",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nПостой-ка. Ты что, всё выболтал бабуле?\nПравда?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_16",
+   "key": "956e93ba",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nАга. Ну и ладно."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_17",
+   "key": "6c7ed2b2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nПрости, что побеспокоили, бабуля. Приму твои\nслова к сведению."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_18",
+   "key": "8f69f5da",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nПойдём. Пойдём ко мне, <_____MYNAME_____>."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_19",
+   "key": "c89151c4",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, минутку."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_20",
+   "key": "3c6ee159",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nПо ней не скажешь, но Илука та ещё тревожная\nдуша.\n<PAGE>\nПорой она заводит речь и настаивает на самых\nнемыслимых вещах. Знаю, тебе это может\nбыть в тягость...\n<PAGE>\nНо, пожалуйста, будь к ней понимающим и\nпринимай её со всеми её причудами."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_21",
+   "key": "a2cec0b5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПрости, что застал ту неловкую перепалку."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_22",
+   "key": "5071eaa5",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nМы с Силукой так давно так не ссорились...\n<PAGE>\nДа мы вообще почти не ссоримся. Но в этот\nраз я так разозлилась."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_23",
+   "key": "d811381f",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_ANGRY>\r\nА-а-ах! От одной мысли опять злюсь!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_24",
+   "key": "af634b58",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n...Эй. Ты меня утешать не собираешься?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_25",
+   "key": "9921ce28",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nИ всё? Погладить по голове? Серьёзно?\n<PAGE>\nИди обними меня. Мы же пара."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_26",
+   "key": "b549b0bf",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nПочему нет? Что не так...?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_27",
+   "key": "88562880",
+   "ru": "Почему-то кажется, что что-то не так"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_28",
+   "key": "0c5c309b",
+   "ru": "Потому что ты не Илука"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_29",
+   "key": "c3d696e7",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то не так?\n<PAGE>\nИными словами, ты как-то почувствовал, что\nчто-то не то?\n<PAGE>\nМолодец, <_____MYNAME_____>."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_30",
+   "key": "26a3e50d",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПодожди минутку."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_31",
+   "key": "e3f9fab4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\n...Фух. Наряд Илуки довольно откровенный.\nЧувствую себя немного раздетой.\n<PAGE>\nВ своей одежде лучше."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_32",
+   "key": "7f31c754",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nВот так. Я переоделась Илукой.\n<PAGE>\nНапрямую ты не различил."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_33",
+   "key": "dcf749c6",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНу что ж. Может, ты тоже чувствуешь ауры."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_34",
+   "key": "72bffbb3",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\nЗначит, всё-таки заметил.\n<PAGE>\nПодожди минутку."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_35",
+   "key": "d7d467fb",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\n...Фух. Наряд Илуки довольно откровенный.\nЧувствую себя немного раздетой."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_36",
+   "key": "a8262551",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nКак ты понял?\n<PAGE>\nЯ думала, что изобразила Илуку идеально."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_37",
+   "key": "5975f4e1",
+   "ru": "Она злится с другими жестами"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_38",
+   "key": "27bc080a",
+   "ru": "Вы по-разному говорите"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_39",
+   "key": "a4f7e217",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nИлука, когда злится, упирает руки в бока?\n<PAGE>\n<FACE_NORMAL>А. Правда. Упирает.\n<PAGE>\n<FACE_LAUGH>Значит, ты всё-таки знаешь Илуку. Я так и\nдумала."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_40",
+   "key": "c3f02288",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМы говорим по-разному?\n<PAGE>\nНет. Я идеально скопировала её речь.\n<PAGE>\n<FACE_ANGRY>Ты это выдумал?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_41",
+   "key": "cf0747bb",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nНу, так или иначе, ты меня раскусил."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_42",
+   "key": "2baf561e",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nВидишь? Я же говорила, Илука."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_43",
+   "key": "57876047",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_44",
+   "key": "3ff7dc80",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nМы, э-э, мы тебя обманули.\n<PAGE>\nНо, эм... у меня была веская причина, честно.\n<PAGE>\n<FACE_SAD>Помнишь, ещё до того как мы начали\nвстречаться, Силука спрашивала тебя о твоих\nчувствах ко мне?\n<PAGE>\nНу, после ямы-ловушки? Спрашивала, почему\nты не злишься.\n<PAGE>\n...Это была не Силука. Это я переоделась ею."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_45",
+   "key": "3a4a9552",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nНо ты так и не понял, что это я.\n<PAGE>\n<FACE_SAD>И я забеспокоилась, что даже теперь, когда мы\nвстречаемся, Силука может переодеться мной, а\nты и не заметишь.\n<PAGE>\nКак только эта мысль засела в голове, я никак\nне могла от неё избавиться. Стала сомневаться."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_46",
+   "key": "5a6adc5c",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nНо я ошибалась. Нехорошо было... так тебя\nпроверять, <_____MYNAME_____>. Э кала маи."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_47",
+   "key": "715d66e9",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nДумаю, третьему лишнему пора укатиться.\nПобудьте наедине.\n<PAGE>\n<FACE_SAD>Ох. Быть Илукой так утомительно."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_48",
+   "key": "2037d938",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_SAD>\r\n<_____MYNAME_____>.\n<PAGE>\nЯ больше никогда не буду сомневаться в твоих\nчувствах. Обещаю.\n<PAGE>\nТак что, пожалуйста... скажи, что ты на меня не\nзлишься."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_49",
+   "key": "430a3b5c",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LOVE>\r\nМахало.\n<PAGE>\nКажется, теперь у меня наконец хватит\nсмелости полностью тебе доверять."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_50",
+   "key": "a32fb0ce",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LOVE>\r\nВот. В качестве извинения... и в благодарность."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_LOVE_S_TWINOLDER_5_51",
+   "key": "55204db2",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nИ всё же...\n<PAGE>\n<FACE_SAD>Перед тем как мы поменялись одеждой, Силука\nговорила, что, может, не сумеет\nправдоподобно изобразить, как злится на тебя.\n<PAGE>\n<FACE_LOSS>Я что, когда-нибудь при тебе злилась?"
+  }
+ ]
+}
