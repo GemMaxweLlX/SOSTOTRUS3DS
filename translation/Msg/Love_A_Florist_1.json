@@ -1,0 +1,201 @@
+{
+ "file": "Love_A_Florist_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_00",
+   "key": "30312f22",
+   "ru": "<NAME_UNKNOWN>\r\nП-простите! Дайте пройти!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_01",
+   "key": "a28acb1b",
+   "ru": "(Ого, как она спешила. Что-то случилось?)\n<PAGE>\n(Может, стоит заглянуть и проверить.)"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_02",
+   "key": "571b940c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_MOJA_R>Ой, <_____MYNAME_____>.\n<PAGE>\nМне очень жаль, но я сейчас немного занята.\nМожно попросить тебя зайти в другой раз?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_03",
+   "key": "1036e1d9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nТут заходил покупатель и срочно заказал букет.\n<PAGE>\nОбычно я прошу заказывать букеты заранее,\nно...\n<PAGE>\nЭто на день рождения ребёнка, который очень\nлюбит цветы."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_04",
+   "key": "5df9a4eb",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nКак я поняла, сначала заказ сделали в другом\nмагазине, но что-то случилось, и там пришлось\nотменить.\n<PAGE>\nЕсли бы и я отказала, они, может, не успели бы\nдостать цветы к празднику.\n<PAGE>\nОт одной мысли об этом мне стало\nневыносимо. Я н-не смогла сказать “нет”."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_05",
+   "key": "af190895",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>Но в лавке работаю только я, так что у меня\nещё куча других дел и покупатели.\n<PAGE>\nНикак не выкрою время на этот букет, не знаю,\nуспею ли закончить вовремя.\n<PAGE>\n<WINDOW_DEFAULT><FACE_ANGRY>Иными словами: я сейчас очень-ОЧЕНЬ занята.\nМне правда жаль."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_06",
+   "key": "7467e60a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_ANGRY>\r\n<WINDOW_EXCLAMATION_R>Т-ты поможешь?! Ох, батюшки, я не могу тебя\nо таком просить!\n<PAGE>\n<WINDOW_DEFAULT>К тому же это моя работа и моя\nответственность. Как-нибудь справлюсь сама."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_07",
+   "key": "6ee01d29",
+   "ru": "Сейчас не время для гордости"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_08",
+   "key": "221477d1",
+   "ru": "Считай меня подработчиком"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_09",
+   "key": "285a7268",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nН-но..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_10",
+   "key": "98679d02",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_MOJA_R>...Просто сказать, что делать?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_11",
+   "key": "a82c6a56",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nНу, хорошо. Раз ты настаиваешь.\n<PAGE>\nДля начала принеси мне вон те белые и\nкрасные цветы.\n<PAGE>\nПотом сходи, пожалуйста, в лавку Миранды\nи..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_12",
+   "key": "7ccd9c77",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nФух...! Ещё чуть-чуть ― и готово.\n<PAGE>\nЗнаешь, <_____MYNAME_____>, кажется, мы и правда успеваем!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_13",
+   "key": "7cfd2379",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nВот! Букет готов. Теперь осталась только\nмягкая игрушка..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_14",
+   "key": "5de9c167",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЧто, эта игрушка? Рукоделие ― моё хобби,\nтак что в свободное время я делаю такие\nштучки.\n<PAGE>\nЭто просто маленький подарочек от меня для\nименинницы. ♪"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_15",
+   "key": "14cde9e2",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\n<WINDOW_SWEAT_R>Вот... это последнее. И как раз вовремя!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_16",
+   "key": "acbd0f7d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nУэйн должен прийти с минуты на минуту..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_17",
+   "key": "fe58623a",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЗдорово, Лизетта! О, и ты тут, <_____MYNAME_____>?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_18",
+   "key": "77a743bf",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nДа, к моему счастью. <_____MYNAME_____> мне сегодня очень помог.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Вот и славно! Отличная работа, ребята.\n<PAGE>\n<FACE_NORMAL>Это и есть подарок, который надо доставить?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_19",
+   "key": "241c0f75",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nДа! Если не трудно."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_20",
+   "key": "104b4da4",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЛадушки! Дальше я сам. Не волнуйтесь,\nименинница получит его вовремя."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_21",
+   "key": "d23e61a9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Получилось! Правда получилось!\n<PAGE>\n<_____MYNAME_____>, огромное-огромное спасибо за помощь."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_22",
+   "key": "bc33cc0f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<FACE_LOSS>Эм, кстати... Ты точно мог вот так забросить\nработу на ферме...?\n<PAGE>\nЗнаю, ты сам вызвался помочь, но я не думала,\nчто задержу тебя так надолго..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_23",
+   "key": "11b54092",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nЗнаешь, раньше я всегда справлялась со всем\nсама.\n<PAGE>\nДумала, раз это моя лавка, то и следить,\nчтобы всё было сделано, ― моя обязанность.\n<PAGE>\n<FACE_NORMAL>Должна сказать, я немного удивилась, какой ты\nбываешь настойчивый."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_24",
+   "key": "44d4c891",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОй, нет! Я не в плохом смысле.\n<PAGE>\n<FACE_SAD><WINDOW_MOJA_R>Стыдно признаться, но... я бываю ужасно\nупрямой в самых странных вещах.\n<PAGE>\nЕсли бы ты так не настаивал, я бы ни за что не\nсдалась и не приняла помощь.\n<PAGE>\n<FACE_NORMAL><WINDOW_DEFAULT>Без тебя, думаю, я бы не успела всё вовремя.\n<PAGE>\n<FACE_LAUGH><WINDOW_JOY_R>Так что спасибо, <_____MYNAME_____>. Я очень-очень благодарна за\nпомощь."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_25",
+   "key": "d8ff8a04",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_PALPITATION_R>Знаешь... ты ужасно добрый.\n<PAGE>\nУверена, растениям и животным, которых ты\nрастишь с такой добротой, очень хорошо и\nуютно."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_26",
+   "key": "8eb05cae",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЭм, в общем... На сегодня всё.\n<PAGE>\nНе волнуйся, прибраться я смогу сама."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_1_27",
+   "key": "429d0fe5",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nЗаходи почаще, слышишь? Надеюсь скоро\nснова тебя увидеть!"
+  }
+ ]
+}

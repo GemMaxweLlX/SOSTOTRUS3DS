@@ -1,0 +1,208 @@
+{
+ "file": "Love_A_Florist_6",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_00",
+   "key": "bfd305c9",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nАга! <_____MYNAME_____>!\n<PAGE>\n<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>Ты как раз вовремя!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_01",
+   "key": "0b48f8cb",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nСегодня вечером Миранда будет петь у нас в\nресторане.\n<PAGE>\nМы подумали, может, вы с Лизеттой придёте\nпослушать и, ну, устроите себе свидание."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_02",
+   "key": "8029bd0f",
+   "ru": "<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Голос сегодня в отличной форме! Если будет\nвремя, буду рада видеть тебя среди публики."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_03",
+   "key": "85aba90e",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>, что скажешь? Если хочешь, я с радостью\nпойду с тобой."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_04",
+   "key": "e6c13532",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nХи-хи, похоже, решено!\n<PAGE>\n<FACE_LAUGH>Приходите, когда начнётся выступление! Мы с\nмуженьком будем ждать.\n<PAGE>\n<FACE_STOREWOMAN><POS_LEFT><FACE_LAUGH>До встречи!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_05",
+   "key": "5ec7e23a",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Ой, не терпится услышать, как поёт Миранда.\n<PAGE>\n<FACE_LOVE>Но ещё больше я рада, что проведу вечер с\nтобой.\n<PAGE>\n<FACE_LAUGH><WINDOW_DEFAULT>До начала ещё есть немного времени. Может,\nзайдём ко мне в лавку и выпьем чаю? ♪"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_06",
+   "key": "9b7b5314",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nПривет, ребята! Хорошо, что успели!\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>Вот-вот начнётся. Занимайте места получше! ♪"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_07",
+   "key": "1fef81e9",
+   "ru": "<FACE_STOREDAUGHTER><POS_LEFT><FACE_LAUGH>\r\nМисс Лизетта! <_____MYNAME_____>! Вы тоже пришли послушать,\nкак поёт мама, да?\n<PAGE>\n<WINDOW_JOY_L>Обычно мама меня не пускает, говорит, это\nслишком поздно, пора спать...\n<PAGE>\nНо сегодня она в виде исключения разрешила\nмне не ложиться и послушать! Не терпится! ♪\n<PAGE>\n<FACE_STOREWOMAN><POS_LEFT><FACE_NORMAL>Похоже, я немного увлеклась приглашениями,\nа? Гляньте, сколько народу.\n<PAGE>\n<FACE_LAUGH>Ну и ладно, для такой толпы и петь приятнее!\nНадеюсь, вам понравится."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_08",
+   "key": "e650a495",
+   "ru": "Вскоре после начала выступления пение\nМиранды заворожило всех в зале..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_09",
+   "key": "332526fe",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nЭм, <_____MYNAME_____>...?"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_10",
+   "key": "bd3a1bfb",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nУ тебя есть минутка?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_11",
+   "key": "9a616771",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nПрости, что отвлекаю, тебе ведь так\nнравилось, как поёт Миранда..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_12",
+   "key": "b4851482",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_DISCOURAGEMENT_R>Эм... м-мне ничего особенного не нужно...\n<PAGE>\n<FACE_SAD><WINDOW_MOJA_R>Просто глядя, как ты заворожённо слушаешь\nМиранду... мне стало немного одиноко.\n<PAGE>\nМне захотелось, чтобы ты смотрел на меня, а\nне на неё, и..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_13",
+   "key": "f509145e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_DISCOURAGEMENT_R><WINDOW_MOJA_R>Ох, батюшки...! Ты только послушай меня?!\n<PAGE>\nВеду себя как невоспитанная избалованная\nдевчонка. Это ведь ревность, да?\n<PAGE>\n<FACE_SAD>Мы с Мирандой тоже очень хорошие подруги.\nНе могу поверить, что расстроилась и\nприревновала к ней...\n<PAGE>\nНаверное, это мне по заслугам за то, что я\nрадовалась, когда ты приревновал меня, да?\n<PAGE>\nМне правда очень жаль, <_____MYNAME_____>."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_14",
+   "key": "7745c5e7",
+   "ru": "(Похоже, Лизетта ждёт, что я что-то скажу.\nЧто ей ответить?)"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_15",
+   "key": "7fc67830",
+   "ru": "Тебе не о чем волноваться"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_16",
+   "key": "fc59dff5",
+   "ru": "По-моему, это было мило"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_17",
+   "key": "51fe9a0b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>П-правда...?\n<PAGE>\nЯ ведь не слишком навязчивая и прилипчивая?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_18",
+   "key": "4262920e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\nОх, слава богу. Мне гораздо лучше.\n<PAGE>\n...\n<PAGE>\nЭм... Можно я позволю себе ещё одну\nмаленькую прихоть...?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_19",
+   "key": "6a60f7a1",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nСпасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_20",
+   "key": "3ec3cbd2",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_MOJA_R><_____MYNAME_____>...! Не дразнись!\n<PAGE>\n<FACE_SAD>Наверняка у меня было такое смешное\nсморщенное лицо. Ох, батюшки, вспоминать\nстыдно..."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_21",
+   "key": "f2149bcc",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_EXCLAMATION_R><_____MYNAME_____>...!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_22",
+   "key": "6b11a41c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_HEART_R>Ох, батюшки... Сердце столько раз пропустило\nудар, что я думала, оно остановилось.\n<PAGE>\nНо... я сейчас так счастлива. Если это сон, не\nхочу просыпаться..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_23",
+   "key": "2178cff8",
+   "ru": "<FACE_RESTAURANTHUSBUND>\r\nЭй, вы что тут делаете?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_24",
+   "key": "495c9ccb",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nОй! Кэрри! Брэд! В-вы видели...?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_25",
+   "key": "0949317c",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nТы о чём?\n<PAGE>\nМы просто видели, как вы тут болтаете, вот и\nвсё. Что, больше не хотите слушать Миранду?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_26",
+   "key": "163cad0e",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_SWEAT_R>Хотим! Хотим! Просто нужно было, эм,\nкое-что обсудить. Мы как раз возвращались.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>А, только и всего? Ладно! Она как раз\nподходит к самому интересному. Не\nпропустите.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LOSS>Д-да..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_27",
+   "key": "9238bddf",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nПойдём, <_____MYNAME_____>. Идём."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_FLORIST_6_28",
+   "key": "dee8e525",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_FUN_L>Ох, любят эти двое покрасоваться, а? Хорошо,\nчто все были увлечены пением Миранды.\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH><WINDOW_FUN_R>Ага! Батюшки, до чего же они милые.\n<PAGE>\nКак говорится, любовь слепа ― иногда и к\nтому, что вокруг. Но я рада, что они так\nблизки."
+  }
+ ]
+}

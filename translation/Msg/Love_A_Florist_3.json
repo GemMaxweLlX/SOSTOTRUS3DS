@@ -1,0 +1,236 @@
+{
+ "file": "Love_A_Florist_3",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_00",
+   "key": "052e4766",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nНу надо же, лёгок на помине! Как жизнь, <_____MYNAME_____>? А\nмы как раз о тебе говорили.\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>Ага, говорили! Та-а-ак, <_____MYNAME_____>, как у вас там дела?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_01",
+   "key": "5296e632",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nАга, говорили! Так как ты поживаешь?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_02",
+   "key": "30260e21",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_NORMAL>\r\nЧего уставился? Мы про тебя и Лизетту,\nконечно! Вы в последнее время особенно\nблизки... если понимаешь, о чём я."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_03",
+   "key": "80fdfc3b",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_ANGRY>\r\nЭй-эй-эй! “Просто друзья”?! Да ладно, не\nзаливай!\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD><WINDOW_MOJA_R>Ох, батюшки. Бедной Лизетте, похоже,\nпридётся потруднее, чем мы думали."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_04",
+   "key": "0668f299",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_SAD>\r\nОх, батюшки. Бедной Лизетте, похоже,\nпридётся побороться сильнее, чем мы думали."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_05",
+   "key": "9912c4c1",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>. Тебе не кажется, что Лизетта в последнее\nвремя просто сияет?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_06",
+   "key": "1a6b067b",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nУверен, это потому, что она влюблена.\n<PAGE>\nБрэд. Кэрри. Вы ведь согласны?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_07",
+   "key": "341d7e51",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nВидишь ли, влюблённые девушки светятся\nизнутри. От этого они становятся просто\nкрасавицами.\n<PAGE>\n<FACE_LAUGH>Ну, неужели тебе не интересно, в кого\nвлюблена Лизетта?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_08",
+   "key": "19f2d21d",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Тогда, видно, придётся пойти и спросить у неё\nсамому! Думаю, она сейчас у реки."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_09",
+   "key": "94510ff1",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>\r\nДа ладно, всё будет нормально! Просто спроси,\nне нравится ли ей кто-нибудь. Ничего грубого\nв этом нет! ♪\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Ага. Сидя сложа руки, ничего не решишь. Так\nчто иди и спроси!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_10",
+   "key": "8f7c54cd",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\n<WINDOW_EXCLAMATION_R>Ай!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_11",
+   "key": "1f33c05e",
+   "ru": "<FACE_RESTAURANTHUSBUND><POS_RIGHT><FACE_LAUGH>\r\nОтлично сработано, Уэйн! Ловко! Хотя под\nконец ты немного перегнул."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_12",
+   "key": "5f06941a",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nДумаешь? <_____MYNAME_____> бывает таким непонятливым.\nИногда приходится подтолкнуть посильнее."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_13",
+   "key": "cc5f9496",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, надеюсь, этот толчок наконец поможет\nим сдвинуться с места."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_14",
+   "key": "47e4d676",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Привет, <_____MYNAME_____>!\n<PAGE>\nЯ тут любовалась цветами. Они всегда так\nкрасиво цветут, что я засмотрелась.\n<PAGE>\n<FACE_NORMAL>Тебе что-то нужно?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_15",
+   "key": "fdc4be66",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\n<WINDOW_EXCLAMATION_R>Что?! К-кто мне нравится?!\n<PAGE>\nЗ-зачем тебе это...?!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_16",
+   "key": "6ea42750",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_R>Н-нет, ничего. Просто укололась шипом.\n<PAGE>\nОбычно я с такими цветами осторожнее, но,\nвидно, отвлеклась..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_17",
+   "key": "20e230f1",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>...?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_18",
+   "key": "77c9e961",
+   "ru": "(Медленно... очень осторожно... я вытащил\nшип из пальца Лизетты.)"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_19",
+   "key": "7ae32306",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nОй, с-спасибо.\n<PAGE>\nКрови нет, так что, думаю, неглубоко."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_20",
+   "key": "2ce4ba2c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nОх, батюшки, прости. Я не хотела так\nзадумываться.\n<PAGE>\n<WINDOW_PALPITATION_R>Я просто подумала, что, наверное, то же самое\nчувствовала принцесса...\n<PAGE>\n...когда её рыцарь пришёл и вытащил из её\nпальца заколдованный шип."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_21",
+   "key": "6039e12b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nДа! Точно! Это из той сказки, которую я тебе\nрассказывала. Я так рада, что ты помнишь!\n<PAGE>\n<FACE_LOVE><WINDOW_PALPITATION_R>Ты был, эм... совсем как рыцарь, каким я его\nпредставляла. У м-меня даже сердце ёкнуло..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_22",
+   "key": "988ac512",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_SAD>\r\n<WINDOW_SWEAT_R>П-постой, в смысле...!\n<PAGE>\n<WINDOW_DEFAULT><FACE_SAD>Ох... Н-наверное, нельзя попросить тебя\nзабыть всё, что я сейчас сказала, да...?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_23",
+   "key": "632e9ace",
+   "ru": "(Что бы ответить Лизетте?)"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_24",
+   "key": "ea8a6fac",
+   "ru": "Мне приятно это слышать"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_25",
+   "key": "336c096e",
+   "ru": "У тебя такие милые ручки"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_26",
+   "key": "ac54f146",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_PALPITATION_R><_____MYNAME_____>... Значит... это значит...?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_27",
+   "key": "aa6903cf",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nО-ой! Н-ну, мне кажется, у тебя тоже хорошие\nруки."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_28",
+   "key": "1604116c",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nБольшие, тёплые и шершавые от работы.\n<PAGE>\n<WINDOW_PALPITATION_R>Только подумала, какой ты, наверное,\nсильный, и у меня..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_29",
+   "key": "90c51408",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n...Неважно. Н-ничего."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_30",
+   "key": "b14fbd07",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nТак... эм, отвечая на твой вопрос... мне правда\nкое-кто нравится...\n<PAGE>\n...но сказать это вслух слишком стыдно.\n<PAGE>\n<FACE_NORMAL>Тебе... Тебе правда было очень интересно, кто\nэто? Поэтому ты и пришёл спросить?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_31",
+   "key": "231ed926",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\n<WINDOW_HEART_R>Ох, батюшки... Одного этого хватает, чтобы я\nбыла ужасно счастлива. Спасибо."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_Florist_3_32",
+   "key": "b5bb3534",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nХи-хи! Пожалуй, я пойду. Ещё увидимся."
+  }
+ ]
+}
