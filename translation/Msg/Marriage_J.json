@@ -1,0 +1,376 @@
+{
+ "file": "Marriage_J",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_01",
+   "key": "c4d75968",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nВстречайте жениха и невесту! Тёплые\nаплодисменты прекрасной паре."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_07",
+   "key": "819baf07",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nВсе, кто благословляет этот союз... Ваши\nаплодисменты, пожалуйста!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_08",
+   "key": "b7463c57",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nИтак, с благословения всех присутствующих\nобъявляю вас мужем и женой!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_09",
+   "key": "cee5dde6",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_LAUGH>\r\nА теперь моя любимая часть... Можете\nпоцеловаться."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_16",
+   "key": "9b215eaf",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nПоздравляю! О-о-ох, я так за вас обоих рада!\n♪\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_LAUGH>Слышали, как мы зазвонили в Колокол\nблагословения, когда вы поцеловались?\nКрасиво, правда?\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_LAUGH>Редко доводилось видеть столь радостное\nсобытие. Очень трогательно. Идёмте. Позвоним\nв колокол ещё раз."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_00_Chaser",
+   "key": "54ec9999",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nДамы и господа, мы собрались здесь сегодня,\nчтобы засвидетельствовать свадьбу <_____MYNAME_____> и <CHARANAME0>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_02_Chaser",
+   "key": "87b6c846",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n<CHARANAME0>.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_WEDDING>Да?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_03_Chaser",
+   "key": "7677a034",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nОбещаешь ли ты взять <_____MYNAME_____> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_04_Chaser",
+   "key": "9b5d921d",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_WEDDING>\r\nОбещаю."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_05_Chaser",
+   "key": "a4c9b158",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_06_Chaser",
+   "key": "655691d5",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nОбещаешь ли ты взять <CHARANAME0> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_10_Chaser",
+   "key": "6d38d885",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх, моя малышка <_____MYNAME_____> ― самая красивая невеста на\nсвете. Ты была чудесна, солнышко!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Как же летит время. Кажется, только вчера ты\nбыла ребёнком, а теперь посмотри на себя.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Сестрёнка, ты потрясающе выглядишь! Счастья\nтебе и моему новому старшему брату! ♪\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>. Юдзуки. Поздравляю со свадьбой! Будьте\nсчастливы, ладно?!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_11_Chaser",
+   "key": "0c1ce011",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОго! Вы так шикарно выглядите в нарядах! ♪\nЮдзуки, <_____MYNAME_____>... Берегите друг друга, ладно?\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Поздравляю вас! Делайте друг друга\nсчастливыми, ладно?\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Примите мои искренние поздравления со\nсвадьбой. <_____MYNAME_____>, ты прелестна.\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_LAUGH>Да. Хороший выдался день. Давно не\nдоводилось видеть столь радостного события."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_13_Chaser",
+   "key": "11801469",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nЮдзуки и правда повезло с идеальной парой. Я\nтак рад, что вы нашли друг друга. Живите\nдолго и счастливо.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>Поздравляю, милая. Так рада видеть, как\nженится мой дорогой внук. И жду не дождусь\nправнука. Хе-хе.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH><_____MYNAME_____>, вы такая красивая! Я точно знаю, вы с Юдзуки\nбудете счастливы вечно! ♪\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_LAUGH>Поздравляю. Берегите друг друга."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_14_Chaser",
+   "key": "9f8f7bbc",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, поздравляю! Уверен, вы с Юдзуки будете\nочень счастливы! ♪\n<PAGE>\n<FACE_STUFFWOMAN><POS_LEFT><FACE_LAUGH>Вы сегодня безупречны, <_____MYNAME_____>. Желаю вам обоим\nвсего наилучшего.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>Вы такие счастливые. Я тоже за вас рад.\nПоздравляю!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_15_Chaser",
+   "key": "bfa204a9",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_LAUGH>\r\nВы сегодня безупречны, <_____MYNAME_____>. Желаю вам обоим\nвсего наилучшего."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_17_Chaser",
+   "key": "1db97b55",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_WEDDING>\r\n<WINDOW_PALPITATION_R>Мечта и правда сбылась. Я, честно, не мог бы\nбыть счастливее.\n<PAGE>\nСпасибо, <_____MYNAME_____>, от всего сердца, что согласилась\nстать моей женой. Я люблю тебя."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_00_Apprentice",
+   "key": "54ec9999",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nДамы и господа, мы собрались здесь сегодня,\nчтобы засвидетельствовать свадьбу <_____MYNAME_____> и <CHARANAME0>."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_02_Apprentice",
+   "key": "d091980b",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n<CHARANAME0>.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_WEDDING>Да?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_03_Apprentice",
+   "key": "7677a034",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nОбещаешь ли ты взять <_____MYNAME_____> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_04_Apprentice",
+   "key": "a6d97293",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_WEDDING>\r\nКонечно, обещаю!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_05_Apprentice",
+   "key": "a4c9b158",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_06_Apprentice",
+   "key": "655691d5",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nОбещаешь ли ты взять <CHARANAME0> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_10_Apprentice",
+   "key": "8a5f20ff",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх, моя малышка <_____MYNAME_____> ― самая красивая невеста на\nсвете. Ты была чудесна, солнышко!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Как же летит время. Кажется, только вчера ты\nбыла ребёнком, а теперь посмотри на себя.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Сестрёнка, ты потрясающе выглядишь! Счастья\nтебе и моему новому старшему брату! ♪\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>. Хината. Поздравляю со свадьбой! Будьте\nсчастливы, ладно?!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_11_Apprentice",
+   "key": "f6adc5f8",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОго! Вы так шикарно выглядите в нарядах! ♪\nХината, <_____MYNAME_____>... Берегите друг друга, ладно?\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Так тепло на душе видеть Хинату таким\nсчастливым. Поздравляю вас обоих.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Примите мои искренние поздравления со\nсвадьбой. <_____MYNAME_____>, ты прелестна.\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_LAUGH>Да. Хороший выдался день. Давно не\nдоводилось видеть столь радостного события.\nХината... Желаю тебе всего наилучшего."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_13_Apprentice",
+   "key": "aa878e4f",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nХината, <_____MYNAME_____>. Я очень за вас рад. Желаю здоровья и\nсчастья на всю вашу долгую жизнь.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>Поздравляю, милые. Какое счастье видеть, как\nженятся двое моих любимых людей.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH><_____MYNAME_____>, вы такая красивая! Я точно знаю, вы с\nХинатой будете счастливы вечно! ♪\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_LAUGH>Поздравляю. Берегите друг друга."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_14_Apprentice",
+   "key": "c7d812d7",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, поздравляю! Уверен, вы с Хинатой будете\nочень счастливы! ♪\n<PAGE>\n<FACE_STUFFWOMAN><POS_LEFT><FACE_LAUGH>Вы сегодня безупречны, <_____MYNAME_____>. Желаю вам обоим\nвсего наилучшего.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>Вы такие счастливые. Я тоже за вас рад.\nПоздравляю!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_15_Apprentice",
+   "key": "2d7ba0de",
+   "ru": "<FACE_STUFFMAN><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю. Берегите друг друга."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_17_Apprentice",
+   "key": "a3c4ed14",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_WEDDING>\r\n<WINDOW_PALPITATION_R>Огромное спасибо, что вышла за меня, <_____MYNAME_____>. Теперь\nмы вместе навсегда! Здорово, правда?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_00_TeaGirl",
+   "key": "a0d1a92e",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nДамы и господа, мы собрались здесь сегодня,\nчтобы засвидетельствовать союз <_____MYNAME_____> и моей\nдорогой дочурки Комари."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_02_TeaGirl",
+   "key": "a4c9b158",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_03_TeaGirl",
+   "key": "655691d5",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nОбещаешь ли ты взять <CHARANAME0> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_04_TeaGirl",
+   "key": "ea6335c6",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_WEDDING>\r\nЕщё бы! То есть... обещаю!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_05_TeaGirl",
+   "key": "fae919b9",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n<CHARANAME0>.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_WEDDING>Да?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_06_TeaGirl",
+   "key": "7677a034",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nОбещаешь ли ты взять <_____MYNAME_____> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_10_TeaGirl",
+   "key": "ce69ae62",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх, мой малыш <_____MYNAME_____> ― самый красивый жених на\nсвете. Ты был чудесен, солнышко!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Как же летит время. Кажется, только вчера ты\nбыл ребёнком, а теперь посмотри на себя.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Как я горжусь, что у меня такая классная новая\nстаршая сестра! Счастья вам обоим!\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>. Комари. Поздравляю со свадьбой! Будьте\nсчастливы, ладно?!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_11_TeaGirl",
+   "key": "d78e88ad",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПримите мои искренние поздравления со\nсвадьбой. Комари, ты прелестна. Я очень за\nтебя рада.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Поздравляю вас! Делайте друг друга\nсчастливыми, ладно?\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Так тепло на душе видеть вас обоих такими\nсчастливыми. Поздравляю вас обоих.\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_LAUGH>Да. Хороший выдался день. Давно не\nдоводилось видеть столь радостного события."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_13_TeaGirl",
+   "key": "9aa075f2",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nКомари, <_____MYNAME_____>. Я очень за вас рад. Желаю здоровья\nи счастья на всю вашу долгую жизнь.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>Поздравляю, милые. Какое счастье видеть, как\nженятся двое моих любимых людей.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>Комари, ты такая красивая! Я точно знаю, вы с <_____MYNAME_____>\nбудете счастливы вечно! ♪\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_LAUGH>Поздравляю. Берегите друг друга."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_14_TeaGirl",
+   "key": "94fb40f0",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>, поздравляю! Уверен, вы с Комари будете\nочень счастливы! ♪\n<PAGE>\n<FACE_STUFFWOMAN><POS_LEFT><FACE_LAUGH>Комари сегодня безупречна. Желаю вам обоим\nвсего наилучшего.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>Вы такие счастливые. Я тоже за вас рад.\nПоздравляю!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_15_TeaGirl",
+   "key": "8cf954a5",
+   "ru": "<FACE_STUFFMAN><POS_LEFT><FACE_LAUGH>\r\nПоздравляю. Берегите друг друга."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_17_TeaGirl",
+   "key": "9c70ea9d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_WEDDING>\r\n<WINDOW_PALPITATION_R>Ох, ну и денёк! Я так счастлива, что не верится.\n<PAGE>\nКак я рада, что мы вместе, <_____MYNAME_____>. Я люблю тебя."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_00_Teacher",
+   "key": "0fd007a5",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nДамы и господа, мы собрались здесь сегодня,\nчтобы засвидетельствовать свадьбу <CHARANAME0> и <_____MYNAME_____>."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_02_Teacher",
+   "key": "a4c9b158",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_03_Teacher",
+   "key": "655691d5",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nОбещаешь ли ты взять <CHARANAME0> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_04_Teacher",
+   "key": "1abe64a2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_WEDDING>\r\nОбещаю."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_05_Teacher",
+   "key": "7dff4ebb",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\n<CHARANAME0>.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_WEDDING>Да?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_06_Teacher",
+   "key": "7677a034",
+   "ru": "<FACE_TEAOWNER><POS_LEFT><FACE_NORMAL>\r\nОбещаешь ли ты взять <_____MYNAME_____> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_10_Teacher",
+   "key": "8323ac88",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх, мой малыш <_____MYNAME_____> ― самый красивый жених на\nсвете. Ты был чудесен, солнышко!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Как же летит время. Кажется, только вчера ты\nбыл ребёнком, а теперь посмотри на себя.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Как я горжусь, что у меня такая утончённая\nновая старшая сестра! Счастья вам обоим!\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>. Касуми. Поздравляю со свадьбой! Будьте\nсчастливы, ладно?!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_11_Teacher",
+   "key": "558160ea",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОго! Вы так шикарно выглядите в нарядах! ♪ Я\nтак за тебя рада, Касуми! Береги её, ладно, <_____MYNAME_____>?\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Поздравляю вас! Делайте друг друга\nсчастливыми, ладно?\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Так тепло на душе видеть вас обоих такими\nсчастливыми. Поздравляю вас обоих.\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_LAUGH>Да. Хороший выдался день. Давно не\nдоводилось видеть столь радостного события."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_13_Teacher",
+   "key": "20fcc60a",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_LAUGH>\r\nКасуми, <_____MYNAME_____>. Я очень за вас рад. Желаю здоровья и\nсчастья на всю вашу долгую жизнь.\n<PAGE>\n<FACE_JAPANFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>Поздравляю, милые. Какое счастье видеть, как\nженятся двое моих любимых людей.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>Г-госпожа Касуми, в-вы такая красивая! Я\nсейчас расплачусь...!\n<PAGE>\n<FACE_STUFFMAN><POS_LEFT><FACE_LAUGH>Поздравляю. Берегите друг друга."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_14_Teacher",
+   "key": "96a2b76e",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>, поздравляю! Уверен, вы с Касуми будете\nочень счастливы! ♪\n<PAGE>\n<FACE_STUFFWOMAN><POS_LEFT><FACE_LAUGH>Касуми сегодня безупречна. Желаю вам обоим\nвсего наилучшего.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>Вы такие счастливые. Я тоже за вас рад.\nПоздравляю!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_15_Teacher",
+   "key": "47e7970c",
+   "ru": "<FACE_STUFFWOMAN><POS_LEFT><FACE_LAUGH>\r\nКасуми сегодня безупречна. Желаю вам обоим\nвсего наилучшего."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_LOVE_J_MARRIAGE_17_Teacher",
+   "key": "eb674525",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_WEDDING>\r\n<WINDOW_PALPITATION_R>Вот и свершилось. <_____MYNAME_____>, быть твоей женой ― честь\nдля меня.\n<PAGE>\nОтныне пойдём рука об руку по извилистой\nдороге жизни."
+  }
+ ]
+}

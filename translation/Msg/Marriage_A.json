@@ -1,0 +1,292 @@
+{
+ "file": "Marriage_A",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_01",
+   "key": "5bdf9add",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nВстречайте жениха и невесту! Поприветствуем\nих тёплыми аплодисментами."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_07",
+   "key": "26866723",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nВсе присутствующие, кто благословляет этот\nсоюз... Ваши аплодисменты, пожалуйста!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_08",
+   "key": "30dd225e",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nИтак, с благословения всех присутствующих\nобъявляю вас мужем и женой!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_09",
+   "key": "9cc59943",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_LAUGH>\r\nА теперь то, чего мы все ждали... Можете\nпоцеловаться."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_16",
+   "key": "9b215eaf",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nПоздравляю! О-о-ох, я так за вас обоих рада!\n♪\n<PAGE>\n<FACE_WITCH><POS_LEFT><FACE_LAUGH>Слышали, как мы зазвонили в Колокол\nблагословения, когда вы поцеловались?\nКрасиво, правда?\n<PAGE>\n<FACE_INARI><POS_RIGHT><FACE_LAUGH>Редко доводилось видеть столь радостное\nсобытие. Очень трогательно. Идёмте. Позвоним\nв колокол ещё раз."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_00_Postman",
+   "key": "a6384c8d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nДамы и господа, мы собрались здесь сегодня,\nчтобы засвидетельствовать свадьбу <_____MYNAME_____> и <CHARANAME0>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_02_Postman",
+   "key": "e2944deb",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\n<CHARANAME0>.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_WEDDING>Да?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_03_Postman",
+   "key": "4b0680a7",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nКлянёшься ли ты взять <_____MYNAME_____> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_04_Postman",
+   "key": "0d275667",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_WEDDING>\r\nКлянусь. Уж будьте уверены!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_05_Postman",
+   "key": "813b50b5",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_06_Postman",
+   "key": "78cde8e9",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nКлянёшься ли ты взять <CHARANAME0> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_10_Postman",
+   "key": "bb43b14e",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх, моя малышка <_____MYNAME_____> ― самая красивая невеста на\nсвете. Ты была чудесна, солнышко!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Как же летит время. Кажется, только вчера ты\nбыла ребёнком, а теперь посмотри на себя.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Сестрёнка, ты потрясающе выглядишь! Счастья\nтебе и моему новому старшему брату! ♪\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>, Уэйн. Поздравляю со свадьбой! Будьте\nсчастливы, ладно?!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_11_Postman",
+   "key": "780bd84f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nВы оба такие красивые! Прямо принц и\nпринцесса из сказки!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Сегодня вы оба начинаете новую главу жизни.\nПоздравляю, Уэйн и <_____MYNAME_____>.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>Поздравляю вас обоих. Всего наилучшего.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>За прекрасную пару! <_____MYNAME_____> и правда сделала из тебя\nпорядочного человека, Уэйн! Делайте друг\nдруга счастливыми."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_13_Postman",
+   "key": "46fa5486",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nВы сегодня такие красивые. Можно я потом вас\nнарисую?\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>, ты просто прелесть. Надеюсь, вы с Уэйном\nвсегда будете так же влюблены друг в друга,\nкак сейчас.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH><_____MYNAME_____>, какая ты красивая! Везёт! Вот бы и мне\nкогда-нибудь надеть такое платье!\n<PAGE>\n<FACE_RESTAURANTOLDMAN><POS_LEFT><FACE_LAUGH>Поздравляю вас обоих! Заходите скорее в\nресторан. Угостим особым блюдом для\nмолодожёнов!\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>Поздравляю, молодожёны! Заглядывайте\nкак-нибудь. Может, спою песню о любви\nспециально для вас!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_14_Postman",
+   "key": "792caa77",
+   "ru": "<FACE_STOREDAUGHTER><POS_LEFT><FACE_LAUGH>\r\n<_____MYNAME_____>, ты такая красивая! Вы с Уэйном такая\nотличная пара! ♪"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_15_Postman",
+   "key": "e4497554",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_LEFT><FACE_LAUGH>\r\nПоздравляю вас обоих! Заходите скорее в\nресторан. Угостим особым блюдом для\nмолодожёнов!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_17_Postman",
+   "key": "cfefe8fb",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_WEDDING>\r\n<WINDOW_PALPITATION_R>Ну надо же. Мечта и правда сбылась. <_____MYNAME_____>, я люблю\nтебя от всего сердца."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_00_Doctor",
+   "key": "a6384c8d",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nДамы и господа, мы собрались здесь сегодня,\nчтобы засвидетельствовать свадьбу <_____MYNAME_____> и <CHARANAME0>."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_02_Doctor",
+   "key": "ac7f7bc5",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\n<CHARANAME0>.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_WEDDING>Да?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_03_Doctor",
+   "key": "4b0680a7",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nКлянёшься ли ты взять <_____MYNAME_____> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_04_Doctor",
+   "key": "198c6d42",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_WEDDING>\r\nКлянусь."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_05_Doctor",
+   "key": "813b50b5",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_06_Doctor",
+   "key": "78cde8e9",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nКлянёшься ли ты взять <CHARANAME0> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_10_Doctor",
+   "key": "b8bcebaa",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх, моя малышка <_____MYNAME_____> ― самая красивая невеста на\nсвете. Ты была чудесна, солнышко!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Как же летит время. Кажется, только вчера ты\nбыла ребёнком, а теперь посмотри на себя.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Сестрёнка, ты потрясающе выглядишь! Счастья\nтебе и моему новому старшему брату! ♪\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>, Форд. Поздравляю со свадьбой! Будьте\nсчастливы, ладно?!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_11_Doctor",
+   "key": "405ca82a",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nВы оба такие красивые! Прямо принц и\nпринцесса из сказки!\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Форд прямо на седьмом небе. Я за вас обоих\nбезмерно рад. Поздравляю.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>Поздравляю вас обоих. Всего наилучшего.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>За прекрасную пару! Форд, <_____MYNAME_____>, делайте друг\nдруга счастливыми, слышите?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_13_Doctor",
+   "key": "5aace535",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nВы сегодня такие красивые. Можно я потом вас\nнарисую?\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>, ты просто прелесть. Надеюсь, вы с Фордом\nвсегда будете так же влюблены друг в друга,\nкак сейчас.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH><_____MYNAME_____>, какая ты красивая! Везёт! Вот бы и мне\nкогда-нибудь надеть такое платье!\n<PAGE>\n<FACE_RESTAURANTOLDMAN><POS_LEFT><FACE_LAUGH>Поздравляю вас обоих! Заходите скорее в\nресторан. Угостим особым блюдом для\nмолодожёнов!\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>Поздравляю, молодожёны! Заглядывайте\nкак-нибудь. Может, спою песню о любви\nспециально для вас!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_14_Doctor",
+   "key": "e02364a5",
+   "ru": "<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, ты такая красивая! Вы с Фордом такая\nотличная пара! ♪"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_15_Doctor",
+   "key": "56b0fa47",
+   "ru": "<FACE_RESTAURANTWIFE><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю вас обоих! Заходите скорее в\nресторан. Угостим особым блюдом для\nмолодожёнов!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_17_Doctor",
+   "key": "0a8bd8cf",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_WEDDING>\r\n<WINDOW_PALPITATION_R>Спасибо, <_____MYNAME_____>. Спасибо, что выбрала меня. Я\nлюблю тебя всем сердцем."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_00_Florist",
+   "key": "fd04d2b1",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nДамы и господа, мы собрались здесь сегодня,\nчтобы засвидетельствовать свадьбу <CHARANAME0> и <_____MYNAME_____>."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_02_Florist",
+   "key": "813b50b5",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_03_Florist",
+   "key": "78cde8e9",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nКлянёшься ли ты взять <CHARANAME0> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_04_Florist",
+   "key": "4bb108b9",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_WEDDING>\r\nОй, батюшки! Ещё бы, клянусь!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_05_Florist",
+   "key": "fc7a7e3a",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\n<CHARANAME0>.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_WEDDING>Да?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_06_Florist",
+   "key": "4b0680a7",
+   "ru": "<FACE_AMERICAFARMOLDWOMAN><POS_LEFT><FACE_NORMAL>\r\nКлянёшься ли ты взять <_____MYNAME_____> в свои единственные\nлюбимые, быть вместе...\n<PAGE>\n...в болезни и здравии, в богатстве и бедности,\nлюбить и защищать, пока смерть не разлучит\nвас?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_10_Florist",
+   "key": "d6eb5108",
+   "ru": "<FACE_MOTHER><POS_RIGHT><FACE_LAUGH>\r\nОх, мой малыш <_____MYNAME_____> ― самый красивый жених на\nсвете. Ты был чудесен, солнышко!\n<PAGE>\n<FACE_FATHER><POS_LEFT><FACE_LAUGH>Как же летит время. Кажется, только вчера ты\nбыл ребёнком, а теперь посмотри на себя.\n<PAGE>\n<FACE_SISTER><POS_RIGHT><FACE_LAUGH>Как я горжусь, что у меня такая славная новая\nстаршая сестра! Счастья вам обоим!\n<PAGE>\n<FACE_UNCLE><POS_LEFT><FACE_LAUGH><_____MYNAME_____>. Лизетта. Поздравляю со свадьбой! Будьте\nсчастливы, ладно?!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_11_Florist",
+   "key": "65c3666d",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЛизетта прямо на седьмом небе. Я за вас обоих\nбезмерно рад. Поздравляю.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Сегодня вы оба начинаете новую главу жизни.\nПоздравляю, Лизетта и <_____MYNAME_____>.\n<PAGE>\n<FACE_AMERICAFARMMAN><POS_RIGHT><FACE_LAUGH>Поздравляю вас обоих. Всего наилучшего.\n<PAGE>\n<FACE_RESTAURANTHUSBUND><POS_LEFT><FACE_LAUGH>За прекрасную пару! Лизетта, <_____MYNAME_____>, делайте друг\nдруга счастливыми, слышите?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_13_Florist",
+   "key": "d4d8f99d",
+   "ru": "<FACE_AMERICAFARMSON><POS_RIGHT><FACE_LAUGH>\r\nВы сегодня такие красивые. Можно я потом вас\nнарисую?\n<PAGE>\n<FACE_RESTAURANTWIFE><POS_LEFT><FACE_LAUGH>Лизетта просто прелесть. Надеюсь, вы всегда\nбудете так же влюблены друг в друга, как\nсейчас.\n<PAGE>\n<FACE_STOREDAUGHTER><POS_RIGHT><FACE_LAUGH>Лизетта, какая ты красивая! Везёт! Вот бы и\nмне когда-нибудь надеть такое платье!\n<PAGE>\n<FACE_RESTAURANTOLDMAN><POS_LEFT><FACE_LAUGH>Поздравляю вас обоих! Заходите скорее в\nресторан. Угостим особым блюдом для\nмолодожёнов!\n<PAGE>\n<FACE_STOREWOMAN><POS_RIGHT><FACE_LAUGH>Поздравляю, молодожёны! Заглядывайте\nкак-нибудь. Может, спою песню о любви\nспециально для вас!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_14_Florist",
+   "key": "d07a3aa1",
+   "ru": "<FACE_STOREDAUGHTER><POS_LEFT><FACE_LAUGH>\r\nЛизетта такая красивая! Вы такая отличная\nпара! ♪"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_15_Florist",
+   "key": "e4497554",
+   "ru": "<FACE_RESTAURANTOLDMAN><POS_LEFT><FACE_LAUGH>\r\nПоздравляю вас обоих! Заходите скорее в\nресторан. Угостим особым блюдом для\nмолодожёнов!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_LOVE_A_MARRIAGE_17_Florist",
+   "key": "8def8ed2",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_WEDDING>\r\n<WINDOW_PALPITATION_R>Ой, батюшки! Всё как во сне! Я сейчас так\nсчастлива...! <_____MYNAME_____>... я люблю тебя."
+  }
+ ]
+}
