@@ -1,0 +1,684 @@
+{
+ "file": "Family_Picnic",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PICNIC_01_Child_Boy",
+   "key": "675fa9d8",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nДа, наверное, работы всегда много."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PICNIC_02_Child_Boy",
+   "key": "da3aba03",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, с возвращением!\n<PAGE>\n<FACE_NORMAL>Эм, я хочу с тобой кое о чём поговорить..."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PICNIC_03_Child_Boy",
+   "key": "e223033f",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХочу погулять с вами! В папином городе ведь\nесть очень красивое место?\n<PAGE>\nДавайте вместе сделаем обед и пойдём туда\nиграть?\n<PAGE>\n<FACE_SAD>Но если у тебя, <PARENT>, нет выходного, то, наверное,\nнельзя...\n<PAGE>\nМожно? Ну пожа-а-а-алуйста!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PICNIC_04_Child_Boy",
+   "key": "27fd336c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХочу погулять с вами! В мамином городе ведь\nесть очень красивое место?\n<PAGE>\nДавайте вместе сделаем обед и пойдём туда\nиграть?\n<PAGE>\n<FACE_SAD>Но если у тебя, <PARENT>, нет выходного, то, наверное,\nнельзя...\n<PAGE>\nМожно? Ну пожа-а-а-алуйста!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PICNIC_05_Child_Boy",
+   "key": "6adb3128",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМожно прямо сейчас? Ура! Вот здорово!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PICNIC_09_Child_Boy",
+   "key": "16538d17",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nХорошо! Положитесь на меня!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PICNIC_10_Child_Boy",
+   "key": "93ad4a7e",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nБыло та-а-ак вкусно!\n<PAGE>\nВид такой классный, что еда ещё вкуснее! ♪"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PICNIC_12_Child_Boy",
+   "key": "c4cad283",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУра! Было здорово! Спасибо, что взяли меня!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PICNIC_14_Child_Boy",
+   "key": "a6b63393",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСкорей бы снова всем вместе куда-нибудь\nпойти.\n<PAGE>\nБуду очень-очень помогать дома. Тогда мы\nскоро снова сможем пойти гулять!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PICNIC_01_Child_Girl",
+   "key": "f6794cf4",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_SAD>\r\nИнтересно, что скажет <PARENT>..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PICNIC_02_Child_Girl",
+   "key": "d679bfa1",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\n<PARENT>, с возвращением!\n<PAGE>\nЭм, я хочу с тобой кое о чём поговорить..."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_PICNIC_03_Child_Girl",
+   "key": "d6d805ee",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХочу погулять со всеми! В папином городе ведь\nесть очень красивое место?\n<PAGE>\nДавайте вместе сделаем обед и пойдём туда\nиграть?\n<PAGE>\n<FACE_SAD>Но если у тебя, <PARENT>, нет выходного, то, наверное,\nнельзя...\n<PAGE>\nМожно? Ну пожа-а-а-алуйста!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_PICNIC_04_Child_Girl",
+   "key": "130635bd",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_NORMAL>\r\nХочу погулять со всеми! В мамином городе\nведь есть очень красивое место?\n<PAGE>\nДавайте вместе сделаем обед и пойдём туда\nиграть?\n<PAGE>\n<FACE_SAD>Но если у тебя, <PARENT>, нет выходного, то, наверное,\nнельзя...\n<PAGE>\nМожно? Ну пожа-а-а-алуйста!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_PICNIC_05_Child_Girl",
+   "key": "6adb3128",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nМожно прямо сейчас? Ура! Вот здорово!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_PICNIC_09_Child_Girl",
+   "key": "76e93418",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nХоро-о-ошо! Я тоже помогу!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_PICNIC_10_Child_Girl",
+   "key": "244f4492",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nНя-я-ям! Пото-о-оково! ♪\n<PAGE>\nС таким видом еда ещё вкуснее!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_PICNIC_12_Child_Girl",
+   "key": "fbf7f98c",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nУра! Было очень весело! Спасибо, что взяли\nменя!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_PICNIC_14_Child_Girl",
+   "key": "4eb89b20",
+   "ru": "<FACE_CHILD><POS_RIGHT><FACE_LAUGH>\r\nСкорей бы снова пойти!\n<PAGE>\nБуду помогать дома, чтобы мы скоро пошли\nопять!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_PICNIC_15",
+   "key": "bcca4dc2",
+   "ru": "(Сегодня было чудесно провести время с\nсемьёй. Надеюсь, мы втроём скоро снова\nкуда-нибудь выберемся.)"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_Postman",
+   "key": "b5495b13",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LOSS>\r\nДело говоришь. Давай спросим, что скажет <PARENT>?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_Postman",
+   "key": "7a68ba60",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Знаю, ты занята, а я многого прошу.\n<PAGE>\nНо мне очень хочется сделать это для <CHILD_NAME>."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_Postman",
+   "key": "f07cdaf7",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LOVE>\r\nОтлично! Я и сам думал, как было бы здорово\nвыбраться куда-нибудь втроём."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_Postman",
+   "key": "def567f4",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nНу, тогда собираемся! И ты тоже помогай, <CHILD_NAME>."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_Postman",
+   "key": "acf63022",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nВоздух тут такой свежий и бодрящий. Всё\nсразу лучше!\n<PAGE>\n<FACE_NORMAL>Ах да! Помнится, когда-то я видел тут\nпоблизости шахту. Давай потом попробуем там\nчто-нибудь добыть."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_Postman",
+   "key": "86a1757e",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nМне тоже сегодня было здорово. И всё потому,\nчто ты нашла для нас время.\n<PAGE>\nВыбираться куда-нибудь всей семьёй ― вот\nсекрет счастливой семейной жизни!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_Doctor",
+   "key": "ea497400",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nДействительно. Давай обсудим это с мамой."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_Doctor",
+   "key": "988ffc0b",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>\r\nА тебе можно вот так отложить свои\nобязанности, <_____MYNAME_____>?\n<PAGE>\nМы с <CHILD_NAME> оба понимаем, что у тебя бесчисленное\nмножество дел.\n<PAGE>\nЕсли правда не получится, не нужно себя\nзаставлять."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_Doctor",
+   "key": "71c61c79",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOVE>\r\nВ самом деле? Тогда поспешим. Вообще-то я и\nсам ждал семейной вылазки."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_Doctor",
+   "key": "f9b65e2e",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nНужно немедленно всё подготовить. Поможешь,\n<CHILD_NAME>?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_Doctor",
+   "key": "0981404c",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>\r\nОбычно мне и в голову не пришло бы обедать\nна свежем воздухе. Однако, признаю, это\nприятно.\n<PAGE>\n<FACE_NORMAL>Кстати! Говорят, раньше здесь была шахта.\nДавайте потом взглянем."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_Doctor",
+   "key": "9978ab66",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>\r\nСегодня было весьма приятно. Спасибо, что\nнашла на это время.\n<PAGE>\nЕсли появится свободное время, нам всем стоит\nзапланировать ещё одну вылазку."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_Chaser",
+   "key": "f267ace6",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nОтличная мысль. Давай спросим, что скажет <PARENT>."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_Chaser",
+   "key": "881ddf11",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nСпасибо, <_____MYNAME_____>. Но ты точно уверена?\n<PAGE>\nЗнаю, у тебя много работы. Не нужно себя\nзаставлять."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_Chaser",
+   "key": "5db3e756",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LOVE>\r\nПравда? Как я рад! Я как раз думал, что\nхотелось бы выбраться куда-нибудь втроём."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_Chaser",
+   "key": "6a7c1146",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nТогда давайте собираться, хорошо? <CHILD_NAME>, ты ведь\nтоже поможешь?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_Chaser",
+   "key": "f6336b84",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nИ правда. <_____MYNAME_____> всегда вкусно готовит, но на свежем\nвоздухе всё кажется ещё вкуснее.\n<PAGE>\n<FACE_NORMAL>Когда поедим, давайте побудем здесь\nподольше. Жалко торопиться."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_Chaser",
+   "key": "111d79f8",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nСпасибо за сегодня, <_____MYNAME_____>. Давай скоро снова\nвыберемся всей семьёй. В этом секрет счастья."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_Apprentice",
+   "key": "812cc0e6",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\nХм... А давай спросим, что скажет <PARENT>?"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_Apprentice",
+   "key": "c5dc7c50",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nТы уверена, <_____MYNAME_____>? Если ты занята работой, я не\nбуду заставлять.\n<PAGE>\nПросто <CHILD_NAME> очень хочется пойти, а мне не хочется\nприносить плохие вести!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_Apprentice",
+   "key": "b10a71a0",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOVE>\r\nТочно? Класс! Я как раз думал, что сейчас\nсамое время выбраться всей семьёй."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_Apprentice",
+   "key": "a90a581b",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nОтлично! Собираемся! Поможешь нам, <CHILD_NAME>?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_Apprentice",
+   "key": "4d8258dd",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nОго! Воздух тут такой свежий и чистый, что\nдаже обед вкуснее!\n<PAGE>\n<FACE_NORMAL>Эй, <CHILD_NAME>! Как поедим, давай немного поиграем!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_Apprentice",
+   "key": "5df3ed99",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nМне так понравилось играть сегодня с <CHILD_NAME>! И всё\nблагодаря тому, что ты нашла для нас время.\n<PAGE>\nСкорей бы снова куда-нибудь выбраться\nвместе!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_Craftman",
+   "key": "86097a02",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>\r\nХм... Ну, давай спросим, что скажет <PARENT>?"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_Craftman",
+   "key": "0240bc64",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nТы точно уверена, <_____MYNAME_____>? Ты ведь не заставляешь\nсебя, да?"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_Craftman",
+   "key": "88c6ed73",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOVE>\r\nЯсно. Махало. Я тоже рад."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_Craftman",
+   "key": "16dffbdc",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nНу, тогда начнём собираться. Ты ведь тоже\nпоможешь, <CHILD_NAME>?"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_Craftman",
+   "key": "2913f82d",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nЭто точно. Воздух тут чистый и свежий.\nИдеальное место для идеального обеда.\n<PAGE>\n<FACE_NORMAL>Когда поедим, хочешь научиться рыбачить, <CHILD_NAME>?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_Craftman",
+   "key": "7af65cb8",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nМахало, <_____MYNAME_____>. Мне сегодня было здорово. А такие\nвылазки делают нашу семью только крепче, да?"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_Florist",
+   "key": "c873ebac",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LOSS>\r\nБатюшки, сначала надо спросить, что скажет <PARENT>."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_Florist",
+   "key": "bfa7fad1",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nТы уверен, что всё в порядке, <_____MYNAME_____>? Знаю, у тебя\nдел невпроворот.\n<PAGE>\nБатюшки, надеюсь, ты себя не заставляешь."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_Florist",
+   "key": "f554d940",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LOVE>\r\nКак я рада! Знаешь, я так надеялась, что мы\nсможем выбраться всей семьёй."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_Florist",
+   "key": "5215e4b8",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nНу, пойдём собираться! Ты тоже поможешь, <CHILD_NAME>!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_Florist",
+   "key": "c20a8a12",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nБатюшки, просто поесть в другом месте ― уже\nсвежо. Даже еда кажется вкуснее!\n<PAGE>\nА когда поедим, может, сходим посмотреть на\nту старую шахту неподалёку? Будет весело,\nправда?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_Florist",
+   "key": "ce6b87b6",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nМне сегодня было ужасно весело. И всё потому,\nчто ты нашёл время побыть с семьёй.\n<PAGE>\nМожет, скоро устроим ещё одну такую\nвылазку?"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_TeaGirl",
+   "key": "9114e5c8",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\nНу, наверное, сначала стоит спросить, что\nскажет <PARENT>."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_TeaGirl",
+   "key": "953d9611",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nТы себя не заставляешь, <_____MYNAME_____>? Мы с <CHILD_NAME> знаем, как\nтяжело на ферме!\n<PAGE>\nТочно справишься?"
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_TeaGirl",
+   "key": "9a45b500",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nКласс! Не терпится выбраться вместе!"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_TeaGirl",
+   "key": "94f18d84",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nПора собираться! Ты тоже помогай, <CHILD_NAME>!"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_TeaGirl",
+   "key": "87feb478",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nРастянуться под большим деревом и уплетать\nобед. Я бы к такому привыкла.\n<PAGE>\nКогда поедим, может, ещё побудем здесь?\nЖалко так скоро домой."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_TeaGirl",
+   "key": "3486baea",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nУра! Мне так понравилось! Спасибо, <_____MYNAME_____>.\n<PAGE>\nДавай повторим, когда будет свободное время,\nа?"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_Teacher",
+   "key": "0ed69f1a",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LOSS>\r\nЛюбые планы нужно обсудить с папой."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_Teacher",
+   "key": "ae152518",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nТы уверен, что всё будет в порядке, <_____MYNAME_____>?\n<PAGE>\nТы всегда так устаёшь на работе. Не хочу,\nчтобы ты себя заставлял."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_Teacher",
+   "key": "5cb17ac5",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nЧто ж, раз ты так говоришь...\n<PAGE>\nВообще-то я надеялась, что мы сможем\nкуда-нибудь выбраться вместе."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_Teacher",
+   "key": "b41bb7e7",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nЧто ж, тогда начнём собираться. <CHILD_NAME>, тебе тоже\nнужно внести свою долю в подготовку."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_Teacher",
+   "key": "a73a00cc",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nЭто совсем не то, что обычный обед дома.\nДаже еда на вкус другая.\n<PAGE>\nИтак, <CHILD_NAME>. Когда поешь, может, поиграешь с папой\nв догонялки и разомнёшься?"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_Teacher",
+   "key": "2facb0e7",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nСегодня был чудесный день. И всё благодаря\nтому, что ты нашёл для нас время.\n<PAGE>\nНадеюсь, мы скоро снова куда-нибудь\nвыберемся! ♪"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_TwinOlder",
+   "key": "22971dd4",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>\r\nХм... Ну, посмотрим, что скажет <PARENT>."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_TwinOlder",
+   "key": "28efa562",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nНичего, <_____MYNAME_____>? Ты ведь каждый день так много\nработаешь."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_TwinOlder",
+   "key": "12505929",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nОтлично! ♪ Мне вообще-то тоже хотелось\nвыбраться всем вместе."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_TwinOlder",
+   "key": "44d1f02c",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nСобираемся! Ты тоже поможешь, <CHILD_NAME>?"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_TwinOlder",
+   "key": "bd72e581",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nХа! Не думала, что есть на улице ― это такая\nразница. ♪\n<PAGE>\nРаз уж мы только пришли, может, как поедим,\nнемного отдохнём? ♪"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_TwinOlder",
+   "key": "13fae36d",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nМне сегодня было очень весело, <_____MYNAME_____>. Махало.\n<PAGE>\nДавай снова выберемся, когда будет свободное\nвремя! ♪"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_TwinYounger",
+   "key": "9f527279",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LOSS>\r\nПонятно. Что ж, давай спросим, что скажет <PARENT>."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_TwinYounger",
+   "key": "8aeff989",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nТы уверен, <_____MYNAME_____>? Я знаю, у тебя много работы."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_TwinYounger",
+   "key": "1ff89f10",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nМахало. Не только <CHILD_NAME> так ждёт прогулки со\nвсеми."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_TwinYounger",
+   "key": "1f41da59",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nТогда давайте собираться. <CHILD_NAME>, поможешь тоже?"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_TwinYounger",
+   "key": "18819d0d",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nКажется, у меня ещё никогда не было такого\nвкусного обеда.\n<PAGE>\nКогда поедим, мне просто хочется остаться\nздесь."
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_TwinYounger",
+   "key": "fd2db0e2",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nМне тоже сегодня было хорошо, <_____MYNAME_____>. Махало.\n<PAGE>\nЯ бы очень хотела скоро снова выбраться всей\nсемьёй."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_Inari",
+   "key": "e5732e1c",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\nХм. Для меня это не составит труда...\n<PAGE>\n...но нужно спросить, свободен ли <PARENT>."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_Inari",
+   "key": "8fd78637",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nПолучится ли у тебя, <_____MYNAME_____>? Если на ферме слишком\nмного дел..."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_Inari",
+   "key": "6261a50b",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nПравда? Это чудесно."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_Inari",
+   "key": "49241ea9",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nВ таком случае нужно подготовить всё\nнеобходимое. Пожалуйста, помоги мне, <CHILD_NAME>."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_Inari",
+   "key": "1c6b7856",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nОбед на природе всей семьёй ― то, чем стоит\nдорожить.\n<PAGE>\nКогда поедим, давайте все вместе поиграем в\nдогонялки."
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_Inari",
+   "key": "648a6e6f",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nСпасибо за сегодня, <_____MYNAME_____>.\n<PAGE>\nБлагодаря тебе этот день прошёл\nпо-настоящему беззаботно.\n<PAGE>\nМолюсь, чтобы у нашей семьи было больше\nтаких дней."
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_Wantatan",
+   "key": "fe196ac6",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_LOSS>\r\nНу-у-у... Я не против, но...\n<PAGE>\nНадо спросить маму, есть ли у неё время."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_Wantatan",
+   "key": "973a53e1",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_NORMAL>\r\nУ тебя есть время, <_____MYNAME_____>?\n<PAGE>\nЗнаю, работы у тебя невпроворот, так что не\nхочу тебя уговаривать, если времени нет..."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_Wantatan",
+   "key": "72e9b76a",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_SPECIAL>\r\nПравда? Вот это гав-лично!"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_Wantatan",
+   "key": "3a718f39",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_SPECIAL>\r\nТогда давайте собираться. Иди помоги мне, <CHILD_NAME>."
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_Wantatan",
+   "key": "ceb68c1f",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_SPECIAL>\r\nКак же приятно поесть на природе всей семьёй.\n<PAGE>\nКогда поедим, давайте просто растянемся и\nотдохнём."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_Wantatan",
+   "key": "2637107d",
+   "ru": "<FACE_WANTATAN><POS_LEFT><FACE_SPECIAL>\r\nСпасибо, что нашла сегодня время для нашей\nсемейной прогулки, <_____MYNAME_____>.\n<PAGE>\n<FACE_NORMAL>Мне было очень весело. Надеюсь, мы скоро это\nповторим."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_PICNIC_00_Presenter",
+   "key": "cf8cb713",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\nЯ ужасно хочу, <CHILD_NAME>, но, думаю, сначала надо\nспросить папу."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_PICNIC_06_Presenter",
+   "key": "1d326fc7",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nУ тебя есть время, <_____MYNAME_____>? Если нет, можно и в\nдругой день..."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_PICNIC_07_Presenter",
+   "key": "81af36c3",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nПравда?! Класс! Мне тоже очень хотелось\nсемейной прогулки."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_PICNIC_08_Presenter",
+   "key": "8619ff66",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_NORMAL>\r\nРаз договорились, давайте я всё подготовлю.\nПоможешь, <CHILD_NAME>?"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_PICNIC_11_Presenter",
+   "key": "5cec39b5",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nСтранно, как обычный пикник делает обычную\nеду вкуснее, чем всегда.\n<PAGE>\nКогда поедим, давайте просто посидим тут и\nотдохнём."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_PICNIC_13_Presenter",
+   "key": "006d41af",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LAUGH>\r\nОгромное спасибо за сегодня, <_____MYNAME_____>. <CHILD_NAME> тоже очень\nпонравилось.\n<PAGE>\nНадеюсь, мы будем чаще вот так проводить\nвремя всей семьёй."
+  }
+ ]
+}

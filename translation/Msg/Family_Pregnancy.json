@@ -1,0 +1,866 @@
+{
+ "file": "Family_Pregnancy",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Postman_00",
+   "key": "a6dcef53",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_SAD>\r\nЧто с тобой, <_____MYNAME_____>...? А?! Ты вся побледнела!\n<PAGE>\nПогоди секунду...! Я позову Форда! Не\nдвигайся!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Postman_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Postman_02",
+   "key": "46a1969e",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_SAD>\r\nДело серьёзное... Нет, неужели...\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <_____MYNAME_____> сильная, но, как говорится,\nмамы ― народ крепкий."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Postman_03",
+   "key": "182e85a6",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё идеальное пособие\nпо беременности и узнай всё о том, как беречь\nсебя.\n<PAGE>\nА тебе, <CHARANAME0>, я должен вручить пособие для\nмолодого отца...\n<PAGE>\n...Э-э, ты слушаешь? Эй, <CHARANAME0>!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Postman_04",
+   "key": "b9adafab",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOVE>\r\nЧ-что же мне делать? Я так счастлив, что...\n<PAGE>\nХочется столько всего сказать, но не могу\nподобрать слов..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Postman_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Postman_06",
+   "key": "5f206569",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНикогда не думал, что стану отцом... <_____MYNAME_____>,\nогромное спасибо. Это лучший подарок, какой\nты могла мне сделать.\n<PAGE>\nТы, наверное, волнуешься и переживаешь, но не\nбойся. Я буду рядом с тобой и нашим\nмалышом."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Postman_07",
+   "key": "3922a065",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nМалыш... У нас будет малыш...?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Postman_08",
+   "key": "c4863d6b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nП-правда?! Точно?!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Ты вообще меня слушал? Да. <_____MYNAME_____> ждёт от тебя\nребёнка.\n<PAGE>\nНу и ну... От радости совсем растерялся, да?\nЧто ж, полагаю, это неудивительно."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Postman_09",
+   "key": "391190fb",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, не перенапрягайся, <_____MYNAME_____>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nА ты, <CHARANAME0>, заботься о ней ещё больше, чем\nпрежде.\n<PAGE>\nПоддерживай её и как муж, и как будущий\nотец.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Конечно! Спасибо за всё, Форд.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Что ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Doctor_00",
+   "key": "f903b2b2",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nЧ-что случилось?! Голова кружится?\n<PAGE>\n...Пока полежи здесь. Я немедленно разберусь."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Doctor_01",
+   "key": "abe47a60",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Doctor_02",
+   "key": "a06124db",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nИзучив полученные от тебя сведения... я\nпришёл к поразительному выводу.\n<PAGE>\nДа, дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <_____MYNAME_____>, ты сильная женщина, но, как\nговорится, мамы ― народ крепкий."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Doctor_03",
+   "key": "58803d97",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nЯ сделаю всё, что в моих силах, чтобы наш\nмалыш родился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё идеальное пособие\nпо беременности и узнай всё о том, как следить\nза своим организмом.\n<PAGE>\nЕсли хочешь, я с радостью прочитаю его тебе\nвслух."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Doctor_04",
+   "key": "bc0d4336",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\n...Кхм. Мне удалось внятно объяснить\nситуацию?\n<PAGE>\nЧестно говоря, у меня трясутся руки и всё\nплывёт перед глазами.\n<PAGE>\n<FACE_LOVE>Я так рад, что ты беременна, что, кажется...\nсейчас заплачу.\n<PAGE>\nКак твоего мужа, ничто на свете не могло бы\nсделать меня счастливее. Огромное спасибо, <_____MYNAME_____>."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Doctor_05",
+   "key": "b68672e5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nАх да, и вот ещё... Неплохо бы, чтобы при\nродах рядом была Меган.\n<PAGE>\n<FACE_LAUGH>Я, как твой муж, конечно, буду рядом, но\nговорят, очень помогает присутствие женщины,\nу которой есть опыт родов.\n<PAGE>\nКак твой муж и будущий отец, обещаю\nзаботиться о тебе, что бы ни случилось."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Doctor_06",
+   "key": "b43ba93a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nТебе не о чем волноваться. Предоставь всё мне.\n<PAGE>\n...А пока давай просто порадуемся, что у нас\nбудет малыш..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Chaser_00",
+   "key": "ecbb3097",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>?! Что случилось?!\n<PAGE>\nТы вся побледнела...! Подожди здесь! Я позову\nФорда."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Chaser_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Chaser_02",
+   "key": "74df7163",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_SAD>\r\nЧ-что случилось?! Что значит “дело\nсерьёзное”?! <_____MYNAME_____> в таком плохом состоянии?!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <_____MYNAME_____> сильная, но, как говорится,\nмамы ― народ крепкий."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Chaser_03",
+   "key": "182e85a6",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё идеальное пособие\nпо беременности и узнай всё о том, как беречь\nсебя.\n<PAGE>\nА тебе, <CHARANAME0>, я должен вручить пособие для\nмолодого отца...\n<PAGE>\n...Э-э, ты слушаешь? Эй, <CHARANAME0>!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Chaser_04",
+   "key": "0ff5cf18",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nОгромное спасибо, <_____MYNAME_____>! Я так счастлив...!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Chaser_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Chaser_06",
+   "key": "ea44a58a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nДальше, возможно, будет непросто, <_____MYNAME_____>. Но...\n<PAGE>\nОбещаю беречь и тебя, и нашего малыша. Так\nчто не волнуйся и положись на меня."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Chaser_07",
+   "key": "10d5dbba",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nНаш малыш... у <_____MYNAME_____>...?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Chaser_08",
+   "key": "aac71173",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nУ нас будет семья?!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Ты вообще меня слушал? Да. <_____MYNAME_____> ждёт от тебя\nребёнка.\n<PAGE>\nНу и ну... От радости совсем растерялся, да?\nЧто ж, полагаю, это неудивительно."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Chaser_09",
+   "key": "11b13525",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, не перенапрягайся, <_____MYNAME_____>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nА ты, <CHARANAME0>, заботься о ней ещё больше, чем\nпрежде.\n<PAGE>\nПоддерживай её и как муж, и как будущий\nотец.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Конечно! Спасибо за всё, Форд.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Что ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Apprentice_00",
+   "key": "c849a141",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nЧ-что такое? Голова кружится?\n<PAGE>\n...Ого, да ты вся побледнела! Полежи здесь и\nподожди секунду, ладно? Я позову Форда!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Apprentice_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Apprentice_02",
+   "key": "ad7b2049",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nП-постой! Ты о чём? Что значит “серьёзное”?\nВсё так плохо?!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <_____MYNAME_____> сильная, но, как говорится,\nмамы ― народ крепкий."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Apprentice_03",
+   "key": "182e85a6",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё идеальное пособие\nпо беременности и узнай всё о том, как беречь\nсебя.\n<PAGE>\nА тебе, <CHARANAME0>, я должен вручить пособие для\nмолодого отца...\n<PAGE>\n...Э-э, ты слушаешь? Эй, <CHARANAME0>!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Apprentice_04",
+   "key": "45e968be",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, спасибо! У нас будет семья! Не могу поверить!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Apprentice_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Apprentice_06",
+   "key": "ec1e9bff",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЯ стану папой...! Не волнуйся, <_____MYNAME_____>.\n<PAGE>\nЯ буду защищать тебя и нашего малыша, что\nбы ни случилось!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Apprentice_07",
+   "key": "9f8534ec",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nПотряса-а-а-юще!! Малыш... У нас будет\nмалыш!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Apprentice_08",
+   "key": "321e95a0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nФорд, ты точно уверен?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Ты вообще меня слушал? Да. <_____MYNAME_____> ждёт от тебя\nребёнка.\n<PAGE>\nНу и ну... От радости совсем растерялся, да?\nЧто ж, полагаю, это неудивительно."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Apprentice_09",
+   "key": "f6bfec77",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, не перенапрягайся, <_____MYNAME_____>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nА ты, <CHARANAME0>, заботься о ней ещё больше, чем\nпрежде.\n<PAGE>\nПоддерживай её и как муж, и как будущий\nотец.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>Конечно! Спасибо за всё, Форд.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Что ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Craftman_00",
+   "key": "3ebcd770",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\n<_____MYNAME_____>, ты в порядке?! Постой... Это же...\n<PAGE>\nТы меняешься в лице! Подожди здесь секунду.\nЯ позову Форда...!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Craftman_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Craftman_02",
+   "key": "162b85ff",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nП-постой! Что значит “серьёзное”...? Нет,\nнеужели всё так плохо?!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <_____MYNAME_____> сильная, но, как говорится,\nмамы ― народ крепкий."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Craftman_03",
+   "key": "182e85a6",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё идеальное пособие\nпо беременности и узнай всё о том, как беречь\nсебя.\n<PAGE>\nА тебе, <CHARANAME0>, я должен вручить пособие для\nмолодого отца...\n<PAGE>\n...Э-э, ты слушаешь? Эй, <CHARANAME0>!"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Craftman_04",
+   "key": "14af6d24",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПолучилось...! Махало, <_____MYNAME_____>! Ты лучше всех!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Craftman_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Craftman_06",
+   "key": "ef68d186",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЧто бы ни случилось, я буду защищать тебя и\nнашего малыша. Поэтому... <_____MYNAME_____>.\n<PAGE>\nНи о чём не волнуйся, думай только о том, как\nродить нашего малыша."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Craftman_07",
+   "key": "a18d6793",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nУ нас будет ребёнок... У нас будет семья?!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Craftman_08",
+   "key": "ae34d398",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nФорд, ты ведь совершенно уверен, да?!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Ты вообще меня слушал? Да. <_____MYNAME_____> ждёт от тебя\nребёнка.\n<PAGE>\nНу и ну... От радости совсем растерялся, да?\nЧто ж, полагаю, это неудивительно."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Craftman_09",
+   "key": "ffaad274",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, не перенапрягайся, <_____MYNAME_____>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nА ты, <CHARANAME0>, заботься о ней ещё больше, чем\nпрежде.\n<PAGE>\nПоддерживай её и как муж, и как будущий\nотец.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>Да, конечно! Махало, Форд. За всё.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Что ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_00",
+   "key": "f85fcd34",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_SAD>\r\n...У меня... как-то кружится голова...\n<PAGE>\nПрости, <_____MYNAME_____>. Можешь позвать Форда...?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_02",
+   "key": "02ff4612",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nЧ-что со мной будет? Это болезнь, которую\nнелегко вылечить...?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <CHARANAME0> сильная, но, как говорится,\nмамы ― народ крепкий."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_03",
+   "key": "0fb5a167",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё пособие для\nмолодого отца и узнай всё, что нужно знать\nотцу.\n<PAGE>\nА тебе, <CHARANAME0>, ― идеальное пособие по\nбеременности...\n<PAGE>\n...Э-э, ты слушаешь? Что с тобой, <CHARANAME0>?"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_04",
+   "key": "40c61247",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nСлава богу, это не сон! Интересно, будет\nмальчик или девочка?\n<PAGE>\nНадо приготовить одёжки для... Ладно,\nпожалуй, для этого рановато. Ха-ха."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_06",
+   "key": "2adb0187",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЧто ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_07",
+   "key": "3b5adf66",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nКак мама, я обязательно рожу здорового\nмалыша!\n<PAGE>\nТак что я хочу, чтобы ты тоже мне помогал, <_____MYNAME_____>."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_08",
+   "key": "c0942bcd",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\n...Ребёнок... Не могу поверить. Я так\nсчастлива...\n<PAGE>\nПрямо сейчас у меня внутри наш малыш, <_____MYNAME_____>. Как\nво сне!\n<PAGE>\n<FACE_NORMAL>...А? Это ведь не сон?"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_09",
+   "key": "9297bf59",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nТы вообще меня слушала? Да. Ты ждёшь\nребёнка от <_____MYNAME_____>.\n<PAGE>\nНу и ну... От радости совсем растерялась, да?\nЧто ж, полагаю, это неудивительно."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Florist_10",
+   "key": "839a5984",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, не перенапрягайся, <CHARANAME0>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nА ты, <_____MYNAME_____>, заботься о ней ещё больше, чем\nпрежде.\n<PAGE>\nПоддерживай её и как муж, и как будущий\nотец."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_00",
+   "key": "24b4b232",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\n...Ох, что происходит? Голова кружится?\n<PAGE>\n<FACE_SAD>Чувствую, тут что-то другое. <_____MYNAME_____>, можешь позвать\nФорда? Прости."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_02",
+   "key": "61c7f73d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>\r\nТ-так плохо? Ну, вообще-то я никогда так\nсебя не чувствовала...\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <CHARANAME0> сильная, но, как говорится,\nмамы ― народ крепкий."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_03",
+   "key": "0fb5a167",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё пособие для\nмолодого отца и узнай всё, что нужно знать\nотцу.\n<PAGE>\nА тебе, <CHARANAME0>, ― идеальное пособие по\nбеременности...\n<PAGE>\n...Э-э, ты слушаешь? Что с тобой, <CHARANAME0>?"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_04",
+   "key": "84f2026d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, у нас будет семья. Надо сказать папе!"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_06",
+   "key": "2adb0187",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЧто ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_07",
+   "key": "9072bd74",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nТеперь тебе придётся заботиться обо мне ещё\nбольше, чем раньше.\n<PAGE>\nХа-ха-ха, я на тебя рассчитываю, “папочка”."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_08",
+   "key": "e15f8e81",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЯ... Я...\n<PAGE>\n<FACE_LAUGH>Я так счастлива...! Подумать только, у меня\nвнутри сейчас малыш... Это ведь не сон?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_09",
+   "key": "9297bf59",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nТы вообще меня слушала? Да. Ты ждёшь\nребёнка от <_____MYNAME_____>.\n<PAGE>\nНу и ну... От радости совсем растерялась, да?\nЧто ж, полагаю, это неудивительно."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TeaGirl_10",
+   "key": "839a5984",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, не перенапрягайся, <CHARANAME0>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nА ты, <_____MYNAME_____>, заботься о ней ещё больше, чем\nпрежде.\n<PAGE>\nПоддерживай её и как муж, и как будущий\nотец."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_00",
+   "key": "169bfea7",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_SAD>\r\nУ меня... кружится голова. Мне нехорошо...\n<PAGE>\n<FACE_LOSS>Прости, <_____MYNAME_____>. Можешь позвать Форда?"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_02",
+   "key": "d264439a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nД-дело серьёзное...? Я знаю, что мне\nнехорошо, но неужели всё так плохо?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <CHARANAME0> сильная, но, как говорится,\nмамы ― народ крепкий."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_03",
+   "key": "0fb5a167",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё пособие для\nмолодого отца и узнай всё, что нужно знать\nотцу.\n<PAGE>\nА тебе, <CHARANAME0>, ― идеальное пособие по\nбеременности...\n<PAGE>\n...Э-э, ты слушаешь? Что с тобой, <CHARANAME0>?"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_04",
+   "key": "5ec597ae",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЯ... Я так счастлива... Разве можно быть\nнастолько счастливой...?"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_06",
+   "key": "2adb0187",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЧто ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_07",
+   "key": "24a2ddef",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nТеперь, когда у нас будет ребёнок, я, наверное,\nбуду опираться на тебя ещё больше. Но...\n<PAGE>\nЯ буду стараться как мать, так что надеюсь, ты\nодолжишь мне и свою силу как отец, <_____MYNAME_____>."
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_08",
+   "key": "33739d95",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\n...!! Н-неужели у меня правда будет малыш?!"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_09",
+   "key": "9297bf59",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nТы вообще меня слушала? Да. Ты ждёшь\nребёнка от <_____MYNAME_____>.\n<PAGE>\nНу и ну... От радости совсем растерялась, да?\nЧто ж, полагаю, это неудивительно."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Teacher_10",
+   "key": "839a5984",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, не перенапрягайся, <CHARANAME0>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nА ты, <_____MYNAME_____>, заботься о ней ещё больше, чем\nпрежде.\n<PAGE>\nПоддерживай её и как муж, и как будущий\nотец."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_00",
+   "key": "b038dfe4",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_SAD>\r\nОх, что происходит? Всё кружится, и мне\nужасно плохо...\n<PAGE>\n<_____MYNAME_____>, прости, но можешь позвать Форда?"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_02",
+   "key": "79224528",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nДа, со мной такое впервые, но... всё правда так\nплохо?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <CHARANAME0> сильная, но, как говорится,\nмамы ― народ крепкий."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_03",
+   "key": "0fb5a167",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё пособие для\nмолодого отца и узнай всё, что нужно знать\nотцу.\n<PAGE>\nА тебе, <CHARANAME0>, ― идеальное пособие по\nбеременности...\n<PAGE>\n...Э-э, ты слушаешь? Что с тобой, <CHARANAME0>?"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_04",
+   "key": "f603946e",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nУ нас будет семья! Ха-ха, я так счастлива!"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_06",
+   "key": "2adb0187",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЧто ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_07",
+   "key": "0000f4ae",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nЯ пока совсем не чувствую себя мамой, но буду\nделать, как он сказал, и беречься.\n<PAGE>\nТак что, пожалуйста, будь рядом со мной и\nнашим малышом... Я на тебя рассчитываю,\n“папочка”."
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_08",
+   "key": "f1988ef1",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n...Р-р-р-р-ребёнок?! У меня будет малыш?!\n<PAGE>\nНе может быть... Не верится... Неужели\nправда?"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_09",
+   "key": "9297bf59",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nТы вообще меня слушала? Да. Ты ждёшь\nребёнка от <_____MYNAME_____>.\n<PAGE>\nНу и ну... От радости совсем растерялась, да?\nЧто ж, полагаю, это неудивительно."
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinOlder_10",
+   "key": "839a5984",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, не перенапрягайся, <CHARANAME0>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nА ты, <_____MYNAME_____>, заботься о ней ещё больше, чем\nпрежде.\n<PAGE>\nПоддерживай её и как муж, и как будущий\nотец."
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_00",
+   "key": "51d34360",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LOSS>\r\n...Мне ужасно плохо... Кажется, это не обычное\nголовокружение...\n<PAGE>\n<FACE_SAD><_____MYNAME_____>, пожалуйста... позови Форда..."
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_02",
+   "key": "8370039d",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_SAD>\r\nЯ знаю, что это ненормально... Я так плохо\nвыгляжу?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <CHARANAME0> сильная, но, как говорится,\nмамы ― народ крепкий."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_03",
+   "key": "0fb5a167",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё пособие для\nмолодого отца и узнай всё, что нужно знать\nотцу.\n<PAGE>\nА тебе, <CHARANAME0>, ― идеальное пособие по\nбеременности...\n<PAGE>\n...Э-э, ты слушаешь? Что с тобой, <CHARANAME0>?"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_04",
+   "key": "eecd4ba2",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nУ нас будет семья... Удивительно. Не терпится\nс малышом познакомиться."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_06",
+   "key": "2adb0187",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЧто ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_07",
+   "key": "bed1f9ea",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nСтранно думать, что я стану мамой... но ты\nрядом, так что, уверена, всё будет хорошо.\n<PAGE>\nРассчитываю, что ты поддержишь меня и\nнашего малыша, <_____MYNAME_____>."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_08",
+   "key": "64fb6a7b",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...Во мне растёт новая жизнь? ...Я так\nсчастлива. Будто сбылась мечта...\n<PAGE>\n<FACE_LOSS>Погоди, а это точно не сон?"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_09",
+   "key": "cc887c36",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nТы меня слушала? Всё верно. Ты ждёшь\nребёнка от <_____MYNAME_____>.\n<PAGE>\nОх... Похоже, ты так переполнена радостью,\nчто растерялась. Что ж, это неудивительно."
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_TwinYounger_10",
+   "key": "772ad941",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, перенапрягаться нельзя, <CHARANAME0>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nстанет плохо, отдыхай.\n<PAGE>\n<_____MYNAME_____>, тебе придётся уделять ей ещё больше\nвнимания. Поддерживай её не только как муж,\nно и как будущий отец."
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Wantatan_00",
+   "key": "2615b068",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LOSS>\r\n<_____MYNAME_____>?! Что происходит? Неужели...?\n<PAGE>\n<FACE_NORMAL>Не будем тратить время на догадки. Тебя\nнужно немедленно показать врачу.\n<PAGE>\nПодожди здесь, я сбегаю за Фордом."
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Wantatan_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Wantatan_02",
+   "key": "cd78b032",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\n...Неужели? Неужели это то, о чём я думаю?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. <_____MYNAME_____> сильная, но, как говорится,\nмамы ― народ крепкий."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Wantatan_03",
+   "key": "1d3d445c",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё идеальное пособие\nпо беременности и узнай всё о том, как беречь\nсебя.\n<PAGE>\nА тебе, <CHARANAME0>, я должен вручить пособие для\nмолодого отца...\n<PAGE>\n...Э-э, ты слушаешь? <CHARANAME0>!\n<PAGE>\nИли, скорее, ты меня вообще слышишь?\nНикогда не знаю, где у этого костюма уши..."
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Wantatan_04",
+   "key": "07310d3c",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_SPECIAL>\r\nСпасибо, <_____MYNAME_____>. Это просто гав-ликолепнейшая\nновость!"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Wantatan_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Wantatan_06",
+   "key": "6ab25240",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, знаю, до родов тебе предстоит пережить\nнемало перемен.\n<PAGE>\nНо знай: я поддержу тебя на все сто процентов.\nДаже на сто десять, если бы так можно было.\n<PAGE>\nПуть будет непростой, но вместе мы со всем\nсправимся."
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Wantatan_07",
+   "key": "1a75fd97",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_LOVE>\r\nНаш малыш правда у <_____MYNAME_____> в животике?"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Wantatan_08",
+   "key": "5dfbb9a7",
+   "ru": "<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>\r\nНеужели правда? У нас будет своя семья?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Ты вообще меня слушал? Да. <_____MYNAME_____> ждёт от тебя\nребёнка.\n<PAGE>\nНу и ну... От радости совсем растерялся, да?\nЧто ж, полагаю, это неудивительно."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Wantatan_09",
+   "key": "b4c9647b",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, не перенапрягайся, <_____MYNAME_____>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nА ты, <CHARANAME0>, заботься о ней ещё больше, чем\nпрежде.\n<PAGE>\nПоддерживай её и как муж, и как будущий\nотец.\n<PAGE>\n<FACE_WANTATAN><POS_RIGHT><FACE_NORMAL>Конечно! Положись на меня. Спасибо за всё,\nФорд.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Что ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_00",
+   "key": "dbb7998a",
+   "ru": "<FACE_PRESENTER><POS_LEFT><FACE_LOSS>\r\nА-а...? Меня вдруг бросило в жар. Кажется, у\nменя поднимается температура или что-то\nтакое...\n<PAGE>\nМожешь позвать доктора Форда, <_____MYNAME_____>?"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_01",
+   "key": "d5cad616",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n...Хм. Дело серьёзное. Придётся немедленно\nвсё подготовить."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_02",
+   "key": "60426c49",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_SAD>\r\nЭм... Н-неужели я...?\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LOSS>Да. Дело очень серьёзное...\n<PAGE>\n<FACE_NORMAL>Это токсикоз. Ты весьма сильная, но, как\nговорится, мамы ― народ крепкий."
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_03",
+   "key": "025a94f4",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЯ сделаю всё, что в моих силах, чтобы малыш\nродился здоровым.\n<PAGE>\n<_____MYNAME_____>, обязательно прочитай моё пособие для\nмолодого отца и узнай всё, что нужно знать\nотцу.\n<PAGE>\nА тебе, <CHARANAME0>, ― идеальное пособие по\nбеременности...\n<PAGE>\n...Э-э, ты слушаешь? Что с тобой, <CHARANAME0>?"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_04",
+   "key": "af6c39d8",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nБатюшки... У нас будет семья!\n<PAGE>\nБудто во сне!"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_05",
+   "key": "65f7a459",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\n...Кхм. Вы закончили? Я бы хотел продолжить,\nесли вы не против."
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_06",
+   "key": "2adb0187",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nЧто ж, я пока пойду. Берегите себя."
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_07",
+   "key": "f9253437",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nНе могу поверить, что правда стану мамой. Я\nещё до конца не осознала.\n<PAGE>\nНо раз ты рядом, <_____MYNAME_____>, я знаю, всё будет отлично.\n<PAGE>\nДавай вместе с распростёртыми объятиями\nвстретим нового члена нашей семьи."
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_08",
+   "key": "ce71db6e",
+   "ru": "<FACE_PRESENTER><POS_RIGHT><FACE_LAUGH>\r\nВо мне растёт ребёнок...?\n<PAGE>\nУ нас будет малыш?"
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_09",
+   "key": "9297bf59",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nТы вообще меня слушала? Да. Ты ждёшь\nребёнка от <_____MYNAME_____>.\n<PAGE>\nНу и ну... От радости совсем растерялась, да?\nЧто ж, полагаю, это неудивительно."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_PREGNANCY_Presenter_10",
+   "key": "3dff2737",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>\r\nСамо собой, не перенапрягайся, <CHARANAME0>.\n<PAGE>\nСейчас твой организм особенно уязвим. Если\nпочувствуешь себя плохо, обязательно\nотдыхай.\n<PAGE>\nА ты, <_____MYNAME_____>, заботься о ней ещё больше, чем\nпрежде.\n<PAGE>\nПоддерживай её и как муж, и как будущий\nотец."
+  }
+ ]
+}
