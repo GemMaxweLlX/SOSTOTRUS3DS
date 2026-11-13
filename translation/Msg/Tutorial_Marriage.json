@@ -1,0 +1,985 @@
+{
+ "file": "Tutorial_Marriage",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_00",
+   "key": "ffbed6e1",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nФух! Вот это денёк. Никогда его не забуду.\n<PAGE>\nХоть и вымотался немного."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_01",
+   "key": "24e260d0",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nНо теперь всё официально! Началась наша\nновая семейная жизнь. Важный момент, а?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_02",
+   "key": "5aefebe3",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nО!\n<PAGE>\nРаз уж мы поженились, может, буду звать тебя\nкаким-нибудь новым прозвищем?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_03",
+   "key": "220c76a1",
+   "ru": "Конечно, давай новое!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_04",
+   "key": "1e205bf1",
+   "ru": "Мне нравится моё имя"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_05",
+   "key": "5bbbc157",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nДоговорились. Как тебя звать? Мне подойдёт\nчто угодно!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_06",
+   "key": "85dbc32b",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЗначит, нравится <BLUE><____NICKNAME____></BLUE>?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_07",
+   "key": "097f97b4",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_08",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_09",
+   "key": "ed260878",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЛадно. Значит, <____NICKNAME____>."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_10",
+   "key": "bbac4822",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, думаю, надо обсудить, как мы будем жить\nс завтрашнего дня.\n<PAGE>\nУ тебя ведь куча дел на ферме? Может, всё\nхозяйство возьму на себя?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_11",
+   "key": "cd4f912a",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nДа нет, мне совсем не трудно. Я спокойно со\nвсем справлюсь.\n<PAGE>\nНо... раз ты настаиваешь... можем готовить по\nочереди."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_12",
+   "key": "e68b7ebe",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Так и сделаем.\n<PAGE>\nКогда захочешь поесть, загляни к <GREEN>обеденному\nстолу</GREEN> в часы еды.\n<PAGE>\nЗавтрак с <BLUE>6:00 до 8:59</BLUE>, обед с <BLUE>11:00 до 13:59</BLUE>,\nужин с <BLUE>18:00 до 23:59</BLUE>.\n<PAGE>\nТогда и решим, кто из нас готовит.\n<PAGE>\nНо если будешь занята, ничего страшного.\nМожно поесть и порознь."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_POSTMAN_13",
+   "key": "bf0c0116",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nВот и договорились. Как же я счастлив\nпровести с тобой всю жизнь, <____NICKNAME____>."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_00",
+   "key": "6e470252",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНаконец-то можно передохнуть. Весьма рад,\nчто церемония прошла хорошо.\n<PAGE>\nХотя от сегодняшних хлопот немудрено и\nустать."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_01",
+   "key": "529c0535",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nТеперь мы готовы начать счастливую семейную\nжизнь. В этом есть что-то глубоко\nтрогательное."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_02",
+   "key": "f6e92e6f",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nАх да.\n<PAGE>\nРаз мы поженились, не желаешь ли нового\nпрозвища в честь твоего нового положения?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_03",
+   "key": "220c76a1",
+   "ru": "Конечно, давай новое!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_04",
+   "key": "1e205bf1",
+   "ru": "Мне нравится моё имя"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_05",
+   "key": "8987fbaf",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nРазумеется. Каким именем мне тебя называть?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_06",
+   "key": "8fbf4483",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПонятно. Значит, <BLUE><____NICKNAME____></BLUE> подходит?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_07",
+   "key": "097f97b4",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_08",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_09",
+   "key": "25529362",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПонял. Буду звать тебя <____NICKNAME____>."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_10",
+   "key": "f7cfaf74",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nИтак, полагаю, нам стоит обсудить некоторые\nподробности совместной жизни.\n<PAGE>\nЯ знаю, что ферма отнимает у тебя много\nвремени. Поэтому я с радостью возьму на себя\nвсё хозяйство."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_11",
+   "key": "c6e4da5a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nПравда...? Мне, честно, не трудно.\n<PAGE>\n<FACE_NORMAL>Тогда давай готовить по очереди. Повар из\nменя не ахти, но я рад случаю научиться."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_12",
+   "key": "cda5a8b6",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПревосходно. Так и поступим.\n<PAGE>\nКогда захочешь поесть, загляни к <GREEN>обеденному\nстолу</GREEN> в часы еды.\n<PAGE>\nЗавтрак с <BLUE>6:00 до 8:59</BLUE>, обед с <BLUE>11:00 до 13:59</BLUE>,\nужин с <BLUE>18:00 до 23:59</BLUE>.\n<PAGE>\nТогда и определим, кто готовит.\n<PAGE>\nЕсли будешь занята, не беспокойся. Можно\nпросто поесть порознь."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_DOCTOR_13",
+   "key": "b6878769",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>\r\nПолагаю, этого достаточно. Я... весьма\nвоодушевлён тем, что мы начинаем новую\nжизнь вместе, <____NICKNAME____>."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_00",
+   "key": "e19830e7",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nАх! Какое облегчение, что всё сегодня прошло\nхорошо. День и правда выдался хлопотный.\n<PAGE>\nХотя я немного без сил."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_01",
+   "key": "9653aa60",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nНо только подумай... Наши жизни, сплетённые\nвоедино, официально начались. По-моему, это\nглубоко."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_02",
+   "key": "98196b1f",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nАх да.\n<PAGE>\nРаз мы поженились, может, мне звать тебя\nновым прозвищем?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_03",
+   "key": "30e7665f",
+   "ru": "Конечно, давай новое!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_04",
+   "key": "1e205bf1",
+   "ru": "Мне нравится моё имя"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_05",
+   "key": "e238410e",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nТогда каким именем тебя звать?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_06",
+   "key": "03145c18",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, тебе нравится <BLUE><____NICKNAME____></BLUE>, верно?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_07",
+   "key": "097f97b4",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_08",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_09",
+   "key": "10f2fa06",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nВеликолепно. Значит, <____NICKNAME____>."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_10",
+   "key": "71f5a0fe",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nПожалуй, теперь стоит обсудить подробности\nнашей новой жизни.\n<PAGE>\nЯ прекрасно знаю, как ты занята на ферме, так\nчто с радостью возьму на себя всё хозяйство."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_11",
+   "key": "3ef8dcd9",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nО? Мне, честно, не трудно. Никаких хлопот.\n<PAGE>\nНо... раз ты настаиваешь, можем готовить по\nочереди."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_12",
+   "key": "3f81448a",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nПо-моему, прекрасная мысль.\n<PAGE>\nКогда захочешь поесть, загляни к <GREEN>обеденному\nстолу</GREEN> в часы еды.\n<PAGE>\nЗавтрак с <BLUE>6:00 до 8:59</BLUE>, обед с <BLUE>11:00 до 13:59</BLUE>,\nужин с <BLUE>18:00 до 23:59</BLUE>.\n<PAGE>\nТогда и решим, чья очередь готовить.\n<PAGE>\nНо если будешь занята, не беспокойся. Нет\nничего плохого в том, чтобы поесть порознь."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_CHASER_13",
+   "key": "2d889fd2",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nКажется, это всё. Я так счастлив начинать с\nтобой новую жизнь, <____NICKNAME____>."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_00",
+   "key": "6d748cdb",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nФух! Сегодня было потрясающе, но я даже рад,\nчто всё позади.\n<PAGE>\nЯ выжат!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_01",
+   "key": "e0b356ba",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nСлушай. Только подумай. С этой минуты у нас\nсовершенно новая жизнь вместе. Разве не\nздорово?"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_02",
+   "key": "cae5c9eb",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nО, придумал!\n<PAGE>\nРаз мы поженились, хочешь, буду звать тебя\nособым новым прозвищем?"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_03",
+   "key": "30e7665f",
+   "ru": "Конечно, давай новое!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_04",
+   "key": "1e205bf1",
+   "ru": "Мне нравится моё имя"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_05",
+   "key": "59e82056",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nОтлично! Только скажи, как тебя звать. Как\nзахочешь!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_06",
+   "key": "319bba30",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗначит, выбираешь <BLUE><____NICKNAME____></BLUE>?"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_07",
+   "key": "097f97b4",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_08",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_09",
+   "key": "a5f9414f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nДоговорились. Буду звать тебя <____NICKNAME____>."
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_10",
+   "key": "14cb9062",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, я тут думал о нашем распорядке и всём\nтаком...\n<PAGE>\nУ тебя ведь куча дел на ферме? Может, всё по\nдому возьму на себя?"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_11",
+   "key": "74fddc5d",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nПравда? Мне совсем не трудно.\n<PAGE>\n<FACE_NORMAL>Ну... тогда, может, хоть готовить будем по\nочереди?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_12",
+   "key": "cd7c2f7c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nОтлично!\n<PAGE>\nПроголодаешься ― загляни к <GREEN>обеденному столу</GREEN>\nв часы еды.\n<PAGE>\nЗавтрак с <BLUE>6:00 до 8:59</BLUE>, обед с <BLUE>11:00 до 13:59</BLUE>,\nужин с <BLUE>18:00 до 23:59</BLUE>.\n<PAGE>\nКто готовит, решим на месте, ладно?\n<PAGE>\nА если будешь занята, ничего. Поедим порознь.\nНе беда."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_APPRENTICE_13",
+   "key": "3f2a8fd3",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nНу всё! Слушай, это правда происходит! Я так\nвзволнован, <____NICKNAME____>."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_00",
+   "key": "bdb4a5c2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nФух! Как хорошо, что сегодня всё прошло без\nсучка без задоринки.\n<PAGE>\nДо сих пор не совсем верится. Мы правда\nтеперь женаты, да?\n<PAGE>\nНаверняка скоро привыкну."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_01",
+   "key": "dd0cba51",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nНо вот и всё. Мы начинаем новую жизнь вместе."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_02",
+   "key": "b5da4616",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nО! А знаешь что ещё?\n<PAGE>\nРаз мы теперь женаты, хочешь новое\nпрозвище?"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_03",
+   "key": "30e7665f",
+   "ru": "Конечно, давай новое!"
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_04",
+   "key": "1e205bf1",
+   "ru": "Мне нравится моё имя"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_05",
+   "key": "792268d0",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nДоговорились. Только скажи, как тебя звать."
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_06",
+   "key": "350ef04b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗначит, <BLUE><____NICKNAME____></BLUE> подходит?"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_07",
+   "key": "097f97b4",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_08",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_09",
+   "key": "a28cac4c",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n<____NICKNAME____>, да? Хорошее имя для моей куъуипо."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_10",
+   "key": "b6d3e5a3",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nМожет, стоило обсудить это раньше, но,\nнаверное, надо поговорить о распорядке, да?\n<PAGE>\nУ тебя, наверное, руки заняты фермой, так\nпочему бы мне не взять на себя всё хозяйство?"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_11",
+   "key": "1e839b67",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nХочешь участвовать, да? Мне совсем не трудно,\nно...\n<PAGE>\n<FACE_NORMAL>Раз настаиваешь, может, будем готовить по\nочереди? Как тебе?"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_12",
+   "key": "0114e1dc",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nОтлично. Так и сделаем.\n<PAGE>\nПроголодаешься ― загляни к <GREEN>обеденному столу</GREEN>\nв часы еды.\n<PAGE>\nЗавтрак с <BLUE>6:00 до 8:59</BLUE>, обед с <BLUE>11:00 до 13:59</BLUE>,\nужин с <BLUE>18:00 до 23:59</BLUE>.\n<PAGE>\nКто готовит, решим на месте, да?\n<PAGE>\nА если будешь занята, не переживай. Поедим\nпорознь."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_CRAFTMAN_13",
+   "key": "ef956a26",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nКажется, это всё. <____NICKNAME____>... Я правда не могу\nдождаться нашей новой жизни."
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_00",
+   "key": "eca7cf31",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОй, не верится, что свадьба уже позади. Так\nбыстро пролетела!\n<PAGE>\n<FACE_LAUGH>Я наконец надела свадебное платье, и на нас\nпришёл посмотреть весь город.\n<PAGE>\nСегодня всё было как во сне!"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_01",
+   "key": "96ad77c0",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOVE>\r\nНо это не сон, правда? Теперь начинается наша\nсемейная жизнь. Ох, я так волнуюсь!"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_02",
+   "key": "207b592b",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОй!\n<PAGE>\nРаз мы поженились, хочешь, буду звать тебя\nновым прозвищем?"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_03",
+   "key": "220c76a1",
+   "ru": "Конечно, давай новое!"
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_04",
+   "key": "1e205bf1",
+   "ru": "Мне нравится моё имя"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_05",
+   "key": "fe68d4fb",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Как тебя звать?"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_06",
+   "key": "09be2b53",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЗначит, <BLUE><____NICKNAME____></BLUE> тебе нравится?"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_07",
+   "key": "097f97b4",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_08",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_09",
+   "key": "ea66be7d",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Значит, <____NICKNAME____>."
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_10",
+   "key": "f889e538",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nОй! Нам, наверное, стоит кое-что обсудить,\nраз уж мы будем жить вместе.\n<PAGE>\nЯ знаю, ты очень занят на ферме, так почему\nбы мне не взять всё хозяйство на себя?"
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_11",
+   "key": "aa2c0fbb",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nДа что ты? Честно, мне не трудно.\n<PAGE>\n<FACE_NORMAL>Ну тогда, может, будем готовить по очереди?"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_12",
+   "key": "c45e5e1f",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЧудесно. Так и сделаем.\n<PAGE>\nКогда захочешь поесть, загляни к <GREEN>обеденному\nстолу</GREEN> в часы еды.\n<PAGE>\nЗавтрак с <BLUE>6:00 до 8:59</BLUE>, обед с <BLUE>11:00 до 13:59</BLUE>,\nужин с <BLUE>18:00 до 23:59</BLUE>.\n<PAGE>\nТогда и решим, чья очередь готовить.\n<PAGE>\nА если будешь занят, ничего. Поедим порознь."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_A_FLORIST_13",
+   "key": "8cb0a703",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>\r\nВот и всё, наверное... Ох, <____NICKNAME____>... Я так счастлива\nпровести с тобой всю жизнь!"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_00",
+   "key": "ed73425a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nОго, свадьба уже закончилась? День пролетел в\nмгновение ока!\n<PAGE>\n<FACE_LAUGH>Но было так круто! Я нарядилась в шикарное\nсвадебное платье, и весь город пришёл нас\nпоздравить.\n<PAGE>\nЭтот день я никогда не забуду!"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_01",
+   "key": "6c0e059a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOVE>\r\nИ... кажется, наша семейная жизнь началась.\nУже так весело!"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_02",
+   "key": "db739667",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nАх да!\n<PAGE>\nРаз мы, ну, поженились, может, придумать\nтебе новое прозвище? В честь такого события?"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_03",
+   "key": "30e7665f",
+   "ru": "Конечно, давай новое!"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_04",
+   "key": "1e205bf1",
+   "ru": "Мне нравится моё имя"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_05",
+   "key": "b03ab842",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nКласс! Как тебя звать?"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_06",
+   "key": "e57a372a",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЗначит, нравится <BLUE><____NICKNAME____></BLUE>?"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_07",
+   "key": "097f97b4",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_08",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_09",
+   "key": "dfcf842c",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nДоговорились! Значит, <____NICKNAME____>."
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_10",
+   "key": "9e13c535",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nТак! Нам, наверное, надо кое-что решить, раз\nбудем жить вместе.\n<PAGE>\nНу, ты ведь суперзанят на ферме? Тогда всё\nхозяйство могу взять я."
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_11",
+   "key": "506e2b97",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nА? Правда? Ну, мне правда не трудно делать\nвсё самой. Честно.\n<PAGE>\n<FACE_NORMAL>Но если хочешь, можем готовить по очереди."
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_12",
+   "key": "ebab3082",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Значит, договорились.\n<PAGE>\nКогда соберёшься подкрепиться, загляни к\n<GREEN>обеденному столу</GREEN> в часы еды.\n<PAGE>\nЗавтрак с <BLUE>6:00 до 8:59</BLUE>, обед с <BLUE>11:00 до 13:59</BLUE>,\nужин с <BLUE>18:00 до 23:59</BLUE>.\n<PAGE>\nКто готовит, решим тогда.\n<PAGE>\nНо я знаю, как ты занят, так что поесть порознь\n― тоже нормально."
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEAGIRL_13",
+   "key": "09490bb1",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nАга, больше ничего не придумывается!\nПроводить с тобой все дни будет просто\nпотрясающе, <____NICKNAME____>."
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_00",
+   "key": "7b3594a2",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nСвадебные торжества окончены, не так ли?\nКажется, они пролетели так быстро.\n<PAGE>\nВесь город пришёл нас поздравить.\nСегодняшний день был поистине\nзамечательным.\n<PAGE>\nМне кажется, я ещё не до конца всё осознала."
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_01",
+   "key": "145de31d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOVE>\r\nМы делаем первые шаги по пути супружества, и\nначинается новая жизнь. Признаюсь, я...\nвзволнована."
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_02",
+   "key": "5ba6b99d",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nАх да.\n<PAGE>\nРаз мы теперь официально женаты, не хочешь\nли, чтобы я звала тебя новым прозвищем?"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_03",
+   "key": "30e7665f",
+   "ru": "Конечно, давай новое!"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_04",
+   "key": "1e205bf1",
+   "ru": "Мне нравится моё имя"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_05",
+   "key": "88b9aa5a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nКак пожелаешь. Есть ли у тебя предпочтения,\nкак мне тебя звать? Выбор за тобой."
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_06",
+   "key": "05b2a41f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____NICKNAME____></BLUE>... Ты предпочитаешь это?"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_07",
+   "key": "097f97b4",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_08",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_09",
+   "key": "fb90e792",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nПоняла. Отныне буду звать тебя <____NICKNAME____>."
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_10",
+   "key": "9799e175",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nИтак, полагаю, прежде чем завтра начнётся\nнаша новая жизнь, стоит кое-что обсудить.\n<PAGE>\nОжидаю, что ты будешь очень занят на ферме.\nПочему бы мне не взять на себя всё хозяйство?"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_11",
+   "key": "dda9ed89",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LOSS>\r\nО? Честно, мне не трудно.\n<PAGE>\n<FACE_LAUGH>Что ж, хорошо. Раз ты настаиваешь, будем\nготовить по очереди."
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_12",
+   "key": "0d093882",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nЗвучит как превосходный план.\n<PAGE>\nКогда захочешь поесть, загляни к <GREEN>обеденному\nстолу</GREEN> в часы еды.\n<PAGE>\nЗавтрак с <BLUE>6:00 до 8:59</BLUE>, обед с <BLUE>11:00 до 13:59</BLUE>,\nужин с <BLUE>18:00 до 23:59</BLUE>.\n<PAGE>\nЗаранее решать, кто будет готовить, не нужно.\n<PAGE>\nА если ты будешь занят, ничего страшного.\nПросто поедим порознь."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_J_TEACHER_13",
+   "key": "8e87684f",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nРада, что мы договорились. <____NICKNAME____>, с нетерпением\nжду, как проведу с тобой всю жизнь."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_00",
+   "key": "739536f4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_SAD>\r\nНу вот, кажется, наш великий день позади, а?\n<PAGE>\n<FACE_NORMAL>Я ведь потрясающе выглядела в свадебном\nплатье, правда? И все меня в нём видели! Быть\nневестой довольно весело.\n<PAGE>\nХотя утомительно. *зева-а-ает*"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_01",
+   "key": "12053744",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nНу вот и всё, а? Началась наша семейная жизнь.\nПризнаю... это даже волнительно."
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_02",
+   "key": "f5a266f0",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nАх да!\n<PAGE>\nРаз мы поженились, как насчёт нового\nпрозвища для тебя?"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_03",
+   "key": "220c76a1",
+   "ru": "Конечно, давай новое!"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_04",
+   "key": "1e205bf1",
+   "ru": "Мне нравится моё имя"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_05",
+   "key": "023bd6e8",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Значит, твоё новое прозвище..."
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_06",
+   "key": "9d0c1adb",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____NICKNAME____></BLUE>, да? По-моему, неплохо!"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_07",
+   "key": "097f97b4",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_08",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_09",
+   "key": "17bd8f40",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\n<BLUE><____NICKNAME____></BLUE>! Идеально. Как раз то, что я и думала."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_10",
+   "key": "8be4308a",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТак вот, раз мы будем жить вместе, я тут\nподумала...\n<PAGE>\nТы ведь очень занят на ферме? Тогда по\nдоброте душевной я возьму на себя всю работу\nпо дому."
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_11",
+   "key": "37b57650",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nХочешь помогать? Знаешь, ты бываешь странно\nнастойчивым в самых странных вещах. Скажи\nспасибо, что я такая добрая и щедрая.\n<PAGE>\n<FACE_NORMAL>Ну ладно. Тогда, может, будем готовить по\nочереди?"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_12",
+   "key": "5ca21223",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nТак. Вот как всё будет.\n<PAGE>\nКогда захочешь поесть, загляни к <GREEN>обеденному\nстолу</GREEN> в часы еды.\n<PAGE>\nЗавтрак с <BLUE>6:00 до 8:59</BLUE>, обед с <BLUE>11:00 до 13:59</BLUE>,\nужин с <BLUE>18:00 до 23:59</BLUE>.\n<PAGE>\nКто готовит, решим на месте.\n<PAGE>\nИ я знаю, что ты ни за что не захочешь\nпропустить еду со мной, но если вдруг будешь\nслишком занят, ничего. Поедим порознь."
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINOLDER_13",
+   "key": "0ecd24dd",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOVE>\r\nТак что... да. Спорим, ты не можешь дождаться\nнашей новой жизни, а, <____NICKNAME____>? Я тоже."
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_00",
+   "key": "6154fe22",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПраздник окончен.\n<PAGE>\n<FACE_LAUGH>Было весело надеть нарядное платье. И что все\nнас поздравляли, тоже было весело.\n<PAGE>\n<FACE_NORMAL>И утомительно."
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_01",
+   "key": "9c0a33eb",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOVE>\r\nТеперь начинается наша жизнь вместе... Это\nволнительно."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_02",
+   "key": "c9e595b5",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nОй.\n<PAGE>\nМы теперь женаты. Хочешь новое прозвище?"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_03",
+   "key": "220c76a1",
+   "ru": "Конечно, давай новое!"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_04",
+   "key": "1e205bf1",
+   "ru": "Мне нравится моё имя"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_05",
+   "key": "ca56c95c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nХорошо. Какое имя хочешь?"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_06",
+   "key": "46727b7c",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n<BLUE><____NICKNAME____></BLUE>?"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_07",
+   "key": "097f97b4",
+   "ru": "Хорошо"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_08",
+   "key": "528ab024",
+   "ru": "Хотя нет..."
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_09",
+   "key": "8ba0fadb",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nХорошо. Буду звать тебя <____NICKNAME____>."
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_10",
+   "key": "0baa5df1",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nТак... насчёт жизни вместе...\n<PAGE>\nРаз ты занят на ферме, работу по дому сделаю\nя, хорошо?"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_11",
+   "key": "12803399",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nО? Мне правда не трудно.\n<PAGE>\n<FACE_NORMAL>Тогда, может, будем готовить по очереди?"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_12",
+   "key": "9fe9ee2a",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nДа. Так хорошо.\n<PAGE>\nПроголодаешься ― загляни к <GREEN>обеденному столу</GREEN>\nв часы еды.\n<PAGE>\nЗавтрак с <BLUE>6:00 до 8:59</BLUE>, обед с <BLUE>11:00 до 13:59</BLUE>,\nужин с <BLUE>18:00 до 23:59</BLUE>.\n<PAGE>\nТогда и решим, кто готовит.\n<PAGE>\nЕсли будешь занят, не волнуйся. Поедим\nпорознь."
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_EV_TUTORIAL_MARRIAGE_S_TWINYOUNGER_13",
+   "key": "5ca943f7",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nЭто всё... Я рада, что теперь мы будем жить\nвместе. Будет чудесно."
+  }
+ ]
+}
