@@ -1,0 +1,236 @@
+{
+ "file": "Resident_J_StuffSonOlder",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_00",
+   "key": "2618e8d0",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL>\r\nА, сюда, <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_01",
+   "key": "6400b6c7",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL>\r\nПривет. В гости?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_02",
+   "key": "0ac34438",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>\r\nОтлично, мы как раз собирались перекусить.\n<PAGE>\nЕсли хочешь, угощайся тоже, <_____MYNAME_____>.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>Тацуми взял их в лавке господина Мории.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_LAUGH>...Поешь с нами, <_____MYNAME_____>."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_03",
+   "key": "c0a66493",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL>\r\nОй, погоди! Чай закончился.\n<PAGE>\n<FACE_LAUGH>Сбегаю к бабушке Омиё за чаем."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_04",
+   "key": "d20166f1",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>? Что-то случилось?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_05",
+   "key": "44e1ae80",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\nТацуми потрясающий?\n<PAGE>\nДа, я тоже так думаю!\n<PAGE>\nОн умный и всегда улыбается.\n<PAGE>\nА я? На меня все вечно сердятся, а я только и\nделаю, что плачу.\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>...Братик всегда добрый. Я его люблю."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_06",
+   "key": "1648fe3d",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nЭй, я вернулся!\n<PAGE>\nСмотрите! Омиё дала нам ещё и данго\nмитараси!\n<PAGE>\nПойду заварю чай. <_____MYNAME_____>, садись пока."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_07",
+   "key": "ea646c6d",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_LAUGH>\r\nУра-а-а! Данго митараси! Обожаю!\n<PAGE>\n<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>Омиё дала их, когда я сказал, что у нас ты и <_____MYNAME_____>.\n<PAGE>\nНу и щедрая она, а?\n<PAGE>\n<FACE_NORMAL>Кстати... О чём вы тут без меня говорили?\n<PAGE>\n<FACE_MIGRANTGIRL><POS_LEFT><FACE_LAUGH>А-а! Э-э, э-э...\n<PAGE>\n<FACE_SAD>Э-э... О чём же мы говорили?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_08",
+   "key": "3ea29bdd",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\n...Говорили о том, какой я взрослый?\n<PAGE>\n<FACE_LAUGH>А-ха-ха, спасибо, но это неправда!\n<PAGE>\n<FACE_NORMAL>Ну, пожалуй, правда, что я почти никогда не\nсержусь и не плачу."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_09",
+   "key": "6cc5b561",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nВ смысле, сердиться ― слишком много сил\nуходит.\n<PAGE>\nЕсли сердиться из-за всего, что идёт не так,\nтолько время зря терять.\n<PAGE>\nК тому же если кто-то делает гадости, можно\nпросто держаться от него подальше.\n<PAGE>\nНу, если бы случилось что-то правда\nнесправедливое, я бы рассердился...\n<PAGE>\nНо такого почти не бывает, потому что в этом\nгороде одни замечательные люди."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_10",
+   "key": "7289bfdc",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\n*вздох* Ты и правда потрясающий...\n<PAGE>\n<FACE_SAD>Хочу быть такой же взрослой, как ты, Тацуми!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_11",
+   "key": "303376b2",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nПравда? А я, наоборот, завидую тебе, Сумомо.\nТы такая простодушная и милая.\n<PAGE>\nДаже Мория к тебе добр."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_12",
+   "key": "1895ff89",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_SAD>\r\nН-ничего подобного! Он вечно на меня\nсердится!\n<PAGE>\nВот на днях я кое-что напутала, и он был в\nярости..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_13",
+   "key": "35dd1203",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_LAUGH>\r\nПоэтому я как можно скорее стану хорошим\nвзрослым. ♪ Прямо как ты!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_14",
+   "key": "90fd9051",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\n...Вот как. Ну, удачи!\n<PAGE>\nВ общем, давайте съедим данго, пока не\nзачерствели."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_15",
+   "key": "84294d24",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nФух, наелся!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_16",
+   "key": "906cf3c7",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_SAD>\r\n...Братик."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_17",
+   "key": "32dd7984",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, Яити?\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_LEFT><FACE_SAD>Мне в туалет."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_18",
+   "key": "cdb2a8c6",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\nТогда я тебя отведу!\n<PAGE>\nТы не против, Яити?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_19",
+   "key": "5c911aab",
+   "ru": "<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_LAUGH>\r\n...Ага."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_20",
+   "key": "bb77f20a",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_LAUGH>\r\nТак, пойдём. ♪\n<PAGE>\n<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>Спасибо, Сумомо."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_21",
+   "key": "04b0587a",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nСумомо хорошая.\n<PAGE>\nКаждый раз, как приходит, присматривает за\nЯити."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_22",
+   "key": "5e47341a",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nА? Я тоже хороший? Потому что всегда смеюсь\nи улыбаюсь?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_23",
+   "key": "c79186b5",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\nА-ха-ха, спасибо.\n<PAGE>\n...По правде, я не всегда был таким.\n<PAGE>\nНо всё изменилось, когда родился Яити."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_24",
+   "key": "26c88fa1",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nПапа и мама оба работают, ты же знаешь.\n<PAGE>\nТак что обычно за Яити присматриваю я.\n<PAGE>\nВообще-то... я присматриваю за ним с самого\nего младенчества."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_25",
+   "key": "6e710072",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_NORMAL>\r\nНе знаю, поэтому ли, но...\n<PAGE>\n<FACE_SAD>Если я выгляжу сердитым или грустным, Яити\nко мне не подступиться. А я хочу, чтобы он\nчувствовал, что может со мной поговорить,\nпонимаешь?\n<PAGE>\n<FACE_NORMAL>...Поэтому я привык всегда улыбаться."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_26",
+   "key": "df9d268a",
+   "ru": "<FACE_STUFFSONOLDER><POS_RIGHT><FACE_LAUGH>\r\n...Эй, ну ты чего? Что за грустное лицо?\n<PAGE>\n<FACE_NORMAL>Всё не НАСТОЛЬКО грустно. Просто я был из\nтех, кто не выставляет чувства напоказ.\n<PAGE>\nЗнаешь, кажется, я впервые кому-то об этом\nрассказываю.\n<PAGE>\nПусть это останется между нами, ладно?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_27",
+   "key": "0a2d7e10",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nМы вернулись!\n<PAGE>\n<FACE_STUFFSONYOUNGER><POS_RIGHT><FACE_NORMAL>Братик, я вернулся."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_28",
+   "key": "19c9d77f",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>\r\n...О, с возвращением."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_29",
+   "key": "904777eb",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_30",
+   "key": "26a91a46",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_LAUGH>\r\n...Не, ничего."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_31",
+   "key": "bfb2eb97",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL>\r\nПравда, <_____MYNAME_____>?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_STUFFSONOLDER_32",
+   "key": "bd40367f",
+   "ru": "<FACE_STUFFSONOLDER><POS_LEFT><FACE_NORMAL>\r\nАга... Спасибо."
+  }
+ ]
+}
