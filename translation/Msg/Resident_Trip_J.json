@@ -2,11 +2,536 @@
  "file": "Resident_Trip_J",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_00",
+   "key": "e7347551",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nА, привет, <_____MYNAME_____>!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_01",
+   "key": "4487e780",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_SAD>\r\nПонимаешь...\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LOSS>Похоже, наконец настал черёд Цуюкусы\nполучить такое письмо...\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>Точно. Вот, глянь!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_02",
+   "key": "1c2c599a",
+   "ru": "“☆Волшебное задание: третий удар☆\n<PAGE>\nСледующим жителям Цуюкусы: Хинате,\nЮдзуки, Комари и Касуми.\n<PAGE>\nНемедленно отправляйтесь в Вестаун и до\nконца дня выполните задания!\n<PAGE>\n1. Добудьте руду на вершине горы.\n<PAGE>\n2. Отведайте десертов в “Садовом гриле”.\n<PAGE>\n3. Помогите создать новое лекарство в “Белой\nкапсуле”.\n<PAGE>\nВыполните все три ― и случится нечто\nсовершенно особенное!\n<PAGE>\n<_____MYNAME_____>, ты знаешь, что делать!”"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_03",
+   "key": "072dbcc0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\n...Вы заметили?\n<PAGE>\nЭто какое-то странное, правда?\n<PAGE>\nКогда к нам приезжали из Лулукоко, им\nдостались горячие источники и всякая\nкультурная программа...\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_SAD>Вот-вот! Почему рисковать жизнью должны\nименно мы?!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_04",
+   "key": "e3bf4b89",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nА по-моему, внести вклад в развитие\nмедицины ― большая честь.\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Согласен с Касуми.\n<PAGE>\n<FACE_LAUGH>И Форд всегда хорошо к нам относился.\nХочется его отблагодарить."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_05",
+   "key": "c8af26cb",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nНу, э-э, ладно. Два других звучат вполне\nвесело...\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Т-тоже верно. Да и подняться на вершину горы\n― это ж захватывающе!\n<PAGE>\nЕсли найдём самоцветы, продадим их Мории!\nМеня уже разбирает азарт! ♪"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_06",
+   "key": "5a0c16a0",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nЛадно, тогда в путь, в Вестаун!\n<PAGE>\nНадо ещё позвать на помощь Уэйна и\nостальных."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_07",
+   "key": "c306dab0",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LOSS>\r\nВот как, и вы тоже получили. Видимо, это был\nлишь вопрос времени.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Ну и мы вам, конечно, покажем город, без\nпроблем.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Нам помогли, когда мы ездили в Лулукоко.\nБудет правильно и нам протянуть руку помощи."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_08",
+   "key": "7a221fc9",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nУх ты, правда? Спасибо всем!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_SAD>Но мне любопытно... Почему присматривать за\nнами всегда поручают <_____MYNAME_____>?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_09",
+   "key": "c1c5b3c2",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nНу-ну. Не будем о мелочах. Важнее ― какое у\nвас первое задание?\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>Э-э..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_10",
+   "key": "673853cd",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nПервое ― “добыть руду на вершине горы”."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_11",
+   "key": "5bf53bc8",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LOSS>\r\nНа вершине горы...?\n<PAGE>\n(...Раз они знают про то место, это вполне\nможет быть делом рук богини.)"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_12",
+   "key": "ff82a5d9",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nПрошу прощения. Это я вслух подумал.\n<PAGE>\nСперва нам понадобятся молоты. Попросим у\nФрэнка несколько штук."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_13",
+   "key": "388ab998",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nНе знал, что в горе Вестауна есть такая\nрасщелина...\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LOSS>Я тоже о ней не знала.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_SAD>Я живу здесь и понятия не имел..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_14",
+   "key": "36ab0dc8",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЯ и сам узнал о ней только на днях от Меган.\n<PAGE>\nДобывать тут запрещено с давних пор, с тех\nсамых, как здесь поселилась большая птица.\n<PAGE>\nСмотрите, видите гнездо над нами?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_15",
+   "key": "dd03595f",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nПохоже, хозяев сейчас нет, так что давайте,\nпока можно.\n<PAGE>\nУ всех есть молот?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_16",
+   "key": "49adb31d",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nНаконец-то будем добывать руду!\n<PAGE>\nЯ впервые держу молот ― ну и тяжёлый же!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Верно! Гораздо тяжелее колотушки, которой\nмы на Новый год толчём моти.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL><_____MYNAME_____>, ты всё время такой штукой машешь?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_17",
+   "key": "6d0b8687",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>\r\nПохоже, я первый! Ну же, родная! Покажи\nсокровища!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_18",
+   "key": "094e9d9d",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_LOSS>\r\nН-не думал, что разочарование бывает таким\nгорьким..."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_19",
+   "key": "93abef7d",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nНе переживай! Я за тебя отомщу!\n<PAGE>\nПредоставь это мне. Я выкопаю что-нибудь\nсуперское!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_20",
+   "key": "27cfc45e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\nНу давай же, жадная гора!\n<PAGE>\n<FACE_SAD>Может, руды тут уже не осталось? Может, всё\nдавным-давно выкопали...\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_SAD>Хм-м, вполне может быть...\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Так или иначе, это хороший опыт.\n<PAGE>\nМы ведь и не за сокровищами в город\nприехали."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_21",
+   "key": "806a0a46",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nТеперь я, верно?\n<PAGE>\nМолотом я никогда не махала, но...\n<PAGE>\n<FACE_ANGRY>...Ха!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_22",
+   "key": "5c2edcea",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_NORMAL>\r\nЧто ж. Похоже, жила всё-таки не истощена.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_SAD>Да ты издеваешься...\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_SAD>Не может быть...\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Касуми, ты такая крутая!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_23",
+   "key": "627a29ea",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LOSS>\r\nП-после такого быть последним как-то боязно,\nно...\n<PAGE>\nБыла не была!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_24",
+   "key": "e7d6098a",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_NORMAL>\r\nХоп!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_25",
+   "key": "c1177c17",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_LAUGH>\r\nХа-ха... Всего один.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_ANGRY> Минуточку... Э-это же...!\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH> Боже мой! Розовый алмаз!\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS> Ну да ла-а-адно!\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Я сдаюсь..."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_26",
+   "key": "00283361",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nДругого я от тебя и не ждал, Юдзуки! Сегодня\nпобеда за бескорыстными."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_27",
+   "key": "9144bb98",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nНет, это не... То есть...\n<PAGE>\nЭ-э, в общем, что нам делать со всей этой\nрудой?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_28",
+   "key": "1fc957bc",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nКак насчёт идеи Комари: продать руду Мории,\nа выручку пожертвовать трём городам?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_29",
+   "key": "8897b126",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\nЧудесная мысль!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Уверен, Меган и остальные обрадуются.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>Тогда потом отнесём эти сокровища Мории!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_30",
+   "key": "8517952e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\nЗначит, одно задание выполнено, да?\n<PAGE>\nКакое там следующее?\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>Э-э..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_31",
+   "key": "27c8d043",
+   "ru": "<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>\r\nДальше ― “отведать вкусных сладостей в\nресторане”."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_32",
+   "key": "79522f62",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_LAUGH>\r\nО! Сладкое сейчас было бы просто\nбожественно!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_33",
+   "key": "6835fafe",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nОго, как ты вдруг оживился.\n<PAGE>\nЛадно. Все устали махать молотами, так что\nпошли."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_34",
+   "key": "464ac550",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Выглядит вкусно!\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Мы с Хинатой иногда сюда заходим, но такого\nя ещё не видел."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_35",
+   "key": "040b5f51",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nМарко сказал, что приготовил кое-что\nособенное ради такого случая!\n<PAGE>\nНаверное, это особый десерт, которого нет в\nменю."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_36",
+   "key": "43537ffb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nПравда? Здорово! Не терпится попробовать!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_37",
+   "key": "cb7aaf30",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nВкуснятина!\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Сладости Вестауна совсем не похожи на наши, у\nних чудесная насыщенность, какой больше\nнигде нет.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>Ага, продукты совсем не те, что у нас в чайной,\nно всё равно вкусно!\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Согласна. Благородная и при этом простая\nсладость ― настоящее лакомство."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_38",
+   "key": "4b2f1fdb",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nФух, я наелась! Это было потрясающе!\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Просто супер! Спасибо за угощение.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_NORMAL>Благодаря вам в моей коллекции десертов\nприбавилось.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>Благодарю за чудесные сладости."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_39",
+   "key": "c23f8153",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЯ тоже обожаю здешнюю еду, так что рада, что\nмы смогли вас угостить! ♪\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>В отличие от сладостей Цуюкусы, мы кладём\nмного сливок и масла. Поэтому они такие\nнасыщенные.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>А значит, и очень жирные, так что\nнастоятельно советую есть их в меру.\n<PAGE>\n<FACE_LAUGH>Итак... Следующее задание ― помочь мне с\nиспытаниями, верно? Пройдёмте в клинику."
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_40",
+   "key": "47c3ea59",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nОх, я почти забыл об этом...\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_SAD>Значит, это была наша последняя трапеза...?\nХоть вкусная."
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_41",
+   "key": "973121dd",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nПосмотрим... Раз вас много, это отличная\nвозможность набрать большую выборку.\n<PAGE>\nА, вот оно."
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_42",
+   "key": "8a775b85",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЯ создал новый напиток из особых домашних\nдынь, которые назвал “Влюблённые дыни”."
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_43",
+   "key": "faa4b3d4",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЭта... “Влюблённая дынная газировка”, так\nсказать, сделана из их сока."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_44",
+   "key": "35a8c68a",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЯ бы хотел, чтобы кто-то из вас его\nпопробовал.\n<PAGE>\nЕсть добровольцы?"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_45",
+   "key": "97c7141c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, мне почти не хочется знать ответ, но...\n<PAGE>\n...что будет, если это выпить?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_46",
+   "key": "34eb45c5",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nНу, думаю, вы и по названию догадаетесь.\n<PAGE>\nНо поясню: если выпивший раньше не любил\nживотных, он начнёт находить их весьма\nмилыми.\n<PAGE>\nА если всегда их любил, то будет так\nочарован, что не сможет даже смотреть им в\nглаза.\n<PAGE>\nСкажем, ваша вторая половинка обожает\nживотных, а вы ― нет...\n<PAGE>\n<FACE_LAUGH>Именно для таких случаев и создано это\nлекарство.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_ANGRY>Да как об этом можно догадаться по\nназванию?!\n<PAGE>\nИ честно говоря, я ждала чего-то куда более\nсомнительного.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Боже, Комари, о каких непристойностях ты\nдумала?\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Раз ты спрашиваешь, значит, и сама о том же\nподумала?\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>А-ха-ха...\n<PAGE>\nЕсли дело только в этом, пить должно быть\nвполне безопасно."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_47_HINATA",
+   "key": "6994211d",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nАга!\n<PAGE>\nЯ ждал чего-то куда безумнее, а это вроде и\nне страшно.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>Вот как. Что ж, прошу."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_48_HINATA",
+   "key": "152899dd",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЕсли, глядя на животное, почувствуете, что оно\nмилое, ― лекарство подействовало.\n<PAGE>\n...Ну как?"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_49_HINATA",
+   "key": "355f0e7c",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_ANGRY>\r\n...\n<PAGE>\n<_____MYNAME_____>..."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_50_HINATA",
+   "key": "10860732",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOVE>\r\nН-не знаю почему, но...\n<PAGE>\nСейчас, когда я смотрю на <_____MYNAME_____>, я чувствую...!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_51_HINATA",
+   "key": "8d58f97f",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nА? Со мной что-то случилось?"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_52_HINATA",
+   "key": "5c03b97c",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, это ты нас спрашиваешь...\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_SAD>Всё произошло так быстро, что никто из нас\nничего не понял."
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_53_HINATA",
+   "key": "c7dce137",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ нажала на точку, чтобы вернуть тебя в\nнорму. Не волнуйся, никаких последствий не\nбудет.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_SAD>Кто ты такая, Касуми...?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_47_KOMARI",
+   "key": "f7a31bdd",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nАга!\n<PAGE>\nЯ думала, ты дашь нам что-то куда безумнее, а\nс таким я справлюсь.\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_NORMAL>Вот как. Что ж, прошу."
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_48_KOMARI",
+   "key": "152899dd",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nЕсли, глядя на животное, почувствуете, что оно\nмилое, ― лекарство подействовало.\n<PAGE>\n...Ну как?"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_49_KOMARI",
+   "key": "2a5bd44e",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\n<_____MYNAME_____>..."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_50_KOMARI",
+   "key": "8658cedf",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_ANGRY>\r\nЭ-э, я... не знаю, что происходит, но...\n<PAGE>\nКогда я сейчас смотрю на <_____MYNAME_____>, я чувствую...!"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_51_KOMARI",
+   "key": "7845389b",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LOSS>\r\nА...? Что я сейчас говорила?"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_52_KOMARI",
+   "key": "777cb53f",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LOSS>\r\nЭ-э, это ты нам скажи...\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_SAD>Всё произошло так быстро, что никто из нас\nничего не понял."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_53_KOMARI",
+   "key": "e6e0797a",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nЯ нажала на точку, чтобы вернуть тебя в\nнорму. Не волнуйся, никаких последствий не\nбудет.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_SAD>Касуми, ты точно ПРОСТО учительница...?"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_55",
+   "key": "58b745f2",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nХмф... Эксперимент прошёл без происшествий,\nно...\n<PAGE>\n...Так не годится. Я надеялся на другие\nрезультаты.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_SAD>Н-ну, люди ведь тоже, в конце концов,\nживотные...\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_SAD>Слушай, Форд, а ты не думал перестать делать\nтакие лекарства?"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_56",
+   "key": "c8789e37",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nВ-в общем...\n<PAGE>\n<FACE_LAUGH>Кажется, все задания выполнены! Ну как?"
+  },
+  {
    "n": 63,
    "f": 2,
    "id": "MES_EV_RESIDENT_TRIP_J_57",
    "key": "93804dcf",
    "ru": "Не используется"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_58",
+   "key": "0283be9f",
+   "ru": "“Па-па-ба-а-ам! Все задания выполнены!\n<PAGE>\nВ награду можете забрать домой эти подарки.\n<PAGE>\nP.S. Вам досталось больше хлопот, так что я\nдобавила немножко сверху.”"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_59",
+   "key": "a8a8bc09",
+   "ru": "<FACE_CHASER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, тебе, так сказать, пришлось опаснее всех.\nДумаю, тебе и выбирать первым делом.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>Я не возражаю."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_60",
+   "key": "74d28c85",
+   "ru": "(Похоже, можно взять что угодно. Что же\nвыбрать?)"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_61",
+   "key": "5455975b",
+   "ru": "Чёрная ветка ×40"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_62",
+   "key": "86157394",
+   "ru": "Чёрный булыжник ×40"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_63",
+   "key": "5beffdf2",
+   "ru": "Опунция ×60"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_64",
+   "key": "30729e75",
+   "ru": "Лиловый люпин ×20"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_65",
+   "key": "a4adc4b5",
+   "ru": "Розовый люпин ×20"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_66",
+   "key": "db18f737",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Тогда остальное поделим между\nсобой!"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_67",
+   "key": "7949a102",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nДень выдался насыщенный, но огромное всем\nспасибо за помощь.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Добывать руду оказалось куда веселее, чем я\nдумал!\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>А сладости в ресторане ― просто объедение!\nОбязательно пущу новые знания в дело. ♪\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_LAUGH>Они и правда были вкусными. С удовольствием\nпопробовал бы ещё, если Марко не против."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_68",
+   "key": "a71f65dd",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nДа, особенно под конец был переполох, но\nдень вышел весёлый.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Ага! Если не считать последнего, будет\nотличное воспоминание!\n<PAGE>\n<FACE_DOCTOR><POS_LEFT><FACE_SAD>Я... прошу прощения. Отныне ставлю опыты\nтолько на себе.\n<PAGE>\n<FACE_LAUGH>Больше никаких лекарств, обещаю, так что\nприходите ещё."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_J_69",
+   "key": "6c9fbf09",
+   "ru": "(Сегодня много всего случилось, но, похоже,\nвсе три задания выполнены.)\n<PAGE>\n(...Интересно, стали ли три города чуточку\nближе?)"
   }
  ]
 }

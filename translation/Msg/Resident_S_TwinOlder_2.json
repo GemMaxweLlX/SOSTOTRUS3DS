@@ -1,0 +1,215 @@
+{
+ "file": "Resident_S_TwinOlder_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_00",
+   "key": "097acbcf",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_NORMAL>\r\nKomo mai, Илука! Чего желаешь сегодня?\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Алоха! Так... О, и вот это, пожалуйста... и ещё\nодно из тех.\n<PAGE>\n<FACE_FISHERWIFE><POS_LEFT><FACE_NORMAL>Держи!\n<PAGE>\n<FACE_LAUGH>Можно скажу? Ты сегодня, как всегда,\nкрасавица, Илука!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_03",
+   "key": "f4928911",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nНу что вы, Каолила. <RED>∀</RED> Вовсе нет. ♪"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_04",
+   "key": "c65326eb",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nЧто такое, <_____MYNAME_____>? У тебя рот открыт..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_05",
+   "key": "dc0fc7a5",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nИлука какая-то странно вежливая?\n<PAGE>\nА, точно, ты ведь не знаешь.\n<PAGE>\nС большинством людей Илука держится очень\nучтиво.\n<PAGE>\nКакая она на самом деле, знают только бабуля,\nЛудус, я и...\n<PAGE>\nТы, <_____MYNAME_____>."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_06",
+   "key": "012718c2",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nЭй, о чём это вы тут?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_07",
+   "key": "05fa2ff6",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nПочему я так разговариваю? Ну, очевидно, так\nпроще--\n<PAGE>\nТо есть потому, что я уважаю тех, кто этого\nзаслуживает, конечно!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_08",
+   "key": "cbcec7b0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nДа, уважение ― это важно.\n<PAGE>\nУважение к Каолиле, которая даёт лишние\nпродукты. И к Захау, который даёт лишнюю\nрыбу.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>Эй, погоди! Ты выставляешь меня какой-то\nнахлебницей!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_10",
+   "key": "868d8640",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПрости.\n<PAGE>\n...Кстати, а что ты купила?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_11",
+   "key": "c1a54f21",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nА, сегодня Каолиле привезли отличный чай, и я\nскупила весь. ♪"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_12",
+   "key": "ad00d08b",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nО, слушай! У меня отличная идея!\n<PAGE>\n<FACE_LAUGH><_____MYNAME_____>, у тебя ведь сейчас нет никаких дел, да?\nПойдём к нам.\n<PAGE>\nРаз уж я купила чай, угощу тебя.\n<PAGE>\n<FACE_NORMAL>Я обычно никого вот так прямо не приглашаю,\nзнаешь ли. Это большая честь.\n<PAGE>\nНу? Что скажешь?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_13",
+   "key": "57988c66",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nВот, чашка моего домашнего чая масала. Пей на\nздоровье."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_14",
+   "key": "97165d41",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПравда? ♪ Такое нигде больше не попробуешь,\nтак что наслаждайся как следует."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_15",
+   "key": "beaa87c4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nМ-м. Как всегда, чудесно, Илука."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_16",
+   "key": "0d1d0a55",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЧасто ли я завариваю масалу? Да почти\nкаждый день.\n<PAGE>\nИ жителей деревни часто угощаю."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_17",
+   "key": "e577de95",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nМасалу Илуки в деревне все обожают.\n<PAGE>\n...Особенно Каолила.\n<PAGE>\nОна обожает масалу Илуки почти так же, как\nсаму Илуку.\n<PAGE>\nКаолила часто говорит, что Илука вежливая,\nпрекрасно заваривает чай...\n<PAGE>\n...всегда присматривает за детьми, отлично\nпоёт и танцует, да ещё и красавица."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_18",
+   "key": "234ae2f4",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nХа-ха, что ж, она права. ♪"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_19",
+   "key": "3f22d8ec",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nЭге-гей, Илука, Силука! Вы дома?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_20",
+   "key": "7360d4e3",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nО, Каолила! Чем можем помочь?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_21",
+   "key": "550e9511",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nЗахау только что поймал отличную рыбу.\n<PAGE>\nВот я и решила поделиться с вами, вы ведь мои\nлучшие покупательницы!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_22",
+   "key": "0734477e",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nОй, правда? Я вам так благодарна. ♪\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Mahalo, Каолила."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_23",
+   "key": "1d69655b",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>! Не знала, что вы дружите!\n<PAGE>\nХотя чему тут удивляться? Они умницы,\nкрасавицы, просто идеальные девочки! Как их\nне любить?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_24",
+   "key": "bb2a9522",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nД-да! Мы очень близки!\n<PAGE>\nПоэтому я и пригласила <_____MYNAME_____> на свой домашний\nчай!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_25",
+   "key": "7f68f35a",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>\r\nВот оно что. Ну и везёт же тебе, <_____MYNAME_____>!\n<PAGE>\nЧай Илуки ― лучший в округе.\n<PAGE>\n<FACE_NORMAL>Говорят, чай отражает душу того, кто его\nзаварил.\n<PAGE>\n<FACE_LAUGH>Значит, чай у Илуки такой вкусный, потому что\nу неё тёплое, прекрасное сердце!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_26",
+   "key": "1b7be502",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nН-ну что вы, Каолила! Вы преувеличиваете!\n<PAGE>\n<FACE_FISHERWIFE><POS_RIGHT><FACE_LAUGH>Ничуть! В наше время встретить такую...\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Каолила, а ваш магазин разве не открыт?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_28",
+   "key": "c939014a",
+   "ru": "<FACE_FISHERWIFE><POS_RIGHT><FACE_ANGRY>\r\nОй, и правда!\n<PAGE>\n<FACE_NORMAL>Ну, ещё увидимся, ребята!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_29",
+   "key": "070394ad",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_L><WINDOW_SWEAT_L>Фу-у-ух..."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_30",
+   "key": "82515e44",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nХорошая работа, Илука."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_31",
+   "key": "c6249bf5",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_ANGER_L>Да знаю я, знаю! А что мне делать? Она так ко\nмне с детства относится!\n<PAGE>\nПредупреждаю, <_____MYNAME_____>: если Каолила узнает, какая я\nна самом деле, ты об этом пожалеешь."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_32",
+   "key": "e0767b66",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nВот и славно."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINOLDER_2_33",
+   "key": "bc2a9111",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>\r\nХа-а, я выдохлась.\n<PAGE>\n<_____MYNAME_____>, не помассируешь мне плечи?"
+  }
+ ]
+}

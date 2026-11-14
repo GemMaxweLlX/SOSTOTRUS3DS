@@ -1,0 +1,250 @@
+{
+ "file": "Resident_J_Inari_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_00",
+   "key": "5ac6c215",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nО, <_____MYNAME_____>. Как приятно видеть тебя в добром\nздравии."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_01",
+   "key": "29589a49",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nЯ тут, кажется, это называется, “наблюдаю за\nлюдьми”.\n<PAGE>\nЛюди не владеют ни магией, ни заклинаниями,\nно, несмотря на это, изо всех сил стараются\nжить как можно лучше.\n<PAGE>\nВот мне и подумалось: почему?\n<PAGE>\nНо сколько ни наблюдай, ответ всё ускользает.\n<PAGE>\nКак же лучше понять...?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_02",
+   "key": "39238457",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nЧто ж, в таком случае лучше всего побыть в\nшкуре человека.\n<PAGE>\n<FACE_LAUGH>Решено! На время откажусь от заклинаний."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_03",
+   "key": "ce60653c",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nОсталось лишь запечатать свою силу, чтобы\nслучайно не применить магию."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_04",
+   "key": "ed37043d",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nГотово! Ближайшие пару часов я ничем не буду\nотличаться от людей."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_05",
+   "key": "fae94d20",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nНу что ты, <_____MYNAME_____>. Ты слишком волнуешься.\n<PAGE>\nКонечно, поначалу будут кое-какие\nнеудобства...\n<PAGE>\nНо люди так живут каждый день. Не может\nбыть, чтобы у меня не вышло.\n<PAGE>\n<FACE_LAUGH>Хотя, если ты так переживаешь, можешь\nприсмотреть за мной, пока печать не спадёт.\n<PAGE>\nНе скажу, что мне совсем не тревожно. Остаться\nбез магии ― для меня впервые.\n<PAGE>\nПожалуй, с тобой рядом мне будет спокойнее."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_06",
+   "key": "7b9fdadf",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nЧто ж, первым делом проведём день в этом\nтеле.\n<PAGE>\nХм-м... О, придумано. Займусь уборкой\nсвятилища."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_07",
+   "key": "77db7a16",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nВся уборка на мне, так что отдыхай, <_____MYNAME_____>."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_08",
+   "key": "76ff0061",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nОчень любезно с твоей стороны, но это всегда\nбыло моим делом. Помощь не требуется.\n<PAGE>\n<FACE_LAUGH>Так, пора как следует всё отдраить!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_09",
+   "key": "62fbd82e",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\n<WINDOW_MOJA_L>Н-наконец-то готово...\n<PAGE>\nБыло... немного тяжко, но... с-справиться\nудалось. Так, следующее ― подмести!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_10",
+   "key": "a9d64cbb",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\nНет, в-всё в порядке. Если сдаться сейчас,\nлюдей мне никогда не понять...\n<PAGE>\nЧто толку от меня, если даже свой дом в\nодиночку не убрать?\n<PAGE>\nМоя мечта ― стать первоклассным Виксени, как\nНаставник. Нельзя дрогнуть."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_11",
+   "key": "9611adc1",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\nХа-а... ха-а..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_12",
+   "key": "679bb680",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\nПоловина... готова..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_13",
+   "key": "8ab740c3",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\nГ-говорю же, помощь не нужна..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_14",
+   "key": "c62d6c09",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\nДа... Пожалуй, так и есть. Мой предел,\nпохоже, достигнут...\n<PAGE>\nПрости, но можно всё-таки попросить тебя о\nпомощи?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_15",
+   "key": "65c99b80",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\nДаже убраться без заклинаний не под силу...\nКакое же я ничтожество...\n<PAGE>\nРаз так, до первоклассного хранителя мне ещё\nочень далеко."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_16",
+   "key": "08553b62",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\nЭто... нормально? Правда...?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_17",
+   "key": "ab0ce41d",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nДаже лучшим из лучших не стоит всё делать в\nодиночку... и иногда надо полагаться на\nдругих, да?\n<PAGE>\n...Если подумать, когда-то давно Наставник\nговорил мне нечто похожее.\n<PAGE>\nМне казалось, это лишь утешение, но, видимо,\nнет."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_18",
+   "key": "61795558",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nНикто на свете не может жить, ни на кого не\nполагаясь?\n<PAGE>\n<FACE_LAUGH>...Да, пожалуй, это правда.\n<PAGE>\nЗначит, в этом и была моя ошибка."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_19",
+   "key": "2e5f2361",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nИтак, <_____MYNAME_____>, поможешь мне убрать святилище?\n<PAGE>\nПрошу, одолжи мне свои силы."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_20",
+   "key": "e6480477",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nСпасибо."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_21",
+   "key": "f89c09e6",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Готово...! Какое потрясающее чувство\nвыполненного долга!\n<PAGE>\n<_____MYNAME_____>, огромное спасибо. Я у тебя в долгу."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_22",
+   "key": "809657f8",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\n...Фух, после такой работы проголодаться\nнемудрено.\n<PAGE>\n<FACE_LAUGH>Не составишь мне компанию за трапезой, <_____MYNAME_____>?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_23",
+   "key": "99c97d76",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nЧто ж, пора показать своё кулинарное\nмастерство! Жди с нетерпением. ♪"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_24",
+   "key": "829058a3",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nПриступим?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_25",
+   "key": "f6ab50dd",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n...<_____MYNAME_____>, у меня важное объявление."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_26",
+   "key": "2a782729",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nВиксени отлично управляются с огнём.\n<PAGE>\nОбычно первая магия, которую осваивает\nноворождённый Виксени, ― магия огня."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_27",
+   "key": "bc80a030",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nИ у меня огонь тоже был самым первым\nзаклинанием."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_28",
+   "key": "8ebe78cb",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n...Думаю, ты уже понимаешь, к чему это всё, <_____MYNAME_____>."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_29",
+   "key": "3ee37858",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nЯ... не умею разводить огонь без магии..."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_30",
+   "key": "69ed7337",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Выглядит очень аппетитно, правда?\n<PAGE>\nИ такое блюдо вышло только благодаря твоей\nпомощи. Снова огромное тебе спасибо.\n<PAGE>\nНу что ж... Приступим. ♪"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_31",
+   "key": "d9be986a",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nМне кажется... или сегодня всё вкуснее\nобычного?\n<PAGE>\nЭто потому, что ты помогаешь, <_____MYNAME_____>?\n<PAGE>\nИли потому, что за столом рядом добрый\nдруг?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_32",
+   "key": "df8bcabf",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nНет, наверняка и поэтому тоже, но...\n<PAGE>\nЭто как с уборкой...\n<PAGE>\nНа каждое дело ушло больше времени и сил,\nчем когда-либо... и тем слаще результат."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_33",
+   "key": "8535b763",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nПочему люди так полны жизни, несмотря на все\nтрудности...?\n<PAGE>\nКажется, ответ наконец найден.\n<PAGE>\nНаверное, потому что они за всё берутся в\nполную силу и получают от этого радость...\n<PAGE>\nВот почему нам, владеющим заклинаниями, они\nкажутся такими живыми и яркими созданиями.\n<PAGE>\n<WINDOW_JOY_L> Как хорошо, что люди стали мне хоть немного\nпонятнее!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_2_34",
+   "key": "e8191e98",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_NORMAL>\r\nО. Похоже, действие печати закончилось.\n<PAGE>\nЗнаешь, сегодняшний день многому меня\nнаучил.\n<PAGE>\n<FACE_LAUGH><_____MYNAME_____>... Огромное спасибо, что помогаешь мне\nпонять такие вещи."
+  }
+ ]
+}

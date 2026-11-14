@@ -2,11 +2,6829 @@
  "file": "Talk_S_Angler",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_MAN_FIRST_MEETING",
+   "key": "c8c6b0dd",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТы <_____MYNAME_____>? Меня зовут Хаулани.\n<PAGE>\nЯ тоже не местный, так что, думаю, понимаю,\nкаково тебе сейчас. Надеюсь, мы подружимся."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_WOMAN_FIRST_MEETING",
+   "key": "c8c6b0dd",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТы <_____MYNAME_____>? Меня зовут Хаулани.\n<PAGE>\nЯ тоже не местный, так что, думаю, понимаю,\nкаково тебе сейчас. Надеюсь, мы подружимся."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_LONG_INTERVAL",
+   "key": "9323eeed",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>. Кажется, давно мы не виделись.\nНадеюсь, у тебя всё хорошо."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_LOVER_LONG_INTERVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_MARRIAGE_LONG_INTERVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PLAYER_DOWN",
+   "key": "9687bfc0",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nЯ слышал, тебе стало плохо, <_____MYNAME_____>. Не стоит так\nсебя изнурять. Молодость молодостью, но это\nвсё равно вредно."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "WORKING_REQUEST_000",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "WORKING_REQUEST_001",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "WORKING_DELIVERY_000",
+   "key": "e832dfc9",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nО? Эта посылка мне? Вот как."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "WORKING_DELIVERY_001",
+   "key": "ccf56cbc",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nMahalo, <_____MYNAME_____>. Благодарю за доставку."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRIDGE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BELL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRONZE_STATUE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_GODDESS_STATUE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_PERFUME",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BRIDGE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BATHSHOP",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_RELIEF",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_SHRINE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_TEA",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_BATH",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_ACCESSORY",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_KITCHEN",
+   "key": "27e43e6c",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nОбщая кухня теперь гораздо лучше. Мы с\nвнуком часто ею пользуемся. Надо будет как\nследует всех поблагодарить."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_BONFIRE",
+   "key": "5780b2dd",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! С тех пор как костёр обустроили,\nмы с Тигре часто приходим посидеть у тепла.\n<PAGE>\nТепло самого огня, да, но и тепло дружбы,\nкогда рассказываешь истории родным и\nдрузьям."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_INN",
+   "key": "e6a89156",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТы давно видишься с Тототарой? Она очень\nблагодарна всем, кто помог обустроить всё\nвокруг гостиницы.\n<PAGE>\nПозволь и мне выразить благодарность.\nMahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_LANDING",
+   "key": "a8a0efbc",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nБлагодаря новому пирсу я теперь куда чаще\nрыбачу с Захау.\n<PAGE>\nИ рыбы самой разной ловлю больше.\n<PAGE>\nКомпания нам никогда не помешает. Почему бы\nтебе как-нибудь не присоединиться, <_____MYNAME_____>?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_FOOD",
+   "key": "83fba83c",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТа смесь специй, что вы сделали с Каолилой,\nчудесна! Мы с внуком часто ею пользуемся.\n<PAGE>\nДа вот сегодня утром Тигре добавил её в\nблюдо. Боюсь, переборщил. Остро было, скажу\nя тебе.\n<PAGE>\nНо Тигре упрямо твердил, что нет, и через силу\nдоел всё до крошки, чтобы не пропало.\n<PAGE>\nПо-моему, это было немного глупо, но\nвыражение его лица во время еды было\nбесценно!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_TEA",
+   "key": "74cd5c03",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЯ попробовал новое блюдо в кафе у моря.\nБыло очень вкусно.\n<PAGE>\nТигре говорит, что хочет повторить рецепт, но\nдобавить моллюсков и сделать фо с\nморепродуктами. Звучит чудесно, правда?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_DRESS",
+   "key": "bd1a2699",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСлышал, вы с Лудусом помогли профессору\nвоссоздать традиционные наряды Лулукоко.\n<PAGE>\nПо-моему, уважать такие старые традиции ―\nмудро."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SPRING",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SPRING",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_SPRING",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SUMMER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SUMMER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_SUMMER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_AUTUMN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_AUTUMN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_AUTUMN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_WINTER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_WINTER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_WINTER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SPRING",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SPRING",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_SPRING",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SUMMER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SUMMER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_SUMMER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_AUTUMN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_AUTUMN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_AUTUMN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_WINTER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_WINTER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_WINTER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_SPRING",
+   "key": "fbd86554",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какой чудесный день! Чувствую,\nсегодня поймаю крупную."
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_SPRING",
+   "key": "a0d927dd",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nАх. Сегодня так спокойно. Я рад дождю. Не\nтолько за его умиротворяющий стук, но и за\nпередышку от жары."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_SPRING",
+   "key": "946401a2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧашка тёплого чая ещё вкуснее, когда на улице\nхолодно и снег."
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_SUMMER",
+   "key": "29b957e1",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nБатюшки, летняя жара порой так гнетёт. Видно,\nстарею. Хо-хо-хо."
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_SUMMER",
+   "key": "1fb1ee64",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nДождливые дни идеальны, чтобы посидеть\nдома за хорошей чашкой чая."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_SUMMER",
+   "key": "946401a2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧашка тёплого чая ещё вкуснее, когда на улице\nхолодно и снег."
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_AUTUMN",
+   "key": "f77d7172",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Идеальная погода для рыбалки!"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_AUTUMN",
+   "key": "03cdf654",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nПотягивать чай под тихий дождь ―\nпрекрасный способ провести день, не\nнаходишь?"
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_AUTUMN",
+   "key": "946401a2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧашка тёплого чая ещё вкуснее, когда на улице\nхолодно и снег."
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_WINTER",
+   "key": "35bebcdd",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nАх, какой чудесный день. Настолько хороший,\nчто легко забыть, что сейчас зима."
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_WINTER",
+   "key": "03cdf654",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nПотягивать чай под тихий дождь ―\nпрекрасный способ провести день, не\nнаходишь?"
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_WINTER",
+   "key": "946401a2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧашка тёплого чая ещё вкуснее, когда на улице\nхолодно и снег."
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_WEATHER_TYPHOON",
+   "key": "970abc1b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nБатюшки! <_____MYNAME_____>! Удивительно видеть тебя здесь в\nтакую непогоду. Рад, что в тебе столько сил.\n<PAGE>\nНо возвращаться домой в таких условиях\nнеразумно. Располагайся и пережди здесь, пока\nпогода не утихнет."
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_WEATHER_HEAVYSNOW",
+   "key": "01702a41",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nБатюшки! <_____MYNAME_____>! Удивительно, что в такой день ты\nрешаешься бросить вызов стихии.\n<PAGE>\nНо возвращаться домой в таких условиях\nнеразумно. Располагайся и пережди, пока\nпогода не утихнет."
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_MARRIAGE_WEATHER_TYPHOON",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_MAN_MORNING_TALK_00",
+   "key": "67ec5afc",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>. Рад видеть тебя в добром здравии\nэтим утром."
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_MAN_MORNING_TALK_01",
+   "key": "40f39a7b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТы жаворонок, <_____MYNAME_____>? Наверное, да, раз столько\nэнергии.\n<PAGE>\nМожет, разольёшь немного этой энергии по\nбутылкам и поделишься со мной? Хо-хо-хо!"
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_WOMAN_MORNING_TALK_00",
+   "key": "67ec5afc",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>. Рад видеть тебя в добром здравии\nэтим утром."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_WOMAN_MORNING_TALK_01",
+   "key": "57cba43a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТы жаворонок, <_____MYNAME_____>? Наверное, да, раз столько\nэнергии.\n<PAGE>\nИ всё же не торопись. Иногда тише едешь ―\nдальше будешь."
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_MAN_AFTERNOON_TALK_00",
+   "key": "0be58651",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nАлоха! Как работа сегодня?"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_MAN_AFTERNOON_TALK_01",
+   "key": "a97bc82e",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nБатюшки, у тебя, похоже, сегодня хорошее\nнастроение. Вот это улыбка. Хо-хо-хо!"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_WOMAN_AFTERNOON_TALK_00",
+   "key": "0be58651",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nАлоха! Как работа сегодня?"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_WOMAN_AFTERNOON_TALK_01",
+   "key": "05719fd2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nБатюшки, у тебя, похоже, сегодня хорошее\nнастроение. Прекрасная улыбка. Хо-хо-хо!"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_MAN_EVENING_TALK_00",
+   "key": "2ae1aa0c",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nБатюшки! Неужели я вижу тебя сегодня\nвпервые? Работа и правда не даёт скучать, а?"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_MAN_EVENING_TALK_01",
+   "key": "d43d38e0",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Трудолюбия тебе не занимать, <_____MYNAME_____>."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_WOMAN_EVENING_TALK_00",
+   "key": "2ae1aa0c",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nБатюшки! Неужели я вижу тебя сегодня\nвпервые? Работа и правда не даёт скучать, а?"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_WOMAN_EVENING_TALK_01",
+   "key": "f3752403",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Трудолюбия тебе не занимать, <_____MYNAME_____>.\nОсторожнее по дороге домой. Не хотелось бы,\nчтобы в темноте что-то случилось."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_0",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_1",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_2",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_FEERING_GOOD_TALK_00",
+   "key": "2edcda56",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Батюшки! Сегодня я в отличной\nформе, скажу я тебе."
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_FEERING_GOOD_TALK_01",
+   "key": "15a8927e",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Хм? Думаешь, я сегодня особенно\nбодр?\n<PAGE>\nОчень наблюдательно! Я недавно поймал\nогромную рыбу, и с тех пор у меня прекрасное\nнастроение. Хо-хо-хо!"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_GOOD_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_GOOD_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_GOOD_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_GOOD_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_FEERING_TIRED_TALK_00",
+   "key": "5440d55a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nАх. Прости, <_____MYNAME_____>, но я сейчас немного устал.\n<PAGE>\n<FACE_NORMAL>Может, отложим разговор? E kala mai."
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_FEERING_TIRED_TALK_01",
+   "key": "f34903f1",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nОх. Старость порой так докучает. Может,\nпоговорим в другой раз, <_____MYNAME_____>. E kala mai."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_TIRED_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_TIRED_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_TIRED_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_TIRED_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_MAN_CHANGE_FEELING_GOOD",
+   "key": "4fa0b0ae",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Болтать с молодёжью вроде тебя\nочень бодрит.\n<PAGE>\nТакое чувство, будто мне перепало немного\nтвоей юной энергии."
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_WOMAN_CHANGE_FEELING_GOOD",
+   "key": "36e4887b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Болтать с молодёжью вроде тебя\nочень бодрит.\n<PAGE>\nЯ будто вдруг помолодел лет на пять!"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_GOOD",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_MARRIAGE_CHANGE_FEELING_GOOD",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_MAN_CHANGE_FEELING_BAD",
+   "key": "30e4f5a5",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nХо-хо... E kala mai, <_____MYNAME_____>. Возраст сейчас что-то\nдаёт о себе знать.\n<PAGE>\n<FACE_NORMAL>Только не говори Тигре. Он поднимет шум."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_WOMAN_CHANGE_FEELING_BAD",
+   "key": "30e4f5a5",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nХо-хо... E kala mai, <_____MYNAME_____>. Возраст сейчас что-то\nдаёт о себе знать.\n<PAGE>\n<FACE_NORMAL>Только не говори Тигре. Он поднимет шум."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_BAD",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_MARRIAGE_CHANGE_FEELING_BAD",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_TODAY_GODDESS",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_TODAY_RICE_EAR",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_TODAY_WITCH",
+   "key": "c7121ca2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКак ты знаешь, сегодня Праздник духов...\nБатюшки! Это что, дух парит у тебя за спиной?!\n<PAGE>\n<FACE_LAUGH>Хо-хо-хо! Шучу, шучу!"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_TODAY_GAME",
+   "key": "22021069",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСегодня Трилимпиада. Вся молодёжь с утра\nсама не своя от волнения."
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_TODAY_DRINK",
+   "key": "7fdff7d4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Надеюсь, на Празднике напитков\nпридумают хоть что-то пригодное для питья.\nЖдать вкусного ― уже перебор."
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_MAN_TODAY_FRIENDSHIP",
+   "key": "13ed8e8d",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСегодня Ночь морских огней. Наверняка кто-то\nособенный приглянулся?\n<PAGE>\n<FACE_LAUGH>Уж точно найдётся масса девушек, что\nобрадуются твоему приглашению, <_____MYNAME_____>."
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_WOMAN_TODAY_FRIENDSHIP",
+   "key": "3445ed90",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСегодня Ночь морских огней. Наверняка кто-то\nособенный приглянулся?\n<PAGE>\n<FACE_LAUGH>Уж точно найдётся масса парней, что хотели\nбы пойти с тобой, <_____MYNAME_____>."
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FRIENDSHIP",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FRIENDSHIP",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_TODAY_NEW_YEAR",
+   "key": "cedbdcb1",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nГде будешь встречать Новый год, <_____MYNAME_____>?\n<PAGE>\nРазумнее всего, пожалуй, в городе, где тебе\nуютнее всего и где тебе рады, не так ли?"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FLOWER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FLOWER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER_NOT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_FORGET_FLOWER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_FLOWER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_FLOWER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_GRUEL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_GRUEL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL_NOT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_FORGET_GRUEL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_GRUEL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_GRUEL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT",
+   "key": "8e3e4c9b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! <_____MYNAME_____>, ты любишь фрукты?\n<PAGE>\nРаз сегодня Фруктовая фиеста, очень надеюсь,\nчто да. Вот. Это специально для тебя."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FRUIT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FRUIT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT_NOT",
+   "key": "739a58bf",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nБатюшки! Сумка-то полна, а? Не уверен, что\nвлезет."
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_FORGET_FRUIT",
+   "key": "2097fdbd",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Те фрукты?\n<PAGE>\nКонечно, они ещё у меня. Держи, <_____MYNAME_____>."
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_FRUIT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_FRUIT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_00",
+   "key": "b3f919de",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nА. Собираешь пожертвования на Праздник\nдухов? Так-так..."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_01",
+   "key": "e67e3865",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nЧто ж, при таком красноречии, <_____MYNAME_____>, пожалуй, дам\nчуть больше, чем собирался."
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_02",
+   "key": "677b237b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХм-м-м. Этого хватит?"
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_00",
+   "key": "22b37260",
+   "ru": "Слёзно умолять"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_01",
+   "key": "2c9eb184",
+   "ru": "Уговорить его"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_02",
+   "key": "d931124c",
+   "ru": "Сделать недовольное лицо"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_03",
+   "key": "ace26435",
+   "ru": "Надуть губы"
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_CAMPAIGN_FINISH",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_CAMPAIGN_1_MORE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_CAMPAIGN_2_MORE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_CAMPAIGN_3_MORE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_CAMPAIGN_4_MORE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_CAMPAIGN_5_MORE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_CAMPAIGN_6_MORE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_MAP_FARM_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_MAP_FARM_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_MAP_THREE_FORKED_ROAD_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_MAP_THREE_FORKED_ROAD_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_04",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_05",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_04",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_05",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_00",
+   "key": "4d3142e8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nЗдесь цветёт много калл. Это были любимые\nцветы моей покойной жены."
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_01",
+   "key": "73a61a8f",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЗдесь сегодня, как всегда, оживлённо и людно."
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_02",
+   "key": "41758080",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Куда бы сегодня пойти\nпорыбачить?"
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_03",
+   "key": "b739128b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nОтличное место для чашечки чая, не находишь?"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_04",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_05",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_MAP_SHOOTING_STAR",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_MAP_WINDMILL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_A",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_MAP_SNOWMAN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_MAP_TREE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_MAP_WIND_BELL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_J",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_MAP_FIREFLY",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_MAP_MORNING_GRLORY",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_MAP_SILVER_GRASS",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_MAP_DRAGONFLY",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_MAP_STRAW",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_MAP_DRIED_PERSIMMON",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_MAP_THUNDERHEAD",
+   "key": "b08b8c01",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Вот это пышное облако!"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_MAP_NOCTILUCA",
+   "key": "cc1be587",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nВот о таких видах моя жена всегда так тепло\nрассказывала..."
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_S",
+   "key": "d673ffb9",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nНебо в этом городе чистое и ясное. От этого\nзвёзды ещё прекраснее."
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_S",
+   "key": "25fcea3e",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТы любишь овощи, <_____MYNAME_____>? Охлаждённые они\nособенно вкусны."
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_MAP_GULL",
+   "key": "2ce50857",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧайкам, похоже, весело летать в такую\nчудесную погоду. Хо-хо-хо!"
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_PLAYER_HOUSE_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_PLAYER_HOUSE_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_MY_HOUSE_00",
+   "key": "349a0586",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nБатюшки! Komo mai, <_____MYNAME_____>. Проходи.\n<PAGE>\nНичего особенного, но располагайся как дома."
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_MY_HOUSE_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_FRIEND_HOUSE",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_04",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_05",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_06",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_07",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_08",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_09",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_04",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_06",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_08",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_09",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_05",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_07",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_08",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_09",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_OPEN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SHOP_OPEN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "MES_SCHEDULE_SLEEP",
+   "key": "3ab27e91",
+   "ru": "<FACE_ANGLER>\r\nИ что это тут затевается, <_____MYNAME_____>?\n<PAGE>\nГлаза у меня, может, и закрыты, но это не\nзначит, что я тебя не чувствую. Хо-хо-хо!"
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SLEEP",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SLEEP",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MES_SCHEDULE_SICK",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SICK",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SICK",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MES_MEAL",
+   "key": "a87fe6a1",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nE kala mai, <_____MYNAME_____>. Минутку, пожалуйста. Скоро\nзакончу."
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MES_LOVER_MEAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_MEAL_RESTAURANT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MES_MEAL_JAPANESE_TEA",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MES_MEAL_SOUTH_TEA",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_MEAL_WITH_00",
+   "key": "49aee944",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>. Не присоединишься к нам?"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_MEAL_WITH_01",
+   "key": "3a43891c",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТигре очень вкусно готовит, знаешь ли. И,\nкажется, сегодня он сделал немного больше..."
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_MEAL_WITH_02",
+   "key": "d6860530",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nПонятно. Тигре очень вкусно готовит, знаешь\nли. Надеюсь, когда-нибудь и тебе доведётся\nпопробовать."
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_00",
+   "key": "eb4bd3f0",
+   "ru": "Поесть с Хаулани"
+  },
+  {
    "n": 277,
    "f": 2,
    "id": "MES_MEAL_SELECT_01",
    "key": "93efdefa",
    "ru": "Не сегодня"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_04",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_05",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_06",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_07",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_08",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_09",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_10",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_11",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_12",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_13",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_14",
+   "key": "3d6e3ea8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХм. Я рыбачу почти каждый день, так что\nотноситься к состязанию всерьёз было бы\nнечестно, верно?\n<PAGE>\n<FACE_LAUGH>Но, признаюсь, азартное соперничество очень\nманит. Хо-хо-хо!"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_15",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_01",
+   "key": "4d64bcc9",
+   "ru": "Попросить помощи."
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_02",
+   "key": "07f11ea4",
+   "ru": "Не просить помощи."
+  },
+  {
+   "n": 297,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_CANCEL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_OK",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_RESULT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_00",
+   "key": "f4c09c12",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСколько же энергии у вас, молодёжи. Только\nпосмотрю ― и сам бодрее."
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_01",
+   "key": "d241dbac",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nИнтересно беседовать с людьми из разных\nземель. Столько можно узнать.\n<PAGE>\nМожет, как-нибудь посидим и поговорим\nподольше за чаем."
+  },
+  {
+   "n": 302,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_02",
+   "key": "0de60a96",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЕсли возникнут трудности, всегда можно\nспросить совета у старших. Они, скорее всего,\nуже прошли через это, а то и дважды!\n<PAGE>\nИными словами, если я хоть чем-то могу\nпомочь, только скажи."
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_03",
+   "key": "108d62cd",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТы всё схватываешь на лету, <_____MYNAME_____>. Уверен, с\nбоевыми искусствами у тебя тоже всё пошло\nбы быстро.\n<PAGE>\nУчить тебя, похоже, было бы очень\nблагодарным делом. Хочешь попробовать?\nХо-хо-хо!"
+  },
+  {
+   "n": 304,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_04",
+   "key": "30d90eb7",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nАх, <_____MYNAME_____>. После разговоров с тобой я всегда\nчувствую себя молодым и полным сил. Не дам\nвозрасту меня одолеть!\n<PAGE>\nВпереди у меня ещё много-много хороших лет.\nЯ это чувствую. Хо-хо-хо!"
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_00",
+   "key": "f4c09c12",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСколько же энергии у вас, молодёжи. Только\nпосмотрю ― и сам бодрее."
+  },
+  {
+   "n": 306,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_01",
+   "key": "d241dbac",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nИнтересно беседовать с людьми из разных\nземель. Столько можно узнать.\n<PAGE>\nМожет, как-нибудь посидим и поговорим\nподольше за чаем."
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_02",
+   "key": "0de60a96",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЕсли возникнут трудности, всегда можно\nспросить совета у старших. Они, скорее всего,\nуже прошли через это, а то и дважды!\n<PAGE>\nИными словами, если я хоть чем-то могу\nпомочь, только скажи."
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_03",
+   "key": "b778e1b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nБатюшки, старания тебе не занимать, <_____MYNAME_____>. Ты\nнапоминаешь мне дочь в твои годы.\n<PAGE>\nХо-хо-хо! Доживёшь до моих лет ― и многое\nбудет напоминать о чём-то ещё! В этом и есть\nопыт."
+  },
+  {
+   "n": 309,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_04",
+   "key": "30d90eb7",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nАх, <_____MYNAME_____>. После разговоров с тобой я всегда\nчувствую себя молодым и полным сил. Не дам\nвозрасту меня одолеть!\n<PAGE>\nВпереди у меня ещё много-много хороших лет.\nЯ это чувствую. Хо-хо-хо!"
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_04",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_05",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 316,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 317,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 318,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 319,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 320,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_04",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 321,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_05",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 322,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_06",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 347,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 352,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 353,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 354,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 355,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 356,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 357,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 358,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 359,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 360,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 361,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 362,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 366,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 367,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 368,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 369,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 370,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 371,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 372,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 373,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 374,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 375,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 377,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 378,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 379,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_00",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 380,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_01",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 381,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_02",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 382,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_03",
+   "key": "e450502a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧто-то случилось?"
+  },
+  {
+   "n": 383,
+   "f": 2,
+   "id": "MES_PROPOSAL_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 384,
+   "f": 2,
+   "id": "MES_PROPOSAL_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 385,
+   "f": 2,
+   "id": "MES_PROPOSAL_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 386,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 387,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_CONFESSION_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_CONFESSION_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 390,
+   "f": 2,
+   "id": "MES_CONFESSION_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 392,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 393,
+   "f": 2,
+   "id": "MES_LOVERS_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "MES_LOVERS_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "MES_LOVERS_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 396,
+   "f": 2,
+   "id": "MES_ENGAGEMENT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 397,
+   "f": 2,
+   "id": "MES_MARRIAGE_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "MES_MARRIAGE_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 399,
+   "f": 2,
+   "id": "MES_MARRIAGE_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 400,
+   "f": 2,
+   "id": "MES_MARRIAGE_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 401,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 402,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 403,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 404,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_LOVER",
+   "key": "16da7577",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, ухаживаешь теперь за <CHARANAME0>? Тототара мне\nвсё рассказала.\n<PAGE>\nХо-хо-хо! Я был примерно твоих лет, когда\nвстретил жену."
+  },
+  {
+   "n": 405,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_LOVER",
+   "key": "e3e968f0",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, у тебя роман с <CHARANAME0>? Тототара мне всё\nрассказала.\n<PAGE>\nХо-хо-хо! Ах, не могу не вспомнить, как\nвпервые встретил жену."
+  },
+  {
+   "n": 406,
+   "f": 2,
+   "id": "MES_BLESSING_LOVER_OTHER",
+   "key": "1de7077d",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКаолила говорит, у тебя роман с кем-то из\nдругого города.\n<PAGE>\nЗнаешь, я был примерно твоих лет, когда мы с\nженой познакомились. Удачи вам обоим."
+  },
+  {
+   "n": 407,
+   "f": 2,
+   "id": "MES_BLESSING_LOVER_FAMILY",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 408,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_ENGAGEMENT",
+   "key": "97706028",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, ты женишься на <CHARANAME0>? Тототара мне всё\nрассказала.\n<PAGE>\n<FACE_LAUGH>Уверен, тебе ещё не раз позавидуют, что у тебя\nтакая красавица-невеста. Хо-хо-хо!"
+  },
+  {
+   "n": 409,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_ENGAGEMENT",
+   "key": "e265636b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЗначит, ты выходишь замуж за <CHARANAME0>? Тототара мне\nвсё рассказала.\n<PAGE>\n<FACE_LAUGH>Вообще-то об этом гудит весь город.\nПоздравляю вас обоих."
+  },
+  {
+   "n": 410,
+   "f": 2,
+   "id": "MES_BLESSING_ENGAGEMENT_OTHER",
+   "key": "81e14fc3",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКаолила говорит, у тебя свадьба с кем-то из\nдругого города.\n<PAGE>\nХо-хо-хо! Ты хорошо разбираешься в людях,\nтак что уверен, всё сложится превосходно.\nПоздравляю."
+  },
+  {
+   "n": 411,
+   "f": 2,
+   "id": "MES_BLESSING_ENGAGEMENT_FAMILY",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 412,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_MARRIAGE",
+   "key": "aa2589e5",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, поздравляю со свадьбой.\n<PAGE>\nУверен, вы вдвоём построите чудесную семью."
+  },
+  {
+   "n": 413,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_MARRIAGE",
+   "key": "55344ed3",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, поздравляю со свадьбой.\n<PAGE>\nУверен, вы будете очень счастливы вместе."
+  },
+  {
+   "n": 414,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_OTHER",
+   "key": "a46dd266",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, поздравляю со свадьбой.\n<PAGE>\nУверен, с твоей добротой и ответственностью у\nтебя будет любящая и счастливая семья."
+  },
+  {
+   "n": 415,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_PRESENT",
+   "key": "49a800d2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Вот, держи. У меня для тебя\nсвадебный подарок.\n<PAGE>\nСпасибо, что здесь стало куда живее и\nинтереснее. Mahalo."
+  },
+  {
+   "n": 416,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_FAMILY",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 417,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_FAMILY_PRESENT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 418,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_CHILD_BIRTH",
+   "key": "eb33e7a2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nСлышал, у твоей жены родился ребёнок.\nПоздравляю.\n<PAGE>\nС такими родителями, не сомневаюсь, он\nвырастет сильным и счастливым."
+  },
+  {
+   "n": 419,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_CHILD_BIRTH",
+   "key": "521df6ff",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nСлышал, у тебя родился ребёнок. Поздравляю.\n<PAGE>\nС такими родителями, не сомневаюсь, он\nвырастет сильным и счастливым."
+  },
+  {
+   "n": 420,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_OTHER",
+   "key": "edbf74c2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nСлышал, ты теперь родитель. Поздравляю.\n<PAGE>\nГоворят, малыш прелестный и очень на тебя\nпохож."
+  },
+  {
+   "n": 421,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_PRESENT",
+   "key": "c09152e7",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВот. Прими, пожалуйста, в честь рождения\nмалыша. Желаю всего наилучшего вам троим."
+  },
+  {
+   "n": 422,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 423,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY_PRESENT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 424,
+   "f": 2,
+   "id": "MES_COMING_SYSTER_00",
+   "key": "6c00cafa",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nНедавно я заметил недалеко от твоей фермы\nнезнакомую юную особу. Уж не младшая ли это\nсестра?\n<PAGE>\nХо-хо-хо! Так я и думал! Братья и сёстры\nвсегда похожи больше, чем им кажется."
+  },
+  {
+   "n": 425,
+   "f": 2,
+   "id": "MES_COMING_MOTHER_00",
+   "key": "550b3880",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nНедавно я заметил недалеко от твоей фермы\nнезнакомую даму. Уж не мама ли это?\n<PAGE>\nХо-хо-хо! Так я и думал! Мать и дитя всегда\nчем-то похожи."
+  },
+  {
+   "n": 426,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 427,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 428,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 429,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 430,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 431,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 432,
+   "f": 2,
+   "id": "MES_MAN_PLAYER_BIRTHDAY_00",
+   "key": "c2131d1c",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nС днём рождения, <_____MYNAME_____>. Пусть их будет ещё много."
+  },
+  {
+   "n": 433,
+   "f": 2,
+   "id": "MES_MAN_PLAYER_BIRTHDAY_01",
+   "key": "ae6da466",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nС днём рождения, <_____MYNAME_____>. Пусть их будет ещё много.\n<PAGE>\nНемного, но у меня для тебя подарок на день\nрождения. Держи."
+  },
+  {
+   "n": 434,
+   "f": 2,
+   "id": "MES_WOMAN_PLAYER_BIRTHDAY_00",
+   "key": "c2131d1c",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nС днём рождения, <_____MYNAME_____>. Пусть их будет ещё много."
+  },
+  {
+   "n": 435,
+   "f": 2,
+   "id": "MES_WOMAN_PLAYER_BIRTHDAY_01",
+   "key": "ae6da466",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nС днём рождения, <_____MYNAME_____>. Пусть их будет ещё много.\n<PAGE>\nНемного, но у меня для тебя подарок на день\nрождения. Держи."
+  },
+  {
+   "n": 436,
+   "f": 2,
+   "id": "MES_LOVER_PLAYER_BIRTHDAY",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 437,
+   "f": 2,
+   "id": "MES_MARRIAGE_PLAYER_BIRTHDAY",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 438,
+   "f": 2,
+   "id": "MES_NO_EMPTY_BIRTHDAY",
+   "key": "b20a03d1",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Похоже, не я один дарю тебе\nподарки! Сумка вот-вот лопнет.\n<PAGE>\nПодержу у себя, пока в сумке не появится\nместо."
+  },
+  {
+   "n": 439,
+   "f": 2,
+   "id": "MES_FORGET_BIRTHDAY",
+   "key": "7eb5a493",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nА. Вижу, теперь есть место для подарка.\nДержи."
+  },
+  {
+   "n": 440,
+   "f": 2,
+   "id": "MES_TOWN_BIRTHDAY_PARTY",
+   "key": "b09ed7a3",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Сегодня день сюрпризов и секретов,\nне находишь?\n<PAGE>\nЗагляни в <GREEN>кафе у моря</GREEN> в <BLUE>13:00</BLUE>, и поймёшь, о\nчём я."
+  },
+  {
+   "n": 441,
+   "f": 2,
+   "id": "MES_BLUE_SHUTTLECOCK",
+   "key": "295195c6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЭто ведь очень важная и личная вещь, не так\nли? Не стоит хвастаться ею, как безделушкой."
+  },
+  {
+   "n": 442,
+   "f": 2,
+   "id": "MES_LOVER_BLUE_SHUTTLECOCK",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 443,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 444,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 445,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 446,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 447,
+   "f": 2,
+   "id": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 448,
+   "f": 2,
+   "id": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 449,
+   "f": 2,
+   "id": "MES_PENDANT",
+   "key": "1bf89e54",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЭтот кулон ― очень важная и личная вещь,\nразве нет? Не стоит хвастаться им, как\nбезделушкой."
+  },
+  {
+   "n": 450,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 451,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_SELECT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 452,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_SELECT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 453,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 454,
+   "f": 2,
+   "id": "MES_LOVER_PENDANT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 455,
+   "f": 2,
+   "id": "MES_MARRIAGE_PENDANT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 456,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_BLUE_SHUTTLECOCK",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 457,
+   "f": 2,
+   "id": "MES_MARRIAGE_ANGER_BLUE_SHUTTLECOCK",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 458,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_PENDANT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 459,
+   "f": 2,
+   "id": "MES_MARRIAGE_ANGER_PENDANT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_00",
+   "key": "99e096f7",
+   "ru": "(Похоже, ему сейчас не до подарков.\nЗайду попозже.)"
+  },
+  {
+   "n": 461,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_01",
+   "key": "311ec593",
+   "ru": "(Ему сегодня уже был подарок. Лучше\nприберечь это на другой день.)"
+  },
+  {
+   "n": 462,
+   "f": 2,
+   "id": "MES_WRAPPING_FLOWER",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 463,
+   "f": 2,
+   "id": "MES_WRAPPING_RICE_GRUEL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 464,
+   "f": 2,
+   "id": "MES_WRAPPING_FRUIT",
+   "key": "04fb34d9",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Неужели это особая упаковка к\nФруктовой фиесте? Как прелестно."
+  },
+  {
+   "n": 465,
+   "f": 2,
+   "id": "MES_WRAPPING_LIKE",
+   "key": "5e89341e",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Довольно сдержанный цвет\nупаковки, а? Мне лично очень нравится."
+  },
+  {
+   "n": 466,
+   "f": 2,
+   "id": "MES_WRAPPING_NORMAL",
+   "key": "3ebf99a9",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Да ещё и в упаковке? Как\nзаботливо. Ну что, можно открыть?"
+  },
+  {
+   "n": 467,
+   "f": 2,
+   "id": "MES_PRESENT_BEST",
+   "key": "2ce942d7",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nАх. Впечатляет! <BLUE><____ITEMNAME0____></BLUE> ― моё давнее любимое.\n<PAGE>\nMahalo, <_____MYNAME_____>. Всё-таки и в старости есть свои\nплюсы! Хо-хо-хо!"
+  },
+  {
+   "n": 468,
+   "f": 2,
+   "id": "MES_PRESENT_VERY",
+   "key": "b267f304",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nТак-так. Хорошее ― <BLUE><____ITEMNAME0____></BLUE>. Очень хорошее. Mahalo,\n<_____MYNAME_____>."
+  },
+  {
+   "n": 469,
+   "f": 2,
+   "id": "MES_PRESENT_LIKE",
+   "key": "67dee24d",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Это мне? Мне нравится. Mahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 470,
+   "f": 2,
+   "id": "MES_PRESENT_NORMAL",
+   "key": "b5e92d62",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Даришь это мне? Что ж, смиренно\nпринимаю. Mahalo."
+  },
+  {
+   "n": 471,
+   "f": 2,
+   "id": "MES_PRESENT_DISLIKE",
+   "key": "9afd41fe",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nХо-хо-хо... Это мне? Что ж, вежливость\nтребует принять."
+  },
+  {
+   "n": 472,
+   "f": 2,
+   "id": "MES_PRESENT_HATE",
+   "key": "e401c437",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nБатюшки! E kala mai, <_____MYNAME_____>, но не скажу, что очень\nлюблю такое: <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\nНо ты оказываешь мне честь подарком, так что\nвежливость требует принять."
+  },
+  {
+   "n": 473,
+   "f": 2,
+   "id": "MES_PRESENT_WORST",
+   "key": "a73bd1f7",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nХо-хо... Кх?! E kala mai, <_____MYNAME_____>, но нельзя ли\nубрать от меня это: <BLUE><____ITEMNAME0____></BLUE>?\n<PAGE>\nБоюсь, запах и вкус этого блюда мне всегда\nбыли крайне неприятны.\n<PAGE>\nНо... раз это от тебя, пожалуй, на этот раз\nприму."
+  },
+  {
+   "n": 474,
+   "f": 2,
+   "id": "MES_PRESENT_HUGE_VERY",
+   "key": "2d9dd3a8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nТак-так! Я очень люблю такое: <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\nДа ещё и огромное! Для меня честь получить\nтакой щедрый подарок. Mahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 475,
+   "f": 2,
+   "id": "MES_PRESENT_HUGE_LIKE",
+   "key": "def57592",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какой большой и щедрый подарок!\nMahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 476,
+   "f": 2,
+   "id": "MES_PRESENT_GOLD_VERY",
+   "key": "e0c15e6f",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nТак-так! Я очень люблю такое: <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\nА такой сверкающий подарок ― и вовсе\nщедрость. Mahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 477,
+   "f": 2,
+   "id": "MES_PRESENT_GOLD_LIKE",
+   "key": "433d6dcf",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какой впечатляюще блестящий\nподарок. Mahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 478,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_BEST",
+   "key": "426bb16d",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nАх. Впечатляет! <BLUE><____ITEMNAME0____></BLUE> ― моё давнее любимое.\n<PAGE>\nО! Так это подарок на день рождения? Mahalo,\n<_____MYNAME_____>. Какое счастье иметь таких внимательных\nдрузей."
+  },
+  {
+   "n": 479,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_VERY",
+   "key": "01b89d28",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nТак-так. Хорошее ― <BLUE><____ITEMNAME0____></BLUE>. Очень хорошее.\n<PAGE>\nО! Так это подарок на день рождения? Mahalo,\n<_____MYNAME_____>. Для меня честь."
+  },
+  {
+   "n": 480,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_LIKE",
+   "key": "50d790af",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nПодарок мне на день рождения? Хо-хо-хо!\nКак внимательно. Mahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 481,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_NORMAL",
+   "key": "e64bc6d8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nПодарок мне на день рождения? Хо-хо-хо!\nMahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 482,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_DISLIKE",
+   "key": "5ab68758",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nХо-хо-хо. Это подарок мне на день рождения?\nЧто ж, главное ― внимание."
+  },
+  {
+   "n": 483,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HATE",
+   "key": "40cc5c85",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nБатюшки! E kala mai, <_____MYNAME_____>, но не скажу, что очень\nлюблю такое: <BLUE><____ITEMNAME0____></BLUE>.\n<PAGE>\nНо ради моего дня рождения столько хлопот,\nтак что, пожалуй, вежливость требует принять."
+  },
+  {
+   "n": 484,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_WORST",
+   "key": "2b7448e6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_SAD>\r\nХо-хо... Кх?! E kala mai, <_____MYNAME_____>, но нельзя ли\nубрать от меня это: <BLUE><____ITEMNAME0____></BLUE>?\n<PAGE>\nБоюсь, запах и вкус этого блюда мне всегда\nбыли крайне неприятны.\n<PAGE>\nО? Это подарок на день рождения? Тогда,\nпожалуй, вежливость требует принять."
+  },
+  {
+   "n": 485,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HUGE_VERY",
+   "key": "6e1039f5",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nТак-так! Я очень люблю такое: <BLUE><____ITEMNAME0____></BLUE>. Размер\nпоразительный!\n<PAGE>\nКакой щедрый подарок на день рождения!\nХо-хо-хо!\n<PAGE>\nMahalo, <_____MYNAME_____>. Для меня честь."
+  },
+  {
+   "n": 486,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HUGE_LIKE",
+   "key": "b4448076",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nБатюшки! Я очень люблю такое: <BLUE><____ITEMNAME0____></BLUE>. Впечатляюще\nбольшое!\n<PAGE>\nЩедрый подарок на день рождения!\nХо-хо-хо! Mahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 487,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_GOLD_VERY",
+   "key": "f91f8c6c",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nО! Я очень люблю такое ― <BLUE><____ITEMNAME0____></BLUE>, ― а тут ещё и\nнеобычайно блестящее.\n<PAGE>\nХо-хо-хо! Очень щедрый подарок на день\nрождения, особенно раз так сверкает и сияет.\n<PAGE>\nMahalo, <_____MYNAME_____>. Для меня большая честь."
+  },
+  {
+   "n": 488,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_GOLD_LIKE",
+   "key": "d8106f61",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nБатюшки. Это блестящее ― <BLUE><____ITEMNAME0____></BLUE> ― весьма\nшикарно, а?\n<PAGE>\nЭто подарок мне на день рождения? Хо-хо-хо!\nДля меня честь. Mahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 489,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 490,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 491,
+   "f": 2,
+   "id": "MES_MARRIAGE_FLOWER_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 492,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL_RETURN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 493,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL_RETURN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 494,
+   "f": 2,
+   "id": "MES_MARRIAGE_FLOWER_FESTIVAL_RETURN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 495,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 496,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 497,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 498,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 499,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 500,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 501,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL",
+   "key": "95eb3c1a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nО! Эти фрукты мне?\n<PAGE>\n<FACE_LAUGH>Кстати, сегодня ведь Фруктовая фиеста?\nMahalo."
+  },
+  {
+   "n": 502,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 503,
+   "f": 2,
+   "id": "MES_MARRIAGE_FRUIT_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 504,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL_RETURN",
+   "key": "90d9ad01",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nПозволь ответить тем же. Эти фрукты тебе, <_____MYNAME_____>.\nMahalo."
+  },
+  {
+   "n": 505,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL_RETURN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 506,
+   "f": 2,
+   "id": "MES_MARRIAGE_FRUIT_FESTIVAL_RETURN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 507,
+   "f": 2,
+   "id": "MES_THANKS_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 508,
+   "f": 2,
+   "id": "MES_THANKS_FESTIVAL_RETURN",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 509,
+   "f": 2,
+   "id": "MES_LOVER_THANKS_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 510,
+   "f": 2,
+   "id": "MES_MARRIAGE_THANKS_FESTIVAL",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 511,
+   "f": 2,
+   "id": "MES_PUMPKIN_FESTIVAL",
+   "key": "04a6d7b0",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nО. Пудинг к Тыквенному празднику, вижу.\nХо-хо-хо! Даришь и взрослым? Любопытная\nмысль.\n<PAGE>\nЧто ж, раз уж такая доброта, с радостью\nприму. Mahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 512,
+   "f": 2,
+   "id": "MES_NO_EMPTY_FESTIVAL",
+   "key": "607df54d",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Сумка-то полна, а? Подержу у\nсебя, пока не появится место."
+  },
+  {
+   "n": 513,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_HARVEST",
+   "key": "2301868f",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nА, <_____MYNAME_____>. Вчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE> ― был очень\nвкусным.\n<PAGE>\nТигре тоже очень обрадовался. Сказал, что это\nотличный продукт для готовки."
+  },
+  {
+   "n": 514,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_COOKING",
+   "key": "ffe6c915",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nА, <_____MYNAME_____>. Вчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE> ― был просто\nобъедение.\n<PAGE>\nТолько ему не говори, но твоё блюдо разожгло\nв Тигре дух соперничества. Теперь он твёрдо\nрешил приготовить что-нибудь не хуже."
+  },
+  {
+   "n": 515,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FLOWER",
+   "key": "33107bcf",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, спасибо за вчерашний чудесный цветок.\nMahalo.\n<PAGE>\nПить хороший чай, любуясь цветком, ―\nпрекрасный способ провести день."
+  },
+  {
+   "n": 516,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_PRODUCT",
+   "key": "8c30d578",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nСпасибо за вчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE>, <_____MYNAME_____>. Mahalo.\n<PAGE>\nЯ не очень разбираюсь в таких тонкостях, но\nвидно, что качество очень высокое."
+  },
+  {
+   "n": 517,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FOOD",
+   "key": "3b902a3b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВчерашний подарок ― <BLUE><____ITEMNAME0____></BLUE> ― был очень вкусным.\n<PAGE>\nЯ поделился с Тигре. Редко видел, чтобы он\nчто-то так быстро съедал!"
+  },
+  {
+   "n": 518,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FLOWER",
+   "key": "cfee8f0f",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВчерашний цветок ― очень трогательный жест.\nОн напомнил мне молодость.\n<PAGE>\nХо-хо-хо! Mahalo, <_____MYNAME_____>."
+  },
+  {
+   "n": 519,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_OTHER",
+   "key": "de98004a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, вчерашний подарок был очень внимательным.\nMahalo.\n<PAGE>\nУ тебя талант радовать людей."
+  },
+  {
+   "n": 520,
+   "f": 2,
+   "id": "MES_RETURN_PRESENT",
+   "key": "728d6399",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>, прими, пожалуйста. Это меньшее, чем я могу\nотплатить за твои подарки."
+  },
+  {
+   "n": 521,
+   "f": 2,
+   "id": "MES_LOVER_RETURN_PRESENT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 522,
+   "f": 2,
+   "id": "MES_MARRIAGE_RETURN_PRESENT",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 523,
+   "f": 2,
+   "id": "MES_Tosa",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 524,
+   "f": 2,
+   "id": "MES_Great_Pyrenees",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 525,
+   "f": 2,
+   "id": "MES_Bernese",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 526,
+   "f": 2,
+   "id": "MES_Weimaraner",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 527,
+   "f": 2,
+   "id": "MES_Husky",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 528,
+   "f": 2,
+   "id": "MES_Doberman",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 529,
+   "f": 2,
+   "id": "MES_Shepherd",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 530,
+   "f": 2,
+   "id": "MES_Bull_Terrier",
+   "key": "3e941132",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nБатюшки. Твоя собака выглядит такой\nсчастливой. Похоже, она в восторге просто от\nпрогулки с тобой."
+  },
+  {
+   "n": 531,
+   "f": 2,
+   "id": "MES_Tibetan",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 532,
+   "f": 2,
+   "id": "MES_Border_Collie",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 533,
+   "f": 2,
+   "id": "MES_Jack_Russell_Terrier",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 534,
+   "f": 2,
+   "id": "MES_Dachshund",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 535,
+   "f": 2,
+   "id": "MES_Beagle",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 536,
+   "f": 2,
+   "id": "MES_Shiba",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 537,
+   "f": 2,
+   "id": "MES_Chihuahua",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 538,
+   "f": 2,
+   "id": "MES_Poodle",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 539,
+   "f": 2,
+   "id": "MES_CatA",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 540,
+   "f": 2,
+   "id": "MES_CatB",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 541,
+   "f": 2,
+   "id": "MES_CatC",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 542,
+   "f": 2,
+   "id": "MES_CatD",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 543,
+   "f": 2,
+   "id": "MES_CatE",
+   "key": "61d49f7b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nПрелестная чёрная кошка. Гладкая шерсть так и\nблестит, как океанские волны под луной."
+  },
+  {
+   "n": 544,
+   "f": 2,
+   "id": "MES_CatLongHairA",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 545,
+   "f": 2,
+   "id": "MES_CatLongHairB",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 546,
+   "f": 2,
+   "id": "MES_CatLongHairC",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 547,
+   "f": 2,
+   "id": "MES_CatLongHairD",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 548,
+   "f": 2,
+   "id": "MES_CatLongHairE",
+   "key": "645eeb45",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nКакая милая белая кошка! А ты знаешь, что у\nменя тоже живёт белая кошка? Её зовут Рене.\n<PAGE>\nОна прелестный пушистый комочек. Мы очень\nпривязались друг к другу."
+  },
+  {
+   "n": 549,
+   "f": 2,
+   "id": "MES_KapibaraA",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 550,
+   "f": 2,
+   "id": "MES_KapibaraB",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 551,
+   "f": 2,
+   "id": "MES_Cacatua",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 552,
+   "f": 2,
+   "id": "MES_Turtle",
+   "key": "4df7a607",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nИстинный воин спокоен и дисциплинирован.\nМожет, эта черепаха ― почитаемый воин\nсреди своих."
+  },
+  {
+   "n": 553,
+   "f": 2,
+   "id": "MES_Shoebill",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 554,
+   "f": 2,
+   "id": "MES_Eagle",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 555,
+   "f": 2,
+   "id": "MES_Kiji",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 556,
+   "f": 2,
+   "id": "MES_RainbowBird",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 557,
+   "f": 2,
+   "id": "MES_Monkey",
+   "key": "e921795d",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Вижу, у тебя озорная обезьянка.\n<PAGE>\nПризнаюсь, она немножко напоминает мне\nШалька. Очень мила, правда."
+  },
+  {
+   "n": 558,
+   "f": 2,
+   "id": "MES_Verreauxi",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 559,
+   "f": 2,
+   "id": "MES_RacoonDog",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 560,
+   "f": 2,
+   "id": "MES_Grizzly",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 561,
+   "f": 2,
+   "id": "MES_Ermine",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 562,
+   "f": 2,
+   "id": "MES_Fox",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 563,
+   "f": 2,
+   "id": "MES_Sparrow",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 564,
+   "f": 2,
+   "id": "MES_Chicken",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 565,
+   "f": 2,
+   "id": "MES_Chicken_Huge",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 566,
+   "f": 2,
+   "id": "MES_Silky",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 567,
+   "f": 2,
+   "id": "MES_Silky_Huge",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 568,
+   "f": 2,
+   "id": "MES_Quail",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 569,
+   "f": 2,
+   "id": "MES_Quail_Huge",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 570,
+   "f": 2,
+   "id": "MES_AngoraRabbitA",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 571,
+   "f": 2,
+   "id": "MES_AngoraRabbitA_Huge",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 572,
+   "f": 2,
+   "id": "MES_AngoraRabbitB",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 573,
+   "f": 2,
+   "id": "MES_AngoraRabbitB_Huge",
+   "key": "02940073",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какое дружелюбное на вид\nживотное."
+  },
+  {
+   "n": 574,
+   "f": 2,
+   "id": "MES_TALK_0",
+   "key": "acbd12b3",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nМы с Тигре переехали в Лулукоко из далёкой\nстраны несколько лет назад. Люди здесь очень\nдобры и гостеприимны."
+  },
+  {
+   "n": 575,
+   "f": 2,
+   "id": "MES_TALK_1",
+   "key": "02dbe153",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Ох, батюшки. Похоже, сегодня я\nопять попался на проделку Шалька."
+  },
+  {
+   "n": 576,
+   "f": 2,
+   "id": "MES_TALK_2",
+   "key": "540f9c0b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nМоя дочь до сих пор живёт на родине. Она\nочень встревожилась, когда я сказал, что\nперееду сюда.\n<PAGE>\nЯ собирался приехать один, но она настояла,\nчтобы я хотя бы взял с собой Тигре в помощь."
+  },
+  {
+   "n": 577,
+   "f": 2,
+   "id": "MES_TALK_3",
+   "key": "dc5e87f3",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nВидишь ли, моя покойная жена родилась в\nэтом городе.\n<PAGE>\nЯ давно думал, что хотел бы и сам здесь\nпожить."
+  },
+  {
+   "n": 578,
+   "f": 2,
+   "id": "MES_TALK_4",
+   "key": "634731ba",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТигре, похоже, очень торопится вырасти.\n<PAGE>\nНе нужно так стараться. Слишком быстро\nстареть ― никакой пользы."
+  },
+  {
+   "n": 579,
+   "f": 2,
+   "id": "MES_TALK_5",
+   "key": "d9923f58",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХозяйка гостиницы Тототара была близкой\nподругой моей покойной жены.\n<PAGE>\nДаже когда мы с женой осели на моей родине,\nони регулярно переписывались."
+  },
+  {
+   "n": 580,
+   "f": 2,
+   "id": "MES_TALK_6",
+   "key": "bf016bd4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nМы с Тототарой любим говорить о многом... О\nвоспоминаниях о жене. О молодости. О детях и\nвнуках.\n<PAGE>\nКажется, мы каждый день сидим и болтаем за\nчаем, а темы всё не кончаются."
+  },
+  {
+   "n": 581,
+   "f": 2,
+   "id": "MES_TALK_7",
+   "key": "d8ba8220",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЗахау ― превосходный рыбак. Он постоянно\nучит меня новым приёмам, чтобы я освоил\nискусство рыбалки.\n<PAGE>\nОн знает, какая рыба на каком мелководье и\nкакую наживку брать... На любой мой вопрос у\nнего есть ответ."
+  },
+  {
+   "n": 582,
+   "f": 2,
+   "id": "MES_TALK_8",
+   "key": "9d162c65",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nА ты знаешь, что Каолила когда-то занималась\nбоевыми искусствами? Она и сейчас иногда\nтренируется.\n<PAGE>\n<FACE_LAUGH>Уже по одной походке видно, что она очень\nискусна."
+  },
+  {
+   "n": 583,
+   "f": 2,
+   "id": "MES_TALK_9",
+   "key": "3b9f0727",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nПочему я всегда улыбаюсь и смеюсь?\nХо-хо-хо! Привычка со времён королевской\nстражи, сказал бы я.\n<PAGE>\nЧтобы не тревожить знать, я всегда следил за\nтем, чтобы улыбаться."
+  },
+  {
+   "n": 584,
+   "f": 2,
+   "id": "MES_TALK_10",
+   "key": "c94a70ac",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nОтец Тигре когда-то был моим подчинённым в\nкоролевской страже.\n<PAGE>\nОн и сейчас стоит рядом с королём нашей\nстраны как его личный телохранитель.\n<PAGE>\nНаверное, поэтому Тигре всё твердит, что тоже\nхочет однажды пойти по моим стопам."
+  },
+  {
+   "n": 585,
+   "f": 2,
+   "id": "MES_TALK_11",
+   "key": "365ea0e7",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nНа днях получил письмо от внучки. Это старшая\nсестра Тигре.\n<PAGE>\nПишет, что дома все счастливы и здоровы.\nОчень рад слышать."
+  },
+  {
+   "n": 586,
+   "f": 2,
+   "id": "MES_TALK_12",
+   "key": "eab57a9b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСтаршая сестра Тигре никогда не была\nмастерицей готовить, но шьёт она\nзамечательно.\n<PAGE>\nДай ей иголку с ниткой ― и не успеешь\nоглянуться, как она вышивает платок или шьёт\nновый наряд."
+  },
+  {
+   "n": 587,
+   "f": 2,
+   "id": "MES_TALK_13",
+   "key": "35d4fadb",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nИлука делает чудесные напитки. Должен\nсказать, в балансе вкусов она очень искусна.\n<PAGE>\nОсобенно хороши её смеси чёрного чая. А когда\nхочется чего-то нового, у неё всегда есть\nхороший совет."
+  },
+  {
+   "n": 588,
+   "f": 2,
+   "id": "MES_TALK_14",
+   "key": "083ff637",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСилука ― необычайно талантливый повар.\n<PAGE>\nДаже Тигре просит добавки, когда удаётся\nпопробовать её стряпню."
+  },
+  {
+   "n": 589,
+   "f": 2,
+   "id": "MES_TALK_15",
+   "key": "1ba58639",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nВнук Тототары, Лудус, очень надёжный и\nответственный юноша.\n<PAGE>\nОн почти со всем справляется сам, но при нужде\nумеет сплотить всех ради общего дела."
+  },
+  {
+   "n": 590,
+   "f": 2,
+   "id": "MES_TALK_16",
+   "key": "e5dbf9a1",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nНа рыбалке я всегда стараюсь поймать самую\nбольшую рыбу, какую только можно.\nЕстественно."
+  },
+  {
+   "n": 591,
+   "f": 2,
+   "id": "MES_TALK_17",
+   "key": "1eb0825b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nИногда я ныряю за жемчугом у пляжа. Вода\nздесь для этого идеальна ― очень чистая и\nпрозрачная.\n<PAGE>\nХм? Зачем мне жемчуг? Хо-хо-хо! Чтобы\nсделать подарок моей покойной жене, конечно."
+  },
+  {
+   "n": 592,
+   "f": 2,
+   "id": "MES_TALK_18",
+   "key": "45e3a42f",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nНа моей родине почва не подходит для\nкорнеплодов вроде репы. Мне до сих пор\nнепривычно их есть."
+  },
+  {
+   "n": 593,
+   "f": 2,
+   "id": "MES_TALK_19",
+   "key": "82932df2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЯ удивился, когда Тигре сказал, что учится\nиграть на укулеле.\n<PAGE>\n<FACE_LAUGH>Мне очень радостно смотреть, как он с каждым\nднём играет всё лучше.\n<PAGE>\nДаже Захау говорит, что он играет прекрасно.\nЯ очень горжусь успехами внука."
+  },
+  {
+   "n": 594,
+   "f": 2,
+   "id": "MES_TALK_20",
+   "key": "ff4ae22b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЧай успокаивает душу. Зелёный, чёрный,\nкрасный... Чаёв много, но все умиротворяют."
+  },
+  {
+   "n": 595,
+   "f": 2,
+   "id": "MES_TALK_21",
+   "key": "671a23ab",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nМногие звали меня учителем, но когда Каолила\nзовёт меня учителем, или “куму”, как она\nговорит, это немного непривычно.\n<PAGE>\nВедь на родине я учил только королевскую\nстражу, и там были одни мужчины."
+  },
+  {
+   "n": 596,
+   "f": 2,
+   "id": "MES_TALK_22",
+   "key": "7806181f",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЗдесь в изобилии цветёт ванильная орхидея.\n<PAGE>\nА ты знаешь, что хоть её сушёные стручки\nсильно пахнут, сами цветы почти без запаха?"
+  },
+  {
+   "n": 597,
+   "f": 2,
+   "id": "MES_TALK_23",
+   "key": "ef7542cd",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТигре часто помогает Лудусу в его делах. Это\nТигре попросился, а не наоборот.\n<PAGE>\nЯ без колебаний доверяю внука Лудусу, к тому\nже это хорошая возможность для Тигре узнать\nи испытать новое."
+  },
+  {
+   "n": 598,
+   "f": 2,
+   "id": "MES_TALK_24",
+   "key": "fb0907ce",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>, а каково было в твоём родном городе?"
+  },
+  {
+   "n": 599,
+   "f": 2,
+   "id": "MES_TALK_25",
+   "key": "9719e749",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nОднажды в бурю к моему дому пришла белая\nкошка, чтобы укрыться от дождя.\n<PAGE>\nВидимо, ей понравилось, потому что она так и\nосталась. Я назвал её Рене."
+  },
+  {
+   "n": 600,
+   "f": 2,
+   "id": "MES_TALK_26",
+   "key": "f42f7406",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Нашёл сегодня интересную руду.\nЕсть в поиске камней и руды что-то особенно\nволнующее."
+  },
+  {
+   "n": 601,
+   "f": 2,
+   "id": "MES_TALK_27",
+   "key": "bcb912f5",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nАльма сказала, что ей нравится моя борода.\nВсегда приятно получить комплимент от дамы.\nХо-хо-хо!"
+  },
+  {
+   "n": 602,
+   "f": 2,
+   "id": "MES_TALK_28",
+   "key": "046944b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХм? Этот шрам на руке? О, ну знаешь, как\nбывает. Много-много лет назад случилась\nнебольшая неприятность на работе. Хо-хо-хо!"
+  },
+  {
+   "n": 603,
+   "f": 2,
+   "id": "MES_TALK_29",
+   "key": "83380424",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nРене очень умная кошка. Особенно хорошо\nнаходит вещи.\n<PAGE>\nЕсли я случайно уроню рыболовный крючок,\nона всегда быстро его находит."
+  },
+  {
+   "n": 604,
+   "f": 2,
+   "id": "MES_TALK_30",
+   "key": "77ede37f",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСегодня, пожалуй, выпью чай, что Тацуми\nпривёз мне из Цуюкусы.\n<PAGE>\nЮный Тацуми может казаться беззаботным, но\nон необычайно наблюдателен. Не стоит его\nнедооценивать."
+  },
+  {
+   "n": 605,
+   "f": 2,
+   "id": "MES_TALK_31",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 606,
+   "f": 2,
+   "id": "MES_TALK_32",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 607,
+   "f": 2,
+   "id": "MES_TALK_33",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 608,
+   "f": 2,
+   "id": "MES_TALK_34",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 609,
+   "f": 2,
+   "id": "MES_TALK_35",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 610,
+   "f": 2,
+   "id": "MES_TALK_36",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 611,
+   "f": 2,
+   "id": "MES_TALK_37",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 612,
+   "f": 2,
+   "id": "MES_TALK_38",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 613,
+   "f": 2,
+   "id": "MES_TALK_39",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 614,
+   "f": 2,
+   "id": "MES_TALK_40",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 615,
+   "f": 2,
+   "id": "MES_TALK_41",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 616,
+   "f": 2,
+   "id": "MES_TALK_42",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 617,
+   "f": 2,
+   "id": "MES_TALK_43",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 618,
+   "f": 2,
+   "id": "MES_TALK_44",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 619,
+   "f": 2,
+   "id": "MES_TALK_45",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 620,
+   "f": 2,
+   "id": "MES_TALK_46",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 621,
+   "f": 2,
+   "id": "MES_TALK_47",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 622,
+   "f": 2,
+   "id": "MES_TALK_48",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 623,
+   "f": 2,
+   "id": "MES_TALK_49",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 624,
+   "f": 2,
+   "id": "MES_TALK_50",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 625,
+   "f": 2,
+   "id": "MES_TALK_51",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 626,
+   "f": 2,
+   "id": "MES_TALK_52",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 627,
+   "f": 2,
+   "id": "MES_TALK_53",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 628,
+   "f": 2,
+   "id": "MES_TALK_54",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 629,
+   "f": 2,
+   "id": "MES_TALK_55",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 630,
+   "f": 2,
+   "id": "MES_TALK_56",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 631,
+   "f": 2,
+   "id": "MES_TALK_57",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 632,
+   "f": 2,
+   "id": "MES_TALK_58",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 633,
+   "f": 2,
+   "id": "MES_TALK_59",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 634,
+   "f": 2,
+   "id": "MES_TALK_60",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 635,
+   "f": 2,
+   "id": "MES_TALK_61",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 636,
+   "f": 2,
+   "id": "MES_FASHION_NOT_MATCH_HOT",
+   "key": "4e5d1b05",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Вот это наряд! Но точно не\nслишком жарко для этого города?\n<PAGE>\nБыть модным ― это хорошо, но не до такой\nже степени, чтобы мучиться."
+  },
+  {
+   "n": 637,
+   "f": 2,
+   "id": "MES_FASHION_NOT_MATCH_COOL",
+   "key": "0bb9a950",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Вот это наряд! Но точно не\nслишком холодно для такой погоды?\n<PAGE>\nМолодым, может, и ничего, но смотри не\nпростудись."
+  },
+  {
+   "n": 638,
+   "f": 2,
+   "id": "MES_FASHION_BASICBOYWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 639,
+   "f": 2,
+   "id": "MES_FASHION_BASICGIRLWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 640,
+   "f": 2,
+   "id": "MES_FASHION_SALOPETTEBOY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 641,
+   "f": 2,
+   "id": "MES_FASHION_SALOPETTEGIRL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 642,
+   "f": 2,
+   "id": "MES_FASHION_SUSPENDERS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 643,
+   "f": 2,
+   "id": "MES_FASHION_OVERALL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 644,
+   "f": 2,
+   "id": "MES_FASHION_JINBEIBLUE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 645,
+   "f": 2,
+   "id": "MES_FASHION_JINBEIBLACK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 646,
+   "f": 2,
+   "id": "MES_FASHION_MATABIKI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 647,
+   "f": 2,
+   "id": "MES_FASHION_MINO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 648,
+   "f": 2,
+   "id": "MES_FASHION_SIMPLENORAGI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 649,
+   "f": 2,
+   "id": "MES_FASHION_SAOTOME",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 650,
+   "f": 2,
+   "id": "MES_FASHION_KAPPOUGI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 651,
+   "f": 2,
+   "id": "MES_FASHION_WILDFARMER",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 652,
+   "f": 2,
+   "id": "MES_FASHION_WORKINGWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 653,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 654,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPBLUE",
+   "key": "1035fd87",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Этот наряд тебе к лицу.\n<PAGE>\nЭтот оттенок синего не уступает красотой небу\nили морю. Одного взгляда хватает, чтобы на\nсердце стало спокойно."
+  },
+  {
+   "n": 655,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPCASUAL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 656,
+   "f": 2,
+   "id": "MES_FASHION_WORKINGSHORTPANTS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 657,
+   "f": 2,
+   "id": "MES_FASHION_CAPECASUAL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 658,
+   "f": 2,
+   "id": "MES_FASHION_KONOHANAWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 659,
+   "f": 2,
+   "id": "MES_FASHION_KUNGFUFARMER",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 660,
+   "f": 2,
+   "id": "MES_FASHION_BLUEBELLWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 661,
+   "f": 2,
+   "id": "MES_FASHION_WARKINGCHINA",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 662,
+   "f": 2,
+   "id": "MES_FASHION_DOTCULOTTEBLUE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 663,
+   "f": 2,
+   "id": "MES_FASHION_DOTCULOTTERED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 664,
+   "f": 2,
+   "id": "MES_FASHION_GUNMAN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 665,
+   "f": 2,
+   "id": "MES_FASHION_COWBOYSTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 666,
+   "f": 2,
+   "id": "MES_FASHION_COWSPOTCOWBOY",
+   "key": "24078df4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nБатюшки! Этот топ в коровью расцветку прямо\nсоздан для фермера вроде тебя, <_____MYNAME_____>."
+  },
+  {
+   "n": 667,
+   "f": 2,
+   "id": "MES_FASHION_COWGIRL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 668,
+   "f": 2,
+   "id": "MES_FASHION_FRINGECASUAL",
+   "key": "c0c8b8e3",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nСиний цвет этого наряда приносит покой в\nсердце. По-моему, тебе очень идёт."
+  },
+  {
+   "n": 669,
+   "f": 2,
+   "id": "MES_FASHION_KNICKERBOCKERS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 670,
+   "f": 2,
+   "id": "MES_FASHION_CHECKVEST",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 671,
+   "f": 2,
+   "id": "MES_FASHION_GREENCARDIGAN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 672,
+   "f": 2,
+   "id": "MES_FASHION_GILLETVEST",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 673,
+   "f": 2,
+   "id": "MES_FASHION_POLOSHIRTSTYLE",
+   "key": "82de7daf",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nОчень взрослый наряд, <_____MYNAME_____>. Кстати о взрослости:\nТигре так и рвётся вырасти, а?\n<PAGE>\nХотелось бы, чтобы он не спешил и насладился\nдетством, пока можно смеяться, плакать и\nиграть без забот."
+  },
+  {
+   "n": 674,
+   "f": 2,
+   "id": "MES_FASHION_SPRINGAPRONSKIRT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 675,
+   "f": 2,
+   "id": "MES_FASHION_COUNTRYONEPIECE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 676,
+   "f": 2,
+   "id": "MES_FASHION_APRONDRESS",
+   "key": "023df979",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТвой наряд очень яркий и милый. Но\nпочему-то от него хочется испечь торт...\n<PAGE>\nИнтересно, почему..."
+  },
+  {
+   "n": 677,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERAPRONDRESS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 678,
+   "f": 2,
+   "id": "MES_FASHION_MAXIAPRONDRESS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 679,
+   "f": 2,
+   "id": "MES_FASHION_YUKATABOYBLUE",
+   "key": "02775272",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nКакой чудесный наряд. Будто смотрю на\nШёлковый путь тёплой летней ночью."
+  },
+  {
+   "n": 680,
+   "f": 2,
+   "id": "MES_FASHION_YUKATABOYRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 681,
+   "f": 2,
+   "id": "MES_FASHION_OKAPPIKI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 682,
+   "f": 2,
+   "id": "MES_FASHION_KABUKIFASHION",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 683,
+   "f": 2,
+   "id": "MES_FASHION_HAIKARASANRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 684,
+   "f": 2,
+   "id": "MES_FASHION_HAIKARASANGREEN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 685,
+   "f": 2,
+   "id": "MES_FASHION_YUKATAGIRLBLUE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 686,
+   "f": 2,
+   "id": "MES_FASHION_YUKATAGIRLRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 687,
+   "f": 2,
+   "id": "MES_FASHION_OLDTOWNSTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 688,
+   "f": 2,
+   "id": "MES_FASHION_NADESHIKOSTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 689,
+   "f": 2,
+   "id": "MES_FASHION_KYUDOWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 690,
+   "f": 2,
+   "id": "MES_FASHION_FARMERTSHIRT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 691,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNTANKTOP",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 692,
+   "f": 2,
+   "id": "MES_FASHION_WHITEPONCHO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 693,
+   "f": 2,
+   "id": "MES_FASHION_ARABIANSTYLE",
+   "key": "6426eb1a",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Очень изысканный наряд.\nПо-моему, тебе идёт."
+  },
+  {
+   "n": 694,
+   "f": 2,
+   "id": "MES_FASHION_RESORTCASUAL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 695,
+   "f": 2,
+   "id": "MES_FASHION_HULADANCEBOY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 696,
+   "f": 2,
+   "id": "MES_FASHION_TUBETOP",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 697,
+   "f": 2,
+   "id": "MES_FASHION_HULADANCEGIRL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 698,
+   "f": 2,
+   "id": "MES_FASHION_REDPONCHO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 699,
+   "f": 2,
+   "id": "MES_FASHION_TUNICGOLD",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 700,
+   "f": 2,
+   "id": "MES_FASHION_TUNICSILVER",
+   "key": "3fb398f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nОчень хороший наряд. Напоминает море. Ты\nлюбишь море, <_____MYNAME_____>?\n<PAGE>\nЕсли ещё не доводилось, советую понырять за\nжемчугом. Шум волн под водой очень\nумиротворяет."
+  },
+  {
+   "n": 701,
+   "f": 2,
+   "id": "MES_FASHION_BLUEWHITENOSLEEVE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 702,
+   "f": 2,
+   "id": "MES_FASHION_QUILTWEAR",
+   "key": "8118e3f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЭтот наряд тебе идёт. Шарф и юбка в тон ―\nвесьма изысканно."
+  },
+  {
+   "n": 703,
+   "f": 2,
+   "id": "MES_FASHION_YELLOWSWEATER",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 704,
+   "f": 2,
+   "id": "MES_FASHION_COOLVESTWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 705,
+   "f": 2,
+   "id": "MES_FASHION_WHITEJACKET",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 706,
+   "f": 2,
+   "id": "MES_FASHION_AQUACOAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 707,
+   "f": 2,
+   "id": "MES_FASHION_RIDINGCLOTHESBLUE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 708,
+   "f": 2,
+   "id": "MES_FASHION_RIDINGCLOTHESRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 709,
+   "f": 2,
+   "id": "MES_FASHION_SCHWARZCOAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 710,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKCOAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 711,
+   "f": 2,
+   "id": "MES_FASHION_NOBLEJACKET",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 712,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERSKIRT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 713,
+   "f": 2,
+   "id": "MES_FASHION_DOTSKIRT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 714,
+   "f": 2,
+   "id": "MES_FASHION_CLASSICSTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 715,
+   "f": 2,
+   "id": "MES_FASHION_ELEGANTONEPIECE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 716,
+   "f": 2,
+   "id": "MES_FASHION_CREAMONEPIECE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 717,
+   "f": 2,
+   "id": "MES_FASHION_RAINCOAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 718,
+   "f": 2,
+   "id": "MES_FASHION_BUTTONDRESS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 719,
+   "f": 2,
+   "id": "MES_FASHION_HIGHWAISTSKIRT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 720,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKDRESS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 721,
+   "f": 2,
+   "id": "MES_FASHION_MODERNKIMONO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 722,
+   "f": 2,
+   "id": "MES_FASHION_AKINDOAOTAKE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 723,
+   "f": 2,
+   "id": "MES_FASHION_AKINDOYANAGI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 724,
+   "f": 2,
+   "id": "MES_FASHION_SAMURAISTYLE",
+   "key": "8bd34c3f",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Очень солидный наряд. Смею\nсказать, в нём любой покажется важной\nперсоной."
+  },
+  {
+   "n": 725,
+   "f": 2,
+   "id": "MES_FASHION_PLAYBOYSTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 726,
+   "f": 2,
+   "id": "MES_FASHION_OMMYOJI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 727,
+   "f": 2,
+   "id": "MES_FASHION_SNOWKIMONO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 728,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERKIMONO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 729,
+   "f": 2,
+   "id": "MES_FASHION_UROKOKIMONO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 730,
+   "f": 2,
+   "id": "MES_FASHION_KIMONODRESS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 731,
+   "f": 2,
+   "id": "MES_FASHION_KNEEHIGHKIMONO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 732,
+   "f": 2,
+   "id": "MES_FASHION_MICHIYUKICOAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 733,
+   "f": 2,
+   "id": "MES_FASHION_GREENHOODIE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 734,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICSTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 735,
+   "f": 2,
+   "id": "MES_FASHION_RESORTFORMAL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 736,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNSTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 737,
+   "f": 2,
+   "id": "MES_FASHION_ASYMMETRYSKIRT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 738,
+   "f": 2,
+   "id": "MES_FASHION_FRILLSKIRT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 739,
+   "f": 2,
+   "id": "MES_FASHION_RESORTONEPIECEGREEN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 740,
+   "f": 2,
+   "id": "MES_FASHION_RESORTONEPIECERED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 741,
+   "f": 2,
+   "id": "MES_FASHION_SARIBLUE",
+   "key": "0530a982",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nУзор на этом наряде очень своеобразный и\nмилый, а прекрасный синий цвет так и\nпритягивает взгляд."
+  },
+  {
+   "n": 742,
+   "f": 2,
+   "id": "MES_FASHION_SARIYELLOW",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 743,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICJADE",
+   "key": "871e00f1",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nЕщё один гармоничный наряд, <_____MYNAME_____>. Всегда с\nнетерпением жду, когда увижу на тебе новинки\nмоды."
+  },
+  {
+   "n": 744,
+   "f": 2,
+   "id": "MES_FASHION_WILDROCKER",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 745,
+   "f": 2,
+   "id": "MES_FASHION_HUIPIL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 746,
+   "f": 2,
+   "id": "MES_FASHION_NORDICDRESSPINK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 747,
+   "f": 2,
+   "id": "MES_FASHION_NORDICDRESSBLUE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 748,
+   "f": 2,
+   "id": "MES_FASHION_ALPSSKIRT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 749,
+   "f": 2,
+   "id": "MES_FASHION_GOTHICSTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 750,
+   "f": 2,
+   "id": "MES_FASHION_RUBYREDCHINA",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 751,
+   "f": 2,
+   "id": "MES_FASHION_SAPPHIRECHINA",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 752,
+   "f": 2,
+   "id": "MES_FASHION_SNOWCOAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 753,
+   "f": 2,
+   "id": "MES_FASHION_DRACULACLOAK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 754,
+   "f": 2,
+   "id": "MES_FASHION_PUMPKINSTYE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 755,
+   "f": 2,
+   "id": "MES_FASHION_EUROPEANARMOR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 756,
+   "f": 2,
+   "id": "MES_FASHION_CLOWNWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 757,
+   "f": 2,
+   "id": "MES_FASHION_COCKWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 758,
+   "f": 2,
+   "id": "MES_FASHION_BUTLERWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 759,
+   "f": 2,
+   "id": "MES_FASHION_MAIDROYAL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 760,
+   "f": 2,
+   "id": "MES_FASHION_KUNOICHI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 761,
+   "f": 2,
+   "id": "MES_FASHION_NINJASTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 762,
+   "f": 2,
+   "id": "MES_FASHION_HIBAKAMA",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 763,
+   "f": 2,
+   "id": "MES_FASHION_SMITHWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 764,
+   "f": 2,
+   "id": "MES_FASHION_HAPPI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 765,
+   "f": 2,
+   "id": "MES_FASHION_HAPPIGIRL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 766,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTTUXEDO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 767,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTDRESS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 768,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIHAORI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 769,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 770,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORMAN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 771,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORLADY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 772,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKITOWNBOY",
+   "key": "2ecbc140",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Какой у тебя приметный цвет\nверха. Можно спросить, где такой взять?"
+  },
+  {
+   "n": 773,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKITOWNGIRL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 774,
+   "f": 2,
+   "id": "MES_FASHION_REGERWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 775,
+   "f": 2,
+   "id": "MES_FASHION_MENOUWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 776,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECATBODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 777,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEDOGBODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 778,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEBEARBODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 779,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPANDABODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 780,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPENGUINBODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 781,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECOWBODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 782,
+   "f": 2,
+   "id": "MES_FASHION_POSTMANWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 783,
+   "f": 2,
+   "id": "MES_FASHION_DOCTORWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 784,
+   "f": 2,
+   "id": "MES_FASHION_CHASERWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 785,
+   "f": 2,
+   "id": "MES_FASHION_APPRENTICEWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 786,
+   "f": 2,
+   "id": "MES_FASHION_CRAFTMANWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 787,
+   "f": 2,
+   "id": "MES_FASHION_FLORISTWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 788,
+   "f": 2,
+   "id": "MES_FASHION_TEAGIRLWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 789,
+   "f": 2,
+   "id": "MES_FASHION_TEACHERWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 790,
+   "f": 2,
+   "id": "MES_FASHION_TWIN1WEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 791,
+   "f": 2,
+   "id": "MES_FASHION_TWIN2WEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 792,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGMAN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 793,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGLADY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 794,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGLADY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 795,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGMAN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 796,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGMAN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 797,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGLADY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 798,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBROWN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 799,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBLACK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 800,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEWHITE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 801,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBLUE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 802,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBROWN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 803,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBLACK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 804,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBLUE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 805,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 806,
+   "f": 2,
+   "id": "MES_FASHION_COWGIRLHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 807,
+   "f": 2,
+   "id": "MES_FASHION_STRAWHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 808,
+   "f": 2,
+   "id": "MES_FASHION_KASAHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 809,
+   "f": 2,
+   "id": "MES_FASHION_HOKKAMURI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 810,
+   "f": 2,
+   "id": "MES_FASHION_HACHIMAKI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 811,
+   "f": 2,
+   "id": "MES_FASHION_TROPICAL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 812,
+   "f": 2,
+   "id": "MES_FASHION_KANKANHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 813,
+   "f": 2,
+   "id": "MES_FASHION_KANKANHATWHITE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 814,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNSTRAWHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 815,
+   "f": 2,
+   "id": "MES_FASHION_DARKBROWNSTRAWHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 816,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERCROWNWHITE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 817,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERCROWNRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 818,
+   "f": 2,
+   "id": "MES_FASHION_ORNAMENTFEATHER",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 819,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICHEADBAND",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 820,
+   "f": 2,
+   "id": "MES_FASHION_KOSAKHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 821,
+   "f": 2,
+   "id": "MES_FASHION_BERET",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 822,
+   "f": 2,
+   "id": "MES_FASHION_KNITCAP",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 823,
+   "f": 2,
+   "id": "MES_FASHION_TOPHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 824,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 825,
+   "f": 2,
+   "id": "MES_FASHION_GOGGLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 826,
+   "f": 2,
+   "id": "MES_FASHION_GOTHICHEADBAND",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 827,
+   "f": 2,
+   "id": "MES_FASHION_GORGEOUSHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 828,
+   "f": 2,
+   "id": "MES_FASHION_ELEGANTHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 829,
+   "f": 2,
+   "id": "MES_FASHION_RIBBONPURPLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 830,
+   "f": 2,
+   "id": "MES_FASHION_RIBBONRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 831,
+   "f": 2,
+   "id": "MES_FASHION_BONNET",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 832,
+   "f": 2,
+   "id": "MES_FASHION_BENIKANZASHI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 833,
+   "f": 2,
+   "id": "MES_FASHION_FUJIKANZASHI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 834,
+   "f": 2,
+   "id": "MES_FASHION_BEKKOUKANZASHI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 835,
+   "f": 2,
+   "id": "MES_FASHION_GORGEOUSKANZASHI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 836,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGYELLOW",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 837,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 838,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGWHITE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 839,
+   "f": 2,
+   "id": "MES_FASHION_MAIDHEADBAND",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 840,
+   "f": 2,
+   "id": "MES_FASHION_CROWNHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 841,
+   "f": 2,
+   "id": "MES_FASHION_ONIMASK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 842,
+   "f": 2,
+   "id": "MES_FASHION_FOXMASK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 843,
+   "f": 2,
+   "id": "MES_FASHION_NINJAHOOD",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 844,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 845,
+   "f": 2,
+   "id": "MES_FASHION_SOFTTOYCAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 846,
+   "f": 2,
+   "id": "MES_FASHION_WITCHHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 847,
+   "f": 2,
+   "id": "MES_FASHION_MONSTERMASK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 848,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 849,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTSILKHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 850,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKIHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 851,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKIBANDANA",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 852,
+   "f": 2,
+   "id": "MES_FASHION_ROYALCROWN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 853,
+   "f": 2,
+   "id": "MES_FASHION_COCKCAP",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 854,
+   "f": 2,
+   "id": "MES_FASHION_CATHEADBAND",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 855,
+   "f": 2,
+   "id": "MES_FASHION_DOGHEADBAND",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 856,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECATHEAD",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 857,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEDOGHEAD",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 858,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEBEARHEAD",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 859,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPANDAHEAD",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 860,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPENGUINHEAD",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 861,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECOWHEAD",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 862,
+   "f": 2,
+   "id": "MES_FASHION_MENOUHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 863,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGLADYHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 864,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGLADYHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 865,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGLADYHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 866,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGMANHAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 867,
+   "f": 2,
+   "id": "MES_FASHION_EUROPEANHELM",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 868,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEBLACK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 869,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEBLUE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 870,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMERED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 871,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEYELLOW",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 872,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEGREEN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 873,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEBLACK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 874,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEBLUE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 875,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMERED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 876,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEYELLOW",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 877,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEGREEN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 878,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEBLACK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 879,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEBLUE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 880,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMERED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 881,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEYELLOW",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 882,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEGREEN",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 883,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEWHITE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 884,
+   "f": 2,
+   "id": "MES_FASHION_SUNGLASSES",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 885,
+   "f": 2,
+   "id": "MES_FASHION_ROUNDSUNGLASSES",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 886,
+   "f": 2,
+   "id": "MES_FASHION_ROUNDGLASSES",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 887,
+   "f": 2,
+   "id": "MES_FASHION_MONOCLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 888,
+   "f": 2,
+   "id": "MES_FASHION_EYEPATCHBLACK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 889,
+   "f": 2,
+   "id": "MES_FASHION_EYEPATCHWHITE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 890,
+   "f": 2,
+   "id": "MES_FASHION_BUTTERFLYMASK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 891,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEGLASSES",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 892,
+   "f": 2,
+   "id": "MES_FASHION_STEAMGOGGLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 893,
+   "f": 2,
+   "id": "MES_FASHION_SETMINO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 894,
+   "f": 2,
+   "id": "MES_FASHION_SETSAOTOME",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 895,
+   "f": 2,
+   "id": "MES_FASHION_SETKAPPOUGI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 896,
+   "f": 2,
+   "id": "MES_FASHION_SETCOWGIRL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 897,
+   "f": 2,
+   "id": "MES_FASHION_SETSTEAMPUNKCOAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 898,
+   "f": 2,
+   "id": "MES_FASHION_SETSTEAMPUNKDRESS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 899,
+   "f": 2,
+   "id": "MES_FASHION_SETGOTHICSTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 900,
+   "f": 2,
+   "id": "MES_FASHION_SETCLOWNWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 901,
+   "f": 2,
+   "id": "MES_FASHION_SETEUROPEANARMOR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 902,
+   "f": 2,
+   "id": "MES_FASHION_SETHAPPI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 903,
+   "f": 2,
+   "id": "MES_FASHION_SETHAPPIGIRL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 904,
+   "f": 2,
+   "id": "MES_FASHION_SETCOCKWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 905,
+   "f": 2,
+   "id": "MES_FASHION_SETMAIDROYAL",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 906,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMECATBODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 907,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEDOGBODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 908,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEBEARBODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 909,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEPANDABODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 910,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEPENGUINBODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 911,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMECOWBODY",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 912,
+   "f": 2,
+   "id": "MES_FASHION_SETMENOUWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 913,
+   "f": 2,
+   "id": "MES_FASHION_SETDESSERTTUXEDO",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 914,
+   "f": 2,
+   "id": "MES_FASHION_SETDESSERTDRESS",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 915,
+   "f": 2,
+   "id": "MES_FASHION_SETWAGASHIHAORI",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 916,
+   "f": 2,
+   "id": "MES_FASHION_SETWAGASHIWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 917,
+   "f": 2,
+   "id": "MES_FASHION_SETFRUITSPARLORMAN",
+   "key": "4a01fa49",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Наряд из фруктов! Какая свежая и\nноваторская мысль!"
+  },
+  {
+   "n": 918,
+   "f": 2,
+   "id": "MES_FASHION_SETFRUITSPARLORLADY",
+   "key": "4a01fa49",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nХо-хо-хо! Наряд из фруктов! Какая свежая и\nноваторская мысль!"
+  },
+  {
+   "n": 919,
+   "f": 2,
+   "id": "MES_FASHION_SETNINJASTYLE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 920,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEBOYWHITE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 921,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEBOYRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 922,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEGIRLWHITE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 923,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEGIRLRED",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 924,
+   "f": 2,
+   "id": "MES_FASHION_SETSNOWCOAT",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 925,
+   "f": 2,
+   "id": "MES_FASHION_SETDRACULACLOAK",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 926,
+   "f": 2,
+   "id": "MES_FASHION_SETPUMPKINSTYE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 927,
+   "f": 2,
+   "id": "MES_FASHION_SETBUTLERWEAR",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 928,
+   "f": 2,
+   "id": "MES_FASHION_SETELEGANTONEPIECE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 929,
+   "f": 2,
+   "id": "MES_FASHION_SETCREAMONEPIECE",
+   "key": "25ff09f8",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nВесьма впечатляющий наряд."
+  },
+  {
+   "n": 930,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_00",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 931,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_01",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 932,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_02",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 933,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_03",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 934,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_04",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 935,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_05",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 936,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_06",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 937,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_07",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 938,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_08",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 939,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_09",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 940,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_10",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 941,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_11",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 942,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_12",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 943,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_13",
+   "key": "1e9062b4",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Как жизнь на ферме?"
+  },
+  {
+   "n": 944,
+   "f": 2,
+   "id": "MES_MISSION_START",
+   "key": "201082fc",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо. <_____MYNAME_____>.\n<PAGE>\nТебя-то я и искал.\n<PAGE>\nМожно тебя на минутку?"
+  },
+  {
+   "n": 945,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKD_BRIDGE",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 946,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_BELLTOWER",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 947,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_COLLABO_MENU1",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 948,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_BRONZE",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 949,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_COLLABO_PERFUME",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 950,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_GODDESS",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 951,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_COLLABO_MENU2",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 952,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKD_FARMBRIDGE",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 953,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_SPA",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 954,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_COLLABO_MENU",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 955,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_PARK",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 956,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_COLLABO_KANZASHI",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 957,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_INARI",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 958,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_COLLABO_SPA",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 959,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 960,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_FIRE",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 961,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 962,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_INNAROUND",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 963,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_COLLABO_AVATAR",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 964,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_PIER",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 965,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_COLLABO_MENU",
+   "key": "a3ea77b6",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 966,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_00",
+   "key": "1326071d",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nВот, держи."
+  },
+  {
+   "n": 967,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_01",
+   "key": "58076797",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nИзвини, ещё нет."
+  },
+  {
+   "n": 968,
+   "f": 2,
+   "id": "MES_MISSION_NG",
+   "key": "bc0ed3de",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nНичего. Не спеши. Не торопись и скажи, когда\nвсё найдёшь."
+  },
+  {
+   "n": 969,
+   "f": 2,
+   "id": "MES_MISSION_OK",
+   "key": "2333a116",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Превосходно! Отличная работа."
+  },
+  {
+   "n": 970,
+   "f": 2,
+   "id": "MES_MISSION_CANNOT",
+   "key": "f93d2cf5",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХм... Знаешь, по-моему, чего-то не хватает.\n<PAGE>\nНичего. Не спеши. Не торопись и скажи, когда\nвсё найдёшь."
+  },
+  {
+   "n": 971,
+   "f": 2,
+   "id": "MES_MISSION_CLEAR",
+   "key": "79f22f66",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nДа, полагаю, тут всё.\n<PAGE>\nКак только приведём в порядок ещё кое-что,\nможно будет приниматься за работу.\n<PAGE>\nСообщу, как только всё будет готово."
+  },
+  {
+   "n": 972,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_00",
+   "key": "99c709d6",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>!"
+  },
+  {
+   "n": 973,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_01",
+   "key": "bc16875e",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1> и\n<MOJI2> ×<MOJI3>!"
+  },
+  {
+   "n": 974,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_02",
+   "key": "5f9bf091",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>,\n<MOJI2> ×<MOJI3>...\n<PAGE>\n...и <MOJI4> ×<MOJI5>!"
   }
  ]
 }

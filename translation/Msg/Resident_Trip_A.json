@@ -1,0 +1,369 @@
+{
+ "file": "Resident_Trip_A",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_00",
+   "key": "765510e1",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_NORMAL>\r\nЧто бы это могло быть...?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LOSS>Хм-м..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_01",
+   "key": "23678678",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nА, <_____MYNAME_____>."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_02",
+   "key": "09460ac4",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LOSS>\r\nХорошо, что ты здесь! Глянь-ка на это."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_03",
+   "key": "4807826d",
+   "ru": "“☆Волшебное задание☆\n<PAGE>\nСледующим жителям Вестауна: Уэйну, Форду и\nЛизетт.\n<PAGE>\nНемедленно отправляйтесь в Лулукоко и до\nконца дня выполните задания. А не то!\n<PAGE>\n1. Исполните чудесный танец перед руинами! <RED>∀</RED>\n<PAGE>\n2. Отведайте суперсочных фруктов в\nКарозелло! ☆\n<PAGE>\n3. Порыбачьте на пляже! ♪\n<PAGE>\nВыполните всё это ― и вас ждёт щедрая\nнаграда...\n<PAGE>\nПрисматривать за вами будет <_____MYNAME_____>.”"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_04",
+   "key": "cd6deac5",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЭто лежало в утренней почте.\n<PAGE>\n<FACE_LOSS>Скорее всего, чей-то розыгрыш, но просто так\nотмахнуться как-то странно... понимаешь?\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LOSS>Ох, мне немного не по себе, когда вот так\nназывают по имени.\n<PAGE>\nМы как раз собирались за тобой, <_____MYNAME_____>, раз в письме\nесть и твоё имя.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LOSS>Меня больше смущает почерк ― он скачет\nтуда-сюда. Будто писали несколько человек..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_05",
+   "key": "d106e0c1",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nЯ предлагаю не обращать внимания.\n<PAGE>\nЛулукоко, безусловно, чудесное место, но там\nжарко. Невыносимо жарко.\n<PAGE>\nПробуду там больше часа ― и обезвоживание\nобеспечено.\n<PAGE>\n<FACE_SAD>А главное, я буду потеть. Никому от этого\nлучше не станет."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_06",
+   "key": "8acae671",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\n...Подумав, ради Форда нам, пожалуй, стоит\nвзяться за задание."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_07",
+   "key": "478dc3da",
+   "ru": "<FACE_FLORIST><POS_RIGHT><FACE_LOSS>\r\nД-да...\n<PAGE>\n<FACE_NORMAL>Тогда первым делом попросим помощи у\nЛудуса и близняшек.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Хорошая мысль. Мы с <_____MYNAME_____> часто бываем в\nЛулукоко, так что поведём."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_08",
+   "key": "efe3faa9",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\nОх... Нам правда обязательно это делать?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_09",
+   "key": "85bb665a",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nДа, обязательно. Хватит ныть, Форд, пошли.\n<PAGE>\nКстати, если подумать, мы ведь ни разу не\nбывали в Лулукоко вместе.\n<PAGE>\n<FACE_LAUGH>Вся эта затея меня ещё немного тревожит, но\nтеперь мне даже интересно."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_10",
+   "key": "308a0f72",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>\r\n...\n<PAGE>\n<FACE_ANGRY>Ладно. Видимо, выбора у меня нет. Но когда\nнайдём виновника, он отведает моей сыворотки\nправды!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_11",
+   "key": "e8fc89f3",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nО? Что случилось? Странная у вас компания.\n<PAGE>\n...Кажется, Форда и Лизетт я тут вообще\nвпервые вижу.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>О, привет. Давно не виделись, Лизетт.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Здравствуй, Форд."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_12",
+   "key": "31308d20",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nПривет! Вы как раз вовремя.\n<PAGE>\nМы пришли попросить вас об одолжении.\nОсобенно Илуку и Силуку.\n<PAGE>\nНе глянете на это?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_13",
+   "key": "3359ccdb",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\n...Это ещё что?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>“Волшебное задание”?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_14",
+   "key": "253b7312",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\nЭто было в утренней почте.\n<PAGE>\nВнутри письмо, велящее нам всем отправиться в\nЛулукоко.\n<PAGE>\nПонятия не имею, кто это устроил, но мы\nрешили подыграть.\n<PAGE>\nВ общем, помогите нам с первым заданием:\n“танец перед руинами”."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_15",
+   "key": "268ed5ff",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\nЯ не против, но... Вы уверены, что стоит\nслушаться совершенно незнакомого человека?\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>А по-моему, это даже интересно! ♪\n<PAGE>\nНаверное, чей-то розыгрыш, но почему бы не\nпоказать другим, что такое Лулукоко.\n<PAGE>\nТы ведь тоже за, Силука?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Конечно. Если ты не против, то и я.\n<PAGE>\nК тому же от этого письма... исходит странная\nаура. Не человеческая."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_16",
+   "key": "2cf9a09c",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\nСпасибо! Рад, что вы готовы нам помочь.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Ну что, потанцуем?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_17",
+   "key": "ec8a81c8",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nМожно хоть сейчас, но...\n<PAGE>\nХм, обычно здесь мы, жрицы, танцуем и\nмолимся предкам...\n<PAGE>\nЭтот танец не для посторонних, так что\nпокажем другой.\n<PAGE>\nСмотрите."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_18",
+   "key": "42ffb241",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nВот так.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>...Это не очень сложно."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_19",
+   "key": "b9850c28",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nУх ты, как красиво, девочки!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Да, завораживающий танец. Здесь, в Лулукоко,\nвсегда так танцуют?\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Завораживающий...? Ну, на Празднике духов\nмы и правда его танцуем.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>Любопытнейший танец. Признаю, меня он\nзаинтриговал.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>Хи-хи, хватит стоять разинув рот от нашего\nмастерства. Ваша очередь!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_20",
+   "key": "2e897491",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_SAD>\r\nЭ-это вредно для моей поясницы... Мы скоро\nзакончим?\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>Да, просто... потерпи ещё немного. Почти всё.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Никогда так не танцевал, но это довольно\nвесело!\n<PAGE>\nИ как-то даже торжественно на душе.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>Ну ещё бы.\n<PAGE>\nОн немного отличается от танца жриц, но тоже\nслужит подношением предкам.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LAUGH>Надо же. Когда танцуешь перед такими\nзагадочными руинами, всё кажется ещё\nодухотворённее."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_21",
+   "key": "a0f1ff86",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nВот вы и протанцевали целую песню. Молодцы.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Спасибо за помощь!\n<PAGE>\nЗначит, одно задание выполнено, верно?\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>А какое следующее?\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>Дальше... “отведать вкусных фруктов в\nКарозелло”."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_22",
+   "key": "042078a4",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nС этим мы тоже поможем. Я что-нибудь\nприготовлю.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>Простите, но я бы предпочёл что-нибудь\nпопить, если можно. В горле совсем пересохло.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Справедливо. Тогда я сделаю тебе свой\nнапиток."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_23",
+   "key": "30f9c16a",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>М-м-м! Вкуснотища! Фрукты в Лулукоко ―\nэто нечто. Особенно сладкие!\n<PAGE>\n<WINDOW_DEFAULT><FACE_DOCTOR><POS_RIGHT><FACE_LAUGH> Действительно. Витамин C высочайшего\nкачества.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Личи такие спелые! Просто чудо. ♪"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_24",
+   "key": "6fc2a1e0",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nРада, что вам всем нравится.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>Ещё бы! Кто плохо отзовётся о твоей стряпне,\nтого ждёт ужасный конец от моей руки.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>Эй, полегче..."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_25",
+   "key": "4410648f",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_LAUGH>\r\nМ-м, спасибо за вкусные напитки!\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Знаешь, с такой едой мне стоит заглядывать\nсюда почаще!\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Есть только что сорванные фрукты под шум\nприбоя...\n<PAGE>\nЯ из-за работы почти не выезжаю из города,\nтак что для меня это настоящий праздник. ♪\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>Действительно.\n<PAGE>\nБлагодаря здешнему яркому солнцу фрукты\nособенно питательны."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_26",
+   "key": "6701ebfa",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nРады, что вам понравилась наша деревня...\n<PAGE>\n...Но при чём тут какое-то задание?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LOSS>Раз уж ты сказал, для розыгрыша эти\n“задания” оказались очень весёлыми.\n<PAGE>\n<FACE_FLORIST><POS_RIGHT><FACE_LOSS>Да, скорее похоже, будто нас отправили в\nотпуск...\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Розыгрыш или нет, мне было так весело, что\nхочется сказать спасибо тому, кто это затеял."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_27",
+   "key": "f822c9fa",
+   "ru": "<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>\r\n...Так, осталось одно задание.\n<PAGE>\nПоследнее ― рыбалка."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_28",
+   "key": "7df60c1a",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_SWEAT_L>Почему...? Почему я должен приближаться к\nчему-то столь ужасному, как сырая рыба?!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>Да ладно тебе. Если что-то поймаешь и совсем\nне сможешь взять в руки, я сделаю это за тебя,\nидёт?\n<PAGE>\n<WINDOW_DEFAULT><FACE_DOCTOR><POS_LEFT><FACE_LOSS>Правда? Ну, раз так..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_29",
+   "key": "c95f4acd",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_SAD>\r\nФорд никогда не ладил с рыбой... Мне его\nдаже немного жаль.\n<PAGE>\n<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>Всё будет хорошо, Лизетт. Вот увидишь, Форд\nещё подсядет на рыбалку.\n<PAGE>\nКстати, ты ведь тоже рыбу не очень любишь.\nСправишься?\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>Хи-хи, спасибо за заботу. Есть рыбу я не\nлюблю, но в руки брать вполне могу."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_30",
+   "key": "e5b03edb",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...Не клюёт.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>Нас слишком много, вот и распугали.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>Хм-м, да, вообще-то уже должно клевать.\n<PAGE>\n<FACE_LAUGH>Кстати, если клюнет, не паникуйте.\nПодстройтесь под её ритм, и всё получится."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_31",
+   "key": "29e0eb7b",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_LINE_L>У-у меня клюёт!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_32",
+   "key": "19d4b80a",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_LAUGH>\r\nП-поймал! Я поймал!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Ого! Да ещё и крупную! Неплохо, Форд!\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_LAUGH>Поздравляю, Форд!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_33",
+   "key": "40b1047d",
+   "ru": "<FACE_DOCTOR><POS_LEFT><FACE_ANGRY>\r\nМне всегда была противна сама мысль\nприкоснуться к живой рыбе, но...\n<PAGE>\n<FACE_LAUGH>Когда думаю, что добыл её в бою, я\nчувствую... азарт.\n<PAGE>\nКто бы мог подумать, что рыбалка так\nувлекательна?"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_34",
+   "key": "5401174f",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nИ вот он уже увлёкся рыбалкой. Рада, что ты\nраспробовал, Форд.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>По-моему, он как-то СЛИШКОМ быстро\nвтянулся... Или мне кажется? Ну, неважно."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_35",
+   "key": "252de562",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nВот и последнее задание выполнено.\n<PAGE>\n<FACE_NORMAL>Ах..."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_36",
+   "key": "3a7551ef",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто...?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_37",
+   "key": "43b3fa8f",
+   "ru": "“Па-па-ба-а-ам! Все задания выполнены!\n<PAGE>\nВ награду можете забрать домой эти подарки.”"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_38",
+   "key": "819687cd",
+   "ru": "<FACE_POSTMAN><POS_RIGHT><FACE_LAUGH>\r\nЗдорово! Мы выполнили все задания.\n<PAGE>\n<FACE_FLORIST><POS_LEFT><FACE_LAUGH>И правда! У нас получилось! ♪\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Поздравляю, ребята. Рад за вас.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH> Ну конечно получилось. Мы же им помогали.\n♪\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>...Почему никого из вас не смущает безумие,\nчто случилось у нас на глазах?\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Эх, какая разница, правда?\n<PAGE>\n<FACE_LAUGH>Может, это маленький подарок от богини, что\nза нами присматривает?\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Да. Может, богиня всё это и задумала с самого\nначала.\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LOSS>...Ну ладно.\n<PAGE>\n<FACE_NORMAL>Тогда разделим добычу.\n<PAGE>\n<_____MYNAME_____>, выбор за тобой."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_39",
+   "key": "65c4ca92",
+   "ru": "(Похоже, можно взять что угодно. Что же\nвыбрать?)"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_40",
+   "key": "74c7eb10",
+   "ru": "Чёрная ветка ×30"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_41",
+   "key": "e3d8d954",
+   "ru": "Чёрный булыжник ×30"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_42",
+   "key": "e24d1502",
+   "ru": "Ваниль ×10"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_43",
+   "key": "c1c060fb",
+   "ru": "Ядовитый гриб ×10"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_51",
+   "key": "d22e25f4",
+   "ru": "Коралл ×30"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_44",
+   "key": "417e3846",
+   "ru": "<FACE_DOCTOR><POS_RIGHT><FACE_NORMAL>\r\nХорошо. Остальное разделим между собой."
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_45",
+   "key": "ed4e276b",
+   "ru": "<FACE_FLORIST><POS_LEFT><FACE_NORMAL>\r\nОгромное всем спасибо за помощь.\n<PAGE>\nЯ так занята работой, что толком здесь не\nбывала, но...\n<PAGE>\n...было так здорово хоть немного прикоснуться\nк жизни Лулукоко. ♪\n<PAGE>\n<FACE_DOCTOR><POS_RIGHT><FACE_LAUGH>Действительно. Это был поучительный опыт\nдля всех нас.\n<PAGE>\n<FACE_POSTMAN><POS_LEFT><FACE_NORMAL>Большое спасибо вам троим."
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_46",
+   "key": "0c7bc2f6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nНам было приятно. Рад, что вы\nпрочувствовали, чем хорош Лулукоко.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Может, автор письма с самого начала этого и\nхотел.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>“Вы соседи, так познакомьтесь поближе...”\nКак-то так."
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_47",
+   "key": "45e93af6",
+   "ru": "<FACE_GODDES>\r\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_48",
+   "key": "d8ff836d",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_LAUGH>\r\nОтлично, <_____MYNAME_____>!\n<PAGE>\n<FACE_WITCH><POS_RIGHT><FACE_LAUGH>Ага, ты и твои друзья и правда выполнили все\nнаши задания."
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_49",
+   "key": "283d849f",
+   "ru": "<FACE_GODDES><POS_RIGHT><FACE_NORMAL>\r\nИменно! Это мы всё придумали.\n<PAGE>\nЖители разных городов заняты своей работой\nи почти не общаются с соседями, понимаешь?\n<PAGE>\n<FACE_LAUGH>Вот мы и решили дать им познакомиться с\nкультурой другого города, пусть даже\nхитростью."
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_A_50",
+   "key": "2ad883d8",
+   "ru": "<FACE_INARI><POS_LEFT><FACE_SAD>\r\nПрости, что не предупредили заранее.\n<PAGE>\n<FACE_NORMAL>Тот подарок ― тебе, в благодарность за\nпомощь. Мы очень признательны, <_____MYNAME_____>.\n<PAGE>\n<FACE_WITCH><POS_RIGHT><FACE_LAUGH>Скоро пошлём задания в другой город. Всего\nих будет три.\n<PAGE>\nТы ведь снова поможешь нам повесе... то есть\nвыполнить задания, да? До следующего раза!"
+  }
+ ]
+}

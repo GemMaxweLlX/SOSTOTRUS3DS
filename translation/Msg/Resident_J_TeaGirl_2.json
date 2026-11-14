@@ -1,0 +1,82 @@
+{
+ "file": "Resident_J_TeaGirl_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_00",
+   "key": "80521034",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\n...Э-эх."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_01",
+   "key": "d9e6d6b0",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>. Как всегда в трудах?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_02",
+   "key": "ddf9094a",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\nЯ? ...Ну, у меня небольшая дилемма."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_03",
+   "key": "f67c5f8c",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\nМне кажется, в последнее время я застряла в\nрутине.\n<PAGE>\nХочется, чтобы в жизни было что-то, ради\nчего хочется просыпаться по утрам.\n<PAGE>\nЧто-то, от чего скажешь: “Сегодня снова\nотличный день!”\n<PAGE>\nУ тебя это, считай, работа, и это здорово,\nно... я-то не фермер.\n<PAGE>\n<FACE_NORMAL>И тут меня осенило. А если завести хобби?\nПапа играет в сёги, Касуми занимается\nнагинатой...\n<PAGE>\n<FACE_LAUGH>Я подумала, если у меня будет что-то такое,\nсмогу наслаждаться жизнью на полную!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_04",
+   "key": "6e160188",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\nНо у меня никогда не было хобби, так что я\nтолком не знаю, что мне подойдёт.\n<PAGE>\nХм-м-м... Как думаешь, чем заняться?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_05",
+   "key": "6406c080",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nОго, правда?! Поможешь мне поискать?\n<PAGE>\nПо правде, я ужасно боялась искать в одиночку.\nНо с тобой мне куда увереннее!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_06",
+   "key": "49b9410b",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nРаз решено, за дело! Выкладывай все свои\nсоветы!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_07",
+   "key": "338ab66a",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nХа-ха-ха! Было отпадно!\n<PAGE>\nДавно мне не было так весело."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_08",
+   "key": "33a17cb6",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\nХм-м-м, посмотрим... Всё было весело, но\nвместо того чтобы захотеть выбрать что-то\nодно...\n<PAGE>\n<FACE_LAUGH>Я разжадничалась и захотела попробовать ещё\nбольше всего.\n<PAGE>\n<FACE_SAD>А ты ведь потратил(а) на меня время... Мне\nправда жаль."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_09",
+   "key": "b2393482",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\n...Да, и правда. Хобби надо искать не спеша."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TEAGIRL_2_10",
+   "key": "16a1b234",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nХотя, думаю, мне было так весело во многом\nпотому, что ты был(а) рядом.\n<PAGE>\nСпасибо за сегодня, <_____MYNAME_____>. Если снова будет\nнастроение, надеюсь, поможешь мне\nпопробовать ещё хобби!"
+  }
+ ]
+}

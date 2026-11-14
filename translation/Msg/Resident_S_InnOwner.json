@@ -1,0 +1,250 @@
+{
+ "file": "Resident_S_InnOwner",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_00",
+   "key": "b1e102c9",
+   "ru": "(Слышны крики... Что происходит?)"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_01",
+   "key": "a27f159a",
+   "ru": "Я же сказал, я не могу это есть!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_02",
+   "key": "9a488e36",
+   "ru": "<NAME_MOB_MAHARO>\r\nНо у нас в гостинице это обычное блюдо..."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_03",
+   "key": "1a57ff53",
+   "ru": "Обычное? Скорее ниже всякой критики! Не\nбуду я это есть!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_04",
+   "key": "6a347909",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nО, <_____MYNAME_____>."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_05",
+   "key": "7bdcdee2",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nМы тут как раз собирались позавтракать...\n<PAGE>\nНо, похоже, тому господину еда не пришлась\nпо вкусу."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_06",
+   "key": "83cdfd1b",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_ANGRY>\r\nЭтот человек перегибает палку. Пойду его\nостановлю.\n<PAGE>\n<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>...Погоди-ка."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_08",
+   "key": "43ac2cfa",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nНо...\n<PAGE>\n<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>Не нужно, Тигре.\n<PAGE>\nВ такие моменты дело надо оставить хозяйке\nгостиницы.\n<PAGE>\n<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>Хо-хо-хо, звали?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_11",
+   "key": "722612fc",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nАлоха всем. Похоже, один из гостей\nдоставляет вам хлопот.\n<PAGE>\nНо в такие моменты как раз мой выход. Это\nзаймёт лишь минутку."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_12",
+   "key": "d2052c4b",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуй, молодой человек. В чём дело?"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_13",
+   "key": "937fcc0b",
+   "ru": "Это вы тут главная?\n<PAGE>\nКак можно подавать такую мерзкую еду?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_14",
+   "key": "e837730d",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nАх, значит, что-то в еде пришлось не по\nвкусу...\n<PAGE>\nИ вы вспылили на одну из моих работниц,\nверно?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_15",
+   "key": "70494ddf",
+   "ru": "Д-да что вам надо...?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_16",
+   "key": "dba4ffd0",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\n...\n<PAGE>\n...Хм, ясно. Мы вас подвели.\n<PAGE>\nСейчас же приготовим вам новое блюдо. Не\nподождёте ещё немножко?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_17",
+   "key": "618fb10a",
+   "ru": "Это просто объедение!\n<PAGE>\nВОТ такую еду я и ждал!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_18",
+   "key": "c5e59070",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо. Рады стараться."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_19",
+   "key": "fda5bd85",
+   "ru": "...Простите, бабушка. Надо было сначала\nприйти с жалобой к вам."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_20",
+   "key": "e319ccc4",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nПрошу, не беспокойтесь.\n<PAGE>\nНо взамен хотелось бы снова увидеть вас в\nнашей гостинице."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_21",
+   "key": "f88aefb3",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nОго... Ей удалось его успокоить.\n<PAGE>\n<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>Такова уж Тототара."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_23",
+   "key": "e01173f8",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nНо как Тототара узнала, что он хочет есть...?\n<PAGE>\n<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>Что ж, расскажу."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_25",
+   "key": "35b7a5f2",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nТот человек живёт глубоко в горах.\n<PAGE>\nТак что, естественно, к морепродуктам он не\nпривык.\n<PAGE>\nА почти во всех блюдах, что мы здесь подаём,\nесть рыба."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_26",
+   "key": "5ec1d47f",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nОткуда я это узнала?\n<PAGE>\n<FACE_LAUGH>Доживёшь до моих лет ― научишься лучше\nпримечать людей. Хо-хо-хо!"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_27",
+   "key": "6a19bef7",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nЧто, думали, я его выгоню из гостиницы?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_28",
+   "key": "cc764e2c",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\nСкажи-ка, <_____MYNAME_____>...\n<PAGE>\nЧто, по-твоему, самое важное в содержании\nгостиницы?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_29",
+   "key": "5be1448f",
+   "ru": "Чувство благодарности?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_30",
+   "key": "cf6d9250",
+   "ru": "Твёрдость?"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_31",
+   "key": "5ff3a593",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nТвёрдость, а...?\n<PAGE>\nБлизко, но не совсем.\n<PAGE>\nХотя это тоже важно."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_32",
+   "key": "fc7ceea9",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\n...М-м, именно. Ты хорошо понимаешь."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_33",
+   "key": "5abc93cd",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nСамое важное для гостиницы ― чувствовать\nблагодарность к гостям и дать им\nпочувствовать себя желанными.\n<PAGE>\nХочется, чтобы им здесь было хорошо и\nхотелось вернуться.\n<PAGE>\nЭто самое важное чувство из всех.\n<PAGE>\nА значит, иногда важно и выслушать\nрассерженного гостя."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_34",
+   "key": "98668d57",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nКроме того...\n<PAGE>\nЯ хочу, чтобы эта гостиница была “океаном”\nдля каждого, кто сюда приходит."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_35",
+   "key": "767e33f5",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nКаким бы сильным ни был огонь, в океане он\nгореть не сможет, верно?\n<PAGE>\nЕсли огонь внутри тебя утихает, когда ты\nприходишь в эту гостиницу...\n<PAGE>\n<FACE_LAUGH>Ничто на свете не порадует меня больше."
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_36",
+   "key": "abd9ca50",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nТы не перестаёшь меня удивлять, старый друг.\nТы и правда незаурядный человек."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_37",
+   "key": "c1c04785",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_R>Хо-хо, вовсе нет. Мне ещё есть куда расти.\n<PAGE>\n<WINDOW_DEFAULT>Но если говорить о поразительных людях...\n<PAGE>\n<FACE_NORMAL>Эта честь достаётся Лудусу, который не\nпроснулся за всю эту кутерьму."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_38",
+   "key": "d0c2cfae",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nТак, все, думаю, на сегодня об этом сказано\nболее чем достаточно.\n<PAGE>\nПойду приготовлю завтрак. Скоро будет\nготово, так что садитесь и подождите."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_RESIDENT_S_INNOWNER_39",
+   "key": "2caabcc7",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_SAD>\r\nТеперь, когда она сказала, мне и правда\nхочется есть..."
+  }
+ ]
+}

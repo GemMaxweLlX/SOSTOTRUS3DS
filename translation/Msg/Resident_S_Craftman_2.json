@@ -1,0 +1,264 @@
+{
+ "file": "Resident_S_Craftman_2",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_00",
+   "key": "a9330923",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nНу же, Лудус! Давай играть!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_LAUGH>Да, ты с нами сто лет не играл. Ну\nпожа-а-алуйста?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_01",
+   "key": "2ef93a63",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nКонечно, не против. У меня как раз обеденный\nперерыв."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_02",
+   "key": "59da267d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nО, привет, <_____MYNAME_____>."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_03",
+   "key": "6f20f01b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧем занят?\n<PAGE>\nКак раз собирался поиграть с этой мелюзгой."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_04",
+   "key": "2d7fc331",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>\r\n<WINDOW_JOY_R>О-о-о! Поиграй с нами тоже, <_____MYNAME_____>!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_05",
+   "key": "a5f99efb",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПравда? Ну, помощь присмотреть за этими\nдвумя мне точно не помешает. Спасибо."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_06",
+   "key": "0230c816",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nТак, во что хотите играть? Сегодня нас\nчетверо, так что можно сыграть во что-то\nнеобычное."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_07",
+   "key": "3aed8ed7",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nВ салки!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_08",
+   "key": "4d45c262",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_ANGRY>\r\nНе-е-ет! Мы всегда играем в салки!\n<PAGE>\nХочу в дочки-матери!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_09",
+   "key": "a8e3ee9d",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПривет, Тигре."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_10",
+   "key": "6ec602e9",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nАлоха всем."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_11",
+   "key": "a430b948",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nО-о-о, Тигре, давай к нам!\n<PAGE>\nМы все будем играть в салки!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_12",
+   "key": "e693178c",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_SAD>\r\nПрости, но я сегодня собирался\nпотренироваться с мечом..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_13",
+   "key": "da6f9a2e",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_SAD>\r\nЭ-э-эх... Скукота."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_14",
+   "key": "9fa6e007",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nТогда, может, сразимся на мечах? Давно не\nсражались.\n<PAGE>\n<FACE_LAUGH>Заодно это будет тебе тренировкой. Что\nскажешь, Тигре?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_15",
+   "key": "3b6615f2",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_LAUGH>\r\nКонечно, если ты меня кое-чему научишь,\nпочту за честь.\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>Ура! Сейчас Лудус будет суперкрутым!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_17",
+   "key": "fd5ba9ce",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nПохоже, все согласны."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_18",
+   "key": "6cc03741",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nТы здорово подтянулся, Тигре.\n<PAGE>\nНеудивительно, раз Хаулани каждый день тебя\nусердно тренирует."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_19",
+   "key": "c3846fd5",
+   "ru": "<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_ANGRY>\r\nСпасибо, но мне ещё расти и расти!\n<PAGE>\nЯ ведь ни разу тебя не побеждал, Лудус.\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>Ну, поддайся я тебе, ты бы сразу заметил, так\nчто...\n<PAGE>\n<WINDOW_LINE_L>Смотри, бок открыт!\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_ANGRY><WINDOW_LINE_R>Ах!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_20",
+   "key": "19bb21d3",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_HEART_L>А-а-а! Так держать, Лудус! Ты такой крутой!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_21",
+   "key": "f72951e4",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_ANGRY>\r\nТигре вечно передо мной красуется, но...\n<PAGE>\n<FACE_NORMAL>Рядом с Лудусом он как малыш!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_22",
+   "key": "df430d94",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nЭх, хочу поскорее стать таким же крутым\nпарнем, как Лудус!\n<PAGE>\nНо главная моя цель ― всё равно стать как\nпапа."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_23",
+   "key": "a8d2d1aa",
+   "ru": "<FACE_FISHERDAUGHTER><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_KERAKERA_L>По сравнению с Лудусом вы с Тигре оба как\nмалыши!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_24",
+   "key": "9ca1d415",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nТак, пожалуй, пора меняться.\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_ANGRY>Ха-а... Ха-а... Да... Ладно..."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_25",
+   "key": "89f4c1de",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nКто следующий?\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>О-о, о-о! Хочу посмотреть, как ты сразишься с\n<_____MYNAME_____>!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_26",
+   "key": "dbd7abbd",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nДавай. Спорим, с <_____MYNAME_____> выйдет отличный поединок."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_27",
+   "key": "e96ce425",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>\r\nС <_____MYNAME_____>? Признаюсь, мысль о поединке с девушкой\nменя немного смущает, но...\n<PAGE>\n<FACE_NORMAL>Как насчёт, <_____MYNAME_____>? Сразимся?"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_28",
+   "key": "6bce0af7",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_ANGRY>\r\nНу, поехали!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_29",
+   "key": "e2e1def5",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nЭй, а ты неплох.\n<PAGE>\n<FACE_NORMAL>Если подумать, я впервые всерьёз сражаюсь с\nдругим парнем моего возраста."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_30",
+   "key": "c01eda4c",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nЭй, а у тебя неплохо выходит.\n<PAGE>\n<FACE_NORMAL>Если подумать, работа на ферме, наверное,\nотлично развивает выносливость и силу.\n<PAGE>\nРасслаблюсь ― того и гляди, разобьют в пух и\nпрах..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_31",
+   "key": "7c52c171",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_ANGRY>\r\nАх!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_32",
+   "key": "ffc0a445",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nХа! Я повержен! Ну и силища у тебя, <_____MYNAME_____>!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_33",
+   "key": "0549a710",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nОго, Лудус побеждён! Потрясно!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>Лудус смеётся, хоть и проиграл! Он такой\nкрутой!\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_RIGHT><FACE_NORMAL><_____MYNAME_____>, сразись как-нибудь и со мной, пожалуйста!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_34",
+   "key": "96900a57",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nТак, <_____MYNAME_____>, теперь со мной!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_35",
+   "key": "4404ea11",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_NORMAL>\r\nБыло весело!\n<PAGE>\nНо нам пора домой. Мама взбесится, если\nзадержимся допоздна.\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_NORMAL>Приходи скорее снова поиграть!\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>Махало за советы. Надеюсь, ещё повторим.\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_LAUGH>Ладно, пока-пока!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_36",
+   "key": "b53f2d09",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nСпасибо, что составил(а) компанию, <_____MYNAME_____>.\n<PAGE>\n<FACE_LAUGH>Честно говоря, мне сегодня было очень весело\nиграть. Будто снова стал ребёнком.\n<PAGE>\nА тебе? Было весело?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_2_37",
+   "key": "245aad33",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nРад слышать.\n<PAGE>\nЕсли хочешь, приходи ещё как-нибудь\nпоиграть с ними.\n<PAGE>\nВидно, что они ужасно рады новому старшему\nдругу.\n<PAGE>\nИ... я тоже рад, что у меня появился такой\nдруг, как ты."
+  }
+ ]
+}

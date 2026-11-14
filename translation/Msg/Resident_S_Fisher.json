@@ -1,0 +1,348 @@
+{
+ "file": "Resident_S_Fisher",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_01",
+   "key": "937b2753",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Как дела, <_____MYNAME_____>?\n<PAGE>\nТы как раз вовремя. Прости, можно попросить\nтебя подсобить?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_02",
+   "key": "d6b47df3",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nПонимаешь, я только что вернулся с рыбалки.\n<PAGE>\nИ улов сегодня что надо! Невероятный!\n<PAGE>\nВообще-то столько мне одному не унести.\n<PAGE>\nДумал позвать Шалька, но...\n<PAGE>\nЕсли и ты поможешь, это меня здорово\nвыручит."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_03",
+   "key": "ba5b2dcf",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nО! Махало!\n<PAGE>\nА можно ещё сбегать за Шальком?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_04",
+   "key": "75385e4d",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_NORMAL>\r\nФух! Молодцы, <_____MYNAME_____>, Шальк!\n<PAGE>\nНо есть у меня ещё одна просьба.\n<PAGE>\nТакой большой улов бывает редко, вот я и\nподумал поделиться со всеми...\n<PAGE>\nНо его так много. Поможете раздать?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_05",
+   "key": "69036241",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_LAUGH>\r\nМахало, <_____MYNAME_____>. Ты меня просто спасаешь.\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>Положись на нас, пап!\n<PAGE>\n<FACE_FISHER><POS_LEFT><FACE_NORMAL>Ну, спасибо, ребята. Только не сворачивайте\nникуда по дороге!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_06",
+   "key": "27abe4a4",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nЛа-а-адно!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_07",
+   "key": "256006b4",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_NORMAL>\r\nНу, спасибо, ребята. Не сворачивайте никуда!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_08",
+   "key": "dec101c7",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nБабуля! Алоха!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_09",
+   "key": "6b31385a",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, Шальк. Рада видеть вас обоих, тебя и <_____MYNAME_____>,\nв добром расположении духа.\n<PAGE>\nЧто вас сегодня привело?\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>Папа вернулся с рыбалки с огромным уловом!\n<PAGE>\nВот я и пришёл поделиться со всеми!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_10",
+   "key": "628545ba",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nПапа вернулся с рыбалки и сказал, что улов\nогромный.\n<PAGE>\nВот я и пришёл поделиться со всеми!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_11",
+   "key": "a7f89bf4",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nВот это да! Махало."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_12",
+   "key": "0c78ab1b",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_LAUGH>\r\nЧего и ждать от лучшего рыбака деревни.\n<PAGE>\n...Подумать только, тот энергичный проказник\nтак вырос. Старухе аж слезу вышибает."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_13",
+   "key": "f20a9a0c",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nЗахау в прошлом? Вообще-то он с тех пор\nмало изменился.\n<PAGE>\nЕсли о плохом ― простоват и упрям. Если о\nхорошем ― честный парень.\n<PAGE>\n...Кажется, когда он был твоего возраста,\nШальк, он поймал тайменя размером с себя\nсамого.\n<PAGE>\nВсе твердили, что ему одному не унести, но он\nи слышать не хотел.\n<PAGE>\nВ итоге потащил его на спине."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_14",
+   "key": "a02f22b5",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_ANGRY>\r\nОго! Он один тащил такую громадину?!\n<PAGE>\n<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>О да. Представляю, как тяжело было ребёнку.\n<PAGE>\nНо Захау сам дотащил его до деревни. Целый\nдень нёс на спине."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_15",
+   "key": "a67e1f7a",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_NORMAL>\r\nАга. Ребёнку, наверное, было тяжко.\n<PAGE>\nНо Захау сам дотащил его до деревни. Целый\nдень нёс на спине."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_16",
+   "key": "89316eb5",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nНо таков уж Захау. Упрям как осёл и честен до\nкрайности.\n<PAGE>\nНо он не только честен. Он ещё и щедро\nделится добротой с окружающими.\n<PAGE>\nЗахау вырос в человека, широкого, как сам\nокеан."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_17",
+   "key": "ae01d219",
+   "ru": "<FACE_FISHERSON><POS_LEFT><FACE_NORMAL>\r\nОй, точно, папа сказал не сворачивать!\n<PAGE>\nПока, бабуля!\n<PAGE>\n<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>Пока, Шальк, <_____MYNAME_____>. Передайте Захау махало от\nменя."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_18",
+   "key": "a5df953e",
+   "ru": "<FACE_INNOWNER><POS_RIGHT><FACE_NORMAL>\r\nОх, а мы ведь изрядно заговорились?\n<PAGE>\nВам же ещё есть куда идти, да?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_19",
+   "key": "41605f42",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\n...А это от папы тебе и твоему дедушке!\nДержи!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_20",
+   "key": "47fe6f15",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nМахало, Шальк."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_21",
+   "key": "ee61292d",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_LAUGH>\r\nАлоха вам обоим. О, что это у тебя, Тигре?\nВнушительная рыба."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_22",
+   "key": "4298abe8",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nАлоха, дедуля! Это рыба, которую сегодня\nпоймал папа!\n<PAGE>\n<FACE_ANGLER><POS_LEFT><FACE_LAUGH>Хо-хо-хо, неужели? Видно, улов был что\nнадо..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_23",
+   "key": "aa0fd034",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_LAUGH>\r\nХо-хо-хо... Неужели. Знатный улов..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_24",
+   "key": "fb9cc65e",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_SAD>\r\nМало того что он делится со мной рыбацкими\nсекретами, так ещё и такое приносит...\n<PAGE>\nНеловко, что я вечно принимаю его щедрость.\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>У нас дома ещё куча! Не переживай!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_25",
+   "key": "d13d4208",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_LAUGH>\r\nХо-хо-хо... У тебя большое сердце, Шальк.\nНаверняка от Захау.\n<PAGE>\nОднажды тебя полюбят самые разные звери,\nкак Захау."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_26",
+   "key": "9ff42760",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nЗвери любят папу? Он, конечно, всё время с\nрыбой, но об этом я слышу впервые!\n<PAGE>\n<FACE_ANGLER><POS_LEFT><FACE_NORMAL>Ну, поначалу на него вечно нападали и кусали\nобезьяны, какаду и прочая живность.\n<PAGE>\nНо вместо того чтобы отчаяться, Захау\nпродолжал пытаться с ними подружиться.\n<PAGE>\nПока наконец не приручил целую уйму\nсозданий.\n<PAGE>\nОн даже сблизился с большим медведем, что\nбродит в этих краях."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_27",
+   "key": "dce5a4c5",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nС медведем?! Папа потряса-а-ающий! Ты ведь\nтоже это слышишь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_28",
+   "key": "3d1d3276",
+   "ru": "<FACE_ANGLER><POS_LEFT><FACE_LAUGH>\r\nЯ сам слышал это только от других, так что не\nзнаю, сколько тут правды, но...\n<PAGE>\nЗная Захау, может, всё так и есть."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_29",
+   "key": "f6304777",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nОго..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_30",
+   "key": "80e58092",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_ANGRY>\r\nПогоди, нам нельзя расслабляться! Надо\nобойти ещё дома...\n<PAGE>\n<FACE_LAUGH>Тигре, дедуля, махало за интересные истории!\nПока!\n<PAGE>\n<FACE_ANGLER><POS_LEFT><FACE_LAUGH>Да, и тебе махало. Передай, пожалуйста,\nпривет Захау."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_31",
+   "key": "d6b81a63",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nФух, наконец закончили! Папа, наверное,\nпоймал пол-океана рыбы!\n<PAGE>\nНо все были так рады!"
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_32",
+   "key": "c8c261c7",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nХа! Это мой папа, его все-е-е любят!\n<PAGE>\nЯ знал, что все полагаются на папу, но правда\nпрямо все!\n<PAGE>\nА ещё я услышал столько удивительных\nисторий...\n<PAGE>\nОн такой классный! Хочу однажды стать таким\nже надёжным мужчиной!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_33",
+   "key": "3364f72c",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nХе-хе. Махало, <_____MYNAME_____>.\n<PAGE>\nПошли домой! Он ведь сказал не сворачивать!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_36",
+   "key": "bc58371d",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nЯ дома! Мы всё раздали!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_34",
+   "key": "8c261997",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_LAUGH>\r\nС возвращением, ребята. Вы меня сегодня\nздорово выручили.\n<PAGE>\nБлагодаря этому я закончил работу пораньше.\nТак что сегодня ужин готовил я!\n<PAGE>\nСкорее мойте руки и давайте есть!\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>Ура-а-а! Ты сто лет не готовил!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_35",
+   "key": "c75898ea",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_LAUGH>\r\nС возвращением, ребята. Вы мне очень\nпомогли.\n<PAGE>\nРаз я рано закончил работу, приготовил ужин!\nСкорее мойте руки и давайте есть!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_37",
+   "key": "19135c2c",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_NORMAL>\r\nИ ты мой руки, <_____MYNAME_____>! Сегодня я угощаю!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_38",
+   "key": "17835508",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_NORMAL>\r\nТак! Не забудем поблагодарить бога океана за\nэту трапезу.\n<PAGE>\nА теперь ― приятного аппетита!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_39",
+   "key": "c2ead6c1",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nВу-у-ух, еда!\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_LAUGH>Всё такое вкусное на вид! Не знаю, с чего\nначать!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_40",
+   "key": "041d0590",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\n...М-м! Очень вкусно, пап!\n<PAGE>\n<FACE_FISHER><POS_LEFT><FACE_LAUGH>А то! Рыба-то свежее некуда.\n<PAGE>\n<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>Ой, точно, пап! Правда, что ты подружился с\nмедведем?\n<PAGE>\n<FACE_FISHER><POS_LEFT><FACE_NORMAL>Ну, было дело, но от кого ты это услышал?"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_41",
+   "key": "3081c1f3",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_NORMAL>\r\nОй, точно, пап! Правда, что ты дружишь с\nмедведем?"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_42",
+   "key": "97a621a1",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nА, ну-у-у, было такое, но от кого ты это\nуслышал?"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_43",
+   "key": "dd252b04",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nОт Хаулани. Правда, <_____MYNAME_____>?\n<PAGE>\n<FACE_FISHERDAUGHTER><POS_LEFT><FACE_ANGRY>Эх! Я эту историю никогда не слышала!\nНечестно, Шальк!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_44",
+   "key": "56e64286",
+   "ru": "<FACE_FISHERDAUGHTER><POS_RIGHT><FACE_ANGRY>\r\nЭ-э-эх? Я эту историю никогда не слышала!\nНечестно, Шальк!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_45",
+   "key": "0f48074e",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй-эй-эй! Не ссорьтесь! К тому же это было\nдавно. Очень давно."
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_46",
+   "key": "695f00b0",
+   "ru": "<FACE_FISHERSON><POS_RIGHT><FACE_LAUGH>\r\nА ещё я слышал другие истории! Например,\nкакой ты щедрый, пап!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_47",
+   "key": "5bfb2bcb",
+   "ru": "<FACE_FISHER><POS_LEFT><FACE_NORMAL>\r\nИ ты туда же со смущающими речами, <_____MYNAME_____>...\nЛестью ничего не добьёшься, дружище!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_48",
+   "key": "63011ef1",
+   "ru": "<FACE_FISHERWIFE><POS_LEFT><FACE_LAUGH>\r\nОго? Как редко увидишь тебя таким\nсмущённым, Захау.\n<PAGE>\nВот здорово. Ну-ка, расскажите ещё истории,\nчто вы сегодня услышали.\n<PAGE>\n<FACE_FISHER><POS_RIGHT><FACE_SAD>Хватит, это же стыдно!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_RESIDENT_FISHER_49",
+   "key": "d516d429",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nХватит, это же стыдно!"
+  }
+ ]
+}

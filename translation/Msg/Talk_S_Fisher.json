@@ -2,11 +2,6829 @@
  "file": "Talk_S_Fisher",
  "entries": [
   {
+   "n": 0,
+   "f": 2,
+   "id": "MES_MAN_FIRST_MEETING",
+   "key": "5f8c1de9",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nХм? Что-то я тебя тут раньше не видел. Ветер\nдонёс, что на ферму по дороге кто-то\nвъезжает. Это ты?\n<PAGE>\nАга! Так и думал! Значит, ты <_____MYNAME_____>? Я Захау, рыбак.\n<PAGE>\nЕсли будут какие вопросы, спрашивай! Люблю\nлюбознательных и энергичных ребят, так что\nмне не трудно!"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_WOMAN_FIRST_MEETING",
+   "key": "3d17cbb3",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nХм? Что-то я тебя тут раньше не видел. Ветер\nдонёс, что на ферму по дороге кто-то\nвъезжает. Это ты?\n<PAGE>\nАга! Так и думал! Значит, ты <_____MYNAME_____>? Я Захау, рыбак.\n<PAGE>\nЕсли будут какие вопросы, спрашивай! Заходи\nв любое время!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_LONG_INTERVAL",
+   "key": "ad4db821",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, эй! Да это же <_____MYNAME_____>. Так давно тебя не видел,\nчто чуть не забыл, как ты выглядишь!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_LOVER_LONG_INTERVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_MARRIAGE_LONG_INTERVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_PLAYER_DOWN",
+   "key": "8dd4b21d",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nЭй, ну что это было? Вчера тебе стало плохо!\nЯ так переживал! Телу нужен отдых, знаешь ли!\nНе перенапрягайся!"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "WORKING_REQUEST_000",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "WORKING_REQUEST_001",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "WORKING_DELIVERY_000",
+   "key": "6001cd72",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nО? Посылка мне? Отлично! Я её как раз ждал!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "WORKING_DELIVERY_001",
+   "key": "e7703ed9",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nТо, что я ждал! Семья будет в восторге.\nMahalo!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRIDGE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BELL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_BRONZE_STATUE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_A_GODDESS_STATUE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_RESTAURANT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_A_PERFUME",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BRIDGE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_BATHSHOP",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_RELIEF",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_J_SHRINE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_TEA",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_BATH",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_J_ACCESSORY",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_KITCHEN",
+   "key": "82c1bb01",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nПохоже, теперь, когда городскую кухню\nпривели в порядок, ею все пользуются. Значит,\nуборка была не зря, а?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_BONFIRE",
+   "key": "0efd54bd",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nТеперь, когда костёр лучше прежнего, я вижу,\nкак много людей ходит туда репетировать\nтанцы.\n<PAGE>\nВидно, надо мне репетировать на барабанах,\nчтобы не отставать, а? Заходи как-нибудь к\nнам!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_INN",
+   "key": "02ef7ae2",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nМы все здесь многим обязаны старушке\nТототаре.\n<PAGE>\nЕсли можем хоть чем-то ей помочь, всегда\nрады.\n<PAGE>\n<FACE_LAUGH>Вот почему мы все так охотно взялись за\nгостиницу. Спасибо за помощь.\n<PAGE>\nОт имени всех в городе... mahalo. Надеемся,\nты и дальше будешь нам помогать."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_TOWN_GRADEUP_S_LANDING",
+   "key": "59de0562",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nТеперь, когда пирс достроили, лодку\nпривязывать куда проще. Mahalo, <_____MYNAME_____>.\n<PAGE>\nМало того, я нашёл отличное новое рыбное\nместо. Надо бы как-нибудь всех туда сводить\nпорыбачить!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_FOOD",
+   "key": "e9002059",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nСмесь специй, что вы сделали с Каолилой, ―\nлучшее после рыбалки!\n<PAGE>\nЯ обожаю острое, знаешь ли! Теперь хочу\nдобавлять эту смесь во всё, что ем."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_TEA",
+   "key": "eb126695",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nНовое блюдо с лапшой в кафе у моря выглядит\nвкусно. Прямо очень-очень вкусно.\n<PAGE>\n<FACE_SAD>Но... там же полно овощей, понимаешь? Я с\nовощами не очень.\n<PAGE>\nДа, знаю, они полезные и их надо есть, но...\nЭто ведь твой рецепт? Может, придумаешь\nвариант без овощей?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_TOWN_COLLABO_S_DRESS",
+   "key": "39e657ed",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nВетер донёс, что Митра уломала вас с Лудусом\nвоссоздать старинную традиционную одежду\nгорода.\n<PAGE>\nХа-ха! Небось, было тяжко! Но молодцы."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SPRING",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SPRING",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_SPRING",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_SUMMER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_SUMMER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_SUMMER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_AUTUMN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_AUTUMN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_AUTUMN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_WEATHER_A_SUNNY_WINTER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_WEATHER_A_RAIN_WINTER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_WEATHER_A_SNOW_WINTER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SPRING",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SPRING",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 45,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_SPRING",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 46,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_SUMMER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 47,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_SUMMER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 48,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_SUMMER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 49,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_AUTUMN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 50,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_AUTUMN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 51,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_AUTUMN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 52,
+   "f": 2,
+   "id": "MES_WEATHER_J_SUNNY_WINTER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 53,
+   "f": 2,
+   "id": "MES_WEATHER_J_RAIN_WINTER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 54,
+   "f": 2,
+   "id": "MES_WEATHER_J_SNOW_WINTER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 55,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_SPRING",
+   "key": "1492a2b6",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nА! Идеальный день для рыбалки! Любой\nуважающий себя рыбак сегодня будет на воде!"
+  },
+  {
+   "n": 56,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_SPRING",
+   "key": "87d5f9b2",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nПогодка сегодня так себе. Не очень люблю\nвесенние дожди. Капает, морось, уныло."
+  },
+  {
+   "n": 57,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_SPRING",
+   "key": "5e5f0a74",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nВ такие холодные дни надо выкручивать\nэнергию на максимум!"
+  },
+  {
+   "n": 58,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_SUMMER",
+   "key": "068d4e2e",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nФух! Вот это летнее солнце! Ну да, жарко так,\nчто можно жарить рыбу прямо на земле, но\nмне такое и нравится!"
+  },
+  {
+   "n": 59,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_SUMMER",
+   "key": "a11df419",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nДождь, конечно, сбивает жару, но так уныло.\nСолнце мне куда больше по душе."
+  },
+  {
+   "n": 60,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_SUMMER",
+   "key": "5e5f0a74",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nВ такие холодные дни надо выкручивать\nэнергию на максимум!"
+  },
+  {
+   "n": 61,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_AUTUMN",
+   "key": "2c48019a",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nСолнце теперь уже не так палит. Хорошо! Но\nэнергии у меня всё ещё полно, так что пора за\nработу!"
+  },
+  {
+   "n": 62,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_AUTUMN",
+   "key": "7256dfe0",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nСам я дождь не очень люблю, но для тех, кто\nвыращивает урожай, это, небось, настоящее\nблагословение."
+  },
+  {
+   "n": 63,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_AUTUMN",
+   "key": "5e5f0a74",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nВ такие холодные дни надо выкручивать\nэнергию на максимум!"
+  },
+  {
+   "n": 64,
+   "f": 2,
+   "id": "MES_WEATHER_S_SUNNY_WINTER",
+   "key": "e043e682",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nДаже зимой здесь тепло и хорошо. Как не\nлюбить солнце!"
+  },
+  {
+   "n": 65,
+   "f": 2,
+   "id": "MES_WEATHER_S_RAIN_WINTER",
+   "key": "7256dfe0",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nСам я дождь не очень люблю, но для тех, кто\nвыращивает урожай, это, небось, настоящее\nблагословение."
+  },
+  {
+   "n": 66,
+   "f": 2,
+   "id": "MES_WEATHER_S_SNOW_WINTER",
+   "key": "5e5f0a74",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nВ такие холодные дни надо выкручивать\nэнергию на максимум!"
+  },
+  {
+   "n": 67,
+   "f": 2,
+   "id": "MES_WEATHER_TYPHOON",
+   "key": "408381c3",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_ANGRY>\r\nКакого лешего ты тут делаешь?! Не\nпонимаешь, как опасно бродить в такую бурю?!"
+  },
+  {
+   "n": 68,
+   "f": 2,
+   "id": "MES_WEATHER_HEAVYSNOW",
+   "key": "8c8525b2",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\n<_____MYNAME_____>! Какого лешего ты делаешь на таком холоде?!\n<PAGE>\nВозвращайся на ферму и согрейся, пока не\nзаболело горло!"
+  },
+  {
+   "n": 69,
+   "f": 2,
+   "id": "MES_MARRIAGE_WEATHER_TYPHOON",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 70,
+   "f": 2,
+   "id": "MES_MARRIAGE_WEATHER_HEAVYSNOW",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 71,
+   "f": 2,
+   "id": "MES_MAN_MORNING_TALK_00",
+   "key": "f9ca3b6f",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>! А? Не слышу! Давай! Громче! Голос\nдолжен идти от живота!"
+  },
+  {
+   "n": 72,
+   "f": 2,
+   "id": "MES_MAN_MORNING_TALK_01",
+   "key": "16b35d54",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nХорошо, хорошо! Утром у тебя энергии через\nкрай! Так и должна выглядеть молодёжь."
+  },
+  {
+   "n": 73,
+   "f": 2,
+   "id": "MES_WOMAN_MORNING_TALK_00",
+   "key": "4d58fb23",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>! А? Не слышу! А, погоди. Наверное, не\nстоит ждать, что все такие же громкие, как я."
+  },
+  {
+   "n": 74,
+   "f": 2,
+   "id": "MES_WOMAN_MORNING_TALK_01",
+   "key": "f11944a6",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nУтром у тебя энергии через край! Рад видеть!"
+  },
+  {
+   "n": 75,
+   "f": 2,
+   "id": "MES_MAN_AFTERNOON_TALK_00",
+   "key": "aa9f5214",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, привет! Трудишься сегодня, а?"
+  },
+  {
+   "n": 76,
+   "f": 2,
+   "id": "MES_MAN_AFTERNOON_TALK_01",
+   "key": "9d5ec95f",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЕсли голодно, ешь рыбу. Рыба здесь\nобъедение! Просто пожарь да посоли. М-м-м!"
+  },
+  {
+   "n": 77,
+   "f": 2,
+   "id": "MES_WOMAN_AFTERNOON_TALK_00",
+   "key": "aa9f5214",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, привет! Трудишься сегодня, а?"
+  },
+  {
+   "n": 78,
+   "f": 2,
+   "id": "MES_WOMAN_AFTERNOON_TALK_01",
+   "key": "9d5ec95f",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЕсли голодно, ешь рыбу. Рыба здесь\nобъедение! Просто пожарь да посоли. М-м-м!"
+  },
+  {
+   "n": 79,
+   "f": 2,
+   "id": "MES_MAN_EVENING_TALK_00",
+   "key": "7edd3d86",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nРаботаешь допоздна, а? Только осторожнее по\nдороге домой. Темно!"
+  },
+  {
+   "n": 80,
+   "f": 2,
+   "id": "MES_MAN_EVENING_TALK_01",
+   "key": "524c0c17",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nТрудиться хорошо, но не перестарайся. Все\nусилия пойдут насмарку, если доработаешься\nдо болезни."
+  },
+  {
+   "n": 81,
+   "f": 2,
+   "id": "MES_WOMAN_EVENING_TALK_00",
+   "key": "7edd3d86",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nРаботаешь допоздна, а? Только осторожнее по\nдороге домой. Темно!"
+  },
+  {
+   "n": 82,
+   "f": 2,
+   "id": "MES_WOMAN_EVENING_TALK_01",
+   "key": "bb6518d4",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nОсторожнее по дороге домой, ладно? Не\nхотелось бы узнать, что в темноте случилась\nбеда."
+  },
+  {
+   "n": 83,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 84,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 85,
+   "f": 2,
+   "id": "MES_LOVER_MORNING_TALK_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 86,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 87,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 88,
+   "f": 2,
+   "id": "MES_LOVER_AFTERNOON_TALK_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 89,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 90,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 91,
+   "f": 2,
+   "id": "MES_LOVER_EVENING_TALK_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 92,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 93,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 94,
+   "f": 2,
+   "id": "MES_MARRIAGE_MORNING_TALK_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 95,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 96,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 97,
+   "f": 2,
+   "id": "MES_MARRIAGE_AFTERNOON_TALK_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 98,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 99,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 100,
+   "f": 2,
+   "id": "MES_MARRIAGE_EVENING_TALK_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 101,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_0",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 102,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_1",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 103,
+   "f": 2,
+   "id": "MES_GREETING_WEEKDAYS_2",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 104,
+   "f": 2,
+   "id": "MES_FEERING_GOOD_TALK_00",
+   "key": "5d2285cf",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>! Отличный сегодня день, а?!"
+  },
+  {
+   "n": 105,
+   "f": 2,
+   "id": "MES_FEERING_GOOD_TALK_01",
+   "key": "8a06edb7",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nСегодня отличный день! Наловил целую гору\nрыбы и чувствую, что могу наловить ещё!\nВечером будет чем порадовать Каолилу.\n<PAGE>\nНе терпится увидеть её лицо. От одной мысли\nо её широкой улыбке весь день становится ещё\nлучше!"
+  },
+  {
+   "n": 106,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_GOOD_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 107,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_GOOD_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 108,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_GOOD_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 109,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_GOOD_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 110,
+   "f": 2,
+   "id": "MES_FEERING_TIRED_TALK_00",
+   "key": "e3faa3ec",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nО. <_____MYNAME_____>. Прости, я сегодня не такой бодрый, как\nобычно...\n<PAGE>\nE kala mai. Можно попросить зайти в другой\nраз?"
+  },
+  {
+   "n": 111,
+   "f": 2,
+   "id": "MES_FEERING_TIRED_TALK_01",
+   "key": "8ffe366b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nОх, это на меня совсем не похоже. Совсем\nраскис. Наверное, просто устал сегодня или\nвроде того."
+  },
+  {
+   "n": 112,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_TIRED_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 113,
+   "f": 2,
+   "id": "MES_LOVER_FEERING_TIRED_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 114,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_TIRED_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 115,
+   "f": 2,
+   "id": "MES_MARRIAGE_FEERING_TIRED_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 116,
+   "f": 2,
+   "id": "MES_MAN_CHANGE_FEELING_GOOD",
+   "key": "031f7174",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nА! Глядя, какой ты весёлый и бодрый человек,\nя тоже взбодрился.\n<PAGE>\nХандрить ― вообще не моё. Mahalo!"
+  },
+  {
+   "n": 117,
+   "f": 2,
+   "id": "MES_WOMAN_CHANGE_FEELING_GOOD",
+   "key": "031f7174",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nА! Глядя, какой ты весёлый и бодрый человек,\nя тоже взбодрился.\n<PAGE>\nХандрить ― вообще не моё. Mahalo!"
+  },
+  {
+   "n": 118,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_GOOD",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 119,
+   "f": 2,
+   "id": "MES_MARRIAGE_CHANGE_FEELING_GOOD",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 120,
+   "f": 2,
+   "id": "MES_MAN_CHANGE_FEELING_BAD",
+   "key": "3934ebb4",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nОх. Не помню, когда в последний раз так\nуставал. Сам на себя не похож сегодня. E kala\nmai."
+  },
+  {
+   "n": 121,
+   "f": 2,
+   "id": "MES_WOMAN_CHANGE_FEELING_BAD",
+   "key": "3934ebb4",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nОх. Не помню, когда в последний раз так\nуставал. Сам на себя не похож сегодня. E kala\nmai."
+  },
+  {
+   "n": 122,
+   "f": 2,
+   "id": "MES_LOVER_CHANGE_FEELING_BAD",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 123,
+   "f": 2,
+   "id": "MES_MARRIAGE_CHANGE_FEELING_BAD",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 124,
+   "f": 2,
+   "id": "MES_TODAY_GODDESS",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 125,
+   "f": 2,
+   "id": "MES_TODAY_RICE_EAR",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 126,
+   "f": 2,
+   "id": "MES_TODAY_WITCH",
+   "key": "6aac168a",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>! Сегодня Праздник духов!\n<PAGE>\nКаолила очень старается, чтобы в этом году\nбыло отлично! Ты ведь участвуешь?"
+  },
+  {
+   "n": 127,
+   "f": 2,
+   "id": "MES_TODAY_GAME",
+   "key": "6c2f03bd",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nСегодня начинается Трилимпиада! Будешь\nучаствовать? Если будем соперниками,\nберегись!"
+  },
+  {
+   "n": 128,
+   "f": 2,
+   "id": "MES_TODAY_DRINK",
+   "key": "b60b8366",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nСегодня Праздник напитков. Обязательно\nпринеси что-нибудь вкусное, чтобы сделать\nотличный новый напиток, ладно?"
+  },
+  {
+   "n": 129,
+   "f": 2,
+   "id": "MES_MAN_TODAY_FRIENDSHIP",
+   "key": "d0d79d49",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nСегодня Ночь морских огней. В своё время мы с\nКаолилой...\n<PAGE>\n<FACE_LAUGH>Ой! Каолила рассердится, если я это расскажу!\nВ общем, не стесняйся, ладно? Иди и пригласи\nсвою особенную!"
+  },
+  {
+   "n": 130,
+   "f": 2,
+   "id": "MES_WOMAN_TODAY_FRIENDSHIP",
+   "key": "54b35422",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nСегодня Ночь морских огней. Кого пригласишь?\n<PAGE>\nСкажи, если кто откажет. Парень, который\nоткажет такой прелестной даме, заслуживает\nхорошего подзатыльника!"
+  },
+  {
+   "n": 131,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FRIENDSHIP",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 132,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FRIENDSHIP",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 133,
+   "f": 2,
+   "id": "MES_TODAY_NEW_YEAR",
+   "key": "cf80a6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nСегодня вечером Новогодний праздник. Где\nбудешь праздновать в этом году?\n<PAGE>\nХочешь повеселиться от души ― тогда в\nЛулукоко!"
+  },
+  {
+   "n": 134,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 135,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FLOWER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 136,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FLOWER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 137,
+   "f": 2,
+   "id": "MES_TODAY_FLOWER_NOT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 138,
+   "f": 2,
+   "id": "MES_FORGET_FLOWER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 139,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_FLOWER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 140,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_FLOWER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 141,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 142,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_GRUEL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 143,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_GRUEL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 144,
+   "f": 2,
+   "id": "MES_TODAY_GRUEL_NOT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 145,
+   "f": 2,
+   "id": "MES_FORGET_GRUEL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 146,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_GRUEL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 147,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_GRUEL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 148,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT",
+   "key": "f2f46df4",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>! Сегодня Фруктовая фиеста, знаешь ли.\n<PAGE>\nВот, держи. Небольшой подарок от меня."
+  },
+  {
+   "n": 149,
+   "f": 2,
+   "id": "MES_LOVER_TODAY_FRUIT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 150,
+   "f": 2,
+   "id": "MES_MARRIAGE_TODAY_FRUIT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 151,
+   "f": 2,
+   "id": "MES_TODAY_FRUIT_NOT",
+   "key": "b0891ef5",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nНу и популярность у тебя! Сумка так набита\nфруктами, что места нет! Освободи и\nвозвращайся, ладно?"
+  },
+  {
+   "n": 152,
+   "f": 2,
+   "id": "MES_FORGET_FRUIT",
+   "key": "047f9762",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nА, отлично! Не знал, когда ты вернёшься! Не\nволнуйся. Я не всё раздал.\n<PAGE>\nТвоё лежит прямо тут. Держи!"
+  },
+  {
+   "n": 153,
+   "f": 2,
+   "id": "MES_LOVER_FORGET_FRUIT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 154,
+   "f": 2,
+   "id": "MES_MARRIAGE_FORGET_FRUIT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 155,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 156,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 157,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 158,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 159,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 160,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 161,
+   "f": 2,
+   "id": "MES_CAMPAIGN_GODDESS_SELECT_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 162,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 163,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 164,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 165,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 169,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_00",
+   "key": "8bbbf922",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nХм? Что такое? А! Пожертвования на Праздник\nдухов. Понял."
+  },
+  {
+   "n": 170,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_01",
+   "key": "43638d35",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nНу, раз так ставишь вопрос, с радостью помогу!\n<PAGE>\nТолько, э-э, не говори Каолиле, сколько\nименно я дал, ладно? Я немного вышел за\nбюджет."
+  },
+  {
+   "n": 171,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_02",
+   "key": "6acd56d1",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, в этом году могу выделить только это.\nЕсли выйду за бюджет, Каолила будет\nнедовольна. E kala mai."
+  },
+  {
+   "n": 172,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_00",
+   "key": "22b37260",
+   "ru": "Слёзно умолять"
+  },
+  {
+   "n": 173,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_01",
+   "key": "2c9eb184",
+   "ru": "Уговорить его"
+  },
+  {
+   "n": 174,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_02",
+   "key": "d931124c",
+   "ru": "Сделать недовольное лицо"
+  },
+  {
+   "n": 175,
+   "f": 2,
+   "id": "MES_CAMPAIGN_WITCH_SELECT_03",
+   "key": "ace26435",
+   "ru": "Надуть губы"
+  },
+  {
+   "n": 176,
+   "f": 2,
+   "id": "MES_CAMPAIGN_FINISH",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 177,
+   "f": 2,
+   "id": "MES_CAMPAIGN_1_MORE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 178,
+   "f": 2,
+   "id": "MES_CAMPAIGN_2_MORE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 179,
+   "f": 2,
+   "id": "MES_CAMPAIGN_3_MORE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 180,
+   "f": 2,
+   "id": "MES_CAMPAIGN_4_MORE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 181,
+   "f": 2,
+   "id": "MES_CAMPAIGN_5_MORE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 182,
+   "f": 2,
+   "id": "MES_CAMPAIGN_6_MORE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 183,
+   "f": 2,
+   "id": "MES_MAP_FARM_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 184,
+   "f": 2,
+   "id": "MES_MAP_FARM_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 185,
+   "f": 2,
+   "id": "MES_MAP_THREE_FORKED_ROAD_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 186,
+   "f": 2,
+   "id": "MES_MAP_THREE_FORKED_ROAD_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 187,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 188,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 189,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 190,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 191,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_04",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 192,
+   "f": 2,
+   "id": "MES_MAP_AMERICA_05",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 193,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 194,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 195,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 196,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 197,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_04",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 198,
+   "f": 2,
+   "id": "MES_MAP_JAPAN_05",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 199,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_00",
+   "key": "eeb972d4",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nПочему я рыбачу? А почему нет?! Тут же целое\nморе! Как прекрасный бездонный сундук с\nсокровищами!"
+  },
+  {
+   "n": 200,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_01",
+   "key": "5fafea65",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nМы с Тигре иногда устраиваем здесь\nмузыкальные выступления. Приходи\nкак-нибудь послушать."
+  },
+  {
+   "n": 201,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_02",
+   "key": "5749037b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nИногда я вожу всю семью поесть в то кафе. Там\nотличная еда!"
+  },
+  {
+   "n": 202,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_03",
+   "key": "4c098c18",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКогда смотрю на ночное небо, будто вижу там\nещё одно море. Море звёзд. Здорово, а?"
+  },
+  {
+   "n": 203,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_04",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 204,
+   "f": 2,
+   "id": "MES_MAP_SOUTH_05",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 205,
+   "f": 2,
+   "id": "MES_MAP_SHOOTING_STAR",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 206,
+   "f": 2,
+   "id": "MES_MAP_WINDMILL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 207,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_A",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 208,
+   "f": 2,
+   "id": "MES_MAP_SNOWMAN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 209,
+   "f": 2,
+   "id": "MES_MAP_TREE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 210,
+   "f": 2,
+   "id": "MES_MAP_WIND_BELL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 211,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_J",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 212,
+   "f": 2,
+   "id": "MES_MAP_FIREFLY",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 213,
+   "f": 2,
+   "id": "MES_MAP_MORNING_GRLORY",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 214,
+   "f": 2,
+   "id": "MES_MAP_SILVER_GRASS",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 215,
+   "f": 2,
+   "id": "MES_MAP_DRAGONFLY",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 216,
+   "f": 2,
+   "id": "MES_MAP_STRAW",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 217,
+   "f": 2,
+   "id": "MES_MAP_DRIED_PERSIMMON",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 218,
+   "f": 2,
+   "id": "MES_MAP_THUNDERHEAD",
+   "key": "0318ad0d",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nОго! Вот это облачище! Как увидишь такое,\nсразу вспоминаешь лето, а?"
+  },
+  {
+   "n": 219,
+   "f": 2,
+   "id": "MES_MAP_NOCTILUCA",
+   "key": "adf09067",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nСегодня море особенно красивое! Видишь свет?\nЭто такие зверушки, “морские искорки”. Они\nбывают не всегда.\n<PAGE>\nЧаще всего их видно летом. Это примета\nсезона!"
+  },
+  {
+   "n": 220,
+   "f": 2,
+   "id": "MES_MAP_MILKY_WAY_S",
+   "key": "79556e8c",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>! Посмотри на небо. Звёзды сегодня очень\nкрасивые."
+  },
+  {
+   "n": 221,
+   "f": 2,
+   "id": "MES_MAP_COLD_VEGETABLE_S",
+   "key": "64a7d860",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>? Ты... любишь овощи?\n<PAGE>\n<FACE_SAD>А я их просто не выношу, как ни стараюсь. Я\nрыбак, а не фермер. Больше всего люблю\nрыбу."
+  },
+  {
+   "n": 222,
+   "f": 2,
+   "id": "MES_MAP_GULL",
+   "key": "8045567d",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, чайки сегодня высыпали всей толпой.\nНа вид милые, но эти мелкие негодники так и\nноровят стащить мою рыбу.\n<PAGE>\nНу да ладно. Если расстраиваться из-за пары\nрыбин, рыбаком быть тяжко!"
+  },
+  {
+   "n": 223,
+   "f": 2,
+   "id": "MES_PLAYER_HOUSE_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 224,
+   "f": 2,
+   "id": "MES_PLAYER_HOUSE_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 225,
+   "f": 2,
+   "id": "MES_MY_HOUSE_00",
+   "key": "fe201cc4",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nАлоха, <_____MYNAME_____>! Рад тебя видеть!\n<PAGE>\nТут немного захламлено, но располагайся как\nдома!"
+  },
+  {
+   "n": 226,
+   "f": 2,
+   "id": "MES_MY_HOUSE_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 227,
+   "f": 2,
+   "id": "MES_FRIEND_HOUSE",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 228,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 229,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 230,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 231,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 232,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_04",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 233,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_05",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 234,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_06",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 235,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_07",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 236,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_08",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 237,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_A_09",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 238,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 239,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 240,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 241,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 242,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_04",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 243,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_06",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 244,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_08",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 245,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_J_09",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 246,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 247,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 248,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 249,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_05",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 250,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_07",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 251,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_08",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 252,
+   "f": 2,
+   "id": "MES_REACTION_SHIP_CROPS_S_09",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 253,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_OPEN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 254,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SHOP_OPEN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 255,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SHOP_OPEN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 256,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 257,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 258,
+   "f": 2,
+   "id": "MES_SCHEDULE_SHOP_FREETALK_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 259,
+   "f": 2,
+   "id": "MES_SCHEDULE_SLEEP",
+   "key": "2b1c3f0f",
+   "ru": "<FACE_FISHER>\r\nКаолила... Хр-р... Альма... Хр-р... Шальк..."
+  },
+  {
+   "n": 260,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SLEEP",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 261,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SLEEP",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 262,
+   "f": 2,
+   "id": "MES_SCHEDULE_SICK",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 263,
+   "f": 2,
+   "id": "MES_LOVER_SCHEDULE_SICK",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 264,
+   "f": 2,
+   "id": "MES_MARRIAGE_SCHEDULE_SICK",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 265,
+   "f": 2,
+   "id": "MES_MEAL",
+   "key": "d6efae83",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nХм? E kala mai. Дай доесть. На пустой\nжелудок работать трудно, знаешь ли."
+  },
+  {
+   "n": 266,
+   "f": 2,
+   "id": "MES_LOVER_MEAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 267,
+   "f": 2,
+   "id": "MES_MEAL_RESTAURANT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 268,
+   "f": 2,
+   "id": "MES_MEAL_JAPANESE_TEA",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 269,
+   "f": 2,
+   "id": "MES_MEAL_SOUTH_TEA",
+   "key": "5b7421e0",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nМ-м-м! Здесь лучшая еда! Ну... вторая после\nстряпни Каолилы!"
+  },
+  {
+   "n": 270,
+   "f": 2,
+   "id": "MES_MEAL_WITH_00",
+   "key": "488601a8",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>. Вид у тебя голодный. Перекусишь?"
+  },
+  {
+   "n": 271,
+   "f": 2,
+   "id": "MES_MEAL_WITH_01",
+   "key": "7bccb6d8",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nВот это я понимаю! Садись вон туда."
+  },
+  {
+   "n": 272,
+   "f": 2,
+   "id": "MES_MEAL_WITH_02",
+   "key": "f1cbf8d4",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nПравда? Нет? Ну, скучно с тобой. Ну ладно.\nТебе всегда рады, так что присоединяйся в\nлюбое время."
+  },
+  {
+   "n": 273,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 274,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 275,
+   "f": 2,
+   "id": "MES_LOVER_MEAL_WITH_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_00",
+   "key": "fedae5dd",
+   "ru": "Поесть с Захау"
+  },
+  {
    "n": 277,
    "f": 2,
    "id": "MES_MEAL_SELECT_01",
    "key": "93efdefa",
    "ru": "Не сегодня"
+  },
+  {
+   "n": 278,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 279,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 280,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 281,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 282,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_04",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 283,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_05",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 284,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_06",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 285,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_07",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 286,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_08",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 287,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_09",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 288,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_10",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 289,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_11",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 290,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_12",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 291,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_13",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 292,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_14",
+   "key": "adc6e8d5",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЙо! <_____MYNAME_____>! Как дела? Клюёт? Я лично только\nначинаю!\n<PAGE>\nА? Конечно, профи тоже можно участвовать!\nНе занудствуй! Настоящие победители ― те,\nкому веселее всех!"
+  },
+  {
+   "n": 293,
+   "f": 2,
+   "id": "MES_SCHEDULE_TALK_15",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 294,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_01",
+   "key": "4d64bcc9",
+   "ru": "Попросить помощи."
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_02",
+   "key": "07f11ea4",
+   "ru": "Не просить помощи."
+  },
+  {
+   "n": 297,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_CANCEL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 298,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_OK",
+   "key": "eaa010f1",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 299,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_RESULT_00",
+   "key": "eaa010f1",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 300,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_00",
+   "key": "076b27d1",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>! Как дела? Трудишься сегодня? Или\nотдыхаешь от души?"
+  },
+  {
+   "n": 301,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_01",
+   "key": "188f389f",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>! Знаю, энергии у тебя много, но не\nперенапрягайся. А то шлёпнешься лицом в\nземлю!"
+  },
+  {
+   "n": 302,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_02",
+   "key": "41645d04",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>! Как дела? Интересуешься рыбалкой?\n<PAGE>\nЕсли захочешь со мной, милости прошу.\nПокажу, как это делает опытный рыбак вроде\nменя!"
+  },
+  {
+   "n": 303,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_03",
+   "key": "078cd985",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Не поиграешь немного с Шальком?\n<PAGE>\nЗнаю, с тобой он в надёжных руках. Спешить\nнекуда, как будет настроение. Mahalo!"
+  },
+  {
+   "n": 304,
+   "f": 2,
+   "id": "MES_MAN_FRENDSHIP_CONVERSATION_04",
+   "key": "248371f6",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЯ человек моря, знаешь ли. Чтобы работать,\nмне приходится оставлять семью и часами\nпропадать на воде.\n<PAGE>\nНо... если что-то случится и у моей семьи\nбудет беда, пока меня нет, поможешь им?\n<PAGE>\nТакое я не могу просить у кого попало. Семья\nмне дорога, так что доверю её только тому,\nкому верю.\n<PAGE>\nЯ верю тебе. Знаю, если что-то случится, ты\nвсегда сделаешь всё, чтобы помочь."
+  },
+  {
+   "n": 305,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_00",
+   "key": "076b27d1",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>! Как дела? Трудишься сегодня? Или\nотдыхаешь от души?"
+  },
+  {
+   "n": 306,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_01",
+   "key": "188f389f",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>! Знаю, энергии у тебя много, но не\nперенапрягайся. А то шлёпнешься лицом в\nземлю!"
+  },
+  {
+   "n": 307,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_02",
+   "key": "22716474",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nАлоха, <_____MYNAME_____>! Как дела? Любишь рыбу?\n<PAGE>\nЕсли хочешь, как-нибудь поделюсь уловом.\nЖди с нетерпением!"
+  },
+  {
+   "n": 308,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_03",
+   "key": "60e3a077",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>! Пришла поздороваться с Каолилой?\n<PAGE>\nЧто? Пришла ко мне? Ха-ха! Умеешь\nпольстить! Но... может, прибережёшь такие\nслова для своего парня?"
+  },
+  {
+   "n": 309,
+   "f": 2,
+   "id": "MES_WOMAN_FRENDSHIP_CONVERSATION_04",
+   "key": "95d4ab3d",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЗнаешь, ты почти такой же замечательный\nчеловек, как Каолила. Весёлая, умная и умеешь\nзаботиться о людях.\n<PAGE>\nДа будь вы поближе по возрасту, я бы сказал,\nвыходи когда-нибудь за Шалька! Ему нужен\nкто-то вроде тебя, чтобы присматривать!\n<PAGE>\nОй! Можешь, э-э, не говорить Каолиле? Она\nбывает ревнивой."
+  },
+  {
+   "n": 310,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 311,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 312,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 313,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 314,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_04",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 315,
+   "f": 2,
+   "id": "MES_LOVER_CONVERSATION_05",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 316,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 317,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 318,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 319,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 320,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_04",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 321,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_05",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 322,
+   "f": 2,
+   "id": "MES_MARRIAGE_CONVERSATION_06",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 323,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 324,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 325,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_1_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 326,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 327,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 328,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 329,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_2_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 330,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 331,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 332,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 333,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_3_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 334,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 335,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 336,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 337,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_4_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 338,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 339,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 340,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 341,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_5_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 342,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 343,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 344,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 345,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_6_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 346,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 347,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 348,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 349,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_7_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 350,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 351,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 352,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 353,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_8_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 354,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 355,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 356,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 357,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_9_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 358,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 359,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 360,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 361,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_10_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 362,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 363,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 364,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 365,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_11_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 366,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 367,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 368,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 369,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_12_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 370,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 371,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 372,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 373,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_13_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 374,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 375,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 376,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 377,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_14_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 378,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 379,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 380,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 381,
+   "f": 2,
+   "id": "MES_EVENT_AFTER_15_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 382,
+   "f": 2,
+   "id": "MES_FAMILY_EVENT_AFTER_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 383,
+   "f": 2,
+   "id": "MES_PROPOSAL_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 384,
+   "f": 2,
+   "id": "MES_PROPOSAL_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 385,
+   "f": 2,
+   "id": "MES_PROPOSAL_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 386,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 387,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 388,
+   "f": 2,
+   "id": "MES_CONFESSION_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 389,
+   "f": 2,
+   "id": "MES_CONFESSION_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 390,
+   "f": 2,
+   "id": "MES_CONFESSION_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 391,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 392,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 393,
+   "f": 2,
+   "id": "MES_LOVERS_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 394,
+   "f": 2,
+   "id": "MES_LOVERS_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 395,
+   "f": 2,
+   "id": "MES_LOVERS_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 396,
+   "f": 2,
+   "id": "MES_ENGAGEMENT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 397,
+   "f": 2,
+   "id": "MES_MARRIAGE_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 398,
+   "f": 2,
+   "id": "MES_MARRIAGE_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 399,
+   "f": 2,
+   "id": "MES_MARRIAGE_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 400,
+   "f": 2,
+   "id": "MES_MARRIAGE_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 401,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 402,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 403,
+   "f": 2,
+   "id": "MES_CHILD_GROWTH_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 404,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_LOVER",
+   "key": "e4d7661a",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>! Ветер донёс, что вы с <CHARANAME0> сошлись.\n<PAGE>\nНеплохо! В такие моменты инициатива за\nтобой! Удачи!"
+  },
+  {
+   "n": 405,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_LOVER",
+   "key": "2d81e128",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, <_____MYNAME_____>! Ветер донёс, что вы с <CHARANAME0> сошлись.\n<PAGE>\nГлаз у тебя намётанный! Мы давние знакомые.\nОн ― настоящая находка."
+  },
+  {
+   "n": 406,
+   "f": 2,
+   "id": "MES_BLESSING_LOVER_OTHER",
+   "key": "0cd15463",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nВетер донёс, что у тебя появился особенный\nчеловек в другом городе. Удачи!"
+  },
+  {
+   "n": 407,
+   "f": 2,
+   "id": "MES_BLESSING_LOVER_FAMILY",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 408,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_ENGAGEMENT",
+   "key": "909ed988",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЗначит, у вас с <CHARANAME0> помолвка? Здорово!\n<PAGE>\n<CHARANAME0> ― хорошая девушка. Уверен, многие парни\nмечтают сейчас оказаться на твоём месте!"
+  },
+  {
+   "n": 409,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_ENGAGEMENT",
+   "key": "857e8bbe",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЗначит, у вас с <CHARANAME0> помолвка? Здорово!\n<PAGE>\nОн отличный человек. Как и ты. Спорим,\nмногие парни хотели бы поменяться местами с <CHARANAME0>!"
+  },
+  {
+   "n": 410,
+   "f": 2,
+   "id": "MES_BLESSING_ENGAGEMENT_OTHER",
+   "key": "76b3e096",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nВетер донёс, что у тебя помолвка. Здорово!\n<PAGE>\nНе скажу, что много знаю о твоей будущей\nполовинке, но это же ты. Уверен, выбор\nправильный."
+  },
+  {
+   "n": 411,
+   "f": 2,
+   "id": "MES_BLESSING_ENGAGEMENT_FAMILY",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 412,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_MARRIAGE",
+   "key": "e33e01d5",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю со свадьбой, <_____MYNAME_____>!\n<PAGE>\nТеперь твоя очередь создать свою ohana, как\nмы с Каолилой!"
+  },
+  {
+   "n": 413,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_MARRIAGE",
+   "key": "e33e01d5",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю со свадьбой, <_____MYNAME_____>!\n<PAGE>\nТеперь твоя очередь создать свою ohana, как\nмы с Каолилой!"
+  },
+  {
+   "n": 414,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_OTHER",
+   "key": "e33e01d5",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю со свадьбой, <_____MYNAME_____>!\n<PAGE>\nТеперь твоя очередь создать свою ohana, как\nмы с Каолилой!"
+  },
+  {
+   "n": 415,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_PRESENT",
+   "key": "7b3ce51a",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nВот, держи! Небольшой свадебный подарок от\nменя.\n<PAGE>\nНе благодари. Ты мне всегда помогаешь, это\nменьшее, что я могу. Заходите к нам\nкак-нибудь вдвоём!"
+  },
+  {
+   "n": 416,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_FAMILY",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 417,
+   "f": 2,
+   "id": "MES_BLESSING_MARRIAGE_FAMILY_PRESENT",
+   "key": "2f125da2",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 418,
+   "f": 2,
+   "id": "MES_MAN_BLESSING_CHILD_BIRTH",
+   "key": "c73eee19",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! Слышал, у тебя родился ребёнок!\n<PAGE>\nЕсли нужен будет совет, иди прямо ко мне или\nк Каолиле.\n<PAGE>\nМы со своими двумя сорванцами уже давно\nнамаялись, так что подскажем что угодно!"
+  },
+  {
+   "n": 419,
+   "f": 2,
+   "id": "MES_WOMAN_BLESSING_CHILD_BIRTH",
+   "key": "c73eee19",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! Слышал, у тебя родился ребёнок!\n<PAGE>\nЕсли нужен будет совет, иди прямо ко мне или\nк Каолиле.\n<PAGE>\nМы со своими двумя сорванцами уже давно\nнамаялись, так что подскажем что угодно!"
+  },
+  {
+   "n": 420,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_OTHER",
+   "key": "59c9f9f4",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nПоздравляю! Слышал, у тебя родился ребёнок!\n<PAGE>\nДети ― большая ответственность, так что\nвоспитывай как следует, ладно?"
+  },
+  {
+   "n": 421,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_PRESENT",
+   "key": "4779ace6",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nО, точно! Вот небольшой подарок в честь\nмалыша.\n<PAGE>\nОт родителя родителю! Давай стараться изо\nвсех сил ради наших детей!"
+  },
+  {
+   "n": 422,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 423,
+   "f": 2,
+   "id": "MES_BLESSING_CHILD_BIRTH_FAMILY_PRESENT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 424,
+   "f": 2,
+   "id": "MES_COMING_SYSTER_00",
+   "key": "cfb92482",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>. Я видел незнакомую девушку у твоей\nфермы. Это кто-то из родни?"
+  },
+  {
+   "n": 425,
+   "f": 2,
+   "id": "MES_COMING_MOTHER_00",
+   "key": "c10c6972",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЙо, <_____MYNAME_____>. Я видел незнакомую даму у твоей фермы.\nЭто кто-то из родни?"
+  },
+  {
+   "n": 426,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 427,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 428,
+   "f": 2,
+   "id": "MES_LOVER_GIFT_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 429,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 430,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 431,
+   "f": 2,
+   "id": "MES_MARRIAGE_GIFT_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 432,
+   "f": 2,
+   "id": "MES_MAN_PLAYER_BIRTHDAY_00",
+   "key": "2b581f75",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! С днём рождения!!"
+  },
+  {
+   "n": 433,
+   "f": 2,
+   "id": "MES_MAN_PLAYER_BIRTHDAY_01",
+   "key": "b8c0d0e7",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! С днём рождения!!\n<PAGE>\nВот. У меня для тебя подарочек. Надеюсь,\nпонравится!"
+  },
+  {
+   "n": 434,
+   "f": 2,
+   "id": "MES_WOMAN_PLAYER_BIRTHDAY_00",
+   "key": "2b581f75",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! С днём рождения!!"
+  },
+  {
+   "n": 435,
+   "f": 2,
+   "id": "MES_WOMAN_PLAYER_BIRTHDAY_01",
+   "key": "b8c0d0e7",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! С днём рождения!!\n<PAGE>\nВот. У меня для тебя подарочек. Надеюсь,\nпонравится!"
+  },
+  {
+   "n": 436,
+   "f": 2,
+   "id": "MES_LOVER_PLAYER_BIRTHDAY",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 437,
+   "f": 2,
+   "id": "MES_MARRIAGE_PLAYER_BIRTHDAY",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 438,
+   "f": 2,
+   "id": "MES_NO_EMPTY_BIRTHDAY",
+   "key": "732b7a02",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nНу и популярность у тебя! Сумка так набита\nподарками, что места нет! Освободи и\nвозвращайся, ладно?"
+  },
+  {
+   "n": 439,
+   "f": 2,
+   "id": "MES_FORGET_BIRTHDAY",
+   "key": "56021a0b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nА, вот и ты. Я уже устал ждать. Держи!"
+  },
+  {
+   "n": 440,
+   "f": 2,
+   "id": "MES_TOWN_BIRTHDAY_PARTY",
+   "key": "9e2e4ce8",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nА, точно. У меня для тебя важное сообщение,\nтак что слушай внимательно, ладно? Скажу\nтолько раз.\n<PAGE>\nПриходи сегодня в <GREEN>кафе у моря</GREEN> в <BLUE>13:00</BLUE>. Не\nопаздывай!"
+  },
+  {
+   "n": 441,
+   "f": 2,
+   "id": "MES_BLUE_SHUTTLECOCK",
+   "key": "23563eda",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, эй! Ты чего бегаешь с такой\nдрагоценностью? Потеряешь ― не приходи ко\nмне плакаться."
+  },
+  {
+   "n": 442,
+   "f": 2,
+   "id": "MES_LOVER_BLUE_SHUTTLECOCK",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 443,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 444,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 445,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 446,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 447,
+   "f": 2,
+   "id": "MES_PROPOSAL_BLUE_SHUTTLECOCK",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 448,
+   "f": 2,
+   "id": "MES_MARRIAGE_BLUE_SHUTTLECOCK",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 449,
+   "f": 2,
+   "id": "MES_PENDANT",
+   "key": "23563eda",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, эй! Ты чего бегаешь с такой\nдрагоценностью? Потеряешь ― не приходи ко\nмне плакаться."
+  },
+  {
+   "n": 450,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 451,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_SELECT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 452,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_SELECT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 453,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 454,
+   "f": 2,
+   "id": "MES_LOVER_PENDANT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 455,
+   "f": 2,
+   "id": "MES_MARRIAGE_PENDANT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 456,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_BLUE_SHUTTLECOCK",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 457,
+   "f": 2,
+   "id": "MES_MARRIAGE_ANGER_BLUE_SHUTTLECOCK",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 458,
+   "f": 2,
+   "id": "MES_LOVER_ANGER_PENDANT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 459,
+   "f": 2,
+   "id": "MES_MARRIAGE_ANGER_PENDANT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 460,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_00",
+   "key": "99e096f7",
+   "ru": "(Похоже, ему сейчас не до подарков.\nЗайду попозже.)"
+  },
+  {
+   "n": 461,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_01",
+   "key": "26d4d6ae",
+   "ru": "(Ему сегодня уже был подарок. Лучше\nприберечь это на другой раз.)"
+  },
+  {
+   "n": 462,
+   "f": 2,
+   "id": "MES_WRAPPING_FLOWER",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 463,
+   "f": 2,
+   "id": "MES_WRAPPING_RICE_GRUEL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 464,
+   "f": 2,
+   "id": "MES_WRAPPING_FRUIT",
+   "key": "dce4247f",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nО! Подарок к Фруктовой фиесте, а? Да ещё и в\nупаковке!\n<PAGE>\nНу что ты, не стоило! И всё же приятно знать,\nчто столько хлопот ― ради меня. Mahalo!"
+  },
+  {
+   "n": 465,
+   "f": 2,
+   "id": "MES_WRAPPING_LIKE",
+   "key": "ee87312d",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nО! Это мне? Да ещё и в упаковке!\n<PAGE>\nМногие не ждут, что парню вроде меня\nнравятся такие яркие нарядные узоры, а мне\nнравятся! Mahalo!"
+  },
+  {
+   "n": 466,
+   "f": 2,
+   "id": "MES_WRAPPING_NORMAL",
+   "key": "9751cbc2",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nО! Это мне? Да ещё и в упаковке!\n<PAGE>\nНу что ты, не стоило! Mahalo!"
+  },
+  {
+   "n": 467,
+   "f": 2,
+   "id": "MES_PRESENT_BEST",
+   "key": "0e8fed75",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nУх ты! Отличное ― <BLUE><____ITEMNAME0____></BLUE>! Моё любимое!\n<PAGE>\nЛёгкое, упругое, текстура ― лучше не бывает!\nДа его даже охладить можно, а всё равно\nвкусно. Потрясающе. Mahalo!"
+  },
+  {
+   "n": 468,
+   "f": 2,
+   "id": "MES_PRESENT_VERY",
+   "key": "0a5f7fa2",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЗдорово! Обожаю такое! Отличный подарок.\nMahalo!"
+  },
+  {
+   "n": 469,
+   "f": 2,
+   "id": "MES_PRESENT_LIKE",
+   "key": "f54989dd",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nО! Мне такое очень нравится. Mahalo!"
+  },
+  {
+   "n": 470,
+   "f": 2,
+   "id": "MES_PRESENT_NORMAL",
+   "key": "ea01897c",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nО! Это ― <BLUE><____ITEMNAME0____></BLUE> ― мне? Mahalo."
+  },
+  {
+   "n": 471,
+   "f": 2,
+   "id": "MES_PRESENT_DISLIKE",
+   "key": "f066b105",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭто мне? Э-э... mahalo. Наверное."
+  },
+  {
+   "n": 472,
+   "f": 2,
+   "id": "MES_PRESENT_HATE",
+   "key": "05bf11cb",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nДаришь это мне? Может, в следующий раз\nвыберешь что-нибудь другое... E kala mai. И\nвсё же спасибо за внимание. Mahalo."
+  },
+  {
+   "n": 473,
+   "f": 2,
+   "id": "MES_PRESENT_WORST",
+   "key": "b3eb416c",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nБэ! E kala mai, но я терпеть не могу это: <BLUE><____ITEMNAME0____></BLUE>. Тут\nже сплошные овощи!\n<PAGE>\nЕсть я это не буду, так что, может, отдам\nКаолиле. E kala mai."
+  },
+  {
+   "n": 474,
+   "f": 2,
+   "id": "MES_PRESENT_HUGE_VERY",
+   "key": "7f80d0c1",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nТы посмотри, какая громадина?! Невероятно!\n<PAGE>\nТочно хочешь отдать это мне? Mahalo!\nОбожаю."
+  },
+  {
+   "n": 475,
+   "f": 2,
+   "id": "MES_PRESENT_HUGE_LIKE",
+   "key": "5402d3e2",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nТы посмотри, какая громадина?! Невероятно!\n<PAGE>\nОбожаю такие штуки. Отличный подарок.\nMahalo."
+  },
+  {
+   "n": 476,
+   "f": 2,
+   "id": "MES_PRESENT_GOLD_VERY",
+   "key": "60d5db57",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nОго! Посмотри, какой цвет! Потрясающе! Как\nтакое вообще выросло?\n<PAGE>\nТочно хочешь отдать это мне? Mahalo!"
+  },
+  {
+   "n": 477,
+   "f": 2,
+   "id": "MES_PRESENT_GOLD_LIKE",
+   "key": "6cedf1a3",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nОго! Посмотри, какой цвет! Потрясающе! Как\nтакое вообще выросло?\n<PAGE>\nОбожаю такие штуки. Отличный подарок.\nMahalo."
+  },
+  {
+   "n": 478,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_BEST",
+   "key": "75f31425",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nУх ты! <BLUE><____ITEMNAME0____></BLUE>! Моё любимое! Это правда мне?\n<PAGE>\nСпасибо, что помнишь про мой день рождения.\nМеня всегда впечатляют люди, которые\nнаходят время помнить такое."
+  },
+  {
+   "n": 479,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_VERY",
+   "key": "8df9400b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЗдорово! Обожаю такое! Отличный подарок.\n<PAGE>\nСпасибо, что помнишь про мой день рождения.\nМеня всегда впечатляют люди, которые\nнаходят время помнить такое."
+  },
+  {
+   "n": 480,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_LIKE",
+   "key": "a7cc6e0f",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nО! Мне такое очень нравится.\n<PAGE>\nСпасибо, что помнишь про мой день рождения.\nМеня всегда впечатляют люди, которые\nнаходят время помнить такое."
+  },
+  {
+   "n": 481,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_NORMAL",
+   "key": "e6527108",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЗначит, помнишь про мой день рождения, а?\n<PAGE>\nМеня всегда впечатляют люди, которые помнят,\nчто важно для других. Mahalo!"
+  },
+  {
+   "n": 482,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_DISLIKE",
+   "key": "03b08613",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭто мне? Значит, помнишь про мой день\nрождения, а?\n<PAGE>\n<FACE_SAD>Ценю людей, которые помнят такое, но сам\nподарок, э-э... Неважно. Mahalo."
+  },
+  {
+   "n": 483,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HATE",
+   "key": "3d98d6db",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nЭто мне? Значит, помнишь про мой день\nрождения, а?\n<PAGE>\n<FACE_SAD>Ценю людей, которые помнят такое, но...\nлучше бы подарок был другой."
+  },
+  {
+   "n": 484,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_WORST",
+   "key": "7368292b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_ANGRY>\r\nБэ! E kala mai, но я терпеть не могу это: <BLUE><____ITEMNAME0____></BLUE>. Рад,\nчто ты помнишь про мой день рождения, но ну\nи ну.\n<PAGE>\nЕсли я тебе не нравлюсь, так прямо и скажи,\nладно? Такой розыгрыш ― дурной тон."
+  },
+  {
+   "n": 485,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HUGE_VERY",
+   "key": "94fca67e",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nТы посмотри, какая громадина?! Невероятно!\nТочно хочешь отдать это мне?\n<PAGE>\nСпасибо, что помнишь про мой день рождения.\nМеня всегда впечатляют люди, которые\nнаходят время помнить такое."
+  },
+  {
+   "n": 486,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_HUGE_LIKE",
+   "key": "fc8a1777",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nТы посмотри, какая громадина?! Невероятно!\nОбожаю такие штуки.\n<PAGE>\nСпасибо, что помнишь про мой день рождения.\nМеня всегда впечатляют люди, которые\nнаходят время помнить такое."
+  },
+  {
+   "n": 487,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_GOLD_VERY",
+   "key": "112a9258",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nОго! Посмотри, какой цвет! Потрясающе! Как\nтакое вообще выросло? Точно хочешь отдать\nэто мне?\n<PAGE>\nСпасибо, что помнишь про мой день рождения.\nМеня всегда впечатляют люди, которые\nнаходят время помнить такое."
+  },
+  {
+   "n": 488,
+   "f": 2,
+   "id": "MES_BIRTHDAY_PRESENT_GOLD_LIKE",
+   "key": "ea01a48d",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nОго! Посмотри, какой цвет! Потрясающе! Как\nтакое вообще выросло? Обожаю такие штуки.\n<PAGE>\nСпасибо, что помнишь про мой день рождения.\nМеня всегда впечатляют люди, которые\nнаходят время помнить такое."
+  },
+  {
+   "n": 489,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 490,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 491,
+   "f": 2,
+   "id": "MES_MARRIAGE_FLOWER_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 492,
+   "f": 2,
+   "id": "MES_FLOWER_FESTIVAL_RETURN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 493,
+   "f": 2,
+   "id": "MES_LOVER_FLOWER_FESTIVAL_RETURN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 494,
+   "f": 2,
+   "id": "MES_MARRIAGE_FLOWER_FESTIVAL_RETURN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 495,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 496,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 497,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 498,
+   "f": 2,
+   "id": "MES_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 499,
+   "f": 2,
+   "id": "MES_LOVER_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 500,
+   "f": 2,
+   "id": "MES_MARRIAGE_RICE_GRUEL_FESTIVAL_RETURN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 501,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL",
+   "key": "05350a1b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nО! Фрукты, а? Ну да, сегодня же Фруктовая\nфиеста. Mahalo!"
+  },
+  {
+   "n": 502,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 503,
+   "f": 2,
+   "id": "MES_MARRIAGE_FRUIT_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 504,
+   "f": 2,
+   "id": "MES_FRUIT_FESTIVAL_RETURN",
+   "key": "69b247ef",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nВот! Я как раз собирался отнести тебе фрукты.\n<PAGE>\nТы сберегаешь мне дорогу. Mahalo!"
+  },
+  {
+   "n": 505,
+   "f": 2,
+   "id": "MES_LOVER_FRUIT_FESTIVAL_RETURN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 506,
+   "f": 2,
+   "id": "MES_MARRIAGE_FRUIT_FESTIVAL_RETURN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 507,
+   "f": 2,
+   "id": "MES_THANKS_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 508,
+   "f": 2,
+   "id": "MES_THANKS_FESTIVAL_RETURN",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 509,
+   "f": 2,
+   "id": "MES_LOVER_THANKS_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 510,
+   "f": 2,
+   "id": "MES_MARRIAGE_THANKS_FESTIVAL",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 511,
+   "f": 2,
+   "id": "MES_PUMPKIN_FESTIVAL",
+   "key": "789e4db4",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭто мне? Э-э, ты же знаешь, что это детский\nпраздник? Такое положено дарить детям.\n<PAGE>\nПравда? В благодарность за мою помощь?\n<PAGE>\n<FACE_LAUGH>Ха-ха! Ну, раз так! Теперь было бы невежливо\nне принять!\n<PAGE>\nMahalo, <_____MYNAME_____>!"
+  },
+  {
+   "n": 512,
+   "f": 2,
+   "id": "MES_NO_EMPTY_FESTIVAL",
+   "key": "c704d540",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nНу и популярность у тебя! Сумка так набита,\nчто места нет!"
+  },
+  {
+   "n": 513,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_HARVEST",
+   "key": "cf6ca351",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Спасибо за вчерашний подарок! Mahalo!\n<PAGE>\nРаз ты такое выращиваешь, ты впечатляющий\nфермер. Каолила была в восторге!"
+  },
+  {
+   "n": 514,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_COOKING",
+   "key": "debea837",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Спасибо за вчерашний подарок! Mahalo!\n<PAGE>\nА ты чертовски хорошо готовишь, знаешь? Не\nхуже, чем в кафе у моря."
+  },
+  {
+   "n": 515,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FLOWER",
+   "key": "d2e2f65b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Спасибо за вчерашний подарок! Mahalo!\n<PAGE>\nОчень красивый был цветок. Альма обожает\nкрасивое, так что влюбилась в него, как только\nя показал."
+  },
+  {
+   "n": 516,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_PRODUCT",
+   "key": "e0a98d4a",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Спасибо за вчерашний подарок! Mahalo!\n<PAGE>\nВещь высшего качества! Видно, ты очень\nхорошо заботишься о животных!"
+  },
+  {
+   "n": 517,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FOOD",
+   "key": "1dfa2860",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Спасибо за вчерашний подарок! Вечером я\nподелился с семьёй. Всем понравилось!"
+  },
+  {
+   "n": 518,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_FLOWER",
+   "key": "401dcd7e",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Спасибо за вчерашний подарок! Как\nпришёл домой, сразу поставил в вазу."
+  },
+  {
+   "n": 519,
+   "f": 2,
+   "id": "MES_REACTION_PRESENT_OTHER",
+   "key": "113a0747",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, <_____MYNAME_____>! Спасибо за вчерашний подарок! Буду\nберечь!"
+  },
+  {
+   "n": 520,
+   "f": 2,
+   "id": "MES_RETURN_PRESENT",
+   "key": "fe708b3e",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЗнаешь, ты всегда такой отзывчивый и щедрый\nчеловек. Вот. Решил и тебе дать кое-что в\nответ."
+  },
+  {
+   "n": 521,
+   "f": 2,
+   "id": "MES_LOVER_RETURN_PRESENT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 522,
+   "f": 2,
+   "id": "MES_MARRIAGE_RETURN_PRESENT",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 523,
+   "f": 2,
+   "id": "MES_Tosa",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 524,
+   "f": 2,
+   "id": "MES_Great_Pyrenees",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 525,
+   "f": 2,
+   "id": "MES_Bernese",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 526,
+   "f": 2,
+   "id": "MES_Weimaraner",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 527,
+   "f": 2,
+   "id": "MES_Husky",
+   "key": "93c2b3cb",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nУх ты, какой классный пёс! А-а! Кто хороший\nпёсик? Хочешь рыбку?"
+  },
+  {
+   "n": 528,
+   "f": 2,
+   "id": "MES_Doberman",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 529,
+   "f": 2,
+   "id": "MES_Shepherd",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 530,
+   "f": 2,
+   "id": "MES_Bull_Terrier",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 531,
+   "f": 2,
+   "id": "MES_Tibetan",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 532,
+   "f": 2,
+   "id": "MES_Border_Collie",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 533,
+   "f": 2,
+   "id": "MES_Jack_Russell_Terrier",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 534,
+   "f": 2,
+   "id": "MES_Dachshund",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 535,
+   "f": 2,
+   "id": "MES_Beagle",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 536,
+   "f": 2,
+   "id": "MES_Shiba",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 537,
+   "f": 2,
+   "id": "MES_Chihuahua",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 538,
+   "f": 2,
+   "id": "MES_Poodle",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 539,
+   "f": 2,
+   "id": "MES_CatA",
+   "key": "c31689dd",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nОго! Ну и напугала! Эта мелочь\nподкрадывалась, чтобы стащить мою рыбу?\n<PAGE>\nХа-ха! Такой кошки я тут раньше не видел, но\nна вид милая и озорная!\n<PAGE>\nНа, киса. За такие красивые голубые глаза в\nэтот раз рыбка твоя."
+  },
+  {
+   "n": 540,
+   "f": 2,
+   "id": "MES_CatB",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 541,
+   "f": 2,
+   "id": "MES_CatC",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 542,
+   "f": 2,
+   "id": "MES_CatD",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 543,
+   "f": 2,
+   "id": "MES_CatE",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 544,
+   "f": 2,
+   "id": "MES_CatLongHairA",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 545,
+   "f": 2,
+   "id": "MES_CatLongHairB",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 546,
+   "f": 2,
+   "id": "MES_CatLongHairC",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 547,
+   "f": 2,
+   "id": "MES_CatLongHairD",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 548,
+   "f": 2,
+   "id": "MES_CatLongHairE",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 549,
+   "f": 2,
+   "id": "MES_KapibaraA",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 550,
+   "f": 2,
+   "id": "MES_KapibaraB",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 551,
+   "f": 2,
+   "id": "MES_Cacatua",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 552,
+   "f": 2,
+   "id": "MES_Turtle",
+   "key": "b07c6186",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nИногда, когда клюёт плохо, я отдыхаю и\nсмотрю на черепах.\n<PAGE>\nКак они ползут по пляжу ― чем-то\nнапоминают малышей. Честно говоря, очень\nмило."
+  },
+  {
+   "n": 553,
+   "f": 2,
+   "id": "MES_Shoebill",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 554,
+   "f": 2,
+   "id": "MES_Eagle",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 555,
+   "f": 2,
+   "id": "MES_Kiji",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 556,
+   "f": 2,
+   "id": "MES_RainbowBird",
+   "key": "a7ab4c50",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nУдивительно, как эта птица вообще ходит со\nвсеми этими большими пышными перьями.\n<PAGE>\nКстати, я ни разу не видел, чтобы она летала.\nОна летает?"
+  },
+  {
+   "n": 557,
+   "f": 2,
+   "id": "MES_Monkey",
+   "key": "df5663a5",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nА, так у тебя обезьянка? Они обожают\nпроказничать, так что берегись.\n<PAGE>\nХотя куда им до проделок Шалька!"
+  },
+  {
+   "n": 558,
+   "f": 2,
+   "id": "MES_Verreauxi",
+   "key": "d9c78f1a",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nМилый у тебя сегодня дружок. Они такие\nшустрые! Удивительно, что такого удалось\nпоймать."
+  },
+  {
+   "n": 559,
+   "f": 2,
+   "id": "MES_RacoonDog",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 560,
+   "f": 2,
+   "id": "MES_Grizzly",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 561,
+   "f": 2,
+   "id": "MES_Ermine",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 562,
+   "f": 2,
+   "id": "MES_Fox",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 563,
+   "f": 2,
+   "id": "MES_Sparrow",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 564,
+   "f": 2,
+   "id": "MES_Chicken",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 565,
+   "f": 2,
+   "id": "MES_Chicken_Huge",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 566,
+   "f": 2,
+   "id": "MES_Silky",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 567,
+   "f": 2,
+   "id": "MES_Silky_Huge",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 568,
+   "f": 2,
+   "id": "MES_Quail",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 569,
+   "f": 2,
+   "id": "MES_Quail_Huge",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 570,
+   "f": 2,
+   "id": "MES_AngoraRabbitA",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 571,
+   "f": 2,
+   "id": "MES_AngoraRabbitA_Huge",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 572,
+   "f": 2,
+   "id": "MES_AngoraRabbitB",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 573,
+   "f": 2,
+   "id": "MES_AngoraRabbitB_Huge",
+   "key": "7e1f2133",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭй, какая милая зверушка! Можно поближе\nпосмотреть?"
+  },
+  {
+   "n": 574,
+   "f": 2,
+   "id": "MES_TALK_0",
+   "key": "907fcc72",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКогда мы, рыбаки, выходим в море, обычно\nуходим далеко-далеко.\n<PAGE>\nЛодки сильно качает на волнах. Новичков часто\nукачивает."
+  },
+  {
+   "n": 575,
+   "f": 2,
+   "id": "MES_TALK_1",
+   "key": "d9c40ed7",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nВся рыба здесь вкусная и безопасная. Рыба ―\nбольшая часть нашей жизни, так что она\nзаслуживает уважения."
+  },
+  {
+   "n": 576,
+   "f": 2,
+   "id": "MES_TALK_2",
+   "key": "2a470442",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nСолёный морской ветер может быть суров к\nнепривычным. Здорово портит кожу, знаешь\nли.\n<PAGE>\n<FACE_LAUGH>Но для таких, как я, кто дышит им всю жизнь,\nэто просто лёгкий освежающий бриз!"
+  },
+  {
+   "n": 577,
+   "f": 2,
+   "id": "MES_TALK_3",
+   "key": "8fee3192",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, тебе бы ещё подрасти. Ешь больше\nполезной рыбы, а то таким большим, как я, не\nстать!"
+  },
+  {
+   "n": 578,
+   "f": 2,
+   "id": "MES_TALK_4",
+   "key": "bddee82e",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nМне с детства говорят, что у меня громкий\nголос. Но я не кричу и не ору. Я просто так\nразговариваю!"
+  },
+  {
+   "n": 579,
+   "f": 2,
+   "id": "MES_TALK_5",
+   "key": "049887e5",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКак дела на ферме? Не скажу, что много\nпонимаю в работе на земле, но если есть\nживотные, обращайся с ними хорошо, ладно?"
+  },
+  {
+   "n": 580,
+   "f": 2,
+   "id": "MES_TALK_6",
+   "key": "c8d70fd8",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nВ другие города я выбираюсь нечасто. Работа\nне отпускает, знаешь ли. К тому же мне и в\nЛулукоко отлично!"
+  },
+  {
+   "n": 581,
+   "f": 2,
+   "id": "MES_TALK_7",
+   "key": "1f37b021",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЧто я не люблю? Хм-м-м... Овощи и зелень,\nнаверное. Я человек моря, знаешь ли!\nНастоящие мужики едят рыбу!"
+  },
+  {
+   "n": 582,
+   "f": 2,
+   "id": "MES_TALK_8",
+   "key": "da41a039",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nА ты знаешь, что я барабанщик? Правда. Мы с\nТигре иногда устраиваем выступления.\n<PAGE>\nОн ещё совсем мальчишка, но на укулеле играет\nочень здорово!"
+  },
+  {
+   "n": 583,
+   "f": 2,
+   "id": "MES_TALK_9",
+   "key": "56aba482",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЯ каждый день хожу молиться к руинам. Море\nбывает опасным, так что правильно\nблагодарить за то, что я цел.\n<PAGE>\nТолько много о том, что в руинах, рассказать\nне могу. Знаю, что там живёт наш хранитель, и\nмне этого хватает."
+  },
+  {
+   "n": 584,
+   "f": 2,
+   "id": "MES_TALK_10",
+   "key": "5deae672",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКаолила ― потрясающая женщина. Смелости и\nсилы в ней больше, чем у большинства мужчин.\nДругой такой нигде не найдёшь."
+  },
+  {
+   "n": 585,
+   "f": 2,
+   "id": "MES_TALK_11",
+   "key": "0344366e",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЯ понял, что хочу жениться на Каолиле, как\nтолько её увидел.\n<PAGE>\nОна красивая и бойкая, и у многих других\nпарней была та же мысль.\n<PAGE>\nЕсли кто слишком к ней лез, она не боялась\nврезать прямо в челюсть! Крепкий орешек, это\nточно.\n<PAGE>\n<FACE_SAD>Я-то знаю, как больно бьют эти кулаки. Она\nбез стеснения пускает их в ход, когда надо, это\nточно."
+  },
+  {
+   "n": 586,
+   "f": 2,
+   "id": "MES_TALK_12",
+   "key": "ce81daa0",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nМой сын Шальк ― маленький проказник, но\nдаже он знает, что при Каолиле лучше не\nшалить. Мило, а?"
+  },
+  {
+   "n": 587,
+   "f": 2,
+   "id": "MES_TALK_13",
+   "key": "52fe8131",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nНедавно Шальк начал говорить, что хочет стать\nрыбаком, как я.\n<PAGE>\nКажется, никогда в жизни я так не гордился.\nРаз он так на меня равняется, буду трудиться\nещё усерднее, чтобы быть достойным!"
+  },
+  {
+   "n": 588,
+   "f": 2,
+   "id": "MES_TALK_14",
+   "key": "e5174ac0",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nАльма становится всё больше похожа на маму,\nтак что, знаю, вырастет настоящей красавицей.\n<PAGE>\nДа она уже красавица! Её улыбка, когда она\nговорит, что любит меня, ― самое\nдрагоценное на свете. Мои дети ― лучшие!"
+  },
+  {
+   "n": 589,
+   "f": 2,
+   "id": "MES_TALK_15",
+   "key": "7414698a",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nАльма иногда что-нибудь у меня просит, а я из\nтех, кто просто не может отказать любимой\nдочурке, когда она мило просит.\n<PAGE>\nКаолила ругает меня, что балую, но что\nподелать. Я же её папа!"
+  },
+  {
+   "n": 590,
+   "f": 2,
+   "id": "MES_TALK_16",
+   "key": "25d6dccd",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЛудус ― очень хороший парень. И\nталантливый. Мигом чинит мои снасти и сети.\nА иногда и рыбачить помогает."
+  },
+  {
+   "n": 591,
+   "f": 2,
+   "id": "MES_TALK_17",
+   "key": "464bf97b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЛудус очень внимательный парень. Всегда\nзаботится о других. Неудивительно, что все, и\nя тоже, его любят.\n<PAGE>\n<FACE_SAD>Но Альма... Она в него немного влюблена. Я...\nне знаю, как к этому относиться."
+  },
+  {
+   "n": 592,
+   "f": 2,
+   "id": "MES_TALK_18",
+   "key": "5a883187",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nСлушай, ты знаешь, как готовит Силука? Это\nфантастика! Попробуй хоть кусочек ―\nпоразишься, как вкусно!\n<PAGE>\nЕсли Альма когда-нибудь научится так\nготовить, я буду обеспечен на всю жизнь!"
+  },
+  {
+   "n": 593,
+   "f": 2,
+   "id": "MES_TALK_19",
+   "key": "790aba3c",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЯ многим обязан старушке Тототаре. Она\nмногому меня научила за эти годы.\n<PAGE>\nИ истории она рассказывает лучше всех. Так\nзаслушиваюсь, что могу слушать всю ночь и не\nзаскучать!"
+  },
+  {
+   "n": 594,
+   "f": 2,
+   "id": "MES_TALK_20",
+   "key": "d9a5621a",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nНасчёт Лотуса я сомневаюсь. Парень вроде\nславный, но ему надо стать мужественнее.\n<PAGE>\nОн же взрослый. Как его будут уважать, если\nон позволяет всем себя обходить?"
+  },
+  {
+   "n": 595,
+   "f": 2,
+   "id": "MES_TALK_21",
+   "key": "8b0613e8",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nХм? Есть ли у меня интересные старые\nистории? Ну... Например, Силука в детстве\nбыла та ещё морока.\n<PAGE>\nОна могла уснуть где угодно! Не раз мы все\nдумали, что она пропала, а потом оказывалось,\nчто она мирно спит где-нибудь."
+  },
+  {
+   "n": 596,
+   "f": 2,
+   "id": "MES_TALK_22",
+   "key": "b7e400a9",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКогда Лудус был маленьким, я с ним всё время\nиграл.\n<PAGE>\nХочешь верь, хочешь нет, но он был тот ещё\nсорванец. Вечно во что-нибудь влезал, а я ему\nхорошенько давал по макушке."
+  },
+  {
+   "n": 597,
+   "f": 2,
+   "id": "MES_TALK_23",
+   "key": "4386890d",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nМоре здесь очень красивое. Хотя, с другой\nстороны, тут ведь, кроме моря, ничего и нет.\n<PAGE>\nХочешь другой пейзаж ― придётся ехать\nкуда-нибудь ещё."
+  },
+  {
+   "n": 598,
+   "f": 2,
+   "id": "MES_TALK_24",
+   "key": "7a5afc54",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nТолько что поймал ещё одного парня, который\nстроил глазки Каолиле!\n<PAGE>\nНе потерплю, чтобы кто-то даже думал\nчто-то такое о моей жене! Если ещё раз увижу,\nя...!"
+  },
+  {
+   "n": 599,
+   "f": 2,
+   "id": "MES_TALK_25",
+   "key": "0ab2e790",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЗнаешь, по словам старушки Тототары, в этих\nместах водятся призраки.\n<PAGE>\nОбычно я бы сказал, что это байка, чтобы\nпугать детей, но раз это сказала сама Тототара,\nосторожность не помешает."
+  },
+  {
+   "n": 600,
+   "f": 2,
+   "id": "MES_TALK_26",
+   "key": "117a7be9",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nДумаю, в драке я за себя постоять могу, но есть\nодин человек, которого мне, по-моему,\nникогда не одолеть. Хаулани.\n<PAGE>\nДаже Каолила ходит к нему за советами по\nтренировкам. Спорим, у меня против него ни\nшанса."
+  },
+  {
+   "n": 601,
+   "f": 2,
+   "id": "MES_TALK_27",
+   "key": "d5e913da",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКогда привыкаешь к здешней погоде, в другие\nместа ездить как-то трудно. Особенно зимой."
+  },
+  {
+   "n": 602,
+   "f": 2,
+   "id": "MES_TALK_28",
+   "key": "1fde25ab",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nСтоит друзьям заговорить о чём-то хоть\nчуточку секретном, они меня тут же прогоняют.\n<PAGE>\nГоворят, я так громок, что даже шёпотом меня\nслышит каждый встречный.\n<PAGE>\n<FACE_NORMAL>Мне кажется, секреты я хранить умею, но голос\nесть голос, понимаешь? Что я могу поделать?\n<PAGE>\nПроще не встревать, чем пытаться говорить\nтихо, так что я не против."
+  },
+  {
+   "n": 603,
+   "f": 2,
+   "id": "MES_TALK_29",
+   "key": "5a78c848",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nМне надо кормить семью, так что как рыбак я\nникогда не могу позволить себе вернуться с\nпустыми руками.\n<PAGE>\nИногда я в море целый день, а то и два, но\nзнаю, что Каолила бережёт детей, так что не\nочень волнуюсь."
+  },
+  {
+   "n": 604,
+   "f": 2,
+   "id": "MES_TALK_30",
+   "key": "e9d2389c",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nТы, конечно, знаешь, что я люблю\nморепродукты, а знаешь, что ещё обожаю?\n<BLUE>Лапшу саймин</BLUE>.\n<PAGE>\nЕсли ещё не доводилось, попробуй! С\nудовольствием послушаю, как тебе!"
+  },
+  {
+   "n": 605,
+   "f": 2,
+   "id": "MES_TALK_31",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 606,
+   "f": 2,
+   "id": "MES_TALK_32",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 607,
+   "f": 2,
+   "id": "MES_TALK_33",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 608,
+   "f": 2,
+   "id": "MES_TALK_34",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 609,
+   "f": 2,
+   "id": "MES_TALK_35",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 610,
+   "f": 2,
+   "id": "MES_TALK_36",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 611,
+   "f": 2,
+   "id": "MES_TALK_37",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 612,
+   "f": 2,
+   "id": "MES_TALK_38",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 613,
+   "f": 2,
+   "id": "MES_TALK_39",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 614,
+   "f": 2,
+   "id": "MES_TALK_40",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 615,
+   "f": 2,
+   "id": "MES_TALK_41",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 616,
+   "f": 2,
+   "id": "MES_TALK_42",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 617,
+   "f": 2,
+   "id": "MES_TALK_43",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 618,
+   "f": 2,
+   "id": "MES_TALK_44",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 619,
+   "f": 2,
+   "id": "MES_TALK_45",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 620,
+   "f": 2,
+   "id": "MES_TALK_46",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 621,
+   "f": 2,
+   "id": "MES_TALK_47",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 622,
+   "f": 2,
+   "id": "MES_TALK_48",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 623,
+   "f": 2,
+   "id": "MES_TALK_49",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 624,
+   "f": 2,
+   "id": "MES_TALK_50",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 625,
+   "f": 2,
+   "id": "MES_TALK_51",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 626,
+   "f": 2,
+   "id": "MES_TALK_52",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 627,
+   "f": 2,
+   "id": "MES_TALK_53",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 628,
+   "f": 2,
+   "id": "MES_TALK_54",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 629,
+   "f": 2,
+   "id": "MES_TALK_55",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 630,
+   "f": 2,
+   "id": "MES_TALK_56",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 631,
+   "f": 2,
+   "id": "MES_TALK_57",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 632,
+   "f": 2,
+   "id": "MES_TALK_58",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 633,
+   "f": 2,
+   "id": "MES_TALK_59",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 634,
+   "f": 2,
+   "id": "MES_TALK_60",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 635,
+   "f": 2,
+   "id": "MES_TALK_61",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 636,
+   "f": 2,
+   "id": "MES_FASHION_NOT_MATCH_HOT",
+   "key": "d804e443",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nТебе точно не жарко в этом? Мне от одного\nвида жарко."
+  },
+  {
+   "n": 637,
+   "f": 2,
+   "id": "MES_FASHION_NOT_MATCH_COOL",
+   "key": "49c2c339",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_SAD>\r\nТы чего в такой лёгкой одежде? Мне от одного\nвида холодно!"
+  },
+  {
+   "n": 638,
+   "f": 2,
+   "id": "MES_FASHION_BASICBOYWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 639,
+   "f": 2,
+   "id": "MES_FASHION_BASICGIRLWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 640,
+   "f": 2,
+   "id": "MES_FASHION_SALOPETTEBOY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 641,
+   "f": 2,
+   "id": "MES_FASHION_SALOPETTEGIRL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 642,
+   "f": 2,
+   "id": "MES_FASHION_SUSPENDERS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 643,
+   "f": 2,
+   "id": "MES_FASHION_OVERALL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 644,
+   "f": 2,
+   "id": "MES_FASHION_JINBEIBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 645,
+   "f": 2,
+   "id": "MES_FASHION_JINBEIBLACK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 646,
+   "f": 2,
+   "id": "MES_FASHION_MATABIKI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 647,
+   "f": 2,
+   "id": "MES_FASHION_MINO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 648,
+   "f": 2,
+   "id": "MES_FASHION_SIMPLENORAGI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 649,
+   "f": 2,
+   "id": "MES_FASHION_SAOTOME",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 650,
+   "f": 2,
+   "id": "MES_FASHION_KAPPOUGI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 651,
+   "f": 2,
+   "id": "MES_FASHION_WILDFARMER",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 652,
+   "f": 2,
+   "id": "MES_FASHION_WORKINGWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 653,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPRED",
+   "key": "c890952b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Очень яркий наряд! Люблю смелые цвета\nвроде красного и оранжевого. От них всегда\nвесело и радостно!"
+  },
+  {
+   "n": 654,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 655,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICTANKTOPCASUAL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 656,
+   "f": 2,
+   "id": "MES_FASHION_WORKINGSHORTPANTS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 657,
+   "f": 2,
+   "id": "MES_FASHION_CAPECASUAL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 658,
+   "f": 2,
+   "id": "MES_FASHION_KONOHANAWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 659,
+   "f": 2,
+   "id": "MES_FASHION_KUNGFUFARMER",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 660,
+   "f": 2,
+   "id": "MES_FASHION_BLUEBELLWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 661,
+   "f": 2,
+   "id": "MES_FASHION_WARKINGCHINA",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 662,
+   "f": 2,
+   "id": "MES_FASHION_DOTCULOTTEBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 663,
+   "f": 2,
+   "id": "MES_FASHION_DOTCULOTTERED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 664,
+   "f": 2,
+   "id": "MES_FASHION_GUNMAN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 665,
+   "f": 2,
+   "id": "MES_FASHION_COWBOYSTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 666,
+   "f": 2,
+   "id": "MES_FASHION_COWSPOTCOWBOY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 667,
+   "f": 2,
+   "id": "MES_FASHION_COWGIRL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 668,
+   "f": 2,
+   "id": "MES_FASHION_FRINGECASUAL",
+   "key": "67852d9b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nКак называется то, что у тебя по всему наряду?\nБахрома? Нравится. Очень круто!"
+  },
+  {
+   "n": 669,
+   "f": 2,
+   "id": "MES_FASHION_KNICKERBOCKERS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 670,
+   "f": 2,
+   "id": "MES_FASHION_CHECKVEST",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 671,
+   "f": 2,
+   "id": "MES_FASHION_GREENCARDIGAN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 672,
+   "f": 2,
+   "id": "MES_FASHION_GILLETVEST",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 673,
+   "f": 2,
+   "id": "MES_FASHION_POLOSHIRTSTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 674,
+   "f": 2,
+   "id": "MES_FASHION_SPRINGAPRONSKIRT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 675,
+   "f": 2,
+   "id": "MES_FASHION_COUNTRYONEPIECE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 676,
+   "f": 2,
+   "id": "MES_FASHION_APRONDRESS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 677,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERAPRONDRESS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 678,
+   "f": 2,
+   "id": "MES_FASHION_MAXIAPRONDRESS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 679,
+   "f": 2,
+   "id": "MES_FASHION_YUKATABOYBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 680,
+   "f": 2,
+   "id": "MES_FASHION_YUKATABOYRED",
+   "key": "9ca59c9b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо, хороший наряд! Такое носят в Цуюкусе?\nТебе идёт!"
+  },
+  {
+   "n": 681,
+   "f": 2,
+   "id": "MES_FASHION_OKAPPIKI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 682,
+   "f": 2,
+   "id": "MES_FASHION_KABUKIFASHION",
+   "key": "e4b5bcae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nОго, такой наряд здесь нечасто увидишь. А что\nэто за шнурок спереди? Украшение?"
+  },
+  {
+   "n": 683,
+   "f": 2,
+   "id": "MES_FASHION_HAIKARASANRED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 684,
+   "f": 2,
+   "id": "MES_FASHION_HAIKARASANGREEN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 685,
+   "f": 2,
+   "id": "MES_FASHION_YUKATAGIRLBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 686,
+   "f": 2,
+   "id": "MES_FASHION_YUKATAGIRLRED",
+   "key": "8cdbd5db",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nКрасивый цветочный узор на наряде! Таких\nцветов я здесь не видел, но спорим, они очень\nкрасивые!"
+  },
+  {
+   "n": 687,
+   "f": 2,
+   "id": "MES_FASHION_OLDTOWNSTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 688,
+   "f": 2,
+   "id": "MES_FASHION_NADESHIKOSTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 689,
+   "f": 2,
+   "id": "MES_FASHION_KYUDOWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 690,
+   "f": 2,
+   "id": "MES_FASHION_FARMERTSHIRT",
+   "key": "6d41aa25",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отличная рубашка! Сразу видно, как ты\nгордишься своей работой!\n<PAGE>\nБыла бы рубашка с рыбой ― надел бы, не\nраздумывая!"
+  },
+  {
+   "n": 691,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNTANKTOP",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 692,
+   "f": 2,
+   "id": "MES_FASHION_WHITEPONCHO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 693,
+   "f": 2,
+   "id": "MES_FASHION_ARABIANSTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 694,
+   "f": 2,
+   "id": "MES_FASHION_RESORTCASUAL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 695,
+   "f": 2,
+   "id": "MES_FASHION_HULADANCEBOY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 696,
+   "f": 2,
+   "id": "MES_FASHION_TUBETOP",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 697,
+   "f": 2,
+   "id": "MES_FASHION_HULADANCEGIRL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 698,
+   "f": 2,
+   "id": "MES_FASHION_REDPONCHO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 699,
+   "f": 2,
+   "id": "MES_FASHION_TUNICGOLD",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 700,
+   "f": 2,
+   "id": "MES_FASHION_TUNICSILVER",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 701,
+   "f": 2,
+   "id": "MES_FASHION_BLUEWHITENOSLEEVE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 702,
+   "f": 2,
+   "id": "MES_FASHION_QUILTWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 703,
+   "f": 2,
+   "id": "MES_FASHION_YELLOWSWEATER",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 704,
+   "f": 2,
+   "id": "MES_FASHION_COOLVESTWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 705,
+   "f": 2,
+   "id": "MES_FASHION_WHITEJACKET",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 706,
+   "f": 2,
+   "id": "MES_FASHION_AQUACOAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 707,
+   "f": 2,
+   "id": "MES_FASHION_RIDINGCLOTHESBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 708,
+   "f": 2,
+   "id": "MES_FASHION_RIDINGCLOTHESRED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 709,
+   "f": 2,
+   "id": "MES_FASHION_SCHWARZCOAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 710,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKCOAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 711,
+   "f": 2,
+   "id": "MES_FASHION_NOBLEJACKET",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 712,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERSKIRT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 713,
+   "f": 2,
+   "id": "MES_FASHION_DOTSKIRT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 714,
+   "f": 2,
+   "id": "MES_FASHION_CLASSICSTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 715,
+   "f": 2,
+   "id": "MES_FASHION_ELEGANTONEPIECE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 716,
+   "f": 2,
+   "id": "MES_FASHION_CREAMONEPIECE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 717,
+   "f": 2,
+   "id": "MES_FASHION_RAINCOAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 718,
+   "f": 2,
+   "id": "MES_FASHION_BUTTONDRESS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 719,
+   "f": 2,
+   "id": "MES_FASHION_HIGHWAISTSKIRT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 720,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKDRESS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 721,
+   "f": 2,
+   "id": "MES_FASHION_MODERNKIMONO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 722,
+   "f": 2,
+   "id": "MES_FASHION_AKINDOAOTAKE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 723,
+   "f": 2,
+   "id": "MES_FASHION_AKINDOYANAGI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 724,
+   "f": 2,
+   "id": "MES_FASHION_SAMURAISTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 725,
+   "f": 2,
+   "id": "MES_FASHION_PLAYBOYSTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 726,
+   "f": 2,
+   "id": "MES_FASHION_OMMYOJI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 727,
+   "f": 2,
+   "id": "MES_FASHION_SNOWKIMONO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 728,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERKIMONO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 729,
+   "f": 2,
+   "id": "MES_FASHION_UROKOKIMONO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 730,
+   "f": 2,
+   "id": "MES_FASHION_KIMONODRESS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 731,
+   "f": 2,
+   "id": "MES_FASHION_KNEEHIGHKIMONO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 732,
+   "f": 2,
+   "id": "MES_FASHION_MICHIYUKICOAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 733,
+   "f": 2,
+   "id": "MES_FASHION_GREENHOODIE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 734,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICSTYLE",
+   "key": "8488a2cf",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЭтот наряд тебе идёт. Необычный фасон\nособенно хорош!"
+  },
+  {
+   "n": 735,
+   "f": 2,
+   "id": "MES_FASHION_RESORTFORMAL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 736,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNSTYLE",
+   "key": "edd2cda5",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nНравится, сколько розового и оранжевого в\nтвоём наряде! От ярких цветов всегда\nнастроение лучше."
+  },
+  {
+   "n": 737,
+   "f": 2,
+   "id": "MES_FASHION_ASYMMETRYSKIRT",
+   "key": "a07298e8",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nО, эй! Твой наряд совсем как наша здешняя\nодежда! Тебе идёт. Теперь ты в Лулукоко как\nдома!"
+  },
+  {
+   "n": 738,
+   "f": 2,
+   "id": "MES_FASHION_FRILLSKIRT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 739,
+   "f": 2,
+   "id": "MES_FASHION_RESORTONEPIECEGREEN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 740,
+   "f": 2,
+   "id": "MES_FASHION_RESORTONEPIECERED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 741,
+   "f": 2,
+   "id": "MES_FASHION_SARIBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 742,
+   "f": 2,
+   "id": "MES_FASHION_SARIYELLOW",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 743,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICJADE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 744,
+   "f": 2,
+   "id": "MES_FASHION_WILDROCKER",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 745,
+   "f": 2,
+   "id": "MES_FASHION_HUIPIL",
+   "key": "75bd8597",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nВот это красочный наряд! Где такой взять?"
+  },
+  {
+   "n": 746,
+   "f": 2,
+   "id": "MES_FASHION_NORDICDRESSPINK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 747,
+   "f": 2,
+   "id": "MES_FASHION_NORDICDRESSBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 748,
+   "f": 2,
+   "id": "MES_FASHION_ALPSSKIRT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 749,
+   "f": 2,
+   "id": "MES_FASHION_GOTHICSTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 750,
+   "f": 2,
+   "id": "MES_FASHION_RUBYREDCHINA",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 751,
+   "f": 2,
+   "id": "MES_FASHION_SAPPHIRECHINA",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 752,
+   "f": 2,
+   "id": "MES_FASHION_SNOWCOAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 753,
+   "f": 2,
+   "id": "MES_FASHION_DRACULACLOAK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 754,
+   "f": 2,
+   "id": "MES_FASHION_PUMPKINSTYE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 755,
+   "f": 2,
+   "id": "MES_FASHION_EUROPEANARMOR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 756,
+   "f": 2,
+   "id": "MES_FASHION_CLOWNWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 757,
+   "f": 2,
+   "id": "MES_FASHION_COCKWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 758,
+   "f": 2,
+   "id": "MES_FASHION_BUTLERWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 759,
+   "f": 2,
+   "id": "MES_FASHION_MAIDROYAL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 760,
+   "f": 2,
+   "id": "MES_FASHION_KUNOICHI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 761,
+   "f": 2,
+   "id": "MES_FASHION_NINJASTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 762,
+   "f": 2,
+   "id": "MES_FASHION_HIBAKAMA",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 763,
+   "f": 2,
+   "id": "MES_FASHION_SMITHWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 764,
+   "f": 2,
+   "id": "MES_FASHION_HAPPI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 765,
+   "f": 2,
+   "id": "MES_FASHION_HAPPIGIRL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 766,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTTUXEDO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 767,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTDRESS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 768,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIHAORI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 769,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 770,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORMAN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 771,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORLADY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 772,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKITOWNBOY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 773,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKITOWNGIRL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 774,
+   "f": 2,
+   "id": "MES_FASHION_REGERWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 775,
+   "f": 2,
+   "id": "MES_FASHION_MENOUWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 776,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECATBODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 777,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEDOGBODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 778,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEBEARBODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 779,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPANDABODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 780,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPENGUINBODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 781,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECOWBODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 782,
+   "f": 2,
+   "id": "MES_FASHION_POSTMANWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 783,
+   "f": 2,
+   "id": "MES_FASHION_DOCTORWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 784,
+   "f": 2,
+   "id": "MES_FASHION_CHASERWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 785,
+   "f": 2,
+   "id": "MES_FASHION_APPRENTICEWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 786,
+   "f": 2,
+   "id": "MES_FASHION_CRAFTMANWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 787,
+   "f": 2,
+   "id": "MES_FASHION_FLORISTWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 788,
+   "f": 2,
+   "id": "MES_FASHION_TEAGIRLWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 789,
+   "f": 2,
+   "id": "MES_FASHION_TEACHERWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 790,
+   "f": 2,
+   "id": "MES_FASHION_TWIN1WEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 791,
+   "f": 2,
+   "id": "MES_FASHION_TWIN2WEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 792,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGMAN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 793,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGLADY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 794,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGLADY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 795,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGMAN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 796,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGMAN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 797,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGLADY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 798,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBROWN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 799,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBLACK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 800,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEWHITE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 801,
+   "f": 2,
+   "id": "MES_FASHION_CASQUETTEBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 802,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBROWN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 803,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBLACK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 804,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 805,
+   "f": 2,
+   "id": "MES_FASHION_TENGALLONHATRED",
+   "key": "2d9c2d89",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nХорошая шляпа! Фасон нравится, а цвет ещё\nбольше. Где такую взять?"
+  },
+  {
+   "n": 806,
+   "f": 2,
+   "id": "MES_FASHION_COWGIRLHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 807,
+   "f": 2,
+   "id": "MES_FASHION_STRAWHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 808,
+   "f": 2,
+   "id": "MES_FASHION_KASAHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 809,
+   "f": 2,
+   "id": "MES_FASHION_HOKKAMURI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 810,
+   "f": 2,
+   "id": "MES_FASHION_HACHIMAKI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 811,
+   "f": 2,
+   "id": "MES_FASHION_TROPICAL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 812,
+   "f": 2,
+   "id": "MES_FASHION_KANKANHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 813,
+   "f": 2,
+   "id": "MES_FASHION_KANKANHATWHITE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 814,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHERNSTRAWHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 815,
+   "f": 2,
+   "id": "MES_FASHION_DARKBROWNSTRAWHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 816,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERCROWNWHITE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 817,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERCROWNRED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 818,
+   "f": 2,
+   "id": "MES_FASHION_ORNAMENTFEATHER",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 819,
+   "f": 2,
+   "id": "MES_FASHION_ETHNICHEADBAND",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 820,
+   "f": 2,
+   "id": "MES_FASHION_KOSAKHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 821,
+   "f": 2,
+   "id": "MES_FASHION_BERET",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 822,
+   "f": 2,
+   "id": "MES_FASHION_KNITCAP",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 823,
+   "f": 2,
+   "id": "MES_FASHION_TOPHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 824,
+   "f": 2,
+   "id": "MES_FASHION_STEAMPUNKHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 825,
+   "f": 2,
+   "id": "MES_FASHION_GOGGLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 826,
+   "f": 2,
+   "id": "MES_FASHION_GOTHICHEADBAND",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 827,
+   "f": 2,
+   "id": "MES_FASHION_GORGEOUSHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 828,
+   "f": 2,
+   "id": "MES_FASHION_ELEGANTHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 829,
+   "f": 2,
+   "id": "MES_FASHION_RIBBONPURPLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 830,
+   "f": 2,
+   "id": "MES_FASHION_RIBBONRED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 831,
+   "f": 2,
+   "id": "MES_FASHION_BONNET",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 832,
+   "f": 2,
+   "id": "MES_FASHION_BENIKANZASHI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 833,
+   "f": 2,
+   "id": "MES_FASHION_FUJIKANZASHI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 834,
+   "f": 2,
+   "id": "MES_FASHION_BEKKOUKANZASHI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 835,
+   "f": 2,
+   "id": "MES_FASHION_GORGEOUSKANZASHI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 836,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGYELLOW",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 837,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGRED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 838,
+   "f": 2,
+   "id": "MES_FASHION_FLOWERRINGWHITE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 839,
+   "f": 2,
+   "id": "MES_FASHION_MAIDHEADBAND",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 840,
+   "f": 2,
+   "id": "MES_FASHION_CROWNHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 841,
+   "f": 2,
+   "id": "MES_FASHION_ONIMASK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 842,
+   "f": 2,
+   "id": "MES_FASHION_FOXMASK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 843,
+   "f": 2,
+   "id": "MES_FASHION_NINJAHOOD",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 844,
+   "f": 2,
+   "id": "MES_FASHION_WAGASHIHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 845,
+   "f": 2,
+   "id": "MES_FASHION_SOFTTOYCAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 846,
+   "f": 2,
+   "id": "MES_FASHION_WITCHHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 847,
+   "f": 2,
+   "id": "MES_FASHION_MONSTERMASK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 848,
+   "f": 2,
+   "id": "MES_FASHION_FRUITSPARLORHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 849,
+   "f": 2,
+   "id": "MES_FASHION_DESSERTSILKHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 850,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKIHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 851,
+   "f": 2,
+   "id": "MES_FASHION_KASHINOKIBANDANA",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 852,
+   "f": 2,
+   "id": "MES_FASHION_ROYALCROWN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 853,
+   "f": 2,
+   "id": "MES_FASHION_COCKCAP",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 854,
+   "f": 2,
+   "id": "MES_FASHION_CATHEADBAND",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 855,
+   "f": 2,
+   "id": "MES_FASHION_DOGHEADBAND",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 856,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECATHEAD",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 857,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEDOGHEAD",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 858,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEBEARHEAD",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 859,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPANDAHEAD",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 860,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEPENGUINHEAD",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 861,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMECOWHEAD",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 862,
+   "f": 2,
+   "id": "MES_FASHION_MENOUHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 863,
+   "f": 2,
+   "id": "MES_FASHION_AMERICAWEDDINGLADYHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 864,
+   "f": 2,
+   "id": "MES_FASHION_JAPANWEDDINGLADYHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 865,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGLADYHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 866,
+   "f": 2,
+   "id": "MES_FASHION_SOUTHWEDDINGMANHAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 867,
+   "f": 2,
+   "id": "MES_FASHION_EUROPEANHELM",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 868,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEBLACK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 869,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 870,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMERED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 871,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEYELLOW",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 872,
+   "f": 2,
+   "id": "MES_FASHION_FULLFRAMEGREEN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 873,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEBLACK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 874,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 875,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMERED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 876,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEYELLOW",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 877,
+   "f": 2,
+   "id": "MES_FASHION_UNDERFRAMEGREEN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 878,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEBLACK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 879,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEBLUE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 880,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMERED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 881,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEYELLOW",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 882,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEGREEN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 883,
+   "f": 2,
+   "id": "MES_FASHION_HEAVYFRAMEWHITE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 884,
+   "f": 2,
+   "id": "MES_FASHION_SUNGLASSES",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 885,
+   "f": 2,
+   "id": "MES_FASHION_ROUNDSUNGLASSES",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 886,
+   "f": 2,
+   "id": "MES_FASHION_ROUNDGLASSES",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 887,
+   "f": 2,
+   "id": "MES_FASHION_MONOCLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 888,
+   "f": 2,
+   "id": "MES_FASHION_EYEPATCHBLACK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 889,
+   "f": 2,
+   "id": "MES_FASHION_EYEPATCHWHITE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 890,
+   "f": 2,
+   "id": "MES_FASHION_BUTTERFLYMASK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 891,
+   "f": 2,
+   "id": "MES_FASHION_COSTUMEGLASSES",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 892,
+   "f": 2,
+   "id": "MES_FASHION_STEAMGOGGLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 893,
+   "f": 2,
+   "id": "MES_FASHION_SETMINO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 894,
+   "f": 2,
+   "id": "MES_FASHION_SETSAOTOME",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 895,
+   "f": 2,
+   "id": "MES_FASHION_SETKAPPOUGI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 896,
+   "f": 2,
+   "id": "MES_FASHION_SETCOWGIRL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 897,
+   "f": 2,
+   "id": "MES_FASHION_SETSTEAMPUNKCOAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 898,
+   "f": 2,
+   "id": "MES_FASHION_SETSTEAMPUNKDRESS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 899,
+   "f": 2,
+   "id": "MES_FASHION_SETGOTHICSTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 900,
+   "f": 2,
+   "id": "MES_FASHION_SETCLOWNWEAR",
+   "key": "9fa7f601",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Вот это наряд. Будет выступление? Может,\nфокусы?"
+  },
+  {
+   "n": 901,
+   "f": 2,
+   "id": "MES_FASHION_SETEUROPEANARMOR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 902,
+   "f": 2,
+   "id": "MES_FASHION_SETHAPPI",
+   "key": "0a287ab2",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nАга! Я знаю этот наряд! Его носят на праздниках\nв других городах, верно? От одного вида\nхочется праздновать!"
+  },
+  {
+   "n": 903,
+   "f": 2,
+   "id": "MES_FASHION_SETHAPPIGIRL",
+   "key": "0a287ab2",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nАга! Я знаю этот наряд! Его носят на праздниках\nв других городах, верно? От одного вида\nхочется праздновать!"
+  },
+  {
+   "n": 904,
+   "f": 2,
+   "id": "MES_FASHION_SETCOCKWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 905,
+   "f": 2,
+   "id": "MES_FASHION_SETMAIDROYAL",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 906,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMECATBODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 907,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEDOGBODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 908,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEBEARBODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 909,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEPANDABODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 910,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMEPENGUINBODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 911,
+   "f": 2,
+   "id": "MES_FASHION_SETCOSTUMECOWBODY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 912,
+   "f": 2,
+   "id": "MES_FASHION_SETMENOUWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 913,
+   "f": 2,
+   "id": "MES_FASHION_SETDESSERTTUXEDO",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 914,
+   "f": 2,
+   "id": "MES_FASHION_SETDESSERTDRESS",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 915,
+   "f": 2,
+   "id": "MES_FASHION_SETWAGASHIHAORI",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 916,
+   "f": 2,
+   "id": "MES_FASHION_SETWAGASHIWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 917,
+   "f": 2,
+   "id": "MES_FASHION_SETFRUITSPARLORMAN",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 918,
+   "f": 2,
+   "id": "MES_FASHION_SETFRUITSPARLORLADY",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 919,
+   "f": 2,
+   "id": "MES_FASHION_SETNINJASTYLE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 920,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEBOYWHITE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 921,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEBOYRED",
+   "key": "c612bc52",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nХороший наряд! Танцевальный, да?\n<PAGE>\nКстати о танцах, в одном нашем традиционном\nтанце поджигают палки и крутят их вокруг\nсебя...\n<PAGE>\n<FACE_NORMAL>А-а, значит, пробовать не будешь? Ну, не могу\nтебя винить. Наверное, это и правда немного\nопасно."
+  },
+  {
+   "n": 922,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEGIRLWHITE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 923,
+   "f": 2,
+   "id": "MES_FASHION_SETHULADANCEGIRLRED",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 924,
+   "f": 2,
+   "id": "MES_FASHION_SETSNOWCOAT",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 925,
+   "f": 2,
+   "id": "MES_FASHION_SETDRACULACLOAK",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 926,
+   "f": 2,
+   "id": "MES_FASHION_SETPUMPKINSTYE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 927,
+   "f": 2,
+   "id": "MES_FASHION_SETBUTLERWEAR",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 928,
+   "f": 2,
+   "id": "MES_FASHION_SETELEGANTONEPIECE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 929,
+   "f": 2,
+   "id": "MES_FASHION_SETCREAMONEPIECE",
+   "key": "4a058f8b",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_LAUGH>\r\nЙо! Отлично выглядишь!"
+  },
+  {
+   "n": 930,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_00",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 931,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_01",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 932,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_02",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 933,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_03",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 934,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_04",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 935,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_05",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 936,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_06",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 937,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_07",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 938,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_08",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 939,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_09",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 940,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_10",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 941,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_11",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 942,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_12",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 943,
+   "f": 2,
+   "id": "MES_MAP_FARM_COMMENT_13",
+   "key": "269f5881",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nЭй, <_____MYNAME_____>!"
+  },
+  {
+   "n": 944,
+   "f": 2,
+   "id": "MES_MISSION_START",
+   "key": "004443ff",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nАга. <_____MYNAME_____>.\n<PAGE>\nКак раз вовремя. Я хотел с тобой поговорить.\n<PAGE>\nМожно тебя на минутку?"
+  },
+  {
+   "n": 945,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKD_BRIDGE",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 946,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_BELLTOWER",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 947,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKC_COLLABO_MENU1",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 948,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_BRONZE",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 949,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKB_COLLABO_PERFUME",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 950,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_GODDESS",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 951,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_A_RANKA_COLLABO_MENU2",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 952,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKD_FARMBRIDGE",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 953,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_SPA",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 954,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKC_COLLABO_MENU",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 955,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_PARK",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 956,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKB_COLLABO_KANZASHI",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 957,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_INARI",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 958,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_J_RANKA_COLLABO_SPA",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 959,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKD_OUTSIDEKITCHEN",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 960,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_FIRE",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 961,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKC_COLLABO_FOODSTUFF",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 962,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_INNAROUND",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 963,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKB_COLLABO_AVATAR",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 964,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_PIER",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 965,
+   "f": 2,
+   "id": "MES_MISSION_STORY_TOWN_S_RANKA_COLLABO_MENU",
+   "key": "7b69d6ae",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nКстати..."
+  },
+  {
+   "n": 966,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_00",
+   "key": "83c19c66",
+   "ru": "Вот, держи!"
+  },
+  {
+   "n": 967,
+   "f": 2,
+   "id": "MES_MISSION_CHOICE_01",
+   "key": "f41bd4ea",
+   "ru": "Извини, ещё нет."
+  },
+  {
+   "n": 968,
+   "f": 2,
+   "id": "MES_MISSION_NG",
+   "key": "c6dfec5d",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nНу ладно. Ничего. Не спеши. Принесёшь, как\nсоберёшь все."
+  },
+  {
+   "n": 969,
+   "f": 2,
+   "id": "MES_MISSION_OK",
+   "key": "810297e9",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nОтлично! Спасибо, что всё собрали."
+  },
+  {
+   "n": 970,
+   "f": 2,
+   "id": "MES_MISSION_CANNOT",
+   "key": "d5b20829",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nХм... Похоже, пока не всё.\n<PAGE>\nНу ладно. Ничего. Не спеши. Принесёшь, как\nсоберёшь все."
+  },
+  {
+   "n": 971,
+   "f": 2,
+   "id": "MES_MISSION_CLEAR",
+   "key": "30e5a632",
+   "ru": "<FACE_FISHER><POS_RIGHT><FACE_NORMAL>\r\nДа, это всё. Отлично!\n<PAGE>\nМатериалы есть, так что начнём, как только все\nбудут готовы.\n<PAGE>\nПока всё. Я зайду за тобой, когда всё будет\nготово, хорошо?"
+  },
+  {
+   "n": 972,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_00",
+   "key": "99c709d6",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>!"
+  },
+  {
+   "n": 973,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_01",
+   "key": "bc16875e",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1> и\n<MOJI2> ×<MOJI3>!"
+  },
+  {
+   "n": 974,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_02",
+   "key": "5f9bf091",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>,\n<MOJI2> ×<MOJI3>...\n<PAGE>\n...и <MOJI4> ×<MOJI5>!"
   }
  ]
 }

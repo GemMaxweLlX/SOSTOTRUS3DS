@@ -1,0 +1,103 @@
+{
+ "file": "Resident_J_Inari_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_00",
+   "key": "6679156e",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nА, вот и ты. Добро пожаловать на наше\nчаепитие."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_01",
+   "key": "3b6368cf",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nГоворят, ты хорошо заботишься о той лисе.\n<PAGE>\nСегодня ты здесь, чтобы принять мою\nблагодарность за это.\n<PAGE>\nВидишь ли, лис и род Виксени связывают\nдавние и глубокие узы."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_02",
+   "key": "7be6e394",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nНачнём? Чая и угощений приготовлено\nвдоволь."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_03",
+   "key": "aadc4e7b",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nПрости за ожидание. Если чай не заварен из\nсвежевскипевшей воды, он теряет часть\nаромата."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_04",
+   "key": "a162f910",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\n<WINDOW_JOY_L>Инари, какой вкусный чай. ♪\n<PAGE>\n<FACE_WITCH><POS_RIGHT><FACE_SAD><WINDOW_SWEAT_R>Правда? Для меня он слишком горький. Да и\nвсё это чаепитие слишком уж чопорное...\n<PAGE>\n<WINDOW_DEFAULT><FACE_GODDES><POS_LEFT><FACE_NORMAL>Не такое уж и чопорное, просто всё как\nположено.\n<PAGE>\n<FACE_WITCH><POS_RIGHT><FACE_NORMAL>Вот именно, СЛИШКОМ как положено! Странно\nже!\n<PAGE>\nУверена, <_____MYNAME_____> было бы приятнее, если бы мы\nпросто расслабились и повеселились.\n<PAGE>\nПозвать нас, велеть не смущать <_____MYNAME_____>... Ты\nперегибаешь палку, Инари!\n<PAGE>\nЧая с угощениями и так более чем достаточно\nдля гостеприимства."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_05",
+   "key": "a18a6a87",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\nРазве не естественно желать оказать гостю\nсамый лучший приём?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_06",
+   "key": "9419fde8",
+   "ru": "<FACE_GODDES><POS_LEFT><FACE_LAUGH>\r\nТы так стараешься, Инари!\n<PAGE>\nВсегда думаешь, как порадовать того, с кем\nимеешь дело."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_07",
+   "key": "f426d539",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_SAD>\r\n...Ага, но, может, ты переживаешь об этом\nСЛИШКОМ сильно.\n<PAGE>\nТы же говоришь, что в прошлый раз перед\nвстречей с Наставником волнений было\nстолько, что аж жар поднялся?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_08",
+   "key": "c67763aa",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\nЭто потому, что из-за печати было столько\nхлопот...\n<PAGE>\nХотелось чем-то загладить вину, и выбор\nподарка привёл меня в панику.\n<PAGE>\n<FACE_ANGRY>Доставлять Наставнику столько хлопот вовсе не\nвходило в мои планы.\n<PAGE>\nЕсли бы не твой неудачный эксперимент...!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_09",
+   "key": "1a154289",
+   "ru": "<FACE_WITCH><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Ля-ля-ля, ничего не слышу! Ничего не знаю!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_10",
+   "key": "396141d7",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_SAD>\r\n...Хмф. А теперь из-за тебя <_____MYNAME_____> надо мной\nсмеётся!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_11",
+   "key": "56c48ef0",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_R>Хм? Тебе приятно узнать обо мне больше?\n<PAGE>\n<WINDOW_DEFAULT><FACE_LAUGH>...П-правда? Мне немного неловко, но если\nтебе весело, то и мне радостно.\n<PAGE>\nИ раз уж выпал случай, не расскажешь ли о\nсебе в ответ?\n<PAGE>\nЧеловек, который меня видит... Мне всегда\nбыло очень интересно узнать о тебе."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_12",
+   "key": "f0c7276f",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nЕщё раз спасибо, что пришли. Мне было очень\nвесело."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_J_INARI_1_13",
+   "key": "f45db040",
+   "ru": "<FACE_INARI><POS_RIGHT><FACE_LAUGH>\r\nНаш друг-лис говорит, что ему тоже было\nвесело, и хочет как-нибудь снова с тобой\nпоиграть.\n<PAGE>\nНадеюсь, ты и дальше будешь дружить со\nвсеми лисами.\n<PAGE>\nИ со мной тоже."
+  }
+ ]
+}

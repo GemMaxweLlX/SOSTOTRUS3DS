@@ -1,0 +1,222 @@
+{
+ "file": "Resident_S_TwinYounger_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_00",
+   "key": "e1dd320a",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nГолова болит, потому что затекла шея.\n<PAGE>\nВокруг неё скопилась плохая аура.\n<PAGE>\nРазотрите эти лечебные травы и вотрите в\nшею."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_01",
+   "key": "e5a438ba",
+   "ru": "О, mahalo! Наконец-то избавлюсь от этой\nнадоедливой боли!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_02",
+   "key": "c57a2214",
+   "ru": "Вы меня просто спасли! Сколько я вам должен?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_03",
+   "key": "094a618a",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nНичего не нужно, я денег не беру."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_04",
+   "key": "249c32d9",
+   "ru": "Правда...? Вы очень добры.\n<PAGE>\nТогда возьмите хотя бы это.\n<PAGE>\nБананы из моего сада. Очень вкусные!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_05",
+   "key": "748ae4eb",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>.\n<PAGE>\n...Что-то у меня сильное чувство дежавю."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_06",
+   "key": "f08302a4",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Тебе что-то нужно?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_07",
+   "key": "d996fbe3",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nЯ дала травы человеку, которому было\nбольно.\n<PAGE>\nПо ауре человека я обычно вижу, откуда идёт\nнедуг.\n<PAGE>\nПоэтому могу подобрать травы, которые точно\nпомогут.\n<PAGE>\nЯ называю это... “осмотр ауры”."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_08",
+   "key": "3dbee58b",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_L>Беру ли я плату за осмотр?\n<PAGE>\n<WINDOW_DEFAULT>Деньги мне особо не нужны, так что нет."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_09",
+   "key": "2fcc7a11",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_SAD>\r\nА твоя сестра содрала с рыбака 15 800 G\nтолько за прогноз погоды..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_10",
+   "key": "af982810",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nДелать лечебные снадобья ― моё увлечение.\nОтдавать их тем, кому они нужны... просто его\nпродолжение.\n<PAGE>\nПоэтому я не беру денег... К тому же все и так\nдарят мне фрукты."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_11",
+   "key": "a1d8c6d1",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nХвалить тут не за что. Я ведь делаю это для\nсебя."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_12",
+   "key": "f69818d7",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Когда-то давно Илука съела ядовитый гриб."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_13",
+   "key": "ff0781ce",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nА, да, помню. Когда мы застряли на том\nострове.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Угу. К счастью, я тогда как раз знала, как\nсделать противоядие.\n<PAGE>\nЯ дала ей его выпить, и ей стало лучше...\n<PAGE>\n<FACE_LAUGH>Она потом весь день меня хвалила.\n<PAGE>\nЯ была очень счастлива. Поэтому, вернувшись\nдомой, я изучила, как делать разные снадобья."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_14",
+   "key": "8c3153e0",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nИлуку до сих пор мучает тот случай, но...\n<PAGE>\nИменно из-за него я всерьёз взялась за изучение\nлечебных снадобий.\n<PAGE>\nИ всё же я рада, что мы тогда вернулись."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_15",
+   "key": "06c7162e",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ тоже. Из-за того крушения я и занялся\nплотницким делом.\n<PAGE>\nПришлось строить дом из ничего и чинить\nлодку ― так оно и вышло.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>...Да. Мы с ним, наоборот, благодарны Илуке."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_16",
+   "key": "fc00483c",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_SAD>\r\n...\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>Илука, давно ты...?"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_17",
+   "key": "a8c73b22",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_SAD>\r\n<WINDOW_SWEAT_L>Э-э, я...\n<PAGE>\n<FACE_ANGRY>Т-ты так долго, вот я и пришла за тобой.\n<PAGE>\nМы же сегодня вместе репетируем танец,\nзабыла? Хватит копаться, пошли!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_18",
+   "key": "fcd5d3e2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ как раз удивлялся, что ты сегодня так\nразговорилась, Силука.\n<PAGE>\nТы ведь уже заметила, что там стоит Илука,\nда?"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_19",
+   "key": "bca35495",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nХм? Понятия не имею, о чём ты."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_20",
+   "key": "86007b4f",
+   "ru": "Вы замечательные сёстры"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_21",
+   "key": "1c5866f7",
+   "ru": "Погодите, меня что, использовали...?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_22",
+   "key": "852daf5f",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Наверное.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>...Ты и правда очень любишь Илуку, да?"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_23",
+   "key": "5f07a1fa",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nАга... Прости.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>Ну, для Силуки сестра всегда на первом месте."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_24",
+   "key": "d5556561",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nНу, мне пора."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_25",
+   "key": "ce3c980c",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\nДа, кстати...\n<PAGE>\nНедавно Илука купила мне научную книгу о\nрастениях.\n<PAGE>\nДорогую... За 15 800 G."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_26",
+   "key": "9aa7fce1",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\n...Но Илука никому об этом не расскажет.\n<PAGE>\nДо встречи."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_27",
+   "key": "cf4e81fc",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nВот откуда такая странно точная сумма...\n<PAGE>\n<FACE_LAUGH>Ну ты даёшь, Илука..."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_28",
+   "key": "dbcb6563",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\n...В общем.\n<PAGE>\nНамерения у них не всегда понятные, но обе\nони хорошие девчонки.\n<PAGE>\nХотя... ты ведь и так это знаешь, да?"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_29",
+   "key": "0fd11b5c",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>\r\nПравда, Илука?"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_TWINYOUNGER_1_30",
+   "key": "f4c8dfbd",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Да. Она для меня самый дорогой человек."
+  }
+ ]
+}

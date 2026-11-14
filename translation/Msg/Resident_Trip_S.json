@@ -1,0 +1,320 @@
+{
+ "file": "Resident_Trip_S",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_00",
+   "key": "e3c08930",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>О, отлично, не придётся тебя искать."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_01",
+   "key": "be718aac",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nГлянь-ка, <_____MYNAME_____>. Ничего не напоминает?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_02",
+   "key": "5d2f5332",
+   "ru": "“☆Волшебное задание: продолжение☆\n<PAGE>\nСледующим жителям Лулукоко: Лудусу, Илуке\nи Силуке.\n<PAGE>\nНемедленно отправляйтесь в Цуюкусу и до\nконца дня выполните задания.\n<PAGE>\n1. Посетите купальню “Кипарисовая ванна”!\n<PAGE>\n2. Отведайте местных сладостей во “Встрече за\nчаем”!!\n<PAGE>\n3. Сочините сэнрю!!!\n<PAGE>\nВыполните всё это ― и вас ждёт щедрая\nнаграда...\n<PAGE>\n<_____MYNAME_____>, как и раньше, тоже идёт с вами.”"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_03",
+   "key": "a3e477f0",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nПохоже, такое же, как получил Вестаун...\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>Да. И аура такая же."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_04",
+   "key": "a1dabeb4",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Ну, мы все знаем, чем это кончится.\n<PAGE>\nМы как раз говорили, что надо найти тебя и\nвместе отправиться в Цуюкусу, <_____MYNAME_____>.\n<PAGE>\nТы ведь с нами, да?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_05",
+   "key": "577102e8",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>\r\nПонятия не имею, что за последнее задание...\nСочинить какой-то “сэнрю”...\n<PAGE>\nНу да ладно. Спросим у Касуми, она наверняка\nобъяснит.\n<PAGE>\nВремени у нас не так много, так что пошли."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_06",
+   "key": "eb9d774b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Вот мы и хотели попросить вас помочь с\nэтими заданиями."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_07",
+   "key": "9405b84b",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>\r\nХм, я не очень понимаю, что происходит...\nМожет, это Инари балуется.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Не бери в голову. Да и сходить всем вместе на\nгорячие источники ― это ж здорово.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Действительно.\n<PAGE>\nОтличная возможность познакомить жителей\nЛулукоко с нашим городом.\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Я расскажу вам о прелестях сладостей\nЦуюкусы. Не волнуйтесь, вы в руках мастера."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_08",
+   "key": "d9866ed6",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nТогда всё будет просто.\n<PAGE>\nПервым делом горячий источник. Э-э... А где\nон?\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Мы проводим. Пойдём все вместе."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_09",
+   "key": "50031145",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nТак, народ, встречаемся здесь примерно через\nчас, идёт?\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>Договорились!\n<PAGE>\n<FACE_NORMAL>Хотя вы, мальчики, наверняка управитесь\nбыстрее, так что дождитесь нас!\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Без проблем. До встречи."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_10",
+   "key": "3dc9ee5b",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>\r\nФу-у-ух! Вот ради чего я живу!\n<PAGE>\n<FACE_CRAFTMAN><POS_LEFT><FACE_LOSS>Хината, ты начинаешь говорить как мужик\nсредних лет...\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LOSS>Простите его... Он всегда такой, когда мы сюда\nприходим.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_NORMAL>Но слушай...\n<PAGE>\n<FACE_LAUGH>Я и раньше так думал, но сейчас вижу точно ―\nЛудус, ты качок!\n<PAGE>\n<FACE_NORMAL>Это от твоей стройки так?\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>Ну, наверное... Мне часто приходится таскать\nтяжести. Само собой так вышло.\n<PAGE>\n<FACE_LAUGH>Кстати, ты ведь тоже крепкий, Юдзуки.\nТренируешься?\n<PAGE>\n<FACE_CHASER><POS_LEFT><FACE_NORMAL>Ха-ха, вы мне льстите! Когда-то я был\nслабым, так что теперь слежу за собой.\n<PAGE>\n...Ах, пора заканчивать, а то заставим девушек\nждать.\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>А, точно! Ополоснёмся ещё разок и на выход!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_11",
+   "key": "7ae82f90",
+   "ru": "<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH>\r\nФу-у-ух! Ах, я в РАЮ!\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LOSS>Комари, потише, пожалуйста.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Хорошо, что купальня не общая.\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LAUGH>Будь здесь общие купели, я бы сюда ни ногой.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LOSS>Хотя даже когда одни девушки, всё равно\nкак-то неловко...\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Надо просто привыкнуть. Касуми поначалу\nтоже стеснялась, а теперь чуть ли не живёт тут!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Именно. Я хожу сюда как можно чаще ради\nздоровья.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>О-о, и правда. Тут много потеешь, это\nнаверняка полезно для кожи...\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>...Кажется, Илука сюда зачастит.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Ха-а, хочется ещё поболтать, но неудобно\nзаставлять мальчиков долго ждать.\n<PAGE>\n<FACE_LAUGH>Ополоснёмся ещё разок и на выход!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>Хр-р... Хр-р...\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>Силука! Хватит спать в ванне!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_12",
+   "key": "b9a92029",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nА-ах, как освежает! И кожа такая мягкая!\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Горячий источник был чудесный. ...Так\nчудесно, что я уснула.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Согласен. Не думал, что будет так хорошо."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_13",
+   "key": "ddae2d53",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_NORMAL>\r\nЯ жутко рад, что вам понравилось!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_14",
+   "key": "9879da1b",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, одно задание выполнено.\n<PAGE>\nДальше ― “Встреча за чаем”.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Это ведь заведение папы Комари?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_15",
+   "key": "279f38b1",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nТочно! Я покажу дорогу!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_16",
+   "key": "c0fd0f0e",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nТа-да! Налетайте, пока горячее! ♪\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Угощения во “Встрече за чаем” ― одни из\nлучших.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Хм, ловлю на слове. Попробуем."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_17",
+   "key": "180858af",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LAUGH>\r\nМ-м, вкусно! Совсем не похоже на сладости,\nкоторые делаем мы.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Такая простая сладость... Этот вкус... Мне есть\nчему поучиться.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>Рисовые крекеры тоже отличные. Я думал,\nдесерты Цуюкусы все сладкие, но...\n<PAGE>\nДаже мне такое по вкусу."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_18",
+   "key": "605e42ba",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nПравда? Сладости моего папы ― объедение!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>А если от сладкого станет приторно,\nпопробуйте зелёный чай.\n<PAGE>\nОб этикете не волнуйтесь, просто расслабьтесь\nи наслаждайтесь.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>Так и сделаю! Mahalo."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_19",
+   "key": "88c1eb96",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nФух, было здорово. Спасибо за угощение.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>И подача, и сами тарелки ― всё необычное.\n...Есть над чем подумать.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>И зелёный чай чудесный. Не верится, что он из\nтого же чайного листа, что и масала."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_20",
+   "key": "6e548bc3",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЧто ж, осталось последнее задание.\n<PAGE>\n<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>А, точно. Последнее ― сочинить “сэнрю”, но...\nчто это вообще такое?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_21",
+   "key": "7cfe919a",
+   "ru": "<FACE_TEACHER><POS_LEFT><FACE_LAUGH>\r\nЯ вам всё объясню. Идёмте."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_22",
+   "key": "502a4674",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>\r\nСэнрю ― стихи из трёх строк в пять, семь и\nпять слогов. Как хайку, только менее строгие.\n<PAGE>\nДругих правил соблюдать не нужно.\n<PAGE>\nПо сути, это “скажи что-то глубокое в\nотведённых рамках”.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Например, у меня было бы...\n<PAGE>\n“У Ра Мана вновь / отгул дал мне хозяин /\nдайте больше смен”.\n<PAGE>\n...Как-то так!\n<PAGE>\n<FACE_NORMAL>..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_23",
+   "key": "94f7d505",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\nМне кажется, я сейчас слышала, как Хинате\nпронзило сердце... Ты в порядке?\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_SAD>...Д-да. Само как-то вырвалось.\n<PAGE>\n<FACE_TEAGIRL><POS_RIGHT><FACE_LAUGH><WINDOW_SWEAT_R>Н-не переживай! У Сумомо ведь тоже много\nвыходных, правда?\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_NORMAL>...Хотя отчасти потому, что она ходит в школу."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_24",
+   "key": "0c33b649",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nЛадно, давайте сочиним свои.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Если судить по тому примеру, мой точно будет\nнеплох.\n<PAGE>\n“Засмеялась вдруг / на моё e kala mai / в день\nзнакомства нас”.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Прости! Прости-прости-прости!\n<PAGE>\n<FACE_SAD>Я тогда впервые это услышала, и оно само\nвырвалось...!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>Кстати, Комари, когда мы впервые встретились\nна празднике, ты расхохоталась от одного\nслова.\n<PAGE>\nВот это был шок...\n<PAGE>\n<FACE_LAUGH>Но не волнуйся. Илука совсем не сердится.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>...Правда?\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Правда. Мы потом немного поговорили, и я\nпоняла, что ты за человек.\n<PAGE>\nТы не издевалась надо мной, это было видно. Я\nпросто тебя чуть подразнила, прости.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Илука... Силука... И вы меня простите! Mahalo,\nчто понимаете!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_NORMAL>Комари, похоже, ты начинаешь перенимать их\nговор."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_25",
+   "key": "a131bba8",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nА, ладно. У меня тоже готово.\n<PAGE>\n“Друзья детства, вы / мне долги не вернули /\nдаром не тружусь”.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL><WINDOW_SWEAT_R>...\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LOSS>..."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_26",
+   "key": "c0d24797",
+   "ru": "<FACE_CHASER><POS_LEFT><FACE_SAD>\r\nВсё в порядке? У вас вдруг лица окаменели...\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>Ага, всё прекрасно. Я ничуть не волнуюсь.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_SAD>Э-э, точно? По-моему, ещё как волнуешься.\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Это уже просто перепалка из жалоб, которые\nслучайно уложились в слоги..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_27",
+   "key": "b2962eb0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LOSS>\r\n...\n<PAGE>\n<FACE_LAUGH>Я только что придумала.\n<PAGE>\n“Трио городов / в каждом полным-полно /\nсчастливых людей”."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_28",
+   "key": "cc1ad503",
+   "ru": "<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>\r\nСлава богу, наконец-то приличное сэнрю.\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>Хотя мне кажется, она просто хотела отвлечь\nнас от тех двух стихов..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_29",
+   "key": "822e5a10",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_NORMAL>\r\nА? Но ведь хорошо, что все ладят?\n<PAGE>\n<FACE_APPRENTICE><POS_RIGHT><FACE_LAUGH>Ещё бы! Вот так смеяться вместе ― это лучше\nвсего!"
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_30",
+   "key": "fe101be2",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____> дело говорит, да?\n<PAGE>\n<FACE_LAUGH>В общем, темы были необычные, но “сэнрю”\nсочинили все..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_31",
+   "key": "4c76b713",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_SAD>\r\nТолько ничего не происходит...\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LOSS>Может, сэнрю были так ужасны, что не\nзасчитались?"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_32",
+   "key": "de3ebc55",
+   "ru": "“Па-па-ба-а-ам! Все задания выполнены!\n<PAGE>\nВ награду можете забрать домой эти подарки.\n<PAGE>\nP.S. Кстати, сэнрю засчитаны по доброте\nдушевной.”"
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_33",
+   "key": "c44085f7",
+   "ru": "<FACE_APPRENTICE><POS_RIGHT><FACE_LOSS>\r\nЧто это сейчас был за свет?\n<PAGE>\n<FACE_TEAGIRL><POS_LEFT><FACE_LOSS>Инари что, откуда-то за нами наблюдает...?\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LOSS>Секунду назад здесь ничего не было, верно?\n<PAGE>\n<FACE_TEACHER><POS_LEFT><FACE_LOSS>Похоже, мы только что стали свидетелями\nнастоящего чуда..."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_34",
+   "key": "715ed779",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_LAUGH>\r\nНеважно. Мы сделали, что требовалось, так\nчто забираем всё домой."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_35",
+   "key": "02a6d9a0",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_LAUGH>\r\nВыбирай первым делом ты, <_____MYNAME_____>. Что хочешь?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_36",
+   "key": "65c4ca92",
+   "ru": "(Похоже, можно взять что угодно. Что же\nвыбрать?)"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_37",
+   "key": "74c7eb10",
+   "ru": "Чёрная ветка ×30"
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_38",
+   "key": "e3d8d954",
+   "ru": "Чёрный булыжник ×30"
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_39",
+   "key": "8cc5c939",
+   "ru": "Полынь ×10"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_40",
+   "key": "6c24d614",
+   "ru": "Гортензия ×10"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_41",
+   "key": "1e04ca41",
+   "ru": "Белокопытник ×10"
+  },
+  {
+   "n": 42,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_42",
+   "key": "d25e6f32",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЛадно. Остальное поделим между собой, идёт?"
+  },
+  {
+   "n": 43,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_43",
+   "key": "23466f83",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nОгромное всем спасибо за помощь. Было на\nудивление весело.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_LAUGH>Купальня была хороша.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>И сочинять сэнрю тоже было интересно."
+  },
+  {
+   "n": 44,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_TRIP_S_44",
+   "key": "3aed4c38",
+   "ru": "<FACE_TEAGIRL><POS_LEFT><FACE_LAUGH>\r\nАга! Я так рада, что вы чуть лучше узнали наш\nгород!\n<PAGE>\n<FACE_TEACHER><POS_RIGHT><FACE_LAUGH>Нам тоже было приятно. Заходите в любое\nвремя.\n<PAGE>\n<FACE_APPRENTICE><POS_LEFT><FACE_LAUGH>Да, я бы с радостью снова сходил со всеми на\nгорячие источники!\n<PAGE>\n<FACE_CHASER><POS_RIGHT><FACE_LAUGH>Особые сладости Цуюкусы на каждый сезон ―\nодна из главных её прелестей.\n<PAGE>\nВ следующий раз с радостью познакомлю вас с\nчем-нибудь новым и вкусным."
+  }
+ ]
+}

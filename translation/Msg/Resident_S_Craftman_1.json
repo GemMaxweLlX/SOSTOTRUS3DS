@@ -1,0 +1,222 @@
+{
+ "file": "Resident_S_Craftman_1",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_00",
+   "key": "af4c76b9",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nПривет, <_____MYNAME_____>."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_01",
+   "key": "04ebc892",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nА, это?\n<PAGE>\nИлука попросила починить шкатулку для\nукрашений.\n<PAGE>\nПохоже, в ней как-то появилась дырка.\n<PAGE>\nЯ как раз закончил."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_02",
+   "key": "7831b64c",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_LAUGH>\r\nДавай, садись.\n<PAGE>\nРаз уж ты здесь, схожу за чаем.\n<PAGE>\nПередохну, и поболтаем."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_03",
+   "key": "653060bf",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nЯ мастер на все руки, так что берусь почти за\nлюбую работу.\n<PAGE>\nОбычно чиню вещи вроде шкатулки Илуки или\nстрою дома...\n<PAGE>\nНо иногда бывают заказы вроде “поговорить со\nстарушкой” или “выгулять собаку”."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_04",
+   "key": "df793da2",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, какой бы ни была работа, у каждой своё\nудовольствие.\n<PAGE>\nКстати, если понадобится помощь, просто\nпопроси меня, а? Примчусь мигом."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_05",
+   "key": "a1449c35",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nЛудус! Починил мою шкатулку?"
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_06",
+   "key": "12806366",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nДа, всё готово. Держи."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_07",
+   "key": "463cfbed",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nМахало.\n<PAGE>\nВот, и это почини."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_08",
+   "key": "f39eedcc",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nВедро протекает. Заделаешь?"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_09",
+   "key": "2d2d88f9",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНу, да, могу, но..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_10",
+   "key": "7ae8c0fd",
+   "ru": "<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>\r\n...Редко увидишь тебя рядом с Лудусом.\n<PAGE>\n<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>Да, ты что тут делаешь?"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_11",
+   "key": "a748e3b2",
+   "ru": "<FACE_TWINOLDER><POS_RIGHT><FACE_NORMAL>\r\nК Лудусу в гости? Ого, видно, у тебя полно\nсвободного времени.\n<PAGE>\nВечно такой серьёзный... Я думала, кроме нас\nдвоих, у него нет друзей-ровесников.\n<PAGE>\n<FACE_TWINYOUNGER><POS_LEFT><FACE_NORMAL>...Илука, мы же договорились это не\nподнимать.\n<PAGE>\nВедь... у нас тоже нет других друзей."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_12",
+   "key": "5a330063",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nДержи, как новенькое."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_13",
+   "key": "48ec82f7",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_NORMAL>\r\nОтлично, спасибо.\n<PAGE>\nСледующая ― кровать у нас дома. В последнее\nвремя противно скрипит."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_14",
+   "key": "9d575900",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nОх, умеешь же ты загонять человека."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_15",
+   "key": "50415e28",
+   "ru": "Это уже слишком..."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_16",
+   "key": "ef458f6b",
+   "ru": "Отлично! Проси ещё!"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_17",
+   "key": "b1155eb6",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LAUGH>\r\nМахало, <_____MYNAME_____>. Приятно такое слышать.\n<PAGE>\nОбычно за меня так не заступаются."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_18",
+   "key": "341c5061",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\nБедный Лудус... Никто не на его стороне."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_19",
+   "key": "396ddbda",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>\r\n...Слушай, <_____MYNAME_____>. Умоляю, не давай Илуке новых\nповодов."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_20",
+   "key": "f9481106",
+   "ru": "<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>\r\n...Ну, Илука всегда была довольно\nсвоевольной.\n<PAGE>\nОднажды из-за её своеволия мы втроём\nпотерпели крушение в море."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_21",
+   "key": "c6c4b39a",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>\r\n<WINDOW_EXCLAMATION_L>П-п-погоди, Силука! Ты зачем это\nподнимаешь?!\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>...Хи-хи."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_22",
+   "key": "d88bd7f2",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_ANGRY>\r\n<WINDOW_ANGER_L>Не прощу тебя только потому, что ты решила\nмило похихикать! Есть вещи, которые просто\nнельзя говорить!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_23",
+   "key": "7c037400",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_SAD>\r\n<WINDOW_MOJA_L>...Ладно! Ладно! Поняла!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_24",
+   "key": "35f27429",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПрости за всё это."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_25",
+   "key": "2c132547",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nНасчёт крушения...\n<PAGE>\n<FACE_SAD>Илука до сих пор из-за этого переживает.\n<PAGE>\nСтоит кому-то о нём заговорить, она вот так\nмрачнеет.\n<PAGE>\n<FACE_LOSS>Ну, уверен, однажды она сама тебе расскажет.\nА пока не трогай её, ладно?"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_26",
+   "key": "1f04e64a",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\n...Спасибо. Знаешь, мне кажется, мы с тобой\nотлично поладим.\n<PAGE>\nКроме меня и близнецов, здесь никогда не\nбыло никого нашего возраста.\n<PAGE>\nТак что... хорошо, что ты теперь здесь."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_27",
+   "key": "a485fb95",
+   "ru": "<FACE_CRAFTMAN><POS_RIGHT><FACE_NORMAL>\r\nПрости, подождёшь секундочку, <_____MYNAME_____>?\n<PAGE>\nМне нужен молоток, сбегаю к себе в комнату\nбыстро починить."
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_28",
+   "key": "184e1000",
+   "ru": "<FACE_CRAFTMAN><POS_LEFT><FACE_NORMAL>\r\nТак, готово!"
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_29",
+   "key": "10fb433f",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_SAD>\r\nЗнаешь что, Лудус? Кровать починишь в другой\nраз.\n<PAGE>\nМне уже как-то всё равно.\n<PAGE>\n<FACE_CRAFTMAN><POS_RIGHT><FACE_LOSS>...А, ладно. До завтра."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_EV_RESIDENT_S_CRAFTMAN_1_30",
+   "key": "8ef7ab7f",
+   "ru": "<FACE_TWINOLDER><POS_LEFT><FACE_LOSS>\r\nПойдём домой, Силука.\n<PAGE>\n<FACE_TWINYOUNGER><POS_RIGHT><FACE_NORMAL>Ага."
+  }
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "file": "Resident_S_Assistant",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_01",
+   "key": "7a64b9f4",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nО, <_____MYNAME_____>! Здравствуй!\n<PAGE>\nЧто такое? ...Погоди, неужели... ты ко мне в\nгости?!\n<PAGE>\nИначе зачем идти в такую даль, да?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_02",
+   "key": "564665e7",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nСлушай, если есть время...\n<PAGE>\nЯ как раз собирался с профессором Митрой\nисследовать руины. Пойдёшь со мной?"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_03",
+   "key": "0e0c3dcc",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nА, п-правда? Я так рад!\n<PAGE>\nПравда, не обещаю, что мы там что-нибудь\nнайдём.\n<PAGE>\nЭ-э-э, ладно. Тогда идём к руинам!"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_04",
+   "key": "4f75047b",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>\r\nСегодня мы обследуем окрестности руин."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_34",
+   "key": "26e8ad78",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>\r\nА... зачем ты, собственно, здесь? Только\nмешаться будешь."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_05",
+   "key": "f49fe2d2",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, ну... Профессор, <_____MYNAME_____> пришёл(шла)\nпосмотреть, как я работаю."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_06",
+   "key": "68c70781",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_LAUGH>\r\nХо-хо! Из всех людей тебе интересен Лотос, а?\n<PAGE>\nСтранный же ты человек! Даже с моим умом,\nкажется, мне не постичь, что творится у тебя в\nголове.\n<PAGE>\nЧто ж, если сумеешь не мешаться, делай что\nхочешь."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_07",
+   "key": "44aba65d",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>\r\nИтак, Лотос. Приступим?\n<PAGE>\nТам ведь остались места, которые мы толком\nне исследовали?\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>Д-да. Из-за дождя в прошлый раз изучение\nдальней части пришлось отменить."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_09",
+   "key": "cad95bfe",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nПрофессор! Похоже, здесь всё в порядке!\nНаверное, можно идти дальше...\n<PAGE>\n<FACE_ANGRY><WINDOW_LINE_R>Ва-а-а-а-а!"
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_10",
+   "key": "b39d5d22",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_R>Похоже, я случайно наступил на тайный рычаг\nловушки-ямы.\n<PAGE>\nПрофессор, помогите-е-е..."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_11",
+   "key": "f54a51db",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>\r\nОставь его. Сам выберется. Когда-нибудь.\n<PAGE>\nТак всегда бывает. Зато отлично проверяет\nловушки."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_12",
+   "key": "1cef8fd9",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nУф... Наконец-то выбрался...\n<PAGE>\nПохоже, исследование пока закончено, так что\nдавай немного передохнём.\n<PAGE>\nНу, э-э... пойдём в гостиницу..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_13",
+   "key": "ad5c756e",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\nО. Это собака Тототары, Парора.\n<PAGE>\nРедко его увидишь вот так на улице.\nИнтересно, что-то случилось?\n<PAGE>\nНо главное, только бы он не..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_14",
+   "key": "8b3eff23",
+   "ru": "Гав-гав-гав-гав!"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_15",
+   "key": "0babf09f",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nА-а-а, так и знал!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_16",
+   "key": "e0f0907d",
+   "ru": "<FACE_INNOWNER><POS_LEFT><FACE_ANGRY>\r\nПарора! К ноге! Почему ты вечно гоняешься за\nЛотосом, а?!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_17",
+   "key": "acfe5a09",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nНет-нет, я в порядке. Спасибо...\n<PAGE>\n*вздох* Почему животные меня так ненавидят?\n<PAGE>\nИ не только Парора. Кот профессора, Данте,\nтоже, кажется, на меня зуб точит..."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_23",
+   "key": "9c8fc51e",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_NORMAL>\r\n<WINDOW_INCOMPREHENSIBLE_R>...А? Что это у тебя под ногами, <_____MYNAME_____>?"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_18",
+   "key": "7211bc21",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nОй-ой-ой...\n<PAGE>\nПохоже, это ловушка, чтобы споткнуться. Так и\nдумал, что что-то видел."
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_19",
+   "key": "bad629bf",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nДа ещё и с водяной ловушкой в придачу...\nКакой сложный розыгрыш."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_21",
+   "key": "f3729229",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\n<WINDOW_DISCOURAGEMENT_R>Ха-а-ах... Почему мне сегодня так не везёт?"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_25",
+   "key": "6c6772d9",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>\r\nТак и думала, что это ты, Лотос. Что ты здесь\nделаешь?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_26",
+   "key": "37663e10",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>\r\nСколько раз я тебя предупреждала? Здесь\nполно ловушек, которые ставят дети.\n<PAGE>\nТвоя способность попадаться в ловушки,\nкоторые легко заметить, выходит за рамки\nнеуклюжести... Это почти божественно.\n<PAGE>\nВот поэтому ты никак и не выпустишься из\nшколы попаданий в ловушки.\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_SAD>Эх..."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_31",
+   "key": "e9d69ecd",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>\r\nКстати, <_____MYNAME_____>. Ты ведь весь день провёл(а) с\nЛотосом?\n<PAGE>\nХотела бы услышать твоё мнение... Сплошная\nкатастрофа, да?"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_32",
+   "key": "8f5225a2",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\n<_____MYNAME_____>... Ты думаешь, что я хороший человек...?\n<PAGE>\nЯ так рад это слышать. Спасибо!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_S_ASSISTANT_33",
+   "key": "4e1bbf17",
+   "ru": "<FACE_HISTORIAN><POS_LEFT><FACE_NORMAL>\r\nЧто ж, видно, на вкус и цвет товарищей нет.\n<PAGE>\nПовезло тебе, Лотос. На свете бывают\nнеобычайно добрые люди.\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>Спасибо, профессор!\n<PAGE>\n<FACE_SAD>...Но без последней фразы можно было\nобойтись."
+  }
+ ]
+}

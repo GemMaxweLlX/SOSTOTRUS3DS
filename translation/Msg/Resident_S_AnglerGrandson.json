@@ -1,0 +1,278 @@
+{
+ "file": "Resident_S_AnglerGrandson",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_000",
+   "key": "e7732185",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_SAD>\r\n...*всхлип*..."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_00",
+   "key": "4d470d35",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nД-да! Иду!"
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_01",
+   "key": "ef597be4",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\n<_____MYNAME_____>, алоха."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_02",
+   "key": "06d673c7",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\n...Что такое? У меня что-то на лице?"
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_03",
+   "key": "a4ee947b",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_SAD>\r\nГлаза красные...? Н-нет, не красные!\n<PAGE>\nЭ-э, ну, это... это просто аллергия!"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_04",
+   "key": "0e179f25",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nЗ-знаешь что, садись? Я налью тебе чаю."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_05",
+   "key": "234d6fe2",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nНа что смотришь, <_____MYNAME_____>?"
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_06",
+   "key": "3477d2f4",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nЭта книга? А, я как раз её читал...\n<PAGE>\nТы о ней слышал(а)?"
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_07",
+   "key": "36488176",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nНет? Вот как...\n<PAGE>\nУ меня на родине это безумно популярная\nкнига.\n<PAGE>\nВспомнил, что она всё это время лежала в\nвещах, и решил перечитать."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_08",
+   "key": "36416c00",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nО чём она? Ну...\n<PAGE>\nЭто приключенческий роман о герое, который\nотправляется в путь повидать друга детства.\n<PAGE>\n<FACE_LAUGH>Но по дороге его корабль попадает в шторм, и\nего выносит на берег не той страны.\n<PAGE>\nПотом он ввязывается во всякие тайны и\nнеприятности, посещая разные острова, чтобы\nпополнить припасы и всё такое...\n<PAGE>\nВ общем, такая суть!"
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_09",
+   "key": "22444159",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nХм? Я выгляжу довольным? Так и есть!\n<PAGE>\n<FACE_LAUGH>Из всех романов, что я читал, этот мой\nлюбимый!\n<PAGE>\nЛучше всего в нём то, как мощно описаны\nсцены схваток!\n<PAGE>\nНа героя в пути нападают самые разные злодеи,\nно...\n<PAGE>\nНесмотря на численный перевес, он побеждает\nблагодаря знаниям и физической силе!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_10",
+   "key": "bd6916be",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_LAUGH>\r\nВ одной стране, чтобы спасти похищенную\nдевушку, он участвует в турнире бойцов.\n<PAGE>\nИ он так силён, что король той страны хочет\nсделать его генералом своей армии!\n<PAGE>\nКак ни посмотри, герой невероятно умный,\nсильный и крутой!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_11",
+   "key": "2ab0e7fd",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_SAD>\r\nО-ой, прости... Я немного увлёкся.\n<PAGE>\n<FACE_NORMAL>Просто... я очень восхищаюсь такой силой.\n<PAGE>\nС детства я рос на рассказах о своём\nлегендарном дедушке.\n<PAGE>\nКогда читаю эту книгу, она как-то напоминает\nмне те истории..."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_12",
+   "key": "d4c2d742",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_LAUGH>\r\nДедушка когда-то был генералом у меня на\nродине.\n<PAGE>\nГоворят, в молодости он в одиночку сразился с\nтридцатью разбойниками и победил!\n<PAGE>\nЕсть ещё история о том, как на турнире боевых\nискусств он победил всех соперников одним\nударом меча.\n<PAGE>\nО дедушке ходит много разных легенд."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_13",
+   "key": "8df5e66a",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_LAUGH>\r\nПоэтому мне так трудно им не восхищаться..."
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_14",
+   "key": "31cb6087",
+   "ru": "Он правда был такой легендой?"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_15",
+   "key": "6d29705b",
+   "ru": "По нему не скажешь"
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_16",
+   "key": "8f2df0c6",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_LAUGH>\r\nЕщё бы! Мой дедушка невероятный!\n<PAGE>\nПоэтому я хочу однажды стать таким же\nсильным, как он!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_17",
+   "key": "7cb58240",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nНу, конечно, сейчас он отдыхает и рыбачит,\nно...\n<PAGE>\n<FACE_LAUGH>В молодости он правда был потрясающим.\n<PAGE>\nПоэтому я хочу однажды стать таким же\nсильным!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_18",
+   "key": "a1a0e9ee",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_SAD>\r\nАх...\n<PAGE>\nПрости... Я опять увлёкся..."
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_19",
+   "key": "86d59ca1",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nО-ой, кстати! Ещё одно прекрасное в книге ―\nперсонажи.\n<PAGE>\n<FACE_LAUGH>Это приключенческая история, так что\nперсонажей много, но все они очень интересные\nи живые.\n<PAGE>\nНапример, на одном из островов, куда герой\nзаходит за припасами, живут две девушки,\nкоторые хорошо танцуют и гадают.\n<PAGE>\nОдна из них гадает как-то лениво, но когда\nстановится трудно, в итоге выручает."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_20",
+   "key": "d1a9f023",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nА вторая влюблена в героя...\n<PAGE>\nОна говорит, что отправится с ним в путь, и\nслышать ничего не хочет. Но в итоге герою\nудаётся её уговорить.\n<PAGE>\n“Нельзя позволять чувствам управлять собой”,\n― говорит он ей.\n<PAGE>\nНа самом деле герою очень хочется взять её с\nсобой, но он знает, что так для неё лучше.\n<PAGE>\nОна со слезами зовёт его по имени, когда он\nуходит, но он ни разу не оборачивается.\n<PAGE>\nКак раз эту сцену я и читал перед твоим\nприходом..."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_21",
+   "key": "a032163e",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_ANGRY>\r\nЧто значит “так вот почему”?! Я же сказал, я не\nплакал!\n<PAGE>\nП-просто что-то попало в глаза! Никаких слёз!"
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_22",
+   "key": "05b9b56a",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nО-ой, смотри! Чай остыл! Пойду подогрею!"
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_23",
+   "key": "c8c48e74",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nС возвращением, дедушка.\n<PAGE>\n<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>Привет! И тебе привет, <_____MYNAME_____>!"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_24",
+   "key": "f0909667",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо! Вот это воспоминания!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_25",
+   "key": "97afc46a",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nТы её читал, дедушка?"
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_26",
+   "key": "aed6a96f",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_LAUGH>\r\nЧитал? Главный герой книги списан с меня!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_27",
+   "key": "aa0a91d3",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nДавным-давно я отправился в путь повидать\nдруга детства, с которым мы потерялись...\n<PAGE>\nНо по дороге ввязался во всякие неприятности.\n<PAGE>\nКогда я рассказал другу обо всём, что\nслучилось, он превратил это в роман."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_28",
+   "key": "381ded3e",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_ANGRY>\r\nНе может быть!\n<PAGE>\n<FACE_NORMAL>Значит, та часть про турнир...\n<PAGE>\nОснована на легенде о состязании по боевым\nискусствам?\n<PAGE>\n<FACE_SAD>Неудивительно, что они казались такими\nпохожими..."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_29",
+   "key": "49e88d81",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nЕсли подумать, что-то такое и правда было.\n<PAGE>\nАх, и ещё... Этот город тоже есть в книге."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_30",
+   "key": "078a99cc",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nП-правда?!"
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_31",
+   "key": "86c08606",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nТам ведь есть остров, где герой пополняет\nприпасы? Тот, где две танцовщицы.\n<PAGE>\nОн списан с Лулукоко.\n<PAGE>\nЕсть там и персонажи, списанные с людей,\nкоторых вы оба знаете."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_32",
+   "key": "959de72b",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nДве танцовщицы... Одна из них ― Тототара.\n<PAGE>\nОна и тогда много шутила и порой была остра\nкак нож, ничуть не изменилась."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_33",
+   "key": "7805c694",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nНо погоди, бабушка была...\n<PAGE>\nБабушка была из Лулукоко. И лучшей подругой\nТототары...\n<PAGE>\n<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>...\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>Значит...\n<PAGE>\nНеужели та вторая танцовщица, что плакала,\nкогда герой уходил, это...?"
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_34",
+   "key": "f55dea71",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nХо-хо-хо... Это история для другого раза.\n<PAGE>\n<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>...Ладно!"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_35",
+   "key": "722f1fa5",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nОх, уже столько времени?"
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_36",
+   "key": "6c0380dd",
+   "ru": "<FACE_ANGLERGRANDSON><POS_LEFT><FACE_NORMAL>\r\nПохоже, мы заговорились. Прости, что отнял у\nтебя время, <_____MYNAME_____>.\n<PAGE>\n<FACE_LAUGH>Но было весело обо всём поговорить. Если\nхочешь, заходи ещё как-нибудь."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_RESIDENT_S_AnglerGrandson_37",
+   "key": "82166e37",
+   "ru": "<FACE_ANGLER><POS_RIGHT><FACE_NORMAL>\r\nДа, приходи когда захочешь. Встретим с\nраспростёртыми объятиями."
+  }
+ ]
+}

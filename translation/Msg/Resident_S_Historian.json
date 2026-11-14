@@ -1,0 +1,299 @@
+{
+ "file": "Resident_S_Historian",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_01",
+   "key": "f2bf2532",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n...А, это ты.\n<PAGE>\nЯ сейчас работаю. Если тебе что-то нужно,\nпридётся подождать."
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_42",
+   "key": "da4c4fad",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nЛотос. Принеси ту штуку с полки вон там."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_02",
+   "key": "623bc538",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\n...Лотос! Ты меня слышал?"
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_03",
+   "key": "9cb4048a",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_SAD>\r\nА, да. Штуку, ага..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_04",
+   "key": "a02f4975",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nВы это хотели, профессор?"
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_05",
+   "key": "9cb315a7",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\nНет, не это! Прозрачную, справа!\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_SAD>П-простите... С-сейчас принесу."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_06",
+   "key": "1fc745ac",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nП-простите... С-сейчас принесу."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_07",
+   "key": "ec4721ac",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\n...Ты что творишь?\n<PAGE>\n<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>П-простите..."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_08",
+   "key": "1c1741f4",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_SAD>\r\nП-простите..."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_09",
+   "key": "3fa8141a",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nПочему я сделала Лотоса своим ассистентом?\n<PAGE>\n<FACE_ANGRY>...Он всё донимал меня, и в конце концов я\nсдалась. Только и всего."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_10",
+   "key": "5b5a48bb",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nСтранные же вещи тебя интересуют.\n<PAGE>\nНу, если хочешь знать, есть ли от него толк как\nот ассистента, ответ, как видишь, очевиден.\n<PAGE>\nХотя понимаю, почему тебе любопытно."
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_11",
+   "key": "3f3e5f62",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nПростите, что заставил ждать...\n<PAGE>\nСреди всего этого хлама на полке трудно было\nнайти..."
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_12",
+   "key": "1a7ea6f3",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nА, это правда. Было такое."
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_13",
+   "key": "6a7f7be9",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nЭ-э, ну... Раньше я много путешествовал.\nИсследовал самые разные места по всему миру!\n<PAGE>\nПустыни... леса... ледяные тундры..."
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_14",
+   "key": "1557bc77",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_SAD>\r\nОпасно ли было?\n<PAGE>\nНу, конечно. Происшествий было полно...\n<PAGE>\n<FACE_LAUGH>Это ведь я!"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_15",
+   "key": "617a6661",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nЭ-э, в общем, лет десять назад во время\nэкспедиции я однажды упал без сил.\n<PAGE>\nПрофессор как раз проходила мимо и спасла\nменя."
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_16",
+   "key": "8886847f",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nЛотос. Ты же должен быть историком. Не\nискажай прошлое.\n<PAGE>\nВисеть без сознания на дереве ― это едва ли\n“упал без сил”."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_17",
+   "key": "7841facf",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nВ-вы правы. Простите...\n<PAGE>\n<FACE_SAD>Э-э... Я залез на большое дерево, чтобы\nперебраться через реку, но...\n<PAGE>\nДобравшись до верхушки, сорвался и...\nзацепился за ветку прямо над рекой.\n<PAGE>\n<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>Именно. Я бы тебя там и оставила, но в той\nреке водились крокодилы.\n<PAGE>\nЯ помогла тебе спуститься лишь потому, что не\nхотела смотреть, как тебя съедят заживо.\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>В тот день вы правда спасли мне жизнь. Вы мой\nгерой."
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_18",
+   "key": "633f5186",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nИ тогда я узнал, что она та самая уважаемая\nпрофессор, написавшая “Шокирующий курс\nтайн истории”!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_19",
+   "key": "455aba1b",
+   "ru": "<FACE_ASSISTANT><POS_RIGHT><FACE_LAUGH>\r\nВ тот раз вы правда спасли мне жизнь. Вы мой\nгерой.\n<PAGE>\nА потом я узнал, что профессор ― автор\nзнаменитого “Шокирующего курса тайн\nистории”!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_20",
+   "key": "79560775",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\n...Ах да, та книга.\n<PAGE>\nОна не такая уж знаменитая, я и не думала, что\nкто-то о ней знает."
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_21",
+   "key": "d94dd80f",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nПосле той судьбоносной встречи я понял, что\nобязан стать её ассистентом, и просился\nкаждый божий день.\n<PAGE>\nА ещё пытался помогать ей чем только мог,\nчтобы она сочла меня хоть чуточку полезным."
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_22",
+   "key": "70e8bb06",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nПолезным? Ты только мешался.\n<PAGE>\nЛез помогать без спроса и чаще всего\nчто-нибудь ломал.\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_SAD>...Э, верно."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_23",
+   "key": "7a94d2ee",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nНо Лотос правда приходил каждый день.\n<PAGE>\nНеважно, шёл ли дождь или даже бушевал\nтайфун.\n<PAGE>\nИз-за этого однажды он и правда свалился без\nсил.\n<PAGE>\nТут мне, честно говоря, стало его жаль, и я\nсделала его ассистентом."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_24",
+   "key": "2c5f878a",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nПравда?\n<PAGE>\nВам меня было жаль?"
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_25",
+   "key": "6d119415",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\nТы что, так удивлён? За кого ты меня\nпринимаешь?!"
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_26",
+   "key": "12ebc7c7",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_SAD>\r\nН-но... вы всегда говорите, что у меня нет\nталанта или что я просто инструмент для\nсрабатывания ловушек...\n<PAGE>\n<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>И то, и другое чистая правда, но это не значит,\nчто я тебя ненавижу. Конечно, мне было жаль.\n<PAGE>\nС тем, кого ненавидишь, не станешь возиться и\nуж точно не сделаешь ассистентом!\n<PAGE>\n<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>Я... Я и не знал, что вы так ко мне относитесь...\nЯ-я так счастлив..."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_27",
+   "key": "aed8a38c",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nЭто всё правда, но я тебя не ненавижу.\nКонечно, мне было жаль.\n<PAGE>\nК тому же с тем, кого ненавидишь, не станешь\nвозиться и уж точно не сделаешь ассистентом!"
+  },
+  {
+   "n": 28,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_28",
+   "key": "91e1962e",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nЯ и не знал, что вы так ко мне относитесь...\nЯ-я так счастлив..."
+  },
+  {
+   "n": 29,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_29",
+   "key": "fc69a9b0",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nЧто? Мне стоит воспользоваться случаем и\nсказать ей то, о чём обычно молчу?\n<PAGE>\nМ-м, посмотрим..."
+  },
+  {
+   "n": 30,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_30",
+   "key": "615ea0a6",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nОбычно я говорю, что чувствую, сразу, так что\nособо нечего...\n<PAGE>\nНо если уж говорить, хотелось бы, чтобы она\nчуточку меньше меня била. Это о-о-очень\nбольно..."
+  },
+  {
+   "n": 31,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_31",
+   "key": "086dce3a",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_ANGRY>\r\nНе так уж я тебя и бью... Я же не Каолила.\n<PAGE>\n<FACE_NORMAL>К тому же если бы ты лучше собрался, не за\nчто было бы и ругать."
+  },
+  {
+   "n": 32,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_32",
+   "key": "e6b800c5",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nЧ-что насчёт меня? Ну, посмотрим...\n<PAGE>\nМало у кого хватает стойкости долго вести со\nмной исследования. Так что в этом смысле он\nбесценен.\n<PAGE>\nА его оптимизм просто поразителен.\n<PAGE>\nОн вечно попадается в ловушки и розыгрыши,\nно это его ничуть не огорчает.\n<PAGE>\nМожет, он и не самый острый инструмент в\nсарае, но толк от него есть, и я рада, что\nсделала его ассистентом."
+  },
+  {
+   "n": 33,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_33",
+   "key": "2adb10df",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nП-профессор...!\n<PAGE>\n<FACE_HISTORIAN><POS_RIGHT><FACE_SAD>Довольно? Такого я обычно никогда не\nговорю.\n<PAGE>\n<FACE_NORMAL>Удивительно, что тебе удалось вытянуть из\nменя всё это. Похоже, я тебя недооценивала."
+  },
+  {
+   "n": 34,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_34",
+   "key": "ea52f94d",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_SAD>\r\nЭтого более чем достаточно, верно? Я сказала\nто, чего обычно никогда не говорю.\n<PAGE>\n<FACE_NORMAL>Тебе правда удалось вытянуть из меня всё это.\nВозможно, я тебя недооценивала."
+  },
+  {
+   "n": 35,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_35",
+   "key": "96c335a8",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nКстати, а что тебя сегодня сюда привело?"
+  },
+  {
+   "n": 36,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_36",
+   "key": "b3252464",
+   "ru": "<FACE_HISTORIAN><POS_RIGHT><FACE_NORMAL>\r\nПросто так? Странный же ты человек. Ну,\nладно.\n<PAGE>\n<FACE_LAUGH>Однако на тебя ушло моё ценное время. В\nкачестве компенсации составишь мне компанию\nв следующем исследовании.\n<PAGE>\nВообще-то стой там! Хочу услышать твоё\nмнение о моём последнем анализе."
+  },
+  {
+   "n": 37,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_37",
+   "key": "7f7e16ad",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nОй-ой... Если она начнёт, то будет говорить\nвечно, это то-о-очно.\n<PAGE>\nДальше я сам разберусь, так что...\n<PAGE>\nПользуйся случаем и, ну, сбегай."
+  },
+  {
+   "n": 38,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_38",
+   "key": "80f7adbb",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_LAUGH>\r\nИ, э-э, <_____MYNAME_____>? Огромное спасибо за сегодня.\n<PAGE>\nБлагодаря тебе я чуть увереннее чувствую себя\nв роли ассистента профессора."
+  },
+  {
+   "n": 39,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_39",
+   "key": "f78ef116",
+   "ru": "<FACE_HISTORIAN>\r\nЭй, Лотос! Что ты тут один делаешь? Где <_____MYNAME_____>?\n<PAGE>\n...Что?! Ушли домой?! А я только всё\nподготовила!\n<PAGE>\nТак я никогда не успокоюсь! Придётся\nдовольствоваться тобой. Иди сюда и слушай\nмои соображения!"
+  },
+  {
+   "n": 40,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_40",
+   "key": "759759e5",
+   "ru": "(Как бы эти двое себя ни вели, они, похоже, на\nсамом деле довольно близки.)"
+  },
+  {
+   "n": 41,
+   "f": 2,
+   "id": "MES_RESIDENT_S_HISTORIAN_41",
+   "key": "13068080",
+   "ru": "<FACE_ASSISTANT><POS_LEFT><FACE_NORMAL>\r\nАх, <_____MYNAME_____>...\n<PAGE>\nЯ ассистент профессора, потому что она спасла\nмне жизнь."
+  }
+ ]
+}

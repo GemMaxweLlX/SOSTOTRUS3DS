@@ -1,0 +1,201 @@
+{
+ "file": "Resident_J_Wolesaler",
+ "entries": [
+  {
+   "n": 0,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_00",
+   "key": "6671f9db",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nДобро пожаловать, <_____MYNAME_____>!\n<PAGE>\nНаверное, трудно было добраться в такую\nнепогоду, да?"
+  },
+  {
+   "n": 1,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_01",
+   "key": "efd71897",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nА, <_____MYNAME_____>. Да, добро пожаловать."
+  },
+  {
+   "n": 2,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_02",
+   "key": "76a10acf",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nЭ-э, смотри что хочешь. Если будут вопросы,\nспрашивай."
+  },
+  {
+   "n": 3,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_03",
+   "key": "778b693f",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\n..."
+  },
+  {
+   "n": 4,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_04",
+   "key": "692ab689",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nЯ веду себя странно? Как грубо, ничего\nподобного. Просто..."
+  },
+  {
+   "n": 5,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_05",
+   "key": "e73cc1f8",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nПомнишь, как Сумомо подарила мне кастеллу?\n<PAGE>\nВ благодарность я решил время от времени её\nне отчитывать.\n<PAGE>\nК счастью, сегодня посетителей немного. Кроме\nтебя, по крайней мере.\n<PAGE>\nПоэтому я собирался позволить ей... ну... быть\nнеуклюжей больше обычного."
+  },
+  {
+   "n": 6,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_06",
+   "key": "2f5c5d20",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nВ общем, раз никого больше нет, смотри\nтовары не спеша."
+  },
+  {
+   "n": 7,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_07",
+   "key": "0b35747d",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\nДобро пожаловать к Ра Ману, господин\nУмэкити!\n<PAGE>\n<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>Здравствуй, Сумомо. Ты сегодня прямо\nсолнышко... не то что погода. Хо-хо!\n<PAGE>\nЯ пришёл за вещью, которую заказывал на\nднях. Уже пришла?\n<PAGE>\nОна должна быть оплачена."
+  },
+  {
+   "n": 8,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_08",
+   "key": "726760a9",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nЗдравствуй, Сумомо. Ты сегодня полна сил.\n<PAGE>\nЯ пришёл за вещью, которую заказывал на\nднях. Она здесь?\n<PAGE>\nОна должна быть оплачена."
+  },
+  {
+   "n": 9,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_09",
+   "key": "759512b4",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\nЭ-э... Подождите минутку, пожалуйста. Сейчас\nпосмотрю."
+  },
+  {
+   "n": 10,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_10",
+   "key": "ea533cf9",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_NORMAL>\r\nВот она, да? Пожалуйста!"
+  },
+  {
+   "n": 11,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_11",
+   "key": "d16e3ae9",
+   "ru": "<FACE_JAPANFARMOLDMAN><POS_RIGHT><FACE_NORMAL>\r\nДа, она самая. Спасибо, Сумомо. Так держать.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_LEFT><FACE_LAUGH>Буду! Спасибо! Ждём вас снова!"
+  },
+  {
+   "n": 12,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_12",
+   "key": "9a82a680",
+   "ru": "<FACE_MIGRANTGIRL><POS_LEFT><FACE_LAUGH>\r\nБуду! Спасибо! Ждём вас снова!"
+  },
+  {
+   "n": 13,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_13",
+   "key": "c99ed7fe",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nЧто-то не так... Она ещё не допустила ни\nодной явной ошибки.\n<PAGE>\nДаже только что. Обычно она бы уронила\nтовар или что-нибудь такое.\n<PAGE>\nЧто сегодня происходит?"
+  },
+  {
+   "n": 14,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_14",
+   "key": "16133415",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nТебе что-то нужно, <_____MYNAME_____>?"
+  },
+  {
+   "n": 15,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_15",
+   "key": "8cf04851",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nА? Как я себя сегодня чувствую?\n<PAGE>\nХм, если подумать, неплохо.\n<PAGE>\nПогоди... Кажется, я сегодня ни разу не\nошиблась!\n<PAGE>\n<FACE_LAUGH>У м-меня никогда так хорошо не получалось!"
+  },
+  {
+   "n": 16,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_16",
+   "key": "bd57a8e8",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nТак-так, похоже, все мои уроки наконец\nпринесли плоды.\n<PAGE>\n<FACE_LAUGH>Впрочем, учил-то тебя не кто иной, как я."
+  },
+  {
+   "n": 17,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_17",
+   "key": "812ad977",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_LAUGH>\r\nАга! Теперь я смогу работать ещё усерднее!"
+  },
+  {
+   "n": 18,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_18",
+   "key": "984226e7",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nЗначит, ты наконец не хуже остальных.\n<PAGE>\nА значит, если снова ошибёшься, буду строже,\nчем раньше.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_SAD>Ч-что?! Э-это же...!"
+  },
+  {
+   "n": 19,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_19",
+   "key": "0fdeaf34",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_SAD>\r\nЧ-что?! Э-это же...!"
+  },
+  {
+   "n": 20,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_20",
+   "key": "1efca04a",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_SAD>\r\nВа-а-а! П-простите!\n<PAGE>\n<FACE_WOLESALER><POS_LEFT><FACE_ANGRY>Надо же, ошибиться именно сейчас... Ты что\nтворишь?!"
+  },
+  {
+   "n": 21,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_21",
+   "key": "6f80f9eb",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_ANGRY>\r\n...Надо же, ошибиться именно сейчас... Ты что\nтворишь?"
+  },
+  {
+   "n": 22,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_22",
+   "key": "6a720541",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nИ ты, Дайкоку...?\n<PAGE>\nПонял, понял. Не волнуйтесь. Я ведь сам так\nсказал.\n<PAGE>\nОбещаю вам обоим, Дайкоку и <_____MYNAME_____>, сегодня я её\nругать не буду."
+  },
+  {
+   "n": 23,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_23",
+   "key": "d892a5e0",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nСумомо, может, пока передохнёшь?\n<PAGE>\nТак ты не забудешь то чувство, что было\nраньше. Для начала научись не допускать таких\nмелких ошибок.\n<PAGE>\n<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>Х-хорошо! Спасибо! Я постараюсь!\n<PAGE>\nГосподин Мория, <_____MYNAME_____>, э-э, с вашего позволения..."
+  },
+  {
+   "n": 24,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_24",
+   "key": "96155938",
+   "ru": "<FACE_MIGRANTGIRL><POS_RIGHT><FACE_NORMAL>\r\nХ-хорошо! Спасибо! Я постараюсь!\n<PAGE>\nХозяин, <_____MYNAME_____>, э-э, простите."
+  },
+  {
+   "n": 25,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_25",
+   "key": "f7b7026b",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nЯ размяк? Хм, оставь меня в покое."
+  },
+  {
+   "n": 26,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_26",
+   "key": "1e76535e",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nЗнаешь, Дайкоку у меня ещё с тех пор, когда я\nжил не здесь, и она никогда не любила\nненадёжных людей.\n<PAGE>\nЕсли вспомнить, она всегда шипела на тех, кто\nпытался продать мне некачественный товар.\n<PAGE>\nА к постоянным клиентам всегда ластилась.\n<PAGE>\nЯ всегда думал, что она просто очень\nразборчива в симпатиях, но... видно, у неё на\nэто нюх."
+  },
+  {
+   "n": 27,
+   "f": 2,
+   "id": "MES_RESIDENT_J_Wolesaler_27",
+   "key": "abe96916",
+   "ru": "<FACE_WOLESALER><POS_LEFT><FACE_NORMAL>\r\nИными словами... Дайкоку, похоже, к тебе\nочень привязалась, <_____MYNAME_____>.\n<PAGE>\nТак что, пожалуй, пока и я могу тебе доверять."
+  }
+ ]
+}

@@ -2,11 +2,60 @@
  "file": "Talk_J_Apprentice",
  "entries": [
   {
+   "n": 165,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_00",
+   "key": "22b37260",
+   "ru": "Слёзно умолять"
+  },
+  {
+   "n": 166,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_01",
+   "key": "2c9eb184",
+   "ru": "Уговорить его"
+  },
+  {
+   "n": 167,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_02",
+   "key": "d931124c",
+   "ru": "Сделать недовольное лицо"
+  },
+  {
+   "n": 168,
+   "f": 2,
+   "id": "MES_CAMPAIGN_RICE_EAR_SELECT_03",
+   "key": "ace26435",
+   "ru": "Надуть губы"
+  },
+  {
+   "n": 276,
+   "f": 2,
+   "id": "MES_MEAL_SELECT_00",
+   "key": "52354c03",
+   "ru": "Поесть с Хинатой"
+  },
+  {
    "n": 277,
    "f": 2,
    "id": "MES_MEAL_SELECT_01",
    "key": "93efdefa",
    "ru": "Не сегодня"
+  },
+  {
+   "n": 295,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_01",
+   "key": "7f559f35",
+   "ru": "Было бы кстати. Спасибо!"
+  },
+  {
+   "n": 296,
+   "f": 2,
+   "id": "MES_HELP_REQUEST_02",
+   "key": "4f4e63b2",
+   "ru": "Пока не нужно. Но спасибо!"
   },
   {
    "n": 384,
@@ -16,11 +65,25 @@
    "ru": "Конечно"
   },
   {
+   "n": 385,
+   "f": 2,
+   "id": "MES_PROPOSAL_SELECT_01",
+   "key": "ddf30ef4",
+   "ru": "Извини, мне некогда"
+  },
+  {
    "n": 389,
    "f": 2,
    "id": "MES_CONFESSION_SELECT_00",
    "key": "a6a4f8a0",
    "ru": "Конечно"
+  },
+  {
+   "n": 390,
+   "f": 2,
+   "id": "MES_CONFESSION_SELECT_01",
+   "key": "ddf30ef4",
+   "ru": "Извини, мне некогда"
   },
   {
    "n": 394,
@@ -35,6 +98,76 @@
    "id": "MES_LOVE_CANCEL_SELECT_01",
    "key": "93efdefa",
    "ru": "Не сегодня"
+  },
+  {
+   "n": 447,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_00",
+   "key": "1da313da",
+   "ru": "(Волнительно... Сделать Хинате\nпредложение?)"
+  },
+  {
+   "n": 448,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_00",
+   "key": "f24fe9fc",
+   "ru": "Сделать предложение"
+  },
+  {
+   "n": 449,
+   "f": 2,
+   "id": "MES_EVENT_BLUE_SHUTTLECOCK_SELECT_01",
+   "key": "730214c0",
+   "ru": "Не делать предложение"
+  },
+  {
+   "n": 455,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_SELECT_00",
+   "key": "aa606f9e",
+   "ru": "Признаться"
+  },
+  {
+   "n": 456,
+   "f": 2,
+   "id": "MES_EVENT_PENDANT_SELECT_01",
+   "key": "2b2d92a2",
+   "ru": "Не признаваться"
+  },
+  {
+   "n": 464,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_00",
+   "key": "cd00159a",
+   "ru": "(Похоже, ему сейчас не до подарков.\nЗайду попозже.)"
+  },
+  {
+   "n": 465,
+   "f": 2,
+   "id": "MES_PRESENT_CANNOT_01",
+   "key": "2ad2d316",
+   "ru": "(Ему сегодня уже был подарок. Лучше\nприберечь это до завтра.)"
+  },
+  {
+   "n": 982,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_00",
+   "key": "80416b76",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>!"
+  },
+  {
+   "n": 983,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_01",
+   "key": "46a56058",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1> и\n<MOJI2> ×<MOJI3>!"
+  },
+  {
+   "n": 984,
+   "f": 2,
+   "id": "MES_MISSION_RESULT_02",
+   "key": "8c9b361f",
+   "ru": "Отдано:\n<MOJI0> ×<MOJI1>,\n<MOJI2> ×<MOJI3>...\n<PAGE>\n...и <MOJI4> ×<MOJI5>!"
   }
  ]
 }
