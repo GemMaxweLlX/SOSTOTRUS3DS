@@ -12,7 +12,7 @@ rather than plain labels, in the style of the originals:
                               snowflakes: the picture under the old word is
                               continued and the new word drawn on top
 
-    python sosart.py PNGROOT Nunito[wght].ttf
+    python sosart.py PNGROOT Nunito[wght].ttf [ARCHIVE]
 
 PNGROOT holds the pictures extracted by sosgfx.py, one folder per archive
 (PNGROOT/Trophy/timg/co.png ...). The pictures are redrawn in place at the
@@ -228,10 +228,11 @@ def season_badge(img, ttf, box, text, colour):
 
 def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
-    if len(argv) != 2:
+    if len(argv) not in (2, 3):
         print(__doc__)
         return 2
-    root, ttf = argv
+    root, ttf = argv[:2]
+    only = argv[2] if len(argv) == 3 else None      # one archive, e.g. "Trophy"
     # The layout puts "time" left of the screen centre and "out" right of
     # it; only the first 182 pixels of "out" are on screen. Both words get
     # the same letter size, the largest at which they stay visible.
@@ -246,6 +247,8 @@ def main(argv=None):
             Image.open(os.path.join(root, "BirthdayLower", "timg", n + ".png")), ttf, b, wd, c))(
             box, word, colour, name)
     for (arc, name), make in jobs.items():
+        if only and arc != only:
+            continue
         path = os.path.join(root, arc, "timg", name + ".png")
         if not os.path.exists(path):
             continue
