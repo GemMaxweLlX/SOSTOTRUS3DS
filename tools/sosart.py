@@ -8,6 +8,9 @@ rather than plain labels, in the style of the originals:
                               from yellow at the ends to red in the middle
   Competition.arc  timg/time  "TIME": every letter its own colour, lighter
                    timg/out   inside, with a white and a dark outline ("UP!")
+  BirthdayLower    timg/bt_*  season names on blossoms, sun, leaves and
+                              snowflakes: the picture under the old word is
+                              continued and the new word drawn on top
 
     python sosart.py PNGROOT Nunito[wght].ttf
 
@@ -161,6 +164,68 @@ def letters(ttf, text, colours, size, align, px, top=6, bottom=58):
     return finish(out, size)
 
 
+# birthday season badges: (word box in the original, Russian word, letter colour)
+SEASONS = {
+    "bt_spring": ((20, 22, 60, 40), "Весна", (238, 68, 119)),
+    "bt_summer": ((11, 21, 67, 40), "Лето", (51, 153, 0)),
+    "bt_autum": ((25, 23, 54, 39), "Осень", (238, 102, 51)),
+    "bt_winter": ((17, 23, 57, 41), "Зима", (51, 136, 170)),
+}
+
+
+def inpaint(img, box):
+    """Fill the box from its surroundings, ring by ring, so that the
+    blossom, sun, leaf or snowflake under the old word is continued
+    (and stays transparent where the shape ended)."""
+    img = img.copy()
+    px = img.load()
+    w, h = img.size
+    x0, y0, x1, y1 = box
+    unknown = {(x, y) for x in range(max(x0, 0), min(x1, w)) for y in range(max(y0, 0), min(y1, h))}
+    while unknown:
+        done = {}
+        for x, y in unknown:
+            near = [px[i, j] for i in (x - 1, x, x + 1) for j in (y - 1, y, y + 1)
+                    if (i, j) != (x, y) and 0 <= i < w and 0 <= j < h and (i, j) not in unknown]
+            if len(near) >= 3:
+                solid = [c for c in near if c[3] > 128]
+                if len(solid) * 2 < len(near):
+                    done[x, y] = (0, 0, 0, 0)
+                else:
+                    done[x, y] = tuple(sum(c[k] for c in solid) // len(solid) for k in range(3)) + (255,)
+        if not done:                       # nothing touches a known pixel: give up
+            break
+        for (x, y), c in done.items():
+            px[x, y] = c
+        unknown -= set(done)
+    return img
+
+
+def season_badge(img, ttf, box, text, colour):
+    img = inpaint(img.convert("RGBA"), (box[0] - 1, box[1] - 1, box[2] + 1, box[3] + 1))
+    w, h = img.size
+    dark = tuple(round(c * 0.55) for c in colour)
+    rim, edge = 2 * SS, 3 * SS
+    px = 15                               # one size for all four, as in the originals
+    while px > 8:
+        f = font(ttf, px * SS)
+        bb = f.getbbox(text, stroke_width=edge)
+        if bb[2] - bb[0] <= (w - 4) * SS:
+            break
+        px -= 1
+    caps = f.getbbox("Н")
+    cx, cy = (box[0] + box[2]) / 2 * SS, (box[1] + box[3]) / 2 * SS
+    org = (cx - (bb[0] + bb[2]) / 2, cy - (caps[1] + caps[3]) / 2)
+    layer = Image.new("RGBA", (w * SS, h * SS), (0, 0, 0, 0))
+    d = ImageDraw.Draw(layer)
+    d.text(org, text, font=f, fill=dark + (255,), stroke_width=edge, stroke_fill=dark + (255,))
+    d.text(org, text, font=f, fill=(255, 255, 255, 255), stroke_width=rim, stroke_fill=(255, 255, 255, 255))
+    d.text(org, text, font=f, fill=colour + (255,))
+    out = img.copy()
+    out.alpha_composite(finish(layer, (w, h)))
+    return out
+
+
 def main(argv=None):
     argv = sys.argv[1:] if argv is None else argv
     if len(argv) != 2:
@@ -176,6 +241,10 @@ def main(argv=None):
         ("Competition", "time"): lambda s: letters(ttf, TIME[0], TIME[1], s, "right", px),
         ("Competition", "out"): lambda s: letters(ttf, UP[0], UP[1], s, "left", px),
     }
+    for name, (box, word, colour) in SEASONS.items():
+        jobs[("BirthdayLower", name)] = (lambda b, wd, c, n: lambda s: season_badge(
+            Image.open(os.path.join(root, "BirthdayLower", "timg", n + ".png")), ttf, b, wd, c))(
+            box, word, colour, name)
     for (arc, name), make in jobs.items():
         path = os.path.join(root, arc, "timg", name + ".png")
         if not os.path.exists(path):
