@@ -1394,20 +1394,6 @@
      ]
     }
    ]
-  },
-  "timg/time": {
-   "text": "ВРЕМЯ",
-   "fill": "#ee3344",
-   "ring": "#ffffff",
-   "size": 40,
-   "stroke": 3
-  },
-  "timg/out": {
-   "text": "ВЫШЛО!",
-   "fill": "#ff8822",
-   "ring": "#ffffff",
-   "size": 36,
-   "stroke": 3
   }
  },
  "Achievement.arc": {
@@ -1711,14 +1697,6 @@
    "size": 18
   }
  },
- "Trophy.arc": {
-  "timg/co": {
-   "text": "Поздравляем!",
-   "fill": "#ff7700",
-   "ring": "#ffdd00",
-   "size": 26
-  }
- },
  "PanelHelp.arc": {
   "timg/help_00": {
    "text": "Взять",
@@ -1826,5 +1804,6 @@
    ],
    "dy": 1
   }
- }
+ },
+ "Trophy.arc": {}
 }
