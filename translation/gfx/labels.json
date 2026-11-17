@@ -164,7 +164,20 @@
    "align": "center",
    "dx": 1
   },
-  "_fit": true
+  "_fit": true,
+  "timg/wnd_00": {
+   "text": "Материалы",
+   "box": [
+    32,
+    62,
+    110,
+    78
+   ],
+   "rowfill": true,
+   "fill": "#fbffea",
+   "size": 14,
+   "align": "left"
+  }
  },
  "StockUpper.arc": {
   "timg/s_title_03": "Силос",
@@ -343,7 +356,9 @@
    "fill": "#226666",
    "size": 14,
    "align": "center"
-  }
+  },
+  "timg/a_yes": "Да",
+  "timg/b_no": "Нет"
  },
  "AnimalBoard.arc": {
   "_fill": "auto",
@@ -675,6 +690,19 @@
    "size": 12,
    "align": "center",
    "rowfill": true
+  },
+  "timg/comment_00": {
+   "text": "Подготовка",
+   "box": [
+    35,
+    50,
+    111,
+    65
+   ],
+   "rowfill": 110,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center"
   }
  },
  "ShopIngredient.arc": {
@@ -704,6 +732,34 @@
    "size": 12,
    "align": "center",
    "rowfill": true
+  },
+  "timg/comment_00": {
+   "text": "Материалы",
+   "box": [
+    36,
+    49,
+    112,
+    66
+   ],
+   "rowfill": true,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center",
+   "parts": [
+    {
+     "text": "Применение",
+     "box": [
+      228,
+      50,
+      300,
+      65
+     ],
+     "fill": "#ffffee",
+     "outline": "#663311",
+     "width": 1,
+     "size": 12
+    }
+   ]
   }
  },
  "Avatar.arc": {
@@ -776,6 +832,19 @@
    "size": 18,
    "align": "center",
    "dx": 1
+  },
+  "timg/comment_shop_01": {
+   "text": "Материалы",
+   "box": [
+    50,
+    50,
+    127,
+    68
+   ],
+   "rowfill": true,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center"
   }
  },
  "CalendarLower.arc": {
@@ -1806,5 +1875,118 @@
   }
  },
  "Trophy.arc": {},
- "BirthdayLower.arc": {}
+ "BirthdayLower.arc": {},
+ "QuestUpper.arc": {
+  "_fit": true,
+  "timg/bg_00": {
+   "text": "Клиент",
+   "box": [
+    229,
+    42,
+    274,
+    58
+   ],
+   "rowfill": 228,
+   "fill": "#ffffff",
+   "outline": "#2a5566",
+   "width": 1,
+   "size": 12,
+   "align": "center",
+   "parts": [
+    {
+     "text": "Плата",
+     "box": [
+      28,
+      118,
+      88,
+      134
+     ],
+     "erase": [
+      30,
+      119,
+      60,
+      133
+     ],
+     "rowfill": "lerp",
+     "fill": "#1a6f80",
+     "outline": null,
+     "size": 12
+    },
+    {
+     "text": "Подсказка",
+     "box": [
+      28,
+      172,
+      88,
+      190
+     ],
+     "erase": [
+      32,
+      175,
+      69,
+      188
+     ],
+     "rowfill": "lerp",
+     "fill": "#1a6f80",
+     "outline": null,
+     "size": 12
+    }
+   ]
+  },
+  "timg/bg_01": {
+   "text": "Клиент",
+   "box": [
+    229,
+    42,
+    274,
+    58
+   ],
+   "rowfill": 228,
+   "fill": "#ffffff",
+   "outline": "#2a5566",
+   "width": 1,
+   "size": 12,
+   "align": "center",
+   "parts": [
+    {
+     "text": "Плата",
+     "box": [
+      28,
+      118,
+      88,
+      134
+     ],
+     "erase": [
+      30,
+      119,
+      60,
+      133
+     ],
+     "rowfill": "lerp",
+     "fill": "#7b3700",
+     "outline": null,
+     "size": 12
+    },
+    {
+     "text": "Подсказка",
+     "box": [
+      28,
+      172,
+      88,
+      190
+     ],
+     "erase": [
+      32,
+      175,
+      69,
+      188
+     ],
+     "rowfill": "lerp",
+     "fill": "#7b3700",
+     "outline": null,
+     "size": 12
+    }
+   ]
+  }
+ }
 }

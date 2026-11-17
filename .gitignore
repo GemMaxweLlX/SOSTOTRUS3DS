@@ -16,5 +16,5 @@ __pycache__/
 # tables and pictures made from the game files
 *.xlsx
 *.csv
-gfx/
-gfx_sheets/
+/gfx/
+/gfx_sheets/

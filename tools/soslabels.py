@@ -24,10 +24,13 @@ each row with its own colour from the left edge of the box, for buttons
 with a gradient; "rowfill": "mode" uses the most common colour of each
 row, for bands the old word partly covers; "outside" the most common
 colour of the same row outside the box; "inner" everything between the
-grey rims of a bubble; a number takes the colours
+grey rims of a bubble; "lerp" blends each row between the pixels left
+and right of the box, for smooth gradients; a number takes the colours
 from that column). "outline": "#rrggbb" and "width" give the letters an
 outline; "parts": [{"text": ..., "box": [...]}, ...] replaces more words
-in the same picture with the same style. "dx"/"dy" shift a word by pixels; "cut": x sets where a button icon ends. A label may also be an object such as
+in the same picture with the same style. "erase": [x0, y0, x1, y1] paints over
+that area instead of the box, when the new word may use more room than
+the old one took. "dx"/"dy" shift a word by pixels; "cut": x sets where a button icon ends. A label may also be an object such as
 {"text": "Весна", "fill": "#ff4f8f"} to override the style for one image.
 "align": "left" starts a word where the old one started, "auto" does
 that only when the old word sat at the left. "_fit"/"fit": true keeps a word no wider than the original one and
@@ -186,18 +189,28 @@ def relabel(img, text, ttf_path, icon=False, fill="#ffffff", ring=None, size=12,
 
 
 def relabel_box(img, text, ttf_path, box, fill="#ffffff", size=12, align="left",
-                dx=0, dy=0, rowfill=False, outline=None, width=1, parts=(), **_ignored):
+                dx=0, dy=0, rowfill=False, outline=None, width=1, parts=(), erase=None,
+                **_ignored):
     """Replace a word that sits inside a bigger picture.
 
     box = [x0, y0, x1, y1]: the area of the old word. It is painted over with
     the colour found at its top-left corner, and the new word is drawn there
     without an outline, centred vertically, starting at the left edge."""
     img = img.convert("RGBA")
-    x0, y0, x1, y1 = box
+    x0, y0, x1, y1 = erase or box
     background = img.getpixel((x0, y0))
     colour = parse_colour(fill, background) or (0, 0, 0, 255)
     out = img.copy()
-    if rowfill == "inner":
+    if rowfill == "lerp":
+        # a smooth background: every row of the box is blended from the
+        # pixel just left of the box to the pixel just right of it
+        for y in range(y0, y1):
+            a, b_ = img.getpixel((x0 - 1, y)), img.getpixel((x1, y))
+            n = x1 - x0 + 1
+            for x in range(x0, x1):
+                t = (x - x0 + 1) / n
+                out.putpixel((x, y), tuple(round(p + (q - p) * t) for p, q in zip(a, b_)))
+    elif rowfill == "inner":
         # a bubble with a grey rim: in every row of the box, repaint
         # everything between the rims with the colour of the box's top row
         inner = img.getpixel(((x0 + x1) // 2, y0 - 1))
@@ -243,6 +256,7 @@ def relabel_box(img, text, ttf_path, box, fill="#ffffff", size=12, align="left",
             out.paste(img.getpixel((col, y)), (x0, y, x1, y + 1))
     else:
         out.paste(background, (x0, y0, x1, y1))
+    x0, y0, x1, y1 = box
     stroke = width if outline else 0
     edge = parse_colour(outline, background) if outline else None
     while True:
