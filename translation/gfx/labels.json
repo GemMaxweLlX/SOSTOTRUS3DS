@@ -31,7 +31,8 @@
   "timg/y_details": "Детали",
   "timg/y_take_off": "Снять",
   "_fill": "#ffffff",
-  "_size": 12
+  "_size": 12,
+  "_fit": true
  },
  "Clock.arc": {
   "_ring": "#ffffff",
@@ -102,13 +103,14 @@
    "ring": null
   },
   "timg/date_base": {
-   "text": "День",
+   "text": "Дн.",
    "fill": "#ffffff",
    "size": 10,
    "stroke": 1,
    "ring": null,
    "keep_box": true
-  }
+  },
+  "_fit": true
  },
  "ItemComment.arc": {
   "timg/s_title_00": "Сумка",
@@ -135,12 +137,12 @@
    "size": 11
   },
   "timg/df_02": {
-   "text": "Сочность",
+   "text": "Сочн.",
    "fill": "#ffffff",
    "size": 11
   },
   "timg/df_03": {
-   "text": "Размер",
+   "text": "Разм.",
    "fill": "#ffffff",
    "size": 11
   },
@@ -161,6 +163,20 @@
    "size": 18,
    "align": "center",
    "dx": 1
+  },
+  "_fit": true,
+  "timg/wnd_00": {
+   "text": "Материалы",
+   "box": [
+    32,
+    62,
+    110,
+    78
+   ],
+   "rowfill": true,
+   "fill": "#fbffea",
+   "size": 14,
+   "align": "left"
   }
  },
  "StockUpper.arc": {
@@ -171,7 +187,8 @@
    "text": "Объединить",
    "fill": "#ffffff",
    "size": 13
-  }
+  },
+  "_fit": true
  },
  "Tab.arc": {
   "_fill": "#ffd23c",
@@ -184,8 +201,8 @@
   "timg/ani_type_11": "Суффолки",
   "timg/ani_type_18": "Лошади",
   "timg/ani_type_20": "Хлева",
-  "timg/ani_type_21": "Курятники",
-  "timg/ani_type_22": "Питомцы",
+  "timg/ani_type_21": "Птичник",
+  "timg/ani_type_22": "Звери",
   "timg/atlr_type_00": "Полевые",
   "timg/atlr_type_01": "Плоды",
   "timg/atlr_type_02": "Цветы",
@@ -199,14 +216,14 @@
   "timg/ava_type_06": "Шляпы",
   "timg/ava_type_07": "Очки",
   "timg/ava_type_08": "Город",
-  "timg/ava_type_09": "Мужское",
-  "timg/ava_type_10": "Женское",
-  "timg/ava_type_11": "Элегантное",
+  "timg/ava_type_09": "Муж.",
+  "timg/ava_type_10": "Жен.",
+  "timg/ava_type_11": "Изящное",
   "timg/ava_type_12": "Дикое",
-  "timg/ava_type_13": "Природное",
+  "timg/ava_type_13": "Природн.",
   "timg/ava_type_14": "Милое",
-  "timg/ava_type_15": "Причудливое",
-  "timg/b_type_00": "Инструменты",
+  "timg/ava_type_15": "Чудное",
+  "timg/b_type_00": "Инстр.",
   "timg/b_type_01": "Семена",
   "timg/b_type_02": "Урожай",
   "timg/b_type_03": "Блюда",
@@ -242,33 +259,1893 @@
   "timg/type_all": "ВСЕ",
   "timg/ad_type_00": "Советы 1",
   "timg/ad_type_01": "Советы 2",
-  "timg/ad_type_02": "Советы 3"
+  "timg/ad_type_02": "Советы 3",
+  "_fit": true
  },
  "CheckWindow.arc": {
   "_icon": true,
   "_fill": "#ffffff",
   "_size": 12,
-  "timg/kettei": {
-   "text": "Принять",
-   "dy": -2
-  },
+  "timg/kettei": "Принять",
   "timg/modoru": "Назад",
   "timg/a_yes": "Да",
   "timg/b_no": "Нет",
-  "timg/cancel": "Отмена"
+  "timg/cancel": "Отмена",
+  "_fit": true,
+  "timg/wnd_total": {
+   "text": "Итого",
+   "box": [
+    33,
+    7,
+    86,
+    26
+   ],
+   "rowfill": true,
+   "fill": "#ffffff",
+   "outline": "#883300",
+   "width": 2,
+   "size": 13,
+   "align": "center"
+  }
  },
  "NumberselectShop.arc": {
   "_icon": true,
   "_fill": "#ffffff",
   "_size": 12,
   "timg/kettei": "Принять",
-  "timg/modoru": "Назад"
+  "timg/modoru": "Назад",
+  "_fit": true,
+  "timg/wnd_total": {
+   "text": "Итого",
+   "box": [
+    33,
+    7,
+    86,
+    26
+   ],
+   "rowfill": true,
+   "fill": "#ffffff",
+   "outline": "#883300",
+   "width": 2,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/shop_base_2": {
+   "text": "Есть",
+   "box": [
+    20,
+    9,
+    74,
+    25
+   ],
+   "fill": "#226666",
+   "size": 14,
+   "align": "center"
+  }
  },
  "NumberselectShop2.arc": {
   "_icon": true,
   "_fill": "#ffffff",
   "_size": 12,
   "timg/kettei": "Принять",
-  "timg/modoru": "Назад"
+  "timg/modoru": "Назад",
+  "_fit": true,
+  "timg/wnd_total": {
+   "text": "Итого",
+   "box": [
+    33,
+    7,
+    86,
+    26
+   ],
+   "rowfill": true,
+   "fill": "#ffffff",
+   "outline": "#883300",
+   "width": 2,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/shop_base_2": {
+   "text": "Есть",
+   "box": [
+    20,
+    9,
+    74,
+    25
+   ],
+   "fill": "#226666",
+   "size": 14,
+   "align": "center"
+  },
+  "timg/a_yes": "Да",
+  "timg/b_no": "Нет"
+ },
+ "AnimalBoard.arc": {
+  "_fill": "auto",
+  "_size": 13,
+  "timg/a_title_00": {
+   "text": "Симпатия",
+   "align": "left"
+  },
+  "timg/a_title_01": {
+   "text": "Стресс",
+   "align": "left"
+  },
+  "timg/a_title_02": {
+   "text": "Здор.",
+   "align": "left"
+  },
+  "timg/a_title_03": {
+   "text": "Кол. прод.",
+   "align": "left"
+  },
+  "timg/a_title_04": {
+   "text": "Ур. прод.",
+   "align": "left"
+  },
+  "timg/a_title_05": {
+   "text": "Мех",
+   "align": "left"
+  },
+  "timg/a_title_06": {
+   "text": "Д.р.",
+   "align": "left"
+  },
+  "timg/a_title_07": {
+   "text": "Вид",
+   "align": "left"
+  },
+  "timg/a_title_08": {
+   "text": "Праздник",
+   "align": "left"
+  },
+  "timg/a_title_09": {
+   "text": "Ферма",
+   "align": "left"
+  },
+  "timg/a_title_10": {
+   "text": "Хлев",
+   "align": "left"
+  },
+  "timg/a_title_11": {
+   "text": "Ур. пит.",
+   "align": "left"
+  },
+  "timg/a_title_12": {
+   "text": "Умение",
+   "align": "left"
+  },
+  "timg/a_title_13": {
+   "text": "Выпас",
+   "align": "left"
+  },
+  "timg/s_title_06": {
+   "text": "Заметки",
+   "fill": "#ffb030"
+  },
+  "timg/caution_02": {
+   "text": "Дом. питомец",
+   "size": 14,
+   "ring": "#ffffff"
+  },
+  "_fit": true
+ },
+ "Atelier.arc": {
+  "_fill": "#ffffff",
+  "_size": 11,
+  "timg/df_00": "Цвет",
+  "timg/df_01": "Сладость",
+  "timg/df_02": "Сочн.",
+  "timg/df_03": "Разм.",
+  "timg/df_06": "Аромат",
+  "_fit": true,
+  "timg/bt_decide_00": {
+   "text": "Принять",
+   "box": [
+    6,
+    8,
+    60,
+    24
+   ],
+   "fill": "#993300",
+   "size": 12,
+   "align": "center",
+   "rowfill": true
+  },
+  "timg/bt_decide_01": {
+   "text": "Принять",
+   "box": [
+    6,
+    8,
+    60,
+    24
+   ],
+   "fill": "#555555",
+   "size": 12,
+   "align": "center",
+   "rowfill": true
+  },
+  "timg/atlr_time_00": {
+   "text": "Дн.",
+   "box": [
+    70,
+    7,
+    108,
+    26
+   ],
+   "rowfill": true,
+   "fill": "#ffffff",
+   "outline": "#771111",
+   "width": 2,
+   "size": 13,
+   "align": "center",
+   "parts": [
+    {
+     "text": "Ч.",
+     "box": [
+      125,
+      7,
+      156,
+      26
+     ]
+    },
+    {
+     "text": "Мин.",
+     "box": [
+      168,
+      7,
+      204,
+      26
+     ]
+    }
+   ]
+  },
+  "timg/comment_atlr_02": {
+   "text": "Время",
+   "box": [
+    45,
+    35,
+    117,
+    48
+   ],
+   "rowfill": 43,
+   "fill": "#ffffff",
+   "size": 11,
+   "align": "center",
+   "parts": [
+    {
+     "text": "Дн.",
+     "box": [
+      66,
+      56,
+      101,
+      78
+     ],
+     "rowfill": false,
+     "fill": "#335555",
+     "size": 12
+    },
+    {
+     "text": "Ч.",
+     "box": [
+      133,
+      56,
+      161,
+      78
+     ],
+     "rowfill": false,
+     "fill": "#335555",
+     "size": 12
+    },
+    {
+     "text": "Мин.",
+     "box": [
+      192,
+      56,
+      226,
+      78
+     ],
+     "rowfill": false,
+     "fill": "#335555",
+     "size": 12
+    }
+   ]
+  },
+  "timg/comment02": {
+   "text": "Кач.",
+   "box": [
+    25,
+    22,
+    73,
+    40
+   ],
+   "fill": "#225555",
+   "size": 18,
+   "align": "center",
+   "dx": 1
+  },
+  "timg/comment_atlr_01": {
+   "text": "Материалы",
+   "box": [
+    42,
+    54,
+    120,
+    70
+   ],
+   "rowfill": 42,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center"
+  },
+  "timg/atlr_bg_01": {
+   "text": "Материалы",
+   "box": [
+    35,
+    -5,
+    112,
+    7
+   ],
+   "rowfill": 35,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center",
+   "erase": [
+    35,
+    0,
+    112,
+    11
+   ],
+   "parts": [
+    {
+     "text": "Применение",
+     "box": [
+      227,
+      -5,
+      301,
+      7
+     ],
+     "erase": [
+      227,
+      0,
+      301,
+      10
+     ],
+     "rowfill": 228,
+     "outline": "#663311",
+     "width": 1,
+     "size": 12
+    }
+   ]
+  }
+ },
+ "Cook.arc": {
+  "_fit": true,
+  "timg/bt_decide_00": {
+   "text": "Принять",
+   "box": [
+    4,
+    8,
+    59,
+    24
+   ],
+   "fill": "#993300",
+   "size": 12,
+   "align": "center",
+   "rowfill": true
+  },
+  "timg/bt_decide_01": {
+   "text": "Принять",
+   "box": [
+    4,
+    8,
+    59,
+    24
+   ],
+   "fill": "#555555",
+   "size": 12,
+   "align": "center",
+   "rowfill": true
+  },
+  "timg/rcp_ttl_00": {
+   "text": "Ингредиенты",
+   "box": [
+    27,
+    8,
+    102,
+    22
+   ],
+   "rowfill": 26,
+   "fill": "#ffffff",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/rcp_ttl_02": {
+   "text": "Взять",
+   "box": [
+    27,
+    8,
+    102,
+    22
+   ],
+   "rowfill": 26,
+   "fill": "#ffffff",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/rcp_ttl_01": {
+   "text": "Начинки",
+   "box": [
+    15,
+    8,
+    114,
+    23
+   ],
+   "rowfill": true,
+   "fill": "#ffffff",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/rcp_ttl_03": {
+   "text": "Добавлено",
+   "box": [
+    15,
+    8,
+    114,
+    22
+   ],
+   "rowfill": 113,
+   "fill": "#ffffff",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/comment_cook_02": {
+   "text": "Начинки",
+   "box": [
+    41,
+    23,
+    137,
+    37
+   ],
+   "rowfill": 40,
+   "fill": "#ffffff",
+   "size": 13,
+   "align": "center"
+  },
+  "timg/comment_cook_01": {
+   "text": "Ингредиенты",
+   "box": [
+    42,
+    54,
+    120,
+    70
+   ],
+   "rowfill": 42,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center"
+  }
+ },
+ "PostOffice.arc": {
+  "_fit": true,
+  "timg/bt_decide_00": {
+   "text": "Принять",
+   "box": [
+    4,
+    8,
+    59,
+    24
+   ],
+   "fill": "#993300",
+   "size": 12,
+   "align": "center",
+   "rowfill": true
+  },
+  "timg/bt_decide_01": {
+   "text": "Принять",
+   "box": [
+    4,
+    8,
+    59,
+    24
+   ],
+   "fill": "#555555",
+   "size": 12,
+   "align": "center",
+   "rowfill": true
+  },
+  "timg/comment_00": {
+   "text": "Подготовка",
+   "box": [
+    35,
+    50,
+    111,
+    65
+   ],
+   "rowfill": 110,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center"
+  }
+ },
+ "ShopIngredient.arc": {
+  "_fit": true,
+  "timg/bt_decide_00": {
+   "text": "Принять",
+   "box": [
+    4,
+    8,
+    59,
+    24
+   ],
+   "fill": "#993300",
+   "size": 12,
+   "align": "center",
+   "rowfill": true
+  },
+  "timg/bt_decide_01": {
+   "text": "Принять",
+   "box": [
+    4,
+    8,
+    59,
+    24
+   ],
+   "fill": "#555555",
+   "size": 12,
+   "align": "center",
+   "rowfill": true
+  },
+  "timg/comment_00": {
+   "text": "Материалы",
+   "box": [
+    36,
+    49,
+    112,
+    66
+   ],
+   "rowfill": true,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center",
+   "parts": [
+    {
+     "text": "Применение",
+     "box": [
+      228,
+      50,
+      300,
+      65
+     ],
+     "fill": "#ffffee",
+     "outline": "#663311",
+     "width": 1,
+     "size": 12
+    }
+   ]
+  }
+ },
+ "Avatar.arc": {
+  "_fill": "auto",
+  "_size": 13,
+  "timg/df_bthdy": "Д.р.",
+  "timg/df_dcsn": "Принять",
+  "timg/df_nm": "Имя",
+  "timg/df_type": "Тип",
+  "timg/menu_00": "Кожа",
+  "timg/menu_01": "Лицо",
+  "timg/menu_02": "Стиль",
+  "timg/menu_03": {
+   "text": "Волосы",
+   "fit": false,
+   "size": 12
+  },
+  "timg/menu_04": "Глаза",
+  "timg/menu_05": "Одежда",
+  "timg/menu_06": "Убор",
+  "timg/menu_07": "Очки",
+  "timg/menu_08": "Муж.",
+  "timg/menu_09": "Жен.",
+  "_fit": true,
+  "timg/df_attribute": {
+   "text": "Кат.",
+   "box": [
+    1,
+    1,
+    30,
+    15
+   ],
+   "fill": "#442200",
+   "size": 11,
+   "align": "center",
+   "rowfill": true
+  },
+  "timg/df_color": {
+   "text": "Цвет",
+   "box": [
+    1,
+    1,
+    34,
+    15
+   ],
+   "fill": "#442200",
+   "size": 11,
+   "align": "center",
+   "rowfill": true
+  }
+ },
+ "Shop.arc": {
+  "_fill": "#ffffff",
+  "_size": 11,
+  "timg/df_00": "Цвет",
+  "timg/df_01": "Сладость",
+  "timg/df_02": "Сочн.",
+  "timg/df_03": "Разм.",
+  "timg/df_06": "Аромат",
+  "_fit": true,
+  "timg/comment02": {
+   "text": "Кач.",
+   "box": [
+    25,
+    22,
+    73,
+    40
+   ],
+   "fill": "#225555",
+   "size": 18,
+   "align": "center",
+   "dx": 1
+  },
+  "timg/comment_shop_01": {
+   "text": "Материалы",
+   "box": [
+    50,
+    50,
+    127,
+    68
+   ],
+   "rowfill": true,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center"
+  }
+ },
+ "CalendarLower.arc": {
+  "_fill": "auto",
+  "_ring": "#ffffff",
+  "_size": 13,
+  "timg/season_spring": {
+   "text": "Весна",
+   "fill": "#ff4f8f"
+  },
+  "timg/season_summer": {
+   "text": "Лето",
+   "fill": "#3fa81e"
+  },
+  "timg/season_autum": {
+   "text": "Осень",
+   "fill": "#ff6a2a"
+  },
+  "timg/season_winter": {
+   "text": "Зима",
+   "fill": "#3a8fd0"
+  },
+  "_fit": true,
+  "timg/y_base": {
+   "text": "Год",
+   "box": [
+    44,
+    8,
+    82,
+    26
+   ],
+   "rowfill": true,
+   "fill": "#225522",
+   "size": 13,
+   "align": "center"
+  }
+ },
+ "CalendarUpper.arc": {
+  "_fill": "auto",
+  "_ring": "#ffffff",
+  "_size": 13,
+  "timg/season_spring": {
+   "text": "Весна",
+   "fill": "#ff4f8f"
+  },
+  "timg/season_summer": {
+   "text": "Лето",
+   "fill": "#3fa81e"
+  },
+  "timg/season_autum": {
+   "text": "Осень",
+   "fill": "#ff6a2a"
+  },
+  "timg/season_winter": {
+   "text": "Зима",
+   "fill": "#3a8fd0"
+  },
+  "_fit": true,
+  "timg/base": {
+   "text": "Год",
+   "box": [
+    118,
+    -2,
+    170,
+    12
+   ],
+   "erase": [
+    118,
+    0,
+    170,
+    12
+   ],
+   "rowfill": 116,
+   "fill": "#553322",
+   "size": 13,
+   "align": "center"
+  }
+ },
+ "PropertyLower.arc": {
+  "_fill": "auto",
+  "_ring": "#ffffff",
+  "_size": 13,
+  "timg/season_spring": {
+   "text": "Весна",
+   "fill": "#ff4f8f"
+  },
+  "timg/season_summer": {
+   "text": "Лето",
+   "fill": "#3fa81e"
+  },
+  "timg/season_autum": {
+   "text": "Осень",
+   "fill": "#ff6a2a"
+  },
+  "timg/season_winter": {
+   "text": "Зима",
+   "fill": "#3a8fd0"
+  },
+  "_fit": true,
+  "timg/df_mon": {
+   "text": "Пн",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_tue": {
+   "text": "Вт",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_wed": {
+   "text": "Ср",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_thu": {
+   "text": "Чт",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_fri": {
+   "text": "Пт",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_sat": {
+   "text": "Сб",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#225577",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_sun": {
+   "text": "Вс",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#aa0044",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/y_base": {
+   "text": "Год",
+   "box": [
+    34,
+    8,
+    80,
+    26
+   ],
+   "rowfill": true,
+   "fill": "#225522",
+   "size": 13,
+   "align": "center"
+  }
+ },
+ "SaveloadLower.arc": {
+  "_fill": "auto",
+  "_ring": "#ffffff",
+  "_size": 13,
+  "timg/season_spring": {
+   "text": "Весна",
+   "fill": "#ff4f8f"
+  },
+  "timg/season_summer": {
+   "text": "Лето",
+   "fill": "#3fa81e"
+  },
+  "timg/season_autum": {
+   "text": "Осень",
+   "fill": "#ff6a2a"
+  },
+  "timg/season_winter": {
+   "text": "Зима",
+   "fill": "#3a8fd0"
+  },
+  "_fit": true
+ },
+ "Equip.arc": {
+  "_icon": true,
+  "_fill": "#ffffff",
+  "_size": 12,
+  "timg/x_button": "Съесть",
+  "timg/y_storing": {
+   "text": "Убрать",
+   "cut": 17
+  },
+  "_fit": true
+ },
+ "ListSelect.arc": {
+  "_fill": "auto",
+  "_size": 12,
+  "timg/Order": "В заказе",
+  "timg/prepared": "ГОТОВО",
+  "timg/u_title_3": "Победы",
+  "_fit": true
+ },
+ "TabReceive.arc": {
+  "_fill": "auto",
+  "_size": 13,
+  "timg/r_title_00": "Сумка",
+  "timg/r_title_02": "Склад",
+  "timg/r_title_03": "Силос",
+  "_fit": true
+ },
+ "TownCommunication.arc": {
+  "_fill": "#cc2200",
+  "_ring": "#ffffff",
+  "_size": 13,
+  "_fit": true,
+  "timg/ttl_04": "О жителях",
+  "timg/ttl_07": "Ранг связи"
+ },
+ "Training.arc": {
+  "_fill": "#33aa55",
+  "_size": 11,
+  "_fit": true,
+  "timg/df_00": "ПОИСК",
+  "_ring": "#3355aa"
+ },
+ "LowerMsg.arc": {
+  "_fill": "auto",
+  "_size": 13,
+  "timg/df_00": "Детали",
+  "_fit": true
+ },
+ "Arbeit.arc": {
+  "_fill": "#ffcc22",
+  "_ring": "#0066cc",
+  "_size": 16,
+  "_fit": true,
+  "timg/df_arbeit": "Работа"
+ },
+ "PropertyUpper.arc": {
+  "_fill": "auto",
+  "_size": 13,
+  "timg/Meeting_00_00": {
+   "text": "Участие в праздниках",
+   "align": "left"
+  },
+  "timg/Meeting_00_01": {
+   "text": "Победы",
+   "align": "left"
+  },
+  "timg/fishing_00_00": {
+   "text": "Поймано рыбы",
+   "align": "left"
+  },
+  "timg/fishing_00_01": {
+   "text": "Самый частый улов",
+   "align": "left"
+  },
+  "timg/crops_00_00": {
+   "text": "Чаще всего собрано",
+   "align": "left"
+  },
+  "timg/crops_00_01": {
+   "text": "Золотой урожай",
+   "align": "left"
+  },
+  "timg/crops_00_02": {
+   "text": "Гигантский урожай",
+   "align": "left"
+  },
+  "timg/crops_00_03": {
+   "text": "Гигантский золотой",
+   "align": "left"
+  },
+  "timg/shipment_00_00": {
+   "text": "Продано в Уэстаун",
+   "align": "left"
+  },
+  "timg/shipment_00_01": {
+   "text": "Продано в Цуюкусу",
+   "align": "left"
+  },
+  "timg/shipment_00_02": {
+   "text": "Продано в Лулукоко",
+   "align": "left"
+  },
+  "timg/shipment_01_00": {
+   "text": "Отгрузок в Уэстаун",
+   "align": "left"
+  },
+  "timg/shipment_01_01": {
+   "text": "Отгрузок в Цуюкусу",
+   "align": "left"
+  },
+  "timg/shipment_01_02": {
+   "text": "Отгрузок в Лулукоко",
+   "align": "left"
+  },
+  "timg/ttl_00": {
+   "text": "Профиль",
+   "ring": "#dd3311",
+   "size": 15,
+   "fill": "#ffffff"
+  },
+  "timg/ttl_01": {
+   "text": "Семья",
+   "ring": "#dd3311",
+   "size": 15,
+   "fill": "#ffffff"
+  },
+  "timg/ttl_02": {
+   "text": "Урожай",
+   "ring": "#dd3311",
+   "size": 15,
+   "fill": "#ffffff"
+  },
+  "timg/ttl_03": {
+   "text": "Доход",
+   "ring": "#dd3311",
+   "size": 15,
+   "fill": "#ffffff"
+  },
+  "timg/ttl_05": {
+   "text": "Отгрузки",
+   "ring": "#dd3311",
+   "size": 15,
+   "fill": "#ffffff"
+  },
+  "timg/ttl_06": {
+   "text": "Праздники",
+   "ring": "#dd3311",
+   "size": 15,
+   "fill": "#ffffff"
+  },
+  "timg/ttl_07": {
+   "text": "Животные",
+   "ring": "#dd3311",
+   "size": 15,
+   "fill": "#ffffff"
+  },
+  "timg/ttl_08": {
+   "text": "Рыбалка",
+   "ring": "#dd3311",
+   "size": 15,
+   "fill": "#ffffff"
+  },
+  "timg/ani_00_00": {
+   "text": "Коровы",
+   "align": "left"
+  },
+  "timg/ani_00_01": {
+   "text": "Овцы",
+   "align": "left"
+  },
+  "timg/ani_00_02": {
+   "text": "Альпаки",
+   "align": "left"
+  },
+  "timg/ani_00_03": {
+   "text": "Ламы",
+   "align": "left"
+  },
+  "timg/ani_00_04": {
+   "text": "Кролики",
+   "align": "left"
+  },
+  "timg/ani_00_05": {
+   "text": "Куры",
+   "align": "left"
+  },
+  "timg/ani_00_06": {
+   "text": "Звери",
+   "align": "left"
+  },
+  "timg/ani_00_07": {
+   "text": "Лошади",
+   "align": "left"
+  },
+  "timg/crops_01_00": {
+   "text": "Полевые",
+   "align": "left"
+  },
+  "timg/crops_01_01": {
+   "text": "Плодовые",
+   "align": "left"
+  },
+  "timg/crops_01_02": {
+   "text": "Цветы",
+   "align": "left"
+  },
+  "timg/crops_01_03": {
+   "text": "Ткани",
+   "align": "left"
+  },
+  "timg/crops_01_04": {
+   "text": "Злаки",
+   "align": "left"
+  },
+  "timg/crops_01_05": {
+   "text": "Рис",
+   "align": "left"
+  },
+  "timg/crops_01_06": {
+   "text": "Пряности",
+   "align": "left"
+  },
+  "timg/crops_01_07": {
+   "text": "Чай",
+   "align": "left"
+  },
+  "timg/crops_01_08": {
+   "text": "Удой",
+   "align": "left"
+  },
+  "timg/crops_01_09": {
+   "text": "Яйца",
+   "align": "left"
+  },
+  "timg/crops_01_10": {
+   "text": "Шерсть",
+   "align": "left"
+  },
+  "timg/crops_01_11": {
+   "text": "Альпака",
+   "align": "left"
+  },
+  "timg/crops_01_12": {
+   "text": "Кр. мех",
+   "align": "left"
+  },
+  "timg/crops_01_13": {
+   "text": "Лама",
+   "align": "left"
+  },
+  "timg/crops_01_14": {
+   "text": "Мёд",
+   "align": "left"
+  },
+  "timg/crops_01_15": {
+   "text": "Грибы",
+   "align": "left"
+  },
+  "timg/crops_01_16": {
+   "text": "Дерево",
+   "align": "left"
+  },
+  "timg/crops_01_17": {
+   "text": "Выращ.",
+   "align": "left"
+  },
+  "timg/crops_01_18": {
+   "text": "Добыто",
+   "align": "left"
+  },
+  "timg/crops_01_19": {
+   "text": "Собрано",
+   "align": "left"
+  },
+  "timg/crops_01_20": {
+   "text": "Прочее",
+   "align": "left"
+  },
+  "_fit": true,
+  "timg/df_00": {
+   "text": "Имя",
+   "box": [
+    10,
+    8,
+    64,
+    24
+   ],
+   "rowfill": 10,
+   "fill": "#664422",
+   "size": 12,
+   "align": "center"
+  },
+  "timg/df_01": {
+   "text": "Ферма",
+   "box": [
+    10,
+    8,
+    64,
+    24
+   ],
+   "rowfill": 10,
+   "fill": "#664422",
+   "size": 12,
+   "align": "center"
+  },
+  "timg/df_02": {
+   "text": "Д.р.",
+   "box": [
+    10,
+    8,
+    64,
+    24
+   ],
+   "rowfill": 10,
+   "fill": "#664422",
+   "size": 12,
+   "align": "center"
+  },
+  "timg/df_03": {
+   "text": "Игра",
+   "box": [
+    10,
+    8,
+    64,
+    24
+   ],
+   "rowfill": 10,
+   "fill": "#664422",
+   "size": 12,
+   "align": "center"
+  },
+  "timg/df_04": {
+   "text": "Титул",
+   "box": [
+    10,
+    8,
+    64,
+    24
+   ],
+   "rowfill": 10,
+   "fill": "#664422",
+   "size": 12,
+   "align": "center"
+  },
+  "timg/df_05": {
+   "text": "Тип",
+   "box": [
+    10,
+    8,
+    64,
+    24
+   ],
+   "rowfill": 10,
+   "fill": "#664422",
+   "size": 12,
+   "align": "center"
+  },
+  "timg/df_06": {
+   "text": "Годовщ.",
+   "box": [
+    10,
+    8,
+    64,
+    24
+   ],
+   "rowfill": 10,
+   "fill": "#664422",
+   "size": 12,
+   "align": "center"
+  }
+ },
+ "Competition.arc": {
+  "timg/w1": {
+   "text": "Макс.",
+   "box": [
+    108,
+    7,
+    142,
+    26
+   ],
+   "rowfill": true,
+   "fill": "#ff9922",
+   "outline": "#884400",
+   "width": 2,
+   "size": 12,
+   "align": "center",
+   "parts": [
+    {
+     "text": "см",
+     "box": [
+      180,
+      7,
+      206,
+      26
+     ]
+    }
+   ]
+  }
+ },
+ "Achievement.arc": {
+  "timg/base": {
+   "text": "Готово",
+   "box": [
+    34,
+    17,
+    95,
+    30
+   ],
+   "rowfill": 33,
+   "fill": "#ffffff",
+   "outline": "#112233",
+   "width": 1,
+   "size": 11,
+   "align": "center"
+  }
+ },
+ "CalendarWeekLower.arc": {
+  "timg/df_mon": {
+   "text": "Пн",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_tue": {
+   "text": "Вт",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_wed": {
+   "text": "Ср",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_thu": {
+   "text": "Чт",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_fri": {
+   "text": "Пт",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_sat": {
+   "text": "Сб",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#225577",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_sun": {
+   "text": "Вс",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#aa0044",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  }
+ },
+ "CalendarWeekUpper.arc": {
+  "timg/df_mon": {
+   "text": "Пн",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_tue": {
+   "text": "Вт",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_wed": {
+   "text": "Ср",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_thu": {
+   "text": "Чт",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_fri": {
+   "text": "Пт",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#116677",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_sat": {
+   "text": "Сб",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#225577",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/df_sun": {
+   "text": "Вс",
+   "box": [
+    21,
+    8,
+    44,
+    24
+   ],
+   "rowfill": 19,
+   "fill": "#aa0044",
+   "outline": "#ffffee",
+   "width": 1,
+   "size": 13,
+   "align": "center"
+  },
+  "timg/week_base_up": {
+   "text": "Расписание",
+   "box": [
+    100,
+    -2,
+    316,
+    12
+   ],
+   "erase": [
+    100,
+    0,
+    316,
+    13
+   ],
+   "rowfill": 150,
+   "fill": "#ffffff",
+   "outline": "#553322",
+   "width": 2,
+   "size": 14,
+   "align": "center",
+   "parts": [
+    {
+     "text": "День",
+     "box": [
+      52,
+      34,
+      90,
+      49
+     ],
+     "rowfill": 100,
+     "fill": "#553322",
+     "outline": null,
+     "size": 13
+    },
+    {
+     "text": "Событие",
+     "box": [
+      92,
+      34,
+      244,
+      49
+     ],
+     "rowfill": 100,
+     "fill": "#553322",
+     "outline": null,
+     "size": 13
+    },
+    {
+     "text": "Д. рождения",
+     "box": [
+      250,
+      34,
+      352,
+      49
+     ],
+     "rowfill": 100,
+     "fill": "#553322",
+     "outline": null,
+     "size": 13,
+     "erase": [
+      250,
+      34,
+      348,
+      49
+     ]
+    }
+   ]
+  }
+ },
+ "SaveloadUpper.arc": {
+  "timg/df_00": {
+   "text": "Сохранить",
+   "box": [
+    24,
+    18,
+    104,
+    42
+   ],
+   "fill": "#dd66ff",
+   "outline": "#662299",
+   "width": 2,
+   "size": 13,
+   "align": "center",
+   "rowfill": "outside",
+   "erase": [
+    24,
+    18,
+    104,
+    41
+   ]
+  },
+  "timg/df_01": {
+   "text": "Загрузить",
+   "box": [
+    26,
+    18,
+    104,
+    42
+   ],
+   "fill": "#ccee22",
+   "outline": "#116677",
+   "width": 2,
+   "size": 13,
+   "align": "center",
+   "rowfill": "outside"
+  },
+  "timg/df_02": {
+   "text": "В главное меню",
+   "box": [
+    70,
+    20,
+    190,
+    38
+   ],
+   "fill": "#ffdd22",
+   "outline": "#ee3300",
+   "width": 2,
+   "size": 13,
+   "align": "center",
+   "rowfill": "inner"
+  },
+  "timg/df_03": {
+   "text": "Настройки",
+   "box": [
+    24,
+    18,
+    104,
+    42
+   ],
+   "fill": "#55ccff",
+   "outline": "#2255aa",
+   "width": 2,
+   "size": 13,
+   "align": "center",
+   "rowfill": "outside"
+  }
+ },
+ "TitleLower.arc": {
+  "_fit": true,
+  "timg/touch": {
+   "text": "КОСНИТЕСЬ",
+   "fill": "#66e0e0",
+   "size": 18
+  }
+ },
+ "PanelHelp.arc": {
+  "timg/help_00": {
+   "text": "Взять",
+   "box": [
+    22,
+    11,
+    112,
+    31
+   ],
+   "rowfill": 100,
+   "fill": "#ffffff",
+   "outline": "#225555",
+   "width": 2,
+   "size": 12,
+   "align": "left",
+   "parts": [
+    {
+     "text": "Прыжок",
+     "box": [
+      134,
+      11,
+      218,
+      31
+     ],
+     "rowfill": 100
+    },
+    {
+     "text": "Запас",
+     "box": [
+      240,
+      11,
+      325,
+      31
+     ],
+     "rowfill": 100
+    },
+    {
+     "text": "Конец",
+     "box": [
+      347,
+      11,
+      398,
+      31
+     ],
+     "rowfill": 100
+    }
+   ],
+   "dy": 1
+  },
+  "timg/help_01": {
+   "text": "Положить",
+   "box": [
+    21,
+    11,
+    94,
+    31
+   ],
+   "rowfill": 90,
+   "fill": "#ffffff",
+   "outline": "#225555",
+   "width": 2,
+   "size": 12,
+   "align": "left",
+   "parts": [
+    {
+     "text": "Прыжок",
+     "box": [
+      114,
+      11,
+      165,
+      31
+     ],
+     "rowfill": 90
+    },
+    {
+     "text": "Запас",
+     "box": [
+      184,
+      11,
+      237,
+      31
+     ],
+     "rowfill": 90
+    },
+    {
+     "text": "Убрать",
+     "box": [
+      256,
+      11,
+      333,
+      31
+     ],
+     "rowfill": 90
+    },
+    {
+     "text": "Повор.",
+     "box": [
+      355,
+      11,
+      399,
+      31
+     ],
+     "rowfill": 90
+    }
+   ],
+   "dy": 1
+  }
+ },
+ "Trophy.arc": {},
+ "BirthdayLower.arc": {},
+ "QuestUpper.arc": {
+  "_fit": true,
+  "timg/bg_00": {
+   "text": "Клиент",
+   "box": [
+    229,
+    42,
+    274,
+    58
+   ],
+   "rowfill": 228,
+   "fill": "#ffffff",
+   "outline": "#2a5566",
+   "width": 1,
+   "size": 12,
+   "align": "center",
+   "parts": [
+    {
+     "text": "Плата",
+     "box": [
+      28,
+      118,
+      88,
+      134
+     ],
+     "erase": [
+      30,
+      119,
+      60,
+      133
+     ],
+     "rowfill": "lerp",
+     "fill": "#1a6f80",
+     "outline": null,
+     "size": 12
+    },
+    {
+     "text": "Подсказка",
+     "box": [
+      28,
+      172,
+      88,
+      190
+     ],
+     "erase": [
+      32,
+      175,
+      69,
+      188
+     ],
+     "rowfill": "lerp",
+     "fill": "#1a6f80",
+     "outline": null,
+     "size": 12
+    }
+   ]
+  },
+  "timg/bg_01": {
+   "text": "Клиент",
+   "box": [
+    229,
+    42,
+    274,
+    58
+   ],
+   "rowfill": 228,
+   "fill": "#ffffff",
+   "outline": "#2a5566",
+   "width": 1,
+   "size": 12,
+   "align": "center",
+   "parts": [
+    {
+     "text": "Плата",
+     "box": [
+      28,
+      118,
+      88,
+      134
+     ],
+     "erase": [
+      30,
+      119,
+      60,
+      133
+     ],
+     "rowfill": "lerp",
+     "fill": "#7b3700",
+     "outline": null,
+     "size": 12
+    },
+    {
+     "text": "Подсказка",
+     "box": [
+      28,
+      172,
+      88,
+      190
+     ],
+     "erase": [
+      32,
+      175,
+      69,
+      188
+     ],
+     "rowfill": "lerp",
+     "fill": "#7b3700",
+     "outline": null,
+     "size": 12
+    }
+   ]
+  }
  }
 }
