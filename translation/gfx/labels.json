@@ -563,6 +563,59 @@
    "size": 18,
    "align": "center",
    "dx": 1
+  },
+  "timg/comment_atlr_01": {
+   "text": "Материалы",
+   "box": [
+    42,
+    54,
+    120,
+    70
+   ],
+   "rowfill": 42,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center"
+  },
+  "timg/atlr_bg_01": {
+   "text": "Материалы",
+   "box": [
+    35,
+    -5,
+    112,
+    7
+   ],
+   "rowfill": 35,
+   "fill": "#ffffee",
+   "size": 13,
+   "align": "center",
+   "erase": [
+    35,
+    0,
+    112,
+    11
+   ],
+   "parts": [
+    {
+     "text": "Применение",
+     "box": [
+      227,
+      -5,
+      301,
+      7
+     ],
+     "erase": [
+      227,
+      0,
+      301,
+      10
+     ],
+     "rowfill": 228,
+     "outline": "#663311",
+     "width": 1,
+     "size": 12
+    }
+   ]
   }
  },
  "Cook.arc": {
@@ -659,6 +712,19 @@
    ],
    "rowfill": 40,
    "fill": "#ffffff",
+   "size": 13,
+   "align": "center"
+  },
+  "timg/comment_cook_01": {
+   "text": "Ингредиенты",
+   "box": [
+    42,
+    54,
+    120,
+    70
+   ],
+   "rowfill": 42,
+   "fill": "#ffffee",
    "size": 13,
    "align": "center"
   }
@@ -902,7 +968,26 @@
    "text": "Зима",
    "fill": "#3a8fd0"
   },
-  "_fit": true
+  "_fit": true,
+  "timg/base": {
+   "text": "Год",
+   "box": [
+    118,
+    -2,
+    170,
+    12
+   ],
+   "erase": [
+    118,
+    0,
+    170,
+    12
+   ],
+   "rowfill": 116,
+   "fill": "#553322",
+   "size": 13,
+   "align": "center"
+  }
  },
  "PropertyLower.arc": {
   "_fill": "auto",
@@ -1694,6 +1779,68 @@
    "width": 1,
    "size": 13,
    "align": "center"
+  },
+  "timg/week_base_up": {
+   "text": "Расписание",
+   "box": [
+    100,
+    -2,
+    316,
+    12
+   ],
+   "erase": [
+    100,
+    0,
+    316,
+    13
+   ],
+   "rowfill": 150,
+   "fill": "#ffffff",
+   "outline": "#553322",
+   "width": 2,
+   "size": 14,
+   "align": "center",
+   "parts": [
+    {
+     "text": "День",
+     "box": [
+      52,
+      34,
+      90,
+      49
+     ],
+     "rowfill": 100,
+     "fill": "#553322",
+     "outline": null,
+     "size": 13
+    },
+    {
+     "text": "Событие",
+     "box": [
+      92,
+      34,
+      244,
+      49
+     ],
+     "rowfill": 100,
+     "fill": "#553322",
+     "outline": null,
+     "size": 13
+    },
+    {
+     "text": "День рождения",
+     "box": [
+      250,
+      34,
+      352,
+      49
+     ],
+     "rowfill": 100,
+     "fill": "#553322",
+     "outline": null,
+     "size": 13
+    }
+   ]
   }
  },
  "SaveloadUpper.arc": {
